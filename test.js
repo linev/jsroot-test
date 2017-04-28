@@ -11,10 +11,27 @@ var keyid = 'TH1', optid = -1, entry_name = "", testfile = null, testobj = null;
 
 
 function ProduceSVG(obj, opt) {
-   jsroot.MakeSVG( { object: obj, option: opt, width: 1200, height: 800 }, function(res) {
+   jsroot.MakeSVG( { object: obj, option: opt, width: 1200, height: 800 }, function(svg) {
+   
+      if (!entry_name) entry_name = keyid;
       
-      console.log(keyid, entry_name, 'result', res.length);
+      entry_name = entry_name.replace(/\+/g,'p');
+
+      if (fs.accessSync(keyid)) fs.mkdirSync(keyid);
       
+      
+      var svgname = keyid + "/" + entry_name + ".svg";
+      
+      var svg0 = fs.readFileSync(svgname, 'utf-8'), result = "NEW";
+      
+      if (svg0 && svg0==svg) result = "MATCH"; else
+      if (svg0 && svg0!=svg) result = "DIFF";
+      
+      console.log(keyid, entry_name, 'result', result, 'len', svg.length);
+      
+      if (result === "NEW")
+         fs.writeFileSync(svgname, svg);
+
       ProcessNextOption();
    });
 }
@@ -46,6 +63,8 @@ function ProcessNextOption() {
    }
    
    var entry = opts[optid];
+   
+   entry_name = "";
 
    // exclude some entries from the test
    if (entry.notest) return ProcessNextOption();

@@ -14,12 +14,12 @@ Clone JSROOT repository on the same level as this one:
 
 Install all necessary modules:
 
-   [shell] cd jsroot-test
-   [shell] npm install
+    [shell] cd jsroot-test
+    [shell] npm install
 
 Run tests:
 
-   [shell] node test.js
+    [shell] node test.js
 
 
 
