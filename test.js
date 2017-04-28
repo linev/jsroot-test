@@ -1,14 +1,24 @@
 var jsroot = require("jsroot");
 var fs = require("fs");
-//require("/home/linev/git/jsroot/demo/examples.js");
 require("./../jsroot/demo/examples.js");
 
 console.log('JSROOT version', jsroot.version);
 
-console.log('examples', typeof examples_main);
+var test_mode = "verify";
+
+if (process.argv && (process.argv.length > 2)) {
+   switch (process.argv[2]) {
+     case "-v":
+     case "--verify":  test_mode = "verify"; break; 
+     case "-c":
+     case "--create":  test_mode = "create"; break; 
+     default:
+        console.log('Usage: node test.js [-v|-c]');
+        return;
+   }
+} 
 
 var keyid = 'TH1', optid = -1, entry_name = "", testfile = null, testobj = null; // it is always first key 
-
 
 function ProduceSVG(obj, opt) {
    jsroot.MakeSVG( { object: obj, option: opt, width: 1200, height: 800 }, function(svg) {
@@ -19,7 +29,6 @@ function ProduceSVG(obj, opt) {
 
       if (fs.accessSync(keyid)) fs.mkdirSync(keyid);
       
-      
       var svgname = keyid + "/" + entry_name + ".svg";
       
       var svg0 = fs.readFileSync(svgname, 'utf-8'), result = "NEW";
@@ -29,7 +38,7 @@ function ProduceSVG(obj, opt) {
       
       console.log(keyid, entry_name, 'result', result, 'len', svg.length);
       
-      if (result === "NEW")
+      if ((result === "NEW") || (test_mode === 'create'))
          fs.writeFileSync(svgname, svg);
 
       ProcessNextOption();
@@ -55,10 +64,8 @@ function ProcessNextOption() {
           if (key == keyid) found = true;
       }
       
-      keyid = null;
-      console.log('enough');
-      
-      // keyid = next;
+      keyid = next;
+      keyid = null; // just for debug purposes - stop with first key
       return ProcessNextOption();
    }
    

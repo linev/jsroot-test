@@ -17,9 +17,13 @@ Install all necessary modules:
     [shell] cd jsroot-test
     [shell] npm install
 
-Run tests:
+Run tests and verify test SVG files:
 
-    [shell] node test.js
+    [shell] node test.js [--verify]
+
+Run tests and overwrite test SVG files:
+
+    [shell] node test.js --create
 
 
 
