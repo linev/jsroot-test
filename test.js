@@ -26,22 +26,31 @@ function ProduceSVG(obj, opt) {
       if (!entry_name) entry_name = keyid;
       
       entry_name = entry_name.replace(/\+/g,'p');
+      
+      fs.access(keyid, fs.constants.W_OK, function(dir_err) {
+         
+         if (dir_err) fs.mkdirSync(keyid);
+         
+         var svgname = keyid + "/" + entry_name + ".svg",
+             svg0 = null, result = "MATCH";
+         
+         try {
+           svg0 = fs.readFileSync(svgname, 'utf-8');
+           if (svg0!=svg) result = "DIFF";
+         } catch(e) {
+           svg0 = null;
+           result = "NEW"; 
+         }
+         
+         console.log(keyid, entry_name, 'result', result, 'len', svg.length);
+         
+         if ((result === "NEW") || ((test_mode === 'create') && (result!=='MATCH')))
+            fs.writeFileSync(svgname, svg);
 
-      if (fs.accessSync(keyid)) fs.mkdirSync(keyid);
+         ProcessNextOption();
+         
+      }); 
       
-      var svgname = keyid + "/" + entry_name + ".svg";
-      
-      var svg0 = fs.readFileSync(svgname, 'utf-8'), result = "NEW";
-      
-      if (svg0 && svg0==svg) result = "MATCH"; else
-      if (svg0 && svg0!=svg) result = "DIFF";
-      
-      console.log(keyid, entry_name, 'result', result, 'len', svg.length);
-      
-      if ((result === "NEW") || (test_mode === 'create'))
-         fs.writeFileSync(svgname, svg);
-
-      ProcessNextOption();
    });
 }
 
@@ -65,7 +74,7 @@ function ProcessNextOption() {
       }
       
       keyid = next;
-      keyid = null; // just for debug purposes - stop with first key
+      if (keyid=="TH3") keyid = null; // just for debug purposes - stop with first key
       return ProcessNextOption();
    }
    
