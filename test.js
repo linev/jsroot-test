@@ -4,7 +4,7 @@ require("./../jsroot/demo/examples.js");
 
 console.log('JSROOT version', jsroot.version);
 
-var test_mode = "verify";
+var test_mode = "verify", nmatch = 0, ndiff = 0, nnew = 0;
 
 if (process.argv && (process.argv.length > 2)) {
    switch (process.argv[2]) {
@@ -41,6 +41,9 @@ function ProduceSVG(obj, opt) {
            svg0 = null;
            result = "NEW"; 
          }
+         
+         if (result === "NEW") nnew++; else
+         if (result === "DIFF") ndiff++; else nmatch++;
 
          console.log(keyid, entry_name, 'result', result, 'len='+svg.length, (svg0 && result=='DIFF' ? 'rel0='+(svg.length/svg0.length*100).toFixed(1)+'\%' : ''));
 
@@ -59,6 +62,7 @@ function ProcessNextOption() {
 
    if (!keyid) {
       console.log('No more data to process');
+      console.log("SUMMARY: match", nmatch, "diff", ndiff, "new", nnew);
       return;
    }
    
