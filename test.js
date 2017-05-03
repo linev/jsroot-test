@@ -41,14 +41,14 @@ function ProduceSVG(obj, opt) {
            svg0 = null;
            result = "NEW"; 
          }
-         
-         console.log(keyid, entry_name, 'result', result, 'len', svg.length);
-         
+
+         console.log(keyid, entry_name, 'result', result, 'len='+svg.length, (svg0 && result=='DIFF' ? 'rel0='+(svg.length/svg0.length*100).toFixed(1)+'\%' : ''));
+
          if ((result === "NEW") || ((test_mode === 'create') && (result!=='MATCH')))
             fs.writeFileSync(svgname, svg);
 
          ProcessNextOption();
-         
+
       }); 
       
    });
