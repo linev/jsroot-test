@@ -4,23 +4,47 @@ require("./../jsroot/demo/examples.js");
 
 console.log('JSROOT version', jsroot.version);
 
-var test_mode = "verify", nmatch = 0, ndiff = 0, nnew = 0;
+var test_mode = "verify", nmatch = 0, ndiff = 0, nnew = 0,
+    keyid = 'TH1', theonlykey = false, optid = -1, theonlyoption = -100, itemid = -1, 
+    entry, entry_name = "", testfile = null, testobj = null;  
+
 
 if (process.argv && (process.argv.length > 2)) {
-   switch (process.argv[2]) {
-     case "-v":
-     case "--verify":  test_mode = "verify"; break; 
-     case "-c":
-     case "--create":  test_mode = "create"; break; 
-     default:
-        console.log('Usage: node test.js [-v|-c]');
-        return;
-   }
+   
+   for (var cnt=2;cnt<process.argv.length;++cnt)
+      switch (process.argv[cnt]) {
+        case "-v":
+        case "--verify":  test_mode = "verify"; break; 
+        case "-c":
+        case "--create": test_mode = "create"; break; 
+        case "-k":
+        case "--key":
+           keyid = process.argv[++cnt];
+           theonlykey = true;
+           if (!keyid || !examples_main[keyid])
+              return console.log('Key not found', keyid);
+           break; 
+        case "-o":
+        case "--opt":
+           theonlyoption = parseInt(process.argv[++cnt]);
+           if (isNaN(theonlyoption) || (theonlyoption<0) || !examples_main[keyid][theonlyoption])
+              return console.log('wrong options for key', theonlyoption);
+           
+           console.log('Select option', theonlyoption);
+           break; 
+        default:
+           console.log('Usage: node test.js [-v|-c|-k keyname]');
+           return;
+      }
 } 
 
-var keyid = 'TH1', optid = -1, entry, entry_name = "", testfile = null, testobj = null; // it is always first key 
 
 function ProduceSVG(obj, opt) {
+
+   // use only for object reading
+   if ((theonlyoption>=0) && theonlyoption!==optid)
+      return ProcessNextOption();
+   
    jsroot.MakeSVG( { object: obj, option: opt, width: 1200, height: 800 }, function(svg) {
    
       if (!entry_name) entry_name = keyid;
@@ -72,18 +96,28 @@ function ProcessNextOption() {
    var opts = examples_main[keyid];
    if (!opts) return;
    
-   if (++optid>=opts.length) {
-      optid = -1;
-      var found = false, next = null;
-      for (var key in examples_main) {
-          if (found) { next = key; break; }
-          if (key == keyid) found = true;
+   if (itemid>=0) {
+      if (++itemid>=opts[optid].items.length) itemid = -1;
+   }
+   
+   if (itemid<0) { // first check that all items are processed
+      if (theonlyoption == optid) {
+         keyid = null;
+         return ProcessNextOption();
       }
-      
-      keyid = next;
-      if (keyid=="TH3") keyid = null; // just for debug purposes - stop with first key
-      // keyid = null;
-      return ProcessNextOption();
+      if (++optid>=opts.length) {
+         optid = -1;
+         var found = false, next = null;
+         for (var key in examples_main) {
+            if (found) { next = key; break; }
+            if (key == keyid) found = true;
+         }
+
+         keyid = next;
+         if (keyid=="TH3") keyid = null; // just for debug purposes - stop with first key
+         if (theonlykey) keyid = null;
+         return ProcessNextOption();
+      }
    }
    
    entry = opts[optid];
@@ -106,6 +140,11 @@ function ProcessNextOption() {
       jsonname = entry.json;
       if ((jsonname.indexOf("http:")<0) && (jsonname.indexOf("https:")<0)) jsonname = filepath + jsonname;
    }
+   if (entry.items) {
+      if (itemid<0) itemid = 0;
+      itemname = entry.items[itemid];
+      if (entry.opts && (itemid < entry.opts.length)) opt = entry.opts[itemid]; 
+   }
    
    if (entry.url) url = entry.url.replace(/\$\$\$/g, filepath); else
    if (entry.asurl) {
@@ -116,6 +155,9 @@ function ProcessNextOption() {
    
    if (opt=='inspect') return ProcessNextOption();
 
+   if (itemid >= 0)
+      entry_name = (entry.name || keyid) + "_" + itemname + (opt ? "_" + opt : "");
+   else
    if ('name' in entry)
       entry_name = entry.name;
    else
@@ -123,10 +165,7 @@ function ProcessNextOption() {
    
    if (url.length > 0) {   
       testfile = testobj = null;
-      
-      console.log('Ignore url', url);
       return ProcessNextOption();
-      
    } else   
    if (jsonname.length > 0) {
       testfile = testobj = null;
