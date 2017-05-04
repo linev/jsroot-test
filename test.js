@@ -82,6 +82,7 @@ function ProcessNextOption() {
       
       keyid = next;
       if (keyid=="TH3") keyid = null; // just for debug purposes - stop with first key
+      // keyid = null;
       return ProcessNextOption();
    }
    
@@ -129,14 +130,10 @@ function ProcessNextOption() {
    } else   
    if (jsonname.length > 0) {
       testfile = testobj = null;
-      
-      console.log('Ignore JSON', jsonname);
-      return ProcessNextOption();
-      
-      //JSROOT.NewHttpRequest(jsonname, 'object', function(obj) {
-      //   testobj = obj;
-      //   JSROOT.draw("viewer", obj, opt, RunBigTest);
-      //}).send();
+      jsroot.NewHttpRequest(jsonname, 'object', function(obj) {
+         testobj = obj;
+         ProduceSVG(testobj, opt);
+      }).send();
    } else  
    if (filename.length > 0) {
        jsroot.OpenFile(filename, function(file) {
