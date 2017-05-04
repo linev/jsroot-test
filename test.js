@@ -38,6 +38,41 @@ if (process.argv && (process.argv.length > 2)) {
       }
 } 
 
+function ProduceFile(content, extension) {
+   if (!entry_name) entry_name = keyid;
+   
+   entry_name = entry_name.replace(/\+/g,'p');
+   
+   fs.access(keyid, fs.constants.W_OK, function(dir_err) {
+      
+      if (dir_err) fs.mkdirSync(keyid);
+      
+      var svgname = keyid + "/" + entry_name + extension,
+          svg0 = null, result = "MATCH";
+      
+      try {
+        svg0 = fs.readFileSync(svgname, 'utf-8');
+        if (svg0 != content) result = "DIFF";
+      } catch(e) {
+        svg0 = null;
+        result = "NEW"; 
+      }
+      
+      switch (result) {
+         case "NEW": nnew++; break;
+         case "DIFF": if (!entry.random) ndiff++; break;
+         default: nmatch++;
+      }
+
+      console.log(keyid, entry_name, 'result', result, 'len='+content.length, (svg0 && result=='DIFF' ? 'rel0='+(content.length/svg0.length*100).toFixed(1)+'\%' : ''));
+
+      if ((result === "NEW") || ((test_mode === 'create') && (result!=='MATCH')))
+         fs.writeFileSync(svgname, content);
+      
+      ProcessNextOption();
+   });
+}
+
 
 function ProduceSVG(obj, opt) {
 
@@ -46,41 +81,22 @@ function ProduceSVG(obj, opt) {
       return ProcessNextOption();
    
    jsroot.MakeSVG( { object: obj, option: opt, width: 1200, height: 800 }, function(svg) {
+      ProduceFile(svg, ".svg");
+   });
+}
+
+function ProduceJSON(tree, opt, branchname) {
+   if (!tree) return ProcessNextOption();
    
-      if (!entry_name) entry_name = keyid;
-      
-      entry_name = entry_name.replace(/\+/g,'p');
-      
-      fs.access(keyid, fs.constants.W_OK, function(dir_err) {
-         
-         if (dir_err) fs.mkdirSync(keyid);
-         
-         var svgname = keyid + "/" + entry_name + ".svg",
-             svg0 = null, result = "MATCH";
-         
-         try {
-           svg0 = fs.readFileSync(svgname, 'utf-8');
-           if (svg0!=svg) result = "DIFF";
-         } catch(e) {
-           svg0 = null;
-           result = "NEW"; 
-         }
-         
-         switch (result) {
-            case "NEW": nnew++; break;
-            case "DIFF": if (!entry.random) ndiff++; break;
-            default: nmatch++;
-         }
+   var args = { expr: opt, dump: true };
+   if (branchname) {
+      if (branchname === "/Event/Gen/Header/m_evtNumber") branchname = "/Event/Gen/Header.m_evtNumber"; // workaround
+      args.branch = tree.FindBranch(branchname);
+   }
 
-         console.log(keyid, entry_name, 'result', result, 'len='+svg.length, (svg0 && result=='DIFF' ? 'rel0='+(svg.length/svg0.length*100).toFixed(1)+'\%' : ''));
-
-         if ((result === "NEW") || ((test_mode === 'create') && (result!=='MATCH')))
-            fs.writeFileSync(svgname, svg);
-
-         ProcessNextOption();
-
-      }); 
-      
+   tree.Draw(args, function(res) {
+      if (res) res = JSON.stringify(res); else res = "<fail>";
+      ProduceFile(res, ".json");
    });
 }
 
@@ -114,7 +130,7 @@ function ProcessNextOption() {
          }
 
          keyid = next;
-         if (keyid=="TTree") keyid = null; // just for debug purposes - stop with first key
+         if (keyid=="TProfile") keyid = null; // just for debug purposes - stop with first key
          if (theonlykey) keyid = null;
          return ProcessNextOption();
       }
@@ -163,6 +179,15 @@ function ProcessNextOption() {
    else
       entry_name = opt ? opt : keyid;
    
+   if (keyid === "TTree") {
+      jsroot.OpenFile(filename, function(file) {
+         var branchname = "", pos = itemname.indexOf(";1//");
+         if (pos>0) { branchname = itemname.substr(pos+3); itemname = itemname.substr(0, pos+2); }
+         file.ReadObject(itemname, function(tree) {
+            ProduceJSON(tree, opt, branchname);
+         });
+      });
+   } else
    if (url.length > 0) {   
       testfile = testobj = null;
       return ProcessNextOption();
