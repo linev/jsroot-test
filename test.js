@@ -114,7 +114,7 @@ function ProcessNextOption() {
          }
 
          keyid = next;
-         if (keyid=="TH3") keyid = null; // just for debug purposes - stop with first key
+         if (keyid=="TTree") keyid = null; // just for debug purposes - stop with first key
          if (theonlykey) keyid = null;
          return ProcessNextOption();
       }
