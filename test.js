@@ -169,25 +169,28 @@ function ProcessNextOption() {
    } else   
    if (jsonname.length > 0) {
       testfile = testobj = null;
+      if (jsroot.Painter) jsroot.Painter.createRootColors(); // ensure default colors
       jsroot.NewHttpRequest(jsonname, 'object', function(obj) {
          testobj = obj;
          ProduceSVG(testobj, opt);
       }).send();
    } else  
    if (filename.length > 0) {
-       jsroot.OpenFile(filename, function(file) {
-          testfile = file;
-          testfile.ReadObject(itemname, function(obj) {
-             testobj = obj;
-             ProduceSVG(testobj, opt);
-          });
-       });
+      if (jsroot.Painter) jsroot.Painter.createRootColors(); // ensure default colors
+      jsroot.OpenFile(filename, function(file) {
+         testfile = file;
+         testfile.ReadObject(itemname, function(obj) {
+            testobj = obj;
+            ProduceSVG(testobj, opt);
+         });
+      });
    } else
    if (itemname.length > 0) {
-       testfile.ReadObject(itemname, function(obj) {
-          testobj = obj;
-          ProduceSVG(testobj, opt);
-       });
+      if (jsroot.Painter) jsroot.Painter.createRootColors(); // ensure default colors
+      testfile.ReadObject(itemname, function(obj) {
+         testobj = obj;
+         ProduceSVG(testobj, opt);
+      });
    } else {
       ProduceSVG(testobj, opt);
    }
