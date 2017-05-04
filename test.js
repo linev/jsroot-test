@@ -130,7 +130,7 @@ function ProcessNextOption() {
          }
 
          keyid = next;
-         if (keyid=="TProfile") keyid = null; // just for debug purposes - stop with first key
+         if (keyid=="TGeo") keyid = null; // just for debug purposes - stop with first key
          if (theonlykey) keyid = null;
          return ProcessNextOption();
       }
@@ -179,6 +179,10 @@ function ProcessNextOption() {
    else
       entry_name = opt ? opt : keyid;
    
+   if (jsroot.Painter) jsroot.Painter.createRootColors(); // ensure default colors
+   
+   // jsroot.gStyle.MathJax = entry.mathjax ? 1 : 0;
+   
    if (keyid === "TTree") {
       jsroot.OpenFile(filename, function(file) {
          var branchname = "", pos = itemname.indexOf(";1//");
@@ -188,20 +192,18 @@ function ProcessNextOption() {
          });
       });
    } else
-   if (url.length > 0) {   
+   if (((url.length > 0) && !entry.asurl) || entry.mathjax) {   
       testfile = testobj = null;
       return ProcessNextOption();
    } else   
    if (jsonname.length > 0) {
       testfile = testobj = null;
-      if (jsroot.Painter) jsroot.Painter.createRootColors(); // ensure default colors
       jsroot.NewHttpRequest(jsonname, 'object', function(obj) {
          testobj = obj;
          ProduceSVG(testobj, opt);
       }).send();
    } else  
    if (filename.length > 0) {
-      if (jsroot.Painter) jsroot.Painter.createRootColors(); // ensure default colors
       jsroot.OpenFile(filename, function(file) {
          testfile = file;
          testfile.ReadObject(itemname, function(obj) {
@@ -211,7 +213,6 @@ function ProcessNextOption() {
       });
    } else
    if (itemname.length > 0) {
-      if (jsroot.Painter) jsroot.Painter.createRootColors(); // ensure default colors
       testfile.ReadObject(itemname, function(obj) {
          testobj = obj;
          ProduceSVG(testobj, opt);
