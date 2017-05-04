@@ -18,7 +18,7 @@ if (process.argv && (process.argv.length > 2)) {
    }
 } 
 
-var keyid = 'TH1', optid = -1, entry_name = "", testfile = null, testobj = null; // it is always first key 
+var keyid = 'TH1', optid = -1, entry, entry_name = "", testfile = null, testobj = null; // it is always first key 
 
 function ProduceSVG(obj, opt) {
    jsroot.MakeSVG( { object: obj, option: opt, width: 1200, height: 800 }, function(svg) {
@@ -42,8 +42,11 @@ function ProduceSVG(obj, opt) {
            result = "NEW"; 
          }
          
-         if (result === "NEW") nnew++; else
-         if (result === "DIFF") ndiff++; else nmatch++;
+         switch (result) {
+            case "NEW": nnew++; break;
+            case "DIFF": if (!entry.random) ndiff++; break;
+            default: nmatch++;
+         }
 
          console.log(keyid, entry_name, 'result', result, 'len='+svg.length, (svg0 && result=='DIFF' ? 'rel0='+(svg.length/svg0.length*100).toFixed(1)+'\%' : ''));
 
@@ -82,7 +85,7 @@ function ProcessNextOption() {
       return ProcessNextOption();
    }
    
-   var entry = opts[optid];
+   entry = opts[optid];
    
    entry_name = "";
 
