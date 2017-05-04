@@ -41,7 +41,8 @@ if (process.argv && (process.argv.length > 2)) {
 function ProduceFile(content, extension) {
    if (!entry_name) entry_name = keyid;
    
-   entry_name = entry_name.replace(/\+/g,'p');
+   entry_name = entry_name.replace(/\+/g,'p').replace(/\>/g,'more')
+                          .replace(/\</g,'less').replace(/\|/g,'I').replace(/\[/g,'L').replace(/\]/g,'J');
    
    fs.access(keyid, fs.constants.W_OK, function(dir_err) {
       
@@ -125,12 +126,13 @@ function ProcessNextOption() {
          optid = -1;
          var found = false, next = null;
          for (var key in examples_main) {
+            if (key === "TGeo") continue; // skip already here
             if (found) { next = key; break; }
             if (key == keyid) found = true;
          }
 
          keyid = next;
-         if (keyid=="TGeo") keyid = null; // just for debug purposes - stop with first key
+         if (keyid=="TLatex") keyid = null; // just for debug purposes - stop with first key
          if (theonlykey) keyid = null;
          return ProcessNextOption();
       }
