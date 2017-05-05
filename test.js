@@ -4,12 +4,14 @@ var seedrandom = require('seedrandom');
 
 require("./../jsroot/demo/examples.js");
 
+// use own renderer or external version
+jsroot.gStyle.SVGRenderer = true;
+
 console.log('JSROOT version', jsroot.version);
 
 var test_mode = "verify", nmatch = 0, ndiff = 0, nnew = 0,
     keyid = 'TH1', theonlykey = false, optid = -1, theonlyoption = -100, itemid = -1, 
     entry, entry_name = "", testfile = null, testobj = null;  
-
 
 if (process.argv && (process.argv.length > 2)) {
    
