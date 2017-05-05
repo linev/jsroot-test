@@ -1,5 +1,7 @@
 var jsroot = require("jsroot");
 var fs = require("fs");
+var seedrandom = require('seedrandom');
+
 require("./../jsroot/demo/examples.js");
 
 console.log('JSROOT version', jsroot.version);
@@ -61,7 +63,7 @@ function ProduceFile(content, extension) {
       
       switch (result) {
          case "NEW": nnew++; break;
-         case "DIFF": if (!entry.random) ndiff++; break;
+         case "DIFF": ndiff++; break;
          default: nmatch++;
       }
 
@@ -179,10 +181,12 @@ function ProcessNextOption() {
       entry_name = entry.name;
    else
       entry_name = opt ? opt : keyid;
-   
+
+   // ensure default options
    if (jsroot.Painter) jsroot.Painter.createRootColors(); // ensure default colors
-   
    jsroot.gStyle.MathJax = entry.mathjax ? 1 : 0;
+   seedrandom('hello.', { global: true }); // set global random
+
    
    if (keyid === "TTree") {
       jsroot.OpenFile(filename, function(file) {

@@ -7,6 +7,7 @@
   "license": "MIT",
   "repository" : { "type" : "git" , "url" : "https://github.com/linev/jsroot-test.git" },
   "dependencies": {
-    "jsroot": "file:../jsroot/"
+    "jsroot": "file:../jsroot/",
+    "seedrandom": "*"
   }
 }
