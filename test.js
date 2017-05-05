@@ -132,7 +132,6 @@ function ProcessNextOption() {
          }
 
          keyid = next;
-         if (keyid=="TLatex") keyid = null; // just for debug purposes - stop with first key
          if (theonlykey) keyid = null;
          return ProcessNextOption();
       }
@@ -183,7 +182,7 @@ function ProcessNextOption() {
    
    if (jsroot.Painter) jsroot.Painter.createRootColors(); // ensure default colors
    
-   // jsroot.gStyle.MathJax = entry.mathjax ? 1 : 0;
+   jsroot.gStyle.MathJax = entry.mathjax ? 1 : 0;
    
    if (keyid === "TTree") {
       jsroot.OpenFile(filename, function(file) {
@@ -194,7 +193,7 @@ function ProcessNextOption() {
          });
       });
    } else
-   if (((url.length > 0) && !entry.asurl) || entry.mathjax) {   
+   if (((url.length > 0) && !entry.asurl)/* || entry.mathjax */) {   
       testfile = testobj = null;
       return ProcessNextOption();
    } else   
