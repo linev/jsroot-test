@@ -193,7 +193,7 @@ function ProcessNextOption() {
          });
       });
    } else
-   if (((url.length > 0) && !entry.asurl)/* || entry.mathjax */) {   
+   if (((url.length > 0) && !entry.asurl)) {   
       testfile = testobj = null;
       return ProcessNextOption();
    } else   
