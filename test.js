@@ -97,8 +97,12 @@ function ProduceFile(content, extension) {
 
       console.log(keyid, entry_name, 'result', result, 'len='+content.length, (svg0 && result=='DIFF' ? 'rel0='+(content.length/svg0.length*100).toFixed(1)+'\%' : ''));
 
-      if ((result === "NEW") || ((test_mode === 'create') && (result!=='MATCH')))
-         fs.writeFileSync(svgname, content);
+      if ((result === "NEW") || ((test_mode === 'create') && (result!=='MATCH'))) {
+         if (content.length)
+            fs.writeFileSync(svgname, content);
+         else 
+         if (result !== "NEW") fs.unlink(svgname);
+      }
       
       ProcessNextOption();
    });
