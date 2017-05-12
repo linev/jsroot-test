@@ -211,7 +211,7 @@ function ProcessNextOption() {
       url += itemname + "&opt=" + opt;
    }
    
-   if (opt=='inspect') return ProcessNextOption();
+   if ((opt=='inspect') || (opt=='count')) return ProcessNextOption();
 
    if (itemid >= 0)
       entry_name = (entry.name || keyid) + "_" + itemname + (opt ? "_" + opt : "");
