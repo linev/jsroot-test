@@ -228,9 +228,9 @@ function ProcessNextOption() {
    if (jsroot.Painter) jsroot.Painter.createRootColors(); // ensure default colors
    jsroot.gStyle.MathJax = entry.mathjax ? 1 : 0;
    seedrandom('hello.', { global: true }); // set global random
-
    
    if (keyid === "TTree") {
+      if (entry.url || entry.large) return ProcessNextOption(); // ignore direct URL
       jsroot.OpenFile(filename, function(file) {
          var branchname = "", pos = itemname.indexOf(";1//");
          if (pos>0) { branchname = itemname.substr(pos+3); itemname = itemname.substr(0, pos+2); }
