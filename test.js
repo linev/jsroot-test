@@ -9,7 +9,8 @@ jsroot.gStyle.SVGRenderer = true;
 
 console.log('JSROOT version', jsroot.version);
 
-var test_mode = "verify", nmatch = 0, ndiff = 0, nnew = 0,
+var init_style = null,
+    test_mode = "verify", nmatch = 0, ndiff = 0, nnew = 0,
     keyid = 'TH1', theonlykey = false, optid = -1, theonlyoption = -100, itemid = -1, 
     entry, entry_name = "", testfile = null, testobj = null;  
 
@@ -35,12 +36,37 @@ if (process.argv && (process.argv.length > 2)) {
               return console.log('wrong options for key', theonlyoption);
            
            console.log('Select option', theonlyoption);
-           break; 
+           break;
+        case "-m":
+        case "--more":
+           require("./../jsroot/demo/examples_more.js");
+           
+           for (var key in examples_more) {
+              if (key in examples_main) {
+                 for (var n in examples_more[key])
+                    examples_main[key].push(examples_more[key][n]);
+              } else {
+                 examples_main[key] = examples_more[key];
+              }
+           }
+           
+           break;
+
+   
         default:
-           console.log('Usage: node test.js [-v|-c|-k keyname]');
+           console.log('Usage: node test.js [options]');
+           console.log('   -v | --verify : check stored content against current JSROOT version');
+           console.log('   -c | --create : perform checks and overwrite when results differ');
+           console.log('   -k | --key  keyname : select specific key (class name) like TH1 or TProfile for testing');
+           console.log('   -m | --more : use more tests');
            return;
       }
 } 
+
+function ProduceGlobalStyleCopy() {
+   // copy style when painter is loaded
+   if (!init_style && jsroot.Painter) init_style = jsroot.gStyle;
+}
 
 function ProduceFile(content, extension) {
    if (!entry_name) entry_name = keyid;
@@ -117,7 +143,8 @@ function ProcessNextOption() {
    var opts = examples_main[keyid];
    if (!opts) return;
    
-   if (itemid>=0) {
+   if ((itemid>=0) || (itemid==-2)) {
+      if (itemid==-2) itemid = -1; // special workaround for style entry, which is marked as itemid=-2
       if (++itemid>=opts[optid].items.length) itemid = -1;
    }
    
@@ -162,9 +189,19 @@ function ProcessNextOption() {
       if ((jsonname.indexOf("http:")<0) && (jsonname.indexOf("https:")<0)) jsonname = filepath + jsonname;
    }
    if (entry.items) {
-      if (itemid<0) itemid = 0;
-      itemname = entry.items[itemid];
-      if (entry.opts && (itemid < entry.opts.length)) opt = entry.opts[itemid]; 
+      if (itemid<0) {
+         
+         if ((itemid==-1) && entry.style) {
+            itemid = -2;
+            itemname = entry.style; // special case when style should be applied before objects drawing  
+         } else {
+           itemid = 0;
+         }
+      }
+      if (itemid>=0) {
+         itemname = entry.items[itemid];
+         if (entry.opts && (itemid < entry.opts.length)) opt = entry.opts[itemid];
+      }
    }
    
    if (entry.url) url = entry.url.replace(/\$\$\$/g, filepath); else
@@ -183,6 +220,9 @@ function ProcessNextOption() {
       entry_name = entry.name;
    else
       entry_name = opt ? opt : keyid;
+
+   ProduceGlobalStyleCopy();
+   if (!entry.style && init_style) jsroot.gStyle = jsroot.extend({}, init_style);
 
    // ensure default options
    if (jsroot.Painter) jsroot.Painter.createRootColors(); // ensure default colors
@@ -214,8 +254,19 @@ function ProcessNextOption() {
       jsroot.OpenFile(filename, function(file) {
          testfile = file;
          testfile.ReadObject(itemname, function(obj) {
-            testobj = obj;
-            ProduceSVG(testobj, opt);
+            if (itemid==-2) {
+               // special handling of style
+               // Check that copy of gStyle exists
+               ProduceGlobalStyleCopy();
+               // first create copy of existing style
+               var newstyle = jsroot.extend({}, jsroot.gStyle);
+               // then apply changes to the 
+               jsroot.gStyle = jsroot.extend(newstyle, obj);
+               return ProcessNextOption();
+            } else {
+               testobj = obj;
+               ProduceSVG(testobj, opt);
+            }
          });
       });
    } else
