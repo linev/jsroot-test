@@ -74,7 +74,10 @@ function ProduceFile(content, extension) {
    entry_name = entry_name.replace(/\+/g,'p').replace(/\>/g,'more')
                           .replace(/\</g,'less').replace(/\|/g,'I').replace(/\[/g,'L').replace(/\]/g,'J');
    
-   fs.access(keyid, fs.constants.W_OK, function(dir_err) {
+   // in older node.js fs.constants not exists
+   var w_ok = fs.constants ? fs.constants.W_OK : fs.W_OK;
+   
+   fs.access(keyid, w_ok, function(dir_err) {
       
       if (dir_err) fs.mkdirSync(keyid);
       
