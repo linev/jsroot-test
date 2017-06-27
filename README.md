@@ -1,4 +1,5 @@
 # jsroot-test
+
 JavaScript ROOT testing with Node.js
 
 This is set of tests for basic JSROOT functionality, using Node.js.
@@ -12,7 +13,7 @@ Clone JSROOT repository on the same level as this one:
     [shell] git clone https://github.com/root-project/jsroot.git
     [shell] git clone https://github.com/linev/jsroot-test.git
 
-For the moment all tests performed with JSROOT `dev` branch:
+Tests can be performed staring from JSROOT 5.2.0 or with 'dev' branch:
 
     [shell] cd jsroot
     [shell] git fetch 
