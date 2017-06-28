@@ -4,9 +4,6 @@ var seedrandom = require('seedrandom');
 
 require("./../jsroot/demo/examples.js");
 
-// use own renderer or external version
-jsroot.gStyle.SVGRenderer = true;
-
 console.log('JSROOT version', jsroot.version);
 
 var init_style = null,
