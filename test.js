@@ -179,14 +179,17 @@ function ProcessNextOption() {
    // exclude some entries from the test
    if (entry.notest) return ProcessNextOption();
    
-   var filename = "", itemname = "", jsonname = "", url = "", opt = "",
+   var filename = "", itemname = "", itemfield = "", jsonname = "", url = "", opt = "",
        filepath = "http://jsroot.gsi.de/files/";
    
    if (entry.file) {
        filename = entry.file;
        if ((filename.indexOf("http:")<0) && (filename.indexOf("https:")<0)) filename = filepath + filename; 
    }
-   if (entry.item) itemname = entry.item;
+   if (entry.item) {
+      itemname = entry.item;
+      if (entry.itemfield) { itemfield = entry.itemfield; itemname = itemname.substr(0, itemname.length - itemfield.length - 1); } 
+   }
    if (entry.opt) opt = entry.opt;
    if (entry.json) {
       jsonname = entry.json;
@@ -268,6 +271,7 @@ function ProcessNextOption() {
                jsroot.gStyle = jsroot.extend(newstyle, obj);
                return ProcessNextOption();
             } else {
+               if (itemfield && obj[itemfield]) obj = obj[itemfield];
                testobj = obj;
                ProduceSVG(testobj, opt);
             }
