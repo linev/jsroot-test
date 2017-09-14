@@ -190,7 +190,7 @@ function ProcessNextOption() {
       itemname = entry.item;
       if (entry.itemfield) { itemfield = entry.itemfield; itemname = itemname.substr(0, itemname.length - itemfield.length - 1); } 
    }
-   if (entry.opt) opt = entry.opt;
+   if (entry.testopt !== undefined) opt = entry.testopt; else if (entry.opt) opt = entry.opt;
    if (entry.json) {
       jsonname = entry.json;
       if ((jsonname.indexOf("http:")<0) && (jsonname.indexOf("https:")<0)) jsonname = filepath + jsonname;
