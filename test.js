@@ -234,6 +234,7 @@ function ProcessNextOption() {
    // ensure default options
    if (jsroot.Painter) jsroot.Painter.createRootColors(); // ensure default colors
    jsroot.gStyle.MathJax = entry.mathjax ? 1 : 0;
+   jsroot.gStyle.Latex = entry.latex ? entry.latex : 2;
    seedrandom('hello.', { global: true }); // set global random
    
    if (keyid === "TTree") {
