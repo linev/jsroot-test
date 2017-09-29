@@ -237,6 +237,7 @@ function ProcessNextOption() {
       jsroot.gStyle.MathJax = entry.mathjax ? 1 : 0;
    jsroot.gStyle.Latex = entry.latex ? entry.latex : 2;
    seedrandom('hello.', { global: true }); // set global random
+   jsroot.id_counter = 0; // used in some custom styles
    
    if (keyid === "TTree") {
       if (entry.url || entry.large) return ProcessNextOption(); // ignore direct URL
