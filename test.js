@@ -180,7 +180,7 @@ function ProcessNextOption() {
    if (entry.notest) return ProcessNextOption();
    
    var filename = "", itemname = "", itemfield = "", jsonname = "", url = "", opt = "",
-//       filepath = "http://jsroot.gsi.de/files/",
+//       filepath = "http://jsroot.gsi.de/files/";
        filepath = "https://root.cern.ch/js/files/";
    
    if (entry.file) {
