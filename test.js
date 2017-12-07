@@ -1,6 +1,6 @@
 var jsroot = require("jsroot");
 var fs = require("fs");
-var seedrandom = require('seedrandom');
+// var seedrandom = require('seedrandom');
 
 require("./../jsroot/demo/examples.js");
 
@@ -237,7 +237,7 @@ function ProcessNextOption() {
    if (jsroot.gStyle.MathJax!==undefined)
       jsroot.gStyle.MathJax = entry.mathjax ? 1 : 0;
    jsroot.gStyle.Latex = entry.latex ? entry.latex : 2;
-   seedrandom('hello.', { global: true }); // set global random
+   // seedrandom('hello.', { global: true }); // set global random
    jsroot.id_counter = 0; // used in some custom styles
    
    if (keyid === "TTree") {
