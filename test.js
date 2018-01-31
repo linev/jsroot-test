@@ -69,7 +69,8 @@ function ProduceFile(content, extension) {
    if (!entry_name) entry_name = keyid;
    
    entry_name = entry_name.replace(/\+/g,'p').replace(/\>/g,'more')
-                          .replace(/\</g,'less').replace(/\|/g,'I').replace(/\[/g,'L').replace(/\]/g,'J');
+                          .replace(/\</g,'less').replace(/\|/g,'I')
+                          .replace(/\[/g,'L').replace(/\]/g,'J').replace(/\*/g,'star');
    
    // in older node.js fs.constants not exists
    var w_ok = fs.constants ? fs.constants.W_OK : fs.W_OK;
