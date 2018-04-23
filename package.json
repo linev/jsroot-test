@@ -5,7 +5,10 @@
   "main": "test.js",
   "author": "s.linev@gsi.de",
   "license": "MIT",
-  "repository" : { "type": "git" , "url": "https://github.com/linev/jsroot-test.git" },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linev/jsroot-test.git"
+  },
   "dependencies": {
     "jsroot": "file:../jsroot/"
   }
