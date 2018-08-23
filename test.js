@@ -30,9 +30,9 @@ if (process.argv && (process.argv.length > 2)) {
         case "--opt":
            theonlyoption = parseInt(process.argv[++cnt]);
            if (isNaN(theonlyoption) || (theonlyoption<0) || !examples_main[keyid][theonlyoption])
-              return console.log('wrong options for key', theonlyoption);
+              return console.log('wrong option for key', keyid);
            
-           console.log('Select option', theonlyoption);
+           console.log('Select option', examples_main[keyid][theonlyoption], 'for key', keyid);
            break;
         case "-m":
         case "--more":
