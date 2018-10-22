@@ -1,6 +1,9 @@
 {
   "name": "jsroot-test",
-  "version": "5.5.99",
+  "version": "5.6.99",
+  "engines": {
+    "node": ">=0.8"
+  },
   "description": "JSROOT test suite for Node.js",
   "main": "test.js",
   "author": "s.linev@gsi.de",
