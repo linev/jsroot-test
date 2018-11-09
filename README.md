@@ -13,17 +13,13 @@ Clone JSROOT repository on the same level as this one:
     [shell] git clone https://github.com/root-project/jsroot.git
     [shell] git clone https://github.com/linev/jsroot-test.git
 
-Select 'master' branch in JSROOT, which should correspond data in master branch of 'jsroot-test'
-
-    [shell] cd jsroot
-    [shell] npm install 
-    
-One could also use specific tag of JSROOT and appropriate tag in the tests    
-
-After JSROOT repository is configured, one should install all necessary modules in test dir:
+After clone repository install all necessary modules:
 
     [shell] cd jsroot-test
     [shell] npm install
+
+One could also use specific tags of JSROOT and appropriate tag in the tests    
+
     
 ## Running    
 
