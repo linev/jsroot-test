@@ -96,13 +96,14 @@ function ProduceFile(content, extension) {
          default: nmatch++;
       }
 
-      console.log(keyid, entry_name, 'result', result, 'len='+content.length, (svg0 && result=='DIFF' ? 'rel0='+(content.length/svg0.length*100).toFixed(1)+'\%' : ''));
+      var clen = content ? content.length : -1;
+      console.log(keyid, entry_name, 'result', result, 'len='+clen, (svg0 && result=='DIFF' ? 'rel0='+(clen/svg0.length*100).toFixed(1)+'\%' : ''));
 
       if ((result === "NEW") || ((test_mode === 'create') && (result!=='MATCH'))) {
-         if (content.length)
+         if (clen > 0)
             fs.writeFileSync(svgname, content);
-         else 
-         if (result !== "NEW") fs.unlink(svgname);
+         else if (result !== "NEW") 
+            fs.unlink(svgname);
       }
       
       ProcessNextOption();
