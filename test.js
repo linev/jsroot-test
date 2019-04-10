@@ -277,7 +277,13 @@ function ProcessNextOption() {
                jsroot.gStyle = jsroot.extend(newstyle, obj);
                return ProcessNextOption();
             } else {
-               if (itemfield && obj[itemfield]) obj = obj[itemfield];
+               if (itemfield) {
+                  if (itemfield == "Overlaps/ov00010") {
+                     obj = obj.fOverlaps.arr[10];
+                     console.log("foound obj", obj ? obj._typename : "none");
+                  } else if (obj[itemfield])
+                     obj = obj[itemfield];
+               }
                testobj = obj;
                ProduceSVG(testobj, opt);
             }
