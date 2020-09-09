@@ -244,29 +244,26 @@ function ProcessNextOption() {
    
    if (keyid === "TTree") {
       if (entry.url || entry.large) return ProcessNextOption(); // ignore direct URL
-      jsroot.OpenFile(filename, function(file) {
+      jsroot.OpenFile(filename).then(file => {
          var branchname = "", pos = itemname.indexOf(";1//");
          if (pos>0) { branchname = itemname.substr(pos+3); itemname = itemname.substr(0, pos+2); }
-         file.ReadObject(itemname, function(tree) {
+         file.ReadObject(itemname).then(tree => {
             ProduceJSON(tree, opt, branchname);
          });
       });
-   } else
-   if (((url.length > 0) && !entry.asurl)) {   
+   } else if (((url.length > 0) && !entry.asurl)) {   
       testfile = testobj = null;
       return ProcessNextOption();
-   } else   
-   if (jsonname.length > 0) {
+   } else if (jsonname.length > 0) {
       testfile = testobj = null;
-      jsroot.NewHttpRequest(jsonname, 'object', function(obj) {
+      jsroot.HttpRequest(jsonname, 'object').then(obj => {
          testobj = obj;
          ProduceSVG(testobj, opt);
-      }).send();
-   } else  
-   if (filename.length > 0) {
-      jsroot.OpenFile(filename, function(file) {
+      });
+   } else if (filename.length > 0) {
+      jsroot.OpenFile(filename).then(file => {
          testfile = file;
-         testfile.ReadObject(itemname, function(obj) {
+         testfile.ReadObject(itemname).then(obj => {
             if (itemid==-2) {
                // special handling of style
                // Check that copy of gStyle exists
@@ -289,9 +286,8 @@ function ProcessNextOption() {
             }
          });
       });
-   } else
-   if (itemname.length > 0) {
-      testfile.ReadObject(itemname, function(obj) {
+   } else if (itemname.length > 0) {
+      testfile.ReadObject(itemname).then(obj => {
          testobj = obj;
          ProduceSVG(testobj, opt);
       });
