@@ -180,7 +180,7 @@ function ProcessNextOption() {
    // exclude some entries from the test
    if (entry.notest) return ProcessNextOption();
 
-   var filename = "", itemname = "", itemfield = "", jsonname = "", url = "", opt = "",
+   var filename = "", itemname = "", itemfield = "", jsonname = "", url = "", opt = "", opt2 = "",
        filepath = "http://jsroot.gsi.de/files/";
 //       filepath = "https://root.cern.ch/js/files/";
 
@@ -193,6 +193,7 @@ function ProcessNextOption() {
       if (entry.itemfield) { itemfield = entry.itemfield; itemname = itemname.substr(0, itemname.length - itemfield.length - 1); }
    }
    if (entry.testopt !== undefined) opt = entry.testopt; else if (entry.opt) opt = entry.opt;
+
    if (entry.json) {
       jsonname = entry.json;
       if ((jsonname.indexOf("http:")<0) && (jsonname.indexOf("https:")<0)) jsonname = filepath + jsonname;
@@ -213,11 +214,13 @@ function ProcessNextOption() {
       }
    }
 
+   if (entry.r3d) opt2 = (opt ? "_" : "") + "r3d_" + entry.r3d;
+
    if (entry.url) url = entry.url.replace(/\$\$\$/g, filepath); else
    if (entry.asurl) {
       url = ((entry.asurl === "browser") ? "?" : "?nobrowser&");
       url += jsonname ? "json=" + jsonname : "file=" + filename + "&item=" + itemname;
-      url += itemname + "&opt=" + opt;
+      url += itemname + "&opt=" + opt + opt2;
    }
 
    if ((opt=='inspect') || (opt=='count')) return ProcessNextOption();
@@ -247,7 +250,7 @@ function ProcessNextOption() {
          var branchname = "", pos = itemname.indexOf(";1//");
          if (pos>0) { branchname = itemname.substr(pos+3); itemname = itemname.substr(0, pos+2); }
          file.ReadObject(itemname).then(tree => {
-            ProduceJSON(tree, opt, branchname);
+            ProduceJSON(tree, opt+opt2, branchname);
          });
       });
    } else if (((url.length > 0) && !entry.asurl)) {
@@ -257,7 +260,7 @@ function ProcessNextOption() {
       testfile = testobj = null;
       jsroot.HttpRequest(jsonname, 'object').then(obj => {
          testobj = obj;
-         ProduceSVG(testobj, opt);
+         ProduceSVG(testobj, opt+opt2);
       });
    } else if (filename.length > 0) {
       jsroot.OpenFile(filename).then(file => {
@@ -276,22 +279,22 @@ function ProcessNextOption() {
                if (itemfield) {
                   if (itemfield == "Overlaps/ov00010") {
                      obj = obj.fOverlaps.arr[10];
-                     console.log("foound obj", obj ? obj._typename : "none");
+                     console.log("found obj", obj ? obj._typename : "none");
                   } else if (obj[itemfield])
                      obj = obj[itemfield];
                }
                testobj = obj;
-               ProduceSVG(testobj, opt);
+               ProduceSVG(testobj, opt+opt2);
             }
          });
       });
    } else if (itemname.length > 0) {
       testfile.ReadObject(itemname).then(obj => {
          testobj = obj;
-         ProduceSVG(testobj, opt);
+         ProduceSVG(testobj, opt+opt2);
       });
    } else {
-      ProduceSVG(testobj, opt);
+      ProduceSVG(testobj, opt+opt2);
    }
 }
 
