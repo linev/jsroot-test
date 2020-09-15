@@ -214,7 +214,7 @@ function ProcessNextOption() {
       }
    }
 
-   if (entry.r3d) opt2 = (opt ? "_" : "") + "r3d_" + entry.r3d;
+   if (entry.r3d) opt2 = (opt ? "," : "") + "r3d_" + entry.r3d;
 
    if (entry.url) url = entry.url.replace(/\$\$\$/g, filepath); else
    if (entry.asurl) {
