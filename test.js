@@ -137,7 +137,7 @@ function ProduceJSON(tree, opt, branchname) {
 }
 
 
-function ProcessNextOption() {
+function ProcessNextOption(reset_mathjax) {
 
    if (!keyid) {
       console.log('No more data to process');
@@ -148,28 +148,30 @@ function ProcessNextOption() {
    var opts = examples_main[keyid];
    if (!opts) return;
 
-   if ((itemid>=0) || (itemid==-2)) {
-      if (itemid==-2) itemid = -1; // special workaround for style entry, which is marked as itemid=-2
-      if (++itemid>=opts[optid].items.length) itemid = -1;
-   }
-
-   if (itemid<0) { // first check that all items are processed
-      if (theonlyoption == optid) {
-         keyid = null;
-         return ProcessNextOption();
+   if (!reset_mathjax) {
+      if ((itemid>=0) || (itemid==-2)) {
+         if (itemid==-2) itemid = -1; // special workaround for style entry, which is marked as itemid=-2
+         if (++itemid>=opts[optid].items.length) itemid = -1;
       }
-      if (++optid>=opts.length) {
-         optid = -1;
-         var found = false, next = null;
-         for (var key in examples_main) {
-            if (key === "TGeo") continue; // skip already here
-            if (found) { next = key; break; }
-            if (key == keyid) found = true;
-         }
 
-         keyid = next;
-         if (theonlykey) keyid = null;
-         return ProcessNextOption();
+      if (itemid < 0) { // first check that all items are processed
+         if (theonlyoption == optid) {
+            keyid = null;
+            return ProcessNextOption();
+         }
+         if (++optid>=opts.length) {
+            optid = -1;
+            var found = false, next = null;
+            for (var key in examples_main) {
+               if (key === "TGeo") continue; // skip already here
+               if (found) { next = key; break; }
+               if (key == keyid) found = true;
+            }
+
+            keyid = next;
+            if (theonlykey) keyid = null;
+            return ProcessNextOption();
+         }
       }
    }
 
@@ -179,6 +181,13 @@ function ProcessNextOption() {
 
    // exclude some entries from the test
    if (entry.notest) return ProcessNextOption();
+
+   if ((entry.latex === "mathjax") && !reset_mathjax)
+      return jsroot.load('mathjax').then(() => {
+         MathJax.startup.defaultReady();
+         console.log('Loading MathJax and doing extra reset!!!')
+         ProcessNextOption(true);
+      });
 
    var filename = "", itemname = "", itemfield = "", jsonname = "", url = "", opt = "", opt2 = "",
        filepath = "http://jsroot.gsi.de/files/";
@@ -238,9 +247,7 @@ function ProcessNextOption() {
 
    // ensure default options
    if (jsroot.Painter) jsroot.Painter.createRootColors(); // ensure default colors
-   if (jsroot.gStyle.MathJax!==undefined)
-      jsroot.gStyle.MathJax = entry.mathjax ? 1 : 0;
-   jsroot.gStyle.Latex = entry.latex ? entry.latex : 2;
+   jsroot.gStyle.Latex = entry.latex || 2; //
    // seedrandom('hello.', { global: true }); // set global random
    jsroot.id_counter = 0; // used in some custom styles
 
