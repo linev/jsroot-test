@@ -33,6 +33,7 @@ if (process.argv && (process.argv.length > 2)) {
               return console.log('wrong option for key', keyid);
 
            console.log('Select option', examples_main[keyid][theonlyoption], 'for key', keyid);
+           optid = theonlyoption - 1;
            break;
         case "-m":
         case "--more":
@@ -54,7 +55,8 @@ if (process.argv && (process.argv.length > 2)) {
            console.log('Usage: node test.js [options]');
            console.log('   -v | --verify : check stored content against current JSROOT version');
            console.log('   -c | --create : perform checks and overwrite when results differ');
-           console.log('   -k | --key  keyname : select specific key (class name) like TH1 or TProfile for testing');
+           console.log('   -k | --key keyname : select specific key (class name) like TH1 or TProfile for testing');
+           console.log('   -o | --opt id : select specific option id, only when key is pecified');
            console.log('   -m | --more : use more tests');
            return;
       }
@@ -127,7 +129,12 @@ function ProduceJSON(tree, opt, branchname) {
    let args = { expr: opt, dump: true };
    if (branchname) {
       if (branchname === "/Event/Gen/Header/m_evtNumber") branchname = "/Event/Gen/Header.m_evtNumber"; // workaround
+      if (branchname === "ESDfriend./fTracks/fTPCindex") branchname = "ESDfriend.fTracks.fTPCindex"; // workaround
+      if (branchname === "event/fTracks/fMass2") branchname = "event.fTracks.fMass2"; // workaround
+      if (branchname === "Rec::TrackParticleContainer_tlp1_MooreTrackParticles/m_hepSymMatrices/m_matrix_val")
+          branchname = "Rec::TrackParticleContainer_tlp1_MooreTrackParticles.m_hepSymMatrices.m_matrix_val";
       args.branch = tree.FindBranch(branchname);
+      if (!args.branch) console.log('Fail to find branch', branchname)
    }
 
    tree.Draw(args, function(res) {
