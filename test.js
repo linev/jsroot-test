@@ -255,13 +255,19 @@ function ProcessNextOption(reset_mathjax) {
 
    if (keyid === "TTree") {
       if (entry.url || entry.large) return ProcessNextOption(); // ignore direct URL
+      // console.log('Processing ', entry);
+
       jsroot.OpenFile(filename).then(file => {
          let branchname = "", pos = itemname.indexOf(";1/");
          if (pos>0) { branchname = itemname.substr(pos+3); itemname = itemname.substr(0, pos+2); }
-         if (!branchname) { console.log("No branch name for item", itemname, 'opt:', opt, 'opt2:', opt2); }
+         if (!branchname && opt == "dump") {
+            pos = itemname.indexOf("/");
+            if (pos > 0) { branchname = itemname.substr(pos+1); itemname = itemname.substr(0, pos); }
+         }
          file.ReadObject(itemname).then(tree => {
+            // if (branchname) console.log('Branch name is', branchname);
             ProduceJSON(tree, opt+opt2, branchname);
-         }).catch(()=> {console.log('Fail to find tree', itemname); ProcessNextOption(); });
+         }).catch(()=> { console.log('Fail to find tree', itemname); ProcessNextOption(); });
       });
    } else if (((url.length > 0) && !entry.asurl)) {
       testfile = testobj = null;
