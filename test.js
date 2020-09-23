@@ -1,19 +1,19 @@
-var jsroot = require("jsroot");
-var fs = require("fs");
-// var seedrandom = require('seedrandom');
+let jsroot = require("jsroot");
+let fs = require("fs");
+// let seedrandom = require('seedrandom');
 
 require("./../jsroot/demo/examples.js");
 
 console.log('JSROOT version', jsroot.version);
 
-var init_style = null,
+let init_style = null,
     test_mode = "verify", nmatch = 0, ndiff = 0, nnew = 0,
     keyid = 'TH1', theonlykey = false, optid = -1, theonlyoption = -100, itemid = -1,
     entry, entry_name = "", testfile = null, testobj = null;
 
 if (process.argv && (process.argv.length > 2)) {
 
-   for (var cnt=2;cnt<process.argv.length;++cnt)
+   for (let cnt=2;cnt<process.argv.length;++cnt)
       switch (process.argv[cnt]) {
         case "-v":
         case "--verify":  test_mode = "verify"; break;
@@ -38,9 +38,9 @@ if (process.argv && (process.argv.length > 2)) {
         case "--more":
            require("./../jsroot/demo/examples_more.js");
 
-           for (var key in examples_more) {
+           for (let key in examples_more) {
               if (key in examples_main) {
-                 for (var n in examples_more[key])
+                 for (let n in examples_more[key])
                     examples_main[key].push(examples_more[key][n]);
               } else {
                  examples_main[key] = examples_more[key];
@@ -73,13 +73,13 @@ function ProduceFile(content, extension) {
                           .replace(/\[/g,'L').replace(/\]/g,'J').replace(/\*/g,'star');
 
    // in older node.js fs.constants not exists
-   var w_ok = fs.constants ? fs.constants.W_OK : fs.W_OK;
+   let w_ok = fs.constants ? fs.constants.W_OK : fs.W_OK;
 
    fs.access(keyid, w_ok, function(dir_err) {
 
       if (dir_err) fs.mkdirSync(keyid);
 
-      var svgname = keyid + "/" + entry_name + extension,
+      let svgname = keyid + "/" + entry_name + extension,
           svg0 = null, result = "MATCH";
 
       try {
@@ -96,7 +96,7 @@ function ProduceFile(content, extension) {
          default: nmatch++;
       }
 
-      var clen = content ? content.length : -1;
+      let clen = content ? content.length : -1;
       console.log(keyid, entry_name, 'result', result, 'len='+clen, (svg0 && result=='DIFF' ? 'rel0='+(clen/svg0.length*100).toFixed(1)+'\%' : ''));
 
       if ((result === "NEW") || ((test_mode === 'create') && (result!=='MATCH'))) {
@@ -124,7 +124,7 @@ function ProduceSVG(obj, opt) {
 function ProduceJSON(tree, opt, branchname) {
    if (!tree) return ProcessNextOption();
 
-   var args = { expr: opt, dump: true };
+   let args = { expr: opt, dump: true };
    if (branchname) {
       if (branchname === "/Event/Gen/Header/m_evtNumber") branchname = "/Event/Gen/Header.m_evtNumber"; // workaround
       args.branch = tree.FindBranch(branchname);
@@ -145,7 +145,7 @@ function ProcessNextOption(reset_mathjax) {
       return;
    }
 
-   var opts = examples_main[keyid];
+   let opts = examples_main[keyid];
    if (!opts) return;
 
    if (!reset_mathjax) {
@@ -161,8 +161,8 @@ function ProcessNextOption(reset_mathjax) {
          }
          if (++optid>=opts.length) {
             optid = -1;
-            var found = false, next = null;
-            for (var key in examples_main) {
+            let found = false, next = null;
+            for (let key in examples_main) {
                if (key === "TGeo") continue; // skip already here
                if (found) { next = key; break; }
                if (key == keyid) found = true;
@@ -191,7 +191,7 @@ function ProcessNextOption(reset_mathjax) {
          ProcessNextOption(true);
       });
 
-   var filename = "", itemname = "", itemfield = "", jsonname = "", url = "", opt = "", opt2 = "",
+   let filename = "", itemname = "", itemfield = "", jsonname = "", url = "", opt = "", opt2 = "",
        filepath = "http://jsroot.gsi.de/files/";
 //       filepath = "https://root.cern.ch/js/files/";
 
@@ -256,11 +256,12 @@ function ProcessNextOption(reset_mathjax) {
    if (keyid === "TTree") {
       if (entry.url || entry.large) return ProcessNextOption(); // ignore direct URL
       jsroot.OpenFile(filename).then(file => {
-         var branchname = "", pos = itemname.indexOf(";1//");
+         let branchname = "", pos = itemname.indexOf(";1/");
          if (pos>0) { branchname = itemname.substr(pos+3); itemname = itemname.substr(0, pos+2); }
+         if (!branchname) { console.log("No branch name for item", itemname, 'opt:', opt, 'opt2:', opt2); }
          file.ReadObject(itemname).then(tree => {
             ProduceJSON(tree, opt+opt2, branchname);
-         });
+         }).catch(()=> {console.log('Fail to find tree', itemname); ProcessNextOption(); });
       });
    } else if (((url.length > 0) && !entry.asurl)) {
       testfile = testobj = null;
@@ -280,7 +281,7 @@ function ProcessNextOption(reset_mathjax) {
                // Check that copy of gStyle exists
                ProduceGlobalStyleCopy();
                // first create copy of existing style
-               var newstyle = jsroot.extend({}, jsroot.gStyle);
+               let newstyle = jsroot.extend({}, jsroot.gStyle);
                // then apply changes to the
                jsroot.gStyle = jsroot.extend(newstyle, obj);
                return ProcessNextOption();
