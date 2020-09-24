@@ -190,7 +190,7 @@ function ProcessNextOption(reset_mathjax) {
    if (entry.notest) return ProcessNextOption();
 
    if ((entry.latex === "mathjax") && !reset_mathjax)
-      return jsroot.require('2d')
+      return jsroot.require('JSRoot.latex')
                    .then(() => jsroot.Painter.LoadMathjax())
                    .then(() => {
          MathJax.startup.defaultReady();
