@@ -189,7 +189,7 @@ function ProcessNextOption(reset_mathjax) {
    // exclude some entries from the test
    if (entry.notest) return ProcessNextOption();
 
-   if ((entry.latex === "mathjax") && !reset_mathjax)
+   if (((entry.latex === "mathjax") || entry.reset_mathjax) && !reset_mathjax)
       return jsroot.require('JSRoot.latex')
                    .then(() => jsroot.Painter.LoadMathjax())
                    .then(() => {
