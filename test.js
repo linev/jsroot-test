@@ -8,7 +8,8 @@ console.log('JSROOT version', jsroot.version);
 
 let init_style = null,
     test_mode = "verify", nmatch = 0, ndiff = 0, nnew = 0,
-    keyid = 'TH1', theonlykey = false, optid = -1, theonlyoption = -100, itemid = -1,
+    keyid = 'TH1', theonlykey = false, optid = -1,
+    theOnlyOption, theOnlyOptionId = -100, itemid = -1,
     entry, entry_name = "", testfile = null, testobj = null;
 
 if (process.argv && (process.argv.length > 2)) {
@@ -28,12 +29,15 @@ if (process.argv && (process.argv.length > 2)) {
            break;
         case "-o":
         case "--opt":
-           theonlyoption = parseInt(process.argv[++cnt]);
-           if (isNaN(theonlyoption) || (theonlyoption<0) || !examples_main[keyid][theonlyoption])
-              return console.log('wrong option for key', keyid);
-
-           console.log('Select option', examples_main[keyid][theonlyoption], 'for key', keyid);
-           optid = theonlyoption - 1;
+           theOnlyOption = process.argv[++cnt];
+           theOnlyOptionId = parseInt(theOnlyOption);
+           if (isNaN(theOnlyOptionId) || (theOnlyOptionId<0) || !examples_main[keyid][theOnlyOptionId]) {
+              theOnlyOptionId = -100;
+           } else {
+              console.log('Select option', examples_main[keyid][theOnlyOptionId], 'for key', keyid);
+              optid = theOnlyOptionId - 1;
+              theOnlyOption = "";
+           }
            break;
         case "-m":
         case "--more":
@@ -56,7 +60,7 @@ if (process.argv && (process.argv.length > 2)) {
            console.log('   -v | --verify : check stored content against current JSROOT version');
            console.log('   -c | --create : perform checks and overwrite when results differ');
            console.log('   -k | --key keyname : select specific key (class name) like TH1 or TProfile for testing');
-           console.log('   -o | --opt id : select specific option id, only when key is pecified');
+           console.log('   -o | --opt id : select specific option id (number or name), only when key is specified');
            console.log('   -m | --more : use more tests');
            return;
       }
@@ -116,7 +120,7 @@ function ProduceFile(content, extension) {
 function ProduceSVG(obj, opt) {
 
    // use only for object reading
-   if ((theonlyoption>=0) && theonlyoption!==optid)
+   if ((theOnlyOptionId>=0) && theOnlyOptionId!==optid)
       return ProcessNextOption();
 
    jsroot.MakeSVG({ object: obj, option: opt, width: 1200, height: 800 })
@@ -162,7 +166,7 @@ function ProcessNextOption(reset_mathjax) {
       }
 
       if (itemid < 0) { // first check that all items are processed
-         if (theonlyoption == optid) {
+         if (theOnlyOptionId == optid) {
             keyid = null;
             return ProcessNextOption();
          }
@@ -245,11 +249,15 @@ function ProcessNextOption(reset_mathjax) {
 
    if (itemid >= 0)
       entry_name = (entry.name || keyid) + "_" + itemname + (opt ? "_" + opt : "");
-   else
-   if ('name' in entry)
+   else if ('name' in entry)
       entry_name = entry.name;
    else
       entry_name = opt ? opt : keyid;
+
+   if (theOnlyOption) {
+      if (entry_name != theOnlyOption) return ProcessNextOption();
+      console.log('Select option', entry);
+   }
 
    ProduceGlobalStyleCopy();
    if (!entry.style && init_style) jsroot.gStyle = jsroot.extend({}, init_style);
