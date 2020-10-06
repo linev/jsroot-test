@@ -1,6 +1,5 @@
 let jsroot = require("jsroot");
 let fs = require("fs");
-// let seedrandom = require('seedrandom');
 
 require("./../jsroot/demo/examples.js");
 
@@ -53,7 +52,6 @@ if (process.argv && (process.argv.length > 2)) {
            }
 
            break;
-
 
         default:
            console.log('Usage: node test.js [options]');
@@ -116,7 +114,6 @@ function ProduceFile(content, extension) {
    });
 }
 
-
 function ProduceSVG(obj, opt) {
 
    // use only for object reading
@@ -141,9 +138,9 @@ function ProduceJSON(tree, opt, branchname) {
       if (!args.branch) console.log('Fail to find branch', branchname)
    }
 
-   tree.Draw(args, function(res) {
-      if (res) res = JSON.stringify(res); else res = "<fail>";
-      ProduceFile(res, ".json");
+   tree.Draw(args).then(res => {
+      let json = res ? JSON.stringify(res) : "<fail>";
+      ProduceFile(json, ".json");
    });
 }
 
@@ -328,5 +325,7 @@ function ProcessNextOption(reset_mathjax) {
       ProduceSVG(testobj, opt+opt2);
    }
 }
+
+// start processing
 
 ProcessNextOption();
