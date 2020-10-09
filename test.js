@@ -263,7 +263,7 @@ function ProcessNextOption(reset_mathjax) {
    if (jsroot.Painter) jsroot.Painter.createRootColors(); // ensure default colors
    jsroot.gStyle.Latex = entry.latex || 2; //
    // seedrandom('hello.', { global: true }); // set global random
-   jsroot.id_counter = 0; // used in some custom styles
+   jsroot._.id_counter = 1; // used in some custom styles
 
    if (keyid === "TTree") {
       if (entry.url || entry.large) return ProcessNextOption(); // ignore direct URL
