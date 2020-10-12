@@ -261,7 +261,8 @@ function ProcessNextOption(reset_mathjax) {
 
    // ensure default options
    if (jsroot.Painter) jsroot.Painter.createRootColors(); // ensure default colors
-   jsroot.gStyle.Latex = entry.latex || 2; //
+   jsroot.settings.Latex = 2;
+   if (entry.latex) jsroot.settings.Latex = jsroot.constants.Latex.fromString(entry.latex);
    // seedrandom('hello.', { global: true }); // set global random
    jsroot._.id_counter = 1; // used in some custom styles
 
