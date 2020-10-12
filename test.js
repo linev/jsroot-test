@@ -287,7 +287,7 @@ function ProcessNextOption(reset_mathjax) {
       return ProcessNextOption();
    } else if (jsonname.length > 0) {
       testfile = testobj = null;
-      jsroot.HttpRequest(jsonname, 'object').then(obj => {
+      jsroot.httpRequest(jsonname, 'object').then(obj => {
          testobj = obj;
          ProduceSVG(testobj, opt+opt2);
       });
