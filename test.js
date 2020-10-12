@@ -270,7 +270,7 @@ function ProcessNextOption(reset_mathjax) {
       if (entry.url || entry.large) return ProcessNextOption(); // ignore direct URL
       // console.log('Processing ', entry);
 
-      jsroot.OpenFile(filename).then(file => {
+      jsroot.openFile(filename).then(file => {
          let branchname = "", pos = itemname.indexOf(";1/");
          if (pos>0) { branchname = itemname.substr(pos+3); itemname = itemname.substr(0, pos+2); }
          if (!branchname && opt == "dump") {
@@ -292,30 +292,30 @@ function ProcessNextOption(reset_mathjax) {
          ProduceSVG(testobj, opt+opt2);
       });
    } else if (filename.length > 0) {
-      jsroot.OpenFile(filename).then(file => {
+      jsroot.openFile(filename).then(file => {
          testfile = file;
-         testfile.ReadObject(itemname).then(obj => {
-            if (itemid==-2) {
-               // special handling of style
-               // Check that copy of gStyle exists
-               ProduceGlobalStyleCopy();
-               // first create copy of existing style
-               let newstyle = jsroot.extend({}, jsroot.gStyle);
-               // then apply changes to the
-               jsroot.gStyle = jsroot.extend(newstyle, obj);
-               return ProcessNextOption();
-            } else {
-               if (itemfield) {
-                  if (itemfield == "Overlaps/ov00010") {
-                     obj = obj.fOverlaps.arr[10];
-                     console.log("found obj", obj ? obj._typename : "none");
-                  } else if (obj[itemfield])
-                     obj = obj[itemfield];
-               }
-               testobj = obj;
-               ProduceSVG(testobj, opt+opt2);
+         return testfile.ReadObject(itemname);
+      }).then(obj => {
+         if (itemid==-2) {
+            // special handling of style
+            // Check that copy of gStyle exists
+            ProduceGlobalStyleCopy();
+            // first create copy of existing style
+            let newstyle = jsroot.extend({}, jsroot.gStyle);
+            // then apply changes to the
+            jsroot.gStyle = jsroot.extend(newstyle, obj);
+            return ProcessNextOption();
+         } else {
+            if (itemfield) {
+               if (itemfield == "Overlaps/ov00010") {
+                  obj = obj.fOverlaps.arr[10];
+                  console.log("found obj", obj ? obj._typename : "none");
+               } else if (obj[itemfield])
+                  obj = obj[itemfield];
             }
-         });
+            testobj = obj;
+            ProduceSVG(testobj, opt+opt2);
+         }
       });
    } else if (itemname.length > 0) {
       testfile.ReadObject(itemname).then(obj => {
