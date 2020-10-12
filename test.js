@@ -120,7 +120,7 @@ function ProduceSVG(obj, opt) {
    if ((theOnlyOptionId>=0) && theOnlyOptionId!==optid)
       return ProcessNextOption();
 
-   jsroot.MakeSVG({ object: obj, option: opt, width: 1200, height: 800 })
+   jsroot.makeSVG({ object: obj, option: opt, width: 1200, height: 800 })
          .then(svg => ProduceFile(svg, ".svg"));
 }
 
