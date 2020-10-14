@@ -3,7 +3,7 @@ let fs = require("fs");
 
 require("./../jsroot/demo/examples.js");
 
-console.log('JSROOT version', jsroot.version);
+console.log(`JSROOT version  ${jsroot.version} ${jsroot.version_date}`);
 
 let init_style = null,
     test_mode = "verify", nmatch = 0, ndiff = 0, nnew = 0,
