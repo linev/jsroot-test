@@ -1,1 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800"><title>ROOT canvas</title><rect x="0" y="0" width="1200" height="800" style="fill: white;"></rect><g><g transform="translate(120,80)"><title></title><rect x="0" y="0" width="960" height="640" style="fill: white; stroke: black; stroke-width: 1;"></rect><g><path d="M0,0v640M120,0v640M240,0v640M360,0v640M480,0v640M600,0v640M720,0v640M840,0v640M960,0v640" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path><path d="M0,576h960M0,448h960M0,320h960M0,192h960M0,64h960" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path></g><svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640"><g><path d="M12,272h48v368h-48zM132,531h48v109h-48zM252,379h48v261h-48zM372,314h48v326h-48zM492,315h48v325h-48zM612,428h48v212h-48zM732,403h48v237h-48zM852,472h48v168h-48z" style="fill: blue;"></path></g><g><path d="M60,255h48v385h-48zM180,513h48v127h-48zM300,362h48v278h-48zM420,296h48v344h-48zM540,298h48v342h-48zM660,411h48v229h-48zM780,385h48v255h-48zM900,454h48v186h-48z" style="fill: rgb(125,153,209);"></path></g></svg><g><g transform="translate(0,640)"><line x1="0" y1="0" x2="960" y2="0" style="stroke: black; stroke-width: 1;"></line><path d="M0,-24v24m120,-24v24m120,-24v24m120,-24v24m120,-24v24m120,-24v24m120,-24v24m120,-24v24m120,-12v12" style="stroke: black; stroke-width: 1;"></path><g font-family="Arial" font-size="28" space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(60,6)">8</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(180,6)">32</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(300,6)">128</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(420,6)">512</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(540,6)">2048</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(660,6)">8192</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(780,6)">32768</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(900,6)">131072</text></g></g><g><line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line><path d="M18,640h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18" style="stroke: black; stroke-width: 1;"></path><g font-family="Arial" font-size="28" space="preserve"><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,576)">-4</text><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,448)">-2</text><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,320)">0</text><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,192)">2</text><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,64)">4</text></g></g></g></g><g transform="translate(425,4)" font-family="Arial" font-size="38" space="preserve"><path d="M0,0h350v52h-350z" style="fill: none;"></path><text fill="black" text-anchor="middle" dy=".4em" transform="translate(175,26)">Option B example</text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+ <title>
+  ROOT canvas
+ </title>
+ <rect x="0" y="0" width="1200" height="800" style="fill: white;"></rect>
+ <g>
+  <g transform="translate(120,80)">
+   <title></title>
+   <rect x="0" y="0" width="960" height="640" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+   <g>
+    <path d="M0,0v640M120,0v640M240,0v640M360,0v640M480,0v640M600,0v640M720,0v640M840,0v640M960,0v640" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+    <path d="M0,576h960M0,448h960M0,320h960M0,192h960M0,64h960" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+   </g>
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
+    <g>
+     <path d="M12,272h48v368h-48zM132,531h48v109h-48zM252,379h48v261h-48zM372,314h48v326h-48zM492,315h48v325h-48zM612,428h48v212h-48zM732,403h48v237h-48zM852,472h48v168h-48z" style="fill: blue;"></path>
+    </g>
+    <g>
+     <path d="M60,255h48v385h-48zM180,513h48v127h-48zM300,362h48v278h-48zM420,296h48v344h-48zM540,298h48v342h-48zM660,411h48v229h-48zM780,385h48v255h-48zM900,454h48v186h-48z" style="fill: rgb(125,153,209);"></path>
+    </g>
+   </svg>
+   <g>
+    <g transform="translate(0,640)">
+     <line x1="0" y1="0" x2="960" y2="0" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,-24v24m120,-24v24m120,-24v24m120,-24v24m120,-24v24m120,-24v24m120,-24v24m120,-24v24m120,-12v12" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(60,6)">
+       8
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(180,6)">
+       32
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(300,6)">
+       128
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(420,6)">
+       512
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(540,6)">
+       2048
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(660,6)">
+       8192
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(780,6)">
+       32768
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(900,6)">
+       131072
+      </text>
+     </g>
+    </g>
+    <g>
+     <line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M18,640h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,576)">
+       -4
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,448)">
+       -2
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,320)">
+       0
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,192)">
+       2
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,64)">
+       4
+      </text>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(425,4)" font-family="Arial" font-size="38" space="preserve">
+   <path d="M0,0h350v52h-350z" style="fill: none;"></path>
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(175,26)">
+    Option B example
+   </text>
+  </g>
+ </g>
+</svg>
