@@ -1,6 +1,6 @@
-let jsroot = require("jsroot");
-let fs = require("fs");
-let xml_formatter = require('xml-formatter');
+let jsroot = require("jsroot"),
+    fs = require("fs"),
+    xml_formatter = require('xml-formatter');
 
 require("./../jsroot/demo/examples.js");
 
@@ -10,7 +10,8 @@ let init_style = null,
     test_mode = "verify", nmatch = 0, ndiff = 0, nnew = 0,
     keyid = 'TH1', theonlykey = false, optid = -1,
     theOnlyOption, theOnlyOptionId = -100, itemid = -1,
-    entry, entry_name = "", testfile = null, testobj = null;
+    entry, entry_name = "", testfile = null, testobj = null,
+    last_time = new Date().getTime();
 
 if (process.argv && (process.argv.length > 2)) {
 
@@ -77,13 +78,10 @@ function ProduceFile(content, extension) {
                           .replace(/\</g,'less').replace(/\|/g,'I')
                           .replace(/\[/g,'L').replace(/\]/g,'J').replace(/\*/g,'star');
 
-   // in older node.js fs.constants not exists
-   let w_ok = fs.constants ? fs.constants.W_OK : fs.W_OK;
-
    if (extension != ".json")
       content = xml_formatter(content, {indentation: ' ', lineSeparator: '\n' });
 
-   fs.access(keyid, w_ok, function(dir_err) {
+   fs.access(keyid, fs.constants.W_OK, function(dir_err) {
 
       if (dir_err) fs.mkdirSync(keyid);
 
@@ -155,6 +153,13 @@ function ProcessNextOption(reset_mathjax) {
       console.log('No more data to process');
       console.log("SUMMARY: match", nmatch, "diff", ndiff, "new", nnew);
       return;
+   }
+
+   // make timeout to avoid deep callstack
+   let curr_time = new Date().getTime();
+   if ((curr_time - last_time > 10000) && !reset_mathjax) {
+      last_time = curr_time;
+      return setTimeout(() => ProcessNextOption(), 1);
    }
 
    let opts = examples_main[keyid];
