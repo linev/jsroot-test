@@ -1,5 +1,6 @@
 let jsroot = require("jsroot");
 let fs = require("fs");
+let xml_formatter = require('xml-formatter');
 
 require("./../jsroot/demo/examples.js");
 
@@ -78,6 +79,8 @@ function ProduceFile(content, extension) {
 
    // in older node.js fs.constants not exists
    let w_ok = fs.constants ? fs.constants.W_OK : fs.W_OK;
+
+   content = xml_formatter(content, {indentation: ' ', lineSeparator: '\n' });
 
    fs.access(keyid, w_ok, function(dir_err) {
 
