@@ -1,1 +1,88 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800"><title>ROOT canvas</title><rect x="0" y="0" width="1200" height="800" style="fill: none;"></rect><g><g transform="translate(120,80)"><title></title><rect x="0" y="0" width="960" height="640" style="fill: white; stroke: black; stroke-width: 1;"></rect><svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640"><g><path d="M97,498l174,-178l174,-178l174,267l174,-178" style="stroke: black; stroke-width: 1; fill: none;"></path><g transform="translate(97,498)"><path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0L-17,0m0,3v-6M0,0L17,0m0,3v-6M0,0L0,89m3,0h-6M0,0L0,-89m3,0h-6"></path></g><g transform="translate(271,320)"><path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0L-35,0m0,3v-6M0,0L35,0m0,3v-6M0,0L0,44m3,0h-6M0,0L0,-44m3,0h-6"></path></g><g transform="translate(445,142)"><path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0L-52,0m0,3v-6M0,0L52,0m0,3v-6M0,0L0,89m3,0h-6M0,0L0,-89m3,0h-6"></path></g><g transform="translate(619,409)"><path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0L-70,0m0,3v-6M0,0L70,0m0,3v-6M0,0L0,44m3,0h-6M0,0L0,-44m3,0h-6"></path></g><g transform="translate(793,231)"><path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0L-87,0m0,3v-6M0,0L87,0m0,3v-6M0,0L0,89m3,0h-6M0,0L0,-89m3,0h-6"></path></g></g></svg><g><g transform="translate(0,640)"><line x1="0" y1="0" x2="960" y2="0" style="stroke: black; stroke-width: 1;"></line><path d="M28,-12v12m35,-12v12m34,-24v24m35,-12v12m35,-12v12m35,-12v12m35,-12v12m34,-24v24m35,-12v12m35,-12v12m35,-12v12m34,-12v12m35,-24v24m35,-12v12m35,-12v12m35,-12v12m34,-12v12m35,-24v24m35,-12v12m35,-12v12m34,-12v12m35,-12v12m35,-24v24m35,-12v12m35,-12v12m34,-12v12m35,-12v12" style="stroke: black; stroke-width: 1;"></path><g font-family="Arial" font-size="28" space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(97,6)">0</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(271,6)">1</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(445,6)">2</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(619,6)">3</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(793,6)">4</text></g></g><g><line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line><path d="M18,640h-18m18,-18h-18m18,-18h-18m36,-17h-36m18,-18h-18m18,-18h-18m18,-18h-18m18,-17h-18m36,-18h-36m18,-18h-18m18,-18h-18m18,-18h-18m18,-17h-18m36,-18h-36m18,-18h-18m18,-18h-18m18,-17h-18m18,-18h-18m36,-18h-36m18,-18h-18m18,-18h-18m18,-17h-18m18,-18h-18m36,-18h-36m18,-18h-18m18,-17h-18m18,-18h-18m18,-18h-18m36,-18h-36m18,-18h-18m18,-17h-18m18,-18h-18m18,-18h-18m36,-18h-36m18,-17h-18m18,-18h-18m18,-18h-18" style="stroke: black; stroke-width: 1;"></path><g font-family="Arial" font-size="28" space="preserve"><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,587)">-1</text><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,498)">0</text><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,409)">1</text><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,320)">2</text><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,231)">3</text><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,142)">4</text><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,53)">5</text></g></g></g></g><g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve"><path d="M0,0h960v53h-960z" style="fill: none;"></path><text fill="black" text-anchor="middle" dy=".8em" transform="translate(480,0)">Graph</text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+ <title>
+  ROOT canvas
+ </title>
+ <rect x="0" y="0" width="1200" height="800" style="fill: none;"></rect>
+ <g>
+  <g transform="translate(120,80)">
+   <title></title>
+   <rect x="0" y="0" width="960" height="640" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
+    <g>
+     <path d="M97,498l174,-178l174,-178l174,267l174,-178" style="stroke: black; stroke-width: 1; fill: none;"></path>
+     <g transform="translate(97,498)">
+      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0L-17,0m0,3v-6M0,0L17,0m0,3v-6M0,0L0,89m3,0h-6M0,0L0,-89m3,0h-6"></path>
+     </g>
+     <g transform="translate(271,320)">
+      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0L-35,0m0,3v-6M0,0L35,0m0,3v-6M0,0L0,44m3,0h-6M0,0L0,-44m3,0h-6"></path>
+     </g>
+     <g transform="translate(445,142)">
+      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0L-52,0m0,3v-6M0,0L52,0m0,3v-6M0,0L0,89m3,0h-6M0,0L0,-89m3,0h-6"></path>
+     </g>
+     <g transform="translate(619,409)">
+      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0L-70,0m0,3v-6M0,0L70,0m0,3v-6M0,0L0,44m3,0h-6M0,0L0,-44m3,0h-6"></path>
+     </g>
+     <g transform="translate(793,231)">
+      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0L-87,0m0,3v-6M0,0L87,0m0,3v-6M0,0L0,89m3,0h-6M0,0L0,-89m3,0h-6"></path>
+     </g>
+    </g>
+   </svg>
+   <g>
+    <g transform="translate(0,640)">
+     <line x1="0" y1="0" x2="960" y2="0" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M28,-12v12m35,-12v12m34,-24v24m35,-12v12m35,-12v12m35,-12v12m35,-12v12m34,-24v24m35,-12v12m35,-12v12m35,-12v12m34,-12v12m35,-24v24m35,-12v12m35,-12v12m35,-12v12m34,-12v12m35,-24v24m35,-12v12m35,-12v12m34,-12v12m35,-12v12m35,-24v24m35,-12v12m35,-12v12m34,-12v12m35,-12v12" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(97,6)">
+       0
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(271,6)">
+       1
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(445,6)">
+       2
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(619,6)">
+       3
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(793,6)">
+       4
+      </text>
+     </g>
+    </g>
+    <g>
+     <line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M18,640h-18m18,-18h-18m18,-18h-18m36,-17h-36m18,-18h-18m18,-18h-18m18,-18h-18m18,-17h-18m36,-18h-36m18,-18h-18m18,-18h-18m18,-18h-18m18,-17h-18m36,-18h-36m18,-18h-18m18,-18h-18m18,-17h-18m18,-18h-18m36,-18h-36m18,-18h-18m18,-18h-18m18,-17h-18m18,-18h-18m36,-18h-36m18,-18h-18m18,-17h-18m18,-18h-18m18,-18h-18m36,-18h-36m18,-18h-18m18,-17h-18m18,-18h-18m18,-18h-18m36,-18h-36m18,-17h-18m18,-18h-18m18,-18h-18" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,587)">
+       -1
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,498)">
+       0
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,409)">
+       1
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,320)">
+       2
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,231)">
+       3
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,142)">
+       4
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,53)">
+       5
+      </text>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
+   <path d="M0,0h960v53h-960z" style="fill: none;"></path>
+   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480,0)">
+    Graph
+   </text>
+  </g>
+ </g>
+</svg>
