@@ -1,1 +1,120 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800"><title>ROOT canvas</title><rect x="0" y="0" width="1200" height="800" style="fill: none;"></rect><g><g transform="translate(120,80)"><title></title><rect x="0" y="0" width="960" height="640" style="fill: white; stroke: black; stroke-width: 1;"></rect><svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640"><g><path d="M0,640h610v-457v457h43v-610h1v610h306" style="stroke-linejoin: miter; stroke: rgb(0,0,154); stroke-width: 1; fill: none;"></path></g></svg><g><g transform="translate(0,640)"><line x1="0" y1="0" x2="960" y2="0" style="stroke: black; stroke-width: 1;"></line><path d="M0,-24v24m46,-12v12m46,-12v12m45,-12v12m46,-24v24m46,-12v12m46,-12v12m46,-12v12m45,-24v24m46,-12v12m46,-12v12m46,-12v12m46,-24v24m45,-12v12m46,-12v12m46,-12v12m46,-24v24m46,-12v12m45,-12v12m46,-12v12m46,-24v24" style="stroke: black; stroke-width: 1;"></path><g font-family="Arial" font-size="28" space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,6)">0</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(183,6)">0.2</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(366,6)">0.4</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(550,6)">0.6</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(733,6)">0.8</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(916,6)">1</text><text fill="black" text-anchor="start" transform="translate(965,-3)"><tspan dy="-.1em">×10</tspan><tspan font-size="60%" dx=".1em" dy="-.6em">6</tspan></text></g><g font-family="Arial" font-size="28" space="preserve" transform="translate(960,45)"><text fill="black" text-anchor="end" dy=".4em">bytes</text></g></g><g><line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line><path d="M36,640h-36m18,-15h-18m18,-15h-18m18,-16h-18m18,-15h-18m36,-15h-36m18,-15h-18m18,-16h-18m18,-15h-18m18,-15h-18m36,-15h-36m18,-16h-18m18,-15h-18m18,-15h-18m18,-15h-18m36,-16h-36m18,-15h-18m18,-15h-18m18,-15h-18m18,-16h-18m36,-15h-36m18,-15h-18m18,-15h-18m18,-15h-18m18,-16h-18m36,-15h-36m18,-15h-18m18,-15h-18m18,-16h-18m18,-15h-18m36,-15h-36m18,-15h-18m18,-16h-18m18,-15h-18m18,-15h-18m36,-15h-36m18,-16h-18m18,-15h-18m18,-15h-18m18,-15h-18m36,-16h-36m18,-15h-18m18,-15h-18" style="stroke: black; stroke-width: 1;"></path><g font-family="Arial" font-size="28" space="preserve"><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,640)">0</text><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,564)">0.5</text><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,488)">1</text><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,411)">1.5</text><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,335)">2</text><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,259)">2.5</text><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,183)">3</text><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,107)">3.5</text><text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,30)">4</text></g></g></g></g><g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve"><path d="M0,0h960v53h-960z" style="fill: none;"></path><text fill="black" text-anchor="middle" dy=".8em" transform="translate(480,0)">Payload size of blocks</text></g><g transform="translate(936,52)" font-family="Arial" font-size="26" space="preserve"><path d="M0,0h240v128h-240z" style="fill: white; stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="middle" dy=".4em" transform="translate(120,16)">payloadSize</text><text fill="black" text-anchor="start" dy=".4em" transform="translate(12,48)">Entries </text><text fill="black" text-anchor="end" dy=".4em" transform="translate(228,48)"> 7</text><text fill="black" text-anchor="start" dy=".4em" transform="translate(12,80)">Mean </text><text fill="black" text-anchor="end" dy=".4em" transform="translate(228,80)"> 693134</text><text fill="black" text-anchor="start" dy=".4em" transform="translate(12,112)">Std Dev </text><text fill="black" text-anchor="end" dy=".4em" transform="translate(228,112)"> 23540</text><path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+ <title>
+  ROOT canvas
+ </title>
+ <rect x="0" y="0" width="1200" height="800" style="fill: none;"></rect>
+ <g>
+  <g transform="translate(120,80)">
+   <title></title>
+   <rect x="0" y="0" width="960" height="640" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
+    <g>
+     <path d="M0,640h610v-457v457h43v-610h1v610h306" style="stroke-linejoin: miter; stroke: rgb(0,0,154); stroke-width: 1; fill: none;"></path>
+    </g>
+   </svg>
+   <g>
+    <g transform="translate(0,640)">
+     <line x1="0" y1="0" x2="960" y2="0" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,-24v24m46,-12v12m46,-12v12m45,-12v12m46,-24v24m46,-12v12m46,-12v12m46,-12v12m45,-24v24m46,-12v12m46,-12v12m46,-12v12m46,-24v24m45,-12v12m46,-12v12m46,-12v12m46,-24v24m46,-12v12m45,-12v12m46,-12v12m46,-24v24" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,6)">
+       0
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(183,6)">
+       0.2
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(366,6)">
+       0.4
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(550,6)">
+       0.6
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(733,6)">
+       0.8
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(916,6)">
+       1
+      </text>
+      <text fill="black" text-anchor="start" transform="translate(965,-3)">
+       <tspan dy="-.1em">
+        ×10
+       </tspan>
+       <tspan font-size="60%" dx=".1em" dy="-.6em">
+        6
+       </tspan>
+      </text>
+     </g>
+     <g font-family="Arial" font-size="28" space="preserve" transform="translate(960,45)">
+      <text fill="black" text-anchor="end" dy=".4em">
+       bytes
+      </text>
+     </g>
+    </g>
+    <g>
+     <line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M36,640h-36m18,-15h-18m18,-15h-18m18,-16h-18m18,-15h-18m36,-15h-36m18,-15h-18m18,-16h-18m18,-15h-18m18,-15h-18m36,-15h-36m18,-16h-18m18,-15h-18m18,-15h-18m18,-15h-18m36,-16h-36m18,-15h-18m18,-15h-18m18,-15h-18m18,-16h-18m36,-15h-36m18,-15h-18m18,-15h-18m18,-15h-18m18,-16h-18m36,-15h-36m18,-15h-18m18,-15h-18m18,-16h-18m18,-15h-18m36,-15h-36m18,-15h-18m18,-16h-18m18,-15h-18m18,-15h-18m36,-15h-36m18,-16h-18m18,-15h-18m18,-15h-18m18,-15h-18m36,-16h-36m18,-15h-18m18,-15h-18" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,640)">
+       0
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,564)">
+       0.5
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,488)">
+       1
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,411)">
+       1.5
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,335)">
+       2
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,259)">
+       2.5
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,183)">
+       3
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,107)">
+       3.5
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,30)">
+       4
+      </text>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
+   <path d="M0,0h960v53h-960z" style="fill: none;"></path>
+   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480,0)">
+    Payload size of blocks
+   </text>
+  </g>
+  <g transform="translate(936,52)" font-family="Arial" font-size="26" space="preserve">
+   <path d="M0,0h240v128h-240z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(120,16)">
+    payloadSize
+   </text>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,48)">
+    Entries
+   </text>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,48)">
+    7
+   </text>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,80)">
+    Mean
+   </text>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,80)">
+    693134
+   </text>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,112)">
+    Std Dev
+   </text>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,112)">
+    23540
+   </text>
+   <path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path>
+  </g>
+ </g>
+</svg>
