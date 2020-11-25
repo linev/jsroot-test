@@ -286,7 +286,7 @@ function ProcessNextOption(reset_mathjax) {
             pos = itemname.indexOf("/");
             if (pos > 0) { branchname = itemname.substr(pos+1); itemname = itemname.substr(0, pos); }
          }
-         file.ReadObject(itemname).then(tree => {
+         file.readObject(itemname).then(tree => {
             // if (branchname) console.log('Branch name is', branchname);
             ProduceJSON(tree, opt+opt2, branchname);
          }).catch(()=> { console.log('Fail to find tree', itemname); ProcessNextOption(); });
@@ -303,7 +303,7 @@ function ProcessNextOption(reset_mathjax) {
    } else if (filename.length > 0) {
       jsroot.openFile(filename).then(file => {
          testfile = file;
-         return testfile.ReadObject(itemname);
+         return testfile.readObject(itemname);
       }).then(obj => {
          if (itemid==-2) {
             // special handling of style
@@ -327,7 +327,7 @@ function ProcessNextOption(reset_mathjax) {
          }
       });
    } else if (itemname.length > 0) {
-      testfile.ReadObject(itemname).then(obj => {
+      testfile.readObject(itemname).then(obj => {
          testobj = obj;
          ProduceSVG(testobj, opt+opt2);
       });
