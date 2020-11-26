@@ -8,7 +8,7 @@ let filename =  "http://jsroot.gsi.de/files/histpainter6.root",
 
 function TestEve() {
 
-   jsroot.HttpRequest("http://jsroot.gsi.de/files/geom/evegeoshape.json.gz", "object")
+   jsroot.httpRequest("http://jsroot.gsi.de/files/geom/evegeoshape.json.gz", "object")
          .then(obj => jsroot.makeSVG({ object: obj, width: 1200, height: 800 }))
          .then(svg => {
             fs.writeFileSync("eve.svg", svg);
@@ -19,7 +19,7 @@ function TestEve() {
 
 function TestHist() {
 
-   jsroot.OpenFile(filename)
+   jsroot.openFile(filename)
          .then(file => file.readObject(itemname))
          .then(obj => jsroot.makeSVG( { object: obj, width: 1200, height: 800 }))
          .then(svg => {
