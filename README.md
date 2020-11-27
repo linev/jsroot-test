@@ -1,6 +1,6 @@
 # jsroot-test
 
-JavaScript ROOT testing with Node.js v8
+JavaScript ROOT testing with Node.js v12
 
 This is set of tests for basic JSROOT functionality, using Node.js.
 On the first place one checks generation of SVG files.
@@ -15,13 +15,15 @@ Clone JSROOT repository on the same level as this one:
 
 After clone repository install all necessary modules:
 
+    [shell] cd jsroot
+    [shell] npm install
     [shell] cd jsroot-test
     [shell] npm install
 
-One could also use specific tags of JSROOT and appropriate tag in the tests    
+One could also use specific tags of JSROOT and appropriate tag in the tests
 
-    
-## Running    
+
+## Running
 
 Run tests and verify test SVG files:
 
@@ -34,12 +36,12 @@ Run tests only for TH1:
 Run tests and overwrite test SVG files:
 
     [shell] node test.js --create
-    
+
 Run more tests:
 
     [shell] node test.js --create --more
-    
+
 If SVG file differs from stored in repository, difference can be checked with command:
 
-    [shell] ./testdiff.sh TH1/TH1.svg    
+    [shell] ./testdiff.sh TH1/TH1.svg
 
