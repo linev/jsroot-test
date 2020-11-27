@@ -160,7 +160,8 @@ function ProcessURL(url) {
       hpainter.setDisplay(batch_disp);
 
       hpainter.startGUI(null, url).then(() => {
-         console.log('BATCH URL DRAWING DONE!!!', batch_disp.numFrames());
+         if (batch_disp.numFrames() == 0)
+            console.log('   !!! BATCH URL CREATES NO FRAME !!!', keyid, entry_name);
          for (let n = 0; n < batch_disp.numFrames(); ++n) {
             let json = batch_disp.makeJSON(n, 1);
             if (json) ProduceFile(json, ".json", n);
