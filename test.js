@@ -71,55 +71,62 @@ function ProduceGlobalStyleCopy() {
    if (!init_style && jsroot.Painter) init_style = jsroot.gStyle;
 }
 
-function ProduceFile(content, extension) {
+function ProduceFile(content, extension, subid_promise) {
    if (!entry_name) entry_name = keyid;
 
    entry_name = entry_name.replace(/\+/g,'p').replace(/\>/g,'more')
                           .replace(/\</g,'less').replace(/\|/g,'I')
                           .replace(/\[/g,'L').replace(/\]/g,'J').replace(/\*/g,'star');
 
+   if (subid_promise && (subid_promise != 1))
+      entry_name = entry_name + "_" + subid_promise;
+
    if (extension != ".json")
       content = xml_formatter(content, {indentation: ' ', lineSeparator: '\n' });
 
-   fs.access(keyid, fs.constants.W_OK, function(dir_err) {
+   try {
+      fs.accessSync(keyid, fs.constants.W_OK);
+   } catch(err) {
+      fs.mkdirSync(keyid);
+   }
 
-      if (dir_err) fs.mkdirSync(keyid);
+   let svgname = keyid + "/" + entry_name + extension,
+       svg0 = null, result = "MATCH";
 
-      let svgname = keyid + "/" + entry_name + extension,
-          svg0 = null, result = "MATCH";
+   try {
+     svg0 = fs.readFileSync(svgname, 'utf-8');
+     if (svg0 != content) result = "DIFF";
+   } catch(e) {
+     svg0 = null;
+     result = "NEW";
+   }
 
-      try {
-        svg0 = fs.readFileSync(svgname, 'utf-8');
-        if (svg0 != content) result = "DIFF";
-      } catch(e) {
-        svg0 = null;
-        result = "NEW";
-      }
+   switch (result) {
+      case "NEW": nnew++; break;
+      case "DIFF": ndiff++; break;
+      default: nmatch++;
+   }
 
-      switch (result) {
-         case "NEW": nnew++; break;
-         case "DIFF": ndiff++; break;
-         default: nmatch++;
-      }
+   let clen = content ? content.length : -1;
+   console.log(keyid, entry_name, 'result', result, 'len='+clen, (svg0 && result=='DIFF' ? 'rel0='+(clen/svg0.length*100).toFixed(1)+'\%' : ''));
 
-      let clen = content ? content.length : -1;
-      console.log(keyid, entry_name, 'result', result, 'len='+clen, (svg0 && result=='DIFF' ? 'rel0='+(clen/svg0.length*100).toFixed(1)+'\%' : ''));
+   if ((result === "NEW") || ((test_mode === 'create') && (result!=='MATCH'))) {
+      if (clen > 0)
+         fs.writeFileSync(svgname, content);
+      else if (result !== "NEW")
+         fs.unlink(svgname);
+   }
 
-      if ((result === "NEW") || ((test_mode === 'create') && (result!=='MATCH'))) {
-         if (clen > 0)
-            fs.writeFileSync(svgname, content);
-         else if (result !== "NEW")
-            fs.unlink(svgname);
-      }
-
+   if (subid_promise)
+      return Promise.resolve({});
+   else
       ProcessNextOption();
-   });
 }
 
 function ProduceSVG(obj, opt) {
 
    // use only for object reading
-   if ((theOnlyOptionId>=0) && theOnlyOptionId!==optid)
+   if ((theOnlyOptionId >= 0) && theOnlyOptionId !== optid)
       return ProcessNextOption();
 
    jsroot.makeSVG({ object: obj, option: opt, width: 1200, height: 800 })
@@ -143,6 +150,25 @@ function ProduceJSON(tree, opt, branchname) {
    tree.Draw(args).then(res => {
       let json = res ? JSON.stringify(res) : "<fail>";
       ProduceFile(json, ".json");
+   });
+}
+
+function ProcessURL(url) {
+
+   return jsroot.require('hierarchy').then(() => {
+
+      let hpainter = new jsroot.HierarchyPainter("testing", null);
+      let batch_disp = new JSROOT.BatchDisplay();
+      batch_disp.draw = function(frame_id, obj, opt) {
+         // frame_id is just frame number
+         return jsroot.makeSVG({ object: obj, option: opt, width: 1200, height: 800 })
+            .then(svg => ProduceFile(svg, ".svg", frame_id));
+      }
+      hpainter.setDisplay(batch_disp);
+
+      hpainter.startGUI(null, url).then(() => {
+         ProcessNextOption();
+      });
    });
 }
 
@@ -244,8 +270,9 @@ function ProcessNextOption(reset_mathjax) {
 
    if (entry.r3d) opt2 = (opt ? "," : "") + "r3d_" + entry.r3d;
 
-   if (entry.url) url = entry.url.replace(/\$\$\$/g, filepath); else
-   if (entry.asurl) {
+   if (entry.url)
+      url = entry.url.replace(/\$\$\$/g, filepath);
+   else if (entry.asurl) {
       url = ((entry.asurl === "browser") ? "?" : "?nobrowser&");
       url += jsonname ? "json=" + jsonname : "file=" + filename + "&item=" + itemname;
       url += itemname + "&opt=" + opt + opt2;
@@ -286,13 +313,12 @@ function ProcessNextOption(reset_mathjax) {
             pos = itemname.indexOf("/");
             if (pos > 0) { branchname = itemname.substr(pos+1); itemname = itemname.substr(0, pos); }
          }
-         file.readObject(itemname).then(tree => {
-            // if (branchname) console.log('Branch name is', branchname);
-            ProduceJSON(tree, opt+opt2, branchname);
-         }).catch(()=> { console.log('Fail to find tree', itemname); ProcessNextOption(); });
-      });
-   } else if (((url.length > 0) && !entry.asurl)) {
+         return file.readObject(itemname);
+      }).then(tree => ProduceJSON(tree, opt+opt2, branchname))
+        .catch(()=> { console.log('Fail to find tree', itemname); ProcessNextOption(); });
+   } else if ((url.length > 0) && !entry.asurl) {
       testfile = testobj = null;
+      if (entry.dotest) return ProcessURL(url);
       return ProcessNextOption();
    } else if (jsonname.length > 0) {
       testfile = testobj = null;
