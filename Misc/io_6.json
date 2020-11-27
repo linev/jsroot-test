@@ -1,0 +1,1759 @@
+{
+ "_typename": "TXmlEx7",
+ "fStr1": "String with special characters: \" & < >",
+ "fStr2": "Very long Value of STL string// ***********************************************************8// ***********************************************************8// ***********************************************************8// ***********************************************************8// ***********************************************************8// ***********************************************************8// ***********************************************************8// ***********************************************************8// ***********************************************************8",
+ "fStrPtr1": "Value of < >  &lt; &gt; string fStrPtr1",
+ "fStrPtr2": "",
+ "fStrArr": [
+  "Value of fStrArr[0]",
+  "Value of fStrArr[1]",
+  "Value of fStrArr[2]"
+ ],
+ "fStrPtrArr": [
+  "value of fStrPtrArr[0]",
+  "value of fStrPtrArr[1]",
+  "value of fStrPtrArr[2]"
+ ],
+ "fBoolArr": {
+  "0": 0,
+  "1": 1,
+  "2": 0,
+  "3": 1,
+  "4": 0,
+  "5": 1,
+  "6": 0,
+  "7": 1,
+  "8": 0,
+  "9": 1
+ },
+ "fVectDouble": {
+  "0": 0,
+  "1": 3,
+  "2": 6,
+  "3": 9,
+  "4": 12,
+  "5": 15,
+  "6": 18,
+  "7": 21,
+  "8": 24,
+  "9": 27
+ },
+ "fVectBool": {
+  "0": 0,
+  "1": 1,
+  "2": 0,
+  "3": 1,
+  "4": 0,
+  "5": 1,
+  "6": 0,
+  "7": 1,
+  "8": 0,
+  "9": 1
+ },
+ "fVectDoubleArr": [
+  {
+   "0": 0,
+   "1": 1,
+   "2": 2,
+   "3": 3,
+   "4": 4,
+   "5": 5,
+   "6": 6,
+   "7": 7,
+   "8": 8,
+   "9": 9,
+   "10": 0,
+   "11": 3,
+   "12": 6,
+   "13": 9,
+   "14": 12,
+   "15": 15,
+   "16": 18,
+   "17": 21,
+   "18": 24,
+   "19": 27
+  },
+  {
+   "0": 10,
+   "1": 11,
+   "2": 12,
+   "3": 13,
+   "4": 14,
+   "5": 15,
+   "6": 16,
+   "7": 17,
+   "8": 18,
+   "9": 19,
+   "10": 0,
+   "11": 3,
+   "12": 6,
+   "13": 9,
+   "14": 12,
+   "15": 15,
+   "16": 18,
+   "17": 21,
+   "18": 24,
+   "19": 27
+  },
+  {
+   "0": 20,
+   "1": 21,
+   "2": 22,
+   "3": 23,
+   "4": 24,
+   "5": 25,
+   "6": 26,
+   "7": 27,
+   "8": 28,
+   "9": 29,
+   "10": 0,
+   "11": 3,
+   "12": 6,
+   "13": 9,
+   "14": 12,
+   "15": 15,
+   "16": 18,
+   "17": 21,
+   "18": 24,
+   "19": 27
+  }
+ ],
+ "fVectPtrDouble": {
+  "0": 0,
+  "1": 3,
+  "2": 6,
+  "3": 9,
+  "4": 12,
+  "5": 15,
+  "6": 18,
+  "7": 21,
+  "8": 24,
+  "9": 27
+ },
+ "fVectPtrDoubleArr": [
+  {
+   "0": 0,
+   "1": 3,
+   "2": 6,
+   "3": 9,
+   "4": 12,
+   "5": 15,
+   "6": 18,
+   "7": 21,
+   "8": 24,
+   "9": 27
+  },
+  {
+   "0": 100,
+   "1": 103,
+   "2": 106,
+   "3": 109,
+   "4": 112,
+   "5": 115,
+   "6": 118,
+   "7": 121,
+   "8": 124,
+   "9": 127
+  },
+  {
+   "0": 200,
+   "1": 203,
+   "2": 206,
+   "3": 209,
+   "4": 212,
+   "5": 215,
+   "6": 218,
+   "7": 221,
+   "8": 224,
+   "9": 227
+  }
+ ],
+ "fVectEx1": [
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  }
+ ],
+ "fVectEx1Ptr": [
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  }
+ ],
+ "fVectBox": [
+  {
+   "_typename": "TBox",
+   "fUniqueID": 0,
+   "fBits": 33554432,
+   "fLineColor": 1,
+   "fLineStyle": 1,
+   "fLineWidth": 1,
+   "fFillColor": 19,
+   "fFillStyle": 1001,
+   "fX1": 0,
+   "fY1": 0,
+   "fX2": 0,
+   "fY2": 0
+  },
+  {
+   "_typename": "TBox",
+   "fUniqueID": 0,
+   "fBits": 33554432,
+   "fLineColor": 1,
+   "fLineStyle": 1,
+   "fLineWidth": 1,
+   "fFillColor": 19,
+   "fFillStyle": 1001,
+   "fX1": 11,
+   "fY1": 22,
+   "fX2": 33,
+   "fY2": 44
+  },
+  {
+   "_typename": "TBox",
+   "fUniqueID": 0,
+   "fBits": 33554432,
+   "fLineColor": 1,
+   "fLineStyle": 1,
+   "fLineWidth": 1,
+   "fFillColor": 19,
+   "fFillStyle": 1001,
+   "fX1": 22,
+   "fY1": 44,
+   "fX2": 66,
+   "fY2": 88
+  },
+  {
+   "_typename": "TBox",
+   "fUniqueID": 0,
+   "fBits": 33554432,
+   "fLineColor": 1,
+   "fLineStyle": 1,
+   "fLineWidth": 1,
+   "fFillColor": 19,
+   "fFillStyle": 1001,
+   "fX1": 33,
+   "fY1": 66,
+   "fX2": 99,
+   "fY2": 132
+  },
+  {
+   "_typename": "TBox",
+   "fUniqueID": 0,
+   "fBits": 33554432,
+   "fLineColor": 1,
+   "fLineStyle": 1,
+   "fLineWidth": 1,
+   "fFillColor": 19,
+   "fFillStyle": 1001,
+   "fX1": 44,
+   "fY1": 88,
+   "fX2": 132,
+   "fY2": 176
+  },
+  {
+   "_typename": "TBox",
+   "fUniqueID": 0,
+   "fBits": 33554432,
+   "fLineColor": 1,
+   "fLineStyle": 1,
+   "fLineWidth": 1,
+   "fFillColor": 19,
+   "fFillStyle": 1001,
+   "fX1": 55,
+   "fY1": 110,
+   "fX2": 165,
+   "fY2": 220
+  },
+  {
+   "_typename": "TBox",
+   "fUniqueID": 0,
+   "fBits": 33554432,
+   "fLineColor": 1,
+   "fLineStyle": 1,
+   "fLineWidth": 1,
+   "fFillColor": 19,
+   "fFillStyle": 1001,
+   "fX1": 66,
+   "fY1": 132,
+   "fX2": 198,
+   "fY2": 264
+  },
+  {
+   "_typename": "TBox",
+   "fUniqueID": 0,
+   "fBits": 33554432,
+   "fLineColor": 1,
+   "fLineStyle": 1,
+   "fLineWidth": 1,
+   "fFillColor": 19,
+   "fFillStyle": 1001,
+   "fX1": 77,
+   "fY1": 154,
+   "fX2": 231,
+   "fY2": 308
+  },
+  {
+   "_typename": "TBox",
+   "fUniqueID": 0,
+   "fBits": 33554432,
+   "fLineColor": 1,
+   "fLineStyle": 1,
+   "fLineWidth": 1,
+   "fFillColor": 19,
+   "fFillStyle": 1001,
+   "fX1": 88,
+   "fY1": 176,
+   "fX2": 264,
+   "fY2": 352
+  },
+  {
+   "_typename": "TBox",
+   "fUniqueID": 0,
+   "fBits": 33554432,
+   "fLineColor": 1,
+   "fLineStyle": 1,
+   "fLineWidth": 1,
+   "fFillColor": 19,
+   "fFillStyle": 1001,
+   "fX1": 99,
+   "fY1": 198,
+   "fX2": 297,
+   "fY2": 396
+  }
+ ],
+ "fVectNames": [
+  {
+   "_typename": "TNamed",
+   "fUniqueID": 0,
+   "fBits": 33554432,
+   "fName": "Name0",
+   "fTitle": "Title0"
+  },
+  {
+   "_typename": "TNamed",
+   "fUniqueID": 0,
+   "fBits": 33554432,
+   "fName": "Name1",
+   "fTitle": "Title1"
+  },
+  {
+   "_typename": "TNamed",
+   "fUniqueID": 0,
+   "fBits": 33554432,
+   "fName": "Name2",
+   "fTitle": "Title2"
+  },
+  {
+   "_typename": "TNamed",
+   "fUniqueID": 0,
+   "fBits": 33554432,
+   "fName": "Name3",
+   "fTitle": "Title3"
+  },
+  {
+   "_typename": "TNamed",
+   "fUniqueID": 0,
+   "fBits": 33554432,
+   "fName": "Name4",
+   "fTitle": "Title4"
+  },
+  {
+   "_typename": "TNamed",
+   "fUniqueID": 0,
+   "fBits": 33554432,
+   "fName": "Name5",
+   "fTitle": "Title5"
+  },
+  {
+   "_typename": "TNamed",
+   "fUniqueID": 0,
+   "fBits": 33554432,
+   "fName": "Name6",
+   "fTitle": "Title6"
+  },
+  {
+   "_typename": "TNamed",
+   "fUniqueID": 0,
+   "fBits": 33554432,
+   "fName": "Name7",
+   "fTitle": "Title7"
+  },
+  {
+   "_typename": "TNamed",
+   "fUniqueID": 0,
+   "fBits": 33554432,
+   "fName": "Name8",
+   "fTitle": "Title8"
+  },
+  {
+   "_typename": "TNamed",
+   "fUniqueID": 0,
+   "fBits": 33554432,
+   "fName": "Name9",
+   "fTitle": "Title9"
+  }
+ ],
+ "fVectEx11": [
+  {
+   "_typename": "TXmlEx11",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8,
+   "fInt2": 22
+  },
+  {
+   "_typename": "TXmlEx11",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8,
+   "fInt2": 22
+  },
+  {
+   "_typename": "TXmlEx11",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8,
+   "fInt2": 22
+  },
+  {
+   "_typename": "TXmlEx11",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8,
+   "fInt2": 22
+  },
+  {
+   "_typename": "TXmlEx11",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8,
+   "fInt2": 22
+  },
+  {
+   "_typename": "TXmlEx11",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8,
+   "fInt2": 22
+  },
+  {
+   "_typename": "TXmlEx11",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8,
+   "fInt2": 22
+  },
+  {
+   "_typename": "TXmlEx11",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8,
+   "fInt2": 22
+  },
+  {
+   "_typename": "TXmlEx11",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8,
+   "fInt2": 22
+  },
+  {
+   "_typename": "TXmlEx11",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8,
+   "fInt2": 22
+  }
+ ],
+ "fVectString": [
+  "string 0 content",
+  "string 1 content",
+  "string 2 content",
+  "string 3 content",
+  "string 4 content"
+ ],
+ "fVectStringPtr": [
+  "string pointer 0 content",
+  "string pointer 1 content",
+  "string pointer 2 content",
+  "string pointer 3 content",
+  "string pointer 4 content"
+ ],
+ "fListDouble": {
+  "0": 0,
+  "1": 4,
+  "2": 8,
+  "3": 12,
+  "4": 16,
+  "5": 20,
+  "6": 24,
+  "7": 28,
+  "8": 32,
+  "9": 36
+ },
+ "fListBool": {
+  "0": 0,
+  "1": 1,
+  "2": 0,
+  "3": 1,
+  "4": 0,
+  "5": 1,
+  "6": 0,
+  "7": 1,
+  "8": 0,
+  "9": 1
+ },
+ "fListEx1": [
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  }
+ ],
+ "fListEx1Ptr": [
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  }
+ ],
+ "fDequeDouble": {
+  "0": 0,
+  "1": 4,
+  "2": 8,
+  "3": 12,
+  "4": 16,
+  "5": 20,
+  "6": 24,
+  "7": 28,
+  "8": 32,
+  "9": 36
+ },
+ "fDequeBool": {
+  "0": 0,
+  "1": 1,
+  "2": 0,
+  "3": 1,
+  "4": 0,
+  "5": 1,
+  "6": 0,
+  "7": 1,
+  "8": 0,
+  "9": 1
+ },
+ "fDequeEx1": [
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  }
+ ],
+ "fDequeEx1Ptr": [
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  },
+  {
+   "_typename": "TXmlEx1",
+   "fBool": false,
+   "fChar": 67,
+   "fShort": 123,
+   "fInt": 123456,
+   "fLong": 7654321,
+   "fFloat": 1.2000000476837158,
+   "fDouble": 3.8
+  }
+ ],
+ "fMapStrInt": [
+  {
+   "_typename": "pair<TString,int>",
+   "first": "Str0",
+   "second": 10
+  },
+  {
+   "_typename": "pair<TString,int>",
+   "first": "Str1",
+   "second": 11
+  },
+  {
+   "_typename": "pair<TString,int>",
+   "first": "Str2",
+   "second": 12
+  },
+  {
+   "_typename": "pair<TString,int>",
+   "first": "Str3",
+   "second": 13
+  },
+  {
+   "_typename": "pair<TString,int>",
+   "first": "Str4",
+   "second": 14
+  },
+  {
+   "_typename": "pair<TString,int>",
+   "first": "Str5",
+   "second": 15
+  },
+  {
+   "_typename": "pair<TString,int>",
+   "first": "Str6",
+   "second": 16
+  },
+  {
+   "_typename": "pair<TString,int>",
+   "first": "Str7",
+   "second": 17
+  },
+  {
+   "_typename": "pair<TString,int>",
+   "first": "Str8",
+   "second": 18
+  },
+  {
+   "_typename": "pair<TString,int>",
+   "first": "Str9",
+   "second": 19
+  }
+ ],
+ "fMapIntDouble": [
+  {
+   "_typename": "pair<int,double>",
+   "first": 0,
+   "second": 0
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 1,
+   "second": 5
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 2,
+   "second": 10
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 3,
+   "second": 15
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 4,
+   "second": 20
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 5,
+   "second": 25
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 6,
+   "second": 30
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 7,
+   "second": 35
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 8,
+   "second": 40
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 9,
+   "second": 45
+  }
+ ],
+ "fMapIntEx1": [
+  {
+   "_typename": "pair<int,TXmlEx1>",
+   "first": 0,
+   "second": {
+    "_typename": "TXmlEx1",
+    "fBool": false,
+    "fChar": 67,
+    "fShort": 123,
+    "fInt": 123456,
+    "fLong": 7654321,
+    "fFloat": 1.2000000476837158,
+    "fDouble": 3.8
+   }
+  },
+  {
+   "_typename": "pair<int,TXmlEx1>",
+   "first": 1,
+   "second": {
+    "_typename": "TXmlEx1",
+    "fBool": false,
+    "fChar": 67,
+    "fShort": 123,
+    "fInt": 123456,
+    "fLong": 7654321,
+    "fFloat": 1.2000000476837158,
+    "fDouble": 3.8
+   }
+  },
+  {
+   "_typename": "pair<int,TXmlEx1>",
+   "first": 2,
+   "second": {
+    "_typename": "TXmlEx1",
+    "fBool": false,
+    "fChar": 67,
+    "fShort": 123,
+    "fInt": 123456,
+    "fLong": 7654321,
+    "fFloat": 1.2000000476837158,
+    "fDouble": 3.8
+   }
+  },
+  {
+   "_typename": "pair<int,TXmlEx1>",
+   "first": 3,
+   "second": {
+    "_typename": "TXmlEx1",
+    "fBool": false,
+    "fChar": 67,
+    "fShort": 123,
+    "fInt": 123456,
+    "fLong": 7654321,
+    "fFloat": 1.2000000476837158,
+    "fDouble": 3.8
+   }
+  },
+  {
+   "_typename": "pair<int,TXmlEx1>",
+   "first": 4,
+   "second": {
+    "_typename": "TXmlEx1",
+    "fBool": false,
+    "fChar": 67,
+    "fShort": 123,
+    "fInt": 123456,
+    "fLong": 7654321,
+    "fFloat": 1.2000000476837158,
+    "fDouble": 3.8
+   }
+  },
+  {
+   "_typename": "pair<int,TXmlEx1>",
+   "first": 5,
+   "second": {
+    "_typename": "TXmlEx1",
+    "fBool": false,
+    "fChar": 67,
+    "fShort": 123,
+    "fInt": 123456,
+    "fLong": 7654321,
+    "fFloat": 1.2000000476837158,
+    "fDouble": 3.8
+   }
+  },
+  {
+   "_typename": "pair<int,TXmlEx1>",
+   "first": 6,
+   "second": {
+    "_typename": "TXmlEx1",
+    "fBool": false,
+    "fChar": 67,
+    "fShort": 123,
+    "fInt": 123456,
+    "fLong": 7654321,
+    "fFloat": 1.2000000476837158,
+    "fDouble": 3.8
+   }
+  },
+  {
+   "_typename": "pair<int,TXmlEx1>",
+   "first": 7,
+   "second": {
+    "_typename": "TXmlEx1",
+    "fBool": false,
+    "fChar": 67,
+    "fShort": 123,
+    "fInt": 123456,
+    "fLong": 7654321,
+    "fFloat": 1.2000000476837158,
+    "fDouble": 3.8
+   }
+  },
+  {
+   "_typename": "pair<int,TXmlEx1>",
+   "first": 8,
+   "second": {
+    "_typename": "TXmlEx1",
+    "fBool": false,
+    "fChar": 67,
+    "fShort": 123,
+    "fInt": 123456,
+    "fLong": 7654321,
+    "fFloat": 1.2000000476837158,
+    "fDouble": 3.8
+   }
+  },
+  {
+   "_typename": "pair<int,TXmlEx1>",
+   "first": 9,
+   "second": {
+    "_typename": "TXmlEx1",
+    "fBool": false,
+    "fChar": 67,
+    "fShort": 123,
+    "fInt": 123456,
+    "fLong": 7654321,
+    "fFloat": 1.2000000476837158,
+    "fDouble": 3.8
+   }
+  }
+ ],
+ "fMapIntEx1Ptr": [
+  {
+   "_typename": "pair<int,TXmlEx1*>",
+   "first": 0,
+   "second": {
+    "_typename": "TXmlEx1",
+    "fBool": false,
+    "fChar": 67,
+    "fShort": 123,
+    "fInt": 123456,
+    "fLong": 7654321,
+    "fFloat": 1.2000000476837158,
+    "fDouble": 3.8
+   }
+  },
+  {
+   "_typename": "pair<int,TXmlEx1*>",
+   "first": 1,
+   "second": {
+    "_typename": "TXmlEx1",
+    "fBool": false,
+    "fChar": 67,
+    "fShort": 123,
+    "fInt": 123456,
+    "fLong": 7654321,
+    "fFloat": 1.2000000476837158,
+    "fDouble": 3.8
+   }
+  },
+  {
+   "_typename": "pair<int,TXmlEx1*>",
+   "first": 2,
+   "second": {
+    "_typename": "TXmlEx1",
+    "fBool": false,
+    "fChar": 67,
+    "fShort": 123,
+    "fInt": 123456,
+    "fLong": 7654321,
+    "fFloat": 1.2000000476837158,
+    "fDouble": 3.8
+   }
+  },
+  {
+   "_typename": "pair<int,TXmlEx1*>",
+   "first": 3,
+   "second": {
+    "_typename": "TXmlEx1",
+    "fBool": false,
+    "fChar": 67,
+    "fShort": 123,
+    "fInt": 123456,
+    "fLong": 7654321,
+    "fFloat": 1.2000000476837158,
+    "fDouble": 3.8
+   }
+  },
+  {
+   "_typename": "pair<int,TXmlEx1*>",
+   "first": 4,
+   "second": {
+    "_typename": "TXmlEx1",
+    "fBool": false,
+    "fChar": 67,
+    "fShort": 123,
+    "fInt": 123456,
+    "fLong": 7654321,
+    "fFloat": 1.2000000476837158,
+    "fDouble": 3.8
+   }
+  },
+  {
+   "_typename": "pair<int,TXmlEx1*>",
+   "first": 5,
+   "second": {
+    "_typename": "TXmlEx1",
+    "fBool": false,
+    "fChar": 67,
+    "fShort": 123,
+    "fInt": 123456,
+    "fLong": 7654321,
+    "fFloat": 1.2000000476837158,
+    "fDouble": 3.8
+   }
+  },
+  {
+   "_typename": "pair<int,TXmlEx1*>",
+   "first": 6,
+   "second": {
+    "_typename": "TXmlEx1",
+    "fBool": false,
+    "fChar": 67,
+    "fShort": 123,
+    "fInt": 123456,
+    "fLong": 7654321,
+    "fFloat": 1.2000000476837158,
+    "fDouble": 3.8
+   }
+  },
+  {
+   "_typename": "pair<int,TXmlEx1*>",
+   "first": 7,
+   "second": {
+    "_typename": "TXmlEx1",
+    "fBool": false,
+    "fChar": 67,
+    "fShort": 123,
+    "fInt": 123456,
+    "fLong": 7654321,
+    "fFloat": 1.2000000476837158,
+    "fDouble": 3.8
+   }
+  },
+  {
+   "_typename": "pair<int,TXmlEx1*>",
+   "first": 8,
+   "second": {
+    "_typename": "TXmlEx1",
+    "fBool": false,
+    "fChar": 67,
+    "fShort": 123,
+    "fInt": 123456,
+    "fLong": 7654321,
+    "fFloat": 1.2000000476837158,
+    "fDouble": 3.8
+   }
+  },
+  {
+   "_typename": "pair<int,TXmlEx1*>",
+   "first": 9,
+   "second": {
+    "_typename": "TXmlEx1",
+    "fBool": false,
+    "fChar": 67,
+    "fShort": 123,
+    "fInt": 123456,
+    "fLong": 7654321,
+    "fFloat": 1.2000000476837158,
+    "fDouble": 3.8
+   }
+  }
+ ],
+ "fMultimapIntDouble": [
+  {
+   "_typename": "pair<int,double>",
+   "first": 0,
+   "second": 0
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 0,
+   "second": 1000
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 1,
+   "second": 6
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 1,
+   "second": 1006
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 2,
+   "second": 12
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 2,
+   "second": 1012
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 3,
+   "second": 18
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 3,
+   "second": 1018
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 4,
+   "second": 24
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 4,
+   "second": 1024
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 5,
+   "second": 30
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 5,
+   "second": 1030
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 6,
+   "second": 36
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 6,
+   "second": 1036
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 7,
+   "second": 42
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 7,
+   "second": 1042
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 8,
+   "second": 48
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 8,
+   "second": 1048
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 9,
+   "second": 54
+  },
+  {
+   "_typename": "pair<int,double>",
+   "first": 9,
+   "second": 1054
+  }
+ ],
+ "fSetDouble": {
+  "0": 0,
+  "1": 1,
+  "2": 2,
+  "3": 3,
+  "4": 4,
+  "5": 5,
+  "6": 6,
+  "7": 7,
+  "8": 8,
+  "9": 9
+ },
+ "fMultisetDouble": {
+  "0": 0,
+  "1": 1,
+  "2": 2,
+  "3": 3,
+  "4": 4,
+  "5": 5,
+  "6": 6,
+  "7": 7,
+  "8": 8,
+  "9": 9
+ },
+ "fBitsSet16": {
+  "0": 0,
+  "1": 1,
+  "2": 0,
+  "3": 1,
+  "4": 0,
+  "5": 1,
+  "6": 0,
+  "7": 1,
+  "8": 0,
+  "9": 1,
+  "10": 0,
+  "11": 1,
+  "12": 0,
+  "13": 1,
+  "14": 0,
+  "15": 1
+ },
+ "fBitsSet64": {
+  "0": 0,
+  "1": 1,
+  "2": 1,
+  "3": 0,
+  "4": 1,
+  "5": 1,
+  "6": 0,
+  "7": 1,
+  "8": 1,
+  "9": 0,
+  "10": 1,
+  "11": 1,
+  "12": 0,
+  "13": 1,
+  "14": 1,
+  "15": 0,
+  "16": 1,
+  "17": 1,
+  "18": 0,
+  "19": 1,
+  "20": 1,
+  "21": 0,
+  "22": 1,
+  "23": 1,
+  "24": 0,
+  "25": 1,
+  "26": 1,
+  "27": 0,
+  "28": 1,
+  "29": 1,
+  "30": 0,
+  "31": 1,
+  "32": 1,
+  "33": 0,
+  "34": 1,
+  "35": 1,
+  "36": 0,
+  "37": 1,
+  "38": 1,
+  "39": 0,
+  "40": 1,
+  "41": 1,
+  "42": 0,
+  "43": 1,
+  "44": 1,
+  "45": 0,
+  "46": 1,
+  "47": 1,
+  "48": 0,
+  "49": 1,
+  "50": 1,
+  "51": 0,
+  "52": 1,
+  "53": 1,
+  "54": 0,
+  "55": 1,
+  "56": 1,
+  "57": 0,
+  "58": 1,
+  "59": 1,
+  "60": 0,
+  "61": 1,
+  "62": 1,
+  "63": 0
+ }
+}
