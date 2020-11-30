@@ -283,13 +283,13 @@ function ProcessNextOption(reset_mathjax) {
       url = ((entry.asurl === "browser") ? "?" : "?nobrowser&");
       url += jsonname ? "json=" + jsonname : "file=" + filename + "&item=" + itemname;
       if (keyid === "TTree") {
-         if ((opt.indexOf(">>") < 0) && (opt.indexOf("dump") < 0))
+         if ((opt.indexOf(">>") < 0) && (opt.indexOf("dump") < 0) && (opt.indexOf("testio") < 0))
             opt += ">>dump;num:10";
       }
       url += "&opt=" + opt + opt2;
    }
 
-   if (/*(opt=='inspect') || */ (opt=='count')) return ProcessNextOption();
+   // if ((opt=='inspect') || (opt=='count')) return ProcessNextOption();
 
    if (itemid >= 0)
       entry_name = (entry.name || keyid) + "_" + itemname + (opt ? "_" + opt : "");
