@@ -1,0 +1,342 @@
+[
+ {
+  "_typename": "PoolDbLinkManager",
+  "m_refs": [
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 27,
+     "second": 156
+    }
+   },
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 4,
+     "second": 0
+    }
+   },
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 7,
+     "second": 0
+    }
+   }
+  ],
+  "m_links": [
+   "/DAQ",
+   "/Rec",
+   "/pRec"
+  ]
+ },
+ {
+  "_typename": "PoolDbLinkManager",
+  "m_refs": [
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 27,
+     "second": 81152
+    }
+   },
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 4,
+     "second": 1
+    }
+   },
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 7,
+     "second": 1
+    }
+   }
+  ],
+  "m_links": [
+   "/DAQ",
+   "/Rec",
+   "/pRec"
+  ]
+ },
+ {
+  "_typename": "PoolDbLinkManager",
+  "m_refs": [
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 27,
+     "second": 97252
+    }
+   },
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 4,
+     "second": 2
+    }
+   },
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 7,
+     "second": 2
+    }
+   }
+  ],
+  "m_links": [
+   "/DAQ",
+   "/Rec",
+   "/pRec"
+  ]
+ },
+ {
+  "_typename": "PoolDbLinkManager",
+  "m_refs": [
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 27,
+     "second": 172136
+    }
+   },
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 4,
+     "second": 3
+    }
+   },
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 7,
+     "second": 3
+    }
+   }
+  ],
+  "m_links": [
+   "/DAQ",
+   "/Rec",
+   "/pRec"
+  ]
+ },
+ {
+  "_typename": "PoolDbLinkManager",
+  "m_refs": [
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 27,
+     "second": 255728
+    }
+   },
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 4,
+     "second": 4
+    }
+   },
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 7,
+     "second": 4
+    }
+   }
+  ],
+  "m_links": [
+   "/DAQ",
+   "/Rec",
+   "/pRec"
+  ]
+ },
+ {
+  "_typename": "PoolDbLinkManager",
+  "m_refs": [
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 27,
+     "second": 334508
+    }
+   },
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 4,
+     "second": 5
+    }
+   },
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 7,
+     "second": 5
+    }
+   }
+  ],
+  "m_links": [
+   "/DAQ",
+   "/Rec",
+   "/pRec"
+  ]
+ },
+ {
+  "_typename": "PoolDbLinkManager",
+  "m_refs": [
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 27,
+     "second": 431536
+    }
+   },
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 4,
+     "second": 6
+    }
+   },
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 7,
+     "second": 6
+    }
+   }
+  ],
+  "m_links": [
+   "/DAQ",
+   "/Rec",
+   "/pRec"
+  ]
+ },
+ {
+  "_typename": "PoolDbLinkManager",
+  "m_refs": [
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 27,
+     "second": 523024
+    }
+   },
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 4,
+     "second": 7
+    }
+   },
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 7,
+     "second": 7
+    }
+   }
+  ],
+  "m_links": [
+   "/DAQ",
+   "/Rec",
+   "/pRec"
+  ]
+ },
+ {
+  "_typename": "PoolDbLinkManager",
+  "m_refs": [
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 27,
+     "second": 589972
+    }
+   },
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 4,
+     "second": 8
+    }
+   },
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 7,
+     "second": 8
+    }
+   }
+  ],
+  "m_links": [
+   "/DAQ",
+   "/Rec",
+   "/pRec"
+  ]
+ },
+ {
+  "_typename": "PoolDbLinkManager",
+  "m_refs": [
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 27,
+     "second": 680356
+    }
+   },
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 4,
+     "second": 9
+    }
+   },
+   {
+    "_typename": "pool::Token",
+    "m_oid": {
+     "_typename": "pair<int,int>",
+     "first": 7,
+     "second": 9
+    }
+   }
+  ],
+  "m_links": [
+   "/DAQ",
+   "/Rec",
+   "/pRec"
+  ]
+ }
+]

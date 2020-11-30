@@ -261,8 +261,7 @@ function ProcessNextOption(reset_mathjax) {
       if ((jsonname.indexOf("http:")<0) && (jsonname.indexOf("https:")<0)) jsonname = filepath + jsonname;
    }
    if (entry.items) {
-      if (itemid<0) {
-
+      if (itemid < 0) {
          if ((itemid==-1) && entry.style) {
             itemid = -2;
             itemname = entry.style; // special case when style should be applied before objects drawing
@@ -283,10 +282,14 @@ function ProcessNextOption(reset_mathjax) {
    else if (entry.asurl) {
       url = ((entry.asurl === "browser") ? "?" : "?nobrowser&");
       url += jsonname ? "json=" + jsonname : "file=" + filename + "&item=" + itemname;
-      url += itemname + "&opt=" + opt + opt2;
+      if (keyid === "TTree") {
+         if ((opt.indexOf(">>") < 0) && (opt.indexOf("dump") < 0))
+            opt += ">>dump;num:10";
+      }
+      url += "&opt=" + opt + opt2;
    }
 
-   if ((opt=='inspect') || (opt=='count')) return ProcessNextOption();
+   if (/*(opt=='inspect') || */ (opt=='count')) return ProcessNextOption();
 
    if (itemid >= 0)
       entry_name = (entry.name || keyid) + "_" + itemname + (opt ? "_" + opt : "");
@@ -310,7 +313,7 @@ function ProcessNextOption(reset_mathjax) {
    // seedrandom('hello.', { global: true }); // set global random
    jsroot._.id_counter = 1; // used in some custom styles
 
-   if (keyid === "TTree") {
+/*   if (keyid === "TTree") {
       if (entry.url || entry.large) return ProcessNextOption(); // ignore direct URL
       // console.log('Processing ', entry);
 
@@ -323,7 +326,8 @@ function ProcessNextOption(reset_mathjax) {
          }
          file.readObject(itemname).then(tree => ProduceJSON(tree, opt+opt2, branchname));
       }).catch(()=> { console.log('Fail to find tree', itemname); ProcessNextOption(); });
-   } else if ((url.length > 0) && !entry.asurl) {
+   } else */ if (((url.length > 0) && !entry.asurl) || (keyid === "TTree")) {
+      console.log('Processing', url);
       testfile = testobj = null;
       return ProcessURL(url);
       // return ProcessNextOption();
