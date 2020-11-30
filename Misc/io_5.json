@@ -98,34 +98,13 @@
  ],
  "fPtr2": [
   {
-   "_typename": "TXmlEx1",
-   "fBool": false,
-   "fChar": 67,
-   "fShort": 123,
-   "fInt": 123456,
-   "fLong": 7654321,
-   "fFloat": 1.2000000476837158,
-   "fDouble": 3.8
+   "$ref": 7
   },
   {
-   "_typename": "TXmlEx1",
-   "fBool": false,
-   "fChar": 67,
-   "fShort": 123,
-   "fInt": 123456,
-   "fLong": 7654321,
-   "fFloat": 1.2000000476837158,
-   "fDouble": 3.8
+   "$ref": 8
   },
   {
-   "_typename": "TXmlEx1",
-   "fBool": false,
-   "fChar": 67,
-   "fShort": 123,
-   "fInt": 123456,
-   "fLong": 7654321,
-   "fFloat": 1.2000000476837158,
-   "fDouble": 3.8
+   "$ref": 9
   }
  ],
  "fSafePtr1": [
@@ -226,34 +205,13 @@
  ],
  "fPtr3": [
   {
-   "_typename": "TXmlEx1",
-   "fBool": false,
-   "fChar": 67,
-   "fShort": 123,
-   "fInt": 123456,
-   "fLong": 7654321,
-   "fFloat": 1.2000000476837158,
-   "fDouble": 3.8
+   "$ref": 7
   },
   {
-   "_typename": "TXmlEx1",
-   "fBool": false,
-   "fChar": 67,
-   "fShort": 123,
-   "fInt": 123456,
-   "fLong": 7654321,
-   "fFloat": 1.2000000476837158,
-   "fDouble": 3.8
+   "$ref": 8
   },
   {
-   "_typename": "TXmlEx1",
-   "fBool": false,
-   "fChar": 67,
-   "fShort": 123,
-   "fInt": 123456,
-   "fLong": 7654321,
-   "fFloat": 1.2000000476837158,
-   "fDouble": 3.8
+   "$ref": 9
   }
  ],
  "fSafePtr3": [
