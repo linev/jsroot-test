@@ -326,7 +326,7 @@ function ProcessNextOption(reset_mathjax) {
          }
          file.readObject(itemname).then(tree => ProduceJSON(tree, opt+opt2, branchname));
       }).catch(()=> { console.log('Fail to find tree', itemname); ProcessNextOption(); });
-   } else */ if (((url.length > 0) && !entry.asurl) || (keyid === "TTree")) {
+   } else */ if ((url.length > 0) && (keyid !== "TGeo")) {
       console.log('Processing', url);
       testfile = testobj = null;
       return ProcessURL(url);
