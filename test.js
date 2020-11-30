@@ -138,26 +138,6 @@ function ProduceSVG(obj, opt) {
          .then(svg => ProduceFile(svg, ".svg"));
 }
 
-function ProduceJSON(tree, opt, branchname) {
-   if (!tree) return ProcessNextOption();
-
-   let args = { expr: opt, dump: true };
-   if (branchname) {
-      if (branchname === "/Event/Gen/Header/m_evtNumber") branchname = "/Event/Gen/Header.m_evtNumber"; // workaround
-      if (branchname === "ESDfriend./fTracks/fTPCindex") branchname = "ESDfriend.fTracks.fTPCindex"; // workaround
-      if (branchname === "event/fTracks/fMass2") branchname = "event.fTracks.fMass2"; // workaround
-      if (branchname === "Rec::TrackParticleContainer_tlp1_MooreTrackParticles/m_hepSymMatrices/m_matrix_val")
-          branchname = "Rec::TrackParticleContainer_tlp1_MooreTrackParticles.m_hepSymMatrices.m_matrix_val";
-      args.branch = tree.FindBranch(branchname);
-      if (!args.branch) console.log('Fail to find branch', branchname)
-   }
-
-   tree.Draw(args).then(res => {
-      let json = res ? JSON.stringify(res, null, 1) : "<fail>";
-      ProduceFile(json, ".json");
-   });
-}
-
 function ProcessURL(url) {
 
    return jsroot.require('hierarchy').then(() => {
@@ -315,20 +295,7 @@ function ProcessNextOption(reset_mathjax) {
    // seedrandom('hello.', { global: true }); // set global random
    jsroot._.id_counter = 1; // used in some custom styles
 
-/*   if (keyid === "TTree") {
-      if (entry.url || entry.large) return ProcessNextOption(); // ignore direct URL
-      // console.log('Processing ', entry);
-
-      jsroot.openFile(filename).then(file => {
-         let branchname = "", pos = itemname.indexOf(";1/");
-         if (pos>0) { branchname = itemname.substr(pos+3); itemname = itemname.substr(0, pos+2); }
-         if (!branchname && opt == "dump") {
-            pos = itemname.indexOf("/");
-            if (pos > 0) { branchname = itemname.substr(pos+1); itemname = itemname.substr(0, pos); }
-         }
-         file.readObject(itemname).then(tree => ProduceJSON(tree, opt+opt2, branchname));
-      }).catch(()=> { console.log('Fail to find tree', itemname); ProcessNextOption(); });
-   } else */ if (url.length > 0) {
+   if (url.length > 0) {
       console.log('Processing', url);
       testfile = testobj = null;
       return ProcessURL(url);
