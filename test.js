@@ -242,7 +242,7 @@ function ProcessNextOption(reset_mathjax) {
          ProcessNextOption(true);
       });
 
-   let filename = "", itemname = "", itemfield = "", jsonname = "", url = "", opt = "", opt2 = "",
+   let filename = "", itemname = "", jsonname = "", url = "", opt = "", opt2 = "",
        filepath = "http://jsroot.gsi.de/files/";
 //       filepath = "https://root.cern.ch/js/files/";
 
@@ -250,11 +250,13 @@ function ProcessNextOption(reset_mathjax) {
        filename = entry.file;
        if ((filename.indexOf("http:")<0) && (filename.indexOf("https:")<0)) filename = filepath + filename;
    }
-   if (entry.item) {
+   if (entry.item)
       itemname = entry.item;
-      if (entry.itemfield) { itemfield = entry.itemfield; itemname = itemname.substr(0, itemname.length - itemfield.length - 1); }
-   }
-   if (entry.testopt !== undefined) opt = entry.testopt; else if (entry.opt) opt = entry.opt;
+
+   if (entry.testopt !== undefined)
+      opt = entry.testopt;
+   else if (entry.opt)
+      opt = entry.opt;
 
    if (entry.json) {
       jsonname = entry.json;
@@ -326,11 +328,10 @@ function ProcessNextOption(reset_mathjax) {
          }
          file.readObject(itemname).then(tree => ProduceJSON(tree, opt+opt2, branchname));
       }).catch(()=> { console.log('Fail to find tree', itemname); ProcessNextOption(); });
-   } else */ if ((url.length > 0) && (keyid !== "TGeo")) {
+   } else */ if (url.length > 0) {
       console.log('Processing', url);
       testfile = testobj = null;
       return ProcessURL(url);
-      // return ProcessNextOption();
    } else if (jsonname.length > 0) {
       testfile = testobj = null;
       jsroot.httpRequest(jsonname, 'object').then(obj => {
@@ -352,13 +353,6 @@ function ProcessNextOption(reset_mathjax) {
             jsroot.gStyle = jsroot.extend(newstyle, obj);
             return ProcessNextOption();
          } else {
-            if (itemfield) {
-               if (itemfield == "Overlaps/ov00010") {
-                  obj = obj.fOverlaps.arr[10];
-                  console.log("found obj", obj ? obj._typename : "none");
-               } else if (obj[itemfield])
-                  obj = obj[itemfield];
-            }
             testobj = obj;
             ProduceSVG(testobj, opt+opt2);
          }
