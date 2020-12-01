@@ -11,6 +11,7 @@ let init_style = null,
     keyid = 'TH1', theonlykey = false, optid = -1,
     theOnlyOption, theOnlyOptionId = -100, itemid = -1,
     entry, entry_name = "", testfile = null, testobj = null,
+    all_diffs = [],
     last_time = new Date().getTime();
 
 if (process.argv && (process.argv.length > 2)) {
@@ -118,6 +119,8 @@ function ProduceFile(content, extension, subid) {
    let clen = content ? content.length : -1;
    console.log(keyid, use_name, 'result', result, 'len='+clen, (svg0 && result=='DIFF' ? 'rel0='+(clen/svg0.length*100).toFixed(1)+'\%' : ''));
 
+   if (result === "DIFF") all_diffs.push(svgname);
+
    if ((result === "NEW") || ((test_mode === 'create') && (result!=='MATCH'))) {
       if (clen > 0)
          fs.writeFileSync(svgname, content);
@@ -164,6 +167,7 @@ function ProcessURL(url) {
 function ProcessNextOption(reset_mathjax) {
 
    if (!keyid) {
+      if (all_diffs.length) console.log("ALL DIFFS", all_diffs);
       console.log('No more data to process');
       console.log("SUMMARY: match", nmatch, "diff", ndiff, "new", nnew);
       return;
