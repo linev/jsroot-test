@@ -150,8 +150,10 @@ function ProcessURL(url) {
       hpainter.setDisplay(batch_disp);
 
       hpainter.startGUI(null, url).then(() => {
-         if (batch_disp.numFrames() == 0)
+         if (batch_disp.numFrames() == 0) {
+            console.log(' Processing url: ', url);
             console.log('   !!! BATCH URL CREATES NO FRAME !!!', keyid, entry_name);
+         }
          for (let n = 0; n < batch_disp.numFrames(); ++n) {
             let json = batch_disp.makeJSON(n, 1);
             if (json) ProduceFile(json, ".json", n);
@@ -300,7 +302,6 @@ function ProcessNextOption(reset_mathjax) {
    jsroot._.id_counter = 1; // used in some custom styles
 
    if (url.length > 0) {
-      console.log('Processing', url);
       testfile = testobj = null;
       return ProcessURL(url);
    } else if (jsonname.length > 0) {

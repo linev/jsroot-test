@@ -32,7 +32,7 @@
     "fNbins": 160,
     "fXmin": 0,
     "fXmax": 160,
-    "fXbins": {},
+    "fXbins": [],
     "fFirst": 0,
     "fLast": 0,
     "fBits2": 0,
@@ -60,7 +60,7 @@
     "fNbins": 144,
     "fXmin": 0,
     "fXmax": 6.283185307179586,
-    "fXbins": {},
+    "fXbins": [],
     "fFirst": 0,
     "fLast": 0,
     "fBits2": 0,
@@ -88,7 +88,7 @@
     "fNbins": 2,
     "fXmin": 0,
     "fXmax": 2,
-    "fXbins": {},
+    "fXbins": [],
     "fFirst": 1,
     "fLast": 2,
     "fBits2": 0,
@@ -103,16 +103,16 @@
  "fEntries": 0,
  "fTsumw": 0,
  "fTsumw2": -1,
- "fTsumwx": {
-  "0": 0,
-  "1": 0,
-  "2": 0
- },
- "fTsumwx2": {
-  "0": 0,
-  "1": 0,
-  "2": 0
- },
+ "fTsumwx": [
+  0,
+  0,
+  0
+ ],
+ "fTsumwx2": [
+  0,
+  0,
+  0
+ ],
  "fChunkSize": 16384,
  "fFilledBins": 0,
  "fBinContent": {
