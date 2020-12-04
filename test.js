@@ -12,7 +12,8 @@ let init_style = null,
     theOnlyOption, theOnlyOptionId = -100, itemid = -1,
     entry, entry_name = "", testfile = null, testobj = null,
     all_diffs = [],
-    last_time = new Date().getTime();
+    last_time = new Date().getTime(),
+    processNextOption;
 
 if (process.argv && (process.argv.length > 2)) {
 
@@ -128,14 +129,14 @@ function ProduceFile(content, extension, subid) {
          fs.unlink(svgname);
    }
 
-   if (subid === undefined) ProcessNextOption();
+   if (subid === undefined) processNextOption();
 }
 
 function ProduceSVG(obj, opt) {
 
    // use only for object reading
    if ((theOnlyOptionId >= 0) && theOnlyOptionId !== optid)
-      return ProcessNextOption();
+      return processNextOption();
 
    jsroot.makeSVG({ object: obj, option: opt, width: 1200, height: 800 })
          .then(svg => ProduceFile(svg, ".svg"));
@@ -160,13 +161,13 @@ function ProcessURL(url) {
             let svg = json ? "" : batch_disp.makeSVG(n);
             if (svg) ProduceFile(svg, ".svg", n);
          }
-         ProcessNextOption();
+         processNextOption();
       });
    });
 }
 
 
-function ProcessNextOption(reset_mathjax) {
+processNextOption = reset_mathjax => {
 
    if (!keyid) {
       if (all_diffs.length) console.log("ALL DIFFS", all_diffs);
@@ -179,7 +180,7 @@ function ProcessNextOption(reset_mathjax) {
    let curr_time = new Date().getTime();
    if ((curr_time - last_time > 10000) && !reset_mathjax) {
       last_time = curr_time;
-      return setTimeout(() => ProcessNextOption(), 1);
+      return setTimeout(() => processNextOption(), 1);
    }
 
    let opts = examples_main[keyid];
@@ -194,7 +195,7 @@ function ProcessNextOption(reset_mathjax) {
       if (itemid < 0) { // first check that all items are processed
          if (theOnlyOptionId == optid) {
             keyid = null;
-            return ProcessNextOption();
+            return processNextOption();
          }
          if (++optid>=opts.length) {
             optid = -1;
@@ -207,7 +208,7 @@ function ProcessNextOption(reset_mathjax) {
 
             keyid = next;
             if (theonlykey) keyid = null;
-            return ProcessNextOption();
+            return processNextOption();
          }
       }
    }
@@ -217,7 +218,7 @@ function ProcessNextOption(reset_mathjax) {
    entry_name = "";
 
    // exclude some entries from the test
-   if (entry.notest) return ProcessNextOption();
+   if (entry.notest) return processNextOption();
 
    if (((entry.latex === "mathjax") || entry.reset_mathjax) && !reset_mathjax)
       return jsroot.require('latex')
@@ -225,7 +226,7 @@ function ProcessNextOption(reset_mathjax) {
                    .then(() => {
          MathJax.startup.defaultReady();
          console.log('Loading MathJax and doing extra reset!!!')
-         ProcessNextOption(true);
+         processNextOption(true);
       });
 
    let filename = "", itemname = "", jsonname = "", url = "", opt = "", opt2 = "",
@@ -277,7 +278,7 @@ function ProcessNextOption(reset_mathjax) {
       url += "&opt=" + opt + opt2;
    }
 
-   // if ((opt=='inspect') || (opt=='count')) return ProcessNextOption();
+   // if ((opt=='inspect') || (opt=='count')) return processNextOption();
 
    if (itemid >= 0)
       entry_name = (entry.name || keyid) + "_" + itemname + (opt ? "_" + opt : "");
@@ -287,7 +288,7 @@ function ProcessNextOption(reset_mathjax) {
       entry_name = opt ? opt : keyid;
 
    if (theOnlyOption) {
-      if (entry_name != theOnlyOption) return ProcessNextOption();
+      if (entry_name != theOnlyOption) return processNextOption();
       console.log('Select option', entry);
    }
 
@@ -308,6 +309,7 @@ function ProcessNextOption(reset_mathjax) {
       testfile = testobj = null;
       jsroot.httpRequest(jsonname, 'object').then(obj => {
          testobj = obj;
+
          ProduceSVG(testobj, opt+opt2);
       });
    } else if (filename.length > 0) {
@@ -323,7 +325,7 @@ function ProcessNextOption(reset_mathjax) {
             let newstyle = jsroot.extend({}, jsroot.gStyle);
             // then apply changes to the
             jsroot.gStyle = jsroot.extend(newstyle, obj);
-            return ProcessNextOption();
+            return processNextOption();
          } else {
             testobj = obj;
             ProduceSVG(testobj, opt+opt2);
@@ -341,4 +343,4 @@ function ProcessNextOption(reset_mathjax) {
 
 // start processing
 
-ProcessNextOption();
+processNextOption();
