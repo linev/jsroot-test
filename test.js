@@ -76,13 +76,14 @@ function ProduceGlobalStyleCopy() {
 function ProduceFile(content, extension, subid) {
    if (!entry_name) entry_name = keyid;
 
-   entry_name = entry_name.replace(/\+/g,'p').replace(/\>/g,'more')
+   entry_name = entry_name.replace(/ /g, '_')
+                          .replace(/\+/g,'p').replace(/\>/g,'more')
                           .replace(/\</g,'less').replace(/\|/g,'I')
                           .replace(/\[/g,'L').replace(/\]/g,'J').replace(/\*/g,'star');
 
    let use_name = entry_name;
    if (subid)
-      use_name += "_" + subid;
+      use_name += "_" + subid.str;
 
    if (extension != ".json")
       content = xml_formatter(content, {indentation: ' ', lineSeparator: '\n' });
