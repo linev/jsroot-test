@@ -83,7 +83,7 @@ function ProduceFile(content, extension, subid) {
 
    let use_name = entry_name;
    if (subid)
-      use_name += "_" + subid.str;
+      use_name += "_" + subid;
 
    if (extension != ".json")
       content = xml_formatter(content, {indentation: ' ', lineSeparator: '\n' });
