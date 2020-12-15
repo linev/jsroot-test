@@ -1,0 +1,1514 @@
+<svg width="1200" height="800" viewBox="0 0 1000 700" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>
+  ROOT canvas
+ </title>
+ <rect x="0" y="0" width="1000" height="700" style="fill: white;"></rect>
+ <g>
+  <svg viewBox="0 0 500 233" preserveAspectRatio="none" x="0" y="0" width="500" height="233">
+   <rect x="0" y="0" width="500" height="233" style="fill: none;"></rect>
+   <g>
+    <g transform="translate(35,28)">
+     <title></title>
+     <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
+     <svg x="0" y="0" overflow="hidden" width="440" height="177" viewBox="0 0 440 177">
+      <g objname="name" objtype="ROOT::Experimental::RHist2Drawable">
+       <path palette-index="0" fill="rgb(53,42,135)" d="M0,159v9h22v-9zm0,-9v9h22v-9zm0,-8v8h22v-8zm0,-9v9h22v-9zm0,-9v9h22v-9zM0,89v8h22v-8zM0,80v9h22v-9zM0,71v9h22v-9zM0,53v9h22v-9zM0,44v9h22v-9zM0,27v8h22v-8zM22,159v9h22v-9zM22,44v9h22v-9zm0,-9v9h22v-9zm0,-8v8h22v-8zm0,-9v9h22v-9zM22,9v9h22v-9zM22,0v9h22v-9zM44,159v9h22v-9zm0,-26v9h22v-9zM44,27v8h22v-8zm0,-9v9h22v-9zM44,9v9h22v-9zM66,168v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9zm0,-17v9h22v-9zM66,18v9h22v-9zM66,9v9h22v-9zM66,0v9h22v-9zM88,168v9h22v-9zm0,-9v9h22v-9zM88,9v9h22v-9zM88,0v9h22v-9zm22,168v9h22v-9zm0,-9v9h22v-9zM110,18v9h22v-9zM110,0v9h22v-9zm22,9v9h22v-9zm0,-9v9h22v-9zm44,168v9h22v-9zM198,0v9h22v-9zm22,168v9h22v-9zm22,0v9h22v-9zm0,-9v9h22v-9zm22,9v9h22v-9zM264,0v9h22v-9zm22,168v9h22v-9zm0,-18v9h22v-9zM286,9v9h22v-9zm0,-9v9h22v-9zm22,168v9h22v-9zm22,0v9h22v-9zm0,-9v9h22v-9zm0,-17v8h22v-8zM330,9v9h22v-9zm0,-9v9h22v-9zm22,168v9h22v-9zm0,-9v9h22v-9zm0,-17v8h22v-8zM352,9v9h22v-9zm22,159v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9zm0,-8v8h22v-8zm0,-89v9h22v-9zm0,-26v8h22v-8zm0,-9v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9zm22,159v9h22v-9zm0,-9v9h22v-9zm0,-8v8h22v-8zm0,-18v9h22v-9zm0,-9v9h22v-9zm0,-26v8h22v-8zm0,-62v8h22v-8zm0,-9v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9zm22,142v8h22v-8zm0,-9v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9zm0,-26v9h22v-9zm0,-27v9h22v-9zm0,-17v8h22v-8zm0,-9v9h22v-9zM418,0v9h22v-9z"></path>
+       <path palette-index="1" fill="rgb(37, 63, 171)" d="M0,115v9h22v-9zm0,-9v9h22v-9zM0,62v9h22v-9zm22,80v8h22v-8zm0,-9v9h22v-9zm0,-9v9h22v-9zm0,-18v9h22v-9zM22,71v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9zm22,97v9h22v-9zm0,-8v8h22v-8zm0,-18v9h22v-9zM44,53v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9zM66,142v8h22v-8zM66,35v9h22v-9zm0,-8v8h22v-8zM88,150v9h22v-9zM88,18v9h22v-9zm22,132v9h22v-9zm0,-8v8h22v-8zM110,9v9h22v-9zm22,159v9h22v-9zm0,-9v9h22v-9zM132,18v9h22v-9zm22,150v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9zM154,27v8h22v-8zM154,9v9h22v-9zm0,-9v9h22v-9zm22,0v9h22v-9zm22,168v9h22v-9zm0,-9v9h22v-9zm22,0v9h22v-9zM220,9v9h22v-9zm0,-9v9h22v-9zm22,0v9h22v-9zm22,159v9h22v-9zM264,9v9h22v-9zm44,150v9h22v-9zm0,-9v9h22v-9zm0,-8v8h22v-8zM308,18v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9zm22,150v9h22v-9zM330,18v9h22v-9zm22,132v9h22v-9zm0,-26v9h22v-9zm0,-71v9h22v-9zm0,-18v9h22v-9zm0,-8v8h22v-8zm0,-9v9h22v-9zm22,115v9h22v-9zm0,-9v9h22v-9zm0,-80v9h22v-9zm0,-9v9h22v-9zm22,98v9h22v-9zm0,-27v9h22v-9zm0,-26v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9zm22,54v8h22v-8zm0,-9v9h22v-9zm0,-18v9h22v-9zm0,-9v9h22v-9z"></path>
+       <path palette-index="2" fill="rgb(21, 84, 207)" d="M22,115v9h22v-9zM22,89v8h22v-8zm0,-9v9h22v-9zm22,35v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9zm0,-8v8h22v-8zM44,62v9h22v-9zm22,62v9h22v-9zm0,-18v9h22v-9zm22,36v8h22v-8zm0,-9v9h22v-9zM88,27v8h22v-8zm22,8v9h22v-9zm0,-8v8h22v-8zm22,123v9h22v-9zm0,-8v8h22v-8zM154,18v9h22v-9zm22,141v9h22v-9zm0,-9v9h22v-9zM176,9v9h22v-9zm22,141v9h22v-9zM198,18v9h22v-9zm0,-9v9h22v-9zm22,9v9h22v-9zm22,132v9h22v-9zM242,9v9h22v-9zm22,141v9h22v-9zM264,18v9h22v-9zm22,141v9h22v-9zM286,18v9h22v-9zm22,17v9h22v-9zm0,-8v8h22v-8zm22,106v9h22v-9zm0,-98v9h22v-9zm0,-8v8h22v-8zm22,106v9h22v-9zm0,-71v9h22v-9zm0,-18v9h22v-9zm22,62v9h22v-9zm0,-9v9h22v-9zm0,-17v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9zm22,35v9h22v-9z"></path>
+       <path palette-index="3" fill="rgb(16, 102, 219)" d="M22,97v9h22v-9zM44,80v9h22v-9zm0,-9v9h22v-9zm22,44v9h22v-9zM66,89v8h22v-8zm0,-9v9h22v-9zM66,53v9h22v-9zm0,-9v9h22v-9zM88,35v9h22v-9zm44,-8v8h22v-8zm44,-9v9h22v-9zm44,132v9h22v-9zm0,-8v8h22v-8zM220,27v8h22v-8zm22,0v8h22v-8zm0,-9v9h22v-9zm22,9v8h22v-8zm22,115v8h22v-8zM286,27v8h22v-8zm44,26v9h22v-9zm22,62v9h22v-9zm0,-9v9h22v-9zm0,-26v9h22v-9zm22,35v9h22v-9zm0,-26v8h22v-8z"></path>
+       <path palette-index="4" fill="rgb(18, 117, 216)" d="M66,97v9h22v-9zM66,62v9h22v-9zm22,62v9h22v-9zm0,-9v9h22v-9zM88,89v8h22v-8zM88,44v9h22v-9zm22,89v9h22v-9zm0,-89v9h22v-9zm22,80v9h22v-9zm22,18v8h22v-8zM176,27v8h22v-8zm22,0v8h22v-8zm44,115v8h22v-8zm44,-9v9h22v-9zm22,0v9h22v-9zm22,-9v9h22v-9zM352,97v9h22v-9zm0,-26v9h22v-9z"></path>
+       <path palette-index="5" fill="rgb(19, 133, 213)" d="M66,71v9h22v-9zM88,97v9h22v-9zM88,80v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9zm22,62v9h22v-9zm0,-9v9h22v-9zm22,27v9h22v-9zm0,-89v9h22v-9zm0,-9v9h22v-9zm22,98v9h22v-9zm0,-9v9h22v-9zm22,18v8h22v-8zm22,0v8h22v-8zM198,35v9h22v-9zm22,0v9h22v-9zm44,107v8h22v-8zm0,-9v9h22v-9zm44,-9v9h22v-9zm0,-80v9h22v-9zm22,71v9h22v-9zm0,-9v9h22v-9zm0,-44v9h22v-9zm0,-18v9h22v-9zm22,45v8h22v-8z"></path>
+       <path palette-index="6" fill="rgb(13, 147, 208)" d="M88,106v9h22v-9zm22,18v9h22v-9zm0,-62v9h22v-9zm22,-9v9h22v-9zm22,-9v9h22v-9zm0,-9v9h22v-9zm22,98v9h22v-9zm0,-98v9h22v-9zm22,98v9h22v-9zM286,35v9h22v-9zm22,18v9h22v-9zm22,36v8h22v-8zm0,-9v9h22v-9zm0,-9v9h22v-9z"></path>
+       <path palette-index="7" fill="rgb(7, 162, 203)" d="M110,97v9h22v-9zm0,-8v8h22v-8zm0,-36v9h22v-9zm110,80v9h22v-9zm0,-89v9h22v-9zm22,89v9h22v-9zm0,-9v9h22v-9zm0,-89v9h22v-9zm22,89v9h22v-9zm22,0v9h22v-9zM308,62v9h22v-9z"></path>
+       <path palette-index="8" fill="rgb(21, 171, 188)" d="M132,71v9h22v-9zm44,53v9h22v-9zm88,-9v9h22v-9zm0,-71v9h22v-9zm0,-9v9h22v-9zm22,80v9h22v-9zm0,-62v9h22v-9zm22,62v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9zm0,-26v9h22v-9z"></path>
+       <path palette-index="9" fill="rgb(38, 179, 172)" d="M110,71v9h22v-9zm22,-9v9h22v-9zm44,53v9h22v-9zm0,-9v9h22v-9zm0,-62v9h22v-9zm22,80v9h22v-9zm0,-80v9h22v-9zm22,80v9h22v-9zM242,44v9h22v-9zm22,9v9h22v-9zm22,9v9h22v-9zm0,-18v9h22v-9zm22,45v8h22v-8zm22,8v9h22v-9z"></path>
+       <path palette-index="10" fill="rgb(65, 185, 155)" d="M132,106v9h22v-9zM242,53v9h22v-9zm22,9v9h22v-9zm22,35v9h22v-9zm0,-26v9h22v-9zm22,9v9h22v-9z"></path>
+       <path palette-index="11" fill="rgb(102, 188, 136)" d="M110,80v9h22v-9zm22,35v9h22v-9zm0,-18v9h22v-9zm0,-17v9h22v-9zm22,35v9h22v-9zm0,-9v9h22v-9zm0,-53v9h22v-9zm22,0v9h22v-9zm22,62v9h22v-9zm22,0v9h22v-9zm66,-9v9h22v-9zm0,-17v8h22v-8zm0,-9v9h22v-9z"></path>
+       <path palette-index="12" fill="rgb(139, 191, 117)" d="M242,115v9h22v-9zm0,-9v9h22v-9zM264,80v9h22v-9z"></path>
+       <path palette-index="13" fill="rgb(170, 189, 105)" d="M154,80v9h22v-9zm0,-18v9h22v-9zm22,18v9h22v-9zM198,62v9h22v-9zm22,44v9h22v-9zm0,-44v9h22v-9zm0,-9v9h22v-9zm22,44v9h22v-9zm22,9v9h22v-9zm0,-35v9h22v-9z"></path>
+       <path palette-index="14" fill="rgb(201, 187, 92)" d="M132,89v8h22v-8zM198,71v9h22v-9zm66,18v8h22v-8z"></path>
+       <path palette-index="15" fill="rgb(223, 191, 77)" d="M154,71v9h22v-9zm22,0v9h22v-9zm0,-9v9h22v-9zm22,-9v9h22v-9zm22,18v9h22v-9zm22,18v8h22v-8zm22,8v9h22v-9z"></path>
+       <path palette-index="16" fill="rgb(242, 197, 60)" d="M154,97v9h22v-9zm0,-8v8h22v-8zm22,8v9h22v-9zm0,-8v8h22v-8zm22,17v9h22v-9zm22,-9v9h22v-9zm0,-17v9h22v-9zm22,0v9h22v-9zm0,-9v9h22v-9zm0,-9v9h22v-9z"></path>
+       <path palette-index="17" fill="rgb(253, 208, 44)" d="M198,97v9h22v-9zm0,-8v8h22v-8z"></path>
+       <path palette-index="18" fill="rgb(251, 230, 29)" d="M220,89v8h22v-8z"></path>
+       <path palette-index="19" fill="rgb(249,251,14)" d="M198,80v9h22v-9z"></path>
+      </g>
+     </svg>
+     <g>
+      <g transform="translate(0,177)">
+       <path d="M0,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5" style="stroke: black;"></path>
+       <g font-family="Arial" font-size="7" space="preserve">
+        <text text-anchor="middle" dy=".8em" transform="translate(0,1)">
+         0
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(88,1)">
+         2
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(176,1)">
+         4
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(264,1)">
+         6
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(352,1)">
+         8
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(440,1)">
+         10
+        </text>
+       </g>
+      </g>
+      <g transform="translate(0,177)">
+       <path d="M10,0h-10m5,-9h-5m5,-9h-5m5,-9h-5m10,-8h-10m5,-9h-5m5,-9h-5m5,-9h-5m10,-9h-10m5,-9h-5m5,-8h-5m5,-9h-5m10,-9h-10m5,-9h-5m5,-9h-5m5,-9h-5m10,-9h-10m5,-8h-5m5,-9h-5m5,-9h-5m10,-9h-10" style="stroke: black;"></path>
+       <g font-family="Arial" font-size="7" space="preserve">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,0)">
+         0
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-35)">
+         2
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-71)">
+         4
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-106)">
+         6
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-142)">
+         8
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-177)">
+         10
+        </text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="24" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
+      Color() draw option (default)
+     </text>
+    </g>
+   </g>
+  </svg>
+  <svg viewBox="0 0 500 233" preserveAspectRatio="none" x="0" y="233" width="500" height="233">
+   <rect x="0" y="0" width="500" height="233" style="fill: none;"></rect>
+   <g>
+    <g transform="translate(35,28)">
+     <title></title>
+     <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
+     <svg x="0" y="0" overflow="hidden" width="440" height="177" viewBox="0 0 440 177">
+      <g objname="name" objtype="ROOT::Experimental::RHist2Drawable">
+       <g font-family="Arial" font-size="5" space="preserve">
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(11,164)">
+         1
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(11,155)">
+         1
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(11,146)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(11,138)">
+         1
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(11,129)">
+         1
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(11,120)">
+         6
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(11,111)">
+         7
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(11,93)">
+         4
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(11,85)">
+         4
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(11,76)">
+         3
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(11,67)">
+         8
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(11,58)">
+         3
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(11,49)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(11,31)">
+         1
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(33,164)">
+         3
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(33,146)">
+         9
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(33,138)">
+         6
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(33,129)">
+         7
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(33,120)">
+         12
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(33,111)">
+         7
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(33,102)">
+         18
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(33,93)">
+         16
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(33,85)">
+         16
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(33,76)">
+         10
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(33,67)">
+         6
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(33,58)">
+         11
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(33,49)">
+         3
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(33,40)">
+         3
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(33,31)">
+         3
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(33,23)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(33,14)">
+         1
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(33,5)">
+         1
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(55,164)">
+         1
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(55,155)">
+         6
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(55,146)">
+         8
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(55,138)">
+         5
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(55,129)">
+         11
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(55,120)">
+         12
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(55,111)">
+         12
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(55,102)">
+         15
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(55,93)">
+         15
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(55,85)">
+         17
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(55,76)">
+         22
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(55,67)">
+         14
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(55,58)">
+         6
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(55,49)">
+         10
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(55,40)">
+         6
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(55,31)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(55,23)">
+         3
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(55,14)">
+         1
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(77,173)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(77,164)">
+         5
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(77,155)">
+         1
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(77,146)">
+         6
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(77,138)">
+         4
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(77,129)">
+         12
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(77,120)">
+         17
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(77,111)">
+         16
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(77,102)">
+         27
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(77,93)">
+         17
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(77,85)">
+         21
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(77,76)">
+         31
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(77,67)">
+         27
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(77,58)">
+         20
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(77,49)">
+         18
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(77,40)">
+         7
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(77,31)">
+         7
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(77,23)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(77,14)">
+         5
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(77,5)">
+         1
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(99,173)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(99,164)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(99,155)">
+         9
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(99,146)">
+         12
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(99,138)">
+         16
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(99,129)">
+         23
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(99,120)">
+         27
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(99,111)">
+         35
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(99,102)">
+         31
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(99,93)">
+         26
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(99,85)">
+         33
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(99,76)">
+         32
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(99,67)">
+         33
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(99,58)">
+         32
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(99,49)">
+         27
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(99,40)">
+         22
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(99,31)">
+         16
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(99,23)">
+         10
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(99,14)">
+         5
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(99,5)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(121,173)">
+         4
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(121,164)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(121,155)">
+         11
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(121,146)">
+         10
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(121,138)">
+         24
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(121,129)">
+         36
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(121,120)">
+         31
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(121,111)">
+         33
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(121,102)">
+         41
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(121,93)">
+         43
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(121,85)">
+         67
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(121,76)">
+         53
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(121,67)">
+         34
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(121,58)">
+         42
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(121,49)">
+         23
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(121,40)">
+         15
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(121,31)">
+         12
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(121,23)">
+         4
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(121,14)">
+         9
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(121,5)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(143,173)">
+         7
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(143,164)">
+         7
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(143,155)">
+         13
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(143,146)">
+         14
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(143,138)">
+         29
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(143,129)">
+         26
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(143,120)">
+         62
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(143,111)">
+         57
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(143,102)">
+         66
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(143,93)">
+         79
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(143,85)">
+         63
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(143,76)">
+         46
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(143,67)">
+         51
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(143,58)">
+         37
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(143,49)">
+         33
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(143,40)">
+         28
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(143,31)">
+         20
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(143,23)">
+         10
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(143,14)">
+         4
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(143,5)">
+         3
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(165,173)">
+         6
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(165,164)">
+         6
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(165,155)">
+         10
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(165,146)">
+         25
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(165,138)">
+         31
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(165,129)">
+         33
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(165,120)">
+         62
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(165,111)">
+         65
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(165,102)">
+         92
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(165,93)">
+         92
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(165,85)">
+         77
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(165,76)">
+         89
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(165,67)">
+         76
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(165,58)">
+         64
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(165,49)">
+         34
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(165,40)">
+         39
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(165,31)">
+         11
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(165,23)">
+         12
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(165,14)">
+         11
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(165,5)">
+         7
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(187,173)">
+         5
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(187,164)">
+         13
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(187,155)">
+         14
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(187,146)">
+         29
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(187,138)">
+         35
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(187,129)">
+         48
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(187,120)">
+         55
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(187,111)">
+         53
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(187,102)">
+         91
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(187,93)">
+         92
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(187,85)">
+         76
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(187,76)">
+         85
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(187,67)">
+         89
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(187,58)">
+         67
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(187,49)">
+         52
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(187,40)">
+         34
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(187,31)">
+         26
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(187,23)">
+         19
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(187,14)">
+         12
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(187,5)">
+         7
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(209,173)">
+         7
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(209,164)">
+         11
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(209,155)">
+         13
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(209,146)">
+         31
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(209,138)">
+         38
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(209,129)">
+         53
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(209,120)">
+         63
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(209,111)">
+         91
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(209,102)">
+         97
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(209,93)">
+         99
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(209,85)">
+         112
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(209,76)">
+         83
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(209,67)">
+         77
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(209,58)">
+         87
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(209,49)">
+         54
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(209,40)">
+         31
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(209,31)">
+         24
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(209,23)">
+         13
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(209,14)">
+         13
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(209,5)">
+         4
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(231,173)">
+         3
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(231,164)">
+         9
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(231,155)">
+         19
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(231,146)">
+         21
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(231,138)">
+         41
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(231,129)">
+         51
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(231,120)">
+         66
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(231,111)">
+         73
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(231,102)">
+         93
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(231,93)">
+         105
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(231,85)">
+         93
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(231,76)">
+         84
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(231,67)">
+         78
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(231,58)">
+         78
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(231,49)">
+         41
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(231,40)">
+         33
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(231,31)">
+         18
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(231,23)">
+         15
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(231,14)">
+         10
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(231,5)">
+         7
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(253,173)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(253,164)">
+         5
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(253,155)">
+         16
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(253,146)">
+         26
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(253,138)">
+         40
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(253,129)">
+         42
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(253,120)">
+         69
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(253,111)">
+         71
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(253,102)">
+         74
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(253,93)">
+         88
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(253,85)">
+         93
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(253,76)">
+         95
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(253,67)">
+         92
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(253,58)">
+         56
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(253,49)">
+         53
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(253,40)">
+         44
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(253,31)">
+         20
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(253,23)">
+         20
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(253,14)">
+         12
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(253,5)">
+         7
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(275,173)">
+         3
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(275,164)">
+         6
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(275,155)">
+         15
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(275,146)">
+         32
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(275,138)">
+         31
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(275,129)">
+         41
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(275,120)">
+         47
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(275,111)">
+         76
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(275,102)">
+         89
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(275,93)">
+         80
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(275,85)">
+         68
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(275,76)">
+         78
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(275,67)">
+         58
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(275,58)">
+         52
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(275,49)">
+         46
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(275,40)">
+         49
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(275,31)">
+         21
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(275,23)">
+         13
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(275,14)">
+         8
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(275,5)">
+         4
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(297,173)">
+         4
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(297,164)">
+         12
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(297,155)">
+         4
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(297,146)">
+         21
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(297,138)">
+         27
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(297,129)">
+         43
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(297,120)">
+         47
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(297,111)">
+         64
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(297,102)">
+         57
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(297,93)">
+         66
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(297,85)">
+         62
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(297,76)">
+         58
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(297,67)">
+         54
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(297,58)">
+         50
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(297,49)">
+         52
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(297,40)">
+         36
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(297,31)">
+         19
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(297,23)">
+         14
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(297,14)">
+         4
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(297,5)">
+         5
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(319,173)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(319,164)">
+         8
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(319,155)">
+         11
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(319,146)">
+         11
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(319,138)">
+         24
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(319,129)">
+         31
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(319,120)">
+         45
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(319,111)">
+         45
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(319,102)">
+         46
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(319,93)">
+         53
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(319,85)">
+         56
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(319,76)">
+         46
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(319,67)">
+         43
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(319,58)">
+         35
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(319,49)">
+         30
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(319,40)">
+         15
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(319,31)">
+         15
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(319,23)">
+         10
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(319,14)">
+         10
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(319,5)">
+         6
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(341,173)">
+         3
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(341,164)">
+         5
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(341,155)">
+         6
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(341,146)">
+         5
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(341,138)">
+         15
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(341,129)">
+         26
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(341,120)">
+         30
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(341,111)">
+         28
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(341,102)">
+         55
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(341,93)">
+         38
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(341,85)">
+         36
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(341,76)">
+         35
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(341,67)">
+         33
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(341,58)">
+         18
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(341,49)">
+         28
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(341,40)">
+         14
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(341,31)">
+         12
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(341,23)">
+         6
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(341,14)">
+         1
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(341,5)">
+         1
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(363,173)">
+         1
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(363,164)">
+         3
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(363,155)">
+         7
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(363,146)">
+         5
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(363,138)">
+         16
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(363,129)">
+         10
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(363,120)">
+         18
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(363,111)">
+         20
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(363,102)">
+         26
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(363,93)">
+         29
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(363,85)">
+         22
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(363,76)">
+         27
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(363,67)">
+         16
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(363,58)">
+         9
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(363,49)">
+         13
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(363,40)">
+         9
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(363,31)">
+         8
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(363,23)">
+         6
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(363,14)">
+         1
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(385,173)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(385,164)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(385,155)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(385,146)">
+         4
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(385,138)">
+         6
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(385,129)">
+         8
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(385,120)">
+         22
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(385,111)">
+         14
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(385,102)">
+         12
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(385,93)">
+         19
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(385,85)">
+         15
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(385,76)">
+         12
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(385,67)">
+         15
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(385,58)">
+         3
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(385,49)">
+         9
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(385,40)">
+         8
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(385,31)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(385,23)">
+         3
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(385,14)">
+         3
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(385,5)">
+         1
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(407,164)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(407,155)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(407,146)">
+         3
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(407,138)">
+         6
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(407,129)">
+         5
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(407,120)">
+         5
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(407,111)">
+         7
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(407,102)">
+         12
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(407,93)">
+         5
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(407,85)">
+         10
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(407,76)">
+         7
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(407,67)">
+         10
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(407,58)">
+         6
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(407,49)">
+         6
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(407,40)">
+         6
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(407,31)">
+         1
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(407,23)">
+         4
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(407,14)">
+         1
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(407,5)">
+         1
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(429,146)">
+         4
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(429,138)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(429,129)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(429,120)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(429,111)">
+         2
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(429,102)">
+         3
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(429,93)">
+         7
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(429,85)">
+         7
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(429,76)">
+         5
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(429,67)">
+         7
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(429,58)">
+         9
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(429,49)">
+         3
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(429,31)">
+         4
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(429,23)">
+         1
+        </text>
+        <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(429,5)">
+         1
+        </text>
+       </g>
+      </g>
+     </svg>
+     <g>
+      <g transform="translate(0,177)">
+       <path d="M0,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5" style="stroke: black;"></path>
+       <g font-family="Arial" font-size="7" space="preserve">
+        <text text-anchor="middle" dy=".8em" transform="translate(0,1)">
+         0
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(88,1)">
+         2
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(176,1)">
+         4
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(264,1)">
+         6
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(352,1)">
+         8
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(440,1)">
+         10
+        </text>
+       </g>
+      </g>
+      <g transform="translate(0,177)">
+       <path d="M10,0h-10m5,-9h-5m5,-9h-5m5,-9h-5m10,-8h-10m5,-9h-5m5,-9h-5m5,-9h-5m10,-9h-10m5,-9h-5m5,-8h-5m5,-9h-5m10,-9h-10m5,-9h-5m5,-9h-5m5,-9h-5m10,-9h-10m5,-8h-5m5,-9h-5m5,-9h-5m10,-9h-10" style="stroke: black;"></path>
+       <g font-family="Arial" font-size="7" space="preserve">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,0)">
+         0
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-35)">
+         2
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-71)">
+         4
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-106)">
+         6
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-142)">
+         8
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-177)">
+         10
+        </text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="24" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
+      Text() draw option
+     </text>
+    </g>
+   </g>
+  </svg>
+  <svg viewBox="0 0 500 233" preserveAspectRatio="none" x="0" y="467" width="500" height="233">
+   <rect x="0" y="0" width="500" height="233" style="fill: none;"></rect>
+   <g transform="translate(15,21)">
+    <image width="470" height="200" xlink:href="data:image/png;base64,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"></image>
+   </g>
+   <g>
+    <g transform="translate(35,28)" style="display: none;">
+     <title></title>
+     <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
+    </g>
+    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="24" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
+      Lego() draw option
+     </text>
+    </g>
+   </g>
+  </svg>
+  <svg viewBox="0 0 500 233" preserveAspectRatio="none" x="500" y="0" width="500" height="233">
+   <rect x="0" y="0" width="500" height="233" style="fill: none;"></rect>
+   <g>
+    <g transform="translate(35,28)">
+     <title></title>
+     <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
+     <svg x="0" y="0" overflow="hidden" width="440" height="177" viewBox="0 0 440 177">
+      <g objname="name" objtype="ROOT::Experimental::RHist2Drawable">
+       <path d="M133,173l4,-9l-16,-4l-22,-1l-9,-4l-13,-8l-20,8l-2,1l-1,-1l-21,-6l-11,-3l9,-9l-3,-9l-17,-8z" style="fill: rgb(37, 63, 171); stroke: none;"></path>
+       <path d="M194,173l-7,-1l-13,1z" style="fill: rgb(37, 63, 171); stroke: none;"></path>
+       <path d="M429,96l-6,6l-10,9l-6,6l-1,2l-3,9l4,6l2,3l-2,1l-22,1l-22,7l-22,-1l-2,1l2,5l22,-2l6,6l-6,3h-22l-4,6l-18,3l-22,4l-22,-6l-9,-1l-13,-1l-3,1l-19,5l-14,4z" style="fill: rgb(37, 63, 171); stroke: none;"></path>
+       <path d="M297,154l-3,1l3,2l5,-2z" style="fill: rgb(37, 63, 171); stroke: none;"></path>
+       <path d="M77,135l-22,1l-13,1l13,2l22,5l3,-7z" style="fill: rgb(37, 63, 171); stroke: none;"></path>
+       <path d="M11,109l7,-7l-4,-9v-9l5,-9l-8,-4z" style="fill: rgb(37, 63, 171); stroke: none;"></path>
+       <path d="M407,92l-1,1l1,1l7,-1z" style="fill: rgb(37, 63, 171); stroke: none;"></path>
+       <path d="M429,73l-7,2l7,3z" style="fill: rgb(37, 63, 171); stroke: none;"></path>
+       <path d="M11,62l7,-4l15,-6l8,-3l11,-9l3,-1l16,-8l6,-3l10,-6l12,-8l3,-1l19,-4l15,4l7,3l5,-3l9,-9z" style="fill: rgb(37, 63, 171); stroke: none;"></path>
+       <path d="M385,54l-10,4l10,1l19,-1z" style="fill: rgb(37, 63, 171); stroke: none;"></path>
+       <path d="M321,4l9,9l11,8h22l3,1l6,9l13,5l22,3l1,1l2,9l19,4z" style="fill: rgb(37, 63, 171); stroke: none;"></path>
+       <path d="M121,19l-6,3l6,2l6,-2z" style="fill: rgb(37, 63, 171); stroke: none;"></path>
+       <path d="M263,4l12,4l13,5l9,2l6,-2l7,-9z" style="fill: rgb(37, 63, 171); stroke: none;"></path>
+       <path d="M197,4l12,2l12,-2z" style="fill: rgb(37, 63, 171); stroke: none;"></path>
+       <path d="M257,13l18,6l22,1l15,2l7,2l22,6l4,1l8,9l10,5l10,4l-10,4l-5,5l5,2l22,4l17,2l-13,9l13,9l-5,9l10,8l2,1l-2,1l-13,8l5,8l-14,7l-22,1l-2,1l2,2l11,7l-11,4h-22l-22,5l-22,5l-14,4l14,8l4,1l-4,1l-3,-1l-19,-5h-22l-22,3l-22,1l-2,1l-20,2l-6,-2l-9,-9l-7,-1l-9,1l-13,3l-20,-3l5,-9l-7,-1l-13,1l-9,2l-3,-2l-6,-9l-13,-8l-18,-1l-4,-1l-22,-6l-3,-2l3,-1l18,-7l-18,-4l-8,-5l-1,-9v-9l9,-7l2,-2l12,-9l8,-3l8,-5l-5,-9l19,-6l6,-3l4,-9l12,-7l22,6l22,-7l13,-1l9,-7l4,-2l18,-1h22l13,1l9,2l13,-2l9,-1z" style="fill: rgb(21, 84, 207); stroke: none;"></path>
+       <path d="M165,29v2z" style="fill: rgb(21, 84, 207); stroke: none;"></path>
+       <path d="M195,22l14,3l22,2l8,-5l14,-3l10,3l12,4l22,1l12,4l8,9l2,1l22,1l16,7l-13,9l18,8l1,1l15,8l1,9l6,4l3,5l-3,3l-8,6l-2,9l10,3l7,5l-7,4l-22,-2l-9,7l-13,8l-4,1l-18,5l-13,4l-9,2l-22,6h-22l-6,1l-16,2l-8,-2l-14,-2h-22l-22,-2l-16,-5l-6,-2l-22,-2l-20,-5l-2,-1l-12,-8l-10,-8l-1,-1l1,-1l1,-7l-1,-1l-19,-8l17,-9l-20,-8l-4,-1l-6,-9l10,-6l5,-3l12,-8l2,-9l3,-1l14,-8l8,-8l16,8l6,2l3,-2l10,-9l9,-3l8,3l14,2l9,-2l6,-9l7,-3z" style="fill: rgb(16, 102, 219); stroke: none;"></path>
+       <path d="M42,102l-9,1l-1,-1l1,-6z" style="fill: rgb(16, 102, 219); stroke: none;"></path>
+       <path d="M311,40l8,4l22,1l8,4l-8,5l-6,4l6,2l14,6l8,6l7,3l-7,8l-1,1l1,1l15,8l-9,9l-6,5l-7,4l-1,8l-9,9l-5,3l-18,6l-4,1l-22,6l-3,2l-19,5l-22,-2l-16,-3l-6,-1l-3,1l-19,4h-22l-22,-2l-5,-2l-17,-5l-22,-3l-4,-1l-18,-8l-1,-1l-9,-9l-5,-8l-7,-6l-8,-3l8,-4l13,-5l-10,-9l-3,-1l-21,-8l13,-9l8,-5l4,-3l7,-9l11,-8l22,7l13,-8l9,-6l22,1l17,-4l5,-5l22,4l6,1l16,3l22,-2l22,-1l22,2z" style="fill: rgb(18, 117, 216); stroke: none;"></path>
+       <path d="M275,33l22,3l8,4l14,7l22,2l-13,9l13,5l6,3l13,9l-6,9l9,8l2,1l-2,3l-2,6l-20,9l4,8l-4,5l-9,4l-13,4l-22,5h-5l-9,9l-8,2l-15,-2l-7,-1l-22,-2l-15,3l-7,2l-22,-1l-5,-1l-17,-4l-22,-4l-4,-1l-18,-3l-14,-6l-2,-9l-6,-1l-8,-7l-8,-9l16,-6l3,-3l-3,-3l-9,-6l-13,-6l-7,-3l7,-6l4,-3l11,-8l7,-8l22,1l11,-2l11,-9l22,-4l22,-3l22,3l22,1l22,-3z" style="fill: rgb(19, 133, 213); stroke: none;"></path>
+       <path d="M143,128h-4l4,6l6,-6z" style="fill: rgb(19, 133, 213); stroke: none;"></path>
+       <path d="M209,41l22,-1h1l21,-4l22,-1l22,4l3,1l15,9l4,6l2,3l19,8l1,3l4,6v9l7,9l5,9l-16,7l-7,2l2,8l-17,8l-5,1l-17,6l-22,1l-6,2l-16,4l-22,-1l-22,3l-22,-4l-8,-2l-13,-9h-1l-22,-2l-17,2l-5,2l-4,-2l4,-4l2,-5l-1,-8l-1,-1l-7,1l-15,1l-2,-1l2,-3l6,-6l4,-9l-10,-9l2,-9l11,-9l-9,-8l18,-4l22,-4l13,-1l-2,-9l11,-2l22,1l3,1z" style="fill: rgb(13, 147, 208); stroke: none;"></path>
+       <path d="M231,47l12,-7l10,-2l22,-1l17,3l5,2l13,7l3,9l6,4l8,4l6,9l4,9l2,9l2,1l12,8l-12,5l-14,4l1,8l-9,4l-15,5l-7,2h-22l-20,7l-2,1h-22l-13,-1l-9,-1l-22,-2l-13,-6l-9,-2l-22,-1l-16,-6v-8l-6,-7l-4,-2l-1,-9l-13,-9l4,-9l14,-6l7,-3l-7,-5l-6,-3l6,-2l12,2l10,1l2,-1l20,-8l6,-1l16,-7l22,1z" style="fill: rgb(7, 162, 203); stroke: none;"></path>
+       <path d="M275,38l7,2l15,5l7,4l1,9l10,8l4,6l2,3l10,9v9l10,3l8,6l-8,3l-22,6v8v1l-22,4l-22,-1l-22,4l-7,1l-15,6l-22,-1l-22,-2l-5,-3l-17,-3l-22,-1l-12,-5l1,-8l-8,-9l-2,-9l-1,-1l-14,-8l5,-9l9,-4l14,-5l8,-4l6,-4l16,-6l13,-3l9,-4h22l16,4l6,1l7,-1l15,-8l4,-1z" style="fill: rgb(21, 171, 188); stroke: none;"></path>
+       <path d="M291,49l6,-1l2,1l-2,7l-4,2h4l7,8l7,9l8,4l6,5l-2,9l18,6l3,3l-3,1l-11,-1l-11,-6l-9,6l3,9l-16,7h-22l-3,1l-19,7l-21,2l-1,1l-22,1l-11,-2l-11,-3l-22,-2l-22,-1l-8,-3l2,-8l-8,-9l-3,-9l-5,-3l-11,-6l8,-9l3,-1l21,-8h1l11,-8l11,-4l20,-5l2,-1l22,-1l6,2l16,2l17,-2l5,-3l8,3l14,6z" style="fill: rgb(38, 179, 172); stroke: none;"></path>
+       <path d="M143,67l-14,8l14,3l2,-3z" style="fill: rgb(38, 179, 172); stroke: none;"></path>
+       <path d="M297,71l4,4l18,9l-5,9l-15,9l7,9l-9,4l-22,2l-9,2l-13,5l-22,1l-22,1l-19,-7l-1,-8l-2,-1l-5,1l2,8l-19,2h-22l-4,-2l3,-8l-8,-9l-5,-9l-8,-5l-7,-4l7,-7l22,3l5,-5l-1,-9l11,-8l7,-3l22,-4l22,-2l22,3l22,6l22,5l11,3z" style="fill: rgb(65, 185, 155); stroke: none;"></path>
+       <path d="M293,75l4,8l1,1l6,9l-7,4l-3,5l3,6l3,3l-3,1l-22,3l-15,4l-7,3h-22l-22,-1l-4,-2l-13,-8l-5,-2l-16,2l-5,8l-1,1h-22v-1l13,-8l-13,-5l-4,-4l-7,-9l-11,-7l-3,-2l3,-3l22,2l8,-8l1,-9l11,-8l2,-1l22,-3l22,-3l22,3l16,4l6,1l20,7l2,2z" style="fill: rgb(102, 188, 136); stroke: none;"></path>
+       <path d="M187,58l22,-6l22,3l11,3l11,2l16,6l6,4l12,5l-9,9l17,9l-5,9l1,9l-16,2l-20,6l-2,1l-13,-1l-9,-1h-22l-14,-7l-8,-4l-22,3l-21,-8l-1,-1l-7,-8l7,-7l7,-2l4,-9l3,-9l8,-6l22,-2z" style="fill: rgb(139, 191, 117); stroke: none;"></path>
+       <path d="M253,62l12,4l10,7l6,2l-6,5l-4,4l4,4l11,5v9l-5,9l-6,1l-14,-1l-8,-6l-20,6h-2l-22,5l-11,-5l-11,-5l-22,2l-16,-6l-6,-5l-4,-4l4,-4l15,-5l-1,-9l5,-9l3,-2l22,-4l6,-2l16,-4l22,2l5,2z" style="fill: rgb(170, 189, 105); stroke: none;"></path>
+       <path d="M206,66l3,2l22,-1l1,-1l21,-3l9,3l12,9l-8,9l9,8l3,1l4,9l-7,7l-16,-7l-6,-3l-5,3l-17,6l-7,3l-15,4l-7,-4l-15,-6l-22,1l-12,-4l-10,-9l22,-8h22l1,-1l-1,-2l-22,1l-5,-8l5,-7l4,-2l18,-4l13,-4l9,-3l21,3l-21,7z" style="fill: rgb(201, 187, 92); stroke: none;"></path>
+       <path d="M196,66l2,9l11,1l22,-1l9,-9l13,-2l5,2l9,9l-6,9l3,9l11,4l3,5l-3,3l-7,-3l-15,-7l-12,7l-10,4l-13,5l-9,2l-4,-2l-18,-8l-22,1l-7,-2l-7,-9l14,-5l22,1l5,-5l-5,-8l-22,3l-3,-4l3,-3l14,-6l8,-2l19,-6l3,-1l7,1l-7,2z" style="fill: rgb(223, 191, 77); stroke: none;"></path>
+       <path d="M249,66h4h2l5,9l-4,9l-3,6l-2,3l-16,9l-4,1l-20,8h-2h-1l-21,-9l-22,1l-2,-1l-2,-9l4,-1h22l8,-8l14,-7l22,4l11,-6z" style="fill: rgb(242, 197, 60); stroke: none;"></path>
+       <path d="M231,86l13,7l-13,7l-12,2l-10,2l-7,-2l-5,-9l2,-9l10,-5l19,5z" style="fill: rgb(253, 208, 44); stroke: none;"></path>
+       <path d="M222,84l9,6l5,3l-5,3l-15,-3l-7,-1l-7,-8l7,-3z" style="fill: rgb(251, 230, 29); stroke: none;"></path>
+       <path d="M215,84l-6,4l-3,-4l3,-2z" style="fill: rgb(249,251,14); stroke: none;"></path>
+      </g>
+     </svg>
+     <g>
+      <g transform="translate(0,177)">
+       <path d="M0,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5" style="stroke: black;"></path>
+       <g font-family="Arial" font-size="7" space="preserve">
+        <text text-anchor="middle" dy=".8em" transform="translate(0,1)">
+         0
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(88,1)">
+         2
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(176,1)">
+         4
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(264,1)">
+         6
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(352,1)">
+         8
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(440,1)">
+         10
+        </text>
+       </g>
+      </g>
+      <g transform="translate(0,177)">
+       <path d="M10,0h-10m5,-9h-5m5,-9h-5m5,-9h-5m10,-8h-10m5,-9h-5m5,-9h-5m5,-9h-5m10,-9h-10m5,-9h-5m5,-8h-5m5,-9h-5m10,-9h-10m5,-9h-5m5,-9h-5m5,-9h-5m10,-9h-10m5,-8h-5m5,-9h-5m5,-9h-5m10,-9h-10" style="stroke: black;"></path>
+       <g font-family="Arial" font-size="7" space="preserve">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,0)">
+         0
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-35)">
+         2
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-71)">
+         4
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-106)">
+         6
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-142)">
+         8
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-177)">
+         10
+        </text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="24" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
+      Contour() draw option
+     </text>
+    </g>
+   </g>
+  </svg>
+  <svg viewBox="0 0 500 233" preserveAspectRatio="none" x="500" y="233" width="500" height="233">
+   <rect x="0" y="0" width="500" height="233" style="fill: none;"></rect>
+   <g>
+    <g transform="translate(35,28)">
+     <title></title>
+     <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
+     <svg x="0" y="0" overflow="hidden" width="440" height="177" viewBox="0 0 440 177">
+      <g objname="name" objtype="ROOT::Experimental::RHist2Drawable">
+       <path d="M10,164l1,0M11,155l-1,0M8,146l5,0M9,137l4,0M9,129l4,-1M9,120l4,-1M11,110l0,1M4,102l13,0l-1,1m1,-1l-1,-1M7,93l9,-1l-1,2m1,-2l-2,-1M7,84l9,0l-1,1m1,-1l-1,-1M8,76l5,-1M12,66l-1,0M8,57l6,1l-2,1m2,-1l-1,-2M11,48l1,0M10,40l2,0M10,31l1,0M10,22l1,0M11,13l1,0M11,4l1,0M33,173l0,-1M32,155l2,-1M32,146l2,-1M32,137l1,0M31,129l4,-1M32,119l2,0M32,111l2,-1M30,102l6,-1l-1,2m1,-2l-2,-1M31,93l4,0M31,84l5,1M29,74l7,2l-2,1m2,-1l-1,-2M32,66l2,0M32,57l1,0M32,48l3,1M32,40l2,0M32,22l1,0M55,173l1,0M55,164l1,-1M55,155l0,-1M56,146l-1,0M55,137l-1,0M54,129l2,-1M54,120l2,0M53,111l3,0M53,102l3,0M54,85l2,-1M51,75l8,0l-1,1m1,-1l-1,-1M51,65l8,2l-2,1m2,-1l-1,-2M53,57l3,1M52,49l6,0l-1,1m1,-1l-1,-1M54,39l1,1M54,31l1,0M54,13l1,0M77,173l1,-1M76,155l1,0M76,146l1,0M75,138l4,-1M75,129l4,-2M74,120l6,-1l-1,2m1,-2l-2,-1M73,111l9,-2l-1,2m1,-2l-2,-1M74,102l6,0l-1,1m1,-1l-1,-1M75,92l4,1M74,85l6,-2l-1,2m1,-2l-2,-1M75,76l4,-1M73,66l7,2l-2,1m2,-1l-1,-2M72,57l10,1l-2,1m2,-1l-1,-2M74,48l6,2l-2,1m2,-1l-1,-2M74,39l6,2l-2,1m2,-1l-1,-2M74,31l5,1M76,22l3,0M76,13l1,0M77,4l1,1M99,173l1,0M100,164l-1,-1M97,156l4,-2M98,147l1,-1M95,138l7,-2l-1,2m1,-2l-2,-1M95,129l9,-2l-1,2m1,-2l-2,-1M96,120l5,-2M96,111l6,-1l-1,2m1,-2l-2,-1M96,101l5,1M94,93l10,0l-1,1m1,-1l-1,-1M90,85l17,-1l-1,1m1,-1l-1,-1M95,75l8,0l-1,1m1,-1l-1,-1M98,66l3,0M95,57l8,1l-2,1m2,-1l-1,-2M98,48l2,2M98,39l3,2M98,30l2,2M99,21l1,2M98,13l1,1M99,4l0,1M120,172l2,1M120,164l2,-1M120,155l1,-1M121,147l1,-2M119,139l5,-4M120,129l1,-1M114,119l13,0l-1,1m1,-1l-1,-1M117,111l8,-2l-1,2m1,-2l-2,-1M114,103l13,-2l-1,2m1,-2l-2,-1M111,95l20,-4l-1,2m1,-2l-2,-1M115,85l11,-2l-1,2m1,-2l-2,-1M118,73l5,5M118,66l7,2l-2,1m2,-1l-1,-2M120,57l2,2M120,47l2,4M120,39l2,2M120,30l1,2M121,3l0,2M143,173l1,0M142,164l1,-1M143,155l0,-1M140,147l6,-2l-1,2m1,-2l-2,-1M142,138l3,-2M144,131l-1,-5M137,122l12,-5l-1,2m1,-2l-2,-1M137,111l12,-1l-1,2m1,-2l-2,-1M133,103l19,-3l-1,2m1,-2l-2,-1M134,93l18,0l-1,1m1,-1l-1,-1M141,82l4,5M136,74l13,2l-2,1m2,-1l-1,-2M135,66l16,1l-1,1m1,-1l-1,-1M139,56l8,3l-2,1m2,-1l-1,-2M141,48l4,1M139,39l9,2l-2,1m2,-1l-1,-2M143,30l0,3M142,21l3,2M143,13l1,1M142,4l2,0M165,173l-1,0M164,164l2,-1M165,156l0,-3M162,148l6,-3l-1,2m1,-2l-2,-1M164,138l2,-1M161,131l8,-5M166,122l-3,-5M166,113l-1,-5M160,104l9,-4l-1,2m1,-2l-2,-1M163,92l5,2M163,84l5,0M158,75l15,0l-1,1m1,-1l-1,-1M158,64l14,4l-2,1m2,-1l-1,-2M159,54l11,6l-2,1m2,-1l-1,-2M161,47l7,4l-2,1m2,-1l-1,-2M164,38l2,3M164,29l2,4M163,22l3,0M164,13l3,1M164,4l1,1M187,174l0,-2M186,164l2,-1M186,156l1,-2M186,148l2,-3M186,139l3,-3M183,130l7,-3l-1,2m1,-2l-2,-1M187,120l0,-1M182,113l10,-5l-1,2m1,-2l-2,-1M186,105l2,-6l1,2m-1,-2l-2,1M186,92l3,2M180,84l13,1l-2,1m2,-1l-1,-2M188,76l-2,-2M187,65l0,3M183,55l9,6M183,46l7,5M188,38l-3,4M185,30l5,2M187,21l0,2M187,12l1,2M188,4l-1,2M209,173l-1,-1M210,164l-1,-1M208,156l2,-3M210,148l-3,-4M208,139l2,-3M208,130l1,-4M207,122l4,-6M205,113l7,-5M209,102l1,-1M207,94l5,-2M206,83l6,2l-2,1m2,-1l-1,-2M209,73l0,5M211,67l-4,-1M207,56l4,3M211,44l-4,8l-1,-2m1,2l2,-1M209,38l0,5M210,30l-3,3M210,21l-1,2M209,13l-1,1M209,3l0,3M232,173l-2,-2M232,165l-2,-2M230,156l1,-2M232,148l-2,-3M231,139l1,-5M233,130l-4,-4M230,121l2,-3M235,113l-7,-4l2,-1m-2,1l1,2M235,104l-9,-5l2,-1m-2,1l1,2M233,93l-4,0M235,82l-7,3l1,-2m-1,2l2,1M229,74l4,2M228,66l6,1l-2,1m2,-1l-1,-2M237,55l-12,6l1,-2m-1,2l2,1M231,45l0,7l-1,-1m1,1l1,-1M229,38l5,3M232,30l-1,3M230,22l3,1M231,13l0,1M230,4l1,1M253,173l0,-1M254,165l-1,-2M254,156l-1,-3M251,148l4,-4M255,138l-4,-2M255,131l-4,-4M257,122l-7,-4l2,-1m-2,1l1,2M252,111l1,-1M254,103l-1,-3M258,94l-9,-3l2,-1m-2,1l1,2M258,85l-9,-1l2,-1m-2,1l1,2M254,75l-2,0M257,63l-7,6M258,55l-10,6M252,48l2,2M250,37l6,5M252,29l1,4M253,22l-1,1M253,12l-1,2M254,4l-1,2M275,173l1,-1M274,165l3,-2M277,157l-4,-4M276,147l-2,-2M277,138l-5,-1M275,130l0,-2M279,122l-8,-5M276,114l-3,-6l2,1m-2,-1l-1,2M278,102l-6,-1l2,-1m-2,1l1,2M279,91l-8,3l1,-2m-1,2l2,1M281,84l-12,0l1,-1m-1,1l1,1M282,74l-14,2l1,-2m-1,2l2,1M282,64l-14,4l1,-2m-1,2l2,1M276,57l-2,2M276,38l-3,4M275,28l0,5M276,21l-2,2M276,13l-3,1M275,4l-1,1M297,174l0,-2M297,164l1,0M298,156l-1,-1M301,148l-8,-3l2,-1m-2,1l1,2M298,139l-3,-3M299,130l-4,-3M297,121l-1,-3M303,111l-12,-2l2,-1m-2,1l1,2M305,102l-16,0l1,-1m-1,1l1,1M302,93l-10,-1l2,-1m-2,1l1,2M299,83l-4,1M303,75l-12,1l1,-2m-1,2l2,1M300,66l-6,1l1,-2m-1,2l2,1M300,57l-6,0l1,-1m-1,1l1,1M300,48l-6,2l1,-2m-1,2l2,1M303,37l-13,5l1,-2m-1,2l2,1M298,29l-2,3M298,21l-1,2M297,13l1,1M297,5l1,0M319,173l0,-2M320,164l-3,-1M319,155l1,0M322,147l-6,-2l2,-1m-2,1l1,2M321,139l-4,-3M322,130l-6,-3l2,-1m-2,1l1,2M322,121l-6,-2l2,-1m-2,1l1,2M326,111l-13,0l1,-1m-1,1l1,1M319,102l-1,-1M324,94l-10,-2l2,-1m-2,1l1,2M324,84l-10,1l1,-2m-1,2l2,1M323,74l-9,2l1,-2m-1,2l2,1M323,66l-8,2l1,-2m-1,2l2,1M325,57l-12,2l1,-2m-1,2l2,1M323,47l-9,3l1,-2m-1,2l2,1M323,39l-8,2l1,-2m-1,2l2,1M320,31l-3,1M320,22l-3,1M320,13l-1,1M320,4l-1,1M341,173l0,-1M342,164l-2,0M342,155l-1,0M342,147l-2,-1M342,139l-3,-3M345,129l-8,-2l2,-1m-2,1l1,2M346,120l-10,0l1,-1m-1,1l1,1M346,113l-9,-4l2,-1m-2,1l1,2M345,103l-7,-2l2,-1m-2,1l1,2M345,91l-9,3l1,-2m-1,2l2,1M347,84l-13,0l1,-1m-1,1l1,1M345,75l-7,0l1,-1m-1,1l1,1M346,65l-10,3l1,-2m-1,2l2,1M346,57l-10,1l1,-2m-1,2l2,1M344,48l-6,1l1,-2m-1,2l2,1M342,39l-2,2M342,30l-3,1M342,21l-1,2M343,13l-3,1M342,4l-2,0M363,173l0,-1M364,164l-1,-1M364,155l-1,0M363,147l0,-1M365,138l-3,-1M366,128l-7,0l1,-1m-1,1l1,1M364,120l-3,-2M366,111l-5,-1M371,102l-16,-1l1,-1m-1,1l1,1M367,93l-7,1l1,-2m-1,2l2,1M367,84l-8,0l1,-1m-1,1l1,1M367,75l-9,1l1,-2m-1,2l2,1M366,65l-7,3l1,-2m-1,2l2,1M366,57l-6,0l1,-1m-1,1l1,1M367,49l-7,0l1,-1m-1,1l1,1M364,39l-2,1M365,31l-4,0M364,22l-1,1M363,13l1,1M386,155l-2,0M385,146l-1,-1M387,137l-4,-1M386,130l-2,-2M387,120l-5,-1M387,110l-5,2M388,102l-5,-1M389,93l-9,0l1,-1m-1,1l1,1M387,84l-4,1M389,75l-7,0l1,-1m-1,1l1,1M386,66l-2,1M386,57l-1,1M386,49l-3,-1M386,39l-1,1M386,31l-3,1M385,22l-1,0M385,4l0,1M407,173l-1,-1M407,164l-1,0M407,155l-1,0M407,146l0,-1M408,137l-1,0M408,128l-2,0M411,120l-7,0l1,-1m-1,1l1,1M409,111l-4,-1M409,102l-3,0M409,93l-4,0M408,84l-3,0M408,75l-3,0M408,66l-3,0M406,57l2,1M408,49l-2,0M408,39l-3,1M407,31l1,0M407,22l-1,0M408,13l-1,0M430,164l-1,0M430,155l-1,-1M429,146l1,0M430,137l-3,0M430,128l-2,0M430,119l-2,0M431,111l-4,0M432,102l-7,-1l2,-1m-2,1l1,2M428,93l1,-1M430,84l-2,0M430,75l-1,0M430,67l-2,-1M428,57l2,1M430,48l-2,1M431,40l-4,0M428,31l2,0M430,22l-2,1M429,13l-1,0" style="fill: none; stroke: #FF0000; stroke-width: 1;"></path>
+      </g>
+     </svg>
+     <g>
+      <g transform="translate(0,177)">
+       <path d="M0,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5" style="stroke: black;"></path>
+       <g font-family="Arial" font-size="7" space="preserve">
+        <text text-anchor="middle" dy=".8em" transform="translate(0,1)">
+         0
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(88,1)">
+         2
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(176,1)">
+         4
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(264,1)">
+         6
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(352,1)">
+         8
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(440,1)">
+         10
+        </text>
+       </g>
+      </g>
+      <g transform="translate(0,177)">
+       <path d="M10,0h-10m5,-9h-5m5,-9h-5m5,-9h-5m10,-8h-10m5,-9h-5m5,-9h-5m5,-9h-5m10,-9h-10m5,-9h-5m5,-8h-5m5,-9h-5m10,-9h-10m5,-9h-5m5,-9h-5m5,-9h-5m10,-9h-10m5,-8h-5m5,-9h-5m5,-9h-5m10,-9h-10" style="stroke: black;"></path>
+       <g font-family="Arial" font-size="7" space="preserve">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,0)">
+         0
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-35)">
+         2
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-71)">
+         4
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-106)">
+         6
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-142)">
+         8
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-177)">
+         10
+        </text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="24" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
+      Arrow() draw option
+     </text>
+    </g>
+   </g>
+  </svg>
+  <svg viewBox="0 0 500 233" preserveAspectRatio="none" x="500" y="467" width="500" height="233">
+   <rect x="0" y="0" width="500" height="233" style="fill: none;"></rect>
+   <g transform="translate(15,21)">
+    <image width="470" height="200" xlink:href="data:image/png;base64,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"></image>
+   </g>
+   <g>
+    <g transform="translate(35,28)" style="display: none;">
+     <title></title>
+     <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
+    </g>
+    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="24" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
+      Surf() draw option
+     </text>
+    </g>
+   </g>
+  </svg>
+ </g>
+</svg>
