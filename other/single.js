@@ -3,12 +3,12 @@
 let jsroot = require("jsroot");
 let fs = require("fs");
 
-let filename =  "http://jsroot.gsi.de/files/histpainter6.root",
+let filename = "https://jsroot.gsi.de/files/histpainter6.root",
     itemname = "draw_contlst1";
 
 function TestEve() {
 
-   jsroot.httpRequest("http://jsroot.gsi.de/files/geom/evegeoshape.json.gz", "object")
+   jsroot.httpRequest("https://jsroot.gsi.de/files/geom/evegeoshape.json.gz", "object")
          .then(obj => jsroot.makeSVG({ object: obj, width: 1200, height: 800 }))
          .then(svg => {
             fs.writeFileSync("eve.svg", svg);
@@ -27,7 +27,6 @@ function TestHist() {
             console.log('create hist.svg file size', svg.length);
          });
 }
-
 
 TestEve();
 TestHist();
