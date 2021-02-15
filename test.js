@@ -4,6 +4,8 @@ let jsroot = require("jsroot"),
 
 require("./../jsroot/demo/examples.js");
 
+examples_main.TH1.push({ name: "B_local", file: "file://other/hsimple.root", item: "hpx;1", opt:"B,fill_green", title: "draw histogram as bar chart" });
+
 console.log(`JSROOT version  ${jsroot.version} ${jsroot.version_date}`);
 
 let init_style = null,
@@ -236,7 +238,9 @@ processNextOption = reset_mathjax => {
 
    if (entry.file) {
        filename = entry.file;
-       if ((filename.indexOf("http:")<0) && (filename.indexOf("https:")<0)) filename = filepath + filename;
+       if ((filename.indexOf("http:") < 0) &&
+           (filename.indexOf("https:") < 0) &&
+           (filename.indexOf("file:") < 0)) filename = filepath + filename;
    }
    if (entry.item)
       itemname = entry.item;
