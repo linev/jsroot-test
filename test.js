@@ -5,6 +5,7 @@ let jsroot = require("jsroot"),
 require("./../jsroot/demo/examples.js");
 
 examples_main.TH1.push({ name: "B_local", file: "file://other/hsimple.root", item: "hpx;1", opt:"B,fill_green", title: "draw histogram as bar chart" });
+examples_main.TTree.push({ name: "2d_local", asurl: true, file: "file://other/hsimple.root", item: "ntuple", opt: "px:py", title: "Two-dimensional TTree::Draw" });
 
 console.log(`JSROOT version  ${jsroot.version} ${jsroot.version_date}`);
 
