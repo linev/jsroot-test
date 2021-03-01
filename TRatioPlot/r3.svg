@@ -85,9 +85,11 @@
       </g>
      </g>
     </g>
-    <g transform="translate(119,3)" font-family="Arial" font-size="31" space="preserve">
+    <g transform="translate(119,3)" font-family="Arial" font-size="28" space="preserve">
      <path d="M0,0h955v37h-955z" style="fill: none;"></path>
-     <text fill="black"></text>
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(478,0)">
+      h1
+     </text>
     </g>
    </g>
   </svg>
