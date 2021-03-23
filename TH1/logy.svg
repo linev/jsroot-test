@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+ <title>
+  ROOT canvas
+ </title>
+ <rect x="0" y="0" width="1200" height="800" style="fill: none;"></rect>
+ <g>
+  <g transform="translate(120,80)">
+   <title></title>
+   <rect x="0" y="0" width="960" height="640" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
+    <g>
+     <path d="M0,645h19v-157h10v157h38v-189h10v-23h19v-45h10v27h9v-63h10v-19h9v-5h10v-35h10v4h9v-32h10v-14h9v-27h10v11h10v-29h9v11h10v-28h9v-24h10v-1h10v-3h9v-28h10v-4h9v-7h10v-9h10v-21h9v-1h10v-9h9v-4h10v-12h10v-4h9v-12h10v-8h19v-8h10v-5h9v-12h10v6h9v-9h10v7h10v-8h9v-4h10v2h9v4h10v-5h10v-6h9v10h19v2h10v1h10v8h9v3h10v2h9v4h10v3h10v2h9v8h10v11h9v3h10v6h10v20h9v-2h10v11h9v11h10v8h10v12h9v12h10v19h9v-2h10v22h10v7h9v23h10v5h9v25h10v22h10v-24h9v36h10v21h9v25h20v27h9v-6h10v117h9v-78h10v23h10v87h28v157h48v-101h10" style="stroke-linejoin: miter; stroke: rgb(0,0,154); stroke-width: 1; fill: none;"></path>
+    </g>
+   </svg>
+   <g>
+    <g transform="translate(0,640)">
+     <line x1="0" y1="0" x2="960" y2="0" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,6)">
+       -4
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(120,6)">
+       -3
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(240,6)">
+       -2
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(360,6)">
+       -1
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480,6)">
+       0
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(600,6)">
+       1
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(720,6)">
+       2
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(840,6)">
+       3
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(960,6)">
+       4
+      </text>
+     </g>
+    </g>
+    <g>
+     <line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M18,640h-18m18,-23h-18m18,-18h-18m18,-14h-18m18,-13h-18m18,-10h-18m18,-10h-18m36,-8h-36m18,-56h-18m18,-32h-18m18,-23h-18m18,-18h-18m18,-14h-18m18,-13h-18m18,-10h-18m18,-10h-18m36,-8h-36m18,-55h-18m18,-33h-18m18,-23h-18m18,-18h-18m18,-14h-18m18,-12h-18m18,-11h-18m18,-10h-18m36,-8h-36m18,-55h-18m18,-33h-18m18,-23h-18m18,-18h-18m18,-14h-18m18,-12h-18m18,-11h-18m18,-9h-18" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="start" transform="translate(-45,562)">
+       <tspan dy="-.1em">
+        10
+       </tspan>
+       <tspan font-size="60%" dx=".1em" dy="-.6em">
+        0
+       </tspan>
+      </text>
+      <text fill="black" text-anchor="start" transform="translate(-45,378)">
+       <tspan dy="-.1em">
+        10
+       </tspan>
+       <tspan font-size="60%" dx=".1em" dy="-.6em">
+        1
+       </tspan>
+      </text>
+      <text fill="black" text-anchor="start" transform="translate(-45,194)">
+       <tspan dy="-.1em">
+        10
+       </tspan>
+       <tspan font-size="60%" dx=".1em" dy="-.6em">
+        2
+       </tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
+   <path d="M0,0h960v53h-960z" style="fill: none;"></path>
+   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480,0)">
+    This is the px distribution
+   </text>
+  </g>
+  <g transform="translate(936,52)" font-family="Arial" font-size="26" space="preserve">
+   <path d="M0,0h240v128h-240z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(120,16)">
+    hpx
+   </text>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,48)">
+    Entries
+   </text>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,48)">
+    25000
+   </text>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,80)">
+    Mean
+   </text>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,80)">
+    0.003163
+   </text>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,112)">
+    Std Dev
+   </text>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,112)">
+    1.004
+   </text>
+   <path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path>
+  </g>
+ </g>
+</svg>
