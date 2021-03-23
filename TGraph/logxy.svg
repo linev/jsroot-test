@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+ <title>
+  ROOT canvas
+ </title>
+ <rect x="0" y="0" width="1200" height="800" style="fill: none;"></rect>
+ <g>
+  <g transform="translate(120,80)">
+   <title></title>
+   <rect x="0" y="0" width="960" height="640" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
+    <g>
+     <path d="M-5,490l331,-115l145,-80l84,-60l60,-47l47,-38l38,-32l32,-25l28,-21l24,-16l22,-13l20,-10l18,-7l17,-3l15,-1l15,3l13,5l13,8l12,12l11,15" style="stroke: red; stroke-width: 4; fill: none;"></path>
+     <path d="M-11,484v12h12v-12zM320,369v12h12v-12zM465,289v12h12v-12zM549,229v12h12v-12zM609,182v12h12v-12zM656,144v12h12v-12zM694,112v12h12v-12zM726,87v12h12v-12zM754,66v12h12v-12zM778,50v12h12v-12zM800,37v12h12v-12zM820,27v12h12v-12zM838,20v12h12v-12zM855,17v12h12v-12zM870,16v12h12v-12zM885,19v12h12v-12zM898,24v12h12v-12zM911,32v12h12v-12zM923,44v12h12v-12zM934,59v12h12v-12z" style="stroke: blue; fill: blue;"></path>
+    </g>
+   </svg>
+   <g>
+    <g transform="translate(0,640)">
+     <line x1="0" y1="0" x2="960" y2="0" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M75,-12v12m60,-12v12m47,-12v12m38,-12v12m32,-12v12m28,-12v12m24,-12v12m22,-24v24m145,-12v12m84,-12v12m60,-12v12m47,-12v12m38,-12v12m32,-12v12m28,-12v12m24,-12v12m22,-24v24m145,-12v12" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="start" transform="translate(301,46)">
+       <tspan dy="-.1em">
+        10
+       </tspan>
+       <tspan font-size="60%" dx=".1em" dy="-.6em">
+        -1
+       </tspan>
+      </text>
+      <text fill="black" text-anchor="start" transform="translate(786,46)">
+       <tspan dy="-.1em">
+        10
+       </tspan>
+       <tspan font-size="60%" dx=".1em" dy="-.6em">
+        0
+       </tspan>
+      </text>
+     </g>
+    </g>
+    <g>
+     <line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M18,489h-18m18,-118h-18m18,-83h-18m18,-65h-18m18,-53h-18m18,-44h-18m18,-39h-18m18,-34h-18m36,-31h-36" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,22)">
+       10
+      </text>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
+   <path d="M0,0h960v53h-960z" style="fill: none;"></path>
+   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480,0)">
+    Option ACP example
+   </text>
+  </g>
+ </g>
+</svg>
