@@ -57,8 +57,11 @@ if (process.argv && (process.argv.length > 2)) {
                  examples_main[key] = examples_more[key];
               }
            }
-
            break;
+        case "-i":
+        case "--ignore":
+            process.env["NODE_TLS_REJECT_UNAUTHORIZED"] = 0;
+            break;
 
         default:
            console.log('Usage: node test.js [options]');
@@ -67,6 +70,7 @@ if (process.argv && (process.argv.length > 2)) {
            console.log('   -k | --key keyname : select specific key (class name) like TH1 or TProfile for testing');
            console.log('   -o | --opt id : select specific option id (number or name), only when key is specified');
            console.log('   -m | --more : use more tests');
+           console.log('   -i | --ignore : ignore TLS checks, allow unauthorized use more tests');
            return;
       }
 }
@@ -315,7 +319,6 @@ processNextOption = reset_mathjax => {
       testfile = testobj = null;
       jsroot.httpRequest(jsonname, 'object').then(obj => {
          testobj = obj;
-
          ProduceSVG(testobj, opt+opt2);
       });
    } else if (filename.length > 0) {
