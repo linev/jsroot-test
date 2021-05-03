@@ -1,0 +1,23 @@
+<svg width="1200" height="800" viewBox="0 0 1000 700" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  ROOT canvas
+ </title>
+ <rect x="0" y="0" width="1000" height="700" style="fill: white;"></rect>
+ <g>
+  <g objname="name" objtype="ROOT::Experimental::RPaveText" transform="translate(620,245)" x="620" y="245" width="300" height="210" font-family="Arial" font-size="14" space="preserve">
+   <rect x="0" width="300" y="0" height="210" style="stroke: black;" stroke-width="1" fill="#FFFF00"></rect>
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(150,35)">
+    This is RTextPave
+   </text>
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(150,105)">
+    It can have several lines
+   </text>
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(150,175)">
+    It should be positioned below RPave
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RPave" transform="translate(620,49)" x="620" y="49" width="300" height="140">
+   <rect x="0" width="300" y="0" height="140" style="stroke: #008000;" stroke-width="3" fill="#0000FF"></rect>
+  </g>
+ </g>
+</svg>

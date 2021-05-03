@@ -1,0 +1,502 @@
+<svg width="1200" height="800" viewBox="0 0 1200 600" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  ROOT canvas
+ </title>
+ <rect x="0" y="0" width="1200" height="600" style="fill: white;"></rect>
+ <g>
+  <svg viewBox="0 0 600 300" preserveAspectRatio="none" x="0" y="0" width="600" height="300">
+   <rect x="0" y="0" width="600" height="300" style="fill: none;"></rect>
+   <g>
+    <g transform="translate(42,36)">
+     <title></title>
+     <rect x="0" y="0" width="528" height="228" style="fill: none; stroke: black; stroke-width: 1;"></rect>
+     <g>
+      <path d="M0,0v228M106,0v228M211,0v228M317,0v228M422,0v228M528,0v228" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+      <path d="M0,228h528M0,207h528M0,186h528M0,166h528M0,145h528M0,124h528M0,103h528M0,83h528M0,62h528M0,41h528M0,20h528" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+     </g>
+     <svg x="0" y="0" overflow="hidden" width="528" height="228" viewBox="0 0 528 228">
+      <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
+       <path d="M0,228h21v-4h21v-4h21v-20h21v-37h22v-50h21v-70h21v-32h21v15h21v81h21v65h21v31h21v15h22v8h21v2h232" style="stroke-linejoin: miter; stroke: #FF0000; stroke-width: 1; fill: none;"></path>
+      </g>
+     </svg>
+     <g>
+      <g transform="translate(0,228)">
+       <path d="M0,-6v6m26,-3v3m27,-3v3m26,-3v3m27,-6v6m26,-3v3m26,-3v3m27,-3v3m26,-6v6m27,-3v3m26,-3v3m26,-3v3m27,-6v6m26,-3v3m27,-3v3m26,-3v3m26,-6v6m27,-3v3m26,-3v3m27,-3v3m26,-6v6" style="stroke: black;"></path>
+       <g font-family="Arial" font-size="15" space="preserve">
+        <text text-anchor="middle" dy=".8em" transform="translate(0,2)">
+         0
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(106,2)">
+         2
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(211,2)">
+         4
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(317,2)">
+         6
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(422,2)">
+         8
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(528,2)">
+         10
+        </text>
+       </g>
+      </g>
+      <g transform="translate(0,228)">
+       <path d="M12,0h-12m6,-5h-6m6,-5h-6m6,-6h-6m12,-5h-12m6,-5h-6m6,-5h-6m6,-5h-6m12,-6h-12m6,-5h-6m6,-5h-6m6,-5h-6m12,-5h-12m6,-6h-6m6,-5h-6m6,-5h-6m12,-5h-12m6,-5h-6m6,-6h-6m6,-5h-6m12,-5h-12m6,-5h-6m6,-5h-6m6,-5h-6m12,-6h-12m6,-5h-6m6,-5h-6m6,-5h-6m12,-5h-12m6,-6h-6m6,-5h-6m6,-5h-6m12,-5h-12m6,-5h-6m6,-6h-6m6,-5h-6m12,-5h-12m6,-5h-6m6,-5h-6m6,-6h-6m12,-5h-12m6,-5h-6m6,-5h-6m6,-5h-6" style="stroke: black;"></path>
+       <g font-family="Arial" font-size="18" space="preserve">
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,0)">
+         0
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-21)">
+         20
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-42)">
+         40
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-62)">
+         60
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-83)">
+         80
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-104)">
+         100
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-125)">
+         120
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-145)">
+         140
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-166)">
+         160
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-187)">
+         180
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-208)">
+         200
+        </text>
+       </g>
+      </g>
+      <g>
+       <path d="M0,0v6m26,-6v3m27,-3v3m26,-3v3m27,-3v6m26,-6v3m26,-3v3m27,-3v3m26,-3v6m27,-6v3m26,-3v3m26,-3v3m27,-3v6m26,-6v3m27,-3v3m26,-3v3m26,-3v6m27,-6v3m26,-3v3m27,-3v3m26,-3v6" style="stroke: black;"></path>
+      </g>
+      <g transform="translate(528,228)">
+       <path d="M0,0h-12m12,-5h-6m6,-5h-6m6,-6h-6m6,-5h-12m12,-5h-6m6,-5h-6m6,-5h-6m6,-6h-12m12,-5h-6m6,-5h-6m6,-5h-6m6,-5h-12m12,-6h-6m6,-5h-6m6,-5h-6m6,-5h-12m12,-5h-6m6,-6h-6m6,-5h-6m6,-5h-12m12,-5h-6m6,-5h-6m6,-5h-6m6,-6h-12m12,-5h-6m6,-5h-6m6,-5h-6m6,-5h-12m12,-6h-6m6,-5h-6m6,-5h-6m6,-5h-12m12,-5h-6m6,-6h-6m6,-5h-6m6,-5h-12m12,-5h-6m6,-5h-6m6,-6h-6m6,-5h-12m12,-5h-6m6,-5h-6m6,-5h-6" style="stroke: black;"></path>
+      </g>
+     </g>
+    </g>
+   </g>
+  </svg>
+  <svg viewBox="0 0 600 300" preserveAspectRatio="none" x="0" y="300" width="600" height="300">
+   <rect x="0" y="0" width="600" height="300" style="fill: none;"></rect>
+   <g>
+    <g transform="translate(42,36)">
+     <title></title>
+     <rect x="0" y="0" width="528" height="228" style="fill: none; stroke: black; stroke-width: 1;"></rect>
+     <g>
+      <path d="M0,0v228M106,0v228M211,0v228M317,0v228M422,0v228M528,0v228" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+      <path d="M0,228h528M0,195h528M0,162h528M0,129h528M0,96h528M0,63h528M0,31h528" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+     </g>
+     <svg x="0" y="0" overflow="hidden" width="528" height="228" viewBox="0 0 528 228">
+      <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
+       <path d="M0,228h190v-8h21v-4h21v-14h21v-33h22v-46h21v-23h21v-40h21v-38h21v-11h21v16h21v5h21v71h22v30h21v42h21v28h21v12h21" style="stroke-linejoin: miter; stroke: #008000; stroke-width: 1; fill: none;"></path>
+      </g>
+     </svg>
+     <g>
+      <g transform="translate(0,228)">
+       <path d="M0,-6v6m26,-3v3m27,-3v3m26,-3v3m27,-6v6m26,-3v3m26,-3v3m27,-3v3m26,-6v6m27,-3v3m26,-3v3m26,-3v3m27,-6v6m26,-3v3m27,-3v3m26,-3v3m26,-6v6m27,-3v3m26,-3v3m27,-3v3m26,-6v6" style="stroke: black;"></path>
+       <g font-family="Arial" font-size="15" space="preserve">
+        <text text-anchor="middle" dy=".8em" transform="translate(0,2)">
+         0
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(106,2)">
+         2
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(211,2)">
+         4
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(317,2)">
+         6
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(422,2)">
+         8
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(528,2)">
+         10
+        </text>
+       </g>
+      </g>
+      <g transform="translate(0,228)">
+       <path d="M12,0h-12m6,-8h-6m6,-8h-6m6,-9h-6m12,-8h-12m6,-8h-6m6,-8h-6m6,-9h-6m12,-8h-12m6,-8h-6m6,-8h-6m6,-8h-6m12,-9h-12m6,-8h-6m6,-8h-6m6,-8h-6m12,-9h-12m6,-8h-6m6,-8h-6m6,-8h-6m12,-9h-12m6,-8h-6m6,-8h-6m6,-8h-6m12,-8h-12m6,-9h-6m6,-8h-6m6,-8h-6" style="stroke: black;"></path>
+       <g font-family="Arial" font-size="20" space="preserve">
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,0)">
+         0
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-33)">
+         20
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-66)">
+         40
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-99)">
+         60
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-132)">
+         80
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-165)">
+         100
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-197)">
+         120
+        </text>
+       </g>
+      </g>
+      <g>
+       <path d="M0,0v6m26,-6v3m27,-3v3m26,-3v3m27,-3v6m26,-6v3m26,-3v3m27,-3v3m26,-3v6m27,-6v3m26,-3v3m26,-3v3m27,-3v6m26,-6v3m27,-3v3m26,-3v3m26,-3v6m27,-6v3m26,-3v3m27,-3v3m26,-3v6" style="stroke: black;"></path>
+      </g>
+      <g transform="translate(528,228)">
+       <path d="M0,0h-12m12,-8h-6m6,-8h-6m6,-9h-6m6,-8h-12m12,-8h-6m6,-8h-6m6,-9h-6m6,-8h-12m12,-8h-6m6,-8h-6m6,-8h-6m6,-9h-12m12,-8h-6m6,-8h-6m6,-8h-6m6,-9h-12m12,-8h-6m6,-8h-6m6,-8h-6m6,-9h-12m12,-8h-6m6,-8h-6m6,-8h-6m6,-8h-12m12,-9h-6m6,-8h-6m6,-8h-6" style="stroke: black;"></path>
+      </g>
+     </g>
+    </g>
+   </g>
+  </svg>
+  <svg viewBox="0 0 600 300" preserveAspectRatio="none" x="600" y="0" width="600" height="300">
+   <rect x="0" y="0" width="600" height="300" style="fill: none;"></rect>
+   <g>
+    <g transform="translate(42,36)">
+     <title></title>
+     <rect x="0" y="0" width="528" height="228" style="fill: none; stroke: black; stroke-width: 1;"></rect>
+     <g>
+      <path d="M0,0v228M106,0v228M211,0v228M317,0v228M422,0v228M528,0v228" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+      <path d="M0,228h528M0,202h528M0,177h528M0,151h528M0,126h528M0,100h528M0,75h528M0,49h528M0,24h528" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+     </g>
+     <svg x="0" y="0" overflow="hidden" width="528" height="228" viewBox="0 0 528 228">
+      <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
+       <path d="M0,228h84v-1h22v-4h21v-1h21v-12h21v-20h21v-72h21v-51h21v-34h21v-22h22v20h21v63h21v42h21v43h21v17h21v19h21v4h21v9h106" style="stroke-linejoin: miter; stroke: #0000FF; stroke-width: 1; fill: none;"></path>
+      </g>
+     </svg>
+     <g>
+      <g transform="translate(0,228)">
+       <path d="M0,-6v6m26,-3v3m27,-3v3m26,-3v3m27,-6v6m26,-3v3m26,-3v3m27,-3v3m26,-6v6m27,-3v3m26,-3v3m26,-3v3m27,-6v6m26,-3v3m27,-3v3m26,-3v3m26,-6v6m27,-3v3m26,-3v3m27,-3v3m26,-6v6" style="stroke: black;"></path>
+       <g font-family="Arial" font-size="15" space="preserve">
+        <text text-anchor="middle" dy=".8em" transform="translate(0,2)">
+         0
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(106,2)">
+         2
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(211,2)">
+         4
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(317,2)">
+         6
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(422,2)">
+         8
+        </text>
+        <text text-anchor="middle" dy=".8em" transform="translate(528,2)">
+         10
+        </text>
+       </g>
+      </g>
+      <g transform="translate(0,228)">
+       <path d="M12,0h-12m6,-6h-6m6,-7h-6m6,-6h-6m12,-7h-12m6,-6h-6m6,-6h-6m6,-7h-6m12,-6h-12m6,-6h-6m6,-7h-6m6,-6h-6m12,-7h-12m6,-6h-6m6,-6h-6m6,-7h-6m12,-6h-12m6,-7h-6m6,-6h-6m6,-6h-6m12,-7h-12m6,-6h-6m6,-7h-6m6,-6h-6m12,-6h-12m6,-7h-6m6,-6h-6m6,-6h-6m12,-7h-12m6,-6h-6m6,-7h-6m6,-6h-6m12,-6h-12m6,-7h-6m6,-6h-6m6,-7h-6" style="stroke: black;"></path>
+       <g font-family="Arial" font-size="20" space="preserve">
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,0)">
+         0
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-26)">
+         20
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-51)">
+         40
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-77)">
+         60
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-102)">
+         80
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-128)">
+         100
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-153)">
+         120
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-179)">
+         140
+        </text>
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-204)">
+         160
+        </text>
+       </g>
+      </g>
+      <g>
+       <path d="M0,0v6m26,-6v3m27,-3v3m26,-3v3m27,-3v6m26,-6v3m26,-3v3m27,-3v3m26,-3v6m27,-6v3m26,-3v3m26,-3v3m27,-3v6m26,-6v3m27,-3v3m26,-3v3m26,-3v6m27,-6v3m26,-3v3m27,-3v3m26,-3v6" style="stroke: black;"></path>
+      </g>
+      <g transform="translate(528,228)">
+       <path d="M0,0h-12m12,-6h-6m6,-7h-6m6,-6h-6m6,-7h-12m12,-6h-6m6,-6h-6m6,-7h-6m6,-6h-12m12,-6h-6m6,-7h-6m6,-6h-6m6,-7h-12m12,-6h-6m6,-6h-6m6,-7h-6m6,-6h-12m12,-7h-6m6,-6h-6m6,-6h-6m6,-7h-12m12,-6h-6m6,-7h-6m6,-6h-6m6,-6h-12m12,-7h-6m6,-6h-6m6,-6h-6m6,-7h-12m12,-6h-6m6,-7h-6m6,-6h-6m6,-6h-12m12,-7h-6m6,-6h-6m6,-7h-6" style="stroke: black;"></path>
+      </g>
+     </g>
+    </g>
+   </g>
+  </svg>
+  <svg viewBox="0 0 600 300" preserveAspectRatio="none" x="600" y="300" width="600" height="300">
+   <rect x="0" y="0" width="600" height="300" style="fill: none;"></rect>
+   <g>
+    <svg viewBox="0 0 300 150" preserveAspectRatio="none" x="0" y="0" width="300" height="150">
+     <rect x="0" y="0" width="300" height="150" style="fill: none;"></rect>
+     <g>
+      <g transform="translate(21,18)">
+       <title></title>
+       <rect x="0" y="0" width="264" height="114" style="fill: none; stroke: black; stroke-width: 1;"></rect>
+       <g>
+        <path d="M0,0v114M53,0v114M106,0v114M158,0v114M211,0v114M264,0v114" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+        <path d="M0,114h264M0,104h264M0,93h264M0,83h264M0,72h264M0,62h264M0,52h264M0,41h264M0,31h264M0,20h264M0,10h264" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+       </g>
+       <svg x="0" y="0" overflow="hidden" width="264" height="114" viewBox="0 0 264 114">
+        <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
+         <path d="M0,114h11v-2h10v-2h11v-10h10v-19h11v-25h10v-34h11v-17h10v8h11v41h11v32h10v16h11v7h10v4h11v1h116" style="stroke-linejoin: miter; stroke: #0000FF; stroke-width: 1; fill: none;"></path>
+        </g>
+       </svg>
+       <g>
+        <g transform="translate(0,114)">
+         <path d="M0,-3v3m13,-2v2m13,-2v2m14,-2v2m13,-3v3m13,-2v2m13,-2v2m13,-2v2m14,-3v3m13,-2v2m13,-2v2m13,-2v2m13,-3v3m14,-2v2m13,-2v2m13,-2v2m13,-3v3m13,-2v2m14,-2v2m13,-2v2m13,-3v3" style="stroke: black;"></path>
+         <g font-family="Arial" font-size="8" space="preserve">
+          <text text-anchor="middle" dy=".8em" transform="translate(0,1)">
+           0
+          </text>
+          <text text-anchor="middle" dy=".8em" transform="translate(53,1)">
+           2
+          </text>
+          <text text-anchor="middle" dy=".8em" transform="translate(106,1)">
+           4
+          </text>
+          <text text-anchor="middle" dy=".8em" transform="translate(158,1)">
+           6
+          </text>
+          <text text-anchor="middle" dy=".8em" transform="translate(211,1)">
+           8
+          </text>
+          <text text-anchor="middle" dy=".8em" transform="translate(264,1)">
+           10
+          </text>
+         </g>
+        </g>
+        <g transform="translate(0,114)">
+         <path d="M6,0h-6m6,-10h-6m6,-11h-6m6,-10h-6m6,-11h-6m6,-10h-6m6,-10h-6m6,-11h-6m6,-10h-6m6,-11h-6m6,-10h-6" style="stroke: black;"></path>
+         <g font-family="Arial" font-size="9" space="preserve">
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,0)">
+           0
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-10)">
+           20
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-21)">
+           40
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-31)">
+           60
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-42)">
+           80
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-52)">
+           100
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-62)">
+           120
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-73)">
+           140
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-83)">
+           160
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-94)">
+           180
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-104)">
+           200
+          </text>
+         </g>
+        </g>
+        <g>
+         <path d="M0,0v3m13,-3v2m13,-2v2m14,-2v2m13,-2v3m13,-3v2m13,-2v2m13,-2v2m14,-2v3m13,-3v2m13,-2v2m13,-2v2m13,-2v3m14,-3v2m13,-2v2m13,-2v2m13,-2v3m13,-3v2m14,-2v2m13,-2v2m13,-2v3" style="stroke: black;"></path>
+        </g>
+        <g transform="translate(264,114)">
+         <path d="M0,0h-6m6,-10h-6m6,-11h-6m6,-10h-6m6,-11h-6m6,-10h-6m6,-10h-6m6,-11h-6m6,-10h-6m6,-11h-6m6,-10h-6" style="stroke: black;"></path>
+        </g>
+       </g>
+      </g>
+     </g>
+    </svg>
+    <svg viewBox="0 0 300 150" preserveAspectRatio="none" x="0" y="150" width="300" height="150">
+     <rect x="0" y="0" width="300" height="150" style="fill: none;"></rect>
+     <g>
+      <g transform="translate(21,18)">
+       <title></title>
+       <rect x="0" y="0" width="264" height="114" style="fill: none; stroke: black; stroke-width: 1;"></rect>
+       <g>
+        <path d="M0,0v114M53,0v114M106,0v114M158,0v114M211,0v114M264,0v114" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+        <path d="M0,114h264M0,98h264M0,81h264M0,65h264M0,48h264M0,32h264M0,15h264" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+       </g>
+       <svg x="0" y="0" overflow="hidden" width="264" height="114" viewBox="0 0 264 114">
+        <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
+         <path d="M0,114h95v-4h11v-2h10v-7h11v-17h10v-23h11v-11h10v-20h11v-19h11v-6h10v9h11v2h10v35h11v15h10v22h11v14h10v5h11" style="stroke-linejoin: miter; stroke: #FF0000; stroke-width: 1; fill: none;"></path>
+        </g>
+       </svg>
+       <g>
+        <g transform="translate(0,114)">
+         <path d="M0,-3v3m13,-2v2m13,-2v2m14,-2v2m13,-3v3m13,-2v2m13,-2v2m13,-2v2m14,-3v3m13,-2v2m13,-2v2m13,-2v2m13,-3v3m14,-2v2m13,-2v2m13,-2v2m13,-3v3m13,-2v2m14,-2v2m13,-2v2m13,-3v3" style="stroke: black;"></path>
+         <g font-family="Arial" font-size="8" space="preserve">
+          <text text-anchor="middle" dy=".8em" transform="translate(0,1)">
+           0
+          </text>
+          <text text-anchor="middle" dy=".8em" transform="translate(53,1)">
+           2
+          </text>
+          <text text-anchor="middle" dy=".8em" transform="translate(106,1)">
+           4
+          </text>
+          <text text-anchor="middle" dy=".8em" transform="translate(158,1)">
+           6
+          </text>
+          <text text-anchor="middle" dy=".8em" transform="translate(211,1)">
+           8
+          </text>
+          <text text-anchor="middle" dy=".8em" transform="translate(264,1)">
+           10
+          </text>
+         </g>
+        </g>
+        <g transform="translate(0,114)">
+         <path d="M6,0h-6m3,-4h-3m3,-4h-3m3,-4h-3m6,-4h-6m3,-5h-3m3,-4h-3m3,-4h-3m6,-4h-6m3,-4h-3m3,-4h-3m3,-4h-3m6,-4h-6m3,-4h-3m3,-5h-3m3,-4h-3m6,-4h-6m3,-4h-3m3,-4h-3m3,-4h-3m6,-4h-6m3,-4h-3m3,-4h-3m3,-5h-3m6,-4h-6m3,-4h-3m3,-4h-3m3,-4h-3" style="stroke: black;"></path>
+         <g font-family="Arial" font-size="14" space="preserve">
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,0)">
+           0
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-16)">
+           20
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-33)">
+           40
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-49)">
+           60
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-66)">
+           80
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-82)">
+           100
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-99)">
+           120
+          </text>
+         </g>
+        </g>
+        <g>
+         <path d="M0,0v3m13,-3v2m13,-2v2m14,-2v2m13,-2v3m13,-3v2m13,-2v2m13,-2v2m14,-2v3m13,-3v2m13,-2v2m13,-2v2m13,-2v3m14,-3v2m13,-2v2m13,-2v2m13,-2v3m13,-3v2m14,-2v2m13,-2v2m13,-2v3" style="stroke: black;"></path>
+        </g>
+        <g transform="translate(264,114)">
+         <path d="M0,0h-6m6,-4h-3m3,-4h-3m3,-4h-3m3,-4h-6m6,-5h-3m3,-4h-3m3,-4h-3m3,-4h-6m6,-4h-3m3,-4h-3m3,-4h-3m3,-4h-6m6,-4h-3m3,-5h-3m3,-4h-3m3,-4h-6m6,-4h-3m3,-4h-3m3,-4h-3m3,-4h-6m6,-4h-3m3,-4h-3m3,-5h-3m3,-4h-6m6,-4h-3m3,-4h-3m3,-4h-3" style="stroke: black;"></path>
+        </g>
+       </g>
+      </g>
+     </g>
+    </svg>
+    <svg viewBox="0 0 300 150" preserveAspectRatio="none" x="300" y="0" width="300" height="150">
+     <rect x="0" y="0" width="300" height="150" style="fill: none;"></rect>
+     <g>
+      <g transform="translate(21,18)">
+       <title></title>
+       <rect x="0" y="0" width="264" height="114" style="fill: none; stroke: black; stroke-width: 1;"></rect>
+       <g>
+        <path d="M0,0v114M53,0v114M106,0v114M158,0v114M211,0v114M264,0v114" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+        <path d="M0,114h264M0,101h264M0,88h264M0,76h264M0,63h264M0,50h264M0,37h264M0,25h264M0,12h264" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+       </g>
+       <svg x="0" y="0" overflow="hidden" width="264" height="114" viewBox="0 0 264 114">
+        <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
+         <path d="M0,114h42v-1h11v-2h21v-6h10v-10h11v-36h11v-25h10v-18h11v-11h10v11h11v31h10v21h11v22h11v8h10v10h11v2h10v4h53" style="stroke-linejoin: miter; stroke: #008000; stroke-width: 1; fill: none;"></path>
+        </g>
+       </svg>
+       <g>
+        <g transform="translate(0,114)">
+         <path d="M0,-3v3m13,-2v2m13,-2v2m14,-2v2m13,-3v3m13,-2v2m13,-2v2m13,-2v2m14,-3v3m13,-2v2m13,-2v2m13,-2v2m13,-3v3m14,-2v2m13,-2v2m13,-2v2m13,-3v3m13,-2v2m14,-2v2m13,-2v2m13,-3v3" style="stroke: black;"></path>
+         <g font-family="Arial" font-size="8" space="preserve">
+          <text text-anchor="middle" dy=".8em" transform="translate(0,1)">
+           0
+          </text>
+          <text text-anchor="middle" dy=".8em" transform="translate(53,1)">
+           2
+          </text>
+          <text text-anchor="middle" dy=".8em" transform="translate(106,1)">
+           4
+          </text>
+          <text text-anchor="middle" dy=".8em" transform="translate(158,1)">
+           6
+          </text>
+          <text text-anchor="middle" dy=".8em" transform="translate(211,1)">
+           8
+          </text>
+          <text text-anchor="middle" dy=".8em" transform="translate(264,1)">
+           10
+          </text>
+         </g>
+        </g>
+        <g transform="translate(0,114)">
+         <path d="M6,0h-6m6,-13h-6m6,-13h-6m6,-12h-6m6,-13h-6m6,-13h-6m6,-13h-6m6,-12h-6m6,-13h-6" style="stroke: black;"></path>
+         <g font-family="Arial" font-size="10" space="preserve">
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,0)">
+           0
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-13)">
+           20
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-26)">
+           40
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-38)">
+           60
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-51)">
+           80
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-64)">
+           100
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-77)">
+           120
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-89)">
+           140
+          </text>
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-102)">
+           160
+          </text>
+         </g>
+        </g>
+        <g>
+         <path d="M0,0v3m13,-3v2m13,-2v2m14,-2v2m13,-2v3m13,-3v2m13,-2v2m13,-2v2m14,-2v3m13,-3v2m13,-2v2m13,-2v2m13,-2v3m14,-3v2m13,-2v2m13,-2v2m13,-2v3m13,-3v2m14,-2v2m13,-2v2m13,-2v3" style="stroke: black;"></path>
+        </g>
+        <g transform="translate(264,114)">
+         <path d="M0,0h-6m6,-13h-6m6,-13h-6m6,-12h-6m6,-13h-6m6,-13h-6m6,-13h-6m6,-12h-6m6,-13h-6" style="stroke: black;"></path>
+        </g>
+       </g>
+      </g>
+     </g>
+    </svg>
+    <svg viewBox="0 0 300 150" preserveAspectRatio="none" x="300" y="150" width="300" height="150">
+     <rect x="0" y="0" width="300" height="150" style="fill: none;"></rect>
+    </svg>
+   </g>
+  </svg>
+ </g>
+</svg>

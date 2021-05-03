@@ -1,0 +1,368 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  ROOT canvas
+ </title>
+ <rect x="0" y="0" width="1200" height="800" style="fill: white;"></rect>
+ <g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(75,704)">
+    1
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M75,600h1" style="stroke: black; fill: none;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(75,464)">
+    20
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M65,360a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(75,224)">
+    35
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M65,120a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(150,704)">
+    2
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M150,590v20m-10,-10h20" style="stroke: black; fill: none;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(150,464)">
+    21
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M140,350v20h20v-20z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(150,224)">
+    36
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M140,120a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(225,704)">
+    3
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M215,590l20,20m0,-20l-20,20m0,-10h20m-10,-10v20" style="stroke: black; fill: none;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(225,464)">
+    22
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M225,350l-10,20h20z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(225,224)">
+    37
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M215,120a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(300,704)">
+    4
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M290,600a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: none;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(300,464)">
+    23
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M300,370l-10,-20h20z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(300,224)">
+    38
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M290,120a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(375,704)">
+    5
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M365,590l20,20m0,-20l-20,20" style="stroke: black; fill: none;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(375,464)">
+    24
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M365,360a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: none;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(375,224)">
+    39
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M365,120a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(450,704)">
+    6
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M449.00,600.00a1.00,1.00,0,1,0,2.00,0a1.00,1.00,0,1,0,-2.00,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(450,464)">
+    25
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M440,350v20h20v-20z" style="stroke: black; fill: none;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(450,224)">
+    40
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M440,120a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(525,704)">
+    7
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M523.5,600.0a1.5,1.5,0,1,0,3.0,0a1.5,1.5,0,1,0,-3.0,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(525,464)">
+    26
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M525,370l-10,-20h20z" style="stroke: black; fill: none;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(525,224)">
+    41
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M515,120a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(600,704)">
+    8
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M590,600a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(600,464)">
+    27
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M590,360l10,-10l10,10l-10,10z" style="stroke: black; fill: none;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(600,224)">
+    42
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M590,120a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(675,704)">
+    9
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M665,600a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(675,464)">
+    28
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M678,363h7v-7h-7v-7h-7v7h-7v7h7v7h7z" style="stroke: black; fill: none;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(675,224)">
+    43
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M665,120a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(750,704)">
+    10
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M740,600a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(750,464)">
+    29
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M750.0,350.0l6.7,20.0l-16.7,-12.5h20.0l-16.7,12.5z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(750,224)">
+    44
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M740,120a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(825,704)">
+    11
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M815,600a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(825,464)">
+    30
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M825.0,350.0l6.7,20.0l-16.7,-12.5h20.0l-16.7,12.5z" style="stroke: black; fill: none;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(825,224)">
+    45
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M815,120a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(900,704)">
+    12
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M890,600a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(900,464)">
+    31
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M890,350l20,20m0,-20l-20,20m0,-10h20m-10,-10v20" style="stroke: black; fill: none;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(900,224)">
+    46
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M890,120a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(975,704)">
+    13
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M965,600a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(975,464)">
+    32
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M975,350l-10,20h20z" style="stroke: black; fill: none;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(975,224)">
+    47
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M965,120a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(1050,704)">
+    14
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M1040,600a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(1050,464)">
+    33
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M1040,360l10,-10l10,10l-10,10z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(1050,224)">
+    48
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M1040,120a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(1125,704)">
+    15
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M1115,600a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(1125,464)">
+    34
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M1128,363h7v-7h-7v-7h-7v7h-7v7h7v7h7z" style="stroke: black; fill: black;"></path>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="12" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(1125,224)">
+    49
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RMarker">
+   <path d="M1115,120a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: black; fill: black;"></path>
+  </g>
+ </g>
+</svg>
