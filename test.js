@@ -70,7 +70,7 @@ if (process.argv && (process.argv.length > 2)) {
            console.log('   -k | --key keyname : select specific key (class name) like TH1 or TProfile for testing');
            console.log('   -o | --opt id : select specific option id (number or name), only when key is specified');
            console.log('   -m | --more : use more tests');
-           console.log('   -i | --ignore : ignore TLS checks, allow unauthorized use more tests');
+           console.log('   -i | --ignore : ignore TLS checks');
            return;
       }
 }
