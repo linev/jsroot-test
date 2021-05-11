@@ -230,7 +230,7 @@ processNextOption = reset_mathjax => {
 
    if (((entry.latex === "mathjax") || entry.reset_mathjax) && !reset_mathjax)
       return jsroot.require('latex')
-                   .then(ltx => ltx.LoadMathjax())
+                   .then(ltx => ltx.loadMathjax())
                    .then(() => {
          MathJax.startup.defaultReady();
          console.log('Loading MathJax and doing extra reset!!!')
