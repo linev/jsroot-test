@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+ <title>
+  ROOT canvas
+ </title>
+ <rect x="0" y="0" width="1200" height="800" style="fill: none;"></rect>
+ <g>
+  <g transform="translate(120,80)">
+   <title></title>
+   <rect x="0" y="0" width="960" height="640" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
+    <g>
+     <path d="M0,372.16c1.57,0.21,6.5,0.75,9.6,1.31s6.62,1.36,9.6,2.17s6.76,2,9.6,3.01s6.92,2.64,9.6,3.82s7.08,3.29,9.6,4.6s7.23,3.93,9.6,5.33s7.37,4.54,9.6,6.01s7.49,5.11,9.6,6.62s7.59,5.61,9.6,7.16s7.66,6.02,9.6,7.59s7.71,6.33,9.6,7.91s7.73,6.51,9.6,8.09s7.72,6.54,9.6,8.12s7.67,6.4,9.6,7.97s7.58,6.07,9.6,7.61s7.43,5.53,9.6,7.03s7.22,4.79,9.6,6.19s6.95,3.88,9.6,5.09s6.66,2.83,9.6,3.7s6.4,1.98,9.6,2.02s6.4,0.1,9.6,0.06s6.76,-1.17,9.6,-2.18s7.3,-3.23,9.6,-4.67s7.86,-5.76,9.6,-7.36s8.31,-8.62,9.6,-10.19s8.63,-11.63,9.6,-13.1s8.85,-14.64,9.6,-15.99s9,-17.52,9.6,-18.76s9.1,-20.15,9.6,-21.31s9.23,-22.48,9.6,-23.5s9.39,-29.1,9.6,-29.89s9.44,-41.82,9.6,-42.51s9.44,-41.17,9.6,-41.88s9.42,-39.73,9.6,-40.47s9.4,-37.46,9.6,-38.24s9.35,-34.33,9.6,-35.18s9.28,-30.38,9.6,-31.33s9.16,-25.64,9.6,-26.74s8.93,-20.21,9.6,-21.51s8.44,-14.22,9.6,-15.76s7.4,-8.16,9.6,-9.65s6.4,-3.28,9.6,-3.33s7.32,1.55,9.6,3s8.36,7.62,9.6,9.17s8.87,13.68,9.6,15.02s9.12,19.24,9.6,20.38s9.24,24.12,9.6,25.13s9.32,28.25,9.6,29.16s9.36,31.55,9.6,32.4s9.38,34.01,9.6,34.81s9.4,35.62,9.6,36.4s9.4,36.42,9.6,37.19s9.4,36.46,9.6,37.24s9.39,35.83,9.6,36.63s9.37,34.62,9.6,35.44s9.35,32.92,9.6,33.78s9.31,30.85,9.6,31.76s9.27,28.51,9.6,29.48s9.21,26,9.6,27.04s9.13,23.4,9.6,24.53s9.04,20.81,9.6,22.03s8.76,18.18,9.6,19.59s8.03,11.09,9.6,12.69s7.32,5.47,9.6,6.92s6.99,4.04,9.6,5.29s6.74,2.9,9.6,3.89s6.57,2.02,9.6,2.73s6.47,1.33,9.6,1.8s6.42,0.81,9.6,1.07s6.4,0.42,9.6,0.54s6.4,0.15,9.6,0.17s6.4,-0.02,9.6,-0.05s6.4,-0.1,9.6,-0.15s6.4,-0.12,9.6,-0.16s6.4,-0.08,9.6,-0.08s6.4,0.01,9.6,0.06s6.4,0.13,9.6,0.25s6.41,0.27,9.6,0.47s6.42,0.43,9.6,0.71s6.44,0.6,9.6,0.96s6.46,0.78,9.6,1.21s6.48,0.95,9.6,1.46s6.51,1.12,9.6,1.7s6.54,1.28,9.6,1.93s6.56,1.43,9.6,2.13s6.59,1.56,9.6,2.32s6.61,1.69,9.6,2.48s6.63,1.79,9.6,2.62s6.65,1.87,9.6,2.72s6.66,1.94,9.6,2.81s6.66,1.98,9.6,2.86s6.67,2.01,9.6,2.89s6.66,2.01,9.6,2.89s6.41,2.67,9.6,2.86s6.56,-1.03,9.6,-1.73s6.63,-1.9,9.6,-2.72s6.61,-1.82,9.6,-2.62s6.59,-1.74,9.6,-2.49s6.57,-1.63,9.6,-2.35s8.08,-1.83,9.6,-2.18" style="fill: none; stroke: blue; stroke-width: 6;"></path>
+    </g>
+   </svg>
+   <g>
+    <g transform="translate(0,640)">
+     <line x1="0" y1="0" x2="960" y2="0" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M39,-12v12m48,-12v12m49,-12v12m48,-24v24m49,-12v12m48,-12v12m49,-12v12m48,-24v24m49,-12v12m48,-12v12m49,-12v12m48,-24v24m49,-12v12m48,-12v12m49,-12v12m48,-24v24m49,-12v12m48,-12v12m49,-12v12m48,-24v24" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(184,6)">
+       2
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(378,6)">
+       4
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(572,6)">
+       6
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(766,6)">
+       8
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(960,6)">
+       10
+      </text>
+     </g>
+    </g>
+    <g>
+     <line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M18,627h-18m18,-13h-18m18,-14h-18m18,-13h-18m36,-14h-36m18,-13h-18m18,-13h-18m18,-14h-18m18,-13h-18m36,-14h-36m18,-13h-18m18,-14h-18m18,-13h-18m18,-14h-18m36,-13h-36m18,-13h-18m18,-14h-18m18,-13h-18m18,-14h-18m36,-13h-36m18,-14h-18m18,-13h-18m18,-14h-18m18,-13h-18m36,-14h-36m18,-13h-18m18,-13h-18m18,-14h-18m18,-13h-18m36,-14h-36m18,-13h-18m18,-14h-18m18,-13h-18m18,-14h-18m36,-13h-36m18,-13h-18m18,-14h-18m18,-13h-18m18,-14h-18m36,-13h-36m18,-14h-18m18,-13h-18m18,-14h-18m18,-13h-18m36,-14h-36m18,-13h-18m18,-13h-18" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,573)">
+       5
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,506)">
+       10
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,439)">
+       15
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,372)">
+       20
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,304)">
+       25
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,237)">
+       30
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,170)">
+       35
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,103)">
+       40
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,35)">
+       45
+      </text>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
+   <path d="M0,0h960v53h-960z" style="fill: none;"></path>
+   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480,0)">
+    x*gaus(0)+[3]*form1
+   </text>
+  </g>
+ </g>
+</svg>
