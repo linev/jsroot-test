@@ -66,22 +66,22 @@
      </g>
     </g>
     <g transform="translate(960,0)">
-     <line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line>
-     <path d="M0,613h-18m18,-26h-36m36,-27h-18m18,-27h-18m18,-26h-18m18,-27h-18m18,-27h-36m36,-26h-18m18,-27h-18m18,-27h-18m18,-26h-18m18,-27h-36m36,-27h-18m18,-26h-18m18,-27h-18m18,-27h-18m18,-26h-36m36,-27h-18m18,-27h-18m18,-26h-18m18,-27h-18m18,-27h-36m36,-26h-18" style="stroke: black; stroke-width: 1;"></path>
+     <line x1="0" y1="0" x2="0" y2="640" style="stroke: red; stroke-width: 1;"></line>
+     <path d="M0,613h-18m18,-26h-36m36,-27h-18m18,-27h-18m18,-26h-18m18,-27h-18m18,-27h-36m36,-26h-18m18,-27h-18m18,-27h-18m18,-26h-18m18,-27h-36m36,-27h-18m18,-26h-18m18,-27h-18m18,-27h-18m18,-26h-36m36,-27h-18m18,-27h-18m18,-26h-18m18,-27h-18m18,-27h-36m36,-26h-18" style="stroke: red; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
-      <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,587)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(4,587)">
        -0.10
       </text>
-      <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,453)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(4,453)">
        -0.05
       </text>
-      <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,320)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(4,320)">
        0
       </text>
-      <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,187)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(4,187)">
        0.05
       </text>
-      <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,53)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(4,53)">
        0.10
       </text>
      </g>
