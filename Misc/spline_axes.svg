@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+ <title>
+  splines_test/[9]
+ </title>
+ <rect x="0" y="0" width="1200" height="800" style="fill: none;"></rect>
+ <g>
+  <g transform="translate(120,80)">
+   <title></title>
+   <rect x="0" y="0" width="960" height="640" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
+    <g>
+     <path d="M0,264.32c1.44,0.49,7.5,1.73,9.6,3.25s8.41,9.13,9.6,10.68s8.59,12.86,9.6,14.35s8.35,12.39,9.6,13.95s7.46,8.47,9.6,9.98s6.4,3.58,9.6,3.55s7.49,-2.2,9.6,-3.72s8.36,-8.54,9.6,-10.1s8.59,-12.52,9.6,-14.01s8.4,-12.76,9.6,-14.31s7.47,-9.04,9.6,-10.55s6.54,-3.7,9.6,-3.04s8.44,5.59,9.6,7.13s9.14,17.18,9.6,18.31s9.34,27.59,9.6,28.47s9.4,34.83,9.6,35.61s9.39,37.24,9.6,38.03s9.3,33.76,9.6,34.69s8.9,24.06,9.6,25.39s6.52,10.29,9.6,10.88s8.81,-5.79,9.6,-7.16s9.38,-25.59,9.6,-26.4s9.49,-43.51,9.6,-44.1s9.52,-57.01,9.6,-57.51s9.53,-63.84,9.6,-64.32s9.51,-62.49,9.6,-63s9.46,-52.42,9.6,-53.09s9.14,-34.18,9.6,-35.3s6.53,-12.14,9.6,-11.51s9.28,14.48,9.6,15.44s9.5,41.59,9.6,42.14s9.55,64.59,9.6,65s9.56,80.42,9.6,80.78s9.56,86.67,9.6,87.03s9.55,82.08,9.6,82.48s9.51,66.7,9.6,67.25s9.25,41.86,9.6,42.85s6.99,13.35,9.6,12.11s9.4,-20.49,9.6,-21.26s9.53,-52.6,9.6,-53.06s9.56,-78.83,9.6,-79.17s9.57,-95.81,9.6,-96.12s9.57,-101.21,9.6,-101.52s9.56,-94.09,9.6,-94.45s9.52,-75.05,9.6,-75.54s9.3,-46.04,9.6,-46.98s7.32,-13.68,9.6,-12.23s9.44,23.73,9.6,24.43s9.54,58,9.6,58.42s9.57,85.14,9.6,85.46s9.57,101.85,9.6,102.14s9.57,106.05,9.6,106.35s9.56,97.2,9.6,97.55s9.52,76.37,9.6,76.85s9.29,45.94,9.6,46.89s7.47,12.94,9.6,11.43s9.44,-24.37,9.6,-25.07s9.54,-57.65,9.6,-58.08s9.56,-83.2,9.6,-83.53s9.57,-98.09,9.6,-98.39s9.57,-100.7,9.6,-101.01s9.56,-90.93,9.6,-91.3s9.51,-70.22,9.6,-70.75s9.21,-41.12,9.6,-42.17s7.54,-10.85,9.6,-9.32s9.41,22.82,9.6,23.58s9.53,51.97,9.6,52.45s9.55,73.46,9.6,73.84s9.56,85.01,9.6,85.37s9.56,85.63,9.6,86s9.54,75.69,9.6,76.14s9.46,56.86,9.6,57.51s8.74,31.46,9.6,32.88s7.32,7.12,9.6,5.67s9.33,-19.63,9.6,-20.52s9.49,-41.86,9.6,-42.45s9.52,-57.1,9.6,-57.59s9.53,-63.98,9.6,-64.46s9.51,-62.25,9.6,-62.76s9.47,-52.73,9.6,-53.37s9.28,-37.18,9.6,-38.14s6.44,-19.22,9.6,-19.57s6.43,-0.74,9.6,-0.46s9.12,15.43,9.6,16.57s9.35,28.5,9.6,29.36s9.4,35.8,9.6,36.57s9.38,36.99,9.6,37.79s9.29,32.58,9.6,33.53s8.99,23.83,9.6,25.09s7.86,12.73,9.6,14.33s6.47,3.75,9.6,3.29s7.94,-4.5,9.6,-6.1s8.53,-10.84,9.6,-12.35s8.56,-13.16,9.6,-14.66s8.14,-11.39,9.6,-12.98s6.69,-7.12,9.6,-8.03s6.49,-1.66,9.6,-1.14s7.88,4.44,9.6,6.03s8.49,10.22,9.6,11.75s9.11,13.81,9.6,14.54" style="fill: none; stroke: red; stroke-width: 2;"></path>
+    </g>
+    <g>
+     <path d="M-9.6,305.8c0.49,0.74,7.99,12.94,9.6,14.54s6.42,4.34,9.6,4.58s7.27,-1.71,9.6,-3.14s8.1,-7,9.6,-8.6s8.39,-10.25,9.6,-11.81s8.37,-11.21,9.6,-12.77s8.02,-9.87,9.6,-11.47s7.09,-6.61,9.6,-7.93s6.52,-2.74,9.6,-2.14s8.22,4.33,9.6,5.91s9.07,15.01,9.6,16.2s9.31,26.12,9.6,27.04s9.38,33.29,9.6,34.1s9.39,35.92,9.6,36.72s9.33,34.02,9.6,34.91s9.14,27.52,9.6,28.65s7.68,16.39,9.6,17.95s6.85,4.03,9.6,2.92s9,-12.01,9.6,-13.25s9.34,-25.99,9.6,-26.86s9.44,-37.01,9.6,-37.71s9.48,-45.17,9.6,-45.78s9.5,-50.53,9.6,-51.09s9.5,-52.99,9.6,-53.55s9.48,-51.02,9.6,-51.64s9.4,-43.28,9.6,-44.05s9.06,-29.55,9.6,-30.75s6.41,-11.95,9.6,-11.74s9.23,11.95,9.6,12.97s9.49,39.39,9.6,39.98s9.54,60.2,9.6,60.65s9.55,73.26,9.6,73.65s9.55,78.59,9.6,78.98s9.54,76.22,9.6,76.64s9.52,66.69,9.6,67.2s9.44,51.7,9.6,52.39s9.01,31.32,9.6,32.56s7.55,9.25,9.6,7.72s9.4,-21.33,9.6,-22.11s9.53,-51.95,9.6,-52.43s9.56,-74.42,9.6,-74.79s9.56,-87.92,9.6,-88.25s9.56,-92.48,9.6,-92.82s9.56,-88.22,9.6,-88.58s9.54,-76.4,9.6,-76.84s9.47,-57.87,9.6,-58.51s7.05,-32.3,9.6,-33.59s6.89,-3.25,9.6,-2.1s9.47,31.52,9.6,32.16s9.54,59.64,9.6,60.07s9.56,79.93,9.6,80.28s9.57,92.47,9.6,92.79s9.57,97.12,9.6,97.44s9.56,92.98,9.6,93.33s9.54,79.65,9.6,80.09s9.44,57.02,9.6,57.71s7.67,25.21,9.6,26.78s8.6,-3.94,9.6,-5.42s9.47,-33.22,9.6,-33.86s9.54,-58,9.6,-58.44s9.56,-78.63,9.6,-78.98s9.57,-91.89,9.6,-92.22s9.57,-94.85,9.6,-95.18s9.55,-87.39,9.6,-87.77s9.52,-69.7,9.6,-70.21s9.37,-46.01,9.6,-46.84s7.32,-20.24,9.6,-21.69s8.58,3.59,9.6,5.09s9.46,32.48,9.6,33.13s9.53,56.56,9.6,57.03s9.55,72.26,9.6,72.65s9.55,79.52,9.6,79.9s9.55,78.52,9.6,78.93s9.53,70.67,9.6,71.14s9.47,56.63,9.6,57.26s9.19,36.21,9.6,37.28s6.45,12.26,9.6,12.66s8.99,-8.94,9.6,-10.19s9.4,-28.75,9.6,-29.52s9.49,-44.72,9.6,-45.3s9.52,-55.95,9.6,-56.46s9.52,-60.35,9.6,-60.86s9.5,-57.69,9.6,-58.25s9.44,-48.13,9.6,-48.82s9.27,-34.65,9.6,-35.62s8.49,-19.56,9.6,-21.09s6.65,-6.15,9.6,-5.29s8.84,9.5,9.6,10.86s9.25,22.46,9.6,23.46s9.35,30.58,9.6,31.43s9.37,33.98,9.6,34.81s9.34,33.25,9.6,34.13s9.23,29.04,9.6,30.07s8.87,21.33,9.6,22.68s7.69,11.01,9.6,12.58s6.41,3.38,9.6,3.19s7.55,-2.81,9.6,-4.34s8.3,-8.44,9.6,-10.01s9.05,-12.49,9.6,-13.25" style="fill: none; stroke: rgb(0,255,0); stroke-width: 3;"></path>
+    </g>
+   </svg>
+   <g>
+    <g transform="translate(0,640)">
+     <line x1="0" y1="0" x2="960" y2="0" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M2,-12v12m28,-12v12m27,-24v24m28,-12v12m28,-12v12m28,-12v12m27,-12v12m28,-24v24m28,-12v12m27,-12v12m28,-12v12m28,-12v12m28,-24v24m27,-12v12m28,-12v12m28,-12v12m27,-12v12m28,-24v24m28,-12v12m27,-12v12m28,-12v12m28,-12v12m28,-24v24m27,-12v12m28,-12v12m28,-12v12m27,-12v12m28,-24v24m28,-12v12m28,-12v12m27,-12v12m28,-12v12m28,-24v24m27,-12v12m28,-12v12" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(57,6)">
+       0
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(196,6)">
+       5
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(335,6)">
+       10
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(473,6)">
+       15
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(612,6)">
+       20
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(750,6)">
+       25
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(889,6)">
+       30
+      </text>
+     </g>
+    </g>
+    <g>
+     <line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M36,629h-36m18,-15h-18m18,-16h-18m18,-15h-18m36,-16h-36m18,-15h-18m18,-16h-18m18,-15h-18m36,-15h-36m18,-16h-18m18,-15h-18m18,-16h-18m36,-15h-36m18,-16h-18m18,-15h-18m18,-16h-18m36,-15h-36m18,-16h-18m18,-15h-18m18,-15h-18m36,-16h-36m18,-15h-18m18,-16h-18m18,-15h-18m36,-16h-36m18,-15h-18m18,-16h-18m18,-15h-18m36,-16h-36m18,-15h-18m18,-15h-18m18,-16h-18m36,-15h-36m18,-16h-18m18,-15h-18m18,-16h-18m36,-15h-36m18,-16h-18m18,-15h-18m18,-16h-18m36,-15h-36" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,629)">
+       -1
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,567)">
+       -0.8
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,506)">
+       -0.6
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,444)">
+       -0.4
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,382)">
+       -0.2
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,320)">
+       0
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,258)">
+       0.2
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,196)">
+       0.4
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,135)">
+       0.6
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,73)">
+       0.8
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,11)">
+       1
+      </text>
+     </g>
+    </g>
+    <g>
+     <line x1="0" y1="0" x2="960" y2="0" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M15,0v24m31,-24v12m30,-12v12m31,-12v12m30,-12v12m31,-12v24m30,-24v12m31,-12v12m30,-12v12m31,-12v12m30,-12v24m30,-24v12m31,-12v12m30,-12v12m31,-12v12m30,-12v24m31,-24v12m30,-12v12m31,-12v12m30,-12v12m31,-12v24m30,-24v12m31,-12v12m30,-12v12m31,-12v12m30,-12v24m31,-24v12m30,-12v12m31,-12v12m30,-12v12m31,-12v24m30,-24v12" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="middle" transform="translate(15,-6)">
+       0
+      </text>
+      <text fill="black" text-anchor="middle" transform="translate(168,-6)">
+       5
+      </text>
+      <text fill="black" text-anchor="middle" transform="translate(320,-6)">
+       10
+      </text>
+      <text fill="black" text-anchor="middle" transform="translate(472,-6)">
+       15
+      </text>
+      <text fill="black" text-anchor="middle" transform="translate(625,-6)">
+       20
+      </text>
+      <text fill="black" text-anchor="middle" transform="translate(777,-6)">
+       25
+      </text>
+      <text fill="black" text-anchor="middle" transform="translate(930,-6)">
+       30
+      </text>
+     </g>
+    </g>
+    <g transform="translate(960,0)">
+     <line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,630h-18m18,-16h-18m18,-16h-18m18,-16h-36m36,-16h-18m18,-16h-18m18,-16h-18m18,-15h-36m36,-16h-18m18,-16h-18m18,-16h-18m18,-16h-36m36,-16h-18m18,-16h-18m18,-16h-18m18,-15h-36m36,-16h-18m18,-16h-18m18,-16h-18m18,-16h-36m36,-16h-18m18,-16h-18m18,-16h-18m18,-16h-36m36,-15h-18m18,-16h-18m18,-16h-18m18,-16h-36m36,-16h-18m18,-16h-18m18,-16h-18m18,-16h-36m36,-16h-18m18,-15h-18m18,-16h-18m18,-16h-36m36,-16h-18m18,-16h-18m18,-16h-18m18,-16h-36" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,582)">
+       -0.8
+      </text>
+      <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,519)">
+       -0.6
+      </text>
+      <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,455)">
+       -0.4
+      </text>
+      <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,392)">
+       -0.2
+      </text>
+      <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,328)">
+       0
+      </text>
+      <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,264)">
+       0.2
+      </text>
+      <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,201)">
+       0.4
+      </text>
+      <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,137)">
+       0.6
+      </text>
+      <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,74)">
+       0.8
+      </text>
+      <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,10)">
+       1
+      </text>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
+   <path d="M0,0h960v53h-960z" style="fill: none;"></path>
+   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480,0)">
+    sin(x)*sin(x/10)
+   </text>
+  </g>
+ </g>
+</svg>
