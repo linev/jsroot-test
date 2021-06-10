@@ -12,28 +12,28 @@
      <rect x="0" y="0" width="528" height="304" style="fill: rgb(255,255,255); stroke: black; stroke-width: 1;"></rect>
      <svg x="0" y="0" overflow="hidden" width="528" height="304" viewBox="0 0 528 304">
       <g>
-       <path d="M0,279l53,-85l54,-84l53,-85l53,85l54,84l53,85l53,-85l54,-84l53,-85" style="stroke: rgb(0,0,0); stroke-width: 1; fill: none;"></path>
+       <path d="M44,279l49,-85l49,-84l49,-85l49,85l48,84l49,85l49,-85l49,-84l49,-85" style="stroke: red; stroke-width: 3; fill: none;"></path>
       </g>
      </svg>
      <g>
       <g transform="translate(0,304)">
        <line x1="0" y1="0" x2="528" y2="0" style="stroke: rgb(0,0,0); stroke-width: 1;"></line>
-       <path d="M0,-12v12m27,-6v6m26,-6v6m27,-6v6m27,-12v12m26,-6v6m27,-6v6m27,-6v6m26,-12v12m27,-6v6m27,-6v6m26,-6v6m27,-12v12m27,-6v6m26,-6v6m27,-6v6m27,-12v12m26,-6v6m27,-6v6m27,-6v6" style="stroke: rgb(0,0,0); stroke-width: 1;"></path>
+       <path d="M20,-6v6m24,-6v6m24,-6v6m25,-12v12m24,-6v6m25,-6v6m24,-6v6m25,-12v12m24,-6v6m25,-6v6m24,-6v6m24,-12v12m25,-6v6m24,-6v6m25,-6v6m24,-12v12m25,-6v6m24,-6v6m25,-6v6m24,-12v12m24,-6v6" style="stroke: rgb(0,0,0); stroke-width: 1;"></path>
        <g font-family="Arial" font-size="14" space="preserve">
-        <text fill="rgb(0,0,0)" text-anchor="middle" dy=".8em" transform="translate(0,4)">
-         0
-        </text>
-        <text fill="rgb(0,0,0)" text-anchor="middle" dy=".8em" transform="translate(107,4)">
+        <text fill="rgb(0,0,0)" text-anchor="middle" dy=".8em" transform="translate(93,4)">
          2
         </text>
-        <text fill="rgb(0,0,0)" text-anchor="middle" dy=".8em" transform="translate(213,4)">
+        <text fill="rgb(0,0,0)" text-anchor="middle" dy=".8em" transform="translate(191,4)">
          4
         </text>
-        <text fill="rgb(0,0,0)" text-anchor="middle" dy=".8em" transform="translate(320,4)">
+        <text fill="rgb(0,0,0)" text-anchor="middle" dy=".8em" transform="translate(288,4)">
          6
         </text>
-        <text fill="rgb(0,0,0)" text-anchor="middle" dy=".8em" transform="translate(427,4)">
+        <text fill="rgb(0,0,0)" text-anchor="middle" dy=".8em" transform="translate(386,4)">
          8
+        </text>
+        <text fill="rgb(0,0,0)" text-anchor="middle" dy=".8em" transform="translate(484,4)">
+         10
         </text>
        </g>
       </g>
@@ -82,7 +82,7 @@
      <rect x="0" y="0" width="528" height="304" style="fill: rgb(255,255,255); stroke: black; stroke-width: 1;"></rect>
      <svg x="0" y="0" overflow="hidden" width="528" height="304" viewBox="0 0 528 304">
       <g>
-       <path d="M0,304h79v-1h21v-1h6v-1h5v-1h5v-2h5v-2h6v-2h5v-2h5v-4h6v-5h5v-4h5v-7h5v-7h6v-8h5v-10h5v-11h6v-12h5v-14h5v-15h5v-15h6v-17h5v-17h5v-17h5v-18h6v-17h5v-16h5v-16h6v-13h5v-12h5v-9h5v-8h6v-4h5v-2h5v2h6v4h5v8h5v9h5v12h6v13h5v16h5v16h6v17h5v18h5v17h5v17h6v17h5v15h5v15h5v14h6v12h5v11h5v10h6v8h5v7h5v7h5v4h6v5h5v4h5v2h6v2h5v2h5v2h5v1h6v1h5v1h21v1h74" style="stroke-linejoin: miter; stroke: rgb(0,0,153); stroke-width: 1; fill: none;"></path>
+       <path d="M0,304h79v-1h21v-1h6v-1h5v-1h5v-2h5v-2h6v-2h5v-2h5v-4h6v-5h5v-4h5v-7h5v-7h6v-8h5v-10h5v-11h6v-12h5v-14h5v-15h5v-15h6v-17h5v-17h5v-17h5v-18h6v-17h5v-16h5v-16h6v-13h5v-12h5v-9h5v-8h6v-4h5v-2h5v2h6v4h5v8h5v9h5v12h6v13h5v16h5v16h6v17h5v18h5v17h5v17h6v17h5v15h5v15h5v14h6v12h5v11h5v10h6v8h5v7h5v7h5v4h6v5h5v4h5v2h6v2h5v2h5v2h5v1h6v1h5v1h21v1h74" style="stroke-linejoin: miter; stroke: #0000FF; stroke-width: 3; stroke-dasharray: 3,3; fill: none;"></path>
       </g>
      </svg>
      <g>
