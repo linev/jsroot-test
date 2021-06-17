@@ -4,224 +4,219 @@
  </title>
  <rect x="0" y="0" width="1200" height="800" style="fill: white;"></rect>
  <g>
-  <svg viewBox="0 0 1200 800" preserveAspectRatio="none" x="0" y="0" width="1200" height="800">
-   <rect x="0" y="0" width="1200" height="800" style="fill: white;"></rect>
+  <g transform="translate(192,40)">
+   <title></title>
+   <rect x="0" y="0" width="948" height="632" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+   <svg x="0" y="0" overflow="hidden" width="948" height="632" viewBox="0 0 948 632">
+    <g>
+     <path d="M0,637h40v-267h39v-48h40v-19h39v-6h40v-6h39v7h40v5h39v-5h40v3h39v4h40v5h39v-3h40v5h39v5h40v2h39v8h40v8h39v6h40v1h39v4h40v9h39v5h79" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: none;"></path>
+    </g>
+    <g>
+     <path d="M0,637h40v-114h39v-58h40v-18h39v-13h40v-6h39v-7h40v-5h39v-3h79v2h40v-3h39v-3h40v2h39v-1h79v5h40v1h39v4h40v6h39v3h40v9h39v1h40v-3h39" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: none;"></path>
+    </g>
+    <g>
+     <path d="M0,637h40v-66h39v-46h40v-20h39v-18h40v-7h39v-10h40v-8h39v-3h40v-2h39v-2h40v-2h79v3h39v-1h40v-5h39v5h40v-1h39v1h40v3h39v3h40v1h79v2h39" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: none;"></path>
+    </g>
+    <g>
+     <path d="M0,637h40v-29h39v-49h40v-3h39v-16h40v-12h39v-10h40v-9h39v1h40v5h39v-6h40v-4h39v3h40v5h39v1h40v-1h39v2h40v-4h39v1h40v6h39v3h40v-3h39v3h79" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: none;"></path>
+    </g>
+    <g>
+     <path d="M0,637h79v-8h40v-18h39v-20h40v-30h39v-6h40v-6h39v-2h40v24h39v-33h40v1h39v7h40v2h39v-6h40v2h39v5h40v-11h39v-3h40v21h39v-2h40v-16h39v14h40v-10h39" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: none;"></path>
+    </g>
+    <g>
+     <path d="M40,381h40M60,379v4M79,327h40M99,327v1M119,306h40M139,306v1M158,299h40M178,299v1M198,298h40M218,297v1M237,297h40M257,296v2M277,300h40M297,300v1M316,302h40M336,301v1M356,304h40M376,303v2M395,305h40M415,304v1M435,306h40M455,306v1M474,310h40M494,309v1M514,311h40M534,310v1M553,315h40M573,314v2M593,320h40M613,319v2M632,324h40M652,323v1M672,329h40M692,328v2M711,336h40M731,335v2M751,341h40M771,340v2M790,346h40M810,345v2M830,351h40M850,350v3M869,359h40M889,357v3M909,363h40M929,362v2" style="stroke: black; stroke-width: 2;"></path>
+     <path d="M55,381a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM94,327a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM134,306a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM173,299a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM213,298a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM252,297a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM292,300a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM331,302a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM371,304a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM410,305a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM450,306a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM489,310a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM529,311a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM568,315a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM608,320a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM647,324a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM687,329a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM726,336a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM766,341a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM805,346a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM845,351a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM884,359a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM924,363a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: black; fill: black;"></path>
+    </g>
+   </svg>
    <g>
-    <g transform="translate(192,40)">
-     <title></title>
-     <rect x="0" y="0" width="948" height="632" style="fill: white; stroke: black; stroke-width: 1;"></rect>
-     <svg x="0" y="0" overflow="hidden" width="948" height="632" viewBox="0 0 948 632">
-      <g>
-       <path d="M0,637h40v-267h39v-48h40v-19h39v-6h40v-6h39v7h40v5h39v-5h40v3h39v4h40v5h39v-3h40v5h39v5h40v2h39v8h40v8h39v6h40v1h39v4h40v9h39v5h79L948,635L0,635Z" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: rgb(222,90,106);"></path>
-      </g>
-      <g>
-       <path d="M0,637h40v-114h39v-58h40v-18h39v-13h40v-6h39v-7h40v-5h39v-3h79v2h40v-3h39v-3h40v2h39v-1h79v5h40v1h39v4h40v6h39v3h40v9h39v1h40v-3h39L948,635L0,635Z" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: rgb(248,206,104);"></path>
-      </g>
-      <g>
-       <path d="M0,637h40v-66h39v-46h40v-20h39v-18h40v-7h39v-10h40v-8h39v-3h40v-2h39v-2h40v-2h79v3h39v-1h40v-5h39v5h40v-1h39v1h40v3h39v3h40v1h79v2h39L948,635L0,635Z" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: rgb(155,152,204);"></path>
-      </g>
-      <g>
-       <path d="M0,637h40v-29h39v-49h40v-3h39v-16h40v-12h39v-10h40v-9h39v1h40v5h39v-6h40v-4h39v3h40v5h39v1h40v-1h39v2h40v-4h39v1h40v6h39v3h40v-3h39v3h79L948,635L0,635Z" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: rgb(195,138,145);"></path>
-      </g>
-      <g>
-       <path d="M0,637h79v-8h40v-18h39v-20h40v-30h39v-6h40v-6h39v-2h40v24h39v-33h40v1h39v7h40v2h39v-6h40v2h39v5h40v-11h39v-3h40v21h39v-2h40v-16h39v14h40v-10h39L948,635L0,635Z" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: rgb(208,240,193);"></path>
-      </g>
-      <g>
-       <path d="M40,381h40M60,379v4M79,327h40M99,327v1M119,306h40M139,306v1M158,299h40M178,299v1M198,298h40M218,297v1M237,297h40M257,296v2M277,300h40M297,300v1M316,302h40M336,301v1M356,304h40M376,303v2M395,305h40M415,304v1M435,306h40M455,306v1M474,310h40M494,309v1M514,311h40M534,310v1M553,315h40M573,314v2M593,320h40M613,319v2M632,324h40M652,323v1M672,329h40M692,328v2M711,336h40M731,335v2M751,341h40M771,340v2M790,346h40M810,345v2M830,351h40M850,350v3M869,359h40M889,357v3M909,363h40M929,362v2" style="stroke: black; stroke-width: 2;"></path>
-       <path d="M55,381a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM94,327a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM134,306a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM173,299a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM213,298a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM252,297a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM292,300a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM331,302a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM371,304a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM410,305a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM450,306a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM489,310a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM529,311a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM568,315a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM608,320a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM647,324a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM687,329a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM726,336a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM766,341a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM805,346a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM845,351a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM884,359a5,5,0,1,0,10,0a5,5,0,1,0,-10,0zM924,363a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: black; fill: black;"></path>
-      </g>
-     </svg>
-     <g>
-      <g transform="translate(0,632)">
-       <line x1="0" y1="0" x2="948" y2="0" style="stroke: black; stroke-width: 1;"></line>
-       <path d="M0,-24v24m40,-12v12m39,-12v12m40,-12v12m39,-24v24m40,-12v12m39,-12v12m40,-12v12m39,-24v24m40,-12v12m39,-12v12m40,-12v12m39,-24v24m40,-12v12m39,-12v12m40,-12v12m39,-24v24m40,-12v12m39,-12v12m40,-12v12m39,-24v24m40,-12v12m39,-12v12m40,-12v12m39,-24v24" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="32" space="preserve">
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,6)">
-         60
-        </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(158,6)">
-         80
-        </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(316,6)">
-         100
-        </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(474,6)">
-         120
-        </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(632,6)">
-         140
-        </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(790,6)">
-         160
-        </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(948,6)">
-         180
-        </text>
-       </g>
-       <g font-family="Arial" font-size="36" space="preserve" transform="translate(948,75)">
-        <text fill="black" text-anchor="start" transform="translate(-200,14)">
-         <tspan dy="-.1em">
-          m
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy=".4em">
-          T
-         </tspan>
-         <tspan font-size="60%" dx="-.32em" dy="-1em">
-          W→ lν
-         </tspan>
-         <tspan dy=".36em">
-          [GeV]
-         </tspan>
-        </text>
-       </g>
-      </g>
-      <g>
-       <line x1="0" y1="0" x2="0" y2="632" style="stroke: black; stroke-width: 1;"></line>
-       <path d="M18,622h-18m18,-10h-18m18,-8h-18m18,-6h-18m18,-5h-18m18,-5h-18m18,-4h-18m36,-3h-36m18,-24h-18m18,-14h-18m18,-10h-18m18,-7h-18m18,-7h-18m18,-5h-18m18,-4h-18m18,-4h-18m36,-4h-36m18,-24h-18m18,-14h-18m18,-9h-18m18,-8h-18m18,-6h-18m18,-6h-18m18,-4h-18m18,-4h-18m36,-4h-36m18,-23h-18m18,-14h-18m18,-10h-18m18,-8h-18m18,-6h-18m18,-5h-18m18,-5h-18m18,-4h-18m36,-3h-36m18,-24h-18m18,-14h-18m18,-10h-18m18,-7h-18m18,-7h-18m18,-5h-18m18,-4h-18m18,-4h-18m36,-4h-36m18,-24h-18m18,-14h-18m18,-9h-18m18,-8h-18m18,-6h-18m18,-6h-18m18,-4h-18m18,-4h-18m36,-4h-36m18,-23h-18m18,-14h-18m18,-10h-18m18,-8h-18m18,-6h-18m18,-5h-18m18,-5h-18m18,-4h-18m36,-3h-36m18,-24h-18m18,-14h-18m18,-10h-18m18,-7h-18m18,-7h-18m18,-5h-18m18,-4h-18m18,-4h-18m36,-4h-36m18,-24h-18" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="32" space="preserve">
-        <text fill="black" text-anchor="start" transform="translate(-51,602)">
-         <tspan dy="-.1em">
-          10
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy="-.6em">
-          0
-         </tspan>
-        </text>
-        <text fill="black" text-anchor="start" transform="translate(-51,523)">
-         <tspan dy="-.1em">
-          10
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy="-.6em">
-          1
-         </tspan>
-        </text>
-        <text fill="black" text-anchor="start" transform="translate(-51,444)">
-         <tspan dy="-.1em">
-          10
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy="-.6em">
-          2
-         </tspan>
-        </text>
-        <text fill="black" text-anchor="start" transform="translate(-51,366)">
-         <tspan dy="-.1em">
-          10
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy="-.6em">
-          3
-         </tspan>
-        </text>
-        <text fill="black" text-anchor="start" transform="translate(-51,287)">
-         <tspan dy="-.1em">
-          10
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy="-.6em">
-          4
-         </tspan>
-        </text>
-        <text fill="black" text-anchor="start" transform="translate(-51,208)">
-         <tspan dy="-.1em">
-          10
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy="-.6em">
-          5
-         </tspan>
-        </text>
-        <text fill="black" text-anchor="start" transform="translate(-51,130)">
-         <tspan dy="-.1em">
-          10
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy="-.6em">
-          6
-         </tspan>
-        </text>
-        <text fill="black" text-anchor="start" transform="translate(-51,51)">
-         <tspan dy="-.1em">
-          10
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy="-.6em">
-          7
-         </tspan>
-        </text>
-       </g>
-       <g font-family="Arial" font-size="36" space="preserve" transform="translate(-121,0)">
-        <text fill="black" text-anchor="end" dy=".4em" transform=" rotate(270)">
-         Events
-        </text>
-       </g>
-      </g>
+    <g transform="translate(0,632)">
+     <line x1="0" y1="0" x2="948" y2="0" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,-24v24m40,-12v12m39,-12v12m40,-12v12m39,-24v24m40,-12v12m39,-12v12m40,-12v12m39,-24v24m40,-12v12m39,-12v12m40,-12v12m39,-24v24m40,-12v12m39,-12v12m40,-12v12m39,-24v24m40,-12v12m39,-12v12m40,-12v12m39,-24v24m40,-12v12m39,-12v12m40,-12v12m39,-24v24" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="32" space="preserve">
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,6)">
+       60
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(158,6)">
+       80
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(316,6)">
+       100
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(474,6)">
+       120
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(632,6)">
+       140
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(790,6)">
+       160
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(948,6)">
+       180
+      </text>
+     </g>
+     <g font-family="Arial" font-size="36" space="preserve" transform="translate(948,75)">
+      <text fill="black" text-anchor="start" transform="translate(-200,14)">
+       <tspan dy="-.1em">
+        m
+       </tspan>
+       <tspan font-size="60%" dx=".1em" dy=".4em">
+        T
+       </tspan>
+       <tspan font-size="60%" dx="-.32em" dy="-1em">
+        W→ lν
+       </tspan>
+       <tspan dy=".36em">
+        [GeV]
+       </tspan>
+      </text>
      </g>
     </g>
-    <g transform="translate(720,64)" font-family="Arial" font-size="28" space="preserve">
-     <path d="M0,0h384v216h-384z" style="fill: none;"></path>
-     <line x1="12" y1="23" x2="84" y2="23" style="stroke: black; stroke-width: 2;"></line>
-     <line x1="48" y1="9" x2="48" y2="37" style="stroke: black; stroke-width: 2;"></line>
-     <path d="M43,23a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: black; fill: black;"></path>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(372,23)">
-      Data
-     </text>
-     <rect x="12" y="43" width="72" height="27" style="fill: rgb(222,90,106); stroke: black; stroke-width: 1;"></rect>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(372,57)">
-      W+jets
-     </text>
-     <rect x="12" y="77" width="72" height="27" style="fill: rgb(248,206,104); stroke: black; stroke-width: 1;"></rect>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(372,91)">
-      Z+jets
-     </text>
-     <rect x="12" y="111" width="72" height="27" style="fill: rgb(155,152,204); stroke: black; stroke-width: 1;"></rect>
-     <text fill="black" text-anchor="start" transform="translate(342,139)">
-      <tspan dy="-.1em">
-       t
-      </tspan>
-      <tspan text-decoration="overline">
-       t
-      </tspan>
-     </text>
-     <rect x="12" y="145" width="72" height="27" style="fill: rgb(195,138,145); stroke: black; stroke-width: 1;"></rect>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(372,159)">
-      Diboson
-     </text>
-     <rect x="12" y="179" width="72" height="27" style="fill: rgb(208,240,193); stroke: black; stroke-width: 1;"></rect>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(372,193)">
-      Single top
-     </text>
-    </g>
-    <g font-family="Arial" font-size="32" space="preserve" font-weight="bold" font-style="oblique">
-     <text fill="black" text-anchor="start" transform="translate(252,112)">
-      ATLAS
-     </text>
-    </g>
-    <g font-family="Arial" font-size="32" space="preserve">
-     <text fill="black" text-anchor="start" transform="translate(444,112)">
-      Open Data
-     </text>
-    </g>
-    <g font-family="Arial" font-size="29" space="preserve">
-     <text fill="black" text-anchor="start" transform="translate(252,160)">
-      <tspan dy="-.1em">
-       <tspan style="font-size: 130%;" dy="-.08em">
-        <tspan>
-         √
-        </tspan>
-        <tspan>
-         ‾‾
-        </tspan>
-        <tspan dy=".08em" dx="-.87em">
-        </tspan>
+    <g>
+     <line x1="0" y1="0" x2="0" y2="632" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M18,622h-18m18,-10h-18m18,-8h-18m18,-6h-18m18,-5h-18m18,-5h-18m18,-4h-18m36,-3h-36m18,-24h-18m18,-14h-18m18,-10h-18m18,-7h-18m18,-7h-18m18,-5h-18m18,-4h-18m18,-4h-18m36,-4h-36m18,-24h-18m18,-14h-18m18,-9h-18m18,-8h-18m18,-6h-18m18,-6h-18m18,-4h-18m18,-4h-18m36,-4h-36m18,-23h-18m18,-14h-18m18,-10h-18m18,-8h-18m18,-6h-18m18,-5h-18m18,-5h-18m18,-4h-18m36,-3h-36m18,-24h-18m18,-14h-18m18,-10h-18m18,-7h-18m18,-7h-18m18,-5h-18m18,-4h-18m18,-4h-18m36,-4h-36m18,-24h-18m18,-14h-18m18,-9h-18m18,-8h-18m18,-6h-18m18,-6h-18m18,-4h-18m18,-4h-18m36,-4h-36m18,-23h-18m18,-14h-18m18,-10h-18m18,-8h-18m18,-6h-18m18,-5h-18m18,-5h-18m18,-4h-18m36,-3h-36m18,-24h-18m18,-14h-18m18,-10h-18m18,-7h-18m18,-7h-18m18,-5h-18m18,-4h-18m18,-4h-18m36,-4h-36m18,-24h-18" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="32" space="preserve">
+      <text fill="black" text-anchor="start" transform="translate(-51,602)">
+       <tspan dy="-.1em">
+        10
        </tspan>
-       <tspan>
-        s
+       <tspan font-size="60%" dx=".1em" dy="-.6em">
+        0
        </tspan>
-      </tspan>
-      <tspan>
-       = 13 TeV, 0.01 fb
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
-       -1
-      </tspan>
-     </text>
+      </text>
+      <text fill="black" text-anchor="start" transform="translate(-51,523)">
+       <tspan dy="-.1em">
+        10
+       </tspan>
+       <tspan font-size="60%" dx=".1em" dy="-.6em">
+        1
+       </tspan>
+      </text>
+      <text fill="black" text-anchor="start" transform="translate(-51,444)">
+       <tspan dy="-.1em">
+        10
+       </tspan>
+       <tspan font-size="60%" dx=".1em" dy="-.6em">
+        2
+       </tspan>
+      </text>
+      <text fill="black" text-anchor="start" transform="translate(-51,366)">
+       <tspan dy="-.1em">
+        10
+       </tspan>
+       <tspan font-size="60%" dx=".1em" dy="-.6em">
+        3
+       </tspan>
+      </text>
+      <text fill="black" text-anchor="start" transform="translate(-51,287)">
+       <tspan dy="-.1em">
+        10
+       </tspan>
+       <tspan font-size="60%" dx=".1em" dy="-.6em">
+        4
+       </tspan>
+      </text>
+      <text fill="black" text-anchor="start" transform="translate(-51,208)">
+       <tspan dy="-.1em">
+        10
+       </tspan>
+       <tspan font-size="60%" dx=".1em" dy="-.6em">
+        5
+       </tspan>
+      </text>
+      <text fill="black" text-anchor="start" transform="translate(-51,130)">
+       <tspan dy="-.1em">
+        10
+       </tspan>
+       <tspan font-size="60%" dx=".1em" dy="-.6em">
+        6
+       </tspan>
+      </text>
+      <text fill="black" text-anchor="start" transform="translate(-51,51)">
+       <tspan dy="-.1em">
+        10
+       </tspan>
+       <tspan font-size="60%" dx=".1em" dy="-.6em">
+        7
+       </tspan>
+      </text>
+     </g>
+     <g font-family="Arial" font-size="36" space="preserve" transform="translate(-121,0)">
+      <text fill="black" text-anchor="end" dy=".4em" transform=" rotate(270)">
+       Events
+      </text>
+     </g>
     </g>
    </g>
-  </svg>
+  </g>
+  <g transform="translate(720,64)" font-family="Arial" font-size="28" space="preserve">
+   <path d="M0,0h384v216h-384z" style="fill: none;"></path>
+   <line x1="12" y1="23" x2="84" y2="23" style="stroke: black; stroke-width: 2;"></line>
+   <line x1="48" y1="9" x2="48" y2="37" style="stroke: black; stroke-width: 2;"></line>
+   <path d="M43,23a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: black; fill: black;"></path>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(372,23)">
+    Data
+   </text>
+   <rect x="12" y="43" width="72" height="27" style="fill: none; stroke: black; stroke-width: 1;"></rect>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(372,57)">
+    W+jets
+   </text>
+   <rect x="12" y="77" width="72" height="27" style="fill: none; stroke: black; stroke-width: 1;"></rect>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(372,91)">
+    Z+jets
+   </text>
+   <rect x="12" y="111" width="72" height="27" style="fill: none; stroke: black; stroke-width: 1;"></rect>
+   <text fill="black" text-anchor="start" transform="translate(342,139)">
+    <tspan dy="-.1em">
+     t
+    </tspan>
+    <tspan text-decoration="overline">
+     t
+    </tspan>
+   </text>
+   <rect x="12" y="145" width="72" height="27" style="fill: none; stroke: black; stroke-width: 1;"></rect>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(372,159)">
+    Diboson
+   </text>
+   <rect x="12" y="179" width="72" height="27" style="fill: none; stroke: black; stroke-width: 1;"></rect>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(372,193)">
+    Single top
+   </text>
+  </g>
+  <g font-family="Arial" font-size="32" space="preserve" font-weight="bold" font-style="oblique">
+   <text fill="black" text-anchor="start" transform="translate(252,112)">
+    ATLAS
+   </text>
+  </g>
+  <g font-family="Arial" font-size="32" space="preserve">
+   <text fill="black" text-anchor="start" transform="translate(444,112)">
+    Open Data
+   </text>
+  </g>
+  <g font-family="Arial" font-size="29" space="preserve">
+   <text fill="black" text-anchor="start" transform="translate(252,160)">
+    <tspan dy="-.1em">
+     <tspan style="font-size: 130%;" dy="-.08em">
+      <tspan>
+       √
+      </tspan>
+      <tspan>
+       ‾‾
+      </tspan>
+      <tspan dy=".08em" dx="-.87em">
+      </tspan>
+     </tspan>
+     <tspan>
+      s
+     </tspan>
+    </tspan>
+    <tspan>
+     = 13 TeV, 0.01 fb
+    </tspan>
+    <tspan font-size="60%" dx=".1em" dy="-.6em">
+     -1
+    </tspan>
+   </text>
+  </g>
  </g>
 </svg>
