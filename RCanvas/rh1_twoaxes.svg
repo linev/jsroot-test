@@ -9,10 +9,10 @@
    <rect x="0" y="0" width="704" height="456" style="fill: none; stroke: black; stroke-width: 1;"></rect>
    <svg x="0" y="0" overflow="hidden" width="704" height="456" viewBox="0 0 704 456">
     <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
-     <path d="M0,456h28v-5h28v-19h28v-46h29v-96h28v-132h28v-131h28v-5h28v17h28v103h29v158h28v98h28v34h28v22h56v2h282" style="stroke-linejoin: miter; stroke: #FF0000; stroke-width: 2; fill: none;"></path>
+     <path d="M0,456h28v-2h28v-26h28v-37h29v-72h28v-115h28v-126h28v-56h28v113h28v37h29v132h28v74h28v50h28v21h28v5h28v2h282" style="stroke-linejoin: miter; stroke: #FF0000; stroke-width: 2; fill: none;"></path>
     </g>
     <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
-     <path d="M0,456h197v-2h28v1h28v-12h29v-18h28v-39h28v-48h28v-80h28v-64h28v-103h29v-62h28v-7h28v29h28v54h28v69h28v113h29v79h28v31h28v31h28" style="stroke-linejoin: miter; stroke: #0000FF; stroke-width: 4; fill: none;"></path>
+     <path d="M0,456h225v-5h28v-4h29v-15h28v-28h28v-55h28v-39h28v-114h28v-74h29v-81h28v-19h28v5h28v50h28v93h28v109h29v78h28v35h28v33h28" style="stroke-linejoin: miter; stroke: #0000FF; stroke-width: 4; fill: none;"></path>
     </g>
    </svg>
    <g>
@@ -40,68 +40,71 @@
      </g>
     </g>
     <g transform="translate(0,456)">
-     <path d="M16,0h-16m8,-12h-8m8,-12h-8m8,-12h-8m16,-12h-16m8,-12h-8m8,-12h-8m8,-12h-8m16,-12h-16m8,-12h-8m8,-12h-8m8,-12h-8m16,-12h-16m8,-12h-8m8,-12h-8m8,-12h-8m16,-12h-16m8,-12h-8m8,-12h-8m8,-12h-8m16,-12h-16m8,-12h-8m8,-12h-8m8,-12h-8m16,-12h-16m8,-12h-8m8,-12h-8m8,-12h-8m16,-12h-16m8,-12h-8m8,-12h-8m8,-12h-8m16,-12h-16m8,-12h-8m8,-12h-8m8,-12h-8m16,-12h-16m8,-12h-8m8,-12h-8" style="stroke: #FF0000;"></path>
+     <path d="M16,0h-16m8,-11h-8m8,-11h-8m8,-11h-8m16,-10h-16m8,-11h-8m8,-11h-8m8,-11h-8m16,-11h-16m8,-11h-8m8,-11h-8m8,-10h-8m16,-11h-16m8,-11h-8m8,-11h-8m8,-11h-8m16,-11h-16m8,-11h-8m8,-10h-8m8,-11h-8m16,-11h-16m8,-11h-8m8,-11h-8m8,-11h-8m16,-11h-16m8,-10h-8m8,-11h-8m8,-11h-8m16,-11h-16m8,-11h-8m8,-11h-8m8,-11h-8m16,-10h-16m8,-11h-8m8,-11h-8m8,-11h-8m16,-11h-16m8,-11h-8m8,-11h-8m8,-10h-8m16,-11h-16m8,-11h-8m8,-11h-8" style="stroke: #FF0000;"></path>
      <g font-family="Arial" font-size="18" space="preserve">
       <text text-anchor="end" dy=".4em" transform="translate(-4,0)">
        0
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-4,-48)">
+      <text text-anchor="end" dy=".4em" transform="translate(-4,-43)">
        20
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-4,-96)">
+      <text text-anchor="end" dy=".4em" transform="translate(-4,-87)">
        40
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-4,-144)">
+      <text text-anchor="end" dy=".4em" transform="translate(-4,-130)">
        60
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-4,-192)">
+      <text text-anchor="end" dy=".4em" transform="translate(-4,-174)">
        80
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-4,-240)">
+      <text text-anchor="end" dy=".4em" transform="translate(-4,-217)">
        100
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-4,-288)">
+      <text text-anchor="end" dy=".4em" transform="translate(-4,-261)">
        120
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-4,-336)">
+      <text text-anchor="end" dy=".4em" transform="translate(-4,-304)">
        140
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-4,-384)">
+      <text text-anchor="end" dy=".4em" transform="translate(-4,-347)">
        160
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-4,-432)">
+      <text text-anchor="end" dy=".4em" transform="translate(-4,-391)">
        180
+      </text>
+      <text text-anchor="end" dy=".4em" transform="translate(-4,-434)">
+       200
       </text>
      </g>
     </g>
     <g transform="translate(704,456)">
-     <path d="M0,0h-16m16,-11h-8m8,-11h-8m8,-11h-8m8,-11h-8m8,-12h-16m16,-11h-8m8,-11h-8m8,-11h-8m8,-11h-8m8,-11h-16m16,-11h-8m8,-11h-8m8,-11h-8m8,-11h-8m8,-12h-16m16,-11h-8m8,-11h-8m8,-11h-8m8,-11h-8m8,-11h-16m16,-11h-8m8,-11h-8m8,-11h-8m8,-12h-8m8,-11h-16m16,-11h-8m8,-11h-8m8,-11h-8m8,-11h-8m8,-11h-16m16,-11h-8m8,-11h-8m8,-12h-8m8,-11h-8m8,-11h-16m16,-11h-8m8,-11h-8m8,-11h-8m8,-11h-8m8,-11h-16m16,-11h-8" style="stroke: #0000FF;"></path>
+     <path d="M0,0h-16m16,-11h-8m8,-11h-8m8,-11h-8m8,-11h-8m8,-11h-16m16,-10h-8m8,-11h-8m8,-11h-8m8,-11h-8m8,-11h-16m16,-11h-8m8,-11h-8m8,-11h-8m8,-11h-8m8,-11h-16m16,-11h-8m8,-10h-8m8,-11h-8m8,-11h-8m8,-11h-16m16,-11h-8m8,-11h-8m8,-11h-8m8,-11h-8m8,-11h-16m16,-11h-8m8,-11h-8m8,-11h-8m8,-10h-8m8,-11h-16m16,-11h-8m8,-11h-8m8,-11h-8m8,-11h-8m8,-11h-16m16,-11h-8m8,-11h-8m8,-11h-8m8,-11h-8m8,-10h-16m16,-11h-8" style="stroke: #0000FF;"></path>
      <g font-family="Arial" font-size="18" space="preserve">
       <text text-anchor="start" dy=".4em" transform="translate(4,0)">
        0
       </text>
-      <text text-anchor="start" dy=".4em" transform="translate(4,-56)">
+      <text text-anchor="start" dy=".4em" transform="translate(4,-55)">
        50
       </text>
-      <text text-anchor="start" dy=".4em" transform="translate(4,-111)">
+      <text text-anchor="start" dy=".4em" transform="translate(4,-109)">
        100
       </text>
-      <text text-anchor="start" dy=".4em" transform="translate(4,-167)">
+      <text text-anchor="start" dy=".4em" transform="translate(4,-164)">
        150
       </text>
-      <text text-anchor="start" dy=".4em" transform="translate(4,-222)">
+      <text text-anchor="start" dy=".4em" transform="translate(4,-218)">
        200
       </text>
-      <text text-anchor="start" dy=".4em" transform="translate(4,-278)">
+      <text text-anchor="start" dy=".4em" transform="translate(4,-273)">
        250
       </text>
-      <text text-anchor="start" dy=".4em" transform="translate(4,-333)">
+      <text text-anchor="start" dy=".4em" transform="translate(4,-327)">
        300
       </text>
-      <text text-anchor="start" dy=".4em" transform="translate(4,-389)">
+      <text text-anchor="start" dy=".4em" transform="translate(4,-382)">
        350
       </text>
-      <text text-anchor="start" dy=".4em" transform="translate(4,-444)">
+      <text text-anchor="start" dy=".4em" transform="translate(4,-436)">
        400
       </text>
      </g>
