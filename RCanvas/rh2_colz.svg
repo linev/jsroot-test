@@ -9,532 +9,533 @@
    <rect x="0" y="0" width="730" height="532" style="fill: none; stroke: black; stroke-width: 1;"></rect>
    <svg x="0" y="0" overflow="hidden" width="730" height="532" viewBox="0 0 730 532">
     <g objname="name" objtype="ROOT::Experimental::RHist2Drawable">
-     <path palette-index="0" fill="#352A87" d="M0,-44v44h61v-44zM669,0v44h61v-44zm61,488v44h61v-44zm0,-45v45h61v-45zM730,89v44h61v-44zM730,0v44h61v-44zm0,-44v44h61v-44z"></path>
-     <path palette-index="1" fill="rgb(37, 63, 171)" d="M61,0v44h61v-44zm0,-44v44h61v-44zm122,0v44h60v-44zM608,488v44h61v-44zm0,-532v44h61v-44zm61,532v44h61v-44zm0,-532v44h61v-44zm61,177v44h61v-44zm0,-89v45h61v-45z"></path>
-     <path palette-index="2" fill="rgb(21, 84, 207)" d="M0,488v44h61v-44zM0,0v44h61v-44zM61,44v45h61v-45zM243,-44v44h61v-44zm61,0v44h61v-44zm61,0v44h61v-44zm61,0v44h61v-44zM669,89v44h61v-44zm61,310v44h61v-44zm0,-177v44h61v-44zm0,-45v45h61v-45z"></path>
-     <path palette-index="3" fill="rgb(16, 102, 219)" d="M0,443v45h61v-45zM0,44v45h61v-45zM61,488v44h61v-44zm0,-45v45h61v-45zm61,0v45h61v-45zM122,0v44h61v-44zm0,-44v44h61v-44zm365,0v44h61v-44zm61,532v44h60v-44zM548,0v44h60v-44zm0,-44v44h60v-44zm60,88v45h61v-45zM608,0v44h61v-44zm61,177v45h61v-45zm61,178v44h61v-44z"></path>
-     <path palette-index="4" fill="rgb(18, 117, 216)" d="M0,399v44h61v-44zM0,355v44h61v-44zM0,266v44h61v-44zM0,222v44h61v-44zM0,133v44h61v-44zM0,89v44h61v-44zm61,0v44h61v-44zm61,399v44h61v-44zM122,44v45h61v-45zm61,444v44h60v-44zM304,0v44h61v-44zM608,443v45h61v-45zm61,0v45h61v-45zm0,-44v44h61v-44zm0,-44v44h61v-44zm0,-89v44h61v-44zm0,-133v44h61v-44zm0,-89v45h61v-45zm61,266v45h61v-45zm0,-44v44h61v-44z"></path>
-     <path palette-index="5" fill="rgb(19, 133, 213)" d="M0,310v45h61v-45zM0,177v45h61v-45zM61,399v44h61v-44zm0,-44v44h61v-44zM122,89v44h61v-44zM183,44v45h60v-45zM243,0v44h61v-44zm61,488v44h61v-44zM365,0v44h61v-44zm61,488v44h61v-44zm61,-45v45h61v-45zM548,44v45h60v-45zM669,222v44h61v-44z"></path>
-     <path palette-index="6" fill="rgb(13, 147, 208)" d="M61,133v44h61v-44zM183,443v45h60v-45zM183,0v44h60v-44zM426,0v44h61v-44zm61,488v44h61v-44zm0,-89v44h61v-44zm61,0v44h60v-44zM608,133v44h61v-44z"></path>
-     <path palette-index="7" fill="rgb(7, 162, 203)" d="M61,310v45h61v-45zm61,89v44h61v-44zm121,89v44h61v-44zm0,-45v45h61v-45zm122,45v44h61v-44zM365,44v45h61v-45zm61,399v45h61v-45zM487,0v44h61v-44zM608,399v44h61v-44zm0,-89v45h61v-45zm0,-44v44h61v-44zM608,89v44h61v-44z"></path>
-     <path palette-index="8" fill="rgb(21, 171, 188)" d="M61,266v44h61v-44zm61,89v44h61v-44zm0,-222v44h61v-44zM243,44v45h61v-45zm61,0v45h61v-45zM426,89v44h61v-44zm61,0v44h61v-44zm0,-45v45h61v-45zm61,399v45h60v-45zm0,-266v45h60v-45zm0,-44v44h60v-44zm60,222v44h61v-44zm0,-133v44h61v-44zm0,-45v45h61v-45zm61,133v45h61v-45z"></path>
-     <path palette-index="9" fill="rgb(38, 179, 172)" d="M61,177v45h61v-45zm61,45v44h61v-44zM243,399v44h61v-44zm61,44v45h61v-45zM426,44v45h61v-45zm61,89v44h61v-44zm61,222v44h60v-44zm0,-89v44h60v-44zM548,89v44h60v-44z"></path>
-     <path palette-index="10" fill="rgb(65, 185, 155)" d="M122,310v45h61v-45zm0,-133v45h61v-45zm61,222v44h60v-44zM243,89v44h61v-44zM365,443v45h61v-45z"></path>
-     <path palette-index="11" fill="rgb(102, 188, 136)" d="M61,222v44h61v-44zM183,355v44h60v-44zM183,89v44h60v-44zM304,399v44h61v-44zm122,0v44h61v-44zm0,-89v45h61v-45zm61,-88v44h61v-44zm61,88v45h60v-45zm0,-88v44h60v-44z"></path>
-     <path palette-index="12" fill="rgb(139, 191, 117)" d="M122,266v44h61v-44zM183,133v44h60v-44zm60,222v44h61v-44zm122,44v44h61v-44zm0,-222v45h61v-45z"></path>
-     <path palette-index="13" fill="rgb(170, 189, 105)" d="M183,222v44h60v-44zm0,-45v45h60v-45zm60,45v44h61v-44zm0,-45v45h61v-45zm61,0v45h61v-45zm61,178v44h61v-44zM365,89v44h61v-44zm122,88v45h61v-45z"></path>
-     <path palette-index="14" fill="rgb(201, 187, 92)" d="M183,266v44h60v-44zM304,133v44h61v-44zm0,-44v44h61v-44zM426,355v44h61v-44zm0,-89v44h61v-44zm61,89v44h61v-44z"></path>
-     <path palette-index="15" fill="rgb(223, 191, 77)" d="M243,310v45h61v-45zm0,-177v44h61v-44zm61,222v44h61v-44zm61,-45v45h61v-45zm0,-88v44h61v-44zm0,-89v44h61v-44zm61,44v45h61v-45zm61,133v45h61v-45zm0,-44v44h61v-44z"></path>
-     <path palette-index="16" fill="rgb(242, 197, 60)" d="M183,310v45h60v-45zm60,-44v44h61v-44zM426,133v44h61v-44z"></path>
-     <path palette-index="17" fill="rgb(253, 208, 44)" d="M304,310v45h61v-45zm0,-44v44h61v-44zM426,222v44h61v-44z"></path>
-     <path palette-index="19" fill="#F9FB0E" d="M304,222v44h61v-44zm61,44v44h61v-44z"></path>
+     <path palette-index="0" fill="#352A87" d="M0,-44v44h61v-44zM730,488v44h61v-44z"></path>
+     <path palette-index="1" fill="rgb(37, 63, 171)" d="M0,0v44h61v-44zM61,0v44h61v-44zM669,0v44h61v-44zm0,-44v44h61v-44zm61,487v45h61v-45zM730,44v45h61v-45zM730,0v44h61v-44zm0,-44v44h61v-44z"></path>
+     <path palette-index="2" fill="rgb(21, 84, 207)" d="M0,44v45h61v-45zM61,-44v44h61v-44zm61,0v44h61v-44zm426,0v44h60v-44zm60,532v44h61v-44zM608,0v44h61v-44zm0,-44v44h61v-44zm61,532v44h61v-44zM669,44v45h61v-45zm61,355v44h61v-44zM730,89v44h61v-44z"></path>
+     <path palette-index="3" fill="rgb(16, 102, 219)" d="M0,488v44h61v-44zM0,443v45h61v-45zm61,45v44h61v-44zM243,-44v44h61v-44zm122,0v44h61v-44zm61,0v44h61v-44zM669,89v44h61v-44zm61,266v44h61v-44zm0,-178v45h61v-45zm0,-44v44h61v-44z"></path>
+     <path palette-index="4" fill="rgb(18, 117, 216)" d="M0,133v44h61v-44zM61,44v45h61v-45zm61,444v44h61v-44zm0,-45v45h61v-45zM183,-44v44h60v-44zM426,0v44h61v-44zm61,-44v44h61v-44zm61,532v44h60v-44zm60,-45v45h61v-45zM608,44v45h61v-45zm61,399v45h61v-45zm0,-44v44h61v-44zm0,-266v44h61v-44zm61,177v45h61v-45zm0,-44v44h61v-44zm0,-44v44h61v-44z"></path>
+     <path palette-index="5" fill="rgb(19, 133, 213)" d="M0,399v44h61v-44zM0,89v44h61v-44zM61,443v45h61v-45zM61,89v44h61v-44zM183,488v44h60v-44zM183,0v44h60v-44zm60,488v44h61v-44zM365,0v44h61v-44zM487,488v44h61v-44zM548,0v44h60v-44zM669,355v44h61v-44z"></path>
+     <path palette-index="6" fill="rgb(13, 147, 208)" d="M0,310v45h61v-45zM0,222v44h61v-44zM0,177v45h61v-45zM122,44v45h61v-45zm61,399v45h60v-45zm121,45v44h61v-44zm0,-532v44h61v-44zM426,488v44h61v-44zM426,44v45h61v-45zm61,0v45h61v-45zM487,0v44h61v-44zm61,44v45h60v-45zm60,89v44h61v-44zm61,89v44h61v-44zm0,-45v45h61v-45z"></path>
+     <path palette-index="7" fill="rgb(7, 162, 203)" d="M0,355v44h61v-44zM0,266v44h61v-44zm61,44v45h61v-45zm0,-88v44h61v-44zm61,177v44h61v-44zm0,-266v44h61v-44zm0,-44v44h61v-44zM122,0v44h61v-44zm61,44v45h60v-45zm60,399v45h61v-45zM304,0v44h61v-44zm61,488v44h61v-44zM365,44v45h61v-45zM548,443v45h60v-45zM548,89v44h60v-44zm60,310v44h61v-44zm0,-177v44h61v-44zm61,88v45h61v-45zm0,-44v44h61v-44z"></path>
+     <path palette-index="8" fill="rgb(21, 171, 188)" d="M61,399v44h61v-44zm0,-44v44h61v-44zM243,0v44h61v-44zm61,443v45h61v-45zM304,44v45h61v-45zm61,399v45h61v-45zm61,0v45h61v-45zm61,0v45h61v-45zm0,-44v44h61v-44zm61,0v44h60v-44zm0,-44v44h60v-44zm60,0v44h61v-44zm0,-89v44h61v-44zM608,89v44h61v-44z"></path>
+     <path palette-index="9" fill="rgb(38, 179, 172)" d="M61,177v45h61v-45zm61,178v44h61v-44zM243,44v45h61v-45zm305,89v44h60v-44zm60,177v45h61v-45zm0,-133v45h61v-45z"></path>
+     <path palette-index="10" fill="rgb(65, 185, 155)" d="M61,266v44h61v-44zM61,133v44h61v-44zM183,399v44h60v-44zm0,-222v45h60v-45zm0,-88v44h60v-44zm243,0v44h61v-44zM548,310v45h60v-45zm0,-44v44h60v-44zm0,-89v45h60v-45z"></path>
+     <path palette-index="11" fill="rgb(102, 188, 136)" d="M122,310v45h61v-45zM183,133v44h60v-44zm60,266v44h61v-44zM243,89v44h61v-44zm61,266v44h61v-44zm61,44v44h61v-44zM365,89v44h61v-44zm61,310v44h61v-44z"></path>
+     <path palette-index="12" fill="rgb(139, 191, 117)" d="M122,266v44h61v-44zm0,-89v45h61v-45zM243,355v44h61v-44zm61,44v44h61v-44zM304,89v44h61v-44zm61,266v44h61v-44zm61,0v44h61v-44zm61,0v44h61v-44zm0,-89v44h61v-44zM487,89v44h61v-44zm61,133v44h60v-44z"></path>
+     <path palette-index="13" fill="rgb(170, 189, 105)" d="M183,355v44h60v-44zm0,-89v44h60v-44zm182,0v44h61v-44zM426,133v44h61v-44zm61,0v44h61v-44z"></path>
+     <path palette-index="14" fill="rgb(201, 187, 92)" d="M122,222v44h61v-44zm61,88v45h60v-45zm0,-88v44h60v-44zm60,-89v44h61v-44zm61,177v45h61v-45zm0,-88v44h61v-44zm0,-89v44h61v-44zM487,310v45h61v-45z"></path>
+     <path palette-index="15" fill="rgb(223, 191, 77)" d="M243,310v45h61v-45zm122,0v45h61v-45zm0,-88v44h61v-44zm0,-89v44h61v-44zm61,133v44h61v-44zm61,-89v45h61v-45z"></path>
+     <path palette-index="16" fill="rgb(242, 197, 60)" d="M243,177v45h61v-45zm244,45v44h61v-44z"></path>
+     <path palette-index="17" fill="rgb(253, 208, 44)" d="M243,266v44h61v-44zm61,0v44h61v-44zm61,-89v45h61v-45zm61,133v45h61v-45z"></path>
+     <path palette-index="18" fill="rgb(251, 230, 29)" d="M243,222v44h61v-44zm61,-45v45h61v-45zm122,45v44h61v-44z"></path>
+     <path palette-index="19" fill="#F9FB0E" d="M426,177v45h61v-45z"></path>
      <g font-family="Arial" font-size="28" space="preserve">
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,510)">
-       19
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,466)">
-       25
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,421)">
-       31
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,377)">
-       31
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,333)">
-       34
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,288)">
-       29
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,244)">
-       29
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,200)">
-       34
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,155)">
-       29
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,111)">
-       29
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,67)">
-       24
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,22)">
-       22
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,-22)">
-       11
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,510)">
-       26
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,466)">
-       27
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,421)">
-       37
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,377)">
-       38
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,333)">
-       48
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,288)">
-       52
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,244)">
-       67
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,200)">
-       57
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,155)">
-       43
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,111)">
-       30
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,67)">
        21
       </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,22)">
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,466)">
+       22
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,421)">
+       35
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,377)">
+       42
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,333)">
+       37
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,288)">
+       43
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,244)">
+       39
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,200)">
+       40
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,155)">
+       28
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,111)">
+       30
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,67)">
        16
       </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,22)">
+       13
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(31,-22)">
+       3
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,510)">
+       22
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,466)">
+       32
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,421)">
+       48
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,377)">
+       51
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,333)">
+       43
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,288)">
+       58
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,244)">
+       43
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,200)">
+       55
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,155)">
+       60
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,111)">
+       35
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,67)">
+       27
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,22)">
+       10
+      </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,-22)">
-       14
+       18
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(153,510)">
        28
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(153,466)">
-       24
+       29
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(153,421)">
-       48
+       41
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(153,377)">
-       54
+       55
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(153,333)">
-       63
+       66
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(153,288)">
-       71
+       72
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(153,244)">
-       59
+       78
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(153,200)">
-       63
+       72
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(153,155)">
-       53
+       44
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(153,111)">
-       34
+       42
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(153,67)">
-       33
+       40
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(153,22)">
-       27
+       44
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(153,-22)">
-       25
+       14
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(213,510)">
-       32
+       35
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(213,466)">
-       40
+       39
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(213,421)">
        60
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(213,377)">
-       65
+       75
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(213,333)">
-       92
+       82
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(213,288)">
-       85
+       73
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(213,244)">
-       79
+       80
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(213,200)">
-       79
+       60
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(213,155)">
-       71
+       67
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(213,111)">
-       68
+       58
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(213,67)">
-       37
+       42
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(213,22)">
-       43
+       30
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(213,-22)">
-       15
+       28
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(274,510)">
-       48
+       33
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(274,466)">
-       48
+       44
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(274,421)">
-       55
+       66
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(274,377)">
-       74
+       68
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(274,333)">
-       86
+       88
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(274,288)">
-       92
+       95
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(274,244)">
-       77
+       103
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(274,200)">
-       77
+       90
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(274,155)">
-       88
+       82
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(274,111)">
        63
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(274,67)">
-       54
+       52
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(274,22)">
-       35
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(274,-22)">
-       21
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,510)">
-       34
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,466)">
-       58
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,421)">
-       65
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,377)">
-       89
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,333)">
-       99
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,288)">
-       99
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,244)">
-       112
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,200)">
-       79
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,155)">
-       85
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,111)">
-       82
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,67)">
-       50
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,22)">
-       32
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,-22)">
-       21
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,510)">
        46
       </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,466)">
-       61
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(274,-22)">
+       23
       </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,421)">
-       71
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,510)">
+       36
       </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,377)">
-       77
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,466)">
+       50
       </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,333)">
-       89
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,421)">
+       68
       </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,288)">
-       108
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,377)">
+       66
       </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,244)">
-       87
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,333)">
+       78
       </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,200)">
-       75
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,288)">
+       96
       </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,155)">
-       87
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,244)">
+       82
       </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,111)">
-       76
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,200)">
+       100
       </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,67)">
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,155)">
+       81
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,111)">
+       70
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,67)">
        48
       </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,22)">
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,22)">
+       45
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(335,-22)">
        37
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,510)">
+       43
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,466)">
+       49
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,421)">
+       67
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,377)">
+       71
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,333)">
+       85
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,288)">
+       77
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,244)">
+       85
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,200)">
+       96
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,155)">
+       88
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,111)">
+       67
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,67)">
+       43
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,22)">
+       32
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(396,-22)">
        22
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,510)">
-       38
+       36
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,466)">
-       48
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,421)">
-       68
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,377)">
-       82
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,333)">
-       65
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,288)">
-       82
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,244)">
-       97
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,200)">
-       90
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,155)">
-       94
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,111)">
-       52
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,67)">
-       59
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,22)">
-       41
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,-22)">
-       21
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,510)">
-       39
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,466)">
-       38
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,421)">
-       41
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,377)">
-       84
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,333)">
-       87
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,288)">
-       87
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,244)">
-       69
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,200)">
-       79
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,155)">
-       57
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,111)">
-       50
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,67)">
-       49
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,22)">
        46
       </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,-22)">
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,421)">
+       62
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,377)">
+       69
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,333)">
+       94
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,288)">
+       87
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,244)">
+       100
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,200)">
+       110
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,155)">
+       76
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,111)">
+       57
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,67)">
+       37
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,22)">
        27
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(457,-22)">
+       20
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,510)">
+       30
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,466)">
+       49
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,421)">
+       48
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,377)">
+       70
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,333)">
+       78
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,288)">
+       70
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,244)">
+       92
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,200)">
+       84
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,155)">
+       73
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,111)">
+       72
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,67)">
+       36
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,22)">
+       38
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(518,-22)">
+       25
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(578,510)">
        26
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(578,466)">
-       50
+       45
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(578,421)">
-       40
+       48
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(578,377)">
-       56
+       48
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(578,333)">
-       66
+       58
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(578,288)">
        59
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(578,244)">
-       66
+       69
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(578,200)">
-       51
+       60
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(578,155)">
-       52
+       54
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(578,111)">
-       58
+       41
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(578,67)">
-       38
+       39
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(578,22)">
-       27
+       33
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(578,-22)">
-       23
+       16
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(639,510)">
-       17
+       19
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(639,466)">
-       31
+       26
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(639,421)">
-       46
+       41
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(639,377)">
-       50
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(639,333)">
-       48
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(639,288)">
-       48
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(639,244)">
        49
       </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(639,333)">
+       54
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(639,288)">
+       49
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(639,244)">
+       44
+      </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(639,200)">
-       53
+       52
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(639,155)">
-       42
+       36
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(639,111)">
        46
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(639,67)">
-       23
+       25
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(639,22)">
-       24
+       18
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(639,-22)">
        14
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(700,510)">
-       15
+       17
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(700,466)">
-       33
+       29
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(700,421)">
-       31
+       26
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(700,377)">
-       29
+       32
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(700,333)">
-       49
+       42
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(700,288)">
-       33
+       42
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(700,244)">
-       36
+       37
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(700,200)">
-       26
+       39
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(700,155)">
-       30
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(700,111)">
-       19
-      </text>
-      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(700,67)">
        29
       </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(700,111)">
+       20
+      </text>
+      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(700,67)">
+       14
+      </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(700,22)">
-       11
+       12
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(700,-22)">
-       16
+       9
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(761,510)">
-       11
+       6
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(761,466)">
-       10
+       13
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(761,421)">
-       19
+       18
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(761,377)">
-       26
+       20
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(761,333)">
-       28
+       29
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(761,288)">
        28
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(761,244)">
-       20
+       25
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(761,200)">
-       21
+       24
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(761,155)">
-       15
+       21
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(761,111)">
-       8
+       16
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(761,67)">
-       14
+       12
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(761,22)">
-       9
+       11
       </text>
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(761,-22)">
-       7
+       9
       </text>
      </g>
     </g>
@@ -600,7 +601,7 @@
     </g>
    </g>
   </g>
-  <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(70,14)" x="70" y="14" width="730" height="63" font-family="Arial" font-size="24" space="preserve">
+  <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(70,14)" x="70" y="14" width="730" height="63" font-family="Arial" font-size="49" space="preserve">
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(365,32)">
     2D histogram with color palette
    </text>
@@ -630,27 +631,27 @@
     <rect x="0" y="0" width="50" height="27" style="fill: #F9FB0E; stroke: #F9FB0E;"></rect>
    </g>
    <g transform="translate(50,532)">
-    <path d="M0,-15h-8m8,-26h-8m8,-25h-15m15,-25h-8m8,-26h-8m8,-25h-8m8,-25h-15m15,-26h-8m8,-25h-8m8,-25h-8m8,-26h-15m15,-25h-8m8,-25h-8m8,-26h-8m8,-25h-15m15,-25h-8m8,-26h-8m8,-25h-8m8,-25h-15m15,-26h-8m8,-25h-8" style="stroke: black;"></path>
+    <path d="M0,-10h-8m8,-25h-8m8,-25h-8m8,-25h-15m15,-24h-8m8,-25h-8m8,-25h-8m8,-25h-15m15,-25h-8m8,-25h-8m8,-25h-8m8,-24h-15m15,-25h-8m8,-25h-8m8,-25h-8m8,-25h-15m15,-25h-8m8,-25h-8m8,-24h-8m8,-25h-15m15,-25h-8m8,-25h-8" style="stroke: black;"></path>
     <g font-family="Arial" font-size="21" space="preserve">
-     <text text-anchor="start" dy=".4em" transform="translate(4,-66)">
+     <text text-anchor="start" dy=".4em" transform="translate(4,-85)">
       20
      </text>
-     <text text-anchor="start" dy=".4em" transform="translate(4,-167)">
+     <text text-anchor="start" dy=".4em" transform="translate(4,-184)">
       40
      </text>
-     <text text-anchor="start" dy=".4em" transform="translate(4,-269)">
+     <text text-anchor="start" dy=".4em" transform="translate(4,-283)">
       60
      </text>
-     <text text-anchor="start" dy=".4em" transform="translate(4,-370)">
+     <text text-anchor="start" dy=".4em" transform="translate(4,-383)">
       80
      </text>
-     <text text-anchor="start" dy=".4em" transform="translate(4,-471)">
+     <text text-anchor="start" dy=".4em" transform="translate(4,-482)">
       100
      </text>
     </g>
    </g>
   </g>
-  <g objname="name" objtype="ROOT::Experimental::RDisplayHistStat" transform="translate(520,70)" x="520" y="70" width="300" height="210">
+  <g objname="name" objtype="ROOT::Experimental::RDisplayHistStat" transform="translate(480,98)" x="480" y="98" width="300" height="210">
    <rect x="0" width="300" y="0" height="210" style="stroke: black;" stroke-width="1" fill="#FF0000"></rect>
    <g font-family="Arial" font-size="17" space="preserve">
     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(150,11)">

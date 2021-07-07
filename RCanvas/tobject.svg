@@ -83,7 +83,7 @@
      <rect x="0" y="0" width="528" height="304" style="fill: #FFFFFF; stroke: black; stroke-width: 1;"></rect>
      <svg x="0" y="0" overflow="hidden" width="528" height="304" viewBox="0 0 528 304">
       <g>
-       <path d="M0,304h63v-1h6v1h31v-4h6v3h5v-6h5v2h5v-3h6v-9h5v-2h5v-1h6v-4h5v4h5v-23h5v1h6v-8h5v-10h5v-8h16v-42h5v-27h6v2h5v13h5v-51h5v-24h6v1h5v-12h5v-21h6v-8h5v27h5v-62h5v17h6v-35h5v27h5v-5h6v9h5v4h5v-21h5v37h6v16h5v-9h5v56h6v-14h5v57h5v-18h5v34h6v-10h5v47h5v5h5v16h6v-8h5v17h5v19h6v2h5v6h5v12h5v-4h6v3h10v7h6v2h5v2h5v-3h5v-3h6v4h5v-5h5v7h6v1h5v-1h5v1h74" style="stroke-linejoin: miter; stroke: #0000FF; stroke-width: 3; stroke-dasharray: 3,3; fill: none;"></path>
+       <path d="M0,304h63v-3h6v3h10v-3h5v3h6v-1h5v1h5v-4h6v1h5v-1h5v-4h5v2h6v-5h5v4h5v-10h6v-8h5v-8h5v-13h5v7h6v-22h5v19h5v-31h6v11h5v-47h5v1h5v-11h6v-28h5v-26h5v14h5v-45h6v-11h5v-22h5v15h6v-47h5v28h5v-14h5v-12h6v-23h5v6h5v7h6v25h5v17h5v-3h5v-10h6v36h5v-22h5v41h6v-11h5v46h5v10h5v4h6v36h5v10h5v29h5v16h6v-8h5v18h5v6h6v-2h5v2h5v16h5v4h6v7h5v3h5v-4h6v8h5v-7h5v6h5v4h6v-3h5v3h5v-1h11v-2h5v2h5v1h69" style="stroke-linejoin: miter; stroke: #0000FF; stroke-width: 3; stroke-dasharray: 3,3; fill: none;"></path>
       </g>
      </svg>
      <g>
@@ -110,21 +110,39 @@
       </g>
       <g>
        <line x1="0" y1="0" x2="0" y2="304" style="stroke: #000000; stroke-width: 1;"></line>
-       <path d="M18,304h-18m9,-13h-9m9,-14h-9m9,-13h-9m9,-14h-9m18,-13h-18m9,-13h-9m9,-14h-9m9,-13h-9m9,-14h-9m18,-13h-18m9,-13h-9m9,-14h-9m9,-13h-9m9,-14h-9m18,-13h-18m9,-13h-9m9,-14h-9m9,-13h-9m9,-14h-9m18,-13h-18m9,-13h-9m9,-14h-9" style="stroke: #000000; stroke-width: 1;"></path>
+       <path d="M18,304h-18m9,-7h-9m9,-7h-9m9,-7h-9m18,-7h-18m9,-7h-9m9,-7h-9m9,-6h-9m18,-7h-18m9,-7h-9m9,-7h-9m9,-7h-9m18,-7h-18m9,-7h-9m9,-7h-9m9,-7h-9m18,-7h-18m9,-7h-9m9,-7h-9m9,-7h-9m18,-7h-18m9,-6h-9m9,-7h-9m9,-7h-9m18,-7h-18m9,-7h-9m9,-7h-9m9,-7h-9m18,-7h-18m9,-7h-9m9,-7h-9m9,-7h-9m18,-7h-18m9,-7h-9m9,-6h-9m9,-7h-9m18,-7h-18m9,-7h-9m9,-7h-9m9,-7h-9m18,-7h-18m9,-7h-9m9,-7h-9m9,-7h-9" style="stroke: #000000; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="14" space="preserve">
         <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(-2,304)">
          0
         </text>
-        <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(-2,237)">
-         50
+        <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(-2,276)">
+         20
         </text>
-        <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(-2,170)">
+        <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(-2,249)">
+         40
+        </text>
+        <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(-2,221)">
+         60
+        </text>
+        <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(-2,193)">
+         80
+        </text>
+        <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(-2,165)">
          100
         </text>
-        <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(-2,103)">
-         150
+        <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(-2,138)">
+         120
         </text>
-        <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(-2,36)">
+        <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(-2,110)">
+         140
+        </text>
+        <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(-2,82)">
+         160
+        </text>
+        <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(-2,55)">
+         180
+        </text>
+        <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(-2,27)">
          200
         </text>
        </g>
@@ -137,7 +155,7 @@
       Example of TH1
      </text>
     </g>
-    <g transform="translate(468,26)" font-family="Arial" font-size="12" space="preserve">
+    <g transform="translate(468,26)" font-family="Arial" font-size="13" space="preserve">
      <path d="M0,0h120v64h-120z" style="fill: #FFFFFF; stroke: #000000; stroke-width: 1;"></path>
      <text fill="#000000" text-anchor="middle" dy=".4em" transform="translate(60,8)">
       gaus
@@ -152,13 +170,13 @@
       Mean
      </text>
      <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(114,40)">
-      0.005256
+      2.940e-4
      </text>
      <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,56)">
       Std Dev
      </text>
      <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(114,56)">
-      0.9957
+      1.001
      </text>
      <path d="M0,16h120" style="stroke: #000000; stroke-width: 1;"></path>
     </g>

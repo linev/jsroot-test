@@ -1,0 +1,83 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  ROOT canvas
+ </title>
+ <rect x="0" y="0" width="1200" height="800" style="fill: white;"></rect>
+ <g>
+  <g objname="name" objtype="ROOT::Experimental::RBox">
+   <rect x="120" width="960" y="80" height="640" style="stroke: black; stroke-dasharray: 5,3,1,3,1,3,1,3;" stroke-width="1" fill="white"></rect>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RBox">
+   <rect x="116" width="8" y="78" height="4" style="stroke: black;" stroke-width="1" fill="#FF0000"></rect>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="56" space="preserve">
+   <text fill="black" text-anchor="start" dy=".8em" transform="translate(120,80)">
+    kLeftTop
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RBox">
+   <rect x="116" width="8" y="398" height="4" style="stroke: black;" stroke-width="1" fill="#FF0000"></rect>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="56" space="preserve">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(120,400)">
+    kLeftCenter
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RBox">
+   <rect x="116" width="8" y="718" height="4" style="stroke: black;" stroke-width="1" fill="#FF0000"></rect>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="56" space="preserve">
+   <text fill="black" text-anchor="start" transform="translate(120,720)">
+    kLeftBottom
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RBox">
+   <rect x="1076" width="8" y="78" height="4" style="stroke: black;" stroke-width="1" fill="#FF0000"></rect>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="56" space="preserve">
+   <text fill="black" text-anchor="end" dy=".8em" transform="translate(1080,80)">
+    kRightTop
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RBox">
+   <rect x="1076" width="8" y="398" height="4" style="stroke: black;" stroke-width="1" fill="#FF0000"></rect>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="56" space="preserve">
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(1080,400)">
+    kRightCenter
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RBox">
+   <rect x="1076" width="8" y="718" height="4" style="stroke: black;" stroke-width="1" fill="#FF0000"></rect>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="56" space="preserve">
+   <text fill="black" text-anchor="end" transform="translate(1080,720)">
+    kRightBottom
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RBox">
+   <rect x="596" width="8" y="398" height="4" style="stroke: black;" stroke-width="1" fill="#FF0000"></rect>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="56" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(600,400)">
+    kCenter
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RBox">
+   <rect x="596" width="8" y="78" height="4" style="stroke: black;" stroke-width="1" fill="#FF0000"></rect>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="56" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(600,80)">
+    kCenterTop
+   </text>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RBox">
+   <rect x="596" width="8" y="718" height="4" style="stroke: black;" stroke-width="1" fill="#FF0000"></rect>
+  </g>
+  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="56" space="preserve">
+   <text fill="black" text-anchor="middle" transform="translate(600,720)">
+    kCenterBottom
+   </text>
+  </g>
+ </g>
+</svg>

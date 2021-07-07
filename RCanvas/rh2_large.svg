@@ -86,12 +86,12 @@
     </g>
    </g>
   </g>
-  <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(70,35)" x="70" y="35" width="880" height="35" font-family="Arial" font-size="24" space="preserve">
+  <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(70,35)" x="70" y="35" width="880" height="35" font-family="Arial" font-size="49" space="preserve">
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(440,18)">
     Large RH2D histogram with 2000 x 2000 bins
    </text>
   </g>
-  <g objname="name" objtype="ROOT::Experimental::RDisplayHistStat" transform="translate(670,70)" x="670" y="70" width="300" height="210">
+  <g objname="name" objtype="ROOT::Experimental::RDisplayHistStat" transform="translate(630,98)" x="630" y="98" width="300" height="210">
    <rect x="0" width="300" y="0" height="210" style="stroke: black;" stroke-width="1" fill="#0000FF"></rect>
    <g font-family="Arial" font-size="17" space="preserve">
     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(150,11)">

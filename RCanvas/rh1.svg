@@ -17,10 +17,10 @@
      <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
      <svg x="0" y="0" overflow="hidden" width="440" height="177" viewBox="0 0 440 177">
       <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
-       <path d="M0,177h18v-2h17v-6h18v-20h17v-29h18v-51h18v-48h17v-13h18v12h17v35h18v65h18v32h17v13h18v7h17v4h18v1h176" style="stroke-linejoin: miter; stroke: #FF0000; stroke-width: 2; fill: none;"></path>
+       <path d="M0,177h35v-8h18v-15h17v-32h18v-55h18v-30h17v-29h18v4h17v41h18v79h18v26h17v10h18v7h17v2h194" style="stroke-linejoin: miter; stroke: #FF0000; stroke-width: 2; fill: none;"></path>
       </g>
       <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
-       <path d="M0,177h158v-5h18v-4h18v-7h17v-21h18v-10h17v-26h18v-25h18v-19h17v-3h18v-4h17v34h18v17h18v28h17v21h18v11h17v3h18" style="stroke-linejoin: miter; stroke: #0000FF; stroke-width: 4; fill: none;"></path>
+       <path d="M0,177h158v-3h18v-5h18v-7h17v-16h18v-23h17v-16h18v-19h18v-8h17v-40h18v23h17v24h18v33h18v8h17v19h18v19h17v3h18" style="stroke-linejoin: miter; stroke: #0000FF; stroke-width: 4; fill: none;"></path>
       </g>
      </svg>
      <g>
@@ -48,43 +48,46 @@
        </g>
       </g>
       <g transform="translate(0,177)">
-       <path d="M10,0h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-5h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-5h-5" style="stroke: black;"></path>
+       <path d="M10,0h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-4h-5m10,-5h-10" style="stroke: black;"></path>
        <g font-family="Arial" font-size="7" space="preserve">
         <text text-anchor="end" dy=".4em" transform="translate(-3,0)">
          0
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-18)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-17)">
          20
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-36)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-35)">
          40
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-54)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-52)">
          60
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-73)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-70)">
          80
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-91)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-87)">
          100
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-109)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-104)">
          120
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-127)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-122)">
          140
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-145)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-139)">
          160
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-163)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-156)">
          180
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-174)">
+         200
         </text>
        </g>
       </g>
      </g>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="24" space="preserve">
+    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
       Default RH1 drawing
      </text>
@@ -99,52 +102,46 @@
      <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
      <svg x="0" y="0" overflow="hidden" width="440" height="177" viewBox="0 0 440 177">
       <g objname="name" objtype="ROOT::Experimental::RHist1Drawable" font-family="Arial" font-size="12" space="preserve">
-       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(27,171) rotate(270)">
-        2
-       </text>
        <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(44,165) rotate(270)">
         9
        </text>
-       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(62,145) rotate(270)">
-        31
+       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(62,150) rotate(270)">
+        27
        </text>
-       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(79,116) rotate(270)">
+       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(79,118) rotate(270)">
         63
        </text>
-       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(97,65) rotate(270)">
-        119
+       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(97,63) rotate(270)">
+        127
        </text>
-       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(115,17) rotate(270)">
-        172
+       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(115,33) rotate(270)">
+        161
        </text>
        <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(132,4) rotate(270)">
-        186
+        194
        </text>
-       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(150,16) rotate(270)">
-        173
+       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(150,8) rotate(270)">
+        190
        </text>
-       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(167,51) rotate(270)">
-        135
+       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(167,49) rotate(270)">
+        143
        </text>
-       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(185,116) rotate(270)">
-        63
+       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(185,128) rotate(270)">
+        52
        </text>
-       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(203,148) rotate(270)">
-        28
+       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(203,154) rotate(270)">
+        22
        </text>
-       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(220,161) rotate(270)">
-        13
+       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(220,164) rotate(270)">
+        10
        </text>
-       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(238,168) rotate(270)">
-        5
+       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(238,171) rotate(270)">
+        2
        </text>
-       <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(255,172) rotate(270)">
-        1
-       </text>
-       <path d="M0,177h18v-2h17v-6h18v-20h17v-29h18v-51h18v-48h17v-13h18v12h17v35h18v65h18v32h17v13h18v7h17v4h18v1h176" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: none;"></path>
+       <path d="M0,177h35v-8h18v-15h17v-32h18v-55h18v-30h17v-29h18v4h17v41h18v79h18v26h17v10h18v7h17v2h194" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: none;"></path>
       </g>
       <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
-       <path d="M167.0,166.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM185.0,162.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM203.0,155.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM220.0,134.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM238.0,124.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM255.0,98.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM273.0,73.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM291.0,54.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM308.0,51.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM326.0,47.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM343.0,81.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM361.0,98.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM379.0,126.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM396.0,147.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM414.0,158.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM431.0,161.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5z" style="stroke: #0000FF; fill: none;"></path>
+       <path d="M167.0,168.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM185.0,163.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM203.0,156.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM220.0,140.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM238.0,117.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM255.0,101.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM273.0,82.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM291.0,74.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM308.0,34.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM326.0,57.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM343.0,81.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM361.0,114.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM379.0,122.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM396.0,141.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM414.0,160.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM431.0,163.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5z" style="stroke: #0000FF; fill: none;"></path>
       </g>
      </svg>
      <g>
@@ -172,43 +169,46 @@
        </g>
       </g>
       <g transform="translate(0,177)">
-       <path d="M10,0h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-5h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-5h-5" style="stroke: black;"></path>
+       <path d="M10,0h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-4h-5m10,-5h-10" style="stroke: black;"></path>
        <g font-family="Arial" font-size="7" space="preserve">
         <text text-anchor="end" dy=".4em" transform="translate(-3,0)">
          0
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-18)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-17)">
          20
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-36)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-35)">
          40
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-54)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-52)">
          60
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-73)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-70)">
          80
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-91)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-87)">
          100
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-109)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-104)">
          120
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-127)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-122)">
          140
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-145)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-139)">
          160
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-163)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-156)">
          180
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-174)">
+         200
         </text>
        </g>
       </g>
      </g>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="24" space="preserve">
+    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
       Text() and Marker() draw options
      </text>
@@ -223,10 +223,10 @@
      <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
      <svg x="0" y="0" overflow="hidden" width="440" height="177" viewBox="0 0 440 177">
       <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
-       <path d="M27,175L44,169L62,149L79,120L97,69L115,21L132,8L150,20L167,55L185,120L203,152L220,165L238,172L255,176" fill="none" style="stroke: #FF0000; stroke-width: 1;"></path>
+       <path d="M44,169L62,154L79,122L97,67L115,37L132,8L150,12L167,53L185,132L203,158L220,168L238,175" fill="none" style="stroke: #FF0000; stroke-width: 1;"></path>
       </g>
       <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
-       <path d="M167,172L185,168L203,161L220,140L238,130L255,104L273,79L291,60L308,57L326,53L343,87L361,104L379,132L396,153L414,164L431,167" fill="none" style="stroke: #0000FF; stroke-width: 1;"></path>
+       <path d="M167,174L185,169L203,162L220,146L238,123L255,107L273,88L291,80L308,40L326,63L343,87L361,120L379,128L396,147L414,166L431,169" fill="none" style="stroke: #0000FF; stroke-width: 1;"></path>
       </g>
      </svg>
      <g>
@@ -254,43 +254,46 @@
        </g>
       </g>
       <g transform="translate(0,177)">
-       <path d="M10,0h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-5h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-5h-5" style="stroke: black;"></path>
+       <path d="M10,0h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-4h-5m10,-5h-10" style="stroke: black;"></path>
        <g font-family="Arial" font-size="7" space="preserve">
         <text text-anchor="end" dy=".4em" transform="translate(-3,0)">
          0
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-18)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-17)">
          20
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-36)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-35)">
          40
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-54)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-52)">
          60
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-73)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-70)">
          80
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-91)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-87)">
          100
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-109)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-104)">
          120
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-127)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-122)">
          140
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-145)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-139)">
          160
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-163)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-156)">
          180
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-174)">
+         200
         </text>
        </g>
       </g>
      </g>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="24" space="preserve">
+    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
       Line() draw option
      </text>
@@ -305,10 +308,10 @@
      <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
      <svg x="0" y="0" overflow="hidden" width="440" height="177" viewBox="0 0 440 177">
       <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
-       <path d="M19,175m0,3v-6m0,3h17m0,3v-6m0,3M27,174m3,0h-6m3,0v2m3,0h-6m3,0M35,169m0,3v-6m0,3h18m0,3v-6m0,3M44,166m3,0h-6m3,0v6m3,0h-6m3,0M54,149m0,3v-6m0,3h17m0,3v-6m0,3M62,144m3,0h-6m3,0v10m3,0h-6m3,0M70,120m0,3v-6m0,3h18m0,3v-6m0,3M79,113m3,0h-6m3,0v14m3,0h-6m3,0M88,69m0,3v-6m0,3h18m0,3v-6m0,3M97,59m3,0h-6m3,0v20m3,0h-6m3,0M107,21m0,3v-6m0,3h17m0,3v-6m0,3M115,9m3,0h-6m3,0v24m3,0h-6m3,0M123,8m0,3v-6m0,3h18m0,3v-6m0,3M132,-4m3,0h-6m3,0v25m3,0h-6m3,0M142,20m0,3v-6m0,3h17m0,3v-6m0,3M150,8m3,0h-6m3,0v24m3,0h-6m3,0M158,55m0,3v-6m0,3h18m0,3v-6m0,3M167,44m3,0h-6m3,0v21m3,0h-6m3,0M176,120m0,3v-6m0,3h18m0,3v-6m0,3M185,113m3,0h-6m3,0v14m3,0h-6m3,0M195,152m0,3v-6m0,3h17m0,3v-6m0,3M203,147m3,0h-6m3,0v9m3,0h-6m3,0M211,165m0,3v-6m0,3h18m0,3v-6m0,3M220,162m3,0h-6m3,0v6m3,0h-6m3,0M230,172m0,3v-6m0,3h17m0,3v-6m0,3M238,170m3,0h-6m3,0v4m3,0h-6m3,0M246,176m0,3v-6m0,3h18m0,3v-6m0,3M255,175m3,0h-6m3,0v2m3,0h-6m3,0" style="stroke: #FF0000; stroke-width: 1;"></path>
+       <path d="M35,169m0,3v-6m0,3h18m0,3v-6m0,3M44,167m3,0h-6m3,0v5m3,0h-6m3,0M54,154m0,3v-6m0,3h17m0,3v-6m0,3M62,149m3,0h-6m3,0v9m3,0h-6m3,0M70,122m0,3v-6m0,3h18m0,3v-6m0,3M79,115m3,0h-6m3,0v14m3,0h-6m3,0M88,67m0,3v-6m0,3h18m0,3v-6m0,3M97,57m3,0h-6m3,0v19m3,0h-6m3,0M107,37m0,3v-6m0,3h17m0,3v-6m0,3M115,26m3,0h-6m3,0v22m3,0h-6m3,0M123,8m0,3v-6m0,3h18m0,3v-6m0,3M132,-4m3,0h-6m3,0v25m3,0h-6m3,0M142,12m0,3v-6m0,3h17m0,3v-6m0,3M150,0m3,0h-6m3,0v24m3,0h-6m3,0M158,53m0,3v-6m0,3h18m0,3v-6m0,3M167,42m3,0h-6m3,0v21m3,0h-6m3,0M176,132m0,3v-6m0,3h18m0,3v-6m0,3M185,126m3,0h-6m3,0v12m3,0h-6m3,0M195,158m0,3v-6m0,3h17m0,3v-6m0,3M203,154m3,0h-6m3,0v8m3,0h-6m3,0M211,168m0,3v-6m0,3h18m0,3v-6m0,3M220,166m3,0h-6m3,0v5m3,0h-6m3,0M230,175m0,3v-6m0,3h17m0,3v-6m0,3M238,174m3,0h-6m3,0v2m3,0h-6m3,0" style="stroke: #FF0000; stroke-width: 1;"></path>
       </g>
       <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
-       <path d="M9,177c2.83,0,11.17,0,17,0s12,0,18,0s12.17,0,18,0s11.17,0,17,0s12.17,0,18,0s11.17,0,17,0s12,0,18,0s12.17,0,18,0s11.79,-6.2,17,-8s12.79,-2.2,18,-4s13.69,-5.11,17,-8s14.83,-20,18,-23s15.44,-8.1,18,-11s15.23,-25.32,17,-28s15.79,-22.17,18,-25s12.24,-17.74,17,-20s12.12,-2.17,18,-3s14.52,-7.86,18,-5s15.3,33.35,17,36s15.94,15.21,18,18s15.24,26.32,17,29s15,21,18,24s13.05,9.91,18,12s14.25,2.52,17,3L431,170c-2.8,-0.33,-11.75,-0.25,-17,-2s-14.46,-7.05,-18,-10s-15.81,-17.18,-18,-20s-14.63,-22.13,-17,-25s-16.11,-14.27,-18,-17s-13.48,-30.15,-17,-33s-12.06,4.42,-18,5s-12.7,0.31,-18,2s-14.6,16.13,-17,19s-15.92,20.21,-18,23s-14.04,21.08,-17,24s-14.36,7.07,-18,10s-14.1,16.25,-18,19s-11.54,4.58,-17,6s-12.33,2.03,-18,3s-11.17,3,-17,3s-12,0,-18,0s-12.17,0,-18,0s-11.17,0,-17,0s-12.17,0,-18,0s-11.17,0,-17,0s-12,0,-18,0s-12.17,0,-18,0s-14.17,0,-17,0Z" style="stroke: none; fill: #0000FF;"></path>
+       <path d="M9,177c2.83,0,11.17,0,17,0s12,0,18,0s12.17,0,18,0s11.17,0,17,0s12.17,0,18,0s11.17,0,17,0s12,0,18,0s12.17,0,18,0s11.6,-2.47,17,-4s12.98,-3.98,18,-6s13.21,-5.22,17,-8s15.53,-15.05,18,-18s15.6,-22.13,18,-25s14.16,-14.08,17,-17s14.52,-16.14,18,-19s15.09,-7.26,17,-10s13.09,-38.68,18,-41s16.03,21.24,18,24s15.51,22.46,17,25s15.69,32.15,18,35s13.42,6.16,17,9s15.39,16.03,18,19s13.98,19.3,18,22s14.29,3.41,17,4L431,172c-2.76,-0.44,-12.35,-0.65,-17,-3s-14.83,-14,-18,-17s-14.11,-14.25,-18,-17s-14.42,-5.1,-17,-8s-16.26,-29.33,-18,-32s-14.74,-19.16,-17,-22s-12.99,-24.23,-18,-22s-15.7,35.15,-18,38s-13.01,5.29,-17,8s-14.91,14.09,-18,17s-14.24,13.09,-17,16s-15,18,-18,21s-13.68,12.44,-18,15s-11.61,4.45,-17,6s-12.28,3.2,-18,4s-11.17,1,-17,1s-12,0,-18,0s-12.17,0,-18,0s-11.17,0,-17,0s-12.17,0,-18,0s-11.17,0,-17,0s-12,0,-18,0s-12.17,0,-18,0s-14.17,0,-17,0Z" style="stroke: none; fill: #0000FF;"></path>
       </g>
      </svg>
      <g>
@@ -336,43 +339,46 @@
        </g>
       </g>
       <g transform="translate(0,177)">
-       <path d="M10,0h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-5h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-5h-5" style="stroke: black;"></path>
+       <path d="M10,0h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-4h-5m10,-5h-10" style="stroke: black;"></path>
        <g font-family="Arial" font-size="7" space="preserve">
         <text text-anchor="end" dy=".4em" transform="translate(-3,0)">
          0
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-18)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-17)">
          20
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-36)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-35)">
          40
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-54)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-52)">
          60
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-73)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-70)">
          80
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-91)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-87)">
          100
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-109)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-104)">
          120
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-127)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-122)">
          140
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-145)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-139)">
          160
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-163)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-156)">
          180
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-174)">
+         200
         </text>
        </g>
       </g>
      </g>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="24" space="preserve">
+    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
       Error() draw options
      </text>
@@ -387,12 +393,12 @@
      <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
      <svg x="0" y="0" overflow="hidden" width="440" height="177" viewBox="0 0 440 177">
       <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
-       <path d="M0,177h9v0h-9zM18,175h9v2h-9zM35,169h9v8h-9zM53,149h9v28h-9zM70,120h9v57h-9zM88,69h9v108h-9zM106,21h9v156h-9zM123,8h9v169h-9zM141,20h9v157h-9zM158,55h9v122h-9zM176,120h9v57h-9zM194,152h9v25h-9zM211,165h9v12h-9zM229,172h9v5h-9zM246,176h9v1h-9zM264,177h9v0h-9zM282,177h9v0h-9zM299,177h9v0h-9zM317,177h9v0h-9zM334,177h9v0h-9zM352,177h9v0h-9zM370,177h9v0h-9zM387,177h9v0h-9zM405,177h9v0h-9zM422,177h9v0h-9z" style="fill: #FF0000;"></path>
+       <path d="M0,177h9v0h-9zM18,177h9v0h-9zM35,169h9v8h-9zM53,154h9v23h-9zM70,122h9v55h-9zM88,67h9v110h-9zM106,37h9v140h-9zM123,8h9v169h-9zM141,12h9v165h-9zM158,53h9v124h-9zM176,132h9v45h-9zM194,158h9v19h-9zM211,168h9v9h-9zM229,175h9v2h-9zM246,177h9v0h-9zM264,177h9v0h-9zM282,177h9v0h-9zM299,177h9v0h-9zM317,177h9v0h-9zM334,177h9v0h-9zM352,177h9v0h-9zM370,177h9v0h-9zM387,177h9v0h-9zM405,177h9v0h-9zM422,177h9v0h-9z" style="fill: #FF0000;"></path>
       </g>
       <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
-       <path d="M9,177h9v0h-9zM27,177h9v0h-9zM44,177h9v0h-9zM62,177h9v0h-9zM79,177h9v0h-9zM97,177h9v0h-9zM115,177h9v0h-9zM132,177h9v0h-9zM150,177h9v0h-9zM167,172h9v5h-9zM185,168h9v9h-9zM203,161h9v16h-9zM220,140h9v37h-9zM238,130h9v47h-9zM255,104h9v73h-9zM273,79h9v98h-9zM291,60h9v117h-9zM308,57h9v120h-9zM326,53h9v124h-9zM343,87h9v90h-9zM361,104h9v73h-9zM379,132h9v45h-9zM396,153h9v24h-9zM414,164h9v13h-9zM431,167h9v10h-9z" style="fill: #0000FF;"></path>
-       <path d="M9,177h1v0h-1zM27,177h1v0h-1zM44,177h1v0h-1zM62,177h1v0h-1zM79,177h1v0h-1zM97,177h1v0h-1zM115,177h1v0h-1zM132,177h1v0h-1zM150,177h1v0h-1zM167,172h1v5h-1zM185,168h1v9h-1zM203,161h1v16h-1zM220,140h1v37h-1zM238,130h1v47h-1zM255,104h1v73h-1zM273,79h1v98h-1zM291,60h1v117h-1zM308,57h1v120h-1zM326,53h1v124h-1zM343,87h1v90h-1zM361,104h1v73h-1zM379,132h1v45h-1zM396,153h1v24h-1zM414,164h1v13h-1zM431,167h1v10h-1z" style="fill: rgb(0, 0, 255);"></path>
-       <path d="M18,177h-1v0h1zM36,177h-1v0h1zM53,177h-1v0h1zM71,177h-1v0h1zM88,177h-1v0h1zM106,177h-1v0h1zM124,177h-1v0h1zM141,177h-1v0h1zM159,177h-1v0h1zM176,172h-1v5h1zM194,168h-1v9h1zM212,161h-1v16h1zM229,140h-1v37h1zM247,130h-1v47h1zM264,104h-1v73h1zM282,79h-1v98h1zM300,60h-1v117h1zM317,57h-1v120h1zM335,53h-1v124h1zM352,87h-1v90h1zM370,104h-1v73h1zM388,132h-1v45h1zM405,153h-1v24h1zM423,164h-1v13h1zM440,167h-1v10h1z" style="fill: rgb(0, 0, 213);"></path>
+       <path d="M9,177h9v0h-9zM27,177h9v0h-9zM44,177h9v0h-9zM62,177h9v0h-9zM79,177h9v0h-9zM97,177h9v0h-9zM115,177h9v0h-9zM132,177h9v0h-9zM150,177h9v0h-9zM167,174h9v3h-9zM185,169h9v8h-9zM203,162h9v15h-9zM220,146h9v31h-9zM238,123h9v54h-9zM255,107h9v70h-9zM273,88h9v89h-9zM291,80h9v97h-9zM308,40h9v137h-9zM326,63h9v114h-9zM343,87h9v90h-9zM361,120h9v57h-9zM379,128h9v49h-9zM396,147h9v30h-9zM414,166h9v11h-9zM431,169h9v8h-9z" style="fill: #0000FF;"></path>
+       <path d="M9,177h1v0h-1zM27,177h1v0h-1zM44,177h1v0h-1zM62,177h1v0h-1zM79,177h1v0h-1zM97,177h1v0h-1zM115,177h1v0h-1zM132,177h1v0h-1zM150,177h1v0h-1zM167,174h1v3h-1zM185,169h1v8h-1zM203,162h1v15h-1zM220,146h1v31h-1zM238,123h1v54h-1zM255,107h1v70h-1zM273,88h1v89h-1zM291,80h1v97h-1zM308,40h1v137h-1zM326,63h1v114h-1zM343,87h1v90h-1zM361,120h1v57h-1zM379,128h1v49h-1zM396,147h1v30h-1zM414,166h1v11h-1zM431,169h1v8h-1z" style="fill: rgb(0, 0, 255);"></path>
+       <path d="M18,177h-1v0h1zM36,177h-1v0h1zM53,177h-1v0h1zM71,177h-1v0h1zM88,177h-1v0h1zM106,177h-1v0h1zM124,177h-1v0h1zM141,177h-1v0h1zM159,177h-1v0h1zM176,174h-1v3h1zM194,169h-1v8h1zM212,162h-1v15h1zM229,146h-1v31h1zM247,123h-1v54h1zM264,107h-1v70h1zM282,88h-1v89h1zM300,80h-1v97h1zM317,40h-1v137h1zM335,63h-1v114h1zM352,87h-1v90h1zM370,120h-1v57h1zM388,128h-1v49h1zM405,147h-1v30h1zM423,166h-1v11h1zM440,169h-1v8h1z" style="fill: rgb(0, 0, 213);"></path>
       </g>
      </svg>
      <g>
@@ -420,43 +426,46 @@
        </g>
       </g>
       <g transform="translate(0,177)">
-       <path d="M10,0h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-5h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-5h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-5h-5" style="stroke: black;"></path>
+       <path d="M10,0h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-4h-5m10,-5h-10m5,-4h-5m5,-4h-5m5,-5h-5m10,-4h-10m5,-4h-5m5,-5h-5m5,-4h-5m10,-4h-10m5,-5h-5m5,-4h-5m5,-4h-5m10,-5h-10" style="stroke: black;"></path>
        <g font-family="Arial" font-size="7" space="preserve">
         <text text-anchor="end" dy=".4em" transform="translate(-3,0)">
          0
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-18)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-17)">
          20
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-36)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-35)">
          40
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-54)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-52)">
          60
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-73)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-70)">
          80
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-91)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-87)">
          100
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-109)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-104)">
          120
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-127)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-122)">
          140
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-145)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-139)">
          160
         </text>
-        <text text-anchor="end" dy=".4em" transform="translate(-3,-163)">
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-156)">
          180
+        </text>
+        <text text-anchor="end" dy=".4em" transform="translate(-3,-174)">
+         200
         </text>
        </g>
       </g>
      </g>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="24" space="preserve">
+    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
       Bar() draw options
      </text>
@@ -466,14 +475,14 @@
   <svg viewBox="0 0 500 233" preserveAspectRatio="none" x="500" y="467" width="500" height="233">
    <rect x="0" y="0" width="500" height="233" style="fill: none;"></rect>
    <g transform="translate(4,19)">
-    <image width="496" height="195" xlink:href="data:image/png;base64,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"></image>
+    <image width="496" height="195" xlink:href="data:image/png;base64,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"></image>
    </g>
    <g>
     <g transform="translate(35,28)" style="display: none;">
      <title></title>
      <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="24" space="preserve">
+    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
       Lego() draw option
      </text>
