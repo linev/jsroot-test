@@ -10,7 +10,7 @@
  <rect x="0" y="0" width="1000" height="700" style="fill: white;"></rect>
  <g>
   <g objname="name" objtype="ROOT::Experimental::RPaveText" transform="translate(550,455)" x="550" y="455" width="400" height="210" font-family="CustomFont" font-size="21" space="preserve">
-   <rect x="0" width="400" y="0" height="210" style="stroke: black;" stroke-width="1" fill="#008000"></rect>
+   <rect x="0" width="400" y="0" height="210" style="stroke: black; stroke-width: 1; fill: none;"></rect>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(200,35)">
     RPaveText with custom font
    </text>
@@ -22,7 +22,7 @@
    </text>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RPaveText" transform="translate(550,35)" x="550" y="35" width="400" height="210" font-family="Arial" font-size="20" space="preserve">
-   <rect x="0" width="400" y="0" height="210" style="stroke: black;" stroke-width="1" fill="#FFFF00"></rect>
+   <rect x="0" width="400" y="0" height="210" style="stroke: black; stroke-width: 1; fill: none;"></rect>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(200,35)">
     This is RPaveText
    </text>
@@ -34,10 +34,10 @@
    </text>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RPave" transform="translate(50,455)" x="50" y="455" width="300" height="210">
-   <rect x="0" width="300" y="0" height="210" style="stroke: black;" stroke-width="1" fill="#FF0000"></rect>
+   <rect x="0" width="300" y="0" height="210" style="stroke: black; stroke-width: 1; fill: none;"></rect>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RPave" transform="translate(50,35)" x="50" y="35" width="300" height="210">
-   <rect x="0" width="300" y="0" height="210" style="stroke: #008000;" stroke-width="3" fill="#0000FF"></rect>
+   <rect x="0" width="300" y="0" height="210" style="stroke: #008000; stroke-width: 3; fill: none;"></rect>
   </g>
  </g>
 </svg>
