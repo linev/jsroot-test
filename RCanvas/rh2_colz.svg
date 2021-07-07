@@ -652,7 +652,7 @@
    </g>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RDisplayHistStat" transform="translate(480,98)" x="480" y="98" width="300" height="210">
-   <rect x="0" width="300" y="0" height="210" style="stroke: black; stroke-width: 1; fill: none;"></rect>
+   <rect x="0" width="300" y="0" height="210" style="stroke: black; stroke-width: 1; fill: #FF0000;"></rect>
    <g font-family="Arial" font-size="17" space="preserve">
     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(150,11)">
      hist2
