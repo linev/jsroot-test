@@ -12,7 +12,7 @@
      <rect x="580" width="40" y="53" height="40" style="stroke: black; stroke-width: 1; fill: #0000FF;"></rect>
     </g>
     <g objname="name" objtype="ROOT::Experimental::RLine">
-     <line x1="120" y1="367" x2="600" y2="73" style="stroke: black;" stroke-width="2"></line>
+     <line x1="120" y1="367" x2="600" y2="73" style="stroke: black; stroke-width: 2;"></line>
     </g>
     <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
      <text fill="black" text-anchor="start" dy=".8em" transform="translate(120,367)">
@@ -88,7 +88,7 @@
    </g>
    <g>
     <g objname="name" objtype="ROOT::Experimental::RLine">
-     <line x1="-144" y1="484" x2="-144" y2="-44" style="stroke: #FF0000;" stroke-width="2"></line>
+     <line x1="-144" y1="484" x2="-144" y2="-44" style="stroke: #FF0000; stroke-width: 2;"></line>
     </g>
     <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
      <text fill="black" text-anchor="start" transform="translate(-149,484) rotate(270)">
@@ -96,7 +96,7 @@
      </text>
     </g>
     <g objname="name" objtype="ROOT::Experimental::RLine">
-     <line x1="840" y1="484" x2="840" y2="-44" style="stroke: #FF0000;" stroke-width="2"></line>
+     <line x1="840" y1="484" x2="840" y2="-44" style="stroke: #FF0000; stroke-width: 2;"></line>
     </g>
     <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
      <text fill="black" text-anchor="start" dy=".8em" transform="translate(840,484) rotate(270)">
@@ -107,7 +107,7 @@
      <rect x="580" width="40" y="347" height="40" style="stroke: black; stroke-width: 1; fill: #FFFF00;"></rect>
     </g>
     <g objname="name" objtype="ROOT::Experimental::RLine">
-     <line x1="120" y1="73" x2="600" y2="367" style="stroke: black;" stroke-width="2"></line>
+     <line x1="120" y1="73" x2="600" y2="367" style="stroke: black; stroke-width: 2;"></line>
     </g>
     <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
      <text fill="black" text-anchor="start" transform="translate(120,73)">
@@ -122,7 +122,7 @@
    </text>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RLine">
-   <line x1="100" y1="80" x2="900" y2="80" style="stroke: black;" stroke-width="2"></line>
+   <line x1="100" y1="80" x2="900" y2="80" style="stroke: black; stroke-width: 2;"></line>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="start" transform="translate(100,75)">
@@ -130,7 +130,7 @@
    </text>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RLine">
-   <line x1="120" y1="720" x2="1080" y2="720" style="stroke: black;" stroke-width="2"></line>
+   <line x1="120" y1="720" x2="1080" y2="720" style="stroke: black; stroke-width: 2;"></line>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="start" dy=".8em" transform="translate(120,720)">
