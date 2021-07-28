@@ -9,23 +9,23 @@
    <rect x="0" y="0" width="960" height="640" style="fill: white; stroke: black; stroke-width: 1;"></rect>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
-     <path d="M80,586.67c12,-16,133.33,-266.67,200,-266.67s140,286.67,200,266.67s176,-368,200,-400s176.92,-117.95,200,-133.33" style="stroke: rgb(99,0,5); stroke-width: 3; fill: none;"></path>
+     <path d="M80,586.67C92,570.67,213.33,320,280,320S420,606.67,480,586.67S656,218.67,680,186.67S856.92,68.72,880,53.33" style="stroke: rgb(99,0,5); stroke-width: 3; fill: none;"></path>
      <path d="M76,583l8,8m0,-8l-8,8m0,-4h8m-4,-4v8M276,316l8,8m0,-8l-8,8m0,-4h8m-4,-4v8M476,583l8,8m0,-8l-8,8m0,-4h8m-4,-4v8M676,183l8,8m0,-8l-8,8m0,-4h8m-4,-4v8M876,49l8,8m0,-8l-8,8m0,-4h8m-4,-4v8" style="stroke: red; fill: none;"></path>
     </g>
     <g>
-     <path d="M80,560c12,-16,133.33,-266.67,200,-266.67s140,286.67,200,266.67s176,-368,200,-400s176.92,-117.95,200,-133.33" style="stroke: rgb(154,8,7); stroke-width: 3; fill: none;"></path>
+     <path d="M80,560C92,544,213.33,293.33,280,293.33S420,580,480,560S656,192,680,160S856.92,42.05,880,26.67" style="stroke: rgb(154,8,7); stroke-width: 3; fill: none;"></path>
      <path d="M76,560a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM276,293a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM476,560a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM676,160a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM876,27a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: black; fill: none;"></path>
     </g>
     <g>
-     <path d="M80,533.33c12,-16,133.33,-266.67,200,-266.67s140,286.67,200,266.67s176,-368,200,-400s176.92,-117.95,200,-133.33" style="stroke: rgb(199,57,9); stroke-width: 3; fill: none;"></path>
+     <path d="M80,533.33C92,517.33,213.33,266.67,280,266.67S420,553.33,480,533.33S656,165.33,680,133.33S856.92,15.38,880,0" style="stroke: rgb(199,57,9); stroke-width: 3; fill: none;"></path>
      <path d="M76,529v8h8v-8zM276,263v8h8v-8zM476,529v8h8v-8zM676,129v8h8v-8zM876,-4v8h8v-8z" style="stroke: black; fill: none;"></path>
     </g>
     <g>
-     <path d="M80,506.67c12,-16,133.33,-266.67,200,-266.67s140,286.67,200,266.67s176,-368,200,-400s176.92,-117.95,200,-133.33" style="stroke: rgb(201,117,17); stroke-width: 3; fill: none;"></path>
+     <path d="M80,506.67C92,490.67,213.33,240,280,240S420,526.67,480,506.67S656,138.67,680,106.67S856.92,-11.28,880,-26.67" style="stroke: rgb(201,117,17); stroke-width: 3; fill: none;"></path>
      <path d="M76,503l8,8m0,-8l-8,8m0,-4h8m-4,-4v8M276,236l8,8m0,-8l-8,8m0,-4h8m-4,-4v8M476,503l8,8m0,-8l-8,8m0,-4h8m-4,-4v8M676,103l8,8m0,-8l-8,8m0,-4h8m-4,-4v8" style="stroke: blue; fill: none;"></path>
     </g>
     <g>
-     <path d="M80,480c12,-16,133.33,-266.67,200,-266.67s140,286.67,200,266.67s176,-368,200,-400s176.92,-117.95,200,-133.33" style="stroke: rgb(227,170,24); stroke-width: 3; fill: none;"></path>
+     <path d="M80,480C92,464,213.33,213.33,280,213.33S420,500,480,480S656,112,680,80S856.92,-37.95,880,-53.33" style="stroke: rgb(227,170,24); stroke-width: 3; fill: none;"></path>
      <path d="M76,476v8h8v-8zM276,209v8h8v-8zM476,476v8h8v-8zM676,76v8h8v-8z" style="stroke: black; fill: black;"></path>
     </g>
    </svg>
