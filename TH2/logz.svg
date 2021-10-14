@@ -12,19 +12,19 @@
      <rect x="0" y="0" width="301" height="201" style="fill: white; stroke: black; stroke-width: 1;"></rect>
      <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
       <g>
-       <path palette-index="12" fill="rgb(38,62,168)" d="M100,121v20h51v-20zm0,-20v20h51v-20zm0,-21v21h51v-21zm0,-20v20h51v-20zm0,-20v20h51v-20zm0,-20v20h51v-20zM100,0v20h51v-20zm51,161v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-21v21h50v-21zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zM151,0v20h50v-20zm50,181v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm50,60v20h50v-20zm0,-20v20h50v-20z"></path>
-       <path palette-index="25" fill="rgb(22,82,205)" d="M100,141v20h51v-20zm51,40v20h50v-20z"></path>
-       <path palette-index="38" fill="rgb(16,100,220)" d="M100,161v20h51v-20z"></path>
-       <path palette-index="50" fill="rgb(18,114,217)" d="M50,0v20h50v-20z"></path>
-       <path palette-index="63" fill="rgb(20,129,214)" d="M50,40v20h50v-20zM50,20v20h50v-20zm50,161v20h51v-20z"></path>
-       <path palette-index="76" fill="rgb(14,143,209)" d="M50,60v20h50v-20z"></path>
-       <path palette-index="89" fill="rgb(9,157,204)" d="M50,80v21h50v-21z"></path>
-       <path palette-index="101" fill="rgb(13,167,195)" d="M50,101v20h50v-20z"></path>
-       <path palette-index="114" fill="rgb(30,175,179)" d="M50,121v20h50v-20z"></path>
-       <path palette-index="127" fill="rgb(46,183,164)" d="M50,141v20h50v-20z"></path>
-       <path palette-index="140" fill="rgb(82,186,146)" d="M50,181v20h50v-20zm0,-20v20h50v-20z"></path>
-       <path palette-index="242" fill="rgb(251,230,29)" d="M0,181v20h50v-20z"></path>
-       <path palette-index="254" fill="rgb(249,249,15)" d="M0,161v20h50v-20zM0,141v20h50v-20zM0,121v20h50v-20zM0,101v20h50v-20zM0,80v21h50v-21zM0,60v20h50v-20zM0,40v20h50v-20zM0,20v20h50v-20zM0,0v20h50v-20z"></path>
+       <path fill="rgb(38,62,168)" d="M100,141h51v-141h-51zm51,40h50v-181h-50zm50,20h50v-80h-50zm50,0h50v-40h-50z"></path>
+       <path fill="rgb(22,82,205)" d="M100,161h51v-20h-51zm51,40h50v-20h-50z"></path>
+       <path fill="rgb(16,100,220)" d="M100,181h51v-20h-51z"></path>
+       <path fill="rgb(18,114,217)" d="M50,20h50v-20h-50z"></path>
+       <path fill="rgb(20,129,214)" d="M50,60h50v-40h-50zm50,141h51v-20h-51z"></path>
+       <path fill="rgb(14,143,209)" d="M50,80h50v-20h-50z"></path>
+       <path fill="rgb(9,157,204)" d="M50,101h50v-21h-50z"></path>
+       <path fill="rgb(13,167,195)" d="M50,121h50v-20h-50z"></path>
+       <path fill="rgb(30,175,179)" d="M50,141h50v-20h-50z"></path>
+       <path fill="rgb(46,183,164)" d="M50,161h50v-20h-50z"></path>
+       <path fill="rgb(82,186,146)" d="M50,201h50v-40h-50z"></path>
+       <path fill="rgb(251,230,29)" d="M0,201h50v-20h-50z"></path>
+       <path fill="rgb(249,249,15)" d="M0,181h50v-181h-50z"></path>
        <g font-family="Arial" font-size="10" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          14.2620
@@ -278,21 +278,21 @@
      <rect x="0" y="0" width="301" height="201" style="fill: white; stroke: black; stroke-width: 1;"></rect>
      <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
       <g>
-       <path palette-index="12" fill="rgb(38,62,168)" d="M100,60v20h51v-20zm0,-40v20h51v-20zM100,0v20h51v-20zm51,141v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-21v21h50v-21zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zM151,0v20h50v-20zm50,161v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-21v21h50v-21zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zM201,0v20h50v-20zm50,161v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-21v21h50v-21zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zM251,0v20h50v-20z"></path>
-       <path palette-index="38" fill="rgb(16,100,220)" d="M100,121v20h51v-20zm0,-20v20h51v-20zm51,60v20h50v-20z"></path>
-       <path palette-index="50" fill="rgb(18,114,217)" d="M100,141v20h51v-20zm0,-61v21h51v-21zM201,181v20h50v-20zm50,0v20h50v-20z"></path>
-       <path palette-index="63" fill="rgb(20,129,214)" d="M100,40v20h51v-20z"></path>
-       <path palette-index="76" fill="rgb(14,143,209)" d="M50,20v20h50v-20zM50,0v20h50v-20zM151,181v20h50v-20z"></path>
-       <path palette-index="89" fill="rgb(9,157,204)" d="M50,40v20h50v-20zm50,121v20h51v-20z"></path>
-       <path palette-index="101" fill="rgb(13,167,195)" d="M50,60v20h50v-20z"></path>
-       <path palette-index="114" fill="rgb(30,175,179)" d="M50,80v21h50v-21z"></path>
-       <path palette-index="127" fill="rgb(46,183,164)" d="M50,101v20h50v-20zm50,80v20h51v-20z"></path>
-       <path palette-index="140" fill="rgb(82,186,146)" d="M50,121v20h50v-20z"></path>
-       <path palette-index="165" fill="rgb(149,190,113)" d="M50,141v20h50v-20z"></path>
-       <path palette-index="178" fill="rgb(179,189,101)" d="M50,161v20h50v-20z"></path>
-       <path palette-index="191" fill="rgb(209,187,89)" d="M50,181v20h50v-20z"></path>
-       <path palette-index="242" fill="rgb(251,230,29)" d="M0,181v20h50v-20zM0,80v21h50v-21zM0,20v20h50v-20z"></path>
-       <path palette-index="254" fill="rgb(249,249,15)" d="M0,161v20h50v-20zM0,141v20h50v-20zM0,121v20h50v-20zM0,101v20h50v-20zM0,60v20h50v-20zM0,40v20h50v-20zM0,0v20h50v-20z"></path>
+       <path fill="rgb(38,62,168)" d="M100,80h51v-20h-51zm0,-40h51v-40h-51zm51,121h50v-161h-50zm50,20h50v-181h-50zm50,0h50v-181h-50z"></path>
+       <path fill="rgb(16,100,220)" d="M100,141h51v-40h-51zm51,40h50v-20h-50z"></path>
+       <path fill="rgb(18,114,217)" d="M100,161h51v-20h-51zm0,-60h51v-21h-51zM201,201h50v-20h-50zm50,0h50v-20h-50z"></path>
+       <path fill="rgb(20,129,214)" d="M100,60h51v-20h-51z"></path>
+       <path fill="rgb(14,143,209)" d="M50,40h50v-40h-50zM151,201h50v-20h-50z"></path>
+       <path fill="rgb(9,157,204)" d="M50,60h50v-20h-50zm50,121h51v-20h-51z"></path>
+       <path fill="rgb(13,167,195)" d="M50,80h50v-20h-50z"></path>
+       <path fill="rgb(30,175,179)" d="M50,101h50v-21h-50z"></path>
+       <path fill="rgb(46,183,164)" d="M50,121h50v-20h-50zm50,80h51v-20h-51z"></path>
+       <path fill="rgb(82,186,146)" d="M50,141h50v-20h-50z"></path>
+       <path fill="rgb(149,190,113)" d="M50,161h50v-20h-50z"></path>
+       <path fill="rgb(179,189,101)" d="M50,181h50v-20h-50z"></path>
+       <path fill="rgb(209,187,89)" d="M50,201h50v-20h-50z"></path>
+       <path fill="rgb(251,230,29)" d="M0,201h50v-20h-50zM0,101h50v-21h-50zM0,40h50v-20h-50z"></path>
+       <path fill="rgb(249,249,15)" d="M0,181h50v-80h-50zM0,80h50v-40h-50zM0,20h50v-20h-50z"></path>
        <g font-family="Arial" font-size="11" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          5.5325
@@ -588,24 +588,24 @@
      <rect x="0" y="0" width="301" height="201" style="fill: white; stroke: black; stroke-width: 1;"></rect>
      <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
       <g>
-       <path palette-index="38" fill="rgb(16,100,220)" d="M0,181v20h50v-20zM0,161v20h50v-20zM0,141v20h50v-20zM0,121v20h50v-20zM0,101v20h50v-20zM0,80v21h50v-21zM0,60v20h50v-20zM0,40v20h50v-20zM0,20v20h50v-20zM0,0v20h50v-20z"></path>
-       <path palette-index="50" fill="rgb(18,114,217)" d="M50,181v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zM50,80v21h50v-21zM50,60v20h50v-20zM50,40v20h50v-20zM50,20v20h50v-20zM50,0v20h50v-20z"></path>
-       <path palette-index="63" fill="rgb(20,129,214)" d="M100,181v20h51v-20zm0,-20v20h51v-20z"></path>
-       <path palette-index="76" fill="rgb(14,143,209)" d="M100,141v20h51v-20zm51,40v20h50v-20z"></path>
-       <path palette-index="89" fill="rgb(9,157,204)" d="M100,121v20h51v-20z"></path>
-       <path palette-index="101" fill="rgb(13,167,195)" d="M100,101v20h51v-20zm0,-41v20h51v-20z"></path>
-       <path palette-index="114" fill="rgb(30,175,179)" d="M151,161v20h50v-20z"></path>
-       <path palette-index="127" fill="rgb(46,183,164)" d="M100,80v21h51v-21zm51,61v20h50v-20zm50,40v20h50v-20z"></path>
-       <path palette-index="140" fill="rgb(82,186,146)" d="M100,20v20h51v-20zM100,0v20h51v-20z"></path>
-       <path palette-index="152" fill="rgb(116,189,129)" d="M100,40v20h51v-20z"></path>
-       <path palette-index="165" fill="rgb(149,190,113)" d="M151,121v20h50v-20z"></path>
-       <path palette-index="178" fill="rgb(179,189,101)" d="M151,101v20h50v-20zm50,60v20h50v-20z"></path>
-       <path palette-index="191" fill="rgb(209,187,89)" d="M251,181v20h50v-20z"></path>
-       <path palette-index="203" fill="rgb(226,192,75)" d="M151,80v21h50v-21z"></path>
-       <path palette-index="216" fill="rgb(244,198,59)" d="M151,60v20h50v-20z"></path>
-       <path palette-index="229" fill="rgb(253,210,43)" d="M151,40v20h50v-20zm50,101v20h50v-20z"></path>
-       <path palette-index="242" fill="rgb(251,230,29)" d="M151,20v20h50v-20z"></path>
-       <path palette-index="254" fill="rgb(249,249,15)" d="M151,0v20h50v-20zm50,121v20h50v-20zm50,40v20h50v-20z"></path>
+       <path fill="rgb(16,100,220)" d="M0,201h50v-201h-50z"></path>
+       <path fill="rgb(18,114,217)" d="M50,201h50v-201h-50z"></path>
+       <path fill="rgb(20,129,214)" d="M100,201h51v-40h-51z"></path>
+       <path fill="rgb(14,143,209)" d="M100,161h51v-20h-51zm51,40h50v-20h-50z"></path>
+       <path fill="rgb(9,157,204)" d="M100,141h51v-20h-51z"></path>
+       <path fill="rgb(13,167,195)" d="M100,121h51v-20h-51zm0,-41h51v-20h-51z"></path>
+       <path fill="rgb(30,175,179)" d="M151,181h50v-20h-50z"></path>
+       <path fill="rgb(46,183,164)" d="M100,101h51v-21h-51zm51,60h50v-20h-50zm50,40h50v-20h-50z"></path>
+       <path fill="rgb(82,186,146)" d="M100,40h51v-40h-51z"></path>
+       <path fill="rgb(116,189,129)" d="M100,60h51v-20h-51z"></path>
+       <path fill="rgb(149,190,113)" d="M151,141h50v-20h-50z"></path>
+       <path fill="rgb(179,189,101)" d="M151,121h50v-20h-50zm50,60h50v-20h-50z"></path>
+       <path fill="rgb(209,187,89)" d="M251,201h50v-20h-50z"></path>
+       <path fill="rgb(226,192,75)" d="M151,101h50v-21h-50z"></path>
+       <path fill="rgb(244,198,59)" d="M151,80h50v-20h-50z"></path>
+       <path fill="rgb(253,210,43)" d="M151,60h50v-20h-50zm50,101h50v-20h-50z"></path>
+       <path fill="rgb(251,230,29)" d="M151,40h50v-20h-50z"></path>
+       <path fill="rgb(249,249,15)" d="M151,20h50v-20h-50zm50,121h50v-20h-50zm50,40h50v-20h-50z"></path>
        <g font-family="Arial" font-size="7" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          0.3879
@@ -859,20 +859,20 @@
      <rect x="0" y="0" width="301" height="201" style="fill: white; stroke: black; stroke-width: 1;"></rect>
      <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
       <g>
-       <path palette-index="12" fill="rgb(38,62,168)" d="M100,121v20h51v-20zm0,-20v20h51v-20zm0,-21v21h51v-21zm0,-20v20h51v-20zm0,-20v20h51v-20zm0,-20v20h51v-20zM100,0v20h51v-20zm51,161v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-21v21h50v-21zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zM151,0v20h50v-20zm50,181v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm50,60v20h50v-20zm0,-20v20h50v-20z"></path>
-       <path palette-index="25" fill="rgb(22,82,205)" d="M100,141v20h51v-20zm51,40v20h50v-20z"></path>
-       <path palette-index="38" fill="rgb(16,100,220)" d="M100,161v20h51v-20z"></path>
-       <path palette-index="50" fill="rgb(18,114,217)" d="M50,20v20h50v-20zM50,0v20h50v-20z"></path>
-       <path palette-index="63" fill="rgb(20,129,214)" d="M50,40v20h50v-20z"></path>
-       <path palette-index="76" fill="rgb(14,143,209)" d="M50,60v20h50v-20zm50,121v20h51v-20z"></path>
-       <path palette-index="89" fill="rgb(9,157,204)" d="M50,101v20h50v-20zM50,80v21h50v-21z"></path>
-       <path palette-index="101" fill="rgb(13,167,195)" d="M50,121v20h50v-20z"></path>
-       <path palette-index="114" fill="rgb(30,175,179)" d="M50,141v20h50v-20z"></path>
-       <path palette-index="127" fill="rgb(46,183,164)" d="M50,161v20h50v-20z"></path>
-       <path palette-index="140" fill="rgb(82,186,146)" d="M50,181v20h50v-20z"></path>
-       <path palette-index="216" fill="rgb(244,198,59)" d="M0,101v20h50v-20zM0,0v20h50v-20z"></path>
-       <path palette-index="242" fill="rgb(251,230,29)" d="M0,161v20h50v-20zM0,141v20h50v-20zM0,121v20h50v-20zM0,80v21h50v-21zM0,60v20h50v-20zM0,40v20h50v-20zM0,20v20h50v-20z"></path>
-       <path palette-index="254" fill="rgb(249,249,15)" d="M0,181v20h50v-20z"></path>
+       <path fill="rgb(38,62,168)" d="M100,141h51v-141h-51zm51,40h50v-181h-50zm50,20h50v-80h-50zm50,0h50v-40h-50z"></path>
+       <path fill="rgb(22,82,205)" d="M100,161h51v-20h-51zm51,40h50v-20h-50z"></path>
+       <path fill="rgb(16,100,220)" d="M100,181h51v-20h-51z"></path>
+       <path fill="rgb(18,114,217)" d="M50,40h50v-40h-50z"></path>
+       <path fill="rgb(20,129,214)" d="M50,60h50v-20h-50z"></path>
+       <path fill="rgb(14,143,209)" d="M50,80h50v-20h-50zm50,121h51v-20h-51z"></path>
+       <path fill="rgb(9,157,204)" d="M50,121h50v-41h-50z"></path>
+       <path fill="rgb(13,167,195)" d="M50,141h50v-20h-50z"></path>
+       <path fill="rgb(30,175,179)" d="M50,161h50v-20h-50z"></path>
+       <path fill="rgb(46,183,164)" d="M50,181h50v-20h-50z"></path>
+       <path fill="rgb(82,186,146)" d="M50,201h50v-20h-50z"></path>
+       <path fill="rgb(244,198,59)" d="M0,121h50v-20h-50zM0,20h50v-20h-50z"></path>
+       <path fill="rgb(251,230,29)" d="M0,181h50v-60h-50zM0,101h50v-81h-50z"></path>
+       <path fill="rgb(249,249,15)" d="M0,201h50v-20h-50z"></path>
        <g font-family="Arial" font-size="10" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          15.8556
@@ -1126,22 +1126,22 @@
      <rect x="0" y="0" width="301" height="201" style="fill: white; stroke: black; stroke-width: 1;"></rect>
      <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
       <g>
-       <path palette-index="12" fill="rgb(38,62,168)" d="M100,60v20h51v-20zm51,41v20h50v-20zm0,-21v21h50v-21zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zM151,0v20h50v-20zm50,161v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-21v21h50v-21zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zM201,0v20h50v-20zm50,181v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-21v21h50v-21zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zM251,0v20h50v-20z"></path>
-       <path palette-index="25" fill="rgb(22,82,205)" d="M100,40v20h51v-20zm0,-20v20h51v-20zM100,0v20h51v-20zm51,141v20h50v-20zm0,-20v20h50v-20z"></path>
-       <path palette-index="38" fill="rgb(16,100,220)" d="M151,161v20h50v-20z"></path>
-       <path palette-index="50" fill="rgb(18,114,217)" d="M100,141v20h51v-20zm0,-20v20h51v-20zm0,-20v20h51v-20z"></path>
-       <path palette-index="63" fill="rgb(20,129,214)" d="M100,80v21h51v-21zM201,181v20h50v-20z"></path>
-       <path palette-index="76" fill="rgb(14,143,209)" d="M50,0v20h50v-20zM151,181v20h50v-20z"></path>
-       <path palette-index="89" fill="rgb(9,157,204)" d="M50,20v20h50v-20zm50,141v20h51v-20z"></path>
-       <path palette-index="101" fill="rgb(13,167,195)" d="M50,60v20h50v-20zM50,40v20h50v-20z"></path>
-       <path palette-index="114" fill="rgb(30,175,179)" d="M50,80v21h50v-21z"></path>
-       <path palette-index="127" fill="rgb(46,183,164)" d="M50,101v20h50v-20zm50,80v20h51v-20z"></path>
-       <path palette-index="140" fill="rgb(82,186,146)" d="M50,121v20h50v-20z"></path>
-       <path palette-index="152" fill="rgb(116,189,129)" d="M50,141v20h50v-20z"></path>
-       <path palette-index="178" fill="rgb(179,189,101)" d="M50,161v20h50v-20z"></path>
-       <path palette-index="191" fill="rgb(209,187,89)" d="M50,181v20h50v-20z"></path>
-       <path palette-index="242" fill="rgb(251,230,29)" d="M0,141v20h50v-20zM0,40v20h50v-20zM0,20v20h50v-20zM0,0v20h50v-20z"></path>
-       <path palette-index="254" fill="rgb(249,249,15)" d="M0,181v20h50v-20zM0,161v20h50v-20zM0,121v20h50v-20zM0,101v20h50v-20zM0,80v21h50v-21zM0,60v20h50v-20z"></path>
+       <path fill="rgb(38,62,168)" d="M100,80h51v-20h-51zm51,41h50v-121h-50zm50,60h50v-181h-50zm50,20h50v-201h-50z"></path>
+       <path fill="rgb(22,82,205)" d="M100,60h51v-60h-51zm51,101h50v-40h-50z"></path>
+       <path fill="rgb(16,100,220)" d="M151,181h50v-20h-50z"></path>
+       <path fill="rgb(18,114,217)" d="M100,161h51v-60h-51z"></path>
+       <path fill="rgb(20,129,214)" d="M100,101h51v-21h-51zM201,201h50v-20h-50z"></path>
+       <path fill="rgb(14,143,209)" d="M50,20h50v-20h-50zM151,201h50v-20h-50z"></path>
+       <path fill="rgb(9,157,204)" d="M50,40h50v-20h-50zm50,141h51v-20h-51z"></path>
+       <path fill="rgb(13,167,195)" d="M50,80h50v-40h-50z"></path>
+       <path fill="rgb(30,175,179)" d="M50,101h50v-21h-50z"></path>
+       <path fill="rgb(46,183,164)" d="M50,121h50v-20h-50zm50,80h51v-20h-51z"></path>
+       <path fill="rgb(82,186,146)" d="M50,141h50v-20h-50z"></path>
+       <path fill="rgb(116,189,129)" d="M50,161h50v-20h-50z"></path>
+       <path fill="rgb(179,189,101)" d="M50,181h50v-20h-50z"></path>
+       <path fill="rgb(209,187,89)" d="M50,201h50v-20h-50z"></path>
+       <path fill="rgb(251,230,29)" d="M0,161h50v-20h-50zM0,60h50v-60h-50z"></path>
+       <path fill="rgb(249,249,15)" d="M0,201h50v-40h-50zM0,141h50v-81h-50z"></path>
        <g font-family="Arial" font-size="11" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          5.7080
@@ -1437,22 +1437,22 @@
      <rect x="0" y="0" width="301" height="201" style="fill: white; stroke: black; stroke-width: 1;"></rect>
      <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
       <g>
-       <path palette-index="38" fill="rgb(16,100,220)" d="M0,181v20h50v-20zM0,161v20h50v-20zM0,141v20h50v-20zM0,121v20h50v-20zM0,101v20h50v-20zM0,80v21h50v-21zM0,60v20h50v-20zM0,40v20h50v-20zM0,20v20h50v-20zM0,0v20h50v-20z"></path>
-       <path palette-index="50" fill="rgb(18,114,217)" d="M50,181v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zM50,80v21h50v-21zM50,60v20h50v-20zM50,40v20h50v-20zM50,20v20h50v-20zM50,0v20h50v-20zm50,181v20h51v-20z"></path>
-       <path palette-index="63" fill="rgb(20,129,214)" d="M100,161v20h51v-20z"></path>
-       <path palette-index="76" fill="rgb(14,143,209)" d="M100,141v20h51v-20zm51,40v20h50v-20z"></path>
-       <path palette-index="89" fill="rgb(9,157,204)" d="M100,121v20h51v-20z"></path>
-       <path palette-index="101" fill="rgb(13,167,195)" d="M100,101v20h51v-20zm51,60v20h50v-20z"></path>
-       <path palette-index="114" fill="rgb(30,175,179)" d="M100,60v20h51v-20z"></path>
-       <path palette-index="127" fill="rgb(46,183,164)" d="M100,80v21h51v-21zm0,-40v20h51v-20zm51,101v20h50v-20zm50,40v20h50v-20z"></path>
-       <path palette-index="140" fill="rgb(82,186,146)" d="M100,20v20h51v-20zM100,0v20h51v-20zM251,181v20h50v-20z"></path>
-       <path palette-index="165" fill="rgb(149,190,113)" d="M151,121v20h50v-20z"></path>
-       <path palette-index="178" fill="rgb(179,189,101)" d="M151,101v20h50v-20zm50,60v20h50v-20z"></path>
-       <path palette-index="203" fill="rgb(226,192,75)" d="M151,80v21h50v-21z"></path>
-       <path palette-index="216" fill="rgb(244,198,59)" d="M151,60v20h50v-20zm50,81v20h50v-20z"></path>
-       <path palette-index="229" fill="rgb(253,210,43)" d="M151,40v20h50v-20z"></path>
-       <path palette-index="242" fill="rgb(251,230,29)" d="M151,20v20h50v-20z"></path>
-       <path palette-index="254" fill="rgb(249,249,15)" d="M151,0v20h50v-20zm50,121v20h50v-20zm50,40v20h50v-20z"></path>
+       <path fill="rgb(16,100,220)" d="M0,201h50v-201h-50z"></path>
+       <path fill="rgb(18,114,217)" d="M50,201h50v-201h-50zm50,0h51v-20h-51z"></path>
+       <path fill="rgb(20,129,214)" d="M100,181h51v-20h-51z"></path>
+       <path fill="rgb(14,143,209)" d="M100,161h51v-20h-51zm51,40h50v-20h-50z"></path>
+       <path fill="rgb(9,157,204)" d="M100,141h51v-20h-51z"></path>
+       <path fill="rgb(13,167,195)" d="M100,121h51v-20h-51zm51,60h50v-20h-50z"></path>
+       <path fill="rgb(30,175,179)" d="M100,80h51v-20h-51z"></path>
+       <path fill="rgb(46,183,164)" d="M100,101h51v-21h-51zm0,-41h51v-20h-51zm51,101h50v-20h-50zm50,40h50v-20h-50z"></path>
+       <path fill="rgb(82,186,146)" d="M100,40h51v-40h-51zM251,201h50v-20h-50z"></path>
+       <path fill="rgb(149,190,113)" d="M151,141h50v-20h-50z"></path>
+       <path fill="rgb(179,189,101)" d="M151,121h50v-20h-50zm50,60h50v-20h-50z"></path>
+       <path fill="rgb(226,192,75)" d="M151,101h50v-21h-50z"></path>
+       <path fill="rgb(244,198,59)" d="M151,80h50v-20h-50zm50,81h50v-20h-50z"></path>
+       <path fill="rgb(253,210,43)" d="M151,60h50v-20h-50z"></path>
+       <path fill="rgb(251,230,29)" d="M151,40h50v-20h-50z"></path>
+       <path fill="rgb(249,249,15)" d="M151,20h50v-20h-50zm50,121h50v-20h-50zm50,40h50v-20h-50z"></path>
        <g font-family="Arial" font-size="7" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          0.3600
@@ -1706,15 +1706,15 @@
      <rect x="0" y="0" width="301" height="201" style="fill: white; stroke: black; stroke-width: 1;"></rect>
      <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
       <g>
-       <path palette-index="12" fill="rgb(38,62,168)" d="M50,161v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zM50,80v21h50v-21zM50,60v20h50v-20zM50,40v20h50v-20zM50,20v20h50v-20zM50,0v20h50v-20zm50,181v20h51v-20zm0,-20v20h51v-20zm0,-20v20h51v-20zm0,-20v20h51v-20zm0,-20v20h51v-20zm0,-21v21h51v-21zm0,-20v20h51v-20zm0,-20v20h51v-20zm0,-20v20h51v-20zM100,0v20h51v-20zm51,181v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-21v21h50v-21zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zM151,0v20h50v-20zm50,181v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-21v21h50v-21zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zM201,0v20h50v-20zm50,181v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-21v21h50v-21zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zM251,0v20h50v-20z"></path>
-       <path palette-index="25" fill="rgb(22,82,205)" d="M50,181v20h50v-20z"></path>
-       <path palette-index="38" fill="rgb(16,100,220)" d="M0,40v20h50v-20zM0,20v20h50v-20zM0,0v20h50v-20z"></path>
-       <path palette-index="50" fill="rgb(18,114,217)" d="M0,80v21h50v-21zM0,60v20h50v-20z"></path>
-       <path palette-index="63" fill="rgb(20,129,214)" d="M0,101v20h50v-20z"></path>
-       <path palette-index="76" fill="rgb(14,143,209)" d="M0,121v20h50v-20z"></path>
-       <path palette-index="101" fill="rgb(13,167,195)" d="M0,141v20h50v-20z"></path>
-       <path palette-index="140" fill="rgb(82,186,146)" d="M0,161v20h50v-20z"></path>
-       <path palette-index="254" fill="rgb(249,249,15)" d="M0,181v20h50v-20z"></path>
+       <path fill="rgb(38,62,168)" d="M50,181h50v-181h-50zm50,20h51v-201h-51zm51,0h50v-201h-50zm50,0h50v-201h-50zm50,0h50v-201h-50z"></path>
+       <path fill="rgb(22,82,205)" d="M50,201h50v-20h-50z"></path>
+       <path fill="rgb(16,100,220)" d="M0,60h50v-60h-50z"></path>
+       <path fill="rgb(18,114,217)" d="M0,101h50v-41h-50z"></path>
+       <path fill="rgb(20,129,214)" d="M0,121h50v-20h-50z"></path>
+       <path fill="rgb(14,143,209)" d="M0,141h50v-20h-50z"></path>
+       <path fill="rgb(13,167,195)" d="M0,161h50v-20h-50z"></path>
+       <path fill="rgb(82,186,146)" d="M0,181h50v-20h-50z"></path>
+       <path fill="rgb(249,249,15)" d="M0,201h50v-20h-50z"></path>
        <g font-family="Arial" font-size="7" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          1713.8334
@@ -2010,19 +2010,19 @@
      <rect x="0" y="0" width="301" height="201" style="fill: white; stroke: black; stroke-width: 1;"></rect>
      <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
       <g>
-       <path palette-index="12" fill="rgb(38,62,168)" d="M100,80v21h51v-21zm0,-40v20h51v-20zm0,-20v20h51v-20zM100,0v20h51v-20zm51,161v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-21v21h50v-21zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zM151,0v20h50v-20zm50,181v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-21v21h50v-21zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zM201,0v20h50v-20zm50,181v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-21v21h50v-21zm0,-20v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20zM251,0v20h50v-20z"></path>
-       <path palette-index="25" fill="rgb(22,82,205)" d="M100,101v20h51v-20zm0,-41v20h51v-20z"></path>
-       <path palette-index="50" fill="rgb(18,114,217)" d="M100,121v20h51v-20zm51,60v20h50v-20z"></path>
-       <path palette-index="63" fill="rgb(20,129,214)" d="M100,141v20h51v-20z"></path>
-       <path palette-index="89" fill="rgb(9,157,204)" d="M100,161v20h51v-20z"></path>
-       <path palette-index="127" fill="rgb(46,183,164)" d="M100,181v20h51v-20z"></path>
-       <path palette-index="152" fill="rgb(116,189,129)" d="M50,0v20h50v-20z"></path>
-       <path palette-index="165" fill="rgb(149,190,113)" d="M50,40v20h50v-20zM50,20v20h50v-20z"></path>
-       <path palette-index="178" fill="rgb(179,189,101)" d="M50,60v20h50v-20z"></path>
-       <path palette-index="191" fill="rgb(209,187,89)" d="M50,101v20h50v-20zM50,80v21h50v-21z"></path>
-       <path palette-index="203" fill="rgb(226,192,75)" d="M50,121v20h50v-20z"></path>
-       <path palette-index="216" fill="rgb(244,198,59)" d="M50,181v20h50v-20zm0,-20v20h50v-20zm0,-20v20h50v-20z"></path>
-       <path palette-index="254" fill="rgb(249,249,15)" d="M0,181v20h50v-20zM0,161v20h50v-20zM0,141v20h50v-20zM0,121v20h50v-20zM0,101v20h50v-20zM0,80v21h50v-21zM0,60v20h50v-20zM0,40v20h50v-20zM0,20v20h50v-20zM0,0v20h50v-20z"></path>
+       <path fill="rgb(38,62,168)" d="M100,101h51v-21h-51zm0,-41h51v-60h-51zm51,121h50v-181h-50zm50,20h50v-201h-50zm50,0h50v-201h-50z"></path>
+       <path fill="rgb(22,82,205)" d="M100,121h51v-20h-51zm0,-41h51v-20h-51z"></path>
+       <path fill="rgb(18,114,217)" d="M100,141h51v-20h-51zm51,60h50v-20h-50z"></path>
+       <path fill="rgb(20,129,214)" d="M100,161h51v-20h-51z"></path>
+       <path fill="rgb(9,157,204)" d="M100,181h51v-20h-51z"></path>
+       <path fill="rgb(46,183,164)" d="M100,201h51v-20h-51z"></path>
+       <path fill="rgb(116,189,129)" d="M50,20h50v-20h-50z"></path>
+       <path fill="rgb(149,190,113)" d="M50,60h50v-40h-50z"></path>
+       <path fill="rgb(179,189,101)" d="M50,80h50v-20h-50z"></path>
+       <path fill="rgb(209,187,89)" d="M50,121h50v-41h-50z"></path>
+       <path fill="rgb(226,192,75)" d="M50,141h50v-20h-50z"></path>
+       <path fill="rgb(244,198,59)" d="M50,201h50v-60h-50z"></path>
+       <path fill="rgb(249,249,15)" d="M0,201h50v-201h-50z"></path>
        <g font-family="Arial" font-size="11" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          1
