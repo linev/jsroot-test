@@ -2,7 +2,7 @@
  <title>
   ROOT canvas
  </title>
- <rect x="0" y="0" width="1200" height="800" style="fill: white;"></rect>
+ <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
  <g>
   <g>
    <path d="M227,455L416,416L370,443L227,455Z" style="stroke: rgba(0,0,0,0.376); stroke-width: 1; fill: rgba(125,153,209,0.205);"></path>

@@ -2,10 +2,10 @@
  <title>
   ROOT canvas
  </title>
- <rect x="0" y="0" width="1200" height="800" style="fill: white;"></rect>
+ <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 600 200" preserveAspectRatio="none" x="0" y="0" width="600" height="200">
-   <rect x="0" y="0" width="600" height="200" style="fill: white; opacity: 0;"></rect>
+   <path d="M0,0h600v200h-600z" style="fill: white; opacity: 0;"></path>
    <g>
     <g transform="translate(240,150)">
      <g font-family="Courier New" font-size="25" space="preserve" font-weight="bold">
@@ -55,7 +55,7 @@
    </g>
   </svg>
   <svg viewBox="0 0 600 200" preserveAspectRatio="none" x="0" y="200" width="600" height="200">
-   <rect x="0" y="0" width="600" height="200" style="fill: white; opacity: 0;"></rect>
+   <path d="M0,0h600v200h-600z" style="fill: white; opacity: 0;"></path>
    <g>
     <g transform="translate(240,150)">
      <g font-family="Courier New" font-size="25" space="preserve" font-weight="bold">
@@ -108,7 +108,7 @@
    </g>
   </svg>
   <svg viewBox="0 0 600 200" preserveAspectRatio="none" x="0" y="400" width="600" height="200">
-   <rect x="0" y="0" width="600" height="200" style="fill: white; opacity: 0;"></rect>
+   <path d="M0,0h600v200h-600z" style="fill: white; opacity: 0;"></path>
    <g>
     <g transform="translate(240,150)">
      <g font-family="Courier New" font-size="25" space="preserve" font-weight="bold">
@@ -161,7 +161,7 @@
    </g>
   </svg>
   <svg viewBox="0 0 600 200" preserveAspectRatio="none" x="0" y="600" width="600" height="200">
-   <rect x="0" y="0" width="600" height="200" style="fill: white; opacity: 0;"></rect>
+   <path d="M0,0h600v200h-600z" style="fill: white; opacity: 0;"></path>
    <g>
     <g transform="translate(240,150)">
      <g font-family="Courier New" font-size="25" space="preserve" font-weight="bold">
@@ -214,7 +214,7 @@
    </g>
   </svg>
   <svg viewBox="0 0 600 200" preserveAspectRatio="none" x="600" y="0" width="600" height="200">
-   <rect x="0" y="0" width="600" height="200" style="fill: white; opacity: 0;"></rect>
+   <path d="M0,0h600v200h-600z" style="fill: white; opacity: 0;"></path>
    <g>
     <g transform="translate(240,150)">
      <g font-family="Courier New" font-size="25" space="preserve" font-weight="bold">
@@ -264,7 +264,7 @@
    </g>
   </svg>
   <svg viewBox="0 0 600 200" preserveAspectRatio="none" x="600" y="200" width="600" height="200">
-   <rect x="0" y="0" width="600" height="200" style="fill: white; opacity: 0;"></rect>
+   <path d="M0,0h600v200h-600z" style="fill: white; opacity: 0;"></path>
    <g>
     <g transform="translate(240,150)">
      <g font-family="Courier New" font-size="25" space="preserve" font-weight="bold">
@@ -317,7 +317,7 @@
    </g>
   </svg>
   <svg viewBox="0 0 600 200" preserveAspectRatio="none" x="600" y="400" width="600" height="200">
-   <rect x="0" y="0" width="600" height="200" style="fill: white; opacity: 0;"></rect>
+   <path d="M0,0h600v200h-600z" style="fill: white; opacity: 0;"></path>
    <g>
     <g transform="translate(240,150)">
      <g font-family="Courier New" font-size="25" space="preserve" font-weight="bold">
@@ -370,7 +370,7 @@
    </g>
   </svg>
   <svg viewBox="0 0 600 200" preserveAspectRatio="none" x="600" y="600" width="600" height="200">
-   <rect x="0" y="0" width="600" height="200" style="fill: white; opacity: 0;"></rect>
+   <path d="M0,0h600v200h-600z" style="fill: white; opacity: 0;"></path>
    <g>
     <g transform="translate(240,150)">
      <g font-family="Courier New" font-size="25" space="preserve" font-weight="bold">

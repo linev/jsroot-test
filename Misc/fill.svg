@@ -211,7 +211,7 @@
  <title>
   ROOT canvas
  </title>
- <rect x="0" y="0" width="1200" height="800" style="fill: white;"></rect>
+ <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
  <g>
   <g>
    <rect x="12" y="4" width="216" height="47" style="fill: url(#pat_3001_1);"></rect>

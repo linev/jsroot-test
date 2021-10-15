@@ -16,11 +16,11 @@
  <title>
   ROOT canvas
  </title>
- <rect x="0" y="0" width="1200" height="800" style="fill: white;"></rect>
+ <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
  <g>
   <g transform="translate(120,80)">
    <title></title>
-   <rect x="0" y="0" width="960" height="640" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+   <path d="M0,0h960v640h-960z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <g>
     <path d="M0,0v640M107,0v640M213,0v640M320,0v640M427,0v640M533,0v640M640,0v640M747,0v640M853,0v640M960,0v640" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
     <path d="M0,640h960M0,527h960M0,460h960M0,413h960M0,377h960M0,347h960M0,322h960M0,300h960M0,281h960M0,263h960M0,150h960M0,84h960M0,37h960M0,0h960" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
@@ -48,7 +48,7 @@
    </svg>
    <g>
     <g transform="translate(0,640)">
-     <line x1="0" y1="0" x2="960" y2="0" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
      <path d="M0,-16v16m21,-8v8m22,-8v8m21,-8v8m21,-8v8m22,-16v16m21,-8v8m21,-8v8m22,-8v8m21,-8v8m21,-16v16m22,-8v8m21,-8v8m21,-8v8m22,-8v8m21,-16v16m21,-8v8m22,-8v8m21,-8v8m21,-8v8m22,-16v16m21,-8v8m21,-8v8m22,-8v8m21,-8v8m21,-16v16m22,-8v8m21,-8v8m21,-8v8m22,-8v8m21,-16v16m21,-8v8m22,-8v8m21,-8v8m21,-8v8m22,-16v16m21,-8v8m21,-8v8m22,-8v8m21,-8v8m21,-16v16m22,-8v8m21,-8v8m21,-8v8m22,-8v8m21,-16v16" style="stroke: black; stroke-width: 1;"></path>
      <path d="M0,-624v-16m21,8v-8m22,8v-8m21,8v-8m21,8v-8m22,16v-16m21,8v-8m21,8v-8m22,8v-8m21,8v-8m21,16v-16m22,8v-8m21,8v-8m21,8v-8m22,8v-8m21,16v-16m21,8v-8m22,8v-8m21,8v-8m21,8v-8m22,16v-16m21,8v-8m21,8v-8m22,8v-8m21,8v-8m21,16v-16m22,8v-8m21,8v-8m21,8v-8m22,8v-8m21,16v-16m21,8v-8m22,8v-8m21,8v-8m21,8v-8m22,16v-16m21,8v-8m21,8v-8m22,8v-8m21,8v-8m21,16v-16m22,8v-8m21,8v-8m21,8v-8m22,8v-8m21,16v-16" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="24" space="preserve">
@@ -98,7 +98,7 @@
      </g>
     </g>
     <g>
-     <line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
      <path d="M36,640h-36m36,-113h-36m36,-67h-36m36,-47h-36m36,-36h-36m36,-30h-36m36,-25h-36m36,-22h-36m36,-19h-36m36,-18h-36m36,-113h-36m36,-66h-36m36,-47h-36m36,-37h-36" style="stroke: black; stroke-width: 1;"></path>
      <path d="M924,640h36m-36,-113h36m-36,-67h36m-36,-47h36m-36,-36h36m-36,-30h36m-36,-25h36m-36,-22h36m-36,-19h36m-36,-18h36m-36,-113h36m-36,-66h36m-36,-47h36m-36,-37h36" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="16" space="preserve">
