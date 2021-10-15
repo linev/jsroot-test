@@ -7,8 +7,8 @@
   <g transform="translate(15,15)">
    <path d="M4,4v413h76v-413z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0h76v413h-76z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
-   <rect x="0" y="0" width="76" height="20" style="fill: rgb(205,205,205);"></rect>
-   <line x1="0" y1="20" x2="76" y2="20" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M0,20H76V0H0Z" style="fill: rgb(205,205,205);"></path>
+   <path d="M0,20L76,20" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="12" space="preserve" font-weight="bold">
     <text fill="blue" text-anchor="middle" dy=".4em" transform="translate(38,10)">
      TNamed
@@ -29,7 +29,7 @@
      fTitle
     </text>
    </g>
-   <line x1="0" y1="73" x2="76" y2="73" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M0,73L76,73" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
     <text fill="rgb(154,154,154)" text-anchor="start" dy=".4em" transform="translate(2,86)">
      Streamer
@@ -159,8 +159,8 @@
   <g transform="translate(120,15)">
    <path d="M4,4v662h533v-662z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0h533v662h-533z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
-   <rect x="0" y="0" width="533" height="20" style="fill: rgb(205,205,205);"></rect>
-   <line x1="0" y1="20" x2="533" y2="20" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M0,20H533V0H0Z" style="fill: rgb(205,205,205);"></path>
+   <path d="M0,20L533,20" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="12" space="preserve" font-weight="bold">
     <text fill="blue" text-anchor="middle" dy=".4em" transform="translate(267,10)">
      TH1
@@ -396,7 +396,7 @@
      fBinStatErrOpt
     </text>
    </g>
-   <line x1="0" y1="112" x2="533" y2="112" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M0,112L533,112" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
     <text fill="rgb(154,154,154)" text-anchor="start" dy=".4em" transform="translate(16,125)">
      Streamer
@@ -1656,8 +1656,8 @@
   <g transform="translate(120,688)">
    <path d="M4,4v132h533v-132z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0h533v132h-533z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
-   <rect x="0" y="0" width="533" height="20" style="fill: rgb(205,205,205);"></rect>
-   <line x1="0" y1="20" x2="533" y2="20" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M0,20H533V0H0Z" style="fill: rgb(205,205,205);"></path>
+   <path d="M0,20L533,20" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="12" space="preserve" font-weight="bold">
     <text fill="blue" text-anchor="middle" dy=".4em" transform="translate(267,10)">
      TAttLine
@@ -1683,7 +1683,7 @@
      fLineWidth
     </text>
    </g>
-   <line x1="0" y1="30" x2="533" y2="30" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M0,30L533,30" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
     <text fill="blue" text-anchor="start" dy=".4em" transform="translate(16,41)">
      Streamer
@@ -1798,8 +1798,8 @@
   <g transform="translate(120,832)">
    <path d="M4,4v122h533v-122z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0h533v122h-533z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
-   <rect x="0" y="0" width="533" height="20" style="fill: rgb(205,205,205);"></rect>
-   <line x1="0" y1="20" x2="533" y2="20" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M0,20H533V0H0Z" style="fill: rgb(205,205,205);"></path>
+   <path d="M0,20L533,20" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="12" space="preserve" font-weight="bold">
     <text fill="blue" text-anchor="middle" dy=".4em" transform="translate(267,10)">
      TAttFill
@@ -1820,7 +1820,7 @@
      fFillStyle
     </text>
    </g>
-   <line x1="0" y1="31" x2="533" y2="31" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M0,31L533,31" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
     <text fill="blue" text-anchor="start" dy=".4em" transform="translate(16,41)">
      Streamer
@@ -1925,8 +1925,8 @@
   <g transform="translate(120,966)">
    <path d="M4,4v132h533v-132z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0h533v132h-533z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
-   <rect x="0" y="0" width="533" height="20" style="fill: rgb(205,205,205);"></rect>
-   <line x1="0" y1="20" x2="533" y2="20" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M0,20H533V0H0Z" style="fill: rgb(205,205,205);"></path>
+   <path d="M0,20L533,20" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="12" space="preserve" font-weight="bold">
     <text fill="blue" text-anchor="middle" dy=".4em" transform="translate(267,10)">
      TAttMarker
@@ -1952,7 +1952,7 @@
      fMarkerSize
     </text>
    </g>
-   <line x1="0" y1="30" x2="533" y2="30" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M0,30L533,30" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
     <text fill="blue" text-anchor="start" dy=".4em" transform="translate(16,41)">
      Streamer
@@ -2062,8 +2062,8 @@
   <g transform="translate(682,15)">
    <path d="M4,4v570h152v-570z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0h152v570h-152z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
-   <rect x="0" y="0" width="152" height="20" style="fill: rgb(205,205,205);"></rect>
-   <line x1="0" y1="20" x2="152" y2="20" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M0,20H152V0H0Z" style="fill: rgb(205,205,205);"></path>
+   <path d="M0,20L152,20" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="12" space="preserve" font-weight="bold">
     <text fill="blue" text-anchor="middle" dy=".4em" transform="translate(76,10)">
      TH2
@@ -2094,7 +2094,7 @@
      fTsumwxy
     </text>
    </g>
-   <line x1="0" y1="60" x2="152" y2="60" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M0,60L152,60" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
     <text fill="rgb(154,154,154)" text-anchor="start" dy=".4em" transform="translate(5,73)">
      Streamer
@@ -2469,8 +2469,8 @@
   <g transform="translate(863,15)">
    <path d="M4,4v335h76v-335z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0h76v335h-76z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
-   <rect x="0" y="0" width="76" height="20" style="fill: rgb(205,205,205);"></rect>
-   <line x1="0" y1="20" x2="76" y2="20" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M0,20H76V0H0Z" style="fill: rgb(205,205,205);"></path>
+   <path d="M0,20L76,20" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="12" space="preserve" font-weight="bold">
     <text fill="blue" text-anchor="middle" dy=".4em" transform="translate(38,10)">
      TH2F
@@ -2481,7 +2481,7 @@
      fgIsA
     </text>
    </g>
-   <line x1="0" y1="47" x2="76" y2="47" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M0,47L76,47" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
     <text fill="blue" text-anchor="start" dy=".4em" transform="translate(2,60)">
      Streamer
@@ -2591,8 +2591,8 @@
   <g transform="translate(863,361)">
    <path d="M4,4v316h76v-316z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0h76v316h-76z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
-   <rect x="0" y="0" width="76" height="20" style="fill: rgb(205,205,205);"></rect>
-   <line x1="0" y1="20" x2="76" y2="20" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M0,20H76V0H0Z" style="fill: rgb(205,205,205);"></path>
+   <path d="M0,20L76,20" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="12" space="preserve" font-weight="bold">
     <text fill="blue" text-anchor="middle" dy=".4em" transform="translate(38,10)">
      TArrayF
@@ -2608,7 +2608,7 @@
      fArray
     </text>
    </g>
-   <line x1="0" y1="51" x2="76" y2="51" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M0,51L76,51" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
     <text fill="blue" text-anchor="start" dy=".4em" transform="translate(2,61)">
      Streamer
