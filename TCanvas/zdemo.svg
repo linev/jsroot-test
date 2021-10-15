@@ -2,7 +2,7 @@
  <title>
   ROOT canvas
  </title>
- <rect x="0" y="0" width="1200" height="800" style="fill: rgb(171,166,191);"></rect>
+ <path d="M0,0h1200v800h-1200z" style="fill: rgb(171,166,191);"></path>
  <g>
   <g transform="translate(48,22)" font-family="Times New Roman" font-size="25" space="preserve" font-weight="bold" font-style="italic">
    <path d="M3,3v53h1104v-53z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
@@ -22,11 +22,11 @@
    </text>
   </g>
   <svg viewBox="0 0 552 648" preserveAspectRatio="none" x="24" y="136" width="552" height="648">
-   <rect x="0" y="0" width="552" height="648" style="fill: rgb(173,189,199);"></rect>
+   <path d="M0,0h552v648h-552z" style="fill: rgb(173,189,199);"></path>
    <g>
     <g transform="translate(55,65)">
      <title></title>
-     <rect x="0" y="0" width="442" height="518" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></rect>
+     <path d="M0,0h442v518h-442z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="442" height="518" viewBox="0 0 442 518">
       <g>
        <path d="M130,61l38,60l28,48l21,44l17,41l14,40l13,42l11,45l10,48l9,55" style="stroke: rgb(125,153,209); stroke-width: 1; fill: none;"></path>
@@ -55,7 +55,7 @@
      </svg>
      <g>
       <g transform="translate(0,518)">
-       <line x1="0" y1="0" x2="442" y2="0" style="stroke: black; stroke-width: 1;"></line>
+       <path d="M0,0h442" style="stroke: black; stroke-width: 1;"></path>
        <path d="M0,-19v19m65,-10v10m38,-10v10m27,-10v10m21,-10v10m17,-10v10m15,-10v10m13,-10v10m11,-10v10m10,-19v19m65,-10v10m38,-10v10m27,-10v10m21,-10v10m17,-10v10m14,-10v10m13,-10v10m11,-10v10m10,-19v19" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="19" space="preserve">
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,5)">
@@ -70,7 +70,7 @@
        </g>
       </g>
       <g>
-       <line x1="0" y1="0" x2="0" y2="518" style="stroke: black; stroke-width: 1;"></line>
+       <path d="M0,0v518" style="stroke: black; stroke-width: 1;"></path>
        <path d="M17,518h-17m9,-16h-9m9,-9h-9m9,-6h-9m9,-5h-9m9,-4h-9m9,-4h-9m9,-3h-9m9,-2h-9m17,-3h-17m9,-15h-9m9,-10h-9m9,-6h-9m9,-5h-9m9,-4h-9m9,-4h-9m9,-3h-9m9,-2h-9m17,-3h-17m9,-15h-9m9,-9h-9m9,-7h-9m9,-5h-9m9,-4h-9m9,-3h-9m9,-3h-9m9,-3h-9m17,-2h-17m9,-16h-9m9,-9h-9m9,-7h-9m9,-5h-9m9,-4h-9m9,-3h-9m9,-3h-9m9,-3h-9m17,-2h-17m9,-16h-9m9,-9h-9m9,-6h-9m9,-5h-9m9,-5h-9m9,-3h-9m9,-3h-9m9,-3h-9m17,-2h-17m9,-16h-9m9,-9h-9m9,-6h-9m9,-5h-9m9,-4h-9m9,-4h-9m9,-3h-9m9,-2h-9m17,-3h-17m9,-15h-9m9,-10h-9m9,-6h-9m9,-5h-9m9,-4h-9m9,-4h-9m9,-3h-9m9,-2h-9m17,-3h-17m9,-15h-9m9,-9h-9m9,-7h-9m9,-5h-9m9,-4h-9m9,-3h-9m9,-3h-9m9,-3h-9m17,-2h-17m9,-16h-9m9,-9h-9m9,-7h-9m9,-5h-9m9,-4h-9m9,-3h-9m9,-3h-9m9,-3h-9m17,-2h-17m9,-16h-9m9,-9h-9m9,-6h-9m9,-5h-9m9,-5h-9m9,-3h-9m9,-3h-9m9,-3h-9m17,-2h-17" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="19" space="preserve">
         <text fill="black" text-anchor="start" transform="translate(-43,531)">
@@ -296,11 +296,11 @@
    </g>
   </svg>
   <svg viewBox="0 0 552 648" preserveAspectRatio="none" x="624" y="136" width="552" height="648">
-   <rect x="0" y="0" width="552" height="648" style="fill: rgb(173,189,199);"></rect>
+   <path d="M0,0h552v648h-552z" style="fill: rgb(173,189,199);"></path>
    <g>
     <g transform="translate(55,65)">
      <title></title>
-     <rect x="0" y="0" width="442" height="518" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></rect>
+     <path d="M0,0h442v518h-442z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="442" height="518" viewBox="0 0 442 518">
       <g>
        <path d="M63,25l78,119l39,60l29,44l25,38l22,33l21,32l20,31l20,30l19,30" style="stroke: rgb(89,84,217); stroke-width: 1; fill: none;"></path>
@@ -309,7 +309,7 @@
      </svg>
      <g>
       <g transform="translate(0,518)">
-       <line x1="0" y1="0" x2="442" y2="0" style="stroke: black; stroke-width: 1;"></line>
+       <path d="M0,0h442" style="stroke: black; stroke-width: 1;"></path>
        <path d="M0,-19v19m38,-10v10m22,-10v10m16,-10v10m12,-10v10m11,-10v10m8,-10v10m7,-10v10m7,-10v10m6,-19v19m38,-10v10m22,-10v10m16,-10v10m12,-10v10m10,-10v10m9,-10v10m7,-10v10m6,-10v10m6,-19v19m38,-10v10m23,-10v10m15,-10v10m13,-10v10m10,-10v10m8,-10v10m8,-10v10m6,-10v10m6,-19v19m38,-10v10m22,-10v10" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="19" space="preserve">
         <text fill="black" text-anchor="start" transform="translate(-14,32)">
@@ -347,7 +347,7 @@
        </g>
       </g>
       <g>
-       <line x1="0" y1="0" x2="0" y2="518" style="stroke: black; stroke-width: 1;"></line>
+       <path d="M0,0v518" style="stroke: black; stroke-width: 1;"></path>
        <path d="M17,518h-17m9,-11h-9m9,-7h-9m9,-4h-9m9,-4h-9m9,-3h-9m9,-2h-9m9,-2h-9m9,-2h-9m17,-2h-17m9,-11h-9m9,-7h-9m9,-4h-9m9,-4h-9m9,-3h-9m9,-2h-9m9,-2h-9m9,-2h-9m17,-2h-17m9,-11h-9m9,-7h-9m9,-4h-9m9,-4h-9m9,-3h-9m9,-2h-9m9,-2h-9m9,-2h-9m17,-2h-17m9,-11h-9m9,-7h-9m9,-4h-9m9,-4h-9m9,-3h-9m9,-2h-9m9,-2h-9m9,-2h-9m17,-2h-17m9,-11h-9m9,-7h-9m9,-4h-9m9,-4h-9m9,-3h-9m9,-2h-9m9,-2h-9m9,-2h-9m17,-2h-17m9,-11h-9m9,-7h-9m9,-4h-9m9,-4h-9m9,-3h-9m9,-2h-9m9,-2h-9m9,-2h-9m17,-2h-17m9,-11h-9m9,-7h-9m9,-4h-9m9,-4h-9m9,-3h-9m9,-2h-9m9,-2h-9m9,-2h-9m17,-2h-17m9,-11h-9m9,-7h-9m9,-4h-9m9,-4h-9m9,-3h-9m9,-2h-9m9,-2h-9m9,-2h-9m17,-2h-17m9,-11h-9m9,-7h-9m9,-4h-9m9,-4h-9m9,-3h-9m9,-2h-9m9,-2h-9m9,-2h-9m17,-2h-17m9,-11h-9m9,-7h-9m9,-4h-9m9,-4h-9m9,-3h-9m9,-2h-9m9,-2h-9m9,-2h-9m17,-2h-17m9,-11h-9m9,-7h-9m9,-4h-9m9,-4h-9m9,-3h-9m9,-2h-9m9,-2h-9m9,-2h-9m17,-2h-17m9,-11h-9m9,-7h-9m9,-4h-9m9,-4h-9m9,-3h-9m9,-2h-9m9,-2h-9m9,-2h-9m17,-2h-17m9,-11h-9m9,-7h-9m9,-4h-9m9,-4h-9m9,-3h-9m9,-2h-9m9,-2h-9m9,-2h-9m17,-2h-17m9,-11h-9m9,-7h-9m9,-4h-9m9,-4h-9m9,-3h-9m9,-2h-9m9,-2h-9m9,-2h-9m17,-2h-17" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="19" space="preserve">
         <text fill="black" text-anchor="start" transform="translate(-43,531)">

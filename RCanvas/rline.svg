@@ -2,7 +2,7 @@
  <title>
   ROOT canvas
  </title>
- <rect x="0" y="0" width="900" height="700" style="fill: white;"></rect>
+ <path d="M0,0h900v700h-900z" style="fill: white;"></path>
  <g>
   <g objname="name" objtype="ROOT::Experimental::RLine">
    <line x1="450" y1="350" x2="720" y2="350" style="stroke: #320000; stroke-width: 1;"></line>

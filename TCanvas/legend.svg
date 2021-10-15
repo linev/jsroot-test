@@ -7,11 +7,11 @@
  <title>
   legends.root/legends;1
  </title>
- <rect x="0" y="0" width="1200" height="800" style="fill: white;"></rect>
+ <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
  <g>
   <g transform="translate(120,80)">
    <title></title>
-   <rect x="0" y="0" width="960" height="640" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+   <path d="M0,0h960v640h-960z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
      <path d="M0,640h274v-1h4v1h24v-1h5v1h5v-1h5v-2h5v1h9v-4h5v-2h5v1h5v-10h4v-1h5v2h5v-18h5v2h5v-18h4v-7h5v-23h5v-14h5v-16h5v-18h4v-16h5v-38h5v-33h5v-13h5v-48h4v-36h5v-48h5v-16h5v-49h5v-22h4v-45h5v-30h5v-15h5v-10h5v-27h4v-9h5v-27h5v18h5v-14h5v31h4v5h5v26h5v40h5v49h5v20h4v30h5v32h5v27h5v29h5v34h4v49h5v33h5v9h5v42h5v18h4v25h5v20h5v14h5v14h5v13h9v18h5v5h5v3h5v4h4v7h5v2h5v3h5v4h5v-2h4v1h5v-2h5v2h5v1h5v-1h4v1h10v-1h5v1h283L960,643L0,643Z" style="stroke-linejoin: miter; stroke: rgb(0,0,153); stroke-width: 1; fill: url(#pat_3003_416);"></path>
@@ -58,7 +58,7 @@
    </svg>
    <g>
     <g transform="translate(0,640)">
-     <line x1="0" y1="0" x2="960" y2="0" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
      <path d="M0,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-24v24" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
       <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,6)">
@@ -97,7 +97,7 @@
      </g>
     </g>
     <g>
-     <line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
      <path d="M36,640h-36m18,-25h-18m18,-25h-18m18,-25h-18m36,-25h-36m18,-25h-18m18,-25h-18m18,-24h-18m36,-25h-36m18,-25h-18m18,-25h-18m18,-25h-18m36,-25h-36m18,-25h-18m18,-25h-18m18,-25h-18m36,-25h-36m18,-25h-18m18,-25h-18m18,-24h-18m36,-25h-36m18,-25h-18m18,-25h-18m18,-25h-18m36,-25h-36m18,-25h-18" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,640)">

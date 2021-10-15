@@ -2,14 +2,14 @@
  <title>
   ROOT canvas
  </title>
- <rect x="0" y="0" width="1200" height="800" style="fill: white;"></rect>
+ <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 1200 800" preserveAspectRatio="none" x="0" y="0" width="1200" height="800">
-   <rect x="0" y="0" width="1200" height="800" style="fill: white;"></rect>
+   <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
    <g>
     <g transform="translate(192,80)">
      <title></title>
-     <rect x="0" y="0" width="948" height="640" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+     <path d="M0,0h948v640h-948z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="948" height="640" viewBox="0 0 948 640">
       <g>
        <path d="M0,640h142v-241h24v-17h24v-26h23v-24h24v-35h24v-53h23v-53h24v-50h24v-44h24v-11h23v18h24v49h24v69h23v77h24v62h24v57h23v50h24v39h24v35h24v16h23v21h24v11h24v11h23v6h24v7h24v2h23v6h24v2h24v3h24v1h23v1h24v4h24v-2h23v2h24L948,643L0,643Z" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: rgb(155,197,61);"></path>
@@ -36,7 +36,7 @@
      </svg>
      <g>
       <g transform="translate(0,640)">
-       <line x1="0" y1="0" x2="948" y2="0" style="stroke: black; stroke-width: 1;"></line>
+       <path d="M0,0h948" style="stroke: black; stroke-width: 1;"></path>
        <path d="M0,-24v24m24,-12v12m23,-12v12m24,-12v12m24,-24v24m24,-12v12m23,-12v12m24,-12v12m24,-24v24m23,-12v12m24,-12v12m24,-12v12m23,-24v24m24,-12v12m24,-12v12m24,-12v12m23,-24v24m24,-12v12m24,-12v12m23,-12v12m24,-24v24m24,-12v12m23,-12v12m24,-12v12m24,-24v24m24,-12v12m23,-12v12m24,-12v12m24,-24v24m23,-12v12m24,-12v12m24,-12v12m23,-24v24m24,-12v12m24,-12v12m24,-12v12m23,-24v24m24,-12v12m24,-12v12m23,-12v12m24,-24v24" style="stroke: black; stroke-width: 1;"></path>
        <path d="M0,-616v-24m24,12v-12m23,12v-12m24,12v-12m24,24v-24m24,12v-12m23,12v-12m24,12v-12m24,24v-24m23,12v-12m24,12v-12m24,12v-12m23,24v-24m24,12v-12m24,12v-12m24,12v-12m23,24v-24m24,12v-12m24,12v-12m23,12v-12m24,24v-24m24,12v-12m23,12v-12m24,12v-12m24,24v-24m24,12v-12m23,12v-12m24,12v-12m24,24v-24m23,12v-12m24,12v-12m24,12v-12m23,24v-24m24,12v-12m24,12v-12m24,12v-12m23,24v-24m24,12v-12m24,12v-12m23,12v-12m24,24v-24" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="25" space="preserve">
@@ -89,7 +89,7 @@
        </g>
       </g>
       <g>
-       <line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line>
+       <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
        <path d="M36,640h-36m18,-19h-18m18,-20h-18m18,-19h-18m18,-20h-18m36,-19h-36m18,-20h-18m18,-19h-18m18,-20h-18m18,-19h-18m36,-20h-36m18,-19h-18m18,-20h-18m18,-19h-18m18,-19h-18m36,-20h-36m18,-19h-18m18,-20h-18m18,-19h-18m18,-20h-18m36,-19h-36m18,-20h-18m18,-19h-18m18,-20h-18m18,-19h-18m36,-20h-36m18,-19h-18m18,-20h-18m18,-19h-18m18,-19h-18m36,-20h-36m18,-19h-18m18,-20h-18" style="stroke: black; stroke-width: 1;"></path>
        <path d="M912,640h36m-18,-19h18m-18,-20h18m-18,-19h18m-18,-20h18m-36,-19h36m-18,-20h18m-18,-19h18m-18,-20h18m-18,-19h18m-36,-20h36m-18,-19h18m-18,-20h18m-18,-19h18m-18,-19h18m-36,-20h36m-18,-19h18m-18,-20h18m-18,-19h18m-18,-20h18m-36,-19h36m-18,-20h18m-18,-19h18m-18,-20h18m-18,-19h18m-36,-20h36m-18,-19h18m-18,-20h18m-18,-19h18m-18,-19h18m-36,-20h36m-18,-19h18m-18,-20h18" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="25" space="preserve">

@@ -2,7 +2,7 @@
  <title>
   ROOT canvas
  </title>
- <rect x="0" y="0" width="1000" height="800" style="fill: white;"></rect>
+ <path d="M0,0h1000v800h-1000z" style="fill: white;"></path>
  <g>
   <g objname="name" objtype="ROOT::Experimental::RAxisDrawable" transform="translate(30,720)">
    <path d="M0,0v-640" style="stroke: black; stroke-width: 1;"></path>

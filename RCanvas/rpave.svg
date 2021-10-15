@@ -19,7 +19,7 @@
  <title>
   ROOT canvas
  </title>
- <rect x="0" y="0" width="1000" height="700" style="fill: white;"></rect>
+ <path d="M0,0h1000v700h-1000z" style="fill: white;"></path>
  <g>
   <g objname="name" objtype="ROOT::Experimental::RPaveText" transform="translate(550,455)" x="550" y="455" width="400" height="210" font-family="CustomFont" font-size="21" space="preserve">
    <rect x="0" width="400" y="0" height="210" style="stroke: black; stroke-width: 1; fill: url(#pat_3004_008000);"></rect>

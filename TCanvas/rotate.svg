@@ -7,11 +7,11 @@
  <title>
   ROOT canvas
  </title>
- <rect x="0" y="0" width="1200" height="800" style="fill: white;"></rect>
+ <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
  <g>
   <g transform="translate(120,80) rotate(-90) translate(-640,0)">
    <title></title>
-   <rect x="0" y="0" width="640" height="960" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+   <path d="M0,0h640v960h-640z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="640" height="960" viewBox="0 0 640 960">
     <g>
      <path d="M0,960h176v-1h3v1h3v-1h4v1h16v-1h3v1h3v-1h3v-4h3v1h4v1h3v-7h3v-3h3v2h3v-15h4v-2h3v4h3v-28h3v3h3v-26h4v-11h3v-34h3v-21h3v-24h3v-26h4v-24h3v-58h3v-50h3v-19h3v-72h4v-55h3v-71h3v-24h3v-73h3v-34h4v-67h3v-45h3v-22h3v-15h3v-41h4v-14h3v-39h3v26h3v-20h3v46h4v7h3v39h3v60h3v74h3v29h4v45h3v49h3v40h3v44h3v51h4v73h3v49h3v13h3v65h3v27h4v37h3v29h3v21h3v21h3v19h4v1h3v27h3v7h3v4h3v6h4v11h3v4h3v3h3v6h3v-3h4v2h3v-2h3v3h10v1h6v-2h3v2h189L640,963L0,963Z" style="stroke-linejoin: miter; stroke: rgb(0,0,153); stroke-width: 1; fill: url(#pat_3003_416);"></path>
@@ -58,7 +58,7 @@
    </svg>
    <g>
     <g transform="translate(0,960)">
-     <line x1="0" y1="0" x2="640" y2="0" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,0h640" style="stroke: black; stroke-width: 1;"></path>
      <path d="M0,-24v24m16,-12v12m16,-12v12m16,-12v12m16,-24v24m16,-12v12m16,-12v12m16,-12v12m16,-24v24m16,-12v12m16,-12v12m16,-12v12m16,-24v24m16,-12v12m16,-12v12m16,-12v12m16,-24v24m16,-12v12m16,-12v12m16,-12v12m16,-24v24m16,-12v12m16,-12v12m16,-12v12m16,-24v24m16,-12v12m16,-12v12m16,-12v12m16,-24v24m16,-12v12m16,-12v12m16,-12v12m16,-24v24m16,-12v12m16,-12v12m16,-12v12m16,-24v24m16,-12v12m16,-12v12m16,-12v12m16,-24v24" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
       <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,6)">
@@ -97,7 +97,7 @@
      </g>
     </g>
     <g>
-     <line x1="0" y1="0" x2="0" y2="960" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,0v960" style="stroke: black; stroke-width: 1;"></path>
      <path d="M36,960h-36m18,-37h-18m18,-38h-18m18,-37h-18m36,-38h-36m18,-37h-18m18,-37h-18m18,-38h-18m36,-37h-36m18,-37h-18m18,-38h-18m18,-37h-18m36,-38h-36m18,-37h-18m18,-37h-18m18,-38h-18m36,-37h-36m18,-37h-18m18,-38h-18m18,-37h-18m36,-38h-36m18,-37h-18m18,-37h-18m18,-38h-18m36,-37h-36m18,-37h-18" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,960)">

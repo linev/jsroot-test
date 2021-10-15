@@ -2,10 +2,10 @@
  <title>
   ROOT canvas
  </title>
- <rect x="0" y="0" width="500" height="900" style="fill: white;"></rect>
+ <path d="M0,0h500v900h-500z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 500 300" preserveAspectRatio="none" x="0" y="0" width="500" height="300">
-   <rect x="0" y="0" width="500" height="300" style="fill: none;"></rect>
+   <path d="M0,0h500v300h-500z" style="fill: none;"></path>
    <g>
     <g transform="translate(50,36)">
      <title></title>
@@ -626,7 +626,7 @@
    </g>
   </svg>
   <svg viewBox="0 0 500 300" preserveAspectRatio="none" x="0" y="300" width="500" height="300">
-   <rect x="0" y="0" width="500" height="300" style="fill: none;"></rect>
+   <path d="M0,0h500v300h-500z" style="fill: none;"></path>
    <g>
     <g transform="translate(50,36)">
      <title></title>
@@ -1269,7 +1269,7 @@
    </g>
   </svg>
   <svg viewBox="0 0 500 300" preserveAspectRatio="none" x="0" y="600" width="500" height="300">
-   <rect x="0" y="0" width="500" height="300" style="fill: none;"></rect>
+   <path d="M0,0h500v300h-500z" style="fill: none;"></path>
    <g>
     <g transform="translate(50,36)">
      <title></title>

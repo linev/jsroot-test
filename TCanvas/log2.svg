@@ -16,11 +16,11 @@
  <title>
   ROOT canvas
  </title>
- <rect x="0" y="0" width="1200" height="800" style="fill: white;"></rect>
+ <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
  <g>
   <g transform="translate(120,80)">
    <title></title>
-   <rect x="0" y="0" width="960" height="640" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+   <path d="M0,0h960v640h-960z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <g>
     <path d="M103,0v640M392,0v640M681,0v640" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
     <path d="M0,640h960M0,527h960M0,413h960M0,300h960M0,186h960M0,73h960" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
@@ -48,7 +48,7 @@
    </svg>
    <g>
     <g transform="translate(0,640)">
-     <line x1="0" y1="0" x2="960" y2="0" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
      <path d="M103,-16v16m289,-16v16m289,-16v16" style="stroke: black; stroke-width: 1;"></path>
      <path d="M103,-624v-16m289,16v-16m289,16v-16" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="24" space="preserve">
@@ -92,7 +92,7 @@
      </g>
     </g>
     <g>
-     <line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
      <path d="M36,640h-36m36,-113h-36m36,-114h-36m36,-113h-36m36,-114h-36m36,-113h-36" style="stroke: black; stroke-width: 1;"></path>
      <path d="M924,640h36m-36,-113h36m-36,-114h36m-36,-113h36m-36,-114h36m-36,-113h36" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="24" space="preserve">
