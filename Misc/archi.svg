@@ -2,7 +2,7 @@
  <title>
   ROOT canvas
  </title>
- <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(234,15)" font-family="Arial" font-size="38" space="preserve" font-weight="bold">
    <path d="M3,3v46h702v-46z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
@@ -326,7 +326,7 @@
    </text>
   </g>
   <svg viewBox="0 0 696 232" preserveAspectRatio="none" x="444" y="552" width="696" height="232">
-   <path d="M0,0h696v232h-696z" style="fill: rgb(148,105,113);"></path>
+   <path d="M0,0H696V232H0Z" style="fill: rgb(148,105,113);"></path>
    <g>
     <g transform="translate(29,58)">
      <path d="M24,-24h116v145h-116z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>

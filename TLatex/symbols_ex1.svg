@@ -2,7 +2,7 @@
  <title>
   ROOT canvas
  </title>
- <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g font-family="Arial" font-size="29" space="preserve" font-weight="bold">
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(120,160)">

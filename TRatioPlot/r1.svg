@@ -2,14 +2,14 @@
  <title>
   ROOT canvas
  </title>
- <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 1194 558" preserveAspectRatio="none" x="3" y="2" width="1194" height="558">
-   <path d="M0,0h1194v558h-1194z" style="fill: white;"></path>
+   <path d="M0,0H1194V558H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(119,56)">
      <title></title>
-     <path d="M0,0h955v474h-955z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H955V474H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="955" height="474" viewBox="0 0 955 474">
       <g>
        <path d="M0,59h19v-37h19v114h19v-23h19v53h20v54h19v-30h19v30h19v-37h19v43h19v20h19v17h19v30h19v-3h19v-3h20v10h19v-4h19v37h19v30h19v7h19v-24h19v61h19v-34h19v14h19v16h20v-20h19v30h19v-3h19v10h19v3h19v4h19v27h19v-27h19v20h19v-20h20v3h19v7h19v7h19v3h19v-14h19v4h19v23h19v-16h19v13h19v-10h20v10h38v13h19v-23h19v10h19" style="stroke-linejoin: miter; stroke: rgb(0,0,154); stroke-width: 1; fill: none;"></path>
@@ -70,11 +70,11 @@
    </g>
   </svg>
   <svg viewBox="0 0 1194 238" preserveAspectRatio="none" x="3" y="560" width="1194" height="238">
-   <path d="M0,0h1194v238h-1194z" style="fill: white;"></path>
+   <path d="M0,0H1194V238H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(119,12)">
      <title></title>
-     <path d="M0,0h955v155h-955z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H955V155H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="955" height="155" viewBox="0 0 955 155">
       <g>
        <g transform="translate(10,132)">
@@ -299,7 +299,7 @@
    </g>
   </svg>
   <svg viewBox="0 0 1194 796" preserveAspectRatio="none" x="3" y="2" width="1194" height="796" display="none">
-   <path d="M0,0h1194v796h-1194z" style="fill: white; opacity: 0;"></path>
+   <path d="M0,0H1194V796H0Z" style="fill: white; opacity: 0;"></path>
   </svg>
  </g>
 </svg>

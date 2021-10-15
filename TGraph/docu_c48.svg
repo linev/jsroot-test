@@ -2,14 +2,14 @@
  <title>
   ROOT canvas
  </title>
- <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 576 784" preserveAspectRatio="none" x="12" y="8" width="576" height="784">
-   <path d="M0,0h576v784h-576z" style="fill: white;"></path>
+   <path d="M0,0H576V784H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(58,78)">
      <title></title>
-     <path d="M0,0h461v627h-461z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H461V627H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="461" height="627" viewBox="0 0 461 627">
       <g>
        <path d="M115.25,548.63C118.97,541.03,225.93,325.94,230.5,313.5S344.22,-73.18,345.75,-78.38" style="stroke: black; stroke-width: 1; fill: none;"></path>
@@ -94,11 +94,11 @@
    </g>
   </svg>
   <svg viewBox="0 0 576 784" preserveAspectRatio="none" x="612" y="8" width="576" height="784">
-   <path d="M0,0h576v784h-576z" style="fill: white;"></path>
+   <path d="M0,0H576V784H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(58,78)">
      <title></title>
-     <path d="M0,0h461v627h-461z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H461V627H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="461" height="627" viewBox="0 0 461 627">
       <g>
        <path d="M115.25,548.63C118.97,541.03,225.93,325.94,230.5,313.5S344.22,-73.18,345.75,-78.38" style="stroke: black; stroke-width: 1; fill: none;"></path>

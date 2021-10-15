@@ -2,7 +2,7 @@
  <title>
   ROOT canvas
  </title>
- <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="32" space="preserve" font-style="oblique">
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(360,520)">

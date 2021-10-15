@@ -2,14 +2,14 @@
  <title>
   ROOT canvas
  </title>
- <path d="M0,0h1200v800h-1200z" style="fill: rgb(222,186,135);"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: rgb(222,186,135);"></path>
  <g>
   <svg viewBox="0 0 1176 384" preserveAspectRatio="none" x="12" y="8" width="1176" height="384">
-   <path d="M0,0h1176v384h-1176z" style="fill: rgb(222,186,135);"></path>
+   <path d="M0,0H1176V384H0Z" style="fill: rgb(222,186,135);"></path>
    <g>
     <g transform="translate(118,38)">
      <title></title>
-     <path d="M0,0h941v307h-941z" style="fill: rgb(173,189,199); stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H941V307H0Z" style="fill: rgb(173,189,199); stroke: black; stroke-width: 1;"></path>
      <g>
       <path d="M0,307h941M0,287h941M0,266h941M0,246h941M0,225h941M0,205h941M0,184h941M0,164h941M0,143h941M0,123h941M0,102h941M0,82h941M0,61h941M0,41h941M0,20h941M0,0h941" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
       <path d="M35,0v307M85,0v307M120,0v307M148,0v307M170,0v307M189,0v307M206,0v307M220,0v307M233,0v307M318,0v307M368,0v307M403,0v307M431,0v307M453,0v307M472,0v307M488,0v307M503,0v307M516,0v307M601,0v307M651,0v307M686,0v307M714,0v307M736,0v307M755,0v307M771,0v307M786,0v307M799,0v307M884,0v307M934,0v307" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
@@ -144,11 +144,11 @@
    </g>
   </svg>
   <svg viewBox="0 0 1176 384" preserveAspectRatio="none" x="12" y="408" width="1176" height="384">
-   <path d="M0,0h1176v384h-1176z" style="fill: rgb(222,186,135);"></path>
+   <path d="M0,0H1176V384H0Z" style="fill: rgb(222,186,135);"></path>
    <g>
     <g transform="translate(118,38)">
      <title></title>
-     <path d="M0,0h941v307h-941z" style="fill: rgb(173,189,199); stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H941V307H0Z" style="fill: rgb(173,189,199); stroke: black; stroke-width: 1;"></path>
      <g>
       <path d="M0,0v307M72,0v307M145,0v307M217,0v307M290,0v307M362,0v307M434,0v307M507,0v307M579,0v307M651,0v307M724,0v307M796,0v307M869,0v307M941,0v307" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
       <path d="M0,307h941M0,252h941M0,197h941M0,142h941M0,87h941M0,32h941" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>

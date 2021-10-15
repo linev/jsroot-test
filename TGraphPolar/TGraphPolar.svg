@@ -7,10 +7,10 @@
  <title>
   ROOT canvas
  </title>
- <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 576 784" preserveAspectRatio="none" x="12" y="8" width="576" height="784">
-   <path d="M0,0h576v784h-576z" style="fill: white;"></path>
+   <path d="M0,0H576V784H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(288,392)" font-family="Arial" font-size="25" space="preserve" font-weight="bold">
      <ellipse cx="0" cy="0" rx="19" ry="26" style="fill: none; stroke: black; stroke-width: 1;"></ellipse>
@@ -116,7 +116,7 @@
    </g>
   </svg>
   <svg viewBox="0 0 576 784" preserveAspectRatio="none" x="612" y="8" width="576" height="784">
-   <path d="M0,0h576v784h-576z" style="fill: white;"></path>
+   <path d="M0,0H576V784H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(288,392)" font-family="Arial" font-size="25" space="preserve" font-weight="bold">
      <ellipse cx="0" cy="0" rx="19" ry="26" style="fill: none; stroke: black; stroke-width: 1;"></ellipse>

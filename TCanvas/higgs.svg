@@ -2,11 +2,11 @@
  <title>
   ROOT canvas
  </title>
- <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(120,80)">
    <title></title>
-   <path d="M0,0h921v640h-921z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H921V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="921" height="640" viewBox="0 0 921 640">
     <g>
      <path fill="rgb(51,46,141)" d="M447,570h9v-52h-9zm9,6h9v-70h-9zm9,6h9v-83h-9zm9,7h10v-90h-10zm10,0h9v-90h-9zm9,0h9v-90h-9zm9,0h10v-83h-10zm10,0h9v-77h-9zm9,-7h9v-64h-9zm9,-6h10v-45h-10z"></path>

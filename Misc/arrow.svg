@@ -8,7 +8,7 @@
  <title>
   ROOT canvas
  </title>
- <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(120,40)" font-family="Arial" font-size="49" space="preserve" font-weight="bold">
    <path d="M3,3v120h960v-120z" style="fill: black; stroke: black; stroke-width: 1px;"></path>

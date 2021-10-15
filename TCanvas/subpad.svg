@@ -2,11 +2,11 @@
  <title>
   rf107_plotstyles;1/[0]
  </title>
- <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(180,80)">
    <title></title>
-   <path d="M0,0h900v640h-900z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H900V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="900" height="640" viewBox="0 0 900 640">
     <g>
      <g transform="translate(23,594)">

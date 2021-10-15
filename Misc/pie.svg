@@ -10,10 +10,10 @@
  <title>
   ROOT canvas
  </title>
- <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 576 384" preserveAspectRatio="none" x="12" y="8" width="576" height="384">
-   <path d="M0,0h576v384h-576z" style="fill: white;"></path>
+   <path d="M0,0H576V384H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(288,192)">
      <path d="M0,0L175,-67A202,-134,0,0,0,145,-93z" style="stroke: black; stroke-width: 1; fill: none;"></path>
@@ -25,7 +25,7 @@
    </g>
   </svg>
   <svg viewBox="0 0 576 384" preserveAspectRatio="none" x="612" y="8" width="576" height="384">
-   <path d="M0,0h576v384h-576z" style="fill: white;"></path>
+   <path d="M0,0H576V384H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(288,211)">
      <path d="M0,0L173,0A173,-115,0,0,0,168,-28z" style="stroke: black; stroke-width: 1; fill: red;"></path>
@@ -37,7 +37,7 @@
    </g>
   </svg>
   <svg viewBox="0 0 576 384" preserveAspectRatio="none" x="12" y="408" width="576" height="384">
-   <path d="M0,0h576v384h-576z" style="fill: white;"></path>
+   <path d="M0,0H576V384H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(288,261)">
      <path d="M0,0L230,0A230,-153,0,0,0,146,-118z" style="stroke: black; stroke-width: 1; fill: red;"></path>
@@ -72,7 +72,7 @@
    </g>
   </svg>
   <svg viewBox="0 0 576 384" preserveAspectRatio="none" x="612" y="408" width="576" height="384">
-   <path d="M0,0h576v384h-576z" style="fill: white;"></path>
+   <path d="M0,0H576V384H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(288,192)">
      <path d="M0,0L115,0A115,-77,0,0,0,112,-19z" style="stroke: black; stroke-width: 1; fill: red;"></path>

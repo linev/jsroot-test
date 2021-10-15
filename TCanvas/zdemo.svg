@@ -2,7 +2,7 @@
  <title>
   ROOT canvas
  </title>
- <path d="M0,0h1200v800h-1200z" style="fill: rgb(171,166,191);"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: rgb(171,166,191);"></path>
  <g>
   <g transform="translate(48,22)" font-family="Times New Roman" font-size="25" space="preserve" font-weight="bold" font-style="italic">
    <path d="M3,3v53h1104v-53z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
@@ -22,11 +22,11 @@
    </text>
   </g>
   <svg viewBox="0 0 552 648" preserveAspectRatio="none" x="24" y="136" width="552" height="648">
-   <path d="M0,0h552v648h-552z" style="fill: rgb(173,189,199);"></path>
+   <path d="M0,0H552V648H0Z" style="fill: rgb(173,189,199);"></path>
    <g>
     <g transform="translate(55,65)">
      <title></title>
-     <path d="M0,0h442v518h-442z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H442V518H0Z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="442" height="518" viewBox="0 0 442 518">
       <g>
        <path d="M130,61l38,60l28,48l21,44l17,41l14,40l13,42l11,45l10,48l9,55" style="stroke: rgb(125,153,209); stroke-width: 1; fill: none;"></path>
@@ -296,11 +296,11 @@
    </g>
   </svg>
   <svg viewBox="0 0 552 648" preserveAspectRatio="none" x="624" y="136" width="552" height="648">
-   <path d="M0,0h552v648h-552z" style="fill: rgb(173,189,199);"></path>
+   <path d="M0,0H552V648H0Z" style="fill: rgb(173,189,199);"></path>
    <g>
     <g transform="translate(55,65)">
      <title></title>
-     <path d="M0,0h442v518h-442z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H442V518H0Z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="442" height="518" viewBox="0 0 442 518">
       <g>
        <path d="M63,25l78,119l39,60l29,44l25,38l22,33l21,32l20,31l20,30l19,30" style="stroke: rgb(89,84,217); stroke-width: 1; fill: none;"></path>

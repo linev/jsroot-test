@@ -14,7 +14,7 @@
  <title>
   ROOT canvas
  </title>
- <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(600,400)">
    <path style="stroke: black; stroke-width: 4; stroke-dasharray: 3,3; fill: white;" d="M-360,0A360,240,0,1,0,360,0A360,240,0,1,0,-360,0M-480,0A480,320,0,1,0,480,0A480,320,0,1,0,-480,0"></path>

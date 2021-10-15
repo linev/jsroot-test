@@ -2,11 +2,11 @@
  <title>
   ROOT canvas
  </title>
- <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(180,80)">
    <title></title>
-   <path d="M0,0h900v600h-900z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H900V600H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <g>
     <path d="M0,0v600M45,0v600M90,0v600M135,0v600M180,0v600M225,0v600M270,0v600M315,0v600M360,0v600M405,0v600M450,0v600M495,0v600M540,0v600M585,0v600M630,0v600M675,0v600M720,0v600M765,0v600M810,0v600M855,0v600M900,0v600" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
     <path d="M0,600h900M0,550h900M0,500h900M0,450h900M0,400h900M0,350h900M0,300h900M0,250h900M0,200h900M0,150h900M0,100h900M0,50h900M0,0h900" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>

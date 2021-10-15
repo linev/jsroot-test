@@ -2,14 +2,14 @@
  <title>
   ROOT canvas
  </title>
- <path d="M0,0h1200v800h-1200z" style="fill: rgb(133,195,164);"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: rgb(133,195,164);"></path>
  <g>
   <svg viewBox="0 0 564 240" preserveAspectRatio="none" x="36" y="64" width="564" height="240">
-   <path d="M0,0h564v240h-564z" style="fill: rgb(131,159,141);"></path>
+   <path d="M0,0H564V240H0Z" style="fill: rgb(131,159,141);"></path>
    <g>
     <g transform="translate(56,24)">
      <title></title>
-     <path d="M0,0h451v192h-451z" style="fill: rgb(131,159,141); stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H451V192H0Z" style="fill: rgb(131,159,141); stroke: black; stroke-width: 1;"></path>
      <g>
       <path d="M0,179h451M0,168h451M0,160h451M0,153h451M0,147h451M0,142h451M0,137h451M0,133h451M0,107h451M0,92h451M0,81h451M0,73h451M0,66h451M0,60h451M0,55h451M0,50h451M0,46h451M0,20h451M0,5h451" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
      </g>
@@ -107,11 +107,11 @@
    </g>
   </svg>
   <svg viewBox="0 0 564 240" preserveAspectRatio="none" x="612" y="64" width="564" height="240">
-   <path d="M0,0h564v240h-564z" style="fill: rgb(174,189,200);"></path>
+   <path d="M0,0H564V240H0Z" style="fill: rgb(174,189,200);"></path>
    <g>
     <g transform="translate(56,24)">
      <title></title>
-     <path d="M0,0h451v192h-451z" style="fill: rgb(174,189,200); stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H451V192H0Z" style="fill: rgb(174,189,200); stroke: black; stroke-width: 1;"></path>
      <g>
       <path d="M105,0v192M188,0v192M247,0v192M293,0v192M330,0v192M362,0v192M389,0v192M414,0v192M435,0v192" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
      </g>
@@ -269,11 +269,11 @@
    </g>
   </svg>
   <svg viewBox="0 0 1128 412" preserveAspectRatio="none" x="36" y="372" width="1128" height="412">
-   <path d="M0,0h1128v412h-1128z" style="fill: rgb(125,154,210);"></path>
+   <path d="M0,0H1128V412H0Z" style="fill: rgb(125,154,210);"></path>
    <g>
     <g transform="translate(113,41)">
      <title></title>
-     <path d="M0,0h902v330h-902z" style="fill: rgb(125,154,210); stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H902V330H0Z" style="fill: rgb(125,154,210); stroke: black; stroke-width: 1;"></path>
      <g>
       <path d="M0,0v330M205,0v330M325,0v330M411,0v330M477,0v330M531,0v330M577,0v330M616,0v330M651,0v330M682,0v330M888,0v330" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
       <path d="M0,306h902M0,282h902M0,262h902M0,244h902M0,227h902M0,121h902M0,58h902M0,14h902" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>

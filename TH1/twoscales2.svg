@@ -2,11 +2,11 @@
  <title>
   transpad/pad2/[0]
  </title>
- <path d="M0,0h1200v800h-1200z" style="fill: none;"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: none;"></path>
  <g>
   <g transform="translate(120,80)">
    <title></title>
-   <path d="M0,0h960v640h-960z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
      <path d="M0,640h67v-12h39v-23h9v23h10v-23h9v12h10v-35h10v-11h9v-23h10v34h9v-57h10v-184h10v92h9v-58h19v-69h10v12h10v-58h9v-103h10v-104h9v161h10v-115h10v-69h9v173h10v-161h9v11h10v58h10v-81h9v173h10v115h9v-81h10v-34h10v184h9v-81h10v58h9v103h10v-34h10v57h9v-11h10v46h9v34h10v58h10v-35h9v58h19v-23h20v11h9v12h413" style="stroke-linejoin: miter; stroke: rgb(0,0,154); stroke-width: 1; fill: none;"></path>

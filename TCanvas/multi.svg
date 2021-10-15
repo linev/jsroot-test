@@ -2,17 +2,17 @@
  <title>
   ROOT canvas
  </title>
- <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 1200 0" preserveAspectRatio="none" x="0" y="0" width="1200" height="0">
-   <path d="M0,0h1200v0h-1200z" style="fill: white;"></path>
+   <path d="M0,0H1200V0H0Z" style="fill: white;"></path>
   </svg>
   <svg viewBox="0 0 1200 800" preserveAspectRatio="none" x="0" y="0" width="1200" height="800">
-   <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
+   <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(180,40)">
      <title></title>
-     <path d="M0,0h960v632h-960z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H960V632H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="960" height="632" viewBox="0 0 960 632">
       <g objname="xband_total_CT10_Gridsjetatlasincljets2011nlojetatlas_2011_jet_antiktr04_incljetpt_eta1.txtLowEdge" objtype="TH1D">
        <path d="M32,467h88v-3h38v-2h73v-3h64v-3h29v1h28v-2h28v-1h50v4h25v3h24v3h23v3h23v4h23v2h21v3h22v4h21v2h20v3h20v3h19v3h19v4h19v3h19v4h18v5h23v7h36v12h47v19h79" style="stroke-linejoin: miter; stroke: rgb(255,153,0); stroke-width: 4; fill: none;"></path>

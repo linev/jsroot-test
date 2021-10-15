@@ -2,14 +2,14 @@
  <title>
   ROOT canvas
  </title>
- <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 1194 558" preserveAspectRatio="none" x="3" y="2" width="1194" height="558">
-   <path d="M0,0h1194v558h-1194z" style="fill: white;"></path>
+   <path d="M0,0H1194V558H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(119,56)">
      <title></title>
-     <path d="M0,0h955v474h-955z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H955V474H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="955" height="474" viewBox="0 0 955 474">
       <g>
        <path d="M0,474h57v-3h19v3h58v-3h19v3h19v-3h19v-2h19v-11h57v-47h20v-2h19v-21h19v-55h19v-52h19v-26h19v-63h19v-44h19v2h19v-75h19v-52h20v28h19v21h19v-5h19v94h19v55h19v49h19v58h19v23h19v24h19v28h20v26h19v13h19v19h19v2h19v8h19v5h19v3h19v-5h19v5h39v-3h19v3h76" style="stroke-linejoin: miter; stroke: rgb(0,0,154); stroke-width: 1; fill: none;"></path>
@@ -76,11 +76,11 @@
    </g>
   </svg>
   <svg viewBox="0 0 1194 238" preserveAspectRatio="none" x="3" y="560" width="1194" height="238">
-   <path d="M0,0h1194v238h-1194z" style="fill: white;"></path>
+   <path d="M0,0H1194V238H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(119,12)">
      <title></title>
-     <path d="M0,0h955v155h-955z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H955V155H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="955" height="155" viewBox="0 0 955 155">
       <g>
        <path d="M86,79l76,13l39,24l19,3l19,-6l19,13l19,16l19,-24l19,8h19l19,-5l19,-2l20,2l19,-1l19,1l19,4l19,-3l19,-3l19,-1l19,-2l19,-4l19,2h20l19,1l19,2l19,-2l19,-3l19,-2l19,-2l19,-5l19,-1l19,-7l20,-2h19l38,-12l57,-3L888,77l-57,-3l-38,-12h-19l-20,-2l-19,-7l-19,-1l-19,-5l-19,-2l-19,-2l-19,-3l-19,-2l-19,2l-19,1h-20l-19,2l-19,-4l-19,-2l-19,-1l-19,-3l-19,-3l-19,4l-19,1l-19,-1l-20,2l-19,-2l-19,-5h-19l-19,8l-19,-24l-19,16l-19,13l-19,-6l-19,3l-39,24l-76,13Z" style="stroke: none; fill: rgb(0,255,0);"></path>
@@ -160,7 +160,7 @@
    </g>
   </svg>
   <svg viewBox="0 0 1194 796" preserveAspectRatio="none" x="3" y="2" width="1194" height="796" display="none">
-   <path d="M0,0h1194v796h-1194z" style="fill: white; opacity: 0;"></path>
+   <path d="M0,0H1194V796H0Z" style="fill: white; opacity: 0;"></path>
   </svg>
  </g>
 </svg>
