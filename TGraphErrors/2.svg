@@ -10,19 +10,19 @@
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
      <g transform="translate(97,498)">
-      <rect x="-17" y="-89" width="34" height="178" style="fill: black;"></rect>
+      <path d="M-17,89H17V-89H-17Z" style="fill: black;"></path>
      </g>
      <g transform="translate(271,320)">
-      <rect x="-35" y="-44" width="70" height="88" style="fill: black;"></rect>
+      <path d="M-35,44H35V-44H-35Z" style="fill: black;"></path>
      </g>
      <g transform="translate(445,142)">
-      <rect x="-52" y="-89" width="104" height="178" style="fill: black;"></rect>
+      <path d="M-52,89H52V-89H-52Z" style="fill: black;"></path>
      </g>
      <g transform="translate(619,409)">
-      <rect x="-70" y="-44" width="140" height="88" style="fill: black;"></rect>
+      <path d="M-70,44H70V-44H-70Z" style="fill: black;"></path>
      </g>
      <g transform="translate(793,231)">
-      <rect x="-87" y="-89" width="174" height="178" style="fill: black;"></rect>
+      <path d="M-87,89H87V-89H-87Z" style="fill: black;"></path>
      </g>
     </g>
    </svg>

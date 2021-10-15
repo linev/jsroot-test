@@ -130,7 +130,7 @@
    <path d="M0,0H48V514H0Z" style="fill: rgb(207,94,97); stroke: black; stroke-width: 1;"></path>
    <g>
     <g>
-     <rect x="4" y="0" width="40" height="514" style="fill: rgb(125,153,209);"></rect>
+     <path d="M4,0h40v514h-40z" style="fill: rgb(125,153,209);"></path>
      <path d="M4,0h40l-2,2h-36v510l-2,2z" style="stroke: none; fill: rgb(149, 183, 250);"></path>
      <path d="M44,514v-514l-2,2v510h-36l-2,2z" style="stroke: none; fill: rgb(105, 128, 175);"></path>
     </g>

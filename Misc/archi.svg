@@ -112,7 +112,7 @@
    </text>
   </g>
   <g>
-   <rect x="457" y="277" width="316" height="215" style="fill: rgb(193,183,173);"></rect>
+   <path d="M457,277h316v215h-316z" style="fill: rgb(193,183,173);"></path>
    <path d="M457,277h316l-12,12h-292v191l-12,12z" style="stroke: none; fill: rgb(231, 219, 207);"></path>
    <path d="M773,492v-215l-12,12v191h-292l-12,12z" style="stroke: none; fill: rgb(161, 153, 145);"></path>
   </g>
@@ -145,7 +145,7 @@
    </text>
   </g>
   <g>
-   <rect x="907" y="277" width="264" height="215" style="fill: rgb(193,183,173);"></rect>
+   <path d="M907,277h264v215h-264z" style="fill: rgb(193,183,173);"></path>
    <path d="M907,277h264l-12,12h-240v191l-12,12z" style="stroke: none; fill: rgb(231, 219, 207);"></path>
    <path d="M1171,492v-215l-12,12v191h-240l-12,12z" style="stroke: none; fill: rgb(161, 153, 145);"></path>
   </g>
@@ -178,7 +178,7 @@
    </text>
   </g>
   <g>
-   <rect x="755" y="323" width="41" height="123" style="fill: rgb(148,105,113);"></rect>
+   <path d="M755,323h41v123h-41z" style="fill: rgb(148,105,113);"></path>
    <path d="M755,323h41l-3,3h-35v117l-3,3z" style="stroke: none; fill: rgb(177, 125, 135);"></path>
    <path d="M796,446v-123l-3,3v117h-35l-3,3z" style="stroke: none; fill: rgb(124, 88, 95);"></path>
   </g>
@@ -188,7 +188,7 @@
    </text>
   </g>
   <g>
-   <rect x="884" y="323" width="41" height="123" style="fill: rgb(148,105,113);"></rect>
+   <path d="M884,323h41v123h-41z" style="fill: rgb(148,105,113);"></path>
    <path d="M884,323h41l-3,3h-35v117l-3,3z" style="stroke: none; fill: rgb(177, 125, 135);"></path>
    <path d="M925,446v-123l-3,3v117h-35l-3,3z" style="stroke: none; fill: rgb(124, 88, 95);"></path>
   </g>
@@ -289,10 +289,10 @@
    </text>
   </g>
   <g>
-   <rect x="12" y="252" width="822" height="265" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3; fill: none;"></rect>
+   <path d="M12,252h822v265h-822z" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3; fill: none;"></path>
   </g>
   <g>
-   <rect x="597" y="74" width="585" height="151" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2; fill: none;"></rect>
+   <path d="M597,74h585v151h-585z" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2; fill: none;"></path>
   </g>
   <g>
    <path d="M146,262L146,229M152,229l-6,-10l-6,10z" style="stroke: black; stroke-width: 6; fill: black;"></path>
