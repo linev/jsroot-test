@@ -2,11 +2,11 @@
  <title>
   ROOT canvas
  </title>
- <rect x="0" y="0" width="1200" height="800" style="fill: white;"></rect>
+ <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
  <g>
   <g transform="translate(120,80)">
    <title></title>
-   <rect x="0" y="0" width="960" height="640" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+   <path d="M0,0h960v640h-960z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
      <path fill="rgb(38,62,168)" d="M0,336h24v-16h-24zM24,288h24v-16h-24zm0,-96h24v-16h-24zM48,416h24v-32h-24zm0,-48h24v-16h-24zm0,-32h24v-32h-24zm0,-96h24v-16h-24zM72,432h24v-48h-24zm0,-64h24v-16h-24zm0,-32h24v-16h-24zm24,80h24v-48h-24zm0,-96h24v-32h-24zm0,-48h24v-64h-24zm24,224h24v-16h-24zm0,-32h24v-16h-24zm0,-32h24v-16h-24zm0,-48h24v-160h-24zm0,-176h24v-64h-24zm24,320h24v-16h-24zm0,-64h24v-160h-24zm0,-176h24v-112h-24zm24,208h24v-32h-24zm0,-48h24v-144h-24zm0,-160h24v-112h-24zm0,-128h24v-16h-24zm0,-32h24v-16h-24zm24,400h24v-32h-24zm0,-48h24v-48h-24zm0,-64h24v-32h-24zm0,-64h24v-32h-24zm0,-64h24v-16h-24zm0,-32h24v-48h-24zm0,-64h24v-48h-24zm0,-64h24v-32h-24zm0,-64h24v-16h-24zm24,464h24v-16h-24zm0,-32h24v-64h-24zm0,-256h24v-128h-24zm24,320h24v-16h-24zm0,-32h24v-80h-24zm0,-352h24v-64h-24zm0,-80h24v-16h-24zm24,448h24v-96h-24zm0,-352h24v-80h-24zm0,-96h24v-32h-24zm24,496h24v-16h-24zm0,-64h24v-32h-24zm0,-384h24v-16h-24zm24,480h24v-16h-24zm0,-64h24v-64h-24zm0,-80h24v-16h-24zm0,-320h24v-64h-24zm24,416h24v-80h-24zm0,-432h24v-48h-24zm24,496h24v-32h-24zm0,-64h24v-80h-24zm0,-448h24v-80h-24zm24,448h24v-64h-24zm0,-432h24v-32h-24zm0,-48h24v-16h-24zm24,496h24v-16h-24zm0,-32h24v-48h-24zm0,-448h24v-48h-24zm24,512h24v-16h-24zm0,-48h24v-64h-24zm0,-448h24v-64h-24zm0,-80h24v-16h-24zm0,-32h24v-16h-24zm24,576h24v-80h-24zm0,-480h24v-48h-24zm0,-64h24v-16h-24zm24,560h24v-32h-24zm0,-48h24v-32h-24zm0,-432h24v-80h-24zm24,448h24v-32h-24zm0,-48h24v-32h-24zm0,-400h24v-48h-24zm0,-64h24v-48h-24zm24,544h24v-16h-24zm0,-48h24v-48h-24zm0,-432h24v-48h-24zm0,-64h24v-16h-24zm0,-48h24v-16h-24zm24,544h24v-16h-24zm0,-32h24v-32h-24zm0,-384h24v-48h-24zm0,-64h24v-32h-24zm24,544h24v-16h-24zm0,-48h24v-80h-24zm0,-432h24v-80h-24zM576,16h24v-16h-24zm24,544h24v-16h-24zm0,-32h24v-32h-24zm0,-368h24v-96h-24zm24,448h24v-32h-24zm0,-64h24v-32h-24zm0,-48h24v-16h-24zm0,-320h24v-16h-24zm0,-32h24v-48h-24zm0,-64h24v-16h-24zm24,480h24v-32h-24zm0,-48h24v-48h-24zm0,-64h24v-16h-24zm0,-256h24v-64h-24zm0,-80h24v-16h-24zm0,-48h24v-16h-24zm24,448h24v-16h-24zm0,-336h24v-80h-24zm24,384h24v-96h-24zm0,-112h24v-16h-24zm0,-224h24v-80h-24zm0,-96h24v-16h-24zm0,-64h24v-16h-24zm24,480h24v-112h-24zm0,-304h24v-16h-24zm0,-48h24v-16h-24zm0,-48h24v-16h-24zm0,-32h24v-16h-24zm24,400h24v-32h-24zm0,-48h24v-96h-24zm0,-112h24v-16h-24zm0,-64h24v-16h-24zm0,-32h24v-16h-24zm0,-32h24v-16h-24zm0,-32h24v-32h-24zm0,-48h24v-16h-24zM744,32h24v-16h-24zm24,432h24v-112h-24zm0,-128h24v-128h-24zm0,-144h24v-32h-24zm0,-80h24v-16h-24zm24,384h24v-32h-24zm0,-48h24v-48h-24zm0,-64h24v-192h-24zm0,-208h24v-16h-24zm24,384h24v-16h-24zm0,-48h24v-16h-24zm0,-48h24v-48h-24zm0,-80h24v-96h-24zm0,-112h24v-32h-24zm0,-48h24v-16h-24zm0,-80h24v-16h-24zm24,352h24v-16h-24zm0,-64h24v-64h-24zm0,-80h24v-16h-24zm0,-32h24v-16h-24zm0,-32h24v-48h-24zm0,-80h24v-16h-24zm0,-32h24v-16h-24zm0,-32h24v-32h-24zm24,288h24v-16h-24zm0,-240h24v-16h-24zm24,240h24v-16h-24zm0,-32h24v-16h-24zm0,-32h24v-16h-24zm0,-112h24v-48h-24zm0,-64h24v-16h-24zm24,96h24v-16h-24zm0,-32h24v-16h-24z"></path>
@@ -32,11 +32,11 @@
    </svg>
    <g>
     <g transform="translate(0,640)">
-     <line x1="0" y1="0" x2="960" y2="0" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
      <path d="M0,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0" style="stroke: black; stroke-width: 1;"></path>
     </g>
     <g>
-     <line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
      <path d="M0,640h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
@@ -64,7 +64,7 @@
    <rect x="0" y="32" width="54" height="32" style="fill: rgb(251,230,29); stroke: rgb(251,230,29);"></rect>
    <rect x="0" y="0" width="54" height="32" style="fill: rgb(249,249,15); stroke: rgb(249,249,15);"></rect>
    <g transform="translate(54, 0)">
-    <line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line>
+    <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
     <path d="M0,640h-33m33,-72h-33m33,-73h-33m33,-72h-33m33,-72h-33m33,-73h-33m33,-72h-33m33,-72h-33m33,-73h-33" style="stroke: black; stroke-width: 1;"></path>
     <g font-family="Arial" font-size="28" space="preserve">
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,640)">
@@ -104,7 +104,7 @@
    </text>
   </g>
   <g transform="translate(120,720)">
-   <line x1="0" y1="0" x2="960" y2="0" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
    <path d="M960,-17v17m-24,-9v9m-24,-9v9m-24,-9v9m-24,-9v9m-24,-17v17m-24,-9v9m-24,-9v9m-24,-9v9m-24,-9v9m-24,-17v17m-24,-9v9m-24,-9v9m-24,-9v9m-24,-9v9m-24,-17v17m-24,-9v9m-24,-9v9m-24,-9v9m-24,-9v9m-24,-17v17m-24,-9v9m-24,-9v9m-24,-9v9m-24,-9v9m-24,-17v17m-24,-9v9m-24,-9v9m-24,-9v9m-24,-9v9m-24,-17v17m-24,-9v9m-24,-9v9m-24,-9v9m-24,-9v9m-24,-17v17m-24,-9v9m-24,-9v9m-24,-9v9m-24,-9v9m-24,-17v17" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="32" space="preserve" font-weight="bold">
     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(960,26)">
@@ -137,7 +137,7 @@
    </g>
   </g>
   <g transform="translate(120,80)">
-   <line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
    <path d="M33,0h-33m17,16h-17m17,16h-17m17,16h-17m17,16h-17m33,16h-33m17,16h-17m17,16h-17m17,16h-17m17,16h-17m33,16h-33m17,16h-17m17,16h-17m17,16h-17m17,16h-17m33,16h-33m17,16h-17m17,16h-17m17,16h-17m17,16h-17m33,16h-33m17,16h-17m17,16h-17m17,16h-17m17,16h-17m33,16h-33m17,16h-17m17,16h-17m17,16h-17m17,16h-17m33,16h-33m17,16h-17m17,16h-17m17,16h-17m17,16h-17m33,16h-33m17,16h-17m17,16h-17m17,16h-17m17,16h-17m33,16h-33" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="32" space="preserve" font-weight="bold">
     <text fill="black" text-anchor="end" dy=".4em" transform="translate(-24,0)">

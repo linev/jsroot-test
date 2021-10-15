@@ -2,14 +2,14 @@
  <title>
   ROOT canvas
  </title>
- <rect x="0" y="0" width="1200" height="800" style="fill: white;"></rect>
+ <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 1176 251" preserveAspectRatio="none" x="12" y="8" width="1176" height="251">
-   <rect x="0" y="0" width="1176" height="251" style="fill: white;"></rect>
+   <path d="M0,0h1176v251h-1176z" style="fill: white;"></path>
    <g>
     <g transform="translate(118,25)">
      <title></title>
-     <rect x="0" y="0" width="941" height="201" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+     <path d="M0,0h941v201h-941z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="941" height="201" viewBox="0 0 941 201">
       <g>
        <path d="M141,198h10M146,194v7M198,198h10M203,194v7M216,198h10M221,194v7M235,194h10M240,189v10M245,194h10M250,189v10M254,191h10M259,185v12M263,194h10M268,189v10M273,170h10M278,160v20M282,180h10M287,172v17M292,174h10M297,164v19M301,174h10M306,164v19M311,160h10M316,148v24M320,177h10M325,168v18M329,150h10M334,136v27M339,122h10M344,106v33M348,150h10M353,136v27M358,98h10M363,80v37M367,143h10M372,129v28M376,133h10M381,117v31M386,102h10M391,83v37M395,98h10M400,80v37M405,116h10M410,98v35M414,88h10M419,69v39M423,78h10M428,57v41M433,78h10M438,57v41M442,88h10M447,69v39M452,54h10M457,32v44M461,44h10M466,21v46M471,68h10M476,46v43M480,61h10M485,39v44M489,92h10M494,72v39M499,33h10M504,10v47M508,33h10M513,10v47M518,71h10M523,50v42M527,88h10M532,69v39M536,109h10M541,91v35M546,116h10M551,98v35M555,129h10M560,114v31M565,119h10M570,102v34M574,129h10M579,114v31M583,143h10M588,129v28M593,167h10M598,156v22M602,187h10M607,180v14M612,160h10M617,148v24M621,160h10M626,148v24M630,150h10M635,136v27M640,170h10M645,160v20M649,198h10M654,194v7M659,180h10M664,172v17M668,180h10M673,172v17M678,191h10M683,185v12M687,194h10M692,189v10M696,194h10M701,189v10M706,198h10M711,194v7M715,198h10M720,194v7M725,191h10M730,185v12M753,198h10M758,194v7M790,194h10M795,189v10M847,198h10M852,194v7" style="stroke: rgb(0,0,154); stroke-width: 1;"></path>
@@ -23,7 +23,7 @@
      </svg>
      <g>
       <g transform="translate(0,201)">
-       <line x1="0" y1="0" x2="941" y2="0" style="stroke: black; stroke-width: 1;"></line>
+       <path d="M0,0h941" style="stroke: black; stroke-width: 1;"></path>
        <path d="M0,-4v4m47,-4v4m47,-8v8m47,-4v4m47,-4v4m47,-4v4m47,-8v8m47,-4v4m47,-4v4m47,-4v4m48,-8v8m47,-4v4m47,-4v4m47,-4v4m47,-8v8m47,-4v4m47,-4v4m47,-4v4m47,-8v8m47,-4v4m47,-4v4" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="9" space="preserve">
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(94,3)">
@@ -44,7 +44,7 @@
        </g>
       </g>
       <g>
-       <line x1="0" y1="0" x2="0" y2="201" style="stroke: black; stroke-width: 1;"></line>
+       <path d="M0,0v201" style="stroke: black; stroke-width: 1;"></path>
        <path d="M35,201h-35m18,-7h-18m18,-7h-18m18,-7h-18m18,-6h-18m35,-7h-35m18,-7h-18m18,-7h-18m18,-7h-18m18,-7h-18m35,-6h-35m18,-7h-18m18,-7h-18m18,-7h-18m18,-7h-18m35,-7h-35m18,-6h-18m18,-7h-18m18,-7h-18m18,-7h-18m35,-7h-35m18,-7h-18m18,-6h-18m18,-7h-18m18,-7h-18m35,-7h-35m18,-7h-18m18,-7h-18m18,-6h-18m18,-7h-18" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="9" space="preserve">
         <text fill="black" text-anchor="end" dy=".4em" transform="translate(-1,201)">
@@ -103,11 +103,11 @@
    </g>
   </svg>
   <svg viewBox="0 0 1176 251" preserveAspectRatio="none" x="12" y="274" width="1176" height="251">
-   <rect x="0" y="0" width="1176" height="251" style="fill: white;"></rect>
+   <path d="M0,0h1176v251h-1176z" style="fill: white;"></path>
    <g>
     <g transform="translate(118,25)">
      <title></title>
-     <rect x="0" y="0" width="941" height="201" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+     <path d="M0,0h941v201h-941z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="941" height="201" viewBox="0 0 941 201">
       <g>
        <path d="M94,198h10M99,194v7M113,187h10M118,180v14M122,191h10M127,185v12M132,163h10M137,151v23M141,152h10M146,139v26M151,128h10M156,112v32M160,124h10M165,108v33M169,86h10M174,66v40M179,117h10M184,100v34M188,83h10M193,62v41M198,76h10M203,55v41M207,93h10M212,74v38M216,34h10M221,10v48M226,55h10M231,32v45M235,65h10M240,43v44M245,65h10M250,43v44M254,55h10M259,32v45M263,89h10M268,70v39M273,121h10M278,104v34M282,96h10M287,77v39M292,124h10M297,108v33M301,83h10M306,62v41M311,128h10M316,112v32M320,138h10M325,123v30M329,110h10M334,93v35M339,128h10M344,112v32M348,152h10M353,139v26M358,128h10M363,112v32M367,124h10M372,108v33M376,152h10M381,139v26M386,145h10M391,131v28M395,138h10M400,123v30M405,166h10M410,155v22M414,152h10M419,139v26M423,163h10M428,151v23M433,173h10M438,163v20M442,173h10M447,163v20M452,170h10M457,159v21M461,159h10M466,147v24M471,173h10M476,163v20M480,177h10M485,167v19M489,180h10M494,172v17M499,180h10M504,172v17M508,184h10M513,176v15M518,191h10M523,185v12M527,184h10M532,176v15M536,187h10M541,180v14M546,180h10M551,172v17M555,180h10M560,172v17M565,180h10M570,172v17M574,184h10M579,176v15M583,191h10M588,185v12M593,180h10M598,172v17M602,187h10M607,180v14M612,187h10M617,180v14M621,191h10M626,185v12M640,184h10M645,176v15M649,187h10M654,180v14M659,198h10M664,194v7M668,198h10M673,194v7M678,184h10M683,176v15M687,194h10M692,189v10M696,194h10M701,189v10M706,191h10M711,185v12M715,194h10M720,189v10M725,191h10M730,185v12M734,191h10M739,185v12M743,194h10M748,189v10M753,198h10M758,194v7M762,194h10M767,189v10M772,198h10M777,194v7M781,194h10M786,189v10M790,187h10M795,180v14M800,187h10M805,180v14M819,198h10M824,194v7M828,194h10M833,189v10M837,191h10M842,185v12M847,191h10M852,185v12M866,198h10M871,194v7M875,198h10M880,194v7M885,187h10M890,180v14M894,198h10M899,194v7M903,198h10M908,194v7M932,198h10M937,194v7" style="stroke: rgb(0,0,154); stroke-width: 1;"></path>
@@ -121,7 +121,7 @@
      </svg>
      <g>
       <g transform="translate(0,201)">
-       <line x1="0" y1="0" x2="941" y2="0" style="stroke: black; stroke-width: 1;"></line>
+       <path d="M0,0h941" style="stroke: black; stroke-width: 1;"></path>
        <path d="M0,-4v4m24,-4v4m23,-8v8m24,-4v4m23,-4v4m24,-4v4m23,-8v8m24,-4v4m23,-4v4m24,-4v4m23,-8v8m24,-4v4m23,-4v4m24,-4v4m23,-8v8m24,-4v4m23,-4v4m24,-4v4m23,-8v8m24,-4v4m24,-4v4m23,-4v4m24,-8v8m23,-4v4m24,-4v4m23,-4v4m24,-8v8m23,-4v4m24,-4v4m23,-4v4m24,-8v8m23,-4v4m24,-4v4m23,-4v4m24,-8v8m23,-4v4m24,-4v4m23,-4v4m24,-8v8m23,-4v4m24,-4v4" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="9" space="preserve">
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(47,3)">
@@ -157,7 +157,7 @@
        </g>
       </g>
       <g>
-       <line x1="0" y1="0" x2="0" y2="201" style="stroke: black; stroke-width: 1;"></line>
+       <path d="M0,0v201" style="stroke: black; stroke-width: 1;"></path>
        <path d="M35,201h-35m18,-7h-18m18,-7h-18m18,-7h-18m18,-7h-18m35,-7h-35m18,-7h-18m18,-7h-18m18,-7h-18m18,-7h-18m35,-7h-35m18,-7h-18m18,-7h-18m18,-7h-18m18,-7h-18m35,-7h-35m18,-7h-18m18,-6h-18m18,-7h-18m18,-7h-18m35,-7h-35m18,-7h-18m18,-7h-18m18,-7h-18m18,-7h-18m35,-7h-35m18,-7h-18m18,-7h-18m18,-7h-18" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="9" space="preserve">
         <text fill="black" text-anchor="end" dy=".4em" transform="translate(-1,201)">
@@ -216,11 +216,11 @@
    </g>
   </svg>
   <svg viewBox="0 0 1176 251" preserveAspectRatio="none" x="12" y="541" width="1176" height="251">
-   <rect x="0" y="0" width="1176" height="251" style="fill: white;"></rect>
+   <path d="M0,0h1176v251h-1176z" style="fill: white;"></path>
    <g>
     <g transform="translate(118,25)">
      <title></title>
-     <rect x="0" y="0" width="941" height="201" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+     <path d="M0,0h941v201h-941z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="941" height="201" viewBox="0 0 941 201">
       <g>
        <path d="M0,198h10M5,195v6M38,198h10M43,195v6M47,198h10M52,195v6M75,198h10M80,195v6M122,198h10M127,195v6M141,191h10M146,186v11M160,198h10M165,195v6M169,198h10M174,195v6M179,198h10M184,195v6M188,191h10M193,186v11M198,188h10M203,182v13M207,191h10M212,186v11M216,191h10M221,186v11M226,191h10M231,186v11M235,195h10M240,190v9M254,195h10M259,190v9M263,191h10M268,186v11M273,195h10M278,190v9M282,195h10M287,190v9M320,191h10M325,186v11M329,195h10M334,190v9M339,191h10M344,186v11M348,198h10M353,195v6M358,198h10M363,195v6M367,198h10M372,195v6M376,195h10M381,190v9M386,198h10M391,195v6M395,195h10M400,190v9M405,191h10M410,186v11M414,185h10M419,178v14M423,185h10M428,178v14M433,188h10M438,182v13M442,191h10M447,186v11M452,195h10M457,190v9M461,179h10M466,170v17M471,172h10M476,163v19M480,195h10M485,190v9M489,182h10M494,174v16M499,191h10M504,186v11M508,195h10M513,190v9M518,185h10M523,178v14M527,191h10M532,186v11M536,179h10M541,170v17M546,179h10M551,170v17M555,169h10M560,159v20M565,188h10M570,182v13M574,176h10M579,167v18M583,179h10M588,170v17M593,191h10M598,186v11M602,176h10M607,167v18M612,160h10M617,148v23M621,169h10M626,159v20M630,172h10M635,163v19M640,179h10M645,170v17M649,179h10M654,170v17M659,166h10M664,156v21M668,153h10M673,141v25M678,144h10M683,130v27M687,176h10M692,167v18M696,144h10M701,130v27M706,147h10M711,134v26M715,153h10M720,141v25M725,144h10M730,130v27M734,144h10M739,130v27M743,147h10M748,134v26M753,137h10M758,123v29M762,144h10M767,130v27M772,144h10M777,130v27M781,106h10M786,88v35M790,112h10M795,95v34M800,131h10M805,116v30M809,131h10M814,116v30M819,134h10M824,120v29M828,115h10M833,99v33M837,90h10M842,71v38M847,90h10M852,71v38M856,77h10M861,57v40M866,106h10M871,88v35M875,74h10M880,54v40M885,109h10M890,92v34M894,96h10M899,78v36M903,71h10M908,50v41M913,68h10M918,47v41M922,45h10M927,23v45M932,33h10M937,10v46" style="stroke: rgb(0,0,154); stroke-width: 1;"></path>
@@ -234,7 +234,7 @@
      </svg>
      <g>
       <g transform="translate(0,201)">
-       <line x1="0" y1="0" x2="941" y2="0" style="stroke: black; stroke-width: 1;"></line>
+       <path d="M0,0h941" style="stroke: black; stroke-width: 1;"></path>
        <path d="M0,-8v8m38,-4v4m37,-4v4m38,-4v4m38,-4v4m37,-8v8m38,-4v4m37,-4v4m38,-4v4m38,-4v4m37,-8v8m38,-4v4m38,-4v4m37,-4v4m38,-4v4m38,-8v8m37,-4v4m38,-4v4m38,-4v4m37,-4v4m38,-8v8m37,-4v4m38,-4v4m38,-4v4m37,-4v4m38,-8v8" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="9" space="preserve">
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,3)">
@@ -258,7 +258,7 @@
        </g>
       </g>
       <g>
-       <line x1="0" y1="0" x2="0" y2="201" style="stroke: black; stroke-width: 1;"></line>
+       <path d="M0,0v201" style="stroke: black; stroke-width: 1;"></path>
        <path d="M35,201h-35m18,-6h-18m18,-7h-18m18,-6h-18m18,-6h-18m35,-7h-35m18,-6h-18m18,-6h-18m18,-7h-18m18,-6h-18m35,-7h-35m18,-6h-18m18,-6h-18m18,-7h-18m18,-6h-18m35,-6h-35m18,-7h-18m18,-6h-18m18,-6h-18m18,-7h-18m35,-6h-35m18,-6h-18m18,-7h-18m18,-6h-18m18,-6h-18m35,-7h-35m18,-6h-18m18,-6h-18m18,-7h-18m18,-6h-18m35,-7h-35m18,-6h-18" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="9" space="preserve">
         <text fill="black" text-anchor="end" dy=".4em" transform="translate(-1,201)">

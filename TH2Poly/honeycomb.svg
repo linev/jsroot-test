@@ -2,11 +2,11 @@
  <title>
   ROOT canvas
  </title>
- <rect x="0" y="0" width="1200" height="800" style="fill: none;"></rect>
+ <path d="M0,0h1200v800h-1200z" style="fill: none;"></path>
  <g>
   <g transform="translate(120,80)">
    <title></title>
-   <rect x="0" y="0" width="960" height="640" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+   <path d="M0,0h960v640h-960z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
      <path fill="rgb(38,62,168)" d="M0,632v-17l19,-9l19,9v17l-19,8zM38,632v-17l20,-9l19,9v17l-19,8zM77,632v-17l19,-9l19,9v17l-19,8zM115,632v-17l19,-9l20,9v17l-20,8zM154,632v-17l19,-9l19,9v17l-19,8zM192,632v-17l19,-9l19,9v17l-19,8zM806,632v-17l20,-9l19,9v17l-19,8zM845,632v-17l19,-9l19,9v17l-19,8zM883,632v-17l19,-9l20,9v17l-20,8zM922,632v-17l19,-9l19,9v17l-19,8zM19,606v-17l19,-8l20,8v17l-20,9zM58,606v-17l19,-8l19,8v17l-19,9zM96,606v-17l19,-8l19,8v17l-19,9zM826,606v-17l19,-8l19,8v17l-19,9zM864,606v-17l19,-8l19,8v17l-19,9zM902,606v-17l20,-8l19,8v17l-19,9zM0,581v-17l19,-8l19,8v17l-19,8zM38,581v-17l20,-8l19,8v17l-19,8zM768,581v-17l19,-8l19,8v17l-19,8zM806,581v-17l20,-8l19,8v17l-19,8zM883,581v-17l19,-8l20,8v17l-20,8zM922,581v-17l19,-8l19,8v17l-19,8zM864,556v-17l19,-8l19,8v17l-19,8zM902,556v-17l20,-8l19,8v17l-19,8zM0,531v-17l19,-9l19,9v17l-19,8zM845,531v-17l19,-9l19,9v17l-19,8zM883,531v-17l19,-9l20,9v17l-20,8zM922,531v-17l19,-9l19,9v17l-19,8zM922,480v-17l19,-8l19,8v17l-19,8zM902,455v-17l20,-9l19,9v17l-19,8zM883,429v-16l19,-9l20,9v16l-20,9zM922,429v-16l19,-9l19,9v16l-19,9zM883,177v-17l19,-8l20,8v17l-20,8zM922,177v-17l19,-8l19,8v17l-19,8zM902,152v-17l20,-9l19,9v17l-19,8zM883,126v-17l19,-8l20,8v17l-20,9zM922,126v-17l19,-8l19,8v17l-19,9zM864,101v-17l19,-8l19,8v17l-19,8zM902,101v-17l20,-8l19,8v17l-19,8zM0,76v-17l19,-8l19,8v17l-19,8zM806,76v-17l20,-8l19,8v17l-19,8zM845,76v-17l19,-8l19,8v17l-19,8zM883,76v-17l19,-8l20,8v17l-20,8zM922,76v-17l19,-8l19,8v17l-19,8zM19,51v-17l19,-9l20,9v17l-20,8zM58,51v-17l19,-9l19,9v17l-19,8zM787,51v-17l19,-9l20,9v17l-20,8zM864,51v-17l19,-9l19,9v17l-19,8zM902,51v-17l20,-9l19,9v17l-19,8zM0,25v-17l19,-8l19,8v17l-19,9zM38,25v-17l20,-8l19,8v17l-19,9zM77,25v-17l19,-8l19,8v17l-19,9zM730,25v-17l19,-8l19,8v17l-19,9zM806,25v-17l20,-8l19,8v17l-19,9zM883,25v-17l19,-8l20,8v17l-20,9zM922,25v-17l19,-8l19,8v17l-19,9z" style="stroke: rgb(0,0,154); stroke-width: 1;"></path>
@@ -33,7 +33,7 @@
    </svg>
    <g>
     <g transform="translate(0,640)">
-     <line x1="0" y1="0" x2="960" y2="0" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
      <path d="M0,-24v24m22,-12v12m22,-12v12m23,-12v12m22,-12v12m22,-24v24m22,-12v12m22,-12v12m22,-12v12m23,-12v12m22,-24v24m22,-12v12m22,-12v12m22,-12v12m22,-12v12m23,-24v24m22,-12v12m22,-12v12m22,-12v12m22,-12v12m22,-24v24m23,-12v12m22,-12v12m22,-12v12m22,-12v12m22,-24v24m22,-12v12m23,-12v12m22,-12v12m22,-12v12m22,-24v24m22,-12v12m22,-12v12m23,-12v12m22,-12v12m22,-24v24m22,-12v12m22,-12v12m22,-12v12m23,-12v12m22,-24v24m22,-12v12m22,-12v12m22,-12v12" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
       <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,6)">
@@ -66,7 +66,7 @@
      </g>
     </g>
     <g>
-     <line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
      <path d="M36,640h-36m18,-17h-18m18,-17h-18m18,-17h-18m18,-16h-18m36,-17h-36m18,-17h-18m18,-17h-18m18,-17h-18m18,-17h-18m36,-16h-36m18,-17h-18m18,-17h-18m18,-17h-18m18,-17h-18m36,-17h-36m18,-16h-18m18,-17h-18m18,-17h-18m18,-17h-18m36,-17h-36m18,-17h-18m18,-17h-18m18,-16h-18m18,-17h-18m36,-17h-36m18,-17h-18m18,-17h-18m18,-17h-18m18,-16h-18m36,-17h-36m18,-17h-18m18,-17h-18m18,-17h-18m18,-17h-18m36,-16h-36m18,-17h-18m18,-17h-18" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,640)">

@@ -2,11 +2,11 @@
  <title>
   ROOT canvas
  </title>
- <rect x="0" y="0" width="1200" height="800" style="fill: white;"></rect>
+ <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
  <g>
   <g transform="translate(180,80)">
    <title></title>
-   <rect x="0" y="0" width="900" height="600" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+   <path d="M0,0h900v600h-900z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <g>
     <path d="M0,0v600M45,0v600M90,0v600M135,0v600M180,0v600M225,0v600M270,0v600M315,0v600M360,0v600M405,0v600M450,0v600M495,0v600M540,0v600M585,0v600M630,0v600M675,0v600M720,0v600M765,0v600M810,0v600M855,0v600M900,0v600" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
     <path d="M0,600h900M0,550h900M0,500h900M0,450h900M0,400h900M0,350h900M0,300h900M0,250h900M0,200h900M0,150h900M0,100h900M0,50h900M0,0h900" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
@@ -739,7 +739,7 @@
    </svg>
    <g>
     <g transform="translate(0,600)">
-     <line x1="0" y1="0" x2="900" y2="0" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,0h900" style="stroke: black; stroke-width: 1;"></path>
      <path d="M0,-24v24m45,-24v24m45,-24v24m45,-24v24m45,-24v24m45,-24v24m45,-24v24m45,-24v24m45,-24v24m45,-24v24m45,-24v24m45,-24v24m45,-24v24m45,-24v24m45,-24v24m45,-24v24m45,-24v24m45,-24v24m45,-24v24m45,-24v24m45,-12v12" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(23,6) rotate(270)">
@@ -805,7 +805,7 @@
      </g>
     </g>
     <g>
-     <line x1="0" y1="0" x2="0" y2="600" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,0v600" style="stroke: black; stroke-width: 1;"></path>
      <path d="M36,600h-36m36,-50h-36m36,-50h-36m36,-50h-36m36,-50h-36m36,-50h-36m36,-50h-36m36,-50h-36m36,-50h-36m36,-50h-36m36,-50h-36m36,-50h-36m18,-50h-18" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,575)">

@@ -2,11 +2,11 @@
  <title>
   ROOT canvas
  </title>
- <rect x="0" y="0" width="1200" height="800" style="fill: white;"></rect>
+ <path d="M0,0h1200v800h-1200z" style="fill: white;"></path>
  <g>
   <g transform="translate(120,80)">
    <title></title>
-   <rect x="0" y="0" width="1024" height="640" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+   <path d="M0,0h1024v640h-1024z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="1024" height="640" viewBox="0 0 1024 640">
     <g>
      <path d="M14,335L43,358L71,389L100,441L128,452L157,459L185,466L214,472L242,498L270,504L299,508L327,524L356,566L384,569L413,578L441,583L470,588L498,590L526,593L555,601L583,604L612,604L640,615L669,616L697,617L726,617L754,621L782,623L811,624L839,635L868,639L896,640L925,640L953,640L982,640L1010,640" fill="none" style="stroke: rgb(204,51,51); stroke-width: 2;"></path>
@@ -19,7 +19,7 @@
    </svg>
    <g>
     <g transform="translate(0,640)">
-     <line x1="0" y1="0" x2="1024" y2="0" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,0h1024" style="stroke: black; stroke-width: 1;"></path>
      <path d="M0,-24v24m28,-24v24m29,-24v24m28,-24v24m29,-24v24m28,-24v24m29,-24v24m28,-24v24m29,-24v24m28,-24v24m28,-24v24m29,-24v24m28,-24v24m29,-24v24m28,-24v24m29,-24v24m28,-24v24m29,-24v24m28,-24v24m28,-24v24m29,-24v24m28,-24v24m29,-24v24m28,-24v24m29,-24v24m28,-24v24m29,-24v24m28,-24v24m28,-24v24m29,-24v24m28,-24v24m29,-24v24m28,-24v24m29,-24v24m28,-24v24m29,-24v24m28,-12v12" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="10" space="preserve">
       <text fill="black" text-anchor="middle" dy=".8em" transform="translate(14,6) rotate(25)" style="text-anchor: start;">
@@ -133,7 +133,7 @@
      </g>
     </g>
     <g>
-     <line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
      <path d="M36,640h-36m18,-28h-18m18,-28h-18m18,-28h-18m36,-27h-36m18,-28h-18m18,-28h-18m18,-28h-18m36,-28h-36m18,-28h-18m18,-28h-18m18,-27h-18m36,-28h-36m18,-28h-18m18,-28h-18m18,-28h-18m36,-28h-36m18,-28h-18m18,-27h-18m18,-28h-18m36,-28h-36m18,-28h-18m18,-28h-18" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,640)">

@@ -2,11 +2,11 @@
  <title>
   ROOT canvas
  </title>
- <rect x="0" y="0" width="1200" height="800" style="fill: none;"></rect>
+ <path d="M0,0h1200v800h-1200z" style="fill: none;"></path>
  <g>
   <g transform="translate(120,80)">
    <title></title>
-   <rect x="0" y="0" width="960" height="640" style="fill: white; stroke: black; stroke-width: 1;"></rect>
+   <path d="M0,0h960v640h-960z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
      <path fill="rgb(38,62,168)" d="M0,442h9v-29h-9zM9,227h10v-29h-10zM19,487h10v-20h-10zM19,227h10v-29h-10zM29,559h11v-12h-11zm0,-54h11v-18h-11zm0,-38h11v-93h-11zM29,266h11v-39h-11zM40,535h12v-14h-12zm0,-30h12v-332h-12zM40,119h12v-26h-12zM52,547h12v-80h-12zM52,442h12v-307h-12zM52,105h12v-12h-12zM64,589h13v-19h-13zm0,-42h13v-60h-13zm0,-80h13v-332h-13zM64,119h13v-14h-13zM64,70h13v-10h-13zM64,51h13v-9h-13zM77,613h13v-7h-13zm0,-15h13v-18h-13zm0,-39h13v-92h-13zM77,442h13v-176h-13zM77,227h13v-134h-13zM77,81h13v-30h-13zM90,606h15v-17h-15zm0,-36h15v-103h-15zM90,442h15v-29h-15zM90,266h15v-39h-15zm0,-93h15v-38h-15zm0,-54h15v-26h-15zM90,70h15v-10h-15zM90,51h15v-9h-15zM90,13h15v-7h-15zm15,567h16v-59h-16zm0,-427h16v-34h-16zm0,-48h16v-45h-16zm0,-63h16v-8h-16zm16,564h18v-8h-18zm0,-17h18v-9h-18zm0,-19h18v-35h-18zm0,-451h18v-68h-18zm18,501h19v-7h-19zm0,-22h19v-9h-19zm0,-18h19v-45h-19zm0,-461h19v-59h-19zm0,-77h19v-8h-19zM139,6h19v-6h-19zm19,614h21v-7h-21zm0,-14h21v-59h-21zM158,81h21v-54h-21zm21,532h23v-15h-23zm0,-24h23v-30h-23zM179,81h23v-47h-23zm23,553h27v-7h-27zm0,-14h27v-61h-27zM202,81h27v-30h-27zm0,-39h27v-15h-27zm0,-22h27v-7h-27zm27,600h31v-50h-31zM229,60h31v-26h-31zm0,-33h31v-7h-31zm31,593h37v-50h-37zM260,51h37v-9h-37zm0,-17h37v-7h-37zm37,579h44v-33h-44zM297,60h44v-26h-44zm0,-33h44v-14h-44zm44,607h58v-7h-58zm0,-28h58v-26h-58zM341,70h58v-36h-58zm0,-43h58v-7h-58zm58,586h81v-33h-81zM399,60h81v-18h-81zm0,-26h81v-7h-81zm81,593h81v-47h-81zM480,60h81v-40h-81zm81,546h58v-26h-58zM561,60h58v-9h-58zm0,-18h58v-15h-58zm0,-22h58v-7h-58zm58,593h44v-7h-44zm0,-15h44v-18h-44zM619,60h44v-47h-44zm44,560h37v-7h-37zm0,-14h37v-8h-37zm0,-17h37v-9h-37zM663,60h37v-26h-37zm37,553h31v-54h-31zM700,60h31v-18h-31zm31,567h27v-7h-27zm0,-14h27v-54h-27zM731,70h27v-36h-27zm27,550h23v-7h-23zm0,-14h23v-47h-23zM758,70h23v-36h-23zm23,550h21v-7h-21zm0,-22h21v-28h-21zm0,-39h21v-12h-21zM781,93h21v-59h-21zm0,-66h21v-7h-21zm21,593h19v-7h-19zm0,-22h19v-39h-19zm0,-51h19v-12h-19zm0,-442h19v-54h-19zm0,-63h19v-15h-19zm19,556h18v-77h-18zm0,-493h18v-45h-18zm18,484h16v-9h-16zm0,-30h16v-24h-16zm0,-38h16v-16h-16zm0,-348h16v-20h-16zm0,-38h16v-16h-16zm0,-30h16v-63h-16zm16,515h15v-7h-15zm0,-40h15v-10h-15zm0,-21h15v-72h-15zm0,-361h15v-117h-15zM855,70h15v-19h-15zm15,489h13v-117h-13zm0,-332h13v-122h-13zM870,81h13v-30h-13zm13,489h13v-49h-13zm0,-65h13v-400h-13zM883,93h13v-42h-13zm0,-66h13v-7h-13zm13,532h12v-38h-12zm0,-54h12v-370h-12zM896,93h12v-12h-12zm12,466h12v-24h-12zm0,-38h12v-16h-12zm0,-34h12v-167h-12zm0,-289h12v-25h-12zm0,-45h12v-34h-12zM908,51h12v-9h-12zm12,547h11v-9h-11zm0,-63h11v-14h-11zm0,-48h11v-113h-11zm0,-221h11v-39h-11zm0,-68h11v-45h-11zm11,215h10v-39h-10zm0,-215h10v-25h-10zm20,244h9v-29h-9z"></path>
@@ -33,7 +33,7 @@
    </svg>
    <g>
     <g transform="translate(0,640)">
-     <line x1="0" y1="0" x2="960" y2="0" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
      <path d="M0,-24v24m9,-12v12m10,-12v12m10,-12v12m11,-12v12m12,-24v24m12,-12v12m13,-12v12m13,-12v12m15,-12v12m16,-24v24m18,-12v12m19,-12v12m21,-12v12m23,-12v12m27,-24v24m31,-12v12m37,-12v12m44,-12v12m58,-12v12m81,-24v24m81,-12v12m58,-12v12m44,-12v12m37,-12v12m31,-24v24m27,-12v12m23,-12v12m21,-12v12m19,-12v12m18,-24v24m16,-12v12m15,-12v12m13,-12v12m13,-12v12m12,-24v24m12,-12v12m11,-12v12m10,-12v12m10,-12v12m9,-24v24" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
       <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,6)">
@@ -66,7 +66,7 @@
      </g>
     </g>
     <g>
-     <line x1="0" y1="0" x2="0" y2="640" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
      <path d="M36,640h-36m18,-6h-18m18,-7h-18m18,-7h-18m18,-7h-18m36,-7h-36m18,-8h-18m18,-9h-18m18,-9h-18m18,-10h-18m36,-11h-36m18,-12h-18m18,-12h-18m18,-14h-18m18,-16h-18m36,-18h-36m18,-20h-18m18,-25h-18m18,-29h-18m18,-39h-18m36,-54h-36m18,-54h-18m18,-39h-18m18,-29h-18m18,-25h-18m36,-20h-36m18,-18h-18m18,-16h-18m18,-14h-18m18,-12h-18m36,-12h-36m18,-11h-18m18,-10h-18m18,-9h-18m18,-9h-18m36,-8h-36m18,-7h-18m18,-7h-18m18,-7h-18m18,-7h-18m36,-6h-36" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,640)">
