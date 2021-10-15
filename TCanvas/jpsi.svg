@@ -198,32 +198,32 @@
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(80,14)">
     ---- Fit legenda ----
    </text>
-   <line x1="10" y1="33" x2="70" y2="33" style="stroke: magenta; stroke-width: 1; stroke-dasharray: 3,4,1,4;"></line>
+   <path d="M10,33H70" style="stroke: magenta; stroke-width: 1; stroke-dasharray: 3,4,1,4;"></path>
    <path d="M40,33h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(80,33)">
     Model-1 at step 3
    </text>
-   <line x1="10" y1="53" x2="70" y2="53" style="stroke: rgb(204,0,204); stroke-width: 1; stroke-dasharray: 20,5;"></line>
+   <path d="M10,53H70" style="stroke: rgb(204,0,204); stroke-width: 1; stroke-dasharray: 20,5;"></path>
    <path d="M40,53h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(80,53)">
     Model-1 at step 5
    </text>
-   <line x1="10" y1="72" x2="70" y2="72" style="stroke: black; stroke-width: 2;"></line>
+   <path d="M10,72H70" style="stroke: black; stroke-width: 2;"></path>
    <path d="M40,72h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(80,72)">
     Model-1 at step 8
    </text>
-   <line x1="10" y1="91" x2="70" y2="91" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
+   <path d="M10,91H70" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
    <path d="M40,91h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(80,92)">
     Model-1 at step 8 (bkg)
    </text>
-   <line x1="10" y1="111" x2="70" y2="111" style="stroke: red; stroke-width: 2;"></line>
+   <path d="M10,111H70" style="stroke: red; stroke-width: 2;"></path>
    <path d="M40,111h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(80,111)">
     Model-2 at step 8
    </text>
-   <line x1="10" y1="130" x2="70" y2="130" style="stroke: red; stroke-width: 1; stroke-dasharray: 1,2;"></line>
+   <path d="M10,130H70" style="stroke: red; stroke-width: 1; stroke-dasharray: 1,2;"></path>
    <path d="M40,130h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(80,131)">
     Model-2 at step 8 (bkg)

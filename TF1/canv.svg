@@ -78,15 +78,15 @@
   </g>
   <g transform="translate(180,120)" font-family="Arial" font-size="15" space="preserve">
    <path d="M0,0h276v120h-276z" style="fill: white; stroke: white; stroke-width: 1;"></path>
-   <line x1="8" y1="23" x2="61" y2="23" style="stroke: blue; stroke-width: 2;"></line>
+   <path d="M8,23H61" style="stroke: blue; stroke-width: 2;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(69,23)">
     Gaussian (//mu = -0.5)
    </text>
-   <line x1="8" y1="60" x2="61" y2="60" style="stroke: rgb(153,153,204); stroke-width: 3;"></line>
+   <path d="M8,60H61" style="stroke: rgb(153,153,204); stroke-width: 3;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(69,60)">
     Fit with Gaussian to x
    </text>
-   <line x1="8" y1="97" x2="61" y2="97" style="stroke: red; stroke-width: 2;"></line>
+   <path d="M8,97H61" style="stroke: red; stroke-width: 2;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(69,98)">
     Gaussian (//mu = +0.5)
    </text>

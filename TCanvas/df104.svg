@@ -102,21 +102,21 @@
     </g>
     <g transform="translate(660,78)" font-family="Arial" font-size="26" space="preserve">
      <path d="M0,0h408v156h-408z" style="fill: none;"></path>
-     <line x1="12" y1="23" x2="90" y2="23" style="stroke: black; stroke-width: 2;"></line>
-     <line x1="51" y1="9" x2="51" y2="38" style="stroke: black; stroke-width: 2;"></line>
+     <path d="M12,23H90" style="stroke: black; stroke-width: 2;"></path>
+     <path d="M51,9V38" style="stroke: black; stroke-width: 2;"></path>
      <path d="M46,23a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: black; fill: black;"></path>
      <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,23)">
       Data
      </text>
-     <line x1="12" y1="60" x2="90" y2="60" style="stroke: blue; stroke-width: 2; stroke-dasharray: 3,3;"></line>
+     <path d="M12,60H90" style="stroke: blue; stroke-width: 2; stroke-dasharray: 3,3;"></path>
      <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,60)">
       Background
      </text>
-     <line x1="12" y1="96" x2="90" y2="96" style="stroke: red; stroke-width: 2;"></line>
+     <path d="M12,96H90" style="stroke: red; stroke-width: 2;"></path>
      <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,96)">
       Signal + Bkg.
      </text>
-     <line x1="12" y1="133" x2="90" y2="133" style="stroke: rgb(0,0,154); stroke-width: 1;"></line>
+     <path d="M12,133H90" style="stroke: rgb(0,0,154); stroke-width: 1;"></path>
      <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,133)">
       Signal
      </text>

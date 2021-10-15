@@ -78,19 +78,19 @@
   <g transform="translate(600,96)" font-family="Arial" font-size="43" space="preserve">
    <path d="M0,0h456v168h-456z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <rect x="14" y="10" width="86" height="42" style="fill: none;"></rect>
-   <line x1="14" y1="31" x2="100" y2="31" style="stroke: blue; stroke-width: 4;"></line>
+   <path d="M14,31H100" style="stroke: blue; stroke-width: 4;"></path>
    <path d="M57,35l-4,-8h8z" style="stroke: black; fill: black;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,31)">
     graph 3
    </text>
    <rect x="14" y="63" width="86" height="42" style="fill: none;"></rect>
-   <line x1="14" y1="84" x2="100" y2="84" style="stroke: red; stroke-width: 4;"></line>
+   <path d="M14,84H100" style="stroke: red; stroke-width: 4;"></path>
    <path d="M53,80v8h8v-8z" style="stroke: black; fill: black;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,84)">
     graph 1
    </text>
    <rect x="14" y="115" width="86" height="42" style="fill: none;"></rect>
-   <line x1="14" y1="137" x2="100" y2="137" style="stroke: green; stroke-width: 4;"></line>
+   <path d="M14,137H100" style="stroke: green; stroke-width: 4;"></path>
    <path d="M57,133l-4,8h8z" style="stroke: red; fill: red;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,136)">
     graph 2

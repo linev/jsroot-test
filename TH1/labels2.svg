@@ -168,7 +168,7 @@
   </g>
   <g transform="translate(600,160)" font-family="Arial" font-size="13" space="preserve">
    <path d="M0,0h504v104h-504z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <line x1="15" y1="28" x2="111" y2="28" style="stroke: rgb(204,51,51); stroke-width: 2;"></line>
+   <path d="M15,28H111" style="stroke: rgb(204,51,51); stroke-width: 2;"></path>
    <path d="M59.8,28.0a3.2,3.2,0,1,0,6.4,0a3.2,3.2,0,1,0,-6.4,0z" style="stroke: blue; fill: blue;"></path>
    <text fill="black" text-anchor="start" transform="translate(126,40)">
     <tspan dy="-.1em">
@@ -181,7 +181,7 @@
      )
     </tspan>
    </text>
-   <line x1="15" y1="77" x2="111" y2="77" style="stroke: rgb(0,0,153); stroke-width: 3;"></line>
+   <path d="M15,77H111" style="stroke: rgb(0,0,153); stroke-width: 3;"></path>
    <path d="M59.8,77.0a3.2,3.2,0,1,0,6.4,0a3.2,3.2,0,1,0,-6.4,0z" style="stroke: blue; fill: blue;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(126,77)">
     Countries surfaces from TH2Poly (with errors)

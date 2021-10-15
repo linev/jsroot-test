@@ -151,8 +151,8 @@
   </g>
   <g transform="translate(720,64)" font-family="Arial" font-size="28" space="preserve">
    <path d="M0,0h384v216h-384z" style="fill: none;"></path>
-   <line x1="12" y1="23" x2="84" y2="23" style="stroke: black; stroke-width: 2;"></line>
-   <line x1="48" y1="9" x2="48" y2="37" style="stroke: black; stroke-width: 2;"></line>
+   <path d="M12,23H84" style="stroke: black; stroke-width: 2;"></path>
+   <path d="M48,9V37" style="stroke: black; stroke-width: 2;"></path>
    <path d="M43,23a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: black; fill: black;"></path>
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(372,23)">
     Data

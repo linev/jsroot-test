@@ -120,13 +120,13 @@
     Lab. Lesson 2
    </text>
    <rect x="7" y="60" width="46" height="40" style="fill: yellow;"></rect>
-   <line x1="7" y1="80" x2="53" y2="80" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M7,80H53" style="stroke: black; stroke-width: 1;"></path>
    <path d="M30,80h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(60,80)">
     Expected Points
    </text>
    <rect x="7" y="110" width="46" height="40" style="fill: white;"></rect>
-   <line x1="7" y1="130" x2="53" y2="130" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M7,130H53" style="stroke: black; stroke-width: 1;"></path>
    <path d="M26,130a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(60,130)">
     Measured Points

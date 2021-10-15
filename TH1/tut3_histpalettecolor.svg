@@ -110,31 +110,31 @@
   <g transform="translate(600,96)" font-family="Arial" font-size="14" space="preserve">
    <path d="M0,0h456v168h-456z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <rect x="14" y="8" width="86" height="25" style="fill: none;"></rect>
-   <line x1="14" y1="21" x2="100" y2="21" style="stroke: rgb(53,42,135); stroke-width: 1;"></line>
+   <path d="M14,21H100" style="stroke: rgb(53,42,135); stroke-width: 1;"></path>
    <path d="M53,21a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: rgb(53,42,135); fill: rgb(53,42,135);"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,21)">
     Histogram drawn with full circles
    </text>
    <rect x="14" y="40" width="86" height="25" style="fill: none;"></rect>
-   <line x1="14" y1="52" x2="100" y2="52" style="stroke: rgb(20,129,214); stroke-width: 1;"></line>
+   <path d="M14,52H100" style="stroke: rgb(20,129,214); stroke-width: 1;"></path>
    <path d="M53,48v8h8v-8z" style="stroke: rgb(20,129,214); fill: rgb(20,129,214);"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,53)">
     Histogram drawn with full squares
    </text>
    <rect x="14" y="71" width="86" height="25" style="fill: none;"></rect>
-   <line x1="14" y1="84" x2="100" y2="84" style="stroke: rgb(45,182,165); stroke-width: 1;"></line>
+   <path d="M14,84H100" style="stroke: rgb(45,182,165); stroke-width: 1;"></path>
    <path d="M57,80l-4,8h8z" style="stroke: rgb(45,182,165); fill: rgb(45,182,165);"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,84)">
     Histogram drawn with full triangles up
    </text>
    <rect x="14" y="103" width="86" height="25" style="fill: none;"></rect>
-   <line x1="14" y1="116" x2="100" y2="116" style="stroke: rgb(204,187,91); stroke-width: 1;"></line>
+   <path d="M14,116H100" style="stroke: rgb(204,187,91); stroke-width: 1;"></path>
    <path d="M57,120l-4,-8h8z" style="stroke: rgb(204,187,91); fill: rgb(204,187,91);"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,116)">
     Histogram drawn with full triangles down
    </text>
    <rect x="14" y="134" width="86" height="25" style="fill: none;"></rect>
-   <line x1="14" y1="147" x2="100" y2="147" style="stroke: rgb(249,246,17); stroke-width: 1;"></line>
+   <path d="M14,147H100" style="stroke: rgb(249,246,17); stroke-width: 1;"></path>
    <path d="M53,147a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: rgb(249,246,17); fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,147)">
     Histogram drawn with empty circles

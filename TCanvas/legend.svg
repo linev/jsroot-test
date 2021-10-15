@@ -134,7 +134,7 @@
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,62)">
     Histogram filled with random numbers
    </text>
-   <line x1="14" y1="99" x2="100" y2="99" style="stroke: blue; stroke-width: 4;"></line>
+   <path d="M14,99H100" style="stroke: blue; stroke-width: 4;"></path>
    <g transform="translate(114,80)">
     <svg xmlns="http://www.w3.org/2000/svg" width="171" height="38" role="img" focusable="false" viewBox="0 -1460 9832 2157" xmlns:xlink="http://www.w3.org/1999/xlink">
      <defs>
@@ -230,8 +230,8 @@
      </g>
     </svg>
    </g>
-   <line x1="14" y1="136" x2="100" y2="136" style="stroke: red; stroke-width: 2;"></line>
-   <line x1="57" y1="122" x2="57" y2="152" style="stroke: red; stroke-width: 2;"></line>
+   <path d="M14,136H100" style="stroke: red; stroke-width: 2;"></path>
+   <path d="M57,122V152" style="stroke: red; stroke-width: 2;"></path>
    <path d="M52,131v10h10v-10z" style="stroke: cyan; fill: cyan;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,137)">
     Graph with error bars

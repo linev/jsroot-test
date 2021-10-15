@@ -306,7 +306,7 @@
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,21)">
       NLO QCD
      </text>
-     <line x1="12" y1="52" x2="65" y2="52" style="stroke: red; stroke-width: 4; stroke-dasharray: 5,3,1,3;"></line>
+     <path d="M12,52H65" style="stroke: red; stroke-width: 4; stroke-dasharray: 5,3,1,3;"></path>
      <text fill="black" text-anchor="start" transform="translate(77,56)">
       <tspan dy="-.1em">
        α
@@ -315,7 +315,7 @@
        s
       </tspan>
      </text>
-     <line x1="12" y1="84" x2="65" y2="84" style="stroke: black; stroke-width: 4; stroke-dasharray: 20,5;"></line>
+     <path d="M12,84H65" style="stroke: black; stroke-width: 4; stroke-dasharray: 20,5;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(77,84)">
       CT10 PDF
      </text>

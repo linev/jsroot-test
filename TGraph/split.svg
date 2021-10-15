@@ -94,7 +94,7 @@
   </g>
   <g transform="translate(120,80)" font-family="Arial" font-size="22" space="preserve">
    <path d="M0,0h360v160h-360z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <line x1="11" y1="30" x2="79" y2="30" style="stroke: blue; stroke-width: 2;"></line>
+   <path d="M11,30H79" style="stroke: blue; stroke-width: 2;"></path>
    <path d="M39,30a6,6,0,1,0,12,0a6,6,0,1,0,-12,0z" style="stroke: red; fill: red;"></path>
    <text fill="black" text-anchor="start" transform="translate(90,46)">
     <tspan dy="-.7em">
