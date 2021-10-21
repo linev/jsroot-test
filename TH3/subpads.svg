@@ -6,7 +6,7 @@
  <g>
   <g transform="translate(48,16)" font-family="Arial" font-size="51" space="preserve" font-weight="bold">
    <path d="M3,3v96h1104v-96z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0h1104v96h-1104z" style="fill: rgb(130,158,140); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H1104V96H0Z" style="fill: rgb(130,158,140); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(552,48)">
     "glbox" and "glbox1" options for TH3.
    </text>
@@ -18,13 +18,13 @@
    </g>
    <g>
     <g transform="translate(55,3)" font-family="Arial" font-size="32" space="preserve">
-     <path d="M0,0h442v43h-442z" style="fill: none;"></path>
+     <path d="M0,0H442V43H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(221,0)">
       h31
      </text>
     </g>
     <g transform="translate(431,42)" font-family="Arial" font-size="10" space="preserve">
-     <path d="M0,0h110v102h-110z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H110V102H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(55,6)">
       h31
      </text>
@@ -81,13 +81,13 @@
    </g>
    <g>
     <g transform="translate(55,3)" font-family="Arial" font-size="32" space="preserve">
-     <path d="M0,0h442v43h-442z" style="fill: none;"></path>
+     <path d="M0,0H442V43H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(221,0)">
       h32
      </text>
     </g>
     <g transform="translate(431,42)" font-family="Arial" font-size="10" space="preserve">
-     <path d="M0,0h110v102h-110z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H110V102H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(55,6)">
       h32
      </text>

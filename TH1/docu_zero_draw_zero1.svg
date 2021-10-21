@@ -69,13 +69,13 @@
      </g>
     </g>
     <g transform="translate(121,4)" font-family="Arial" font-size="26" space="preserve">
-     <path d="M0,0h334v43h-334z" style="fill: none;"></path>
+     <path d="M0,0H334V43H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(167,22)">
       Bar-chart drawn from 0
      </text>
     </g>
     <g transform="translate(449,51)" font-family="Arial" font-size="13" space="preserve">
-     <path d="M0,0h115v125h-115z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H115V125H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(58,16)">
       hz1
      </text>
@@ -112,13 +112,13 @@
      <path d="M0,0H461V627H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
     </g>
     <g transform="translate(120,4)" font-family="Arial" font-size="27" space="preserve">
-     <path d="M0,0h336v44h-336z" style="fill: none;"></path>
+     <path d="M0,0H336V44H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(168,22)">
       Lego plot drawn from 0
      </text>
     </g>
     <g transform="translate(449,51)" font-family="Arial" font-size="9" space="preserve">
-     <path d="M0,0h115v188h-115z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H115V188H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(58,16)">
       hz2
      </text>

@@ -86,13 +86,13 @@
    </g>
   </g>
   <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
-   <path d="M0,0h960v53h-960z" style="fill: none;"></path>
+   <path d="M0,0H960V53H0Z" style="fill: none;"></path>
    <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480,0)">
     This is the px distribution
    </text>
   </g>
   <g transform="translate(936,52)" font-family="Arial" font-size="26" space="preserve">
-   <path d="M0,0h240v128h-240z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H240V128H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(120,16)">
     hpx
    </text>

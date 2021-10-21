@@ -87,7 +87,7 @@
    </g>
   </g>
   <g transform="translate(1026,120)">
-   <path d="M0,0h54v600h-54z" style="fill: rgb(249,249,15); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H54V600H0Z" style="fill: rgb(249,249,15); stroke: black; stroke-width: 1;"></path>
    <rect x="0" y="452" width="54" height="61" style="fill: rgb(17,104,219); stroke: rgb(17,104,219);"></rect>
    <rect x="0" y="330" width="54" height="122" style="fill: rgb(11,152,206); stroke: rgb(11,152,206);"></rect>
    <rect x="0" y="270" width="54" height="60" style="fill: rgb(46,183,164); stroke: rgb(46,183,164);"></rect>
@@ -129,7 +129,7 @@
    </g>
   </g>
   <g transform="translate(6,4)" font-family="Arial" font-size="26" space="preserve">
-   <path d="M0,0h1188v64h-1188z" style="fill: none;"></path>
+   <path d="M0,0H1188V64H0Z" style="fill: none;"></path>
    <text fill="black" text-anchor="start" transform="translate(28,51)">
     <tspan dy="-.7em" dx="1.88em">
      Histogram with negative and positive contents. Six contours are defined.
@@ -140,7 +140,7 @@
    </text>
   </g>
   <g transform="translate(936,52)" font-family="Arial" font-size="20" space="preserve">
-   <path d="M0,0h240v212h-240z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H240V212H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(120,18)">
     HstreamFn
    </text>

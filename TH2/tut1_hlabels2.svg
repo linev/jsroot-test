@@ -849,14 +849,14 @@
    </g>
   </g>
   <g transform="translate(150,4)" font-family="Arial" font-size="40" space="preserve">
-   <path d="M0,0h900v53h-900z" style="fill: none;"></path>
+   <path d="M0,0H900V53H0Z" style="fill: none;"></path>
    <text fill="black" text-anchor="middle" dy=".8em" transform="translate(450,0)">
     test
    </text>
   </g>
   <g transform="translate(720,16)" font-family="Arial" font-size="18" space="preserve" font-weight="bold">
    <path d="M4,4v104h456v-104z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0h456v104h-456z" style="fill: rgb(230,230,230); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H456V104H0Z" style="fill: rgb(230,230,230); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(23,13)">
     Use the axis Context Menu LabelsOption
    </text>

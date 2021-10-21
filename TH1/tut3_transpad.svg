@@ -70,13 +70,13 @@
      </g>
     </g>
     <g transform="translate(567,4)" font-family="Arial" font-size="36" space="preserve">
-     <path d="M0,0h65v44h-65z" style="fill: none;"></path>
+     <path d="M0,0H65V44H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(33,22)">
       h1
      </text>
     </g>
     <g transform="translate(480,52)" font-family="Arial" font-size="25" space="preserve">
-     <path d="M0,0h240v128h-240z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H240V128H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(120,16)">
       h1
      </text>
@@ -154,7 +154,7 @@
      </g>
     </g>
     <g transform="translate(780,52)" font-family="Arial" font-size="25" space="preserve">
-     <path d="M0,0h240v128h-240z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H240V128H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="rgb(255,0,0)" text-anchor="middle" dy=".4em" transform="translate(120,16)">
       h2
      </text>

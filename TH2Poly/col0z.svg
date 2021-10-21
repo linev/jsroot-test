@@ -89,7 +89,7 @@
    </g>
   </g>
   <g transform="translate(1086,80)">
-   <path d="M0,0h48v640h-48z" style="fill: none; stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H48V640H0Z" style="fill: none; stroke: black; stroke-width: 1;"></path>
    <rect x="0" y="608" width="48" height="32" style="fill: rgb(38,62,168); stroke: rgb(38,62,168);"></rect>
    <rect x="0" y="576" width="48" height="32" style="fill: rgb(22,82,205); stroke: rgb(22,82,205);"></rect>
    <rect x="0" y="544" width="48" height="32" style="fill: rgb(16,100,220); stroke: rgb(16,100,220);"></rect>
@@ -142,13 +142,13 @@
    </g>
   </g>
   <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
-   <path d="M0,0h960v53h-960z" style="fill: none;"></path>
+   <path d="M0,0H960V53H0Z" style="fill: none;"></path>
    <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480,0)">
     Boxes
    </text>
   </g>
   <g transform="translate(936,52)" font-family="Arial" font-size="22" space="preserve">
-   <path d="M0,0h240v212h-240z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H240V212H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(120,18)">
     Boxes
    </text>

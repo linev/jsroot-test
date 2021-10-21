@@ -88,13 +88,13 @@
      </g>
     </g>
     <g transform="translate(457,1)" font-family="Arial" font-size="13" space="preserve">
-     <path d="M0,0h262v16h-262z" style="fill: none;"></path>
+     <path d="M0,0H262V16H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(131,8)">
       Normal histogram
      </text>
     </g>
     <g transform="translate(917,16)" font-family="Arial" font-size="8" space="preserve">
-     <path d="M0,0h235v40h-235z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H235V40H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(118,5)">
       hp0
      </text>
@@ -195,13 +195,13 @@
      </g>
     </g>
     <g transform="translate(382,1)" font-family="Arial" font-size="13" space="preserve">
-     <path d="M0,0h413v16h-413z" style="fill: none;"></path>
+     <path d="M0,0H413V16H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(207,8)">
       Nearest Neighbour of order 3
      </text>
     </g>
     <g transform="translate(917,16)" font-family="Arial" font-size="8" space="preserve">
-     <path d="M0,0h235v40h-235z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H235V40H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(118,5)">
       hk1
      </text>
@@ -311,13 +311,13 @@
      </g>
     </g>
     <g transform="translate(375,1)" font-family="Arial" font-size="13" space="preserve">
-     <path d="M0,0h427v16h-427z" style="fill: none;"></path>
+     <path d="M0,0H427V16H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(214,8)">
       Nearest Neighbour of order 16
      </text>
     </g>
     <g transform="translate(917,16)" font-family="Arial" font-size="8" space="preserve">
-     <path d="M0,0h235v40h-235z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H235V40H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(118,5)">
       hk2
      </text>

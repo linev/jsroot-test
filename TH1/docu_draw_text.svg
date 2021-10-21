@@ -335,13 +335,13 @@
      </g>
     </g>
     <g transform="translate(86,4)" font-family="Arial" font-size="24" space="preserve">
-     <path d="M0,0h403v44h-403z" style="fill: none;"></path>
+     <path d="M0,0H403V44H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(202,22)">
       Option TEXT on 2D histograms
      </text>
     </g>
     <g transform="translate(449,51)" font-family="Arial" font-size="10" space="preserve">
-     <path d="M0,0h115v188h-115z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H115V188H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(58,16)">
       htext2
      </text>
@@ -490,13 +490,13 @@
      </g>
     </g>
     <g transform="translate(86,4)" font-family="Arial" font-size="24" space="preserve">
-     <path d="M0,0h403v44h-403z" style="fill: none;"></path>
+     <path d="M0,0H403V44H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(202,22)">
       Option TEXT on 1D histograms
      </text>
     </g>
     <g transform="translate(449,51)" font-family="Arial" font-size="12" space="preserve">
-     <path d="M0,0h115v125h-115z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H115V125H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(58,16)">
       htext1
      </text>

@@ -74,13 +74,13 @@
    </g>
   </g>
   <g transform="translate(481,4)" font-family="Arial" font-size="35" space="preserve">
-   <path d="M0,0h237v49h-237z" style="fill: none;"></path>
+   <path d="M0,0H237V49H0Z" style="fill: none;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(119,25)">
     h2poly_title
    </text>
   </g>
   <g transform="translate(936,52)" font-family="Arial" font-size="22" space="preserve">
-   <path d="M0,0h240v192h-240z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H240V192H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(120,16)">
     h2poly_name
    </text>

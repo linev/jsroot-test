@@ -82,7 +82,7 @@
    </g>
   </g>
   <g transform="translate(120,4)" font-family="Arial" font-size="34" space="preserve">
-   <path d="M0,0h960v53h-960z" style="fill: none;"></path>
+   <path d="M0,0H960V53H0Z" style="fill: none;"></path>
    <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480,0)">
     Stacked 1D histograms colored using kOcean palette
    </text>

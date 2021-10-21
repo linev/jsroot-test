@@ -86,19 +86,19 @@
     </g>
     <g transform="translate(85,36)" font-family="Arial" font-size="17" space="preserve" font-weight="bold">
      <path d="M3,3v23h141v-23z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-     <path d="M0,0h141v23h-141z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H141V23H0Z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(71,12)">
       Default option
      </text>
     </g>
     <g transform="translate(141,1)" font-family="Arial" font-size="11" space="preserve">
-     <path d="M0,0h283v14h-283z" style="fill: none;"></path>
+     <path d="M0,0H283V14H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(142,7)">
       This is the px distribution
      </text>
     </g>
     <g transform="translate(440,16)" font-family="Arial" font-size="7" space="preserve">
-     <path d="M0,0h113v38h-113z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H113V38H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(57,5)">
       hpx_copy
      </text>
@@ -136,26 +136,26 @@
     </g>
     <g transform="translate(76,26)" font-family="Arial" font-size="12" space="preserve" font-weight="bold">
      <path d="M3,3v15h143v-15z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-     <path d="M0,0h143v15h-143z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H143V15H0Z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(72,8)">
       option Lego1
      </text>
     </g>
     <g transform="translate(16,219)" font-family="Arial" font-size="14" space="preserve" font-weight="bold">
      <path d="M3,3v17h338v-17z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-     <path d="M0,0h338v17h-338z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H338V17H0Z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(169,9)">
       Click on lego to rotate
      </text>
     </g>
     <g transform="translate(141,1)" font-family="Arial" font-size="11" space="preserve">
-     <path d="M0,0h283v14h-283z" style="fill: none;"></path>
+     <path d="M0,0H283V14H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(142,7)">
       This is the px distribution
      </text>
     </g>
     <g transform="translate(440,16)" font-family="Arial" font-size="7" space="preserve">
-     <path d="M0,0h113v38h-113z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H113V38H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(57,5)">
       hpx_copy
      </text>
@@ -268,14 +268,14 @@
     </g>
     <g transform="translate(790,136)" font-family="Arial" font-size="16" space="preserve" font-weight="bold">
      <path d="M3,3v20h169v-20z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-     <path d="M0,0h169v20h-169z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H169V20H0Z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(85,10)">
       option e1p
      </text>
     </g>
     <g transform="translate(138,96)" font-family="Arial" font-size="16" space="preserve" font-weight="bold">
      <path d="M4,4v100h291v-100z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-     <path d="M0,0h291v100h-291z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H291V100H0Z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
      <text fill="blue" font-size="22" text-anchor="middle" dy=".4em" transform="translate(146,13)">
       You can move
      </text>
@@ -290,13 +290,13 @@
      </text>
     </g>
     <g transform="translate(292,2)" font-family="Arial" font-size="22" space="preserve">
-     <path d="M0,0h543v27h-543z" style="fill: none;"></path>
+     <path d="M0,0H543V27H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(272,14)">
       This is the px distribution
      </text>
     </g>
     <g transform="translate(880,29)" font-family="Arial" font-size="14" space="preserve">
-     <path d="M0,0h226v70h-226z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H226V70H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(113,9)">
       hpx
      </text>
@@ -324,7 +324,7 @@
   </svg>
   <g transform="translate(120,16)" font-family="Arial" font-size="26" space="preserve" font-style="oblique">
    <path d="M3,3v32h960v-32z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0h960v32h-960z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H960V32H0Z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(480,16)">
     Drawing options for one dimensional histograms
    </text>

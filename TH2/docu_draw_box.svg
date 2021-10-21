@@ -71,13 +71,13 @@
    </g>
   </g>
   <g transform="translate(398,4)" font-family="Arial" font-size="39" space="preserve">
-   <path d="M0,0h405v52h-405z" style="fill: none;"></path>
+   <path d="M0,0H405V52H0Z" style="fill: none;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(203,26)">
     Option BOX example
    </text>
   </g>
   <g transform="translate(936,52)" font-family="Arial" font-size="22" space="preserve">
-   <path d="M0,0h240v192h-240z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H240V192H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(120,16)">
     hbox
    </text>

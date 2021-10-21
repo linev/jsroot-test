@@ -111,13 +111,13 @@
      </g>
     </g>
     <g transform="translate(526,2)" font-family="Arial" font-size="17" space="preserve">
-     <path d="M0,0h123v21h-123z" style="fill: none;"></path>
+     <path d="M0,0H123V21H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(62,11)">
       Nation
      </text>
     </g>
     <g transform="translate(917,25)" font-family="Arial" font-size="12" space="preserve">
-     <path d="M0,0h235v61h-235z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H235V61H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(118,8)">
       htemp
      </text>
@@ -238,7 +238,7 @@
      </g>
     </g>
     <g transform="translate(647,69)" font-family="Arial" font-size="25" space="preserve">
-     <path d="M0,0h247v65h-247z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H247V65H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <rect x="7" y="5" width="48" height="24" style="fill: rgb(148,105,112); stroke: rgb(0,0,153); stroke-width: 1;"></rect>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(62,17)">
       All nations
@@ -249,7 +249,7 @@
      </text>
     </g>
     <g transform="translate(513,2)" font-family="Arial" font-size="17" space="preserve">
-     <path d="M0,0h149v21h-149z" style="fill: none;"></path>
+     <path d="M0,0H149V21H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(75,11)">
       Division
      </text>
