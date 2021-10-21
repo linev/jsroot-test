@@ -88,13 +88,13 @@
      </g>
     </g>
     <g transform="translate(113,2)" font-family="Arial" font-size="31" space="preserve">
-     <path d="M0,0h338v38h-338z" style="fill: none;"></path>
+     <path d="M0,0H338V38H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(169,19)">
       py vs px
      </text>
     </g>
     <g transform="translate(440,24)" font-family="Arial" font-size="10" space="preserve">
-     <path d="M0,0h113v90h-113z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H113V90H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(57,8)">
       hpxpy
      </text>
@@ -214,13 +214,13 @@
      </g>
     </g>
     <g transform="translate(113,2)" font-family="Arial" font-size="19" space="preserve">
-     <path d="M0,0h338v38h-338z" style="fill: none;"></path>
+     <path d="M0,0H338V38H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(169,19)">
       Fitted value of par[0]=Constant
      </text>
     </g>
     <g transform="translate(440,24)" font-family="Arial" font-size="12" space="preserve">
-     <path d="M0,0h113v60h-113z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H113V60H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(57,8)">
       hpxpy_0
      </text>
@@ -334,13 +334,13 @@
      </g>
     </g>
     <g transform="translate(113,2)" font-family="Arial" font-size="22" space="preserve">
-     <path d="M0,0h338v38h-338z" style="fill: none;"></path>
+     <path d="M0,0H338V38H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(169,19)">
       Fitted value of par[1]=Mean
      </text>
     </g>
     <g transform="translate(440,24)" font-family="Arial" font-size="12" space="preserve">
-     <path d="M0,0h113v60h-113z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H113V60H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(57,8)">
       hpxpy_1
      </text>
@@ -442,13 +442,13 @@
      </g>
     </g>
     <g transform="translate(113,2)" font-family="Arial" font-size="21" space="preserve">
-     <path d="M0,0h338v38h-338z" style="fill: none;"></path>
+     <path d="M0,0H338V38H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(169,19)">
       Fitted value of par[2]=Sigma
      </text>
     </g>
     <g transform="translate(440,24)" font-family="Arial" font-size="12" space="preserve">
-     <path d="M0,0h113v60h-113z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H113V60H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(57,8)">
       hpxpy_2
      </text>

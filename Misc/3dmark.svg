@@ -8,14 +8,14 @@
  </g>
  <g>
   <g transform="translate(180,4)" font-family="Arial" font-size="36" space="preserve">
-   <path d="M0,0h840v44h-840z" style="fill: none;"></path>
+   <path d="M0,0H840V44H0Z" style="fill: none;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(420,22)">
     pz:py:px {(pz&lt;10 &amp;&amp; pz&gt;6)+(pz&lt;4 &amp;&amp; pz&gt;3)}
    </text>
   </g>
   <g transform="translate(52,60)" font-family="Arial" font-size="34" space="preserve" font-weight="bold">
    <path d="M4,4v161h1096v-161z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0h1096v161h-1096z" style="fill: rgb(223,187,136); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H1096V161H0Z" style="fill: rgb(223,187,136); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(55,27)">
     You can interactively rotate this view in 2 ways:
    </text>

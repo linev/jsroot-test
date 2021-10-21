@@ -155,7 +155,7 @@
      </g>
     </g>
     <g transform="translate(86,2)" font-family="Arial" font-size="17" space="preserve">
-     <path d="M0,0h403v21h-403z" style="fill: none;"></path>
+     <path d="M0,0H403V21H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(202,11)">
       Red Curve / SumW2 Histo errors
      </text>
@@ -313,7 +313,7 @@
      </g>
     </g>
     <g transform="translate(86,2)" font-family="Arial" font-size="17" space="preserve">
-     <path d="M0,0h403v21h-403z" style="fill: none;"></path>
+     <path d="M0,0H403V21H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(202,11)">
       Dashed Curve / No XError bars
      </text>
@@ -471,7 +471,7 @@
      </g>
     </g>
     <g transform="translate(118,2)" font-family="Arial" font-size="17" space="preserve">
-     <path d="M0,0h340v21h-340z" style="fill: none;"></path>
+     <path d="M0,0H340V21H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(170,11)">
       Filled Curve / Blue Histo
      </text>
@@ -625,7 +625,7 @@
      </g>
     </g>
     <g transform="translate(86,2)" font-family="Arial" font-size="20" space="preserve">
-     <path d="M0,0h403v24h-403z" style="fill: none;"></path>
+     <path d="M0,0H403V24H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(202,12)">
       Partial Range / Filled Bar chart
      </text>

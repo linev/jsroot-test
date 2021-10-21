@@ -95,7 +95,7 @@
      </g>
     </g>
     <g transform="translate(103,4)" font-family="Arial" font-size="27" space="preserve">
-     <path d="M0,0h370v49h-370z" style="fill: none;"></path>
+     <path d="M0,0H370V49H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(185,25)">
       Cosmic Data Spectrum
      </text>
@@ -109,7 +109,7 @@
      </text>
     </g>
     <g transform="translate(63,86)" font-family="Arial" font-size="9" space="preserve">
-     <path d="M0,0h196v71h-196z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H196V71H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(98,12)">
       First event: 2021/02/22  09:01:02
      </text>
@@ -121,7 +121,7 @@
      </text>
     </g>
     <g transform="translate(397,86)" font-family="Arial" font-size="13" space="preserve">
-     <path d="M0,0h115v86h-115z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H115V86H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(6,11)">
       Entries
      </text>
@@ -248,7 +248,7 @@
      </g>
     </g>
     <g transform="translate(101,4)" font-family="Arial" font-size="27" space="preserve">
-     <path d="M0,0h373v49h-373z" style="fill: none;"></path>
+     <path d="M0,0H373V49H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(187,25)">
       Cosmic Data Spectrum Fit
      </text>
@@ -262,7 +262,7 @@
      </text>
     </g>
     <g transform="translate(374,361)" font-family="Arial" font-size="9" space="preserve">
-     <path d="M0,0h138v71h-138z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H138V71H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <rect x="4" y="4" width="27" height="13" style="fill: none;"></rect>
      <path d="M4,10H31" style="stroke: rgb(0,0,154); stroke-width: 1;"></path>
      <path d="M15.0,10.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0z" style="stroke: blue; fill: blue;"></path>
@@ -289,7 +289,7 @@
      </text>
     </g>
     <g transform="translate(288,86)" font-family="Arial" font-size="12" space="preserve">
-     <path d="M0,0h225v267h-225z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H225V267H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,12)">
       Entries
      </text>

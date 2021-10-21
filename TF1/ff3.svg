@@ -135,7 +135,7 @@
    </g>
   </g>
   <g transform="translate(120,4)" font-family="Arial" font-size="27" space="preserve">
-   <path d="M0,0h960v53h-960z" style="fill: none;"></path>
+   <path d="M0,0H960V53H0Z" style="fill: none;"></path>
    <text fill="black" text-anchor="start" transform="translate(35,50)">
     <tspan dy="-.1em">
      U projectile at 1.4 MeV/u on
@@ -149,7 +149,7 @@
    </text>
   </g>
   <g transform="translate(480,80)" font-family="Arial" font-size="31" space="preserve">
-   <path d="M0,0h600v160h-600z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H600V160H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <rect x="5" y="9" width="28" height="30" style="fill: none;"></rect>
    <path d="M5,24H33" style="stroke: black; stroke-width: 2;"></path>
    <path d="M19,24h1" style="stroke: black; fill: none;"></path>

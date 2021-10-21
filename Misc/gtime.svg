@@ -89,7 +89,7 @@
    </g>
   </g>
   <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
-   <path d="M0,0h960v53h-960z" style="fill: none;"></path>
+   <path d="M0,0H960V53H0Z" style="fill: none;"></path>
    <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480,0)">
     TGraphTime demo;X domain;Y domain
    </text>
@@ -399,7 +399,7 @@
   </g>
   <g transform="translate(1080,24)" font-family="Arial" font-size="33" space="preserve" font-weight="bold">
    <path d="M3,3v40h96v-40z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0h96v40h-96z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H96V40H0Z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(48,20)">
     1
    </text>

@@ -68,7 +68,7 @@
      </g>
     </g>
     <g transform="translate(36,2)" font-family="Arial" font-size="20" space="preserve">
-     <path d="M0,0h528v32h-528z" style="fill: none;"></path>
+     <path d="M0,0H528V32H0Z" style="fill: none;"></path>
      <text fill="#000000" text-anchor="middle" dy=".8em" transform="translate(264,0)">
       Graph
      </text>
@@ -150,13 +150,13 @@
      </g>
     </g>
     <g transform="translate(36,2)" font-family="Arial" font-size="20" space="preserve">
-     <path d="M0,0h528v32h-528z" style="fill: none;"></path>
+     <path d="M0,0H528V32H0Z" style="fill: none;"></path>
      <text fill="#000000" text-anchor="middle" dy=".8em" transform="translate(264,0)">
       Example of TH1
      </text>
     </g>
     <g transform="translate(468,26)" font-family="Arial" font-size="13" space="preserve">
-     <path d="M0,0h120v64h-120z" style="fill: #FFFFFF; stroke: #000000; stroke-width: 1;"></path>
+     <path d="M0,0H120V64H0Z" style="fill: #FFFFFF; stroke: #000000; stroke-width: 1;"></path>
      <text fill="#000000" text-anchor="middle" dy=".4em" transform="translate(60,8)">
       gaus
      </text>
@@ -257,7 +257,7 @@
      </g>
     </g>
     <g transform="translate(573,48)">
-     <path d="M0,0h24v304h-24z" style="fill: none; stroke: #000000; stroke-width: 1;"></path>
+     <path d="M0,0H24V304H0Z" style="fill: none; stroke: #000000; stroke-width: 1;"></path>
      <rect x="0" y="289" width="24" height="15" style="fill: rgb(38,62,168); stroke: rgb(38,62,168);"></rect>
      <rect x="0" y="274" width="24" height="15" style="fill: rgb(22,82,205); stroke: rgb(22,82,205);"></rect>
      <rect x="0" y="258" width="24" height="16" style="fill: rgb(16,100,220); stroke: rgb(16,100,220);"></rect>
@@ -319,13 +319,13 @@
      </g>
     </g>
     <g transform="translate(36,2)" font-family="Arial" font-size="20" space="preserve">
-     <path d="M0,0h528v32h-528z" style="fill: none;"></path>
+     <path d="M0,0H528V32H0Z" style="fill: none;"></path>
      <text fill="#000000" text-anchor="middle" dy=".8em" transform="translate(264,0)">
       Example of TH2
      </text>
     </g>
     <g transform="translate(468,26)" font-family="Arial" font-size="11" space="preserve">
-     <path d="M0,0h120v106h-120z" style="fill: #FFFFFF; stroke: #000000; stroke-width: 1;"></path>
+     <path d="M0,0H120V106H0Z" style="fill: #FFFFFF; stroke: #000000; stroke-width: 1;"></path>
      <text fill="#000000" text-anchor="middle" dy=".4em" transform="translate(60,9)">
       gaus2
      </text>
@@ -374,13 +374,13 @@
      <path d="M0,0H528V304H0Z" style="fill: #FFFFFF; stroke: black; stroke-width: 1;"></path>
     </g>
     <g transform="translate(36,2)" font-family="Arial" font-size="20" space="preserve">
-     <path d="M0,0h528v32h-528z" style="fill: none;"></path>
+     <path d="M0,0H528V32H0Z" style="fill: none;"></path>
      <text fill="#000000" text-anchor="middle" dy=".8em" transform="translate(264,0)">
       Example of TH2
      </text>
     </g>
     <g transform="translate(468,26)" font-family="Arial" font-size="11" space="preserve">
-     <path d="M0,0h120v106h-120z" style="fill: #FFFFFF; stroke: #000000; stroke-width: 1;"></path>
+     <path d="M0,0H120V106H0Z" style="fill: #FFFFFF; stroke: #000000; stroke-width: 1;"></path>
      <text fill="#000000" text-anchor="middle" dy=".4em" transform="translate(60,9)">
       gaus2
      </text>

@@ -6,7 +6,7 @@
  <g>
   <g transform="translate(120,80)" font-family="Arial" font-size="21" space="preserve" font-weight="bold">
    <path d="M4,4v640h960v-640z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0h960v640h-960z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H960V640H0Z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="start" transform="translate(224,142)">
     <tspan dy="-.7em" dx=".44em">
      2s

@@ -111,13 +111,13 @@
    </g>
   </g>
   <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
-   <path d="M0,0h960v53h-960z" style="fill: none;"></path>
+   <path d="M0,0H960V53H0Z" style="fill: none;"></path>
    <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480,0)">
     Signal plus background
    </text>
   </g>
   <g transform="translate(636,88)" font-family="Arial" font-size="30" space="preserve">
-   <path d="M0,0h432v288h-432z" style="fill: white;"></path>
+   <path d="M0,0H432V288H0Z" style="fill: white;"></path>
    <text fill="black" text-anchor="start" transform="translate(22,33)">
     χ^2 / ndf
    </text>

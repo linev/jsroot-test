@@ -126,7 +126,7 @@
    </g>
   </g>
   <g transform="translate(120,80)" font-family="Arial" font-size="16" space="preserve">
-   <path d="M0,0h456v160h-456z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H456V160H0Z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,24)">
     The Legend Title
    </text>
@@ -160,7 +160,7 @@
    </text>
   </g>
   <g transform="translate(382,4)" font-family="Arial" font-size="40" space="preserve">
-   <path d="M0,0h437v49h-437z" style="fill: none;"></path>
+   <path d="M0,0H437V49H0Z" style="fill: none;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(219,25)">
     TLegend Example
    </text>

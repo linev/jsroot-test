@@ -70,13 +70,13 @@
    </g>
   </g>
   <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
-   <path d="M0,0h960v53h-960z" style="fill: none;"></path>
+   <path d="M0,0H960V53H0Z" style="fill: none;"></path>
    <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480,0)">
     graph 3
    </text>
   </g>
   <g transform="translate(600,96)" font-family="Arial" font-size="43" space="preserve">
-   <path d="M0,0h456v168h-456z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H456V168H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <rect x="14" y="10" width="86" height="42" style="fill: none;"></rect>
    <path d="M14,31H100" style="stroke: blue; stroke-width: 4;"></path>
    <path d="M57,35l-4,-8h8z" style="stroke: black; fill: black;"></path>

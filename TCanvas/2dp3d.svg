@@ -96,13 +96,13 @@
      </g>
     </g>
     <g transform="translate(118,2)" font-family="Arial" font-size="16" space="preserve">
-     <path d="M0,0h316v20h-316z" style="fill: none;"></path>
+     <path d="M0,0H316V20H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(158,10)">
       3*px+2 {px**2+py**2&gt;1}
      </text>
     </g>
     <g transform="translate(375,24)" font-family="Arial" font-size="15" space="preserve">
-     <path d="M0,0h166v74h-166z" style="fill: rgb(222,186,135); stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H166V74H0Z" style="fill: rgb(222,186,135); stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(83,9)">
       htemp
      </text>
@@ -127,7 +127,7 @@
      <path d="M0,19h166" style="stroke: black; stroke-width: 1;"></path>
     </g>
     <g transform="translate(375,24)" font-family="Arial" font-size="15" space="preserve">
-     <path d="M0,0h166v74h-166z" style="fill: rgb(222,186,135); stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H166V74H0Z" style="fill: rgb(222,186,135); stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(83,9)">
       htemp
      </text>
@@ -224,13 +224,13 @@
      </g>
     </g>
     <g transform="translate(234,2)" font-family="Arial" font-size="16" space="preserve">
-     <path d="M0,0h83v20h-83z" style="fill: none;"></path>
+     <path d="M0,0H83V20H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(42,10)">
       pz:px
      </text>
     </g>
     <g transform="translate(375,24)" font-family="Arial" font-size="15" space="preserve">
-     <path d="M0,0h166v110h-166z" style="fill: rgb(222,186,135); stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H166V110H0Z" style="fill: rgb(222,186,135); stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(83,9)">
       hprofs
      </text>
@@ -338,7 +338,7 @@
      </g>
     </g>
     <g transform="translate(188,2)" font-family="Arial" font-size="16" space="preserve">
-     <path d="M0,0h177v20h-177z" style="fill: none;"></path>
+     <path d="M0,0H177V20H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(89,10)">
       py:px {pz&gt;1}
      </text>
@@ -352,14 +352,14 @@
    </g>
    <g>
     <g transform="translate(83,2)" font-family="Arial" font-size="16" space="preserve">
-     <path d="M0,0h386v20h-386z" style="fill: none;"></path>
+     <path d="M0,0H386V20H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(193,10)">
       pz:py:px {(pz&lt;10 &amp;&amp; pz&gt;6)+(pz&lt;4 &amp;&amp; pz&gt;3)}
      </text>
     </g>
     <g transform="translate(24,28)" font-family="Arial" font-size="15" space="preserve" font-weight="bold">
      <path d="M4,4v74h504v-74z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-     <path d="M0,0h504v74h-504z" style="fill: rgb(222,186,135); stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H504V74H0Z" style="fill: rgb(222,186,135); stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(25,12)">
       You can interactively rotate this view in 2 ways:
      </text>

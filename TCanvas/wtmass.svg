@@ -124,7 +124,7 @@
      </g>
     </g>
     <g transform="translate(180,24)" font-family="Arial" font-size="33" space="preserve" font-weight="bold">
-     <path d="M0,0h840v40h-840z" style="fill: none;"></path>
+     <path d="M0,0H840V40H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(420,20)">
       Transverse Mass of the W Candidate
      </text>
@@ -155,7 +155,7 @@
    </text>
   </g>
   <g transform="translate(900,80)" font-family="Arial" font-size="18" space="preserve" font-weight="bold">
-   <path d="M0,0h180v168h-180z" style="fill: white;"></path>
+   <path d="M0,0H180V168H0Z" style="fill: white;"></path>
    <rect x="5" y="7" width="35" height="18" style="fill: rgb(250,121,33); stroke: black; stroke-width: 1;"></rect>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(45,16)">
     Diboson

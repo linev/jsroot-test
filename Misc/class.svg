@@ -6,7 +6,7 @@
  <g>
   <g transform="translate(15,15)">
    <path d="M4,4v413h76v-413z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0h76v413h-76z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H76V413H0Z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
    <path d="M0,20H76V0H0Z" style="fill: rgb(205,205,205);"></path>
    <path d="M0,20L76,20" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="12" space="preserve" font-weight="bold">
@@ -158,7 +158,7 @@
   </g>
   <g transform="translate(120,15)">
    <path d="M4,4v662h533v-662z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0h533v662h-533z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H533V662H0Z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
    <path d="M0,20H533V0H0Z" style="fill: rgb(205,205,205);"></path>
    <path d="M0,20L533,20" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="12" space="preserve" font-weight="bold">
@@ -1655,7 +1655,7 @@
   </g>
   <g transform="translate(120,688)">
    <path d="M4,4v132h533v-132z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0h533v132h-533z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H533V132H0Z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
    <path d="M0,20H533V0H0Z" style="fill: rgb(205,205,205);"></path>
    <path d="M0,20L533,20" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="12" space="preserve" font-weight="bold">
@@ -1797,7 +1797,7 @@
   </g>
   <g transform="translate(120,832)">
    <path d="M4,4v122h533v-122z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0h533v122h-533z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H533V122H0Z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
    <path d="M0,20H533V0H0Z" style="fill: rgb(205,205,205);"></path>
    <path d="M0,20L533,20" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="12" space="preserve" font-weight="bold">
@@ -1924,7 +1924,7 @@
   </g>
   <g transform="translate(120,966)">
    <path d="M4,4v132h533v-132z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0h533v132h-533z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H533V132H0Z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
    <path d="M0,20H533V0H0Z" style="fill: rgb(205,205,205);"></path>
    <path d="M0,20L533,20" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="12" space="preserve" font-weight="bold">
@@ -2061,7 +2061,7 @@
   </g>
   <g transform="translate(682,15)">
    <path d="M4,4v570h152v-570z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0h152v570h-152z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H152V570H0Z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
    <path d="M0,20H152V0H0Z" style="fill: rgb(205,205,205);"></path>
    <path d="M0,20L152,20" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="12" space="preserve" font-weight="bold">
@@ -2468,7 +2468,7 @@
   </g>
   <g transform="translate(863,15)">
    <path d="M4,4v335h76v-335z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0h76v335h-76z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H76V335H0Z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
    <path d="M0,20H76V0H0Z" style="fill: rgb(205,205,205);"></path>
    <path d="M0,20L76,20" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="12" space="preserve" font-weight="bold">
@@ -2590,7 +2590,7 @@
   </g>
   <g transform="translate(863,361)">
    <path d="M4,4v316h76v-316z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0h76v316h-76z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H76V316H0Z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
    <path d="M0,20H76V0H0Z" style="fill: rgb(205,205,205);"></path>
    <path d="M0,20L76,20" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="12" space="preserve" font-weight="bold">

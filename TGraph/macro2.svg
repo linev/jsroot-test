@@ -115,7 +115,7 @@
    </g>
   </g>
   <g transform="translate(120,80)" font-family="Arial" font-size="20" space="preserve">
-   <path d="M0,0h240v160h-240z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H240V160H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(60,30)">
     Lab. Lesson 2
    </text>
@@ -133,7 +133,7 @@
    </text>
   </g>
   <g transform="translate(245,4)" font-family="Arial" font-size="40" space="preserve">
-   <path d="M0,0h710v49h-710z" style="fill: none;"></path>
+   <path d="M0,0H710V49H0Z" style="fill: none;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(355,25)">
     Measurement XYZ and Expectation
    </text>

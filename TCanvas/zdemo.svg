@@ -6,7 +6,7 @@
  <g>
   <g transform="translate(48,22)" font-family="Times New Roman" font-size="25" space="preserve" font-weight="bold" font-style="italic">
    <path d="M3,3v53h1104v-53z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0h1104v53h-1104z" style="fill: rgb(229,229,229); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H1104V53H0Z" style="fill: rgb(229,229,229); stroke: black; stroke-width: 1;"></path>
    <text fill="rgb(148,105,112)" text-anchor="middle" dy=".4em" transform="translate(552,27)">
     Z-scaling of       Direct Photon Productions in pp Collisions at RHIC Energies
    </text>

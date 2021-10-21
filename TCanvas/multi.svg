@@ -302,7 +302,7 @@
      <line x1="180" y1="428" x2="1140" y2="428" style="stroke: black; stroke-width: 1;"></line>
     </g>
     <g transform="translate(696,80)" font-family="Arial" font-size="17" space="preserve">
-     <path d="M0,0h384v168h-384z" style="fill: none;"></path>
+     <path d="M0,0H384V168H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,21)">
       NLO QCD
      </text>
@@ -329,7 +329,7 @@
      </text>
     </g>
     <g transform="translate(264,560)" font-family="Arial" font-size="17" space="preserve">
-     <path d="M0,0h216v101h-216z" style="fill: none;"></path>
+     <path d="M0,0H216V101H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="start" transform="translate(6,28)">
       <tspan dy="-.1em">
        <tspan style="font-size: 130%;" dy="-.08em">

@@ -47,7 +47,7 @@
      <path d="M0,0L-189,87A230,-153,0,0,0,230,0z" style="stroke: black; stroke-width: 1; fill: magenta;"></path>
     </g>
     <g transform="translate(374,54)" font-family="Arial" font-size="18" space="preserve">
-     <path d="M0,0h173v115h-173z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H173V115H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <rect x="5" y="5" width="33" height="17" style="fill: red; stroke: black; stroke-width: 1;"></rect>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(43,14)">
       Slice0
