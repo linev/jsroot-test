@@ -27,7 +27,7 @@
     <g transform="translate(55,65)">
      <title></title>
      <path d="M0,0H442V518H0Z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="442" height="518" viewBox="0 0 442 518">
+     <g clip-path="path('M0,0H442V518H0Z')">
       <g>
        <path d="M130,61l38,60l28,48l21,44l17,41l14,40l13,42l11,45l10,48l9,55" style="stroke: rgb(125,153,209); stroke-width: 1; fill: none;"></path>
        <path d="M126,56v9h9v-9zM164,116v9h9v-9zM191,165v9h9v-9zM212,208v9h9v-9zM229,249v9h9v-9zM244,290v9h9v-9zM256,332v9h9v-9zM267,376v9h9v-9zM277,425v9h9v-9zM286,480v9h9v-9z" style="stroke: blue; fill: blue;"></path>
@@ -52,7 +52,7 @@
        <path d="M50,487" style="stroke: black; stroke-width: 1; fill: none;"></path>
        <path d="M46,487a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: magenta; fill: magenta;"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,518)">
        <path d="M0,0h442" style="stroke: black; stroke-width: 1;"></path>
@@ -301,12 +301,12 @@
     <g transform="translate(55,65)">
      <title></title>
      <path d="M0,0H442V518H0Z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="442" height="518" viewBox="0 0 442 518">
+     <g clip-path="path('M0,0H442V518H0Z')">
       <g>
        <path d="M63,25l78,119l39,60l29,44l25,38l22,33l21,32l20,31l20,30l19,30" style="stroke: rgb(89,84,217); stroke-width: 1; fill: none;"></path>
        <path d="M62.7,19.1l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM140.7,138.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM179.8,197.7l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM208.9,242.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM233.5,279.5l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM255.7,313.4l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM276.6,345.1l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM296.7,375.8l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM316.6,406.1l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM336.4,436.3l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5z" style="stroke: rgb(212,89,84); fill: rgb(212,89,84);"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,518)">
        <path d="M0,0h442" style="stroke: black; stroke-width: 1;"></path>

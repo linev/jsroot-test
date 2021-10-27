@@ -15,14 +15,14 @@
   <g transform="translate(70,84)">
    <title></title>
    <rect x="0" y="0" width="880" height="532" style="fill: none; stroke: black; stroke-width: 1;"></rect>
-   <svg x="0" y="0" overflow="hidden" width="880" height="532" viewBox="0 0 880 532">
+   <g clip-path="path('M0,0H880V532H0Z')">
     <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
      <path d="M0,532h70v-24h36v-47h35v-94h35v-167h35v-88h35v-87h36v11h35v123h35v237h35v79h35v31h36v21h35v5h387" style="stroke-linejoin: miter; stroke: #FF0000; stroke-width: 2; fill: none;"></path>
     </g>
     <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
      <path d="M0,532h317v-8h35v-16h35v-20h35v-50h36v-68h35v-50h35v-54h35v-27h35v-120h36v71h35v70h35v100h35v26h35v55h36v57h35v10h35" style="stroke-linejoin: miter; stroke: #0000FF; stroke-width: 4; fill: none;"></path>
     </g>
-   </svg>
+   </g>
    <g>
     <g transform="translate(0,532)">
      <path d="M0,-14v14m44,-7v7m44,-7v7m44,-7v7m44,-14v14m44,-7v7m44,-7v7m44,-7v7m44,-14v14m44,-7v7m44,-7v7m44,-7v7m44,-14v14m44,-7v7m44,-7v7m44,-7v7m44,-14v14m44,-7v7m44,-7v7m44,-7v7m44,-14v14" style="stroke: black;"></path>

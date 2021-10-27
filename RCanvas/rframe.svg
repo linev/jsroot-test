@@ -7,7 +7,7 @@
   <g transform="translate(240,200)">
    <title></title>
    <rect x="0" y="0" width="720" height="440" style="fill: none; stroke: #0000FF; stroke-width: 3;"></rect>
-   <svg x="0" y="0" overflow="hidden" width="720" height="440" viewBox="0 0 720 440">
+   <g clip-path="path('M0,0H720V440H0Z')">
     <g objname="name" objtype="ROOT::Experimental::RBox">
      <rect x="580" width="40" y="53" height="40" style="stroke: black; stroke-width: 1; fill: #0000FF;"></rect>
     </g>
@@ -19,7 +19,7 @@
       clipping on
      </text>
     </g>
-   </svg>
+   </g>
    <g>
     <g transform="translate(0,440)">
      <path d="M8,-8v8m16,-8v8m16,-16v16m16,-8v8m16,-8v8m16,-8v8m16,-8v8m16,-16v16m16,-8v8m16,-8v8m16,-8v8m16,-8v8m16,-16v16m16,-8v8m16,-8v8m16,-8v8m16,-8v8m16,-16v16m16,-8v8m16,-8v8m16,-8v8m16,-8v8m16,-16v16m16,-8v8m16,-8v8m16,-8v8m16,-8v8m16,-16v16m16,-8v8m16,-8v8m16,-8v8m16,-8v8m16,-16v16m16,-8v8m16,-8v8m16,-8v8m16,-8v8m16,-16v16m16,-8v8m16,-8v8m16,-8v8m16,-8v8m16,-16v16m16,-8v8m16,-8v8" style="stroke: #008000; stroke-width: 3;"></path>

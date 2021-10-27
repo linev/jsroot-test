@@ -10,7 +10,7 @@
     <g transform="translate(38,78)">
      <title></title>
      <path d="M0,0H301V627H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="301" height="627" viewBox="0 0 301 627">
+     <g clip-path="path('M0,0H301V627H0Z')">
       <g>
        <path fill="rgb(38,62,168)" d="M296,460v-11h5v11z"></path>
        <path fill="rgb(18,114,217)" d="M271,397v-10h5v10zM281,418v-10h5v10zM296,481v-11h5v11zM296,439v-11h5v11z"></path>
@@ -31,7 +31,7 @@
        <path fill="rgb(251,230,29)" d="M291,42v-11h5v11zM296,10v-10h5v10z"></path>
        <path fill="rgb(249,249,15)" d="M286,63v-11h5v11z"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,627)">
        <path d="M0,0h301" style="stroke: black; stroke-width: 1;"></path>
@@ -199,7 +199,7 @@
     <g transform="translate(38,78)">
      <title></title>
      <path d="M0,0H301V627H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="301" height="627" viewBox="0 0 301 627">
+     <g clip-path="path('M0,0H301V627H0Z')">
       <g>
        <path fill="rgb(38,62,168)" d="M286,450l-43,-45l52,-2z"></path>
        <path fill="rgb(18,114,217)" d="M250,339l-47,-10l49,-40zM203,298l42,-67l-45,36zM243,405l52,-2l-47,-27zM249,368l52,-21l-49,-10z"></path>
@@ -217,7 +217,7 @@
        <path fill="rgb(251,230,29)" d="M122,406l-3,109l16,-94zM135,419l13,107l2,-100zM150,424l27,95l-12,-97zM165,419l38,76l-23,-86zM181,512l-16,-93l38,76zM207,486l-28,-80l47,51zM228,447l-37,-61l51,21zM301,281l-49,9l44,-58zM248,252l39,-74l-44,45zM295,224l-47,28l39,-74zM270,122l-39,60l23,-97z"></path>
        <path fill="rgb(249,249,15)" d="M179,406l47,51l-35,-69zM191,386l51,21l-42,-46zM241,215l31,-87l-39,61zM285,170l-44,45l31,-87zM231,182l23,-97l-33,74z"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,627)">
        <path d="M0,0h301" style="stroke: black; stroke-width: 1;"></path>
@@ -388,7 +388,7 @@
     <g transform="translate(38,78)">
      <title></title>
      <path d="M0,0H301V627H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="301" height="627" viewBox="0 0 301 627">
+     <g clip-path="path('M0,0H301V627H0Z')">
       <g>
        <path fill="rgb(38,62,168)" d="M166,208l-13,-107l-2,100zM151,203l-27,-95l12,97zM148,105l3,98l-27,-95zM136,208l-38,-76l23,86zM120,115l16,93l-38,-76zM122,221l-47,-51l35,69zM94,141l28,80l-47,-51zM110,241l-51,-21l42,46zM73,180l37,61l-51,-21zM102,268l-52,10l47,19zM58,231l44,37l-52,10zM98,298l-49,40l48,-9zM51,288l47,10l-49,40zM98,329l-42,67l45,-36zM51,348l47,-19l-42,67zM102,359l-30,89l37,-61zM60,404l42,-45l-30,89zM76,453l34,-67l-17,103zM203,131l4,-108l-18,94zM228,45l-25,86l4,-108zM186,114l-6,-108l-9,99zM203,20l-17,94l-6,-108zM168,104l-15,-104v101zM176,5l-8,99l-15,-104zM149,101l-24,-96l9,99zM149,0v101l-24,-96zM130,105l-32,-85l18,94zM121,6l9,99l-32,-85zM112,117l-39,-72l25,86zM94,23l18,94l-39,-72zM95,135l-45,-56l33,75zM69,49l26,86l-45,-56zM80,159l-49,-38l39,61zM47,84l33,75l-49,-38zM68,188l-52,-18l44,45zM29,128l39,60l-52,-18zM58,222l-52,2l47,27zM15,177l43,45l-52,2zM52,259l-52,21l49,10zM5,231l47,28l-52,21zM48,298l-48,40l48,-9zM0,288l48,10l-48,40zM49,337l-44,58l47,-28zM0,346l49,-9l-44,58zM53,375l-39,74l44,-45zM6,403l47,-28l-39,74zM60,412l-31,87l39,-61zM16,457l44,-45l-31,87zM70,445l-23,97l33,-74zM31,505l39,-60l-23,97zM83,473l-14,105l26,-86zM50,548l33,-75l-14,105zM98,496l-4,108l18,-94zM73,582l25,-86l-4,108zM115,513l6,108l9,-99zM98,607l17,-94l6,108zM133,523l15,104v-101zM125,622l8,-99l15,104zM152,526l24,96l-9,-99zM152,627v-101l24,96zM171,522l32,85l-18,-94zM180,621l-9,-99l32,85zM189,510l39,72l-25,-86zM207,604l-18,-94l39,72zM232,578l-26,-86l45,56z"></path>
        <path fill="rgb(22,82,205)" d="M110,386l-17,103l28,-81zM218,154l14,-105l-26,86z"></path>
@@ -409,7 +409,7 @@
        <path fill="rgb(251,230,29)" d="M243,405l52,-2l-47,-27z"></path>
        <path fill="rgb(249,249,15)" d="M203,298l42,-67l-45,36zM199,268l30,-89l-37,61zM249,368l52,-21l-49,-10z"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,627)">
        <path d="M0,0h301" style="stroke: black; stroke-width: 1;"></path>

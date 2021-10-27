@@ -11,6 +11,7 @@
     <path d="M0,0v640M192,0v640M384,0v640M576,0v640M768,0v640M960,0v640" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
     <path d="M0,640h960M0,512h960M0,384h960M0,256h960M0,128h960M0,0h960" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
    </g>
+   <g clip-path="path('M0,0H960V640H0Z')"></g>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>

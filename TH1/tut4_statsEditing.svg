@@ -7,11 +7,11 @@
   <g transform="translate(120,80)">
    <title></title>
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
+   <g clip-path="path('M0,0H960V640H0Z')">
     <g>
      <path d="M0,626h10v14h19v-29h9v29h10v-22h10v-14h9v14h10v15h9v-29h10v7h10v-14h9v21h10v-14h19v-21h10v-43h19v-8h9v43h10v-86h10v72h9v-36h10v-57h38v-22h10v-71h9v36h10v-36h10v-29h9v7h10v-14h9v-29h10v-79h10v36h9v36h10v-36h9v-107h10v93h19v-93h10v-15h9v-57h10v-22h10v144h9v-86h10v7h9v-101h10v180h10v-65h9v-79h10v115h9v-7h10v-14h10v-15h9v-86h10v158h9v7h10v29h10v7h9v-100h10v222h9v-165h10v64h10v65h9v-29h10v79h9v15h10v-22h10v50h9v15h10v14h9v36h10v-58h10v15h9v21h10v50h19v15h10v28h9v-14h10v36h9v-36h10v14h10v8h19v28h9v-14h10v29h10v-8h9v-14h10v14h9v8h10v7h10v7h9v-7h10v7h9v-22h10" style="stroke-linejoin: miter; stroke: rgb(0,0,154); stroke-width: 1; fill: none;"></path>
     </g>
-   </svg>
+   </g>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>

@@ -10,14 +10,14 @@
     <g transform="translate(119,56)">
      <title></title>
      <path d="M0,0H955V474H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="955" height="474" viewBox="0 0 955 474">
+     <g clip-path="path('M0,0H955V474H0Z')">
       <g>
        <path d="M0,59h19v-37h19v114h19v-23h19v53h20v54h19v-30h19v30h19v-37h19v43h19v20h19v17h19v30h19v-3h19v-3h20v10h19v-4h19v37h19v30h19v7h19v-24h19v61h19v-34h19v14h19v16h20v-20h19v30h19v-3h19v10h19v3h19v4h19v27h19v-27h19v20h19v-20h20v3h19v7h19v7h19v3h19v-14h19v4h19v23h19v-16h19v13h19v-10h20v10h38v13h19v-23h19v10h19" style="stroke-linejoin: miter; stroke: rgb(0,0,154); stroke-width: 1; fill: none;"></path>
       </g>
       <g>
        <path d="M0,45h20M10,8v74M19,93h20M29,58v69M38,112h20M48,78v68M57,143h20M67,111v65M76,156h20M86,124v64M96,166h20M106,134v63M115,156h20M125,124v64M134,175h20M144,144v62M153,274h20M163,248v51M172,226h20M182,198v56M191,318h20M201,296v44M210,232h20M220,205v55M229,277h20M239,252v50M248,293h20M258,269v48M267,331h20M277,310v42M287,350h20M297,330v40M306,363h20M316,344v38M325,363h20M335,344v38M344,350h20M354,330v40M363,344h20M373,323v41M382,328h20M392,306v43M401,401h20M411,386v30M420,350h20M430,330v40M439,375h20M449,358v35M458,391h20M468,375v33M478,375h20M488,358v35M497,391h20M507,375v33M516,391h20M526,375v33M535,404h20M545,389v30M554,426h20M564,414v25M573,410h20M583,396v29M592,410h20M602,396v29M611,407h20M621,393v29M630,429h20M640,418v23M649,417h20M659,403v27M669,433h20M679,421v23M688,410h20M698,396v29M707,433h20M717,421v23M726,449h20M736,440v18M745,429h20M755,418v23M764,455h20M774,447v16M783,449h20M793,440v18M802,452h20M812,443v17M821,458h20M831,451v14M840,439h20M850,428v22M860,449h20M870,440v18M879,449h20M889,440v18M898,439h20M908,428v22M917,461h20M927,455v13M936,464h20M946,459v11" style="stroke: rgb(0,0,154); stroke-width: 1;"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,474)">
        <path d="M0,0h955" style="stroke: black; stroke-width: 1;"></path>
@@ -75,7 +75,7 @@
     <g transform="translate(119,12)">
      <title></title>
      <path d="M0,0H955V155H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="955" height="155" viewBox="0 0 955 155">
+     <g clip-path="path('M0,0H955V155H0Z')">
       <g>
        <g transform="translate(10,132)">
         <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0L-10,0m0,3v-6M0,0L10,0m0,3v-6M0,0L0,3m3,0h-6M0,0L0,-3m3,0h-6"></path>
@@ -229,7 +229,7 @@
        </g>
        <path d="M10,132h1m18,-6h1m18,7h1m18,-4h1m18,3h1m18,3h1m18,-1h1m18,1h1m18,-16h1m18,12h1m19,-12h1m18,15h1m18,-1h1m18,-2h1m18,-8h1m18,-3h1m18,-5h1m18,9h1m18,9h1m18,3h1m19,-2h1m18,-2h1m18,3h1m18,-2h1m18,1h1m18,-2h1m18,5h1m18,-1h1m18,0h1m18,-8h1m19,8h1m18,11h1m18,-10h1m18,2h1m18,-5h1m18,-6h1m18,12h1m18,-4h1m18,-10h1m18,6h1m19,-29h1m18,37h1m18,-22h1m18,6h1m18,11h1m18,1h1m18,0h1m18,16h1M926,96h1m18,7h1" style="stroke: black; fill: none;"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,155)">
        <path d="M0,0h955" style="stroke: black; stroke-width: 1;"></path>

@@ -11,14 +11,14 @@
     <path d="M0,640h960M0,560h960M0,480h960M0,400h960M0,320h960M0,240h960M0,160h960M0,80h960M0,0h960" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
     <path d="M96,0v640M288,0v640M480,0v640M672,0v640M864,0v640" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
    </g>
-   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
+   <g clip-path="path('M0,0H960V640H0Z')">
     <g>
      <path d="M480,632h72v-32h-72zM480,552h-317v-32h317zM480,472h-88v-32h88zM480,392h10v-32h-10zM480,312h8v-32h-8zM480,232h-162v-32h162zM480,152h-124v-32h124zM480,72h-228v-32h228z" style="fill: blue;"></path>
     </g>
     <g>
      <path d="M480,600h97v-32h-97zM480,520h-290v-32h290zM480,440h-62v-32h62zM480,360h36v-32h-36zM480,280h33v-32h-33zM480,200h-136v-32h136zM480,120h-98v-32h98zM480,40h-202v-32h202z" style="fill: rgb(125,153,209);"></path>
     </g>
-   </svg>
+   </g>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>

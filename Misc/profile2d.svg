@@ -7,7 +7,7 @@
   <g transform="translate(120,80)">
    <title></title>
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
+   <g clip-path="path('M0,0H960V640H0Z')">
     <g>
      <path fill="rgb(38,62,168)" d="M360,336h24v-32h-24zm24,32h24v-96h-24zm24,16h24v-128h-24zm24,0h24v-128h-24zm24,16h24v-160h-24zm24,0h24v-160h-24zm24,-16h24v-128h-24zm24,0h24v-128h-24zm24,-16h24v-96h-24zm24,-32h24v-32h-24z"></path>
      <path fill="rgb(22,82,205)" d="M312,336h24v-32h-24zm24,48h24v-128h-24zm24,16h24v-64h-24zm0,-96h24v-64h-24zm24,112h24v-48h-24zm0,-144h24v-48h-24zm24,144h24v-32h-24zm0,-160h24v-32h-24zm24,160h24v-32h-24zm0,-160h24v-32h-24zm24,176h24v-32h-24zm0,-192h24v-32h-24zm24,192h24v-32h-24zm0,-192h24v-32h-24zm24,192h24v-48h-24zm0,-176h24v-32h-24zm24,160h24v-32h-24zm0,-160h24v-32h-24zm24,160h24v-48h-24zm0,-144h24v-48h-24zm24,128h24v-64h-24zm0,-96h24v-64h-24zm24,80h24v-128h-24zm24,-48h24v-48h-24z"></path>
@@ -30,7 +30,7 @@
      <path fill="rgb(251,230,29)" d="M120,96h24v-16h-24zM720,48h24v-16h-24zM864,512h24v-16h-24z"></path>
      <path fill="rgb(249,249,15)" d="M312,16h24v-16h-24z"></path>
     </g>
-   </svg>
+   </g>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>

@@ -10,7 +10,7 @@
     <g transform="translate(86,38)">
      <title></title>
      <path d="M0,0H432V307H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="432" height="307" viewBox="0 0 432 307">
+     <g clip-path="path('M0,0H432V307H0Z')">
       <g>
        <g transform="translate(11,285)">
         <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0L-11,0m0,3v-6M0,0L11,0m0,3v-6M0,0L0,15m3,0h-6M0,0L0,-15m3,0h-6"></path>
@@ -77,7 +77,7 @@
       <g objname="gauss_Norm%5Bx%5D" objtype="RooCurve">
        <path d="M-22,307v-9h22l5,-2l6,-2l5,-3l6,-3l5,-3l5,-4l6,-5l5,-5l6,-5l5,-6l5,-6l6,-7l5,-8l6,-7l10,-16l11,-16l6,-7l5,-8l5,-6l6,-7l5,-5l6,-4l5,-4l5,-2l6,-2h5l6,1l5,2l5,3l6,4l5,5l6,5l5,7l5,7l11,15l11,16l11,16l5,7l6,7l5,7l5,6l6,6l5,5l6,5l5,4l5,4l6,3l5,3l6,2l5,2l5,2l11,3l11,2l11,1l11,1l21,1h87" style="stroke: red; stroke-width: 3; fill: none;"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,307)">
        <path d="M0,0h432" style="stroke: black; stroke-width: 1;"></path>
@@ -168,7 +168,7 @@
     <g transform="translate(86,38)">
      <title></title>
      <path d="M0,0H432V307H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="432" height="307" viewBox="0 0 432 307">
+     <g clip-path="path('M0,0H432V307H0Z')">
       <g>
        <g transform="translate(11,286)">
         <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0L0,14m3,0h-6M0,0L0,-28m3,0h-6"></path>
@@ -235,7 +235,7 @@
       <g objname="gauss_Norm%5Bx%5D" objtype="RooCurve">
        <path d="M-22,307v-8h22l5,-2l6,-2l5,-3l6,-3l5,-3l5,-4l6,-4l5,-5l6,-5l5,-6l5,-6l6,-7l5,-7l6,-7l10,-15l11,-16l6,-7l5,-7l5,-6l6,-6l5,-5l6,-5l5,-3l5,-3l6,-1h5l6,1l5,1l5,3l6,4l5,5l6,5l5,7l5,6l11,15l11,15l11,15l5,7l6,7l5,7l5,6l6,5l5,5l6,5l5,4l5,3l6,4l5,2l6,3l5,2l5,2l11,2l11,2l11,1l11,1l21,1h87" style="stroke: blue; stroke-width: 3; stroke-dasharray: 3,3; fill: none;"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,307)">
        <path d="M0,0h432" style="stroke: black; stroke-width: 1;"></path>
@@ -326,7 +326,7 @@
     <g transform="translate(86,38)">
      <title></title>
      <path d="M0,0H432V307H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="432" height="307" viewBox="0 0 432 307">
+     <g clip-path="path('M0,0H432V307H0Z')">
       <g objname="gauss_Norm%5Bx%5D" objtype="RooCurve">
        <path d="M-22,307v-8h22l5,-2l6,-2l5,-3l6,-3l5,-3l5,-4l6,-4l5,-5l6,-5l5,-6l5,-6l6,-7l5,-7l6,-7l10,-15l11,-16l6,-7l5,-7l5,-6l6,-6l5,-5l6,-5l5,-3l5,-3l6,-1h5l6,1l5,1l5,3l6,4l5,5l6,5l5,7l5,6l11,15l11,15l11,15l5,7l6,7l5,7l5,6l6,5l5,5l6,5l5,4l5,3l6,4l5,2l6,3l5,2l5,2l11,2l11,2l11,1l11,1l21,1h87Z" style="stroke: none; fill: rgb(255,204,0);"></path>
       </g>
@@ -393,7 +393,7 @@
        </g>
        <path d="M7,286a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM28,307a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM50,275a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM72,202a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM93,223a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM115,170a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM136,75a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM158,181a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM180,254a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM201,223a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM223,265a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM244,233a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM266,254a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM288,296a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM309,307a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM331,307a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM352,307a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM374,307a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM396,307a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM417,307a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: blue; fill: blue;"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,307)">
        <path d="M0,0h432" style="stroke: black; stroke-width: 1;"></path>
@@ -484,7 +484,7 @@
     <g transform="translate(86,38)">
      <title></title>
      <path d="M0,0H432V307H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="432" height="307" viewBox="0 0 432 307">
+     <g clip-path="path('M0,0H432V307H0Z')">
       <g>
        <g transform="translate(11,280)">
         <path d="M-10,0h20v27h-20z" style="fill: rgb(204,204,204);"></path>
@@ -550,7 +550,7 @@
       <g objname="gauss_Norm%5Bx%5D_Range%5B-8.000000_3.000000%5D" objtype="RooCurve">
        <path d="M43,263l6,-8l6,-8l6,-9l6,-10l6,-10l6,-10l12,-22l12,-21l6,-10l5,-9l6,-9l6,-6l3,-3l3,-3l3,-2l3,-2l3,-2l3,-1h9l3,1l3,1l3,1l3,2l3,2l3,3l3,3l6,7l6,8l6,10l6,10l12,21l11,21l6,11l6,10l6,10l6,9l6,8l6,7l6,7l6,6l6,5l6,5" style="stroke: magenta; stroke-width: 3; fill: none;"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,307)">
        <path d="M0,0h432" style="stroke: black; stroke-width: 1;"></path>

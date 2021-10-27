@@ -10,7 +10,7 @@
     <g transform="translate(38,25)">
      <title></title>
      <path d="M0,0H301V201H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
+     <g clip-path="path('M0,0H301V201H0Z')">
       <g>
        <path fill="rgb(38,62,168)" d="M100,141h51v-141h-51zm51,40h50v-181h-50zm50,20h50v-80h-50zm50,0h50v-40h-50z"></path>
        <path fill="rgb(22,82,205)" d="M100,161h51v-20h-51zm51,40h50v-20h-50z"></path>
@@ -166,7 +166,7 @@
         </text>
        </g>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,201)">
        <path d="M0,0h301" style="stroke: black; stroke-width: 1;"></path>
@@ -276,7 +276,7 @@
     <g transform="translate(38,25)">
      <title></title>
      <path d="M0,0H301V201H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
+     <g clip-path="path('M0,0H301V201H0Z')">
       <g>
        <path fill="rgb(38,62,168)" d="M100,80h51v-20h-51zm0,-40h51v-40h-51zm51,121h50v-161h-50zm50,20h50v-181h-50zm50,0h50v-181h-50z"></path>
        <path fill="rgb(16,100,220)" d="M100,141h51v-40h-51zm51,40h50v-20h-50z"></path>
@@ -476,7 +476,7 @@
         </text>
        </g>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,201)">
        <path d="M0,0h301" style="stroke: black; stroke-width: 1;"></path>
@@ -586,7 +586,7 @@
     <g transform="translate(38,25)">
      <title></title>
      <path d="M0,0H301V201H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
+     <g clip-path="path('M0,0H301V201H0Z')">
       <g>
        <path fill="rgb(16,100,220)" d="M0,201h50v-201h-50z"></path>
        <path fill="rgb(18,114,217)" d="M50,201h50v-201h-50z"></path>
@@ -747,7 +747,7 @@
         </text>
        </g>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,201)">
        <path d="M0,0h301" style="stroke: black; stroke-width: 1;"></path>
@@ -857,7 +857,7 @@
     <g transform="translate(38,25)">
      <title></title>
      <path d="M0,0H301V201H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
+     <g clip-path="path('M0,0H301V201H0Z')">
       <g>
        <path fill="rgb(38,62,168)" d="M100,141h51v-141h-51zm51,40h50v-181h-50zm50,20h50v-80h-50zm50,0h50v-40h-50z"></path>
        <path fill="rgb(22,82,205)" d="M100,161h51v-20h-51zm51,40h50v-20h-50z"></path>
@@ -1014,7 +1014,7 @@
         </text>
        </g>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,201)">
        <path d="M0,0h301" style="stroke: black; stroke-width: 1;"></path>
@@ -1124,7 +1124,7 @@
     <g transform="translate(38,25)">
      <title></title>
      <path d="M0,0H301V201H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
+     <g clip-path="path('M0,0H301V201H0Z')">
       <g>
        <path fill="rgb(38,62,168)" d="M100,80h51v-20h-51zm51,41h50v-121h-50zm50,60h50v-181h-50zm50,20h50v-201h-50z"></path>
        <path fill="rgb(22,82,205)" d="M100,60h51v-60h-51zm51,101h50v-40h-50z"></path>
@@ -1325,7 +1325,7 @@
         </text>
        </g>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,201)">
        <path d="M0,0h301" style="stroke: black; stroke-width: 1;"></path>
@@ -1435,7 +1435,7 @@
     <g transform="translate(38,25)">
      <title></title>
      <path d="M0,0H301V201H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
+     <g clip-path="path('M0,0H301V201H0Z')">
       <g>
        <path fill="rgb(16,100,220)" d="M0,201h50v-201h-50z"></path>
        <path fill="rgb(18,114,217)" d="M50,201h50v-201h-50zm50,0h51v-20h-51z"></path>
@@ -1594,7 +1594,7 @@
         </text>
        </g>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,201)">
        <path d="M0,0h301" style="stroke: black; stroke-width: 1;"></path>
@@ -1704,7 +1704,7 @@
     <g transform="translate(38,25)">
      <title></title>
      <path d="M0,0H301V201H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
+     <g clip-path="path('M0,0H301V201H0Z')">
       <g>
        <path fill="rgb(38,62,168)" d="M50,181h50v-181h-50zm50,20h51v-201h-51zm51,0h50v-201h-50zm50,0h50v-201h-50zm50,0h50v-201h-50z"></path>
        <path fill="rgb(22,82,205)" d="M50,201h50v-20h-50z"></path>
@@ -1898,7 +1898,7 @@
         </text>
        </g>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,201)">
        <path d="M0,0h301" style="stroke: black; stroke-width: 1;"></path>
@@ -2008,7 +2008,7 @@
     <g transform="translate(38,25)">
      <title></title>
      <path d="M0,0H301V201H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
+     <g clip-path="path('M0,0H301V201H0Z')">
       <g>
        <path fill="rgb(38,62,168)" d="M100,101h51v-21h-51zm0,-41h51v-60h-51zm51,121h50v-181h-50zm50,20h50v-201h-50zm50,0h50v-201h-50z"></path>
        <path fill="rgb(22,82,205)" d="M100,121h51v-20h-51zm0,-41h51v-20h-51z"></path>
@@ -2206,7 +2206,7 @@
         </text>
        </g>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,201)">
        <path d="M0,0h301" style="stroke: black; stroke-width: 1;"></path>

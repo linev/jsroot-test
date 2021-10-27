@@ -10,11 +10,11 @@
     <g transform="translate(58,78)">
      <title></title>
      <path d="M0,0H461V627H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="461" height="627" viewBox="0 0 461 627">
+     <g clip-path="path('M0,0H461V627H0Z')">
       <g>
        <path d="M-77,439C-73.82,443.11,-41.36,510.27,-26,505S10.53,407.12,26,402S60.96,398.93,77,395S125.54,327.98,128,322S176.37,153.18,179,147S223.49,89.52,231,81S279.66,24.14,282,30S323.9,327.52,333,336S379.42,132.54,384,125S426.83,176.57,435,168S486.1,17.64,487,15L487,237C485.99,239.78,443.82,371.42,435,380S389.05,331.23,384,339S342.75,545.41,333,537S284.62,257.14,282,251S239.11,289.43,231,298S181.93,353.54,179,360S130.75,517.74,128,524S93.02,588.05,77,592S41.48,593.9,26,599S-10.39,689.08,-26,694S-73.5,637.18,-77,633Z" style="stroke: none; fill: red;"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,627)">
        <path d="M0,0h461" style="stroke: black; stroke-width: 1;"></path>
@@ -111,11 +111,11 @@
     <g transform="translate(58,78)">
      <title></title>
      <path d="M0,0H461V627H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="461" height="627" viewBox="0 0 461 627">
+     <g clip-path="path('M0,0H461V627H0Z')">
       <g>
        <path d="M-77,439l51,66l52,-103l51,-7l51,-73l51,-175l52,-66l51,-51l51,306l51,-211l51,43l52,-153L487,237l-52,143l-51,-41l-51,198l-51,-286l-51,47l-52,62l-51,164l-51,68l-51,7l-52,95l-51,-61Z" style="stroke: none; fill: red;"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,627)">
        <path d="M0,0h461" style="stroke: black; stroke-width: 1;"></path>

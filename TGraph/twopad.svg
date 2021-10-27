@@ -10,12 +10,12 @@
     <g transform="translate(120,80)">
      <title></title>
      <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
+     <g clip-path="path('M0,0H960V640H0Z')">
       <g>
        <path d="M80,320l40,82l40,75l40,59l40,38l40,13l40,-13l40,-38l40,-59l40,-75l40,-82l40,-82l40,-75l40,-59l40,-38l40,-13l40,13l40,38l40,59l40,75l40,82" style="stroke: black; stroke-width: 1; fill: none;"></path>
        <path d="M80,320h1m39,82h1m39,75h1m39,59h1m39,38h1m39,13h1m39,-13h1m39,-38h1m39,-59h1m39,-75h1m39,-82h1m39,-82h1m39,-75h1m39,-59h1M640,66h1M680,53h1m39,13h1m39,38h1m39,59h1m39,75h1m39,82h1" style="stroke: black; fill: none;"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,640)">
        <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
@@ -81,11 +81,11 @@
     <g transform="translate(120,80)">
      <title></title>
      <path d="M0,0H960V640H0Z" style="fill: white; opacity: 0; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
+     <g clip-path="path('M0,0H960V640H0Z')">
       <g>
        <path d="M80,587l40,-13l40,-38l40,-59l40,-75l40,-82l40,-82l40,-75l40,-59l40,-38l40,-13l40,13l40,38l40,59l40,75l40,82l40,82l40,75l40,59l40,38l40,13" style="stroke: red; stroke-width: 1; fill: none;"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g>
        <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>

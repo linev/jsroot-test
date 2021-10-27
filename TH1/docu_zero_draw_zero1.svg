@@ -10,13 +10,13 @@
     <g transform="translate(58,78)">
      <title></title>
      <path d="M0,0H461V627H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="461" height="627" viewBox="0 0 461 627">
+     <g clip-path="path('M0,0H461V627H0Z')">
       <g>
        <path d="M0,312h23v-3h-23zM23,319h23v-10h-23zM46,333h23v-24h-23zM69,353h23v-44h-23zM92,380h23v-71h-23zM115,425h23v-116h-23zM138,465h23v-156h-23zM161,526h23v-217h-23zM184,568h23v-259h-23zM207,590h24v-281h-24zM231,38h23v271h-23zM254,49h23v260h-23zM277,92h23v217h-23zM300,142h23v167h-23zM323,189h23v120h-23zM346,241h23v68h-23zM369,268h23v41h-23zM392,286h23v23h-23zM415,295h23v14h-23zM438,304h23v5h-23z" style="fill: blue;"></path>
        <path d="M0,312h5v-3h-5zM23,319h5v-10h-5zM46,333h5v-24h-5zM69,353h5v-44h-5zM92,380h5v-71h-5zM115,425h5v-116h-5zM138,465h5v-156h-5zM161,526h5v-217h-5zM184,568h5v-259h-5zM207,590h5v-281h-5zM231,38h5v271h-5zM254,49h5v260h-5zM277,92h5v217h-5zM300,142h5v167h-5zM323,189h5v120h-5zM346,241h5v68h-5zM369,268h5v41h-5zM392,286h5v23h-5zM415,295h5v14h-5zM438,304h5v5h-5z" style="fill: rgb(0, 0, 255);"></path>
        <path d="M23,312h-5v-3h5zM46,319h-5v-10h5zM69,333h-5v-24h5zM92,353h-5v-44h5zM115,380h-5v-71h5zM138,425h-5v-116h5zM161,465h-5v-156h5zM184,526h-5v-217h5zM207,568h-5v-259h5zM231,590h-5v-281h5zM254,38h-5v271h5zM277,49h-5v260h5zM300,92h-5v217h5zM323,142h-5v167h5zM346,189h-5v120h5zM369,241h-5v68h5zM392,268h-5v41h5zM415,286h-5v23h5zM438,295h-5v14h5zM461,304h-5v5h5z" style="fill: rgb(0, 0, 213);"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,627)">
        <path d="M0,0h461" style="stroke: black; stroke-width: 1;"></path>
@@ -110,6 +110,7 @@
     <g transform="translate(58,78)" style="display: none;">
      <title></title>
      <path d="M0,0H461V627H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <g clip-path="path('M0,0H461V627H0Z')"></g>
     </g>
     <g transform="translate(120,4)" font-family="Arial" font-size="27" space="preserve">
      <path d="M0,0H336V44H0Z" style="fill: none;"></path>

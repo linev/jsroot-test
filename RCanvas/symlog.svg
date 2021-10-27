@@ -10,7 +10,7 @@
     <g transform="translate(50,36)">
      <title></title>
      <rect x="0" y="0" width="425" height="228" style="fill: none; stroke: black; stroke-width: 1;"></rect>
-     <svg x="0" y="0" overflow="hidden" width="425" height="228" viewBox="0 0 425 228">
+     <g clip-path="path('M0,0H425V228H0Z')">
       <g objname="name" objtype="ROOT::Experimental::RMarker">
        <path d="M53.5,9.0a1.5,1.5,0,1,0,3.0,0a1.5,1.5,0,1,0,-3.0,0z" style="stroke: blue; fill: blue;"></path>
       </g>
@@ -536,7 +536,7 @@
       <g objname="name" objtype="ROOT::Experimental::RMarker">
        <path d="M12.5,88.0a1.5,1.5,0,1,0,3.0,0a1.5,1.5,0,1,0,-3.0,0z" style="stroke: orange; fill: orange;"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,228)">
        <path d="M16,-6v6m19,-3v3m20,-3v3m20,-3v3m19,-6v6m20,-3v3m20,-3v3m19,-3v3m20,-6v6m20,-3v3m20,-3v3m19,-3v3m20,-6v6m20,-3v3m19,-3v3m20,-3v3m20,-6v6m19,-3v3m20,-3v3m20,-3v3m19,-6v6" style="stroke: black;"></path>
@@ -631,7 +631,7 @@
     <g transform="translate(50,36)">
      <title></title>
      <rect x="0" y="0" width="425" height="228" style="fill: none; stroke: black; stroke-width: 1;"></rect>
-     <svg x="0" y="0" overflow="hidden" width="425" height="228" viewBox="0 0 425 228">
+     <g clip-path="path('M0,0H425V228H0Z')">
       <g objname="name" objtype="ROOT::Experimental::RMarker">
        <path d="M318.5,9.0a1.5,1.5,0,1,0,3.0,0a1.5,1.5,0,1,0,-3.0,0z" style="stroke: blue; fill: blue;"></path>
       </g>
@@ -1157,7 +1157,7 @@
       <g objname="name" objtype="ROOT::Experimental::RMarker">
        <path d="M-6.5,88.0a1.5,1.5,0,1,0,3.0,0a1.5,1.5,0,1,0,-3.0,0z" style="stroke: orange; fill: orange;"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,228)">
        <path d="M0,-3v3m8,-3v3m6,-3v3m6,-3v3m5,-3v3m4,-6v6m29,-3v3m18,-3v3m12,-3v3m9,-3v3m8,-3v3m6,-3v3m6,-3v3m5,-3v3m4,-6v6m29,-3v3m18,-3v3m12,-3v3m9,-3v3m8,-3v3m6,-3v3m6,-3v3m5,-3v3m4,-6v6m29,-3v3m18,-3v3m12,-3v3m9,-3v3m8,-3v3m6,-3v3m6,-3v3m5,-3v3m4,-6v6m29,-3v3m18,-3v3m12,-3v3m9,-3v3m8,-3v3m6,-3v3m6,-3v3m5,-3v3m4,-6v6" style="stroke: black;"></path>
@@ -1274,7 +1274,7 @@
     <g transform="translate(50,36)">
      <title></title>
      <rect x="0" y="0" width="425" height="228" style="fill: none; stroke: black; stroke-width: 1;"></rect>
-     <svg x="0" y="0" overflow="hidden" width="425" height="228" viewBox="0 0 425 228">
+     <g clip-path="path('M0,0H425V228H0Z')">
       <g objname="name" objtype="ROOT::Experimental::RMarker">
        <path d="M237.5,9.0a1.5,1.5,0,1,0,3.0,0a1.5,1.5,0,1,0,-3.0,0z" style="stroke: blue; fill: blue;"></path>
       </g>
@@ -1800,7 +1800,7 @@
       <g objname="name" objtype="ROOT::Experimental::RMarker">
        <path d="M24.5,88.0a1.5,1.5,0,1,0,3.0,0a1.5,1.5,0,1,0,-3.0,0z" style="stroke: orange; fill: orange;"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,228)">
        <path d="M54,-6v6m138,-3v3m47,-3v3m29,-3v3m21,-6v6m17,-3v3m14,-3v3m11,-3v3m10,-6v6m9,-3v3m8,-3v3m7,-3v3m7,-6v6m6,-3v3m6,-3v3m5,-3v3m5,-6v6m5,-3v3m4,-3v3m4,-3v3m4,-6v6m4,-3v3m3,-3v3m4,-3v3m3,-6v6" style="stroke: black;"></path>

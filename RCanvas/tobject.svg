@@ -10,12 +10,12 @@
     <g transform="translate(42,48)">
      <title></title>
      <path d="M0,0H528V304H0Z" style="fill: #FFFFFF; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="528" height="304" viewBox="0 0 528 304">
+     <g clip-path="path('M0,0H528V304H0Z')">
       <g>
        <path d="M44,279l49,-85l49,-84l49,-85l49,85l48,84l49,85l49,-85l49,-84l49,-85" style="stroke: red; stroke-width: 3; fill: none;"></path>
        <path d="M44,279h1M93,194h1m48,-84h1M191,25h1m48,85h1m47,84h1m48,85h1m48,-85h1m48,-84h1M484,25h1" style="stroke: #000000; fill: none;"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,304)">
        <path d="M0,0h528" style="stroke: #000000; stroke-width: 1;"></path>
@@ -81,11 +81,11 @@
     <g transform="translate(42,48)">
      <title></title>
      <path d="M0,0H528V304H0Z" style="fill: #FFFFFF; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="528" height="304" viewBox="0 0 528 304">
+     <g clip-path="path('M0,0H528V304H0Z')">
       <g>
        <path d="M0,304h63v-3h6v3h10v-3h5v3h6v-1h5v1h5v-4h6v1h5v-1h5v-4h5v2h6v-5h5v4h5v-10h6v-8h5v-8h5v-13h5v7h6v-22h5v19h5v-31h6v11h5v-47h5v1h5v-11h6v-28h5v-26h5v14h5v-45h6v-11h5v-22h5v15h6v-47h5v28h5v-14h5v-12h6v-23h5v6h5v7h6v25h5v17h5v-3h5v-10h6v36h5v-22h5v41h6v-11h5v46h5v10h5v4h6v36h5v10h5v29h5v16h6v-8h5v18h5v6h6v-2h5v2h5v16h5v4h6v7h5v3h5v-4h6v8h5v-7h5v6h5v4h6v-3h5v3h5v-1h11v-2h5v2h5v1h69" style="stroke-linejoin: miter; stroke: #0000FF; stroke-width: 3; stroke-dasharray: 3,3; fill: none;"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,304)">
        <path d="M0,0h528" style="stroke: #000000; stroke-width: 1;"></path>
@@ -188,7 +188,7 @@
     <g transform="translate(42,48)">
      <title></title>
      <path d="M0,0H528V304H0Z" style="fill: #FFFFFF; stroke: black; stroke-width: 1;"></path>
-     <svg x="0" y="0" overflow="hidden" width="528" height="304" viewBox="0 0 528 304">
+     <g clip-path="path('M0,0H528V304H0Z')">
       <g>
        <path fill="rgb(38,62,168)" d="M79,190h13v-84h-13zm13,15h14v-114h-14zm14,8h13v-129h-13zm13,15h13v-160h-13zm13,8h13v-175h-13zm13,0h13v-61h-13zm0,-114h13v-61h-13zm13,121h14v-53h-14zm0,-137h14v-53h-14zm14,145h13v-53h-13zM172,99h13v-53h-13zm13,152h13v-46h-13zM185,91h13v-45h-13zm13,167h13v-45h-13zM198,84h13v-46h-13zm13,174h13v-45h-13zM211,84h13v-46h-13zm13,174h14v-38h-14zM224,76h14v-38h-14zm14,182h13v-38h-13zM238,76h13v-38h-13zm13,182h13v-38h-13zM251,76h13v-38h-13zm13,182h13v-38h-13zM264,76h13v-38h-13zm13,182h13v-38h-13zM277,76h13v-38h-13zm13,182h14v-38h-14zM290,76h14v-38h-14zm14,182h13v-38h-13zM304,76h13v-38h-13zm13,182h13v-45h-13zM317,84h13v-46h-13zm13,174h13v-45h-13zM330,84h13v-46h-13zm13,167h13v-46h-13zM343,91h13v-45h-13zm13,160h14v-53h-14zM356,99h14v-53h-14zm14,144h13v-53h-13zm0,-137h13v-53h-13zm13,130h13v-61h-13zm0,-114h13v-61h-13zm13,114h13v-175h-13zm13,-8h13v-160h-13zm13,-15h14v-129h-14zm14,-8h13v-114h-13zm13,-15h13v-84h-13z"></path>
        <path fill="rgb(22,82,205)" d="M145,175h13v-53h-13zm13,15h14v-15h-14zm0,-68h14v-16h-14zm14,76h13v-16h-13zm0,-84h13v-15h-13zm13,91h13v-7h-13zM185,99h13v-8h-13zm13,114h13v-15h-13zM198,99h13v-15h-13zm13,114h13v-8h-13zM211,91h13v-7h-13zm13,129h14v-7h-14zM224,84h14v-8h-14zm14,136h13v-7h-13zM238,84h13v-8h-13zm13,136h13v-7h-13zM251,84h13v-8h-13zm13,136h13v-7h-13zM264,84h13v-8h-13zm13,136h13v-7h-13zM277,84h13v-8h-13zm13,136h14v-7h-14zM290,84h14v-8h-14zm14,136h13v-7h-13zM304,84h13v-8h-13zm13,129h13v-8h-13zM317,91h13v-7h-13zm13,122h13v-15h-13zM330,99h13v-15h-13zm13,106h13v-7h-13zM343,99h13v-8h-13zm13,99h14v-16h-14zm0,-84h14v-15h-14zm14,76h13v-15h-13zm0,-68h13v-16h-13zm13,53h13v-53h-13z"></path>
@@ -210,7 +210,7 @@
        <path fill="rgb(251,230,29)" d="M251,160h13v-8h-13zm0,-16h13v-7h-13zm26,16h13v-8h-13zm0,-16h13v-7h-13z"></path>
        <path fill="rgb(249,249,15)" d="M251,152h13v-8h-13zm13,8h13v-23h-13zm13,-8h13v-8h-13z"></path>
       </g>
-     </svg>
+     </g>
      <g>
       <g transform="translate(0,304)">
        <path d="M0,0h528" style="stroke: #000000; stroke-width: 1;"></path>
@@ -372,6 +372,7 @@
     <g transform="translate(42,48)" style="display: none;">
      <title></title>
      <path d="M0,0H528V304H0Z" style="fill: #FFFFFF; stroke: black; stroke-width: 1;"></path>
+     <g clip-path="path('M0,0H528V304H0Z')"></g>
     </g>
     <g transform="translate(36,2)" font-family="Arial" font-size="20" space="preserve">
      <path d="M0,0H528V32H0Z" style="fill: none;"></path>

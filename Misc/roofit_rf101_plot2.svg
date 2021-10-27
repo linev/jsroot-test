@@ -7,7 +7,7 @@
   <g transform="translate(120,80)">
    <title></title>
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
+   <g clip-path="path('M0,0H960V640H0Z')">
     <g>
      <path d="M0,0h10v640h950" style="stroke-linejoin: miter; stroke: rgb(0,0,154); stroke-width: 1; fill: none;"></path>
     </g>
@@ -317,7 +317,7 @@
     <g objname="gauss_Norm%5Bx%5D" objtype="RooCurve">
      <path d="M-10,640v-1h39l9,-1h10l10,-1h9l10,-1l9,-1l10,-1l10,-1l9,-2l10,-1l9,-2l10,-3l10,-3l9,-3l10,-4l9,-4l10,-5l10,-6l9,-6l10,-8l9,-8l10,-9l10,-10l9,-11l10,-11l9,-13l10,-14l10,-15l9,-16l10,-17l9,-18l10,-19l10,-19l9,-20l10,-21l9,-21l10,-21l10,-21l9,-21l10,-21l9,-19l10,-20l10,-18l9,-16l10,-16l9,-13l10,-12l10,-10l9,-8l10,-6l9,-3l10,-2l10,2l9,3l10,6l9,8l10,10l10,12l9,13l10,16l9,16l10,18l10,20l9,19l10,21l9,21l10,21l10,21l9,21l10,21l9,20l10,19l10,19l9,18l10,17l9,16l10,15l10,14l9,13l10,11l9,11l10,10l10,9l9,8l10,8l9,6l10,6l10,5l9,4l10,4l9,3l10,3l10,3l9,2l10,1l9,2l10,1h10v6" style="stroke: rgb(0,0,255); stroke-width: 3; fill: none;"></path>
     </g>
-   </svg>
+   </g>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>

@@ -11,11 +11,11 @@
     <path d="M0,0v600M48,0v600M96,0v600M144,0v600M192,0v600M240,0v600M288,0v600M336,0v600M384,0v600M432,0v600M480,0v600M528,0v600M576,0v600M624,0v600M672,0v600M720,0v600M768,0v600M816,0v600M864,0v600M912,0v600M960,0v600" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
     <path d="M0,512h960M0,391h960M0,270h960M0,148h960M0,27h960" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
    </g>
-   <svg x="0" y="0" overflow="hidden" width="960" height="600" viewBox="0 0 960 600">
+   <g clip-path="path('M0,0H960V600H0Z')">
     <g>
      <path d="M0,100h48v73h48v291h48v-316h48v291h48v-218h48v352h48v-37h48v-206h48v-72h48v121h48v-243h48v-60h48v145h48v-194h48v194h48v-97h48v158h48v36h48v49h48L960,603L0,603Z" style="stroke-linejoin: miter; stroke: rgb(0,0,154); stroke-width: 1; fill: rgb(125,154,210);"></path>
     </g>
-   </svg>
+   </g>
    <g>
     <g transform="translate(0,600)">
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
