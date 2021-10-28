@@ -21,7 +21,7 @@
     JINR preprint E2-98-64, Dubna, 1998
    </text>
   </g>
-  <svg viewBox="0 0 552 648" preserveAspectRatio="none" x="24" y="136" width="552" height="648">
+  <g transform="translate(24,136)" clip-path="path('M0,0H552V648H0Z')">
    <path d="M0,0H552V648H0Z" style="fill: rgb(173,189,199);"></path>
    <g>
     <g transform="translate(55,65)">
@@ -294,8 +294,8 @@
      </text>
     </g>
    </g>
-  </svg>
-  <svg viewBox="0 0 552 648" preserveAspectRatio="none" x="624" y="136" width="552" height="648">
+  </g>
+  <g transform="translate(624,136)" clip-path="path('M0,0H552V648H0Z')">
    <path d="M0,0H552V648H0Z" style="fill: rgb(173,189,199);"></path>
    <g>
     <g transform="translate(55,65)">
@@ -547,6 +547,6 @@
      </text>
     </g>
    </g>
-  </svg>
+  </g>
  </g>
 </svg>

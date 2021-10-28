@@ -126,7 +126,7 @@
    </text>
    <path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path>
   </g>
-  <svg viewBox="0 0 48 514" preserveAspectRatio="none" x="1104" y="206" width="48" height="514">
+  <g transform="translate(1104,206)" clip-path="path('M0,0H48V514H0Z')">
    <path d="M0,0H48V514H0Z" style="fill: rgb(207,94,97); stroke: black; stroke-width: 1;"></path>
    <g>
     <g>
@@ -135,6 +135,6 @@
      <path d="M44,514v-514l-2,2v510h-36l-2,2z" style="stroke: none; fill: rgb(105, 128, 175);"></path>
     </g>
    </g>
-  </svg>
+  </g>
  </g>
 </svg>

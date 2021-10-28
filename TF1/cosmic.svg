@@ -9,7 +9,7 @@
  </title>
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
-  <svg viewBox="0 0 576 784" preserveAspectRatio="none" x="12" y="8" width="576" height="784">
+  <g transform="translate(12,8)" clip-path="path('M0,0H576V784H0Z')">
    <path d="M0,0H576V784H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(58,78)">
@@ -148,8 +148,8 @@
      </text>
     </g>
    </g>
-  </svg>
-  <svg viewBox="0 0 576 784" preserveAspectRatio="none" x="612" y="8" width="576" height="784">
+  </g>
+  <g transform="translate(612,8)" clip-path="path('M0,0H576V784H0Z')">
    <path d="M0,0H576V784H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(58,78)">
@@ -358,6 +358,6 @@
      </text>
     </g>
    </g>
-  </svg>
+  </g>
  </g>
 </svg>

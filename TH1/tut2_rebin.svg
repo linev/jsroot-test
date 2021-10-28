@@ -4,7 +4,7 @@
  </title>
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
-  <svg viewBox="0 0 1176 251" preserveAspectRatio="none" x="12" y="8" width="1176" height="251">
+  <g transform="translate(12,8)" clip-path="path('M0,0H1176V251H0Z')">
    <path d="M0,0H1176V251H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(118,25)">
@@ -107,8 +107,8 @@
      <path d="M0,10h235" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
-  </svg>
-  <svg viewBox="0 0 1176 251" preserveAspectRatio="none" x="12" y="274" width="1176" height="251">
+  </g>
+  <g transform="translate(12,274)" clip-path="path('M0,0H1176V251H0Z')">
    <path d="M0,0H1176V251H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(118,25)">
@@ -211,8 +211,8 @@
      <path d="M0,10h235" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
-  </svg>
-  <svg viewBox="0 0 1176 251" preserveAspectRatio="none" x="12" y="541" width="1176" height="251">
+  </g>
+  <g transform="translate(12,541)" clip-path="path('M0,0H1176V251H0Z')">
    <path d="M0,0H1176V251H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(118,25)">
@@ -318,6 +318,6 @@
      <path d="M0,10h235" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
-  </svg>
+  </g>
  </g>
 </svg>

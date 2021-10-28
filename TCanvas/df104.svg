@@ -4,7 +4,7 @@
  </title>
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
-  <svg viewBox="0 0 1200 520" preserveAspectRatio="none" x="0" y="0" width="1200" height="520">
+  <g transform="translate(0,0)" clip-path="path('M0,0H1200V520H0Z')">
    <path d="M0,0H1200V520H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(168,26)">
@@ -157,8 +157,8 @@
      </text>
     </g>
    </g>
-  </svg>
-  <svg viewBox="0 0 1200 280" preserveAspectRatio="none" x="0" y="520" width="1200" height="280">
+  </g>
+  <g transform="translate(0,520)" clip-path="path('M0,0H1200V280H0Z')">
    <path d="M0,0H1200V280H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(168,0)">
@@ -234,6 +234,6 @@
      </g>
     </g>
    </g>
-  </svg>
+  </g>
  </g>
 </svg>

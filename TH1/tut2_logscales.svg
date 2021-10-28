@@ -4,7 +4,7 @@
  </title>
  <path d="M0,0H1200V800H0Z" style="fill: rgb(133,195,164);"></path>
  <g>
-  <svg viewBox="0 0 564 240" preserveAspectRatio="none" x="36" y="64" width="564" height="240">
+  <g transform="translate(36,64)" clip-path="path('M0,0H564V240H0Z')">
    <path d="M0,0H564V240H0Z" style="fill: rgb(131,159,141);"></path>
    <g>
     <g transform="translate(56,24)">
@@ -105,8 +105,8 @@
      </text>
     </g>
    </g>
-  </svg>
-  <svg viewBox="0 0 564 240" preserveAspectRatio="none" x="612" y="64" width="564" height="240">
+  </g>
+  <g transform="translate(612,64)" clip-path="path('M0,0H564V240H0Z')">
    <path d="M0,0H564V240H0Z" style="fill: rgb(174,189,200);"></path>
    <g>
     <g transform="translate(56,24)">
@@ -267,8 +267,8 @@
      </text>
     </g>
    </g>
-  </svg>
-  <svg viewBox="0 0 1128 412" preserveAspectRatio="none" x="36" y="372" width="1128" height="412">
+  </g>
+  <g transform="translate(36,372)" clip-path="path('M0,0H1128V412H0Z')">
    <path d="M0,0H1128V412H0Z" style="fill: rgb(125,154,210);"></path>
    <g>
     <g transform="translate(113,41)">
@@ -450,7 +450,7 @@
      </text>
     </g>
    </g>
-  </svg>
+  </g>
   <g transform="translate(120,16)" font-family="Arial" font-size="26" space="preserve">
    <path d="M3,3v32h960v-32z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H960V32H0Z" style="fill: rgb(179,179,179); stroke: black; stroke-width: 1;"></path>
