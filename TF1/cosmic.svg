@@ -314,9 +314,6 @@
      <text fill="black" text-anchor="end" dy=".4em" transform="translate(214,85)">
       0
      </text>
-     <text fill="black" text-anchor="start" transform="translate(11,116)">
-      χ^2 / ndf
-     </text>
      <text fill="black" text-anchor="end" dy=".4em" transform="translate(214,109)">
       459.3 / 95
      </text>
@@ -329,33 +326,48 @@
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,158)">
       Alpha_Power
      </text>
-     <text fill="black" text-anchor="start" transform="translate(113,164)">
-      -0.7008 ± 0.0182
-     </text>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,182)">
       Constant_Gauss
-     </text>
-     <text fill="black" text-anchor="start" transform="translate(139,189)">
-      76.94 ± 1.92
      </text>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,206)">
       Constant_Power
      </text>
-     <text fill="black" text-anchor="start" transform="translate(139,213)">
-      51.62 ± 2.80
-     </text>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,231)">
       Mean_Gauss
-     </text>
-     <text fill="black" text-anchor="start" transform="translate(138,237)">
-      48.59 ± 0.34
      </text>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,255)">
       Sigma_Gauss
      </text>
-     <text fill="black" text-anchor="start" transform="translate(140,261)">
-      14.11 ± 0.28
-     </text>
+     <g transform="translate(11,115) scale(0.6615236455702336,0.6615236455702336)">
+      <text font-family="Arial" fill="black" font-size="20">
+       χ^2 / ndf
+      </text>
+     </g>
+     <g transform="translate(113,164) scale(0.6615236455702336,0.6615236455702336)">
+      <text font-family="Arial" fill="black" font-size="20">
+       -0.7008 ± 0.0182
+      </text>
+     </g>
+     <g transform="translate(139,188) scale(0.6615236455702336,0.6615236455702336)">
+      <text font-family="Arial" fill="black" font-size="20">
+       76.94 ± 1.92
+      </text>
+     </g>
+     <g transform="translate(139,212) scale(0.6615236455702336,0.6615236455702336)">
+      <text font-family="Arial" fill="black" font-size="20">
+       51.62 ± 2.80
+      </text>
+     </g>
+     <g transform="translate(138,237) scale(0.6615236455702336,0.6615236455702336)">
+      <text font-family="Arial" fill="black" font-size="20">
+       48.59 ± 0.34
+      </text>
+     </g>
+     <g transform="translate(140,261) scale(0.6615236455702336,0.6615236455702336)">
+      <text font-family="Arial" fill="black" font-size="20">
+       14.11 ± 0.28
+      </text>
+     </g>
     </g>
    </g>
   </g>

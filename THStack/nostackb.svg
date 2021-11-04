@@ -72,16 +72,18 @@
     </g>
    </g>
   </g>
-  <g transform="translate(185,4)" font-family="Arial" font-size="42" space="preserve">
+  <g transform="translate(185,4)" font-family="Arial" font-size="39" space="preserve">
    <path d="M0,0H829V52H0Z" style="fill: none;"></path>
-   <text fill="black" text-anchor="start" transform="translate(20,47)">
-    <tspan dy="-.1em">
+   <g transform="translate(20,39) scale(0.9201415581353322,0.9201415581353322)">
+    <text font-family="Arial" fill="black" font-size="43">
      Stacked 1D histograms: option
-    </tspan>
-    <tspan font-family="Courier New">
-     "nostackb"
-    </tspan>
-   </text>
+    </text>
+    <g transform="translate(599.9170283999999,0)">
+     <text font-family="Courier New" fill="black" font-size="43">
+      "nostackb"
+     </text>
+    </g>
+   </g>
   </g>
  </g>
 </svg>

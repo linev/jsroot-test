@@ -59,51 +59,63 @@
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
      <path d="M0,-24v24m65,-12v12m37,-12v12m27,-12v12m21,-12v12m17,-12v12m14,-12v12m13,-12v12m11,-12v12m9,-24v24m65,-12v12m38,-12v12m27,-12v12m20,-12v12m17,-12v12m15,-12v12m12,-12v12m11,-12v12m10,-24v24m64,-12v12m38,-12v12m27,-12v12m21,-12v12m17,-12v12m14,-12v12m12,-12v12m11,-12v12m10,-24v24m65,-12v12m38,-12v12m26,-12v12m21,-12v12m17,-12v12m14,-12v12m13,-12v12m11,-12v12m10,-24v24m64,-12v12m38,-12v12" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
-      <text fill="black" text-anchor="start" transform="translate(-23,46)">
-       <tspan dy="-.1em">
+      <g transform="translate(-22,34)">
+       <text font-family="Arial" fill="black" font-size="28">
         10
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy="-.6em">
-        -3
-       </tspan>
-      </text>
-      <text fill="black" text-anchor="start" transform="translate(191,46)">
-       <tspan dy="-.1em">
+       </text>
+       <g transform="translate(29.638828800000002,-12.880000000000003)">
+        <text font-family="Arial" fill="black" font-size="16.8">
+         -3
+        </text>
+       </g>
+      </g>
+      <g transform="translate(192,34)">
+       <text font-family="Arial" fill="black" font-size="28">
         10
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy="-.6em">
-        -2
-       </tspan>
-      </text>
-      <text fill="black" text-anchor="start" transform="translate(406,46)">
-       <tspan dy="-.1em">
+       </text>
+       <g transform="translate(29.638828800000002,-12.880000000000003)">
+        <text font-family="Arial" fill="black" font-size="16.8">
+         -2
+        </text>
+       </g>
+      </g>
+      <g transform="translate(407,34)">
+       <text font-family="Arial" fill="black" font-size="28">
         10
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy="-.6em">
-        -1
-       </tspan>
-      </text>
-      <text fill="black" text-anchor="start" transform="translate(623,46)">
-       <tspan dy="-.1em">
+       </text>
+       <g transform="translate(29.638828800000002,-12.880000000000003)">
+        <text font-family="Arial" fill="black" font-size="16.8">
+         -1
+        </text>
+       </g>
+      </g>
+      <g transform="translate(624,34)">
+       <text font-family="Arial" fill="black" font-size="28">
         10
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy="-.6em">
-        0
-       </tspan>
-      </text>
-      <text fill="black" text-anchor="start" transform="translate(838,46)">
-       <tspan dy="-.1em">
+       </text>
+       <g transform="translate(29.638828800000002,-12.880000000000003)">
+        <text font-family="Arial" fill="black" font-size="16.8">
+         0
+        </text>
+       </g>
+      </g>
+      <g transform="translate(839,34)">
+       <text font-family="Arial" fill="black" font-size="28">
         10
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy="-.6em">
-        1
-       </tspan>
-      </text>
+       </text>
+       <g transform="translate(29.638828800000002,-12.880000000000003)">
+        <text font-family="Arial" fill="black" font-size="16.8">
+         1
+        </text>
+       </g>
+      </g>
      </g>
      <g font-family="Arial" font-size="28" space="preserve" transform="translate(480,54)">
-      <text fill="black" text-anchor="start" transform="translate(-119,14)">
-       thickness (μg/cm2)
-      </text>
+      <g transform="translate(-119,8)">
+       <text font-family="Arial" fill="black" font-size="28">
+        thickness (μg/cm2)
+       </text>
+      </g>
      </g>
     </g>
     <g>
@@ -134,19 +146,21 @@
     </g>
    </g>
   </g>
-  <g transform="translate(120,4)" font-family="Arial" font-size="27" space="preserve">
+  <g transform="translate(120,4)" font-family="Arial" font-size="33" space="preserve">
    <path d="M0,0H960V53H0Z" style="fill: none;"></path>
-   <text fill="black" text-anchor="start" transform="translate(112,50)">
-    <tspan dy="-.1em">
+   <g transform="translate(23,44) scale(0.7656111374828739,0.7656111374828739)">
+    <text font-family="Arial" fill="black" font-size="44">
      U projectile at 1.4 MeV/u on
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
-     40
-    </tspan>
-    <tspan dy=".36em">
+    </text>
+    <g transform="translate(556.0562304,-20.239999999999995)">
+     <text font-family="Arial" fill="black" font-size="26.4">
+      40
+     </text>
+    </g>
+    <text font-family="Arial" fill="black" font-size="44" x="585">
      Ar target with 1 mbar pressure.
-    </tspan>
-   </text>
+    </text>
+   </g>
   </g>
   <g transform="translate(480,80)" font-family="Arial" font-size="31" space="preserve">
    <path d="M0,0H600V160H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
