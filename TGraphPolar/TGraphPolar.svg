@@ -77,7 +77,7 @@
      <line x1="0" y1="0" x2="190" y2="177" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
      <line x1="0" y1="0" x2="220" y2="93" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
      <g transform="translate(-157,-301)">
-      <g transform="translate(0,0)">
+      <g>
        <g transform="translate(0,-16.25)">
         <text font-family="Arial" font-weight="bold" font-size="25">
          2π
@@ -92,7 +92,7 @@
       </g>
      </g>
      <g transform="translate(-158,340)">
-      <g transform="translate(0,0)">
+      <g>
        <g transform="translate(0,-16.25)">
         <text font-family="Arial" font-weight="bold" font-size="25">
          4π
@@ -226,7 +226,7 @@
      <line x1="0" y1="0" x2="219" y2="97" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
      <line x1="0" y1="0" x2="227" y2="49" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
      <g transform="translate(180,-246)">
-      <g transform="translate(0,0)">
+      <g>
        <g transform="translate(0,-16.25)">
         <text font-family="Arial" font-weight="bold" font-size="25">
          π
@@ -241,7 +241,7 @@
       </g>
      </g>
      <g transform="translate(-8,-348)">
-      <g transform="translate(0,0)">
+      <g>
        <g transform="translate(0,-16.25)">
         <text font-family="Arial" font-weight="bold" font-size="25">
          π
@@ -256,7 +256,7 @@
       </g>
      </g>
      <g transform="translate(-210,-246)">
-      <g transform="translate(0,0)">
+      <g>
        <g transform="translate(0,-16.25)">
         <text font-family="Arial" font-weight="bold" font-size="25">
          3π
@@ -276,7 +276,7 @@
       </text>
      </g>
      <g transform="translate(-210,285)">
-      <g transform="translate(0,0)">
+      <g>
        <g transform="translate(0,-16.25)">
         <text font-family="Arial" font-weight="bold" font-size="25">
          5π
@@ -291,7 +291,7 @@
       </g>
      </g>
      <g transform="translate(-15,387)">
-      <g transform="translate(0,0)">
+      <g>
        <g transform="translate(0,-16.25)">
         <text font-family="Arial" font-weight="bold" font-size="25">
          3π
@@ -306,7 +306,7 @@
       </g>
      </g>
      <g transform="translate(180,285)">
-      <g transform="translate(0,0)">
+      <g>
        <g transform="translate(0,-16.25)">
         <text font-family="Arial" font-weight="bold" font-size="25">
          7π
