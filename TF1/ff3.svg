@@ -59,7 +59,7 @@
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
      <path d="M0,-24v24m65,-12v12m37,-12v12m27,-12v12m21,-12v12m17,-12v12m14,-12v12m13,-12v12m11,-12v12m9,-24v24m65,-12v12m38,-12v12m27,-12v12m20,-12v12m17,-12v12m15,-12v12m12,-12v12m11,-12v12m10,-24v24m64,-12v12m38,-12v12m27,-12v12m21,-12v12m17,-12v12m14,-12v12m12,-12v12m11,-12v12m10,-24v24m65,-12v12m38,-12v12m26,-12v12m21,-12v12m17,-12v12m14,-12v12m13,-12v12m11,-12v12m10,-24v24m64,-12v12m38,-12v12" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
-      <text fill="black" text-anchor="start" transform="translate(-25,46)">
+      <text fill="black" text-anchor="start" transform="translate(-23,46)">
        <tspan dy="-.1em">
         10
        </tspan>
@@ -67,7 +67,7 @@
         -3
        </tspan>
       </text>
-      <text fill="black" text-anchor="start" transform="translate(189,46)">
+      <text fill="black" text-anchor="start" transform="translate(191,46)">
        <tspan dy="-.1em">
         10
        </tspan>
@@ -75,7 +75,7 @@
         -2
        </tspan>
       </text>
-      <text fill="black" text-anchor="start" transform="translate(404,46)">
+      <text fill="black" text-anchor="start" transform="translate(406,46)">
        <tspan dy="-.1em">
         10
        </tspan>
@@ -101,7 +101,7 @@
       </text>
      </g>
      <g font-family="Arial" font-size="28" space="preserve" transform="translate(480,54)">
-      <text fill="black" text-anchor="start" transform="translate(-135,14)">
+      <text fill="black" text-anchor="start" transform="translate(-119,14)">
        thickness (μg/cm2)
       </text>
      </g>
@@ -136,7 +136,7 @@
   </g>
   <g transform="translate(120,4)" font-family="Arial" font-size="27" space="preserve">
    <path d="M0,0H960V53H0Z" style="fill: none;"></path>
-   <text fill="black" text-anchor="start" transform="translate(35,50)">
+   <text fill="black" text-anchor="start" transform="translate(112,50)">
     <tspan dy="-.1em">
      U projectile at 1.4 MeV/u on
     </tspan>

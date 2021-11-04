@@ -94,7 +94,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(103,4)" font-family="Arial" font-size="27" space="preserve">
+    <g transform="translate(103,4)" font-family="Arial" font-size="25" space="preserve">
      <path d="M0,0H370V49H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(185,25)">
       Cosmic Data Spectrum
@@ -108,7 +108,7 @@
       Threshold
      </text>
     </g>
-    <g transform="translate(63,86)" font-family="Arial" font-size="9" space="preserve">
+    <g transform="translate(63,86)" font-family="Arial" font-size="8" space="preserve">
      <path d="M0,0H196V71H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(98,12)">
       First event: 2021/02/22  09:01:02
@@ -120,7 +120,7 @@
       Type: X100-7 - Voltage: 5.00 [V]
      </text>
     </g>
-    <g transform="translate(397,86)" font-family="Arial" font-size="13" space="preserve">
+    <g transform="translate(397,86)" font-family="Arial" font-size="12" space="preserve">
      <path d="M0,0H115V86H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(6,11)">
       Entries
@@ -247,7 +247,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(101,4)" font-family="Arial" font-size="27" space="preserve">
+    <g transform="translate(101,4)" font-family="Arial" font-size="25" space="preserve">
      <path d="M0,0H373V49H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(187,25)">
       Cosmic Data Spectrum Fit
@@ -288,7 +288,7 @@
       Gauss (signal)
      </text>
     </g>
-    <g transform="translate(288,86)" font-family="Arial" font-size="12" space="preserve">
+    <g transform="translate(288,86)" font-family="Arial" font-size="13" space="preserve">
      <path d="M0,0H225V267H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,12)">
       Entries
@@ -314,7 +314,7 @@
      <text fill="black" text-anchor="end" dy=".4em" transform="translate(214,85)">
       0
      </text>
-     <text fill="black" text-anchor="start" transform="translate(11,115)">
+     <text fill="black" text-anchor="start" transform="translate(11,116)">
       χ^2 / ndf
      </text>
      <text fill="black" text-anchor="end" dy=".4em" transform="translate(214,109)">
@@ -329,31 +329,31 @@
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,158)">
       Alpha_Power
      </text>
-     <text fill="black" text-anchor="start" transform="translate(101,164)">
+     <text fill="black" text-anchor="start" transform="translate(113,164)">
       -0.7008 ± 0.0182
      </text>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,182)">
       Constant_Gauss
      </text>
-     <text fill="black" text-anchor="start" transform="translate(127,188)">
+     <text fill="black" text-anchor="start" transform="translate(139,189)">
       76.94 ± 1.92
      </text>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,206)">
       Constant_Power
      </text>
-     <text fill="black" text-anchor="start" transform="translate(127,213)">
+     <text fill="black" text-anchor="start" transform="translate(139,213)">
       51.62 ± 2.80
      </text>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,231)">
       Mean_Gauss
      </text>
-     <text fill="black" text-anchor="start" transform="translate(127,237)">
+     <text fill="black" text-anchor="start" transform="translate(138,237)">
       48.59 ± 0.34
      </text>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,255)">
       Sigma_Gauss
      </text>
-     <text fill="black" text-anchor="start" transform="translate(127,261)">
+     <text fill="black" text-anchor="start" transform="translate(140,261)">
       14.11 ± 0.28
      </text>
     </g>

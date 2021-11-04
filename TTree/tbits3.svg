@@ -16,7 +16,7 @@
     <g transform="translate(0,640)">
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
      <path d="M0,-24v24m27,-24v24m26,-24v24m27,-24v24m27,-24v24m26,-24v24m27,-24v24m27,-24v24m26,-24v24m27,-24v24m27,-24v24m26,-24v24m27,-24v24m27,-24v24m26,-24v24m27,-24v24m27,-24v24m26,-24v24m27,-24v24m27,-24v24m26,-24v24m27,-24v24m27,-24v24m26,-24v24m27,-24v24m27,-24v24m26,-24v24m27,-24v24m27,-24v24m26,-24v24m27,-24v24m27,-24v24m26,-24v24m27,-24v24m27,-24v24m26,-24v24m27,-12v12" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="22" space="preserve">
+     <g font-family="Arial" font-size="20" space="preserve">
       <text fill="black" text-anchor="middle" dy=".8em" transform="translate(14,6)">
        0
       </text>
@@ -175,7 +175,7 @@
     </g>
    </g>
   </g>
-  <g transform="translate(120,4)" font-family="Arial" font-size="37" space="preserve">
+  <g transform="translate(120,4)" font-family="Arial" font-size="35" space="preserve">
    <path d="M0,0H960V53H0Z" style="fill: none;"></path>
    <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480,0)">
     drawing 'event.fTracks[].fTriggerBits' from T

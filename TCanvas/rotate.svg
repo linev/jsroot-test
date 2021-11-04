@@ -125,7 +125,7 @@
     </g>
    </g>
   </g>
-  <g transform="translate(120,80)" font-family="Arial" font-size="16" space="preserve">
+  <g transform="translate(120,80)" font-family="Arial" font-size="15" space="preserve">
    <path d="M0,0H456V160H0Z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,24)">
     The Legend Title
@@ -139,14 +139,14 @@
     <tspan dy="-.1em">
      Function abs(
     </tspan>
-    <tspan dy="-.6em" dx=".39em">
+    <tspan dy="-.6em" dx=".24em">
      sin(x)
     </tspan>
-    <tspan dy="1em" dx="-1.88em">
+    <tspan dy="1em" dx="-1.51em">
      x
     </tspan>
-    <tspan dx="-2.27em" dy="-.6em">
-     ————
+    <tspan dx="-1.76em" dy="-.6em">
+     ———
     </tspan>
     <tspan dx=".2em" dy=".2em">
      )

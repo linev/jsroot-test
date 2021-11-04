@@ -164,7 +164,7 @@
     in memory
    </text>
   </g>
-  <g transform="translate(951,400)" font-family="Arial" font-size="30" space="preserve" font-weight="bold">
+  <g transform="translate(951,400)" font-family="Arial" font-size="27" space="preserve" font-weight="bold">
    <path d="M16,-16h176v74h-176z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
    <path d="M12,-12h176v74h-176z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
    <path d="M8,-8h176v74h-176z" style="fill: rgb(243,243,243); stroke: black; stroke-width: 1;"></path>
@@ -203,7 +203,7 @@
   <g>
    <path d="M884,400L801,400M801,394l-10,6l10,6z" style="stroke: black; stroke-width: 6; fill: black;"></path>
   </g>
-  <g transform="translate(59,262)" font-family="Arial" font-size="32" space="preserve" font-weight="bold">
+  <g transform="translate(59,262)" font-family="Arial" font-size="30" space="preserve" font-weight="bold">
    <path d="M0,0H410V77H0Z" style="fill: rgb(128,128,156); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(205,19)">
     C++ Interpreter

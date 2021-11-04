@@ -48,7 +48,7 @@
       <g>
        <path d="M0,0v627" style="stroke: black; stroke-width: 1;"></path>
        <path d="M9,617h-9m9,-23h-9m9,-24h-9m17,-24h-17m9,-24h-9m9,-23h-9m9,-24h-9m9,-24h-9m17,-23h-17m9,-24h-9m9,-24h-9m9,-24h-9m9,-23h-9m17,-24h-17m9,-24h-9m9,-24h-9m9,-23h-9m9,-24h-9m17,-24h-17m9,-24h-9m9,-23h-9m9,-24h-9m9,-24h-9m17,-24h-17m9,-23h-9m9,-24h-9m9,-24h-9" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="20" space="preserve">
+       <g font-family="Arial" font-size="19" space="preserve">
         <text fill="black" text-anchor="end" dy=".4em" transform="translate(-3,546)">
          -1000
         </text>
@@ -68,13 +68,13 @@
       </g>
      </g>
     </g>
-    <g transform="translate(121,4)" font-family="Arial" font-size="26" space="preserve">
+    <g transform="translate(121,4)" font-family="Arial" font-size="25" space="preserve">
      <path d="M0,0H334V43H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(167,22)">
       Bar-chart drawn from 0
      </text>
     </g>
-    <g transform="translate(449,51)" font-family="Arial" font-size="13" space="preserve">
+    <g transform="translate(449,51)" font-family="Arial" font-size="12" space="preserve">
      <path d="M0,0H115V125H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(58,16)">
       hz1
@@ -112,13 +112,13 @@
      <path d="M0,0H461V627H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <g clip-path="path('M0,0H461V627H0Z')"></g>
     </g>
-    <g transform="translate(120,4)" font-family="Arial" font-size="27" space="preserve">
+    <g transform="translate(120,4)" font-family="Arial" font-size="25" space="preserve">
      <path d="M0,0H336V44H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(168,22)">
       Lego plot drawn from 0
      </text>
     </g>
-    <g transform="translate(449,51)" font-family="Arial" font-size="9" space="preserve">
+    <g transform="translate(449,51)" font-family="Arial" font-size="8" space="preserve">
      <path d="M0,0H115V188H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(58,16)">
       hz2

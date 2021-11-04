@@ -30,7 +30,7 @@
      <path fill="rgb(249,249,15)" d="M480,384h96v-64h-96z"></path>
     </g>
     <g>
-     <g font-family="Arial" font-size="19" space="preserve">
+     <g font-family="Arial" font-size="18" space="preserve">
       <text fill="black" text-anchor="middle" dy=".4em" transform="translate(49,621)">
        44
       </text>
@@ -707,7 +707,7 @@
     </g>
    </g>
   </g>
-  <g transform="translate(220,4)" font-family="Arial" font-size="30" space="preserve">
+  <g transform="translate(220,4)" font-family="Arial" font-size="28" space="preserve">
    <path d="M0,0H760V52H0Z" style="fill: none;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(380,26)">
     Several 2D histograms drawn with option TEXT

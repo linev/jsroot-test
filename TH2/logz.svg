@@ -25,7 +25,7 @@
        <path fill="rgb(82,186,146)" d="M50,201h50v-40h-50z"></path>
        <path fill="rgb(251,230,29)" d="M0,201h50v-20h-50z"></path>
        <path fill="rgb(249,249,15)" d="M0,181h50v-181h-50z"></path>
-       <g font-family="Arial" font-size="10" space="preserve">
+       <g font-family="Arial" font-size="9" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          14.2620
         </text>
@@ -231,7 +231,7 @@
       Throughput (fill,get) TH1/2/3/nF (real, 1M entries/sec)
      </text>
     </g>
-    <g transform="translate(293,16)" font-family="Arial" font-size="7" space="preserve">
+    <g transform="translate(293,16)" font-family="Arial" font-size="6" space="preserve">
      <path d="M0,0H75V67H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(38,6)">
       htime_arr_r
@@ -293,7 +293,7 @@
        <path fill="rgb(209,187,89)" d="M50,201h50v-20h-50z"></path>
        <path fill="rgb(251,230,29)" d="M0,201h50v-20h-50zM0,101h50v-21h-50zM0,40h50v-20h-50z"></path>
        <path fill="rgb(249,249,15)" d="M0,181h50v-80h-50zM0,80h50v-40h-50zM0,20h50v-20h-50z"></path>
-       <g font-family="Arial" font-size="11" space="preserve">
+       <g font-family="Arial" font-size="10" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          5.5325
         </text>
@@ -541,7 +541,7 @@
       Throughput (fill,get) THnSparseF (real, 1M entries/sec)
      </text>
     </g>
-    <g transform="translate(293,16)" font-family="Arial" font-size="7" space="preserve">
+    <g transform="translate(293,16)" font-family="Arial" font-size="6" space="preserve">
      <path d="M0,0H75V67H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(38,6)">
       htime_sp_r
@@ -812,7 +812,7 @@
       Relative speed improvement (real, 1M entries/sec): sparse/hist
      </text>
     </g>
-    <g transform="translate(293,16)" font-family="Arial" font-size="7" space="preserve">
+    <g transform="translate(293,16)" font-family="Arial" font-size="6" space="preserve">
      <path d="M0,0H75V67H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(38,6)">
       htime_ratio_r
@@ -873,7 +873,7 @@
        <path fill="rgb(244,198,59)" d="M0,121h50v-20h-50zM0,20h50v-20h-50z"></path>
        <path fill="rgb(251,230,29)" d="M0,181h50v-60h-50zM0,101h50v-81h-50z"></path>
        <path fill="rgb(249,249,15)" d="M0,201h50v-20h-50z"></path>
-       <g font-family="Arial" font-size="10" space="preserve">
+       <g font-family="Arial" font-size="9" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          15.8556
         </text>
@@ -1079,7 +1079,7 @@
       Throughput (fill,get) TH1/2/3/nF (CPU, 1M entries/sec)
      </text>
     </g>
-    <g transform="translate(293,16)" font-family="Arial" font-size="7" space="preserve">
+    <g transform="translate(293,16)" font-family="Arial" font-size="6" space="preserve">
      <path d="M0,0H75V67H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(38,6)">
       htime_arr
@@ -1142,7 +1142,7 @@
        <path fill="rgb(209,187,89)" d="M50,201h50v-20h-50z"></path>
        <path fill="rgb(251,230,29)" d="M0,161h50v-20h-50zM0,60h50v-60h-50z"></path>
        <path fill="rgb(249,249,15)" d="M0,201h50v-40h-50zM0,141h50v-81h-50z"></path>
-       <g font-family="Arial" font-size="11" space="preserve">
+       <g font-family="Arial" font-size="10" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          5.7080
         </text>
@@ -1390,7 +1390,7 @@
       Throughput (fill,get) THnSparseF (CPU, 1M entries/sec)
      </text>
     </g>
-    <g transform="translate(293,16)" font-family="Arial" font-size="7" space="preserve">
+    <g transform="translate(293,16)" font-family="Arial" font-size="6" space="preserve">
      <path d="M0,0H75V67H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(38,6)">
       htime_sp
@@ -1659,7 +1659,7 @@
       Relative speed improvement (CPU, 1M entries/sec): sparse/hist
      </text>
     </g>
-    <g transform="translate(293,16)" font-family="Arial" font-size="7" space="preserve">
+    <g transform="translate(293,16)" font-family="Arial" font-size="6" space="preserve">
      <path d="M0,0H75V67H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(38,6)">
       htime_ratio
@@ -1963,7 +1963,7 @@
       Fractional memory usage
      </text>
     </g>
-    <g transform="translate(293,16)" font-family="Arial" font-size="7" space="preserve">
+    <g transform="translate(293,16)" font-family="Arial" font-size="6" space="preserve">
      <path d="M0,0H75V67H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(38,6)">
       hsparse_mem
@@ -2023,7 +2023,7 @@
        <path fill="rgb(226,192,75)" d="M50,141h50v-20h-50z"></path>
        <path fill="rgb(244,198,59)" d="M50,201h50v-60h-50z"></path>
        <path fill="rgb(249,249,15)" d="M0,201h50v-201h-50z"></path>
-       <g font-family="Arial" font-size="11" space="preserve">
+       <g font-family="Arial" font-size="10" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          1
         </text>
@@ -2271,7 +2271,7 @@
       Fractional number of used bins
      </text>
     </g>
-    <g transform="translate(293,16)" font-family="Arial" font-size="7" space="preserve">
+    <g transform="translate(293,16)" font-family="Arial" font-size="6" space="preserve">
      <path d="M0,0H75V67H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(38,6)">
       hsparse_bins

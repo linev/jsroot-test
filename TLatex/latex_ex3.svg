@@ -4,14 +4,14 @@
  </title>
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
-  <g transform="translate(120,80)" font-family="Arial" font-size="21" space="preserve" font-weight="bold">
+  <g transform="translate(120,80)" font-family="Arial" font-size="26" space="preserve" font-weight="bold">
    <path d="M4,4v640h960v-640z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H960V640H0Z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
-   <text fill="black" text-anchor="start" transform="translate(224,142)">
-    <tspan dy="-.7em" dx=".44em">
+   <text fill="black" text-anchor="start" transform="translate(220,150)">
+    <tspan dy="-.7em" dx=".46em">
      2s
     </tspan>
-    <tspan dy="1em" dx="-1.31em">
+    <tspan dy="1em" dx="-1.37em">
      <tspan>
       πα
      </tspan>
@@ -19,15 +19,15 @@
       2
      </tspan>
     </tspan>
-    <tspan dx="-1.75em" dy="-.24em">
+    <tspan dx="-1.83em" dy="-.24em">
      ——
     </tspan>
     <tspan dx=".2em" dy=".2em">
     </tspan>
-    <tspan dy="-.6em" dx=".94em">
+    <tspan dy="-.6em" dx=".9em">
      dσ
     </tspan>
-    <tspan dy="1em" dx="-1.95em">
+    <tspan dy="1em" dx="-1.99em">
      dcosθ
     </tspan>
     <tspan dx="-2.89em" dy="-.6em">
@@ -65,14 +65,14 @@
      <tspan>
       <tspan>
       </tspan>
-      <tspan dy="-.6em" dx="1.72em">
+      <tspan dy="-.6em" dx="1.23em">
        1
       </tspan>
-      <tspan dy="1em" dx="-1.95em">
+      <tspan dy="1em" dx="-1.64em">
        1 - Δα
       </tspan>
-      <tspan dx="-3.67em" dy="-.6em">
-       ————
+      <tspan dx="-2.87em" dy="-.6em">
+       ———
       </tspan>
       <tspan dx=".2em" dy=".2em">
       </tspan>
@@ -98,7 +98,7 @@
      θ)
     </tspan>
    </text>
-   <text fill="black" text-anchor="start" transform="translate(159,295)">
+   <text fill="black" text-anchor="start" transform="translate(159,289)">
     <tspan dy="-.1em">
      + 4 Re
     </tspan>
@@ -113,14 +113,14 @@
      <tspan>
       <tspan>
       </tspan>
-      <tspan dy="-.6em" dx="1.72em">
+      <tspan dy="-.6em" dx="1.21em">
        2
       </tspan>
-      <tspan dy="1em" dx="-1.95em">
+      <tspan dy="1em" dx="-1.66em">
        1 - Δα
       </tspan>
-      <tspan dx="-3.67em" dy="-.6em">
-       ————
+      <tspan dx="-2.87em" dy="-.6em">
+       ———
       </tspan>
       <tspan dx=".2em" dy=".2em">
        χ(s)
@@ -145,7 +145,7 @@
         <tspan font-size="60%" dx=".6em" dy=".73em">
          ν
         </tspan>
-        <tspan font-size="60%" dx="-.33em" dy="-1em">
+        <tspan font-size="60%" dx="-.31em" dy="-1em">
          e
         </tspan>
         <tspan dy=".36em">
@@ -159,10 +159,10 @@
         <tspan font-size="60%" dx=".6em" dy=".73em">
          ν
         </tspan>
-        <tspan font-size="60%" dx="-.33em" dy="-1em">
+        <tspan font-size="60%" dx="-.31em" dy="-1em">
          f
         </tspan>
-        <tspan dy=".36em">
+        <tspan dx=".11em" dy=".36em">
          (1 + cos
         </tspan>
         <tspan font-size="60%" dx=".1em" dy="-.6em">
@@ -182,10 +182,10 @@
         <tspan font-size="60%" dx=".6em" dy=".73em">
          a
         </tspan>
-        <tspan font-size="60%" dx="-.33em" dy="-1em">
+        <tspan font-size="60%" dx="-.34em" dy="-1em">
          e
         </tspan>
-        <tspan dy=".36em">
+        <tspan dx=".01em" dy=".36em">
          <tspan>
           g
          </tspan>
@@ -196,10 +196,10 @@
         <tspan font-size="60%" dx=".6em" dy=".73em">
          a
         </tspan>
-        <tspan font-size="60%" dx="-.33em" dy="-1em">
+        <tspan font-size="60%" dx="-.34em" dy="-1em">
          f
         </tspan>
-        <tspan dy=".36em">
+        <tspan dx=".13em" dy=".36em">
          cosθ)
         </tspan>
        </tspan>
@@ -223,7 +223,7 @@
      </tspan>
     </tspan>
    </text>
-   <text fill="black" text-anchor="start" transform="translate(69,581)">
+   <text fill="black" text-anchor="start" transform="translate(69,592)">
     <tspan dy="-.1em">
      + 16
     </tspan>
@@ -270,7 +270,7 @@
       <tspan font-size="60%" dx=".6em" dy=".73em">
        a
       </tspan>
-      <tspan font-size="60%" dx="-.33em" dy="-1em">
+      <tspan font-size="60%" dx="-.34em" dy="-1em">
        <tspan>
         e
        </tspan>
@@ -292,7 +292,7 @@
       <tspan font-size="60%" dx=".6em" dy=".73em">
        v
       </tspan>
-      <tspan font-size="60%" dx="-.33em" dy="-1em">
+      <tspan font-size="60%" dx="-.31em" dy="-1em">
        <tspan>
         e
        </tspan>
@@ -314,7 +314,7 @@
       <tspan font-size="60%" dx=".6em" dy=".73em">
        a
       </tspan>
-      <tspan font-size="60%" dx="-.33em" dy="-1em">
+      <tspan font-size="60%" dx="-.34em" dy="-1em">
        <tspan>
         f
        </tspan>
@@ -336,7 +336,7 @@
       <tspan font-size="60%" dx=".6em" dy=".73em">
        v
       </tspan>
-      <tspan font-size="60%" dx="-.33em" dy="-1em">
+      <tspan font-size="60%" dx="-.31em" dy="-1em">
        <tspan>
         f
        </tspan>
@@ -364,10 +364,10 @@
       <tspan font-size="60%" dx=".6em" dy=".73em">
        a
       </tspan>
-      <tspan font-size="60%" dx="-.33em" dy="-1em">
+      <tspan font-size="60%" dx="-.34em" dy="-1em">
        e
       </tspan>
-      <tspan dy=".36em">
+      <tspan dx=".01em" dy=".36em">
       </tspan>
       <tspan>
        <tspan>
@@ -380,10 +380,10 @@
       <tspan font-size="60%" dx=".6em" dy=".73em">
        a
       </tspan>
-      <tspan font-size="60%" dx="-.33em" dy="-1em">
+      <tspan font-size="60%" dx="-.34em" dy="-1em">
        f
       </tspan>
-      <tspan dy=".36em">
+      <tspan dx=".13em" dy=".36em">
       </tspan>
       <tspan>
        <tspan>
@@ -396,7 +396,7 @@
       <tspan font-size="60%" dx=".6em" dy=".73em">
        v
       </tspan>
-      <tspan font-size="60%" dx="-.33em" dy="-1em">
+      <tspan font-size="60%" dx="-.31em" dy="-1em">
        e
       </tspan>
       <tspan dy=".36em">
@@ -412,10 +412,10 @@
       <tspan font-size="60%" dx=".6em" dy=".73em">
        v
       </tspan>
-      <tspan font-size="60%" dx="-.33em" dy="-1em">
+      <tspan font-size="60%" dx="-.31em" dy="-1em">
        f
       </tspan>
-      <tspan dy=".36em">
+      <tspan dx=".11em" dy=".36em">
        cosθ
       </tspan>
      </tspan>

@@ -20,7 +20,7 @@
     <g transform="translate(0,600)">
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
      <path d="M0,-24v24m48,-24v24m48,-24v24m48,-24v24m48,-24v24m48,-24v24m48,-24v24m48,-24v24m48,-24v24m48,-24v24m48,-24v24m48,-24v24m48,-24v24m48,-24v24m48,-24v24m48,-24v24m48,-24v24m48,-24v24m48,-24v24m48,-24v24m48,-12v12" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="26" space="preserve">
+     <g font-family="Arial" font-size="24" space="preserve">
       <text fill="black" text-anchor="middle" dy=".8em" transform="translate(24,6) rotate(25)" style="text-anchor: start;">
        Valery
       </text>
@@ -112,7 +112,7 @@
     test
    </text>
   </g>
-  <g transform="translate(840,16)" font-family="Arial" font-size="13" space="preserve" font-weight="bold">
+  <g transform="translate(840,16)" font-family="Arial" font-size="12" space="preserve" font-weight="bold">
    <path d="M4,4v104h336v-104z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H336V104H0Z" style="fill: rgb(230,230,230); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(17,13)">
