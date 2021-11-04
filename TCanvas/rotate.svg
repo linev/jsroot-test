@@ -141,18 +141,18 @@
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,137)">
     Graph with error bars
    </text>
-   <g transform="translate(114,111) scale(0.442,0.442)">
+   <g transform="translate(114,110) scale(0.442,0.442)">
     <text font-family="Arial" fill="black" font-size="34">
      Function abs(
     </text>
-    <g transform="translate(208.042668,0)">
-     <g transform="translate(0,-22.099999999999998)">
+    <g transform="translate(208)">
+     <g transform="translate(0,-22)">
       <text font-family="Arial" fill="black" font-size="34">
        sin(x)
       </text>
      </g>
      <path style="stroke: black; stroke-width: 2; fill: none;" d="M0,-11.899999999999999h81.95839399999998"></path>
-     <g transform="translate(33.9960186,18.7)">
+     <g transform="translate(34,19)">
       <text font-family="Arial" fill="black" font-size="34">
        x
       </text>

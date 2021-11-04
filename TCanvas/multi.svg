@@ -239,7 +239,7 @@
          <text font-family="Arial" fill="black" font-size="40">
           10
          </text>
-         <g transform="translate(42.341184,-18.400000000000002)">
+         <g transform="translate(42,-18)">
           <text font-family="Arial" fill="black" font-size="24">
            2
           </text>
@@ -249,7 +249,7 @@
          <text font-family="Arial" fill="black" font-size="40">
           10
          </text>
-         <g transform="translate(42.341184,-18.400000000000002)">
+         <g transform="translate(42,-18)">
           <text font-family="Arial" fill="black" font-size="24">
            3
           </text>
@@ -257,16 +257,16 @@
         </g>
        </g>
        <g font-family="Arial" font-size="40" space="preserve" transform="translate(960,80)">
-        <g transform="translate(-182,10)">
+        <g transform="translate(-181,10)">
          <text font-family="Arial" fill="black" font-size="40">
           p
          </text>
-         <g transform="translate(22.464864,8.8)">
+         <g transform="translate(22,9)">
           <text font-family="Arial" fill="black" font-size="24">
            T,jet
           </text>
          </g>
-         <text font-family="Arial" fill="black" font-size="40" x="70">
+         <text font-family="Arial" fill="black" font-size="40" x="69">
           [GeV]
          </text>
         </g>
@@ -325,11 +325,11 @@
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(77,147)">
       Total
      </text>
-     <g transform="translate(77,60) scale(0.868,0.868)">
+     <g transform="translate(77,60) scale(0.872,0.872)">
       <text font-family="Arial" fill="black" font-size="28">
        α
       </text>
-      <g transform="translate(16.2107568,6.16)">
+      <g transform="translate(16,6)">
        <text font-family="Arial" fill="black" font-size="16.8">
         s
        </text>
@@ -344,7 +344,7 @@
      <g transform="translate(6,29) scale(0.840,0.840)">
       <g>
        <path style="stroke: black; stroke-width: 2; fill: none;" d="M0,-8.7h3.48l3.48,11.599999999999998l3.48,-28.999999999999996h21.1357452v3.48"></path>
-       <g transform="translate(13.92,0)">
+       <g transform="translate(14)">
         <text font-family="Arial" fill="black" font-size="29">
          s
         </text>
@@ -358,12 +358,12 @@
       <text font-family="Arial" fill="black" font-size="29">
        Anti-k
       </text>
-      <g transform="translate(77.61471839999999,6.38)">
+      <g transform="translate(78,6)">
        <text font-family="Arial" fill="black" font-size="17.4">
         t
        </text>
       </g>
-      <text font-family="Arial" fill="black" font-size="29" x="83">
+      <text font-family="Arial" fill="black" font-size="29" x="84">
        R= 0.4
       </text>
      </g>

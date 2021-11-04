@@ -52,31 +52,31 @@
      <path d="M103,-16v16m289,-16v16m289,-16v16" style="stroke: black; stroke-width: 1;"></path>
      <path d="M103,-624v-16m289,16v-16m289,16v-16" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="24" space="preserve">
-      <g transform="translate(92,30)">
+      <g transform="translate(93,30)">
        <text font-family="Arial" fill="black" font-size="24">
         2
        </text>
-       <g transform="translate(13.1322384,-11.040000000000001)">
+       <g transform="translate(13,-11)">
         <text font-family="Arial" fill="black" font-size="14.399999999999999">
          6
         </text>
        </g>
       </g>
-      <g transform="translate(381,30)">
+      <g transform="translate(382,30)">
        <text font-family="Arial" fill="black" font-size="24">
         2
        </text>
-       <g transform="translate(13.1322384,-11.040000000000001)">
+       <g transform="translate(13,-11)">
         <text font-family="Arial" fill="black" font-size="14.399999999999999">
          7
         </text>
        </g>
       </g>
-      <g transform="translate(670,30)">
+      <g transform="translate(671,30)">
        <text font-family="Arial" fill="black" font-size="24">
         2
        </text>
-       <g transform="translate(13.1322384,-11.040000000000001)">
+       <g transform="translate(13,-11)">
         <text font-family="Arial" fill="black" font-size="14.399999999999999">
          8
         </text>
@@ -88,12 +88,12 @@
        <text font-family="Arial" fill="black" font-size="28">
         m
        </text>
-       <g transform="translate(23.8954968,6.16)">
+       <g transform="translate(24,6)">
         <text font-family="Arial" fill="black" font-size="16.8">
          A
         </text>
        </g>
-       <text font-family="Arial" fill="black" font-size="28" x="35">
+       <text font-family="Arial" fill="black" font-size="28" x="36">
         (GeV)
        </text>
       </g>
@@ -162,7 +162,7 @@
       <text font-family="Arial" font-weight="bold" fill="magenta" font-size="29">
        ← t → bH
       </text>
-      <g transform="translate(134.30175499999999,-13.339999999999998)">
+      <g transform="translate(134,-13)">
        <text font-family="Arial" font-weight="bold" fill="magenta" font-size="17.4">
         +
        </text>
@@ -170,12 +170,12 @@
       <text font-family="Arial" font-weight="bold" fill="magenta" font-size="29" x="145">
        , H
       </text>
-      <g transform="translate(182.67838455999998,-13.339999999999998)">
+      <g transform="translate(183,-13)">
        <text font-family="Arial" font-weight="bold" fill="magenta" font-size="17.4">
         +
        </text>
       </g>
-      <text font-family="Arial" font-weight="bold" fill="magenta" font-size="29" x="193">
+      <text font-family="Arial" font-weight="bold" fill="magenta" font-size="29" x="194">
        → τν
       </text>
      </g>
@@ -193,7 +193,7 @@
       <text font-family="Arial" font-weight="bold" fill="black" font-size="17" x="17">
        Ldt = 300 fb
       </text>
-      <g transform="translate(112.15135280000001,-7.819999999999999)">
+      <g transform="translate(112,-8)">
        <text font-family="Arial" font-weight="bold" fill="black" font-size="10.2">
         -1
        </text>
@@ -215,7 +215,7 @@
       <text font-family="Arial" font-weight="bold" fill="red" font-size="29">
        gb → tH
       </text>
-      <g transform="translate(112.4810008,-13.339999999999998)">
+      <g transform="translate(112,-13)">
        <text font-family="Arial" font-weight="bold" fill="red" font-size="17.4">
         +
        </text>
@@ -223,12 +223,12 @@
       <text font-family="Arial" font-weight="bold" fill="red" font-size="29" x="123">
        , H
       </text>
-      <g transform="translate(160.85763036,-13.339999999999998)">
+      <g transform="translate(161,-13)">
        <text font-family="Arial" font-weight="bold" fill="red" font-size="17.4">
         +
        </text>
       </g>
-      <text font-family="Arial" font-weight="bold" fill="red" font-size="29" x="171">
+      <text font-family="Arial" font-weight="bold" fill="red" font-size="29" x="172">
        → τν
       </text>
      </g>
@@ -238,7 +238,7 @@
       <text font-family="Arial" font-weight="bold" fill="blue" font-size="29">
        gb → tH
       </text>
-      <g transform="translate(112.4810008,-13.339999999999998)">
+      <g transform="translate(112,-13)">
        <text font-family="Arial" font-weight="bold" fill="blue" font-size="17.4">
         +
        </text>
@@ -246,12 +246,12 @@
       <text font-family="Arial" font-weight="bold" fill="blue" font-size="29" x="123">
        , H
       </text>
-      <g transform="translate(160.85763036,-13.339999999999998)">
+      <g transform="translate(161,-13)">
        <text font-family="Arial" font-weight="bold" fill="blue" font-size="17.4">
         +
        </text>
       </g>
-      <text font-family="Arial" font-weight="bold" fill="blue" font-size="29" x="171">
+      <text font-family="Arial" font-weight="bold" fill="blue" font-size="29" x="172">
        → tb
       </text>
      </g>
