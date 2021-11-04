@@ -177,7 +177,7 @@
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(126,77)">
     Countries surfaces from TH2Poly (with errors)
    </text>
-   <g transform="translate(126,34) scale(0.665,0.665)">
+   <g transform="translate(126,34) scale(0.665)">
     <text font-family="Arial" fill="black" font-size="20">
      Real countries surfaces from Wikipedia (in km
     </text>
@@ -193,7 +193,7 @@
   </g>
   <g transform="translate(338,4)" font-family="Arial" font-size="41" space="preserve">
    <path d="M0,0H523V56H0Z" style="fill: none;"></path>
-   <g transform="translate(12,45) scale(0.874,0.874)">
+   <g transform="translate(12,45) scale(0.874)">
     <text font-family="Arial" fill="black" font-size="47">
      Countries surfaces (in km
     </text>

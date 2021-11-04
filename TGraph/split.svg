@@ -99,7 +99,7 @@
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(90,80)">
     &lt;q&gt; = 9.031923
    </text>
-   <g transform="translate(90,46) scale(0.463,0.463)">
+   <g transform="translate(90,46) scale(0.463)">
     <g>
      <g transform="translate(0,-29)">
       <text font-family="Arial" fill="black" font-size="45">
@@ -113,7 +113,7 @@
      </g>
     </g>
    </g>
-   <g transform="translate(90,144) scale(0.463,0.463)">
+   <g transform="translate(90,144) scale(0.463)">
     <text font-family="Arial" fill="black" font-size="45">
      σ   = 5.779455
     </text>
@@ -121,7 +121,7 @@
   </g>
   <g transform="translate(180,4)" font-family="Arial" font-size="24" space="preserve">
    <path d="M0,0H840V59H0Z" style="fill: none;"></path>
-   <g transform="translate(20,47) scale(0.493,0.493)">
+   <g transform="translate(20,47) scale(0.493)">
     <text font-family="Arial" fill="black" font-size="49">
      U projectile at 1.4 MeV/u on
     </text>
