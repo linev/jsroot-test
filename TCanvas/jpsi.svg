@@ -117,7 +117,7 @@
     cut1 &lt; 2.85714
    </text>
   </g>
-  <g transform="translate(870,8)" font-family="Courier New" font-size="10" space="preserve" font-weight="bold">
+  <g transform="translate(870,8)" font-family="Courier New" font-size="15" space="preserve" font-weight="bold">
    <path d="M4,4v179h318v-179z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H318V179H0Z" style="fill: rgb(204,255,255); stroke: black; stroke-width: 1;"></path>
    <text fill="blue" text-anchor="start" dy=".4em" transform="translate(16,10)">
@@ -126,37 +126,51 @@
    <text fill="red" text-anchor="start" dy=".4em" transform="translate(16,30)">
     Entries:       67915
    </text>
-   <text fill="black" text-anchor="start" transform="translate(16,59)">
-    <tspan dy="-.1em">
+   <g transform="translate(16,56) scale(0.8999497234791353,0.8999497234791353)">
+    <text font-family="Courier New" font-weight="bold" fill="black" font-size="17">
      χ
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
-     2
-    </tspan>
-    <tspan dy=".36em">
+    </text>
+    <g transform="translate(10.2051,-7.819999999999999)">
+     <text font-family="Courier New" font-weight="bold" fill="black" font-size="10.2">
+      2
+     </text>
+    </g>
+    <text font-family="Courier New" font-weight="bold" fill="black" font-size="17" x="16">
      /ndf:  9.8312e-01
-    </tspan>
-   </text>
-   <text fill="black" text-anchor="start" transform="translate(16,75)">
-    Yield :   1018.8758 ± 76.4578
-   </text>
-   <text fill="black" text-anchor="start" transform="translate(16,95)">
-    Mass  :      3.1005 ± 0.0030
-   </text>
-   <text fill="black" text-anchor="start" transform="translate(16,114)">
-    Width :      0.0337 ± 0.0027
-   </text>
-   <text fill="black" text-anchor="start" transform="translate(16,134)">
-    p0    :    230.0152 ± 1.1788
-   </text>
-   <text fill="black" text-anchor="start" transform="translate(16,154)">
-    p1    : -    8.3480 ± 1.3000
-   </text>
-   <text fill="black" text-anchor="start" transform="translate(16,174)">
-    p2    : -    7.1060 ± 0.3858
-   </text>
+    </text>
+   </g>
+   <g transform="translate(16,75) scale(0.8999497234791353,0.8999497234791353)">
+    <text font-family="Courier New" font-weight="bold" fill="black" font-size="17">
+     Yield :   1018.8758 ± 76.4578
+    </text>
+   </g>
+   <g transform="translate(16,95) scale(0.8999497234791353,0.8999497234791353)">
+    <text font-family="Courier New" font-weight="bold" fill="black" font-size="17">
+     Mass  :      3.1005 ± 0.0030
+    </text>
+   </g>
+   <g transform="translate(16,114) scale(0.8999497234791353,0.8999497234791353)">
+    <text font-family="Courier New" font-weight="bold" fill="black" font-size="17">
+     Width :      0.0337 ± 0.0027
+    </text>
+   </g>
+   <g transform="translate(16,134) scale(0.8999497234791353,0.8999497234791353)">
+    <text font-family="Courier New" font-weight="bold" fill="black" font-size="17">
+     p0    :    230.0152 ± 1.1788
+    </text>
+   </g>
+   <g transform="translate(16,154) scale(0.8999497234791353,0.8999497234791353)">
+    <text font-family="Courier New" font-weight="bold" fill="black" font-size="17">
+     p1    : -    8.3480 ± 1.3000
+    </text>
+   </g>
+   <g transform="translate(16,174) scale(0.8999497234791353,0.8999497234791353)">
+    <text font-family="Courier New" font-weight="bold" fill="black" font-size="17">
+     p2    : -    7.1060 ± 0.3858
+    </text>
+   </g>
   </g>
-  <g transform="translate(870,195)" font-family="Courier New" font-size="9" space="preserve" font-weight="bold">
+  <g transform="translate(870,195)" font-family="Courier New" font-size="14" space="preserve" font-weight="bold">
    <path d="M4,4v154h318v-154z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H318V154H0Z" style="fill: rgb(204,255,255); stroke: black; stroke-width: 1;"></path>
    <text fill="blue" text-anchor="start" dy=".4em" transform="translate(16,10)">
@@ -165,32 +179,44 @@
    <text fill="red" text-anchor="start" dy=".4em" transform="translate(16,29)">
     Entries:       67915
    </text>
-   <text fill="black" text-anchor="start" transform="translate(16,57)">
-    <tspan dy="-.1em">
+   <g transform="translate(16,54) scale(0.9254807692307693,0.9254807692307693)">
+    <text font-family="Courier New" font-weight="bold" fill="black" font-size="16">
      χ
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
-     2
-    </tspan>
-    <tspan dy=".36em">
+    </text>
+    <g transform="translate(9.6048,-7.359999999999998)">
+     <text font-family="Courier New" font-weight="bold" fill="black" font-size="9.6">
+      2
+     </text>
+    </g>
+    <text font-family="Courier New" font-weight="bold" fill="black" font-size="16" x="15">
      /ndf:      1.1477
-    </tspan>
-   </text>
-   <text fill="black" text-anchor="start" transform="translate(16,72)">
-    Yield :   1069.3931 ± 80.1140
-   </text>
-   <text fill="black" text-anchor="start" transform="translate(16,92)">
-    Mass  :      3.1003 ± 0.0030
-   </text>
-   <text fill="black" text-anchor="start" transform="translate(16,111)">
-    Width :      0.0348 ± 0.0028
-   </text>
-   <text fill="black" text-anchor="start" transform="translate(16,130)">
-    p0    :    226.6412 ± 1.7136
-   </text>
-   <text fill="black" text-anchor="start" transform="translate(16,149)">
-    p1    : -   11.5731 ± 3.4841
-   </text>
+    </text>
+   </g>
+   <g transform="translate(16,72) scale(0.9254807692307693,0.9254807692307693)">
+    <text font-family="Courier New" font-weight="bold" fill="black" font-size="16">
+     Yield :   1069.3931 ± 80.1140
+    </text>
+   </g>
+   <g transform="translate(16,91) scale(0.9254807692307693,0.9254807692307693)">
+    <text font-family="Courier New" font-weight="bold" fill="black" font-size="16">
+     Mass  :      3.1003 ± 0.0030
+    </text>
+   </g>
+   <g transform="translate(16,111) scale(0.9254807692307693,0.9254807692307693)">
+    <text font-family="Courier New" font-weight="bold" fill="black" font-size="16">
+     Width :      0.0348 ± 0.0028
+    </text>
+   </g>
+   <g transform="translate(16,130) scale(0.9254807692307693,0.9254807692307693)">
+    <text font-family="Courier New" font-weight="bold" fill="black" font-size="16">
+     p0    :    226.6412 ± 1.7136
+    </text>
+   </g>
+   <g transform="translate(16,149) scale(0.9254807692307693,0.9254807692307693)">
+    <text font-family="Courier New" font-weight="bold" fill="black" font-size="16">
+     p1    : -   11.5731 ± 3.4841
+    </text>
+   </g>
   </g>
   <g transform="translate(870,381)" font-family="Arial" font-size="11" space="preserve" font-weight="bold">
    <path d="M4,4v144h318v-144z" style="fill: black; stroke: black; stroke-width: 1px;"></path>

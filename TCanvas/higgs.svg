@@ -171,14 +171,16 @@
       </text>
      </g>
      <g font-family="Arial" font-size="28" space="preserve" transform="translate(-77,0)">
-      <text fill="black" text-anchor="start" transform=" rotate(270) translate(-68,6)">
-       <tspan dy="-.1em">
+      <g transform=" rotate(270) translate(-66,7)">
+       <text font-family="Arial" fill="black" font-size="28">
         σ/σ
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy=".4em">
-        SM
-       </tspan>
-      </text>
+       </text>
+       <g transform="translate(40.8666384,6.16)">
+        <text font-family="Arial" fill="black" font-size="16.8">
+         SM
+        </text>
+       </g>
+      </g>
      </g>
     </g>
    </g>
@@ -320,68 +322,62 @@
       2000
      </text>
     </g>
-    <g font-family="" font-size="28" space="preserve" transform="translate(67,0)">
-     <text fill="black" text-anchor="start" transform=" rotate(270) translate(-93,14)">
-      -2Δ ln L
-     </text>
+    <g font-family="Arial" font-size="28" space="preserve" transform="translate(67,0)">
+     <g transform=" rotate(270) translate(-93,8)">
+      <text font-family="Arial" fill="black" font-size="28">
+       -2Δ ln L
+      </text>
+     </g>
     </g>
    </g>
   </g>
-  <g transform="translate(143,93)" font-family="Arial" font-size="17" space="preserve">
+  <g transform="translate(143,93)" font-family="Arial" font-size="22" space="preserve">
    <path d="M4,4v115h325v-115z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H325V115H0Z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(163,14)">
     CMS Preliminary
    </text>
-   <text fill="black" text-anchor="start" transform="translate(131,52)">
-    H → ZZ
-   </text>
-   <text fill="black" text-anchor="start" transform="translate(80,84)">
-    <tspan dy="-.1em">
-     <tspan style="font-size: 130%;" dy="-.08em">
-      <tspan>
-       √
-      </tspan>
-      <tspan>
-       ‾‾
-      </tspan>
-      <tspan dy=".08em" dx="-.87em">
-      </tspan>
-     </tspan>
-     <tspan>
-      s
-     </tspan>
-    </tspan>
-    <tspan>
+   <g transform="translate(124,50) scale(0.9214743589743589,0.9214743589743589)">
+    <text font-family="Arial" fill="black" font-size="24">
+     H → ZZ
+    </text>
+   </g>
+   <g transform="translate(52,80) scale(0.9214743589743589,0.9214743589743589)">
+    <g transform="translate(0,0)">
+     <path style="stroke: black; stroke-width: 2; fill: none;" d="M0,-7.199999999999999h2.88l2.88,9.599999999999998l2.88,-23.999999999999996h17.4916512v2.88"></path>
+     <g transform="translate(11.52,0)">
+      <text font-family="Arial" fill="black" font-size="24">
+       s
+      </text>
+     </g>
+    </g>
+    <text font-family="Arial" fill="black" font-size="24" x="29">
      = 7 Tev, L = 5.1 fb
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
-     -1
-    </tspan>
-   </text>
-   <text fill="black" text-anchor="start" transform="translate(80,113)">
-    <tspan dy="-.1em">
-     <tspan style="font-size: 130%;" dy="-.08em">
-      <tspan>
-       √
-      </tspan>
-      <tspan>
-       ‾‾
-      </tspan>
-      <tspan dy=".08em" dx="-.87em">
-      </tspan>
-     </tspan>
-     <tspan>
-      s
-     </tspan>
-    </tspan>
-    <tspan>
+    </text>
+    <g transform="translate(226.73018879999998,-11.040000000000001)">
+     <text font-family="Arial" fill="black" font-size="14.399999999999999">
+      -1
+     </text>
+    </g>
+   </g>
+   <g transform="translate(52,109) scale(0.9214743589743589,0.9214743589743589)">
+    <g transform="translate(0,0)">
+     <path style="stroke: black; stroke-width: 2; fill: none;" d="M0,-7.199999999999999h2.88l2.88,9.599999999999998l2.88,-23.999999999999996h17.4916512v2.88"></path>
+     <g transform="translate(11.52,0)">
+      <text font-family="Arial" fill="black" font-size="24">
+       s
+      </text>
+     </g>
+    </g>
+    <text font-family="Arial" fill="black" font-size="24" x="29">
      = 8 Tev, L = 5.3 fb
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
-     -1
-    </tspan>
-   </text>
+    </text>
+    <g transform="translate(227.5899552,-11.040000000000001)">
+     <text font-family="Arial" fill="black" font-size="14.399999999999999">
+      -1
+     </text>
+    </g>
+   </g>
   </g>
  </g>
 </svg>

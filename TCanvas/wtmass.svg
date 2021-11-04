@@ -75,17 +75,19 @@
         </text>
        </g>
        <g font-family="Arial" font-size="25" space="preserve" transform="translate(948,80)">
-        <text fill="black" text-anchor="start" transform="translate(-127,5)">
-         <tspan dy="-.1em">
+        <g transform="translate(-125,6)">
+         <text font-family="Arial" fill="black" font-size="25">
           M
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy=".4em">
-          T,W
-         </tspan>
-         <tspan dy="-.24em">
+         </text>
+         <g transform="translate(28.51443,5.5)">
+          <text font-family="Arial" fill="black" font-size="15">
+           T,W
+          </text>
+         </g>
+         <text font-family="Arial" fill="black" font-size="25" x="55">
           [GeV]
-         </tspan>
-        </text>
+         </text>
+        </g>
        </g>
       </g>
       <g>
@@ -142,17 +144,19 @@
    </text>
   </g>
   <g font-family="Arial" font-size="22" space="preserve">
-   <text fill="black" text-anchor="start" transform="translate(1028,784)">
-    <tspan dy="-.1em">
+   <g transform="translate(1029,780)">
+    <text font-family="Arial" fill="black" font-size="22">
      M
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy=".4em">
-     T,W
-    </tspan>
-    <tspan dy="-.24em">
+    </text>
+    <g transform="translate(25.092698399999996,4.84)">
+     <text font-family="Arial" fill="black" font-size="13.2">
+      T,W
+     </text>
+    </g>
+    <text font-family="Arial" fill="black" font-size="22" x="49">
      [GeV]
-    </tspan>
-   </text>
+    </text>
+   </g>
   </g>
   <g transform="translate(900,80)" font-family="Arial" font-size="18" space="preserve" font-weight="bold">
    <path d="M0,0H180V168H0Z" style="fill: white;"></path>

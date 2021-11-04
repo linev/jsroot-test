@@ -135,29 +135,33 @@
     Histogram filled with random numbers
    </text>
    <path d="M14,99H100" style="stroke: blue; stroke-width: 4;"></path>
-   <text fill="black" text-anchor="start" transform="translate(114,108)">
-    <tspan dy="-.1em">
-     Function abs(
-    </tspan>
-    <tspan dy="-.6em" dx=".24em">
-     sin(x)
-    </tspan>
-    <tspan dy="1em" dx="-1.51em">
-     x
-    </tspan>
-    <tspan dx="-1.76em" dy="-.6em">
-     ———
-    </tspan>
-    <tspan dx=".2em" dy=".2em">
-     )
-    </tspan>
-   </text>
    <path d="M14,136H100" style="stroke: red; stroke-width: 2;"></path>
    <path d="M57,122V152" style="stroke: red; stroke-width: 2;"></path>
    <path d="M52,131v10h10v-10z" style="stroke: cyan; fill: cyan;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,137)">
     Graph with error bars
    </text>
+   <g transform="translate(114,111) scale(0.4416981592067618,0.4416981592067618)">
+    <text font-family="Arial" fill="black" font-size="34">
+     Function abs(
+    </text>
+    <g transform="translate(208.042668,0)">
+     <g transform="translate(0,-22.099999999999998)">
+      <text font-family="Arial" fill="black" font-size="34">
+       sin(x)
+      </text>
+     </g>
+     <path style="stroke: black; stroke-width: 2; fill: none;" d="M0,-11.899999999999999h81.95839399999998"></path>
+     <g transform="translate(33.9960186,18.7)">
+      <text font-family="Arial" fill="black" font-size="34">
+       x
+      </text>
+     </g>
+    </g>
+    <text font-family="Arial" fill="black" font-size="34" x="293">
+     )
+    </text>
+   </g>
   </g>
   <g transform="translate(382,4)" font-family="Arial" font-size="40" space="preserve">
    <path d="M0,0H437V49H0Z" style="fill: none;"></path>

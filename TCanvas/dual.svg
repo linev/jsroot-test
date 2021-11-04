@@ -28,55 +28,67 @@
         </text>
        </g>
        <g font-family="Arial" font-size="20" space="preserve" transform="translate(461,44)">
-        <text fill="black" text-anchor="start" transform="translate(-132,10)">
-         μμ mass [GeV]
-        </text>
+        <g transform="translate(-132,6)">
+         <text font-family="Arial" fill="black" font-size="20">
+          μμ mass [GeV]
+         </text>
+        </g>
        </g>
       </g>
       <g>
        <path d="M0,0v627" style="stroke: black; stroke-width: 1;"></path>
        <path d="M9,627h-9m9,-11h-9m9,-10h-9m9,-8h-9m9,-7h-9m17,-6h-17m9,-43h-9m9,-25h-9m9,-17h-9m9,-14h-9m9,-11h-9m9,-10h-9m9,-8h-9m9,-7h-9m17,-7h-17m9,-42h-9m9,-25h-9m9,-18h-9m9,-13h-9m9,-11h-9m9,-10h-9m9,-8h-9m9,-7h-9m17,-7h-17m9,-42h-9m9,-25h-9m9,-18h-9m9,-13h-9m9,-12h-9m9,-9h-9m9,-8h-9m9,-7h-9m17,-7h-17m9,-42h-9m9,-25h-9m9,-18h-9m9,-14h-9m9,-11h-9m9,-9h-9m9,-8h-9m9,-8h-9m17,-6h-17" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="20" space="preserve">
-        <text fill="black" text-anchor="start" transform="translate(-32,598)">
-         <tspan dy="-.1em">
+        <g transform="translate(-31,592)">
+         <text font-family="Arial" fill="black" font-size="20">
           10
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy="-.6em">
-          0
-         </tspan>
-        </text>
-        <text fill="black" text-anchor="start" transform="translate(-32,456)">
-         <tspan dy="-.1em">
+         </text>
+         <g transform="translate(21.170592,-9.200000000000001)">
+          <text font-family="Arial" fill="black" font-size="12">
+           0
+          </text>
+         </g>
+        </g>
+        <g transform="translate(-30,450)">
+         <text font-family="Arial" fill="black" font-size="20">
           10
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy="-.6em">
-          1
-         </tspan>
-        </text>
-        <text fill="black" text-anchor="start" transform="translate(-32,315)">
-         <tspan dy="-.1em">
+         </text>
+         <g transform="translate(21.170592,-9.200000000000001)">
+          <text font-family="Arial" fill="black" font-size="12">
+           1
+          </text>
+         </g>
+        </g>
+        <g transform="translate(-31,309)">
+         <text font-family="Arial" fill="black" font-size="20">
           10
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy="-.6em">
-          2
-         </tspan>
-        </text>
-        <text fill="black" text-anchor="start" transform="translate(-32,174)">
-         <tspan dy="-.1em">
+         </text>
+         <g transform="translate(21.170592,-9.200000000000001)">
+          <text font-family="Arial" fill="black" font-size="12">
+           2
+          </text>
+         </g>
+        </g>
+        <g transform="translate(-31,168)">
+         <text font-family="Arial" fill="black" font-size="20">
           10
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy="-.6em">
-          3
-         </tspan>
-        </text>
-        <text fill="black" text-anchor="start" transform="translate(-32,33)">
-         <tspan dy="-.1em">
+         </text>
+         <g transform="translate(21.170592,-9.200000000000001)">
+          <text font-family="Arial" fill="black" font-size="12">
+           3
+          </text>
+         </g>
+        </g>
+        <g transform="translate(-31,27)">
+         <text font-family="Arial" fill="black" font-size="20">
           10
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy="-.6em">
-          4
-         </tspan>
-        </text>
+         </text>
+         <g transform="translate(21.170592,-9.200000000000001)">
+          <text font-family="Arial" fill="black" font-size="12">
+           4
+          </text>
+         </g>
+        </g>
        </g>
        <g font-family="Arial" font-size="20" space="preserve" transform="translate(-32,0)">
         <text fill="black" text-anchor="end" dy=".4em" transform=" rotate(270)">
@@ -158,9 +170,11 @@
         </text>
        </g>
        <g font-family="Arial" font-size="20" space="preserve" transform="translate(461,44)">
-        <text fill="black" text-anchor="start" transform="translate(-132,10)">
-         μμ mass [GeV]
-        </text>
+        <g transform="translate(-132,6)">
+         <text font-family="Arial" fill="black" font-size="20">
+          μμ mass [GeV]
+         </text>
+        </g>
        </g>
       </g>
       <g>
@@ -196,9 +210,11 @@
     </g>
     <g transform="translate(86,4)" font-family="Arial" font-size="21" space="preserve">
      <path d="M0,0H403V48H0Z" style="fill: none;"></path>
-     <text fill="black" text-anchor="start" transform="translate(10,35)">
-      Subset of CMS Run 2010B: J/ψ window
-     </text>
+     <g transform="translate(10,36) scale(0.546446335815892,0.546446335815892)">
+      <text font-family="Arial" fill="black" font-size="40">
+       Subset of CMS Run 2010B: J/ψ window
+      </text>
+     </g>
     </g>
     <g transform="translate(449,51)" font-family="Arial" font-size="10" space="preserve">
      <path d="M0,0H115V125H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>

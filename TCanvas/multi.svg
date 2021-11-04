@@ -235,35 +235,41 @@
        <path d="M0,-12v12m32,-24v24m208,-12v12m122,-12v12m87,-12v12m67,-12v12m54,-12v12m47,-12v12m40,-12v12m35,-12v12m32,-24v24m209,-12v12" style="stroke: black; stroke-width: 1;"></path>
        <path d="M0,-620v-12m32,24v-24m208,12v-12m122,12v-12m87,12v-12m67,12v-12m54,12v-12m47,12v-12m40,12v-12m35,12v-12m32,24v-24m209,12v-12" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="40" space="preserve">
-        <text fill="black" text-anchor="start" transform="translate(3,63)">
-         <tspan dy="-.1em">
+        <g transform="translate(4,46)">
+         <text font-family="Arial" fill="black" font-size="40">
           10
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy="-.6em">
-          2
-         </tspan>
-        </text>
-        <text fill="black" text-anchor="start" transform="translate(695,63)">
-         <tspan dy="-.1em">
+         </text>
+         <g transform="translate(42.341184,-18.400000000000002)">
+          <text font-family="Arial" fill="black" font-size="24">
+           2
+          </text>
+         </g>
+        </g>
+        <g transform="translate(696,46)">
+         <text font-family="Arial" fill="black" font-size="40">
           10
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy="-.6em">
-          3
-         </tspan>
-        </text>
+         </text>
+         <g transform="translate(42.341184,-18.400000000000002)">
+          <text font-family="Arial" fill="black" font-size="24">
+           3
+          </text>
+         </g>
+        </g>
        </g>
        <g font-family="Arial" font-size="40" space="preserve" transform="translate(960,80)">
-        <text fill="black" text-anchor="start" transform="translate(-185,7)">
-         <tspan dy="-.1em">
+        <g transform="translate(-182,10)">
+         <text font-family="Arial" fill="black" font-size="40">
           p
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy=".4em">
-          T,jet
-         </tspan>
-         <tspan dy="-.24em">
+         </text>
+         <g transform="translate(22.464864,8.8)">
+          <text font-family="Arial" fill="black" font-size="24">
+           T,jet
+          </text>
+         </g>
+         <text font-family="Arial" fill="black" font-size="40" x="70">
           [GeV]
-         </tspan>
-        </text>
+         </text>
+        </g>
        </g>
       </g>
       <g>
@@ -301,20 +307,12 @@
     <g>
      <line x1="180" y1="428" x2="1140" y2="428" style="stroke: black; stroke-width: 1;"></line>
     </g>
-    <g transform="translate(696,80)" font-family="Arial" font-size="17" space="preserve">
+    <g transform="translate(696,80)" font-family="Arial" font-size="24" space="preserve">
      <path d="M0,0H384V168H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,21)">
       NLO QCD
      </text>
      <path d="M12,52H65" style="stroke: red; stroke-width: 4; stroke-dasharray: 5,3,1,3;"></path>
-     <text fill="black" text-anchor="start" transform="translate(77,56)">
-      <tspan dy="-.1em">
-       α
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy=".4em">
-       s
-      </tspan>
-     </text>
      <path d="M12,84H65" style="stroke: black; stroke-width: 4; stroke-dasharray: 20,5;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(77,84)">
       CT10 PDF
@@ -327,43 +325,48 @@
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(77,147)">
       Total
      </text>
-    </g>
-    <g transform="translate(264,560)" font-family="Arial" font-size="17" space="preserve">
-     <path d="M0,0H216V101H0Z" style="fill: none;"></path>
-     <text fill="black" text-anchor="start" transform="translate(6,28)">
-      <tspan dy="-.1em">
-       <tspan style="font-size: 130%;" dy="-.08em">
-        <tspan>
-         √
-        </tspan>
-        <tspan>
-         ‾‾
-        </tspan>
-        <tspan dy=".08em" dx="-.87em">
-        </tspan>
-       </tspan>
-       <tspan>
+     <g transform="translate(77,60) scale(0.868131868131868,0.868131868131868)">
+      <text font-family="Arial" fill="black" font-size="28">
+       α
+      </text>
+      <g transform="translate(16.2107568,6.16)">
+       <text font-family="Arial" fill="black" font-size="16.8">
         s
-       </tspan>
-      </tspan>
-      <tspan>
-       = 7 TeV
-      </tspan>
-     </text>
-     <text fill="black" text-anchor="start" transform="translate(6,54)">
-      <tspan dy="-.1em">
-       Anti-k
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy=".4em">
-       t
-      </tspan>
-      <tspan dy="-.24em">
-       R= 0.4
-      </tspan>
-     </text>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g transform="translate(264,560)" font-family="Arial" font-size="24" space="preserve">
+     <path d="M0,0H216V101H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(6,82)">
       |y| &lt;0.5
      </text>
+     <g transform="translate(6,29) scale(0.8399646330680813,0.8399646330680813)">
+      <g transform="translate(0,0)">
+       <path style="stroke: black; stroke-width: 2; fill: none;" d="M0,-8.7h3.48l3.48,11.599999999999998l3.48,-28.999999999999996h21.1357452v3.48"></path>
+       <g transform="translate(13.92,0)">
+        <text font-family="Arial" fill="black" font-size="29">
+         s
+        </text>
+       </g>
+      </g>
+      <text font-family="Arial" fill="black" font-size="29" x="35">
+       = 7 TeV
+      </text>
+     </g>
+     <g transform="translate(6,58) scale(0.8399646330680813,0.8399646330680813)">
+      <text font-family="Arial" fill="black" font-size="29">
+       Anti-k
+      </text>
+      <g transform="translate(77.61471839999999,6.38)">
+       <text font-family="Arial" fill="black" font-size="17.4">
+        t
+       </text>
+      </g>
+      <text font-family="Arial" fill="black" font-size="29" x="83">
+       R= 0.4
+      </text>
+     </g>
     </g>
    </g>
   </g>
