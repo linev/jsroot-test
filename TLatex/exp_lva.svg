@@ -1,0 +1,673 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+ <title>
+  ROOT canvas
+ </title>
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
+ <g>
+  <g transform="translate(120,80)">
+   <title></title>
+   <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <g>
+    <path d="M0,0v640M192,0v640M384,0v640M576,0v640M768,0v640M960,0v640" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+    <path d="M0,640h960M0,512h960M0,384h960M0,256h960M0,128h960M0,0h960" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+   </g>
+   <g clip-path="path('M0,0H960V640H0Z')"></g>
+   <g>
+    <g transform="translate(0,640)">
+     <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,-24v24m48,-12v12m48,-12v12m48,-12v12m48,-24v24m48,-12v12m48,-12v12m48,-12v12m48,-24v24m48,-12v12m48,-12v12m48,-12v12m48,-24v24m48,-12v12m48,-12v12m48,-12v12m48,-24v24m48,-12v12m48,-12v12m48,-12v12m48,-24v24" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,6)">
+       0
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(192,6)">
+       0.2
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(384,6)">
+       0.4
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(576,6)">
+       0.6
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(768,6)">
+       0.8
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(960,6)">
+       1
+      </text>
+     </g>
+    </g>
+    <g>
+     <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M36,640h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,640)">
+       0
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,512)">
+       0.2
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,384)">
+       0.4
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,256)">
+       0.6
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,128)">
+       0.8
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,0)">
+       1
+      </text>
+     </g>
+    </g>
+   </g>
+   <g>
+    <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
+     <g transform="translate(192,77)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+       K
+      </text>
+      <g transform="translate(9.942825200000001,3.08)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        S
+       </text>
+      </g>
+     </g>
+    </g>
+    <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
+     <g transform="translate(288,78)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+       K
+      </text>
+      <g transform="translate(9.942825200000001,-6.440000000000001)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        *0
+       </text>
+      </g>
+     </g>
+    </g>
+    <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
+     <g transform="translate(192,151)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+       K
+      </text>
+      <g transform="translate(9.942825200000001,3.08)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        S
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="15">
+       ... K
+      </text>
+      <g transform="translate(40.925242960000006,-6.440000000000001)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        *0
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="50">
+       ...
+      </text>
+      <g transform="translate(65.35570216000002,0)">
+       <g transform="translate(3.578403360000002,-9.1)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+         2s
+        </text>
+       </g>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h20.903353520000007"></path>
+       <g transform="translate(0,9.100000000000001)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+         πα
+        </text>
+        <g transform="translate(17.503427200000004,-6.440000000000001)">
+         <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+          2
+         </text>
+        </g>
+       </g>
+      </g>
+      <g transform="translate(87.65905568000002,0)">
+       <g transform="translate(11.117041600000002,-9.1)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+         dσ
+        </text>
+       </g>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h37.64480720000001"></path>
+       <g transform="translate(0,7.700000000000002)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+         dcosθ
+        </text>
+       </g>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="127">
+       (e
+      </text>
+      <g transform="translate(143.15134008000004,-6.440000000000001)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        +
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="148">
+       e
+      </text>
+      <g transform="translate(155.88694184000005,-6.440000000000001)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        -
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="159">
+       → f
+      </text>
+      <g transform="translate(186.11245464000007,0)">
+       <g>
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14" text-decoration="overline">
+         f
+        </text>
+       </g>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="191">
+       ) =
+      </text>
+      <g transform="translate(212.13951024000005,0)">
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M3,-21.700000000000003v33.60000000000001"></path>
+       <g transform="translate(6,0)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+        </text>
+        <g transform="translate(3.826762800000001,0)">
+         <g transform="translate(15.442212800000004,-9.1)">
+          <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+           1
+          </text>
+         </g>
+         <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h36.96055160000001"></path>
+         <g transform="translate(0,7.700000000000002)">
+          <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+           1 - Δα
+          </text>
+         </g>
+        </g>
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="42">
+        </text>
+       </g>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M54.8267628,-21.700000000000003v33.60000000000001"></path>
+      </g>
+      <g transform="translate(269.96627304000003,-15.540000000000003)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        2
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="275">
+       (1+cos
+      </text>
+      <g transform="translate(322.38532056,-6.440000000000001)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        2
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="327">
+       θ)
+      </text>
+     </g>
+    </g>
+    <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
+     <g transform="translate(192,260)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+       K
+      </text>
+      <g transform="translate(9.942825200000001,3.08)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        S
+       </text>
+      </g>
+     </g>
+    </g>
+    <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
+     <g transform="translate(288,261)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+       K
+      </text>
+      <g transform="translate(9.942825200000001,-6.440000000000001)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        *0
+       </text>
+      </g>
+     </g>
+    </g>
+    <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
+     <g transform="translate(192,325)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+       K
+      </text>
+      <g transform="translate(9.942825200000001,3.08)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        S
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="15">
+       ... K
+      </text>
+      <g transform="translate(40.925242960000006,-6.440000000000001)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        *0
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="50">
+       ...
+      </text>
+      <g transform="translate(65.35570216000002,0)">
+       <g transform="translate(3.578403360000002,-9.1)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+         2s
+        </text>
+       </g>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h20.903353520000007"></path>
+       <g transform="translate(0,9.100000000000001)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+         πα
+        </text>
+        <g transform="translate(17.503427200000004,-6.440000000000001)">
+         <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+          2
+         </text>
+        </g>
+       </g>
+      </g>
+      <g transform="translate(87.65905568000002,0)">
+       <g transform="translate(11.117041600000002,-9.1)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+         dσ
+        </text>
+       </g>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h37.64480720000001"></path>
+       <g transform="translate(0,7.700000000000002)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+         dcosθ
+        </text>
+       </g>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="127">
+       (e
+      </text>
+      <g transform="translate(143.15134008000004,-6.440000000000001)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        +
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="148">
+       e
+      </text>
+      <g transform="translate(155.88694184000005,-6.440000000000001)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        -
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="159">
+       → f
+      </text>
+      <g transform="translate(186.11245464000007,0)">
+       <g>
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14" text-decoration="overline">
+         f
+        </text>
+       </g>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="191">
+       ) =
+      </text>
+      <g transform="translate(212.13951024000005,0)">
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M3,-21.700000000000003v33.60000000000001"></path>
+       <g transform="translate(6,0)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+        </text>
+        <g transform="translate(3.826762800000001,0)">
+         <g transform="translate(15.442212800000004,-9.1)">
+          <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+           1
+          </text>
+         </g>
+         <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h36.96055160000001"></path>
+         <g transform="translate(0,7.700000000000002)">
+          <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+           1 - Δα
+          </text>
+         </g>
+        </g>
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="42">
+        </text>
+       </g>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M54.8267628,-21.700000000000003v33.60000000000001"></path>
+      </g>
+      <g transform="translate(269.96627304000003,-15.540000000000003)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        2
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="275">
+       (1+cos
+      </text>
+      <g transform="translate(322.38532056,-6.440000000000001)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        2
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="327">
+       θ)
+      </text>
+     </g>
+    </g>
+    <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
+     <g transform="translate(192,384)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+       K
+      </text>
+      <g transform="translate(9.942825200000001,3.08)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        S
+       </text>
+      </g>
+     </g>
+    </g>
+    <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
+     <g transform="translate(288,384)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+       K
+      </text>
+      <g transform="translate(9.942825200000001,-6.440000000000001)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        *0
+       </text>
+      </g>
+     </g>
+    </g>
+    <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
+     <g transform="translate(192,448)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+       K
+      </text>
+      <g transform="translate(9.942825200000001,3.08)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        S
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="15">
+       ... K
+      </text>
+      <g transform="translate(40.925242960000006,-6.440000000000001)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        *0
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="50">
+       ...
+      </text>
+      <g transform="translate(65.35570216000002,0)">
+       <g transform="translate(3.578403360000002,-9.1)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+         2s
+        </text>
+       </g>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h20.903353520000007"></path>
+       <g transform="translate(0,9.100000000000001)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+         πα
+        </text>
+        <g transform="translate(17.503427200000004,-6.440000000000001)">
+         <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+          2
+         </text>
+        </g>
+       </g>
+      </g>
+      <g transform="translate(87.65905568000002,0)">
+       <g transform="translate(11.117041600000002,-9.1)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+         dσ
+        </text>
+       </g>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h37.64480720000001"></path>
+       <g transform="translate(0,7.700000000000002)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+         dcosθ
+        </text>
+       </g>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="127">
+       (e
+      </text>
+      <g transform="translate(143.15134008000004,-6.440000000000001)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        +
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="148">
+       e
+      </text>
+      <g transform="translate(155.88694184000005,-6.440000000000001)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        -
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="159">
+       → f
+      </text>
+      <g transform="translate(186.11245464000007,0)">
+       <g>
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14" text-decoration="overline">
+         f
+        </text>
+       </g>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="191">
+       ) =
+      </text>
+      <g transform="translate(212.13951024000005,0)">
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M3,-21.700000000000003v33.60000000000001"></path>
+       <g transform="translate(6,0)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+        </text>
+        <g transform="translate(3.826762800000001,0)">
+         <g transform="translate(15.442212800000004,-9.1)">
+          <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+           1
+          </text>
+         </g>
+         <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h36.96055160000001"></path>
+         <g transform="translate(0,7.700000000000002)">
+          <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+           1 - Δα
+          </text>
+         </g>
+        </g>
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="42">
+        </text>
+       </g>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M54.8267628,-21.700000000000003v33.60000000000001"></path>
+      </g>
+      <g transform="translate(269.96627304000003,-15.540000000000003)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        2
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="275">
+       (1+cos
+      </text>
+      <g transform="translate(322.38532056,-6.440000000000001)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        2
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="327">
+       θ)
+      </text>
+     </g>
+    </g>
+    <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
+     <g transform="translate(192,506)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+       K
+      </text>
+      <g transform="translate(9.942825200000001,3.08)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        S
+       </text>
+      </g>
+     </g>
+    </g>
+    <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
+     <g transform="translate(288,508)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+       K
+      </text>
+      <g transform="translate(9.942825200000001,-6.440000000000001)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        *0
+       </text>
+      </g>
+     </g>
+    </g>
+    <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
+     <g transform="translate(192,563)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+       K
+      </text>
+      <g transform="translate(9.942825200000001,3.08)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        S
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="15">
+       ... K
+      </text>
+      <g transform="translate(40.925242960000006,-6.440000000000001)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        *0
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="50">
+       ...
+      </text>
+      <g transform="translate(65.35570216000002,0)">
+       <g transform="translate(3.578403360000002,-9.1)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+         2s
+        </text>
+       </g>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h20.903353520000007"></path>
+       <g transform="translate(0,9.100000000000001)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+         πα
+        </text>
+        <g transform="translate(17.503427200000004,-6.440000000000001)">
+         <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+          2
+         </text>
+        </g>
+       </g>
+      </g>
+      <g transform="translate(87.65905568000002,0)">
+       <g transform="translate(11.117041600000002,-9.1)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+         dσ
+        </text>
+       </g>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h37.64480720000001"></path>
+       <g transform="translate(0,7.700000000000002)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+         dcosθ
+        </text>
+       </g>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="127">
+       (e
+      </text>
+      <g transform="translate(143.15134008000004,-6.440000000000001)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        +
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="148">
+       e
+      </text>
+      <g transform="translate(155.88694184000005,-6.440000000000001)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        -
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="159">
+       → f
+      </text>
+      <g transform="translate(186.11245464000007,0)">
+       <g>
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14" text-decoration="overline">
+         f
+        </text>
+       </g>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="191">
+       ) =
+      </text>
+      <g transform="translate(212.13951024000005,0)">
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M3,-21.700000000000003v33.60000000000001"></path>
+       <g transform="translate(6,0)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+        </text>
+        <g transform="translate(3.826762800000001,0)">
+         <g transform="translate(15.442212800000004,-9.1)">
+          <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+           1
+          </text>
+         </g>
+         <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h36.96055160000001"></path>
+         <g transform="translate(0,7.700000000000002)">
+          <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+           1 - Δα
+          </text>
+         </g>
+        </g>
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="42">
+        </text>
+       </g>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M54.8267628,-21.700000000000003v33.60000000000001"></path>
+      </g>
+      <g transform="translate(269.96627304000003,-15.540000000000003)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        2
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="275">
+       (1+cos
+      </text>
+      <g transform="translate(322.38532056,-6.440000000000001)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="8.4">
+        2
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="327">
+       θ)
+      </text>
+     </g>
+    </g>
+    <g font-family="Arial" font-size="14" space="preserve" font-weight="bold" font-style="oblique">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(96,128)">
+      13
+     </text>
+    </g>
+    <g font-family="Arial" font-size="14" space="preserve" font-weight="bold" font-style="oblique">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(96,288)">
+      12
+     </text>
+    </g>
+    <g font-family="Arial" font-size="14" space="preserve" font-weight="bold" font-style="oblique">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(96,416)">
+      11
+     </text>
+    </g>
+    <g font-family="Arial" font-size="14" space="preserve" font-weight="bold" font-style="oblique">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(96,525)">
+      10
+     </text>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
