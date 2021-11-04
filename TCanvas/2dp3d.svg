@@ -105,7 +105,7 @@
     </g>
     <g transform="translate(118,2)" font-family="Arial" font-size="16" space="preserve">
      <path d="M0,0H316V20H0Z" style="fill: none;"></path>
-     <g transform="translate(67,15) scale(0.9803921568627451,0.9803921568627451)">
+     <g transform="translate(67,15) scale(0.980,0.980)">
       <text font-family="Arial" fill="black" font-size="17">
        3*px+2 {px**2+py**2&gt;1}
       </text>
@@ -349,7 +349,7 @@
     </g>
     <g transform="translate(188,2)" font-family="Arial" font-size="16" space="preserve">
      <path d="M0,0H177V20H0Z" style="fill: none;"></path>
-     <g transform="translate(42,15) scale(0.9803921568627451,0.9803921568627451)">
+     <g transform="translate(42,15) scale(0.980,0.980)">
       <text font-family="Arial" fill="black" font-size="17">
        py:px {pz&gt;1}
       </text>
@@ -365,7 +365,7 @@
    <g>
     <g transform="translate(83,2)" font-family="Arial" font-size="16" space="preserve">
      <path d="M0,0H386V20H0Z" style="fill: none;"></path>
-     <g transform="translate(28,15) scale(0.9803921568627451,0.9803921568627451)">
+     <g transform="translate(28,15) scale(0.980,0.980)">
       <text font-family="Arial" fill="black" font-size="17">
        pz:py:px {(pz&lt;10 &amp;&amp; pz&gt;6)+(pz&lt;4 &amp;&amp; pz&gt;3)}
       </text>
