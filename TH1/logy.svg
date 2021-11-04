@@ -50,30 +50,36 @@
      <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
      <path d="M18,640h-18m18,-23h-18m18,-18h-18m18,-14h-18m18,-13h-18m18,-10h-18m18,-10h-18m36,-8h-36m18,-56h-18m18,-32h-18m18,-23h-18m18,-18h-18m18,-14h-18m18,-13h-18m18,-10h-18m18,-10h-18m36,-8h-36m18,-55h-18m18,-33h-18m18,-23h-18m18,-18h-18m18,-14h-18m18,-12h-18m18,-11h-18m18,-10h-18m36,-8h-36m18,-55h-18m18,-33h-18m18,-23h-18m18,-18h-18m18,-14h-18m18,-12h-18m18,-11h-18m18,-9h-18" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
-      <text fill="black" text-anchor="start" transform="translate(-45,562)">
-       <tspan dy="-.1em">
+      <g transform="translate(-43,554)">
+       <text font-family="Arial" fill="black" font-size="28">
         10
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy="-.6em">
-        0
-       </tspan>
-      </text>
-      <text fill="black" text-anchor="start" transform="translate(-44,378)">
-       <tspan dy="-.1em">
+       </text>
+       <g transform="translate(29.638828800000002,-12.880000000000003)">
+        <text font-family="Arial" fill="black" font-size="16.8">
+         0
+        </text>
+       </g>
+      </g>
+      <g transform="translate(-42,370)">
+       <text font-family="Arial" fill="black" font-size="28">
         10
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy="-.6em">
-        1
-       </tspan>
-      </text>
-      <text fill="black" text-anchor="start" transform="translate(-45,194)">
-       <tspan dy="-.1em">
+       </text>
+       <g transform="translate(29.638828800000002,-12.880000000000003)">
+        <text font-family="Arial" fill="black" font-size="16.8">
+         1
+        </text>
+       </g>
+      </g>
+      <g transform="translate(-43,186)">
+       <text font-family="Arial" fill="black" font-size="28">
         10
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy="-.6em">
-        2
-       </tspan>
-      </text>
+       </text>
+       <g transform="translate(29.638828800000002,-12.880000000000003)">
+        <text font-family="Arial" fill="black" font-size="16.8">
+         2
+        </text>
+       </g>
+      </g>
      </g>
     </g>
    </g>

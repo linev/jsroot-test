@@ -144,16 +144,18 @@
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,42)">
       10
      </text>
-     <text fill="black" text-anchor="start" transform="translate(-62,-3)">
-      <tspan dy="-.1em">
+     <g transform="translate(-60,-11)">
+      <text font-family="Arial" fill="black" font-size="28">
        ×10
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
-       6
-      </tspan>
-     </text>
+      </text>
+      <g transform="translate(45.7363368,-12.880000000000003)">
+       <text font-family="Arial" fill="black" font-size="16.8">
+        6
+       </text>
+      </g>
+     </g>
     </g>
-    <g font-family="" font-size="28" space="preserve" transform="translate(67,0)">
+    <g font-family="Arial" font-size="28" space="preserve" transform="translate(67,0)">
      <text fill="black" text-anchor="end" dy=".4em" transform=" rotate(270)">
       Energy[ADC Counts]
      </text>

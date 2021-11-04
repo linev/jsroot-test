@@ -44,23 +44,27 @@
       </text>
      </g>
      <g font-family="Arial" font-size="28" space="preserve" transform="translate(960,45)">
-      <text fill="black" text-anchor="start" transform="translate(-130,5)">
-       <tspan dy="-.1em">
+      <g transform="translate(-129,7)">
+       <text font-family="Arial" fill="black" font-size="28">
         p
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy=".4em">
-        T
-       </tspan>
-       <tspan dy="-.24em">
+       </text>
+       <g transform="translate(15.7254048,6.16)">
+        <text font-family="Arial" fill="black" font-size="16.8">
+         T
+        </text>
+       </g>
+       <text font-family="Arial" fill="black" font-size="28" x="26">
         (GeV/
-       </tspan>
-       <tspan font-style="italic">
-        c
-       </tspan>
-       <tspan>
+       </text>
+       <g transform="translate(104.89750992,0)">
+        <text font-family="Arial" fill="black" font-size="28" font-style="italic">
+         c
+        </text>
+       </g>
+       <text font-family="Arial" fill="black" font-size="28" x="119">
         )
-       </tspan>
-      </text>
+       </text>
+      </g>
      </g>
     </g>
     <g>
@@ -84,40 +88,50 @@
       </text>
      </g>
      <g font-family="Arial" font-size="28" space="preserve" transform="translate(-67,0)">
-      <text fill="black" text-anchor="start" transform=" rotate(270) translate(-276,11)">
-       <tspan dy="-.7em" dx=".74em">
-        1
-       </tspan>
-       <tspan dy="1em" dx="-.95em">
-        <tspan>
-         N
-        </tspan>
-        <tspan font-size="60%" dx=".1em" dy=".4em">
-         ev
-        </tspan>
-       </tspan>
-       <tspan dx="-1.7em" dy="-.84em">
-        ——
-       </tspan>
-       <tspan dx=".2em" dy=".2em">
+      <g transform=" rotate(270) translate(-269,8)">
+       <g transform="translate(0,0)">
+        <g transform="translate(11.56432032,-18.2)">
+         <text font-family="Arial" fill="black" font-size="28">
+          1
+         </text>
+        </g>
+        <path style="stroke: black; stroke-width: 2; fill: none;" d="M0,-9.799999999999999h34.64652464"></path>
+        <g transform="translate(0,15.400000000000004)">
+         <text font-family="Arial" fill="black" font-size="28">
+          N
+         </text>
+         <g transform="translate(20.2553568,6.16)">
+          <text font-family="Arial" fill="black" font-size="16.8">
+           ev
+          </text>
+         </g>
+        </g>
+       </g>
+       <text font-family="Arial" fill="black" font-size="28" x="37">
         d
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy="-.6em">
-        2
-       </tspan>
-       <tspan dy=".36em">
+       </text>
+       <g transform="translate(53.18810784,-12.880000000000003)">
+        <text font-family="Arial" fill="black" font-size="16.8">
+         2
+        </text>
+       </g>
+       <text font-family="Arial" fill="black" font-size="28" x="62">
         N/dp
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy=".4em">
-        t
-       </tspan>
-       <tspan dy="-.24em">
+       </text>
+       <g transform="translate(122.06279232,6.16)">
+        <text font-family="Arial" fill="black" font-size="16.8">
+         t
+        </text>
+       </g>
+       <text font-family="Arial" fill="black" font-size="28" x="127">
         dy (Gev/c)
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy="-.6em">
-        -1
-       </tspan>
-      </text>
+       </text>
+       <g transform="translate(255.04600464,-12.880000000000003)">
+        <text font-family="Arial" fill="black" font-size="16.8">
+         -1
+        </text>
+       </g>
+      </g>
      </g>
     </g>
    </g>

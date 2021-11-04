@@ -154,14 +154,16 @@
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,83)">
        1
       </text>
-      <text fill="black" text-anchor="start" transform="translate(5,-3)">
-       <tspan dy="-.1em">
+      <g transform="translate(5,-11)">
+       <text font-family="Arial" fill="black" font-size="28">
         ×10
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy="-.6em">
-        6
-       </tspan>
-      </text>
+       </text>
+       <g transform="translate(45.7363368,-12.880000000000003)">
+        <text font-family="Arial" fill="black" font-size="16.8">
+         6
+        </text>
+       </g>
+      </g>
      </g>
     </g>
    </g>
@@ -170,36 +172,40 @@
    <path d="M0,0H504V104H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <path d="M15,28H111" style="stroke: rgb(204,51,51); stroke-width: 2;"></path>
    <path d="M59.8,28.0a3.2,3.2,0,1,0,6.4,0a3.2,3.2,0,1,0,-6.4,0z" style="stroke: blue; fill: blue;"></path>
-   <text fill="black" text-anchor="start" transform="translate(126,39)">
-    <tspan dy="-.1em">
-     Real countries surfaces from Wikipedia (in km
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
-     2
-    </tspan>
-    <tspan dy=".36em">
-     )
-    </tspan>
-   </text>
    <path d="M15,77H111" style="stroke: rgb(0,0,153); stroke-width: 3;"></path>
    <path d="M59.8,77.0a3.2,3.2,0,1,0,6.4,0a3.2,3.2,0,1,0,-6.4,0z" style="stroke: blue; fill: blue;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(126,77)">
     Countries surfaces from TH2Poly (with errors)
    </text>
-  </g>
-  <g transform="translate(338,4)" font-family="Arial" font-size="28" space="preserve">
-   <path d="M0,0H523V56H0Z" style="fill: none;"></path>
-   <text fill="black" text-anchor="start" transform="translate(87,53)">
-    <tspan dy="-.1em">
-     Countries surfaces (in km
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
-     2
-    </tspan>
-    <tspan dy=".36em">
+   <g transform="translate(126,35) scale(0.6648095952353481,0.6648095952353481)">
+    <text font-family="Arial" fill="black" font-size="20">
+     Real countries surfaces from Wikipedia (in km
+    </text>
+    <g transform="translate(411.54382799999996,-9.200000000000001)">
+     <text font-family="Arial" fill="black" font-size="12">
+      2
+     </text>
+    </g>
+    <text font-family="Arial" fill="black" font-size="20" x="418">
      )
-    </tspan>
-   </text>
+    </text>
+   </g>
+  </g>
+  <g transform="translate(338,4)" font-family="Arial" font-size="41" space="preserve">
+   <path d="M0,0H523V56H0Z" style="fill: none;"></path>
+   <g transform="translate(12,44) scale(0.8735672574220664,0.8735672574220664)">
+    <text font-family="Arial" fill="black" font-size="47">
+     Countries surfaces (in km
+    </text>
+    <g transform="translate(538.6240044,-21.62)">
+     <text font-family="Arial" fill="black" font-size="28.2">
+      2
+     </text>
+    </g>
+    <text font-family="Arial" fill="black" font-size="47" x="554">
+     )
+    </text>
+   </g>
   </g>
  </g>
 </svg>

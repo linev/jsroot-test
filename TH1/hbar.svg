@@ -26,30 +26,36 @@
        <path d="M0,0h941" style="stroke: black; stroke-width: 1;"></path>
        <path d="M35,-6v6m50,-6v6m35,-6v6m28,-6v6m22,-6v6m19,-6v6m17,-6v6m14,-6v6m13,-12v12m85,-6v6m50,-6v6m35,-6v6m28,-6v6m22,-6v6m19,-6v6m16,-6v6m15,-6v6m13,-12v12m85,-6v6m50,-6v6m35,-6v6m28,-6v6m22,-6v6m19,-6v6m16,-6v6m15,-6v6m13,-12v12m85,-6v6m50,-6v6" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="13" space="preserve">
-        <text fill="black" text-anchor="start" transform="translate(224,22)">
-         <tspan dy="-.1em">
+        <g transform="translate(224,17)">
+         <text font-family="Arial" fill="black" font-size="13">
           10
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy="-.6em">
-          1
-         </tspan>
-        </text>
-        <text fill="black" text-anchor="start" transform="translate(507,22)">
-         <tspan dy="-.1em">
+         </text>
+         <g transform="translate(13.760884800000001,-5.9799999999999995)">
+          <text font-family="Arial" fill="black" font-size="7.8">
+           1
+          </text>
+         </g>
+        </g>
+        <g transform="translate(507,17)">
+         <text font-family="Arial" fill="black" font-size="13">
           10
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy="-.6em">
-          2
-         </tspan>
-        </text>
-        <text fill="black" text-anchor="start" transform="translate(790,22)">
-         <tspan dy="-.1em">
+         </text>
+         <g transform="translate(13.760884800000001,-5.9799999999999995)">
+          <text font-family="Arial" fill="black" font-size="7.8">
+           2
+          </text>
+         </g>
+        </g>
+        <g transform="translate(790,17)">
+         <text font-family="Arial" fill="black" font-size="13">
           10
-         </tspan>
-         <tspan font-size="60%" dx=".1em" dy="-.6em">
-          3
-         </tspan>
-        </text>
+         </text>
+         <g transform="translate(13.760884800000001,-5.9799999999999995)">
+          <text font-family="Arial" fill="black" font-size="7.8">
+           3
+          </text>
+         </g>
+        </g>
        </g>
       </g>
       <g>
