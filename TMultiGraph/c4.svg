@@ -43,17 +43,19 @@
       </text>
      </g>
      <g font-family="Arial" font-size="28" space="preserve" transform="translate(960,45)">
-      <text fill="black" text-anchor="start" transform="translate(-108,5)">
-       <tspan dy="-.1em">
+      <g transform="translate(-106,7)">
+       <text font-family="Arial" fill="black" font-size="28">
         E
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy=".4em">
-        γ
-       </tspan>
-       <tspan dy="-.24em">
+       </text>
+       <g transform="translate(17.472672,6.16)">
+        <text font-family="Arial" fill="black" font-size="16.8">
+         γ
+        </text>
+       </g>
+       <text font-family="Arial" fill="black" font-size="28" x="26">
         (GeV)
-       </tspan>
-      </text>
+       </text>
+      </g>
      </g>
     </g>
     <g>

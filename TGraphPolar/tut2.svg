@@ -51,81 +51,12 @@
     0
    </text>
    <line x1="0" y1="0" x2="339" y2="-226" style="stroke: black; stroke-width: 1;"></line>
-   <text text-anchor="start" transform="translate(358,-239)">
-    <tspan dy="-.7em" dx=".18em">
-     π
-    </tspan>
-    <tspan dy="1em" dx="-.61em">
-     4
-    </tspan>
-    <tspan dx="-.79em" dy="-.6em">
-     —
-    </tspan>
-   </text>
    <line x1="0" y1="0" x2="0" y2="-320" style="stroke: black; stroke-width: 1;"></line>
-   <text text-anchor="start" transform="translate(-8,-337)">
-    <tspan dy="-.7em" dx=".18em">
-     π
-    </tspan>
-    <tspan dy="1em" dx="-.61em">
-     2
-    </tspan>
-    <tspan dx="-.79em" dy="-.6em">
-     —
-    </tspan>
-   </text>
    <line x1="0" y1="0" x2="-339" y2="-226" style="stroke: black; stroke-width: 1;"></line>
-   <text text-anchor="start" transform="translate(-390,-239)">
-    <tspan dy="-.7em" dx=".39em">
-     3π
-    </tspan>
-    <tspan dy="1em" dx="-.89em">
-     4
-    </tspan>
-    <tspan dx="-1.29em" dy="-.6em">
-     ——
-    </tspan>
-   </text>
    <line x1="0" y1="0" x2="-480" y2="0" style="stroke: black; stroke-width: 1;"></line>
-   <text text-anchor="start" transform="translate(-523,13)">
-    π
-   </text>
    <line x1="0" y1="0" x2="-339" y2="226" style="stroke: black; stroke-width: 1;"></line>
-   <text text-anchor="start" transform="translate(-390,286)">
-    <tspan dy="-.7em" dx=".39em">
-     5π
-    </tspan>
-    <tspan dy="1em" dx="-.89em">
-     4
-    </tspan>
-    <tspan dx="-1.29em" dy="-.6em">
-     ——
-    </tspan>
-   </text>
    <line x1="0" y1="0" x2="0" y2="320" style="stroke: black; stroke-width: 1;"></line>
-   <text text-anchor="start" transform="translate(-16,384)">
-    <tspan dy="-.7em" dx=".39em">
-     3π
-    </tspan>
-    <tspan dy="1em" dx="-.89em">
-     2
-    </tspan>
-    <tspan dx="-1.29em" dy="-.6em">
-     ——
-    </tspan>
-   </text>
    <line x1="0" y1="0" x2="339" y2="226" style="stroke: black; stroke-width: 1;"></line>
-   <text text-anchor="start" transform="translate(358,286)">
-    <tspan dy="-.7em" dx=".39em">
-     7π
-    </tspan>
-    <tspan dy="1em" dx="-.89em">
-     4
-    </tspan>
-    <tspan dx="-1.29em" dy="-.6em">
-     ——
-    </tspan>
-   </text>
    <line x1="0" y1="0" x2="474" y2="-50" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
    <line x1="0" y1="0" x2="457" y2="-99" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
    <line x1="0" y1="0" x2="428" y2="-145" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
@@ -158,6 +89,101 @@
    <line x1="0" y1="0" x2="428" y2="145" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
    <line x1="0" y1="0" x2="457" y2="99" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
    <line x1="0" y1="0" x2="474" y2="50" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
+   <g transform="translate(358,-239)">
+    <g transform="translate(0,0)">
+     <g transform="translate(0,-16.9)">
+      <text font-family="Arial" font-weight="bold" font-size="26">
+       π
+      </text>
+     </g>
+     <path style="stroke-width: 3; fill: none;" d="M0,-9.1h14.186588000000002"></path>
+     <g transform="translate(0.9648366000000008,14.299999999999999)">
+      <text font-family="Arial" font-weight="bold" font-size="26">
+       4
+      </text>
+     </g>
+    </g>
+   </g>
+   <g transform="translate(-8,-337)">
+    <g transform="translate(0,0)">
+     <g transform="translate(0,-16.9)">
+      <text font-family="Arial" font-weight="bold" font-size="26">
+       π
+      </text>
+     </g>
+     <path style="stroke-width: 3; fill: none;" d="M0,-9.1h14.186588000000002"></path>
+     <g transform="translate(0.9648366000000008,14.299999999999999)">
+      <text font-family="Arial" font-weight="bold" font-size="26">
+       2
+      </text>
+     </g>
+    </g>
+   </g>
+   <g transform="translate(-390,-239)">
+    <g transform="translate(0,0)">
+     <g transform="translate(0,-16.9)">
+      <text font-family="Arial" font-weight="bold" font-size="26">
+       3π
+      </text>
+     </g>
+     <path style="stroke-width: 3; fill: none;" d="M0,-9.1h29.0435028"></path>
+     <g transform="translate(8.393294000000001,14.299999999999999)">
+      <text font-family="Arial" font-weight="bold" font-size="26">
+       4
+      </text>
+     </g>
+    </g>
+   </g>
+   <g transform="translate(-523,8)">
+    <text font-family="Arial" font-weight="bold" font-size="26">
+     π
+    </text>
+   </g>
+   <g transform="translate(-390,279)">
+    <g transform="translate(0,0)">
+     <g transform="translate(0,-16.9)">
+      <text font-family="Arial" font-weight="bold" font-size="26">
+       5π
+      </text>
+     </g>
+     <path style="stroke-width: 3; fill: none;" d="M0,-9.1h29.0435028"></path>
+     <g transform="translate(8.393294000000001,14.299999999999999)">
+      <text font-family="Arial" font-weight="bold" font-size="26">
+       4
+      </text>
+     </g>
+    </g>
+   </g>
+   <g transform="translate(-16,377)">
+    <g transform="translate(0,0)">
+     <g transform="translate(0,-16.9)">
+      <text font-family="Arial" font-weight="bold" font-size="26">
+       3π
+      </text>
+     </g>
+     <path style="stroke-width: 3; fill: none;" d="M0,-9.1h29.0435028"></path>
+     <g transform="translate(8.393294000000001,14.299999999999999)">
+      <text font-family="Arial" font-weight="bold" font-size="26">
+       2
+      </text>
+     </g>
+    </g>
+   </g>
+   <g transform="translate(358,279)">
+    <g transform="translate(0,0)">
+     <g transform="translate(0,-16.9)">
+      <text font-family="Arial" font-weight="bold" font-size="26">
+       7π
+      </text>
+     </g>
+     <path style="stroke-width: 3; fill: none;" d="M0,-9.1h29.0435028"></path>
+     <g transform="translate(8.393294000000001,14.299999999999999)">
+      <text font-family="Arial" font-weight="bold" font-size="26">
+       4
+      </text>
+     </g>
+    </g>
+   </g>
   </g>
   <g transform="translate(600,400)">
    <path d="M28,-19L91,-61M32,-52A84,56,0,0,1,78,-22M0,-56L0,-116M-49,-79A129,86,0,0,1,49,-79M-91,-61L-154,-103M-160,-44A173,116,0,0,1,-66,-107M-173,0L-262,0M-201,56A218,145,0,0,1,-201,-56M-154,103L-217,145M-100,162A262,175,0,0,1,-242,67M0,175L0,234M117,189A307,204,0,0,1,-117,189M217,145L280,186M324,90A351,234,0,0,1,134,216M351,0L440,0M365,-101A396,264,0,0,1,365,101" style="fill: none; stroke: red; stroke-width: 3;"></path>

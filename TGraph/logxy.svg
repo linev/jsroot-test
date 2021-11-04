@@ -18,22 +18,26 @@
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
      <path d="M75,-12v12m60,-12v12m47,-12v12m38,-12v12m32,-12v12m28,-12v12m24,-12v12m22,-24v24m145,-12v12m84,-12v12m60,-12v12m47,-12v12m38,-12v12m32,-12v12m28,-12v12m24,-12v12m22,-24v24m145,-12v12" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
-      <text fill="black" text-anchor="start" transform="translate(303,46)">
-       <tspan dy="-.1em">
+      <g transform="translate(304,34)">
+       <text font-family="Arial" fill="black" font-size="28">
         10
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy="-.6em">
-        -1
-       </tspan>
-      </text>
-      <text fill="black" text-anchor="start" transform="translate(786,46)">
-       <tspan dy="-.1em">
+       </text>
+       <g transform="translate(29.638828800000002,-12.880000000000003)">
+        <text font-family="Arial" fill="black" font-size="16.8">
+         -1
+        </text>
+       </g>
+      </g>
+      <g transform="translate(787,34)">
+       <text font-family="Arial" fill="black" font-size="28">
         10
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy="-.6em">
-        0
-       </tspan>
-      </text>
+       </text>
+       <g transform="translate(29.638828800000002,-12.880000000000003)">
+        <text font-family="Arial" fill="black" font-size="16.8">
+         0
+        </text>
+       </g>
+      </g>
      </g>
     </g>
     <g>

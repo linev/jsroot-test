@@ -10,9 +10,11 @@
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Times New Roman" font-size="32" space="preserve">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(420,56)">
-    ABCDEFGH abcdefgh 0123456789 @#$
-   </text>
+   <g transform="translate(420,66)">
+    <text font-family="Times New Roman" fill="black" font-size="32">
+     ABCDEFGH abcdefgh 0123456789 @#$
+    </text>
+   </g>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,56)">
@@ -20,9 +22,11 @@
    </text>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Times New Roman" font-size="32" space="preserve" font-style="italic">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(420,96)">
-    ABCDEFGH abcdefgh 0123456789 @#$
-   </text>
+   <g transform="translate(420,106)">
+    <text font-family="Times New Roman" font-style="italic" fill="black" font-size="32">
+     ABCDEFGH abcdefgh 0123456789 @#$
+    </text>
+   </g>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,96)">
@@ -30,9 +34,11 @@
    </text>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Times New Roman" font-size="32" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(420,136)">
-    ABCDEFGH abcdefgh 0123456789 @#$
-   </text>
+   <g transform="translate(420,146)">
+    <text font-family="Times New Roman" font-weight="bold" fill="black" font-size="32">
+     ABCDEFGH abcdefgh 0123456789 @#$
+    </text>
+   </g>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,136)">
@@ -40,9 +46,11 @@
    </text>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Times New Roman" font-size="32" space="preserve" font-weight="bold" font-style="italic">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(420,176)">
-    ABCDEFGH abcdefgh 0123456789 @#$
-   </text>
+   <g transform="translate(420,186)">
+    <text font-family="Times New Roman" font-weight="bold" font-style="italic" fill="black" font-size="32">
+     ABCDEFGH abcdefgh 0123456789 @#$
+    </text>
+   </g>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,176)">
@@ -50,9 +58,11 @@
    </text>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="32" space="preserve">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(420,216)">
-    ABCDEFGH abcdefgh 0123456789 @#$
-   </text>
+   <g transform="translate(420,226)">
+    <text font-family="Arial" fill="black" font-size="32">
+     ABCDEFGH abcdefgh 0123456789 @#$
+    </text>
+   </g>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,216)">
@@ -60,9 +70,11 @@
    </text>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="32" space="preserve" font-style="oblique">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(420,256)">
-    ABCDEFGH abcdefgh 0123456789 @#$
-   </text>
+   <g transform="translate(420,266)">
+    <text font-family="Arial" font-style="oblique" fill="black" font-size="32">
+     ABCDEFGH abcdefgh 0123456789 @#$
+    </text>
+   </g>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,256)">
@@ -70,9 +82,11 @@
    </text>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="32" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(420,296)">
-    ABCDEFGH abcdefgh 0123456789 @#$
-   </text>
+   <g transform="translate(420,306)">
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="32">
+     ABCDEFGH abcdefgh 0123456789 @#$
+    </text>
+   </g>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,296)">
@@ -80,9 +94,11 @@
    </text>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="32" space="preserve" font-weight="bold" font-style="oblique">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(420,336)">
-    ABCDEFGH abcdefgh 0123456789 @#$
-   </text>
+   <g transform="translate(420,346)">
+    <text font-family="Arial" font-weight="bold" font-style="oblique" fill="black" font-size="32">
+     ABCDEFGH abcdefgh 0123456789 @#$
+    </text>
+   </g>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,336)">
@@ -90,9 +106,11 @@
    </text>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Courier New" font-size="32" space="preserve">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(420,376)">
-    ABCDEFGH abcdefgh 0123456789 @#$
-   </text>
+   <g transform="translate(420,386)">
+    <text font-family="Courier New" fill="black" font-size="32">
+     ABCDEFGH abcdefgh 0123456789 @#$
+    </text>
+   </g>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,376)">
@@ -100,9 +118,11 @@
    </text>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Courier New" font-size="32" space="preserve" font-style="oblique">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(420,416)">
-    ABCDEFGH abcdefgh 0123456789 @#$
-   </text>
+   <g transform="translate(420,426)">
+    <text font-family="Courier New" font-style="oblique" fill="black" font-size="32">
+     ABCDEFGH abcdefgh 0123456789 @#$
+    </text>
+   </g>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,416)">
@@ -110,9 +130,11 @@
    </text>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Courier New" font-size="32" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(420,456)">
-    ABCDEFGH abcdefgh 0123456789 @#$
-   </text>
+   <g transform="translate(420,466)">
+    <text font-family="Courier New" font-weight="bold" fill="black" font-size="32">
+     ABCDEFGH abcdefgh 0123456789 @#$
+    </text>
+   </g>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,456)">
@@ -120,9 +142,11 @@
    </text>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Courier New" font-size="32" space="preserve" font-weight="bold" font-style="oblique">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(420,496)">
-    ABCDEFGH abcdefgh 0123456789 @#$
-   </text>
+   <g transform="translate(420,506)">
+    <text font-family="Courier New" font-weight="bold" font-style="oblique" fill="black" font-size="32">
+     ABCDEFGH abcdefgh 0123456789 @#$
+    </text>
+   </g>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,496)">
@@ -130,9 +154,11 @@
    </text>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Verdana" font-size="32" space="preserve">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(420,536)">
-    ABCDEFGH abcdefgh 0123456789 @#$
-   </text>
+   <g transform="translate(420,546)">
+    <text font-family="Verdana" fill="black" font-size="32">
+     ABCDEFGH abcdefgh 0123456789 @#$
+    </text>
+   </g>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,536)">
@@ -140,9 +166,11 @@
    </text>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Verdana" font-size="32" space="preserve" font-style="italic">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(420,576)">
-    ABCDEFGH abcdefgh 0123456789 @#$
-   </text>
+   <g transform="translate(420,586)">
+    <text font-family="Verdana" font-style="italic" fill="black" font-size="32">
+     ABCDEFGH abcdefgh 0123456789 @#$
+    </text>
+   </g>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,576)">
@@ -150,9 +178,11 @@
    </text>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Verdana" font-size="32" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(420,616)">
-    ABCDEFGH abcdefgh 0123456789 @#$
-   </text>
+   <g transform="translate(420,626)">
+    <text font-family="Verdana" font-weight="bold" fill="black" font-size="32">
+     ABCDEFGH abcdefgh 0123456789 @#$
+    </text>
+   </g>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,616)">
@@ -160,9 +190,11 @@
    </text>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Verdana" font-size="32" space="preserve" font-weight="bold" font-style="italic">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(420,656)">
-    ABCDEFGH abcdefgh 0123456789 @#$
-   </text>
+   <g transform="translate(420,666)">
+    <text font-family="Verdana" font-weight="bold" font-style="italic" fill="black" font-size="32">
+     ABCDEFGH abcdefgh 0123456789 @#$
+    </text>
+   </g>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,656)">
@@ -170,9 +202,11 @@
    </text>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Comic" font-size="32" space="preserve">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(420,720)">
-    ABCDEFGH abcdefgh 0123456789 @#$
-   </text>
+   <g transform="translate(420,730)">
+    <text font-family="Comic" fill="black" font-size="32">
+     ABCDEFGH abcdefgh 0123456789 @#$
+    </text>
+   </g>
   </g>
   <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(396,720)">

@@ -142,117 +142,147 @@
     </g>
    </g>
   </g>
-  <g transform="translate(864,52)" font-family="Arial" font-size="9" space="preserve">
+  <g transform="translate(864,52)" font-family="Arial" font-size="13" space="preserve">
    <path d="M0,0H240V124H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <text fill="red" text-anchor="start" transform="translate(12,17)">
-    <tspan dy="-.1em">
-     χ
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
-     2
-    </tspan>
-    <tspan dy=".36em">
-     / ndf
-    </tspan>
-   </text>
    <text fill="red" text-anchor="end" dy=".4em" transform="translate(228,9)">
     0.8146 / 4
    </text>
    <text fill="red" text-anchor="start" dy=".4em" transform="translate(12,27)">
     p0
    </text>
-   <text fill="red" text-anchor="start" transform="translate(169,31)">
-    3.959 ± 0.631
-   </text>
    <text fill="red" text-anchor="start" dy=".4em" transform="translate(12,44)">
     p1
-   </text>
-   <text fill="red" text-anchor="start" transform="translate(172,49)">
-    13.55 ±  1.43
    </text>
    <text fill="red" text-anchor="start" dy=".4em" transform="translate(12,62)">
     p2
    </text>
-   <text fill="red" text-anchor="start" transform="translate(172,67)">
-    18.33 ±  5.69
-   </text>
    <text fill="red" text-anchor="start" dy=".4em" transform="translate(12,80)">
     p3
-   </text>
-   <text fill="red" text-anchor="start" transform="translate(166,84)">
-    -32.01 ± 9.676
    </text>
    <text fill="red" text-anchor="start" dy=".4em" transform="translate(12,97)">
     p4
    </text>
-   <text fill="red" text-anchor="start" transform="translate(174,102)">
-    -26.6 ±  11.6
-   </text>
    <text fill="red" text-anchor="start" dy=".4em" transform="translate(12,115)">
     p5
    </text>
-   <text fill="red" text-anchor="start" transform="translate(172,120)">
-    25.04 ±  8.75
-   </text>
-  </g>
-  <g transform="translate(144,52)" font-family="Arial" font-size="9" space="preserve">
-   <path d="M0,0H240V148H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <text fill="blue" text-anchor="start" transform="translate(12,18)">
-    <tspan dy="-.1em">
+   <g transform="translate(12,14) scale(0.9084249084249084,0.9084249084249084)">
+    <text font-family="Arial" fill="red" font-size="15">
      χ
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
-     2
-    </tspan>
-    <tspan dy=".36em">
+    </text>
+    <g transform="translate(7.947639000000001,-6.9)">
+     <text font-family="Arial" fill="red" font-size="9">
+      2
+     </text>
+    </g>
+    <text font-family="Arial" fill="red" font-size="15" x="13">
      / ndf
-    </tspan>
-   </text>
+    </text>
+   </g>
+   <g transform="translate(140,31) scale(0.9084249084249084,0.9084249084249084)">
+    <text font-family="Arial" fill="red" font-size="15">
+     3.959 ± 0.631
+    </text>
+   </g>
+   <g transform="translate(144,49) scale(0.9084249084249084,0.9084249084249084)">
+    <text font-family="Arial" fill="red" font-size="15">
+     13.55 ±  1.43
+    </text>
+   </g>
+   <g transform="translate(144,67) scale(0.9084249084249084,0.9084249084249084)">
+    <text font-family="Arial" fill="red" font-size="15">
+     18.33 ±  5.69
+    </text>
+   </g>
+   <g transform="translate(135,84) scale(0.9084249084249084,0.9084249084249084)">
+    <text font-family="Arial" fill="red" font-size="15">
+     -32.01 ± 9.676
+    </text>
+   </g>
+   <g transform="translate(147,102) scale(0.9084249084249084,0.9084249084249084)">
+    <text font-family="Arial" fill="red" font-size="15">
+     -26.6 ±  11.6
+    </text>
+   </g>
+   <g transform="translate(143,120) scale(0.9084249084249084,0.9084249084249084)">
+    <text font-family="Arial" fill="red" font-size="15">
+     25.04 ±  8.75
+    </text>
+   </g>
+  </g>
+  <g transform="translate(144,52)" font-family="Arial" font-size="14" space="preserve">
+   <path d="M0,0H240V148H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <text fill="blue" text-anchor="end" dy=".4em" transform="translate(228,9)">
     7.515 / 3
    </text>
    <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,28)">
     p0
    </text>
-   <text fill="blue" text-anchor="start" transform="translate(146,32)">
-    2.022 ± 4.573e+04
-   </text>
    <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,46)">
     p1
-   </text>
-   <text fill="blue" text-anchor="start" transform="translate(146,51)">
-    85.35 ± 4.572e+04
    </text>
    <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,65)">
     p2
    </text>
-   <text fill="blue" text-anchor="start" transform="translate(143,69)">
-    -504.7 ± 4.516e+04
-   </text>
    <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,83)">
     p3
-   </text>
-   <text fill="blue" text-anchor="start" transform="translate(146,88)">
-    862.3 ± 4.566e+04
    </text>
    <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,102)">
     p4
    </text>
-   <text fill="blue" text-anchor="start" transform="translate(146,106)">
-    970.8 ± 3.948e+04
-   </text>
    <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,120)">
     p5
-   </text>
-   <text fill="blue" text-anchor="start" transform="translate(166,125)">
-    -3737 ± 33.42
    </text>
    <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,139)">
     p6
    </text>
-   <text fill="blue" text-anchor="start" transform="translate(146,143)">
-    2497 ± 4.182e+04
-   </text>
+   <g transform="translate(12,15) scale(0.9487179487179488,0.9487179487179488)">
+    <text font-family="Arial" fill="blue" font-size="15">
+     χ
+    </text>
+    <g transform="translate(7.947639000000001,-6.9)">
+     <text font-family="Arial" fill="blue" font-size="9">
+      2
+     </text>
+    </g>
+    <text font-family="Arial" fill="blue" font-size="15" x="13">
+     / ndf
+    </text>
+   </g>
+   <g transform="translate(104,32) scale(0.9487179487179488,0.9487179487179488)">
+    <text font-family="Arial" fill="blue" font-size="15">
+     2.022 ± 4.573e+04
+    </text>
+   </g>
+   <g transform="translate(104,51) scale(0.9487179487179488,0.9487179487179488)">
+    <text font-family="Arial" fill="blue" font-size="15">
+     85.35 ± 4.572e+04
+    </text>
+   </g>
+   <g transform="translate(100,69) scale(0.9487179487179488,0.9487179487179488)">
+    <text font-family="Arial" fill="blue" font-size="15">
+     -504.7 ± 4.516e+04
+    </text>
+   </g>
+   <g transform="translate(104,88) scale(0.9487179487179488,0.9487179487179488)">
+    <text font-family="Arial" fill="blue" font-size="15">
+     862.3 ± 4.566e+04
+    </text>
+   </g>
+   <g transform="translate(104,106) scale(0.9487179487179488,0.9487179487179488)">
+    <text font-family="Arial" fill="blue" font-size="15">
+     970.8 ± 3.948e+04
+    </text>
+   </g>
+   <g transform="translate(134,125) scale(0.9487179487179488,0.9487179487179488)">
+    <text font-family="Arial" fill="blue" font-size="15">
+     -3737 ± 33.42
+    </text>
+   </g>
+   <g transform="translate(105,143) scale(0.9487179487179488,0.9487179487179488)">
+    <text font-family="Arial" fill="blue" font-size="15">
+     2497 ± 4.182e+04
+    </text>
+   </g>
   </g>
  </g>
 </svg>

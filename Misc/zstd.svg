@@ -35,14 +35,16 @@
       <text fill="black" text-anchor="middle" dy=".8em" transform="translate(916,6)">
        1
       </text>
-      <text fill="black" text-anchor="start" transform="translate(965,-3)">
-       <tspan dy="-.1em">
+      <g transform="translate(965,-11)">
+       <text font-family="Arial" fill="black" font-size="28">
         ×10
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy="-.6em">
-        6
-       </tspan>
-      </text>
+       </text>
+       <g transform="translate(45.7363368,-12.880000000000003)">
+        <text font-family="Arial" fill="black" font-size="16.8">
+         6
+        </text>
+       </g>
+      </g>
      </g>
      <g font-family="Arial" font-size="28" space="preserve" transform="translate(960,45)">
       <text fill="black" text-anchor="end" dy=".4em">

@@ -84,17 +84,19 @@
       </text>
      </g>
      <g font-family="Arial" font-size="28" space="preserve" transform="translate(960,45)">
-      <text fill="black" text-anchor="start" transform="translate(-118,5)">
-       <tspan dy="-.1em">
+      <g transform="translate(-115,7)">
+       <text font-family="Arial" fill="black" font-size="28">
         m
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy=".4em">
-        A
-       </tspan>
-       <tspan dy="-.24em">
+       </text>
+       <g transform="translate(23.8954968,6.16)">
+        <text font-family="Arial" fill="black" font-size="16.8">
+         A
+        </text>
+       </g>
+       <text font-family="Arial" fill="black" font-size="28" x="35">
         (GeV)
-       </tspan>
-      </text>
+       </text>
+      </g>
      </g>
     </g>
     <g>
@@ -146,31 +148,37 @@
       </text>
      </g>
      <g font-family="Arial" font-size="28" space="preserve" transform="translate(-51,0)">
-      <text fill="black" text-anchor="start" transform=" rotate(270) translate(-56,14)">
-       tanβ
-      </text>
+      <g transform=" rotate(270) translate(-56,8)">
+       <text font-family="Arial" fill="black" font-size="28">
+        tanβ
+       </text>
+      </g>
      </g>
     </g>
    </g>
    <g>
     <g font-family="Arial" font-size="29" space="preserve" font-weight="bold">
-     <text fill="magenta" text-anchor="start" transform="translate(194,45)">
-      <tspan dy="-.1em">
+     <g transform="translate(194,45)">
+      <text font-family="Arial" font-weight="bold" fill="magenta" font-size="29">
        ← t → bH
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
-       +
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <g transform="translate(134.30175499999999,-13.339999999999998)">
+       <text font-family="Arial" font-weight="bold" fill="magenta" font-size="17.4">
+        +
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="magenta" font-size="29" x="145">
        , H
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
-       +
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <g transform="translate(182.67838455999998,-13.339999999999998)">
+       <text font-family="Arial" font-weight="bold" fill="magenta" font-size="17.4">
+        +
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="magenta" font-size="29" x="193">
        → τν
-      </tspan>
-     </text>
+      </text>
+     </g>
     </g>
     <g font-family="Arial" font-size="29" space="preserve" font-weight="bold">
      <text fill="black" text-anchor="start" transform="translate(633,331)">
@@ -178,17 +186,19 @@
      </text>
     </g>
     <g font-family="Arial" font-size="17" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(594,369)">
-      <tspan dy="-.1em">
-       ∫
-      </tspan>
-      <tspan>
+     <g transform="translate(594,369)">
+      <g transform="translate(0,0)">
+       <path style="stroke: black; stroke-width: 2; fill: none;" d="M0,5.5a3,3,0,0,0,6,0v-28a3,3,0,1,1,6,0"></path>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="17" x="17">
        Ldt = 300 fb
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
-       -1
-      </tspan>
-     </text>
+      </text>
+      <g transform="translate(112.15135280000001,-7.819999999999999)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="10.2">
+        -1
+       </text>
+      </g>
+     </g>
     </g>
     <g font-family="Arial" font-size="17" space="preserve" font-weight="bold">
      <text fill="black" text-anchor="start" transform="translate(620,406)">
@@ -201,42 +211,50 @@
      </text>
     </g>
     <g font-family="Arial" font-size="29" space="preserve" font-weight="bold">
-     <text fill="red" text-anchor="start" transform="translate(295,274)">
-      <tspan dy="-.1em">
+     <g transform="translate(295,274)">
+      <text font-family="Arial" font-weight="bold" fill="red" font-size="29">
        gb → tH
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
-       +
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <g transform="translate(112.4810008,-13.339999999999998)">
+       <text font-family="Arial" font-weight="bold" fill="red" font-size="17.4">
+        +
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="red" font-size="29" x="123">
        , H
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
-       +
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <g transform="translate(160.85763036,-13.339999999999998)">
+       <text font-family="Arial" font-weight="bold" fill="red" font-size="17.4">
+        +
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="red" font-size="29" x="171">
        → τν
-      </tspan>
-     </text>
+      </text>
+     </g>
     </g>
     <g font-family="Arial" font-size="29" space="preserve" font-weight="bold">
-     <text fill="blue" text-anchor="start" transform="translate(245,616)">
-      <tspan dy="-.1em">
+     <g transform="translate(245,616)">
+      <text font-family="Arial" font-weight="bold" fill="blue" font-size="29">
        gb → tH
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
-       +
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <g transform="translate(112.4810008,-13.339999999999998)">
+       <text font-family="Arial" font-weight="bold" fill="blue" font-size="17.4">
+        +
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="blue" font-size="29" x="123">
        , H
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
-       +
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <g transform="translate(160.85763036,-13.339999999999998)">
+       <text font-family="Arial" font-weight="bold" fill="blue" font-size="17.4">
+        +
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="blue" font-size="29" x="171">
        → tb
-      </tspan>
-     </text>
+      </text>
+     </g>
     </g>
    </g>
   </g>

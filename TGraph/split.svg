@@ -92,38 +92,48 @@
     </g>
    </g>
   </g>
-  <g transform="translate(120,80)" font-family="Arial" font-size="22" space="preserve">
+  <g transform="translate(120,80)" font-family="Arial" font-size="20" space="preserve">
    <path d="M0,0H360V160H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <path d="M11,30H79" style="stroke: blue; stroke-width: 2;"></path>
    <path d="M39,30a6,6,0,1,0,12,0a6,6,0,1,0,-12,0z" style="stroke: red; fill: red;"></path>
-   <text fill="black" text-anchor="start" transform="translate(90,46)">
-    <tspan dy="-.7em">
-     Equilibrium charge
-    </tspan>
-    <tspan dy="1em" dx="-8.46em">
-     state distribution
-    </tspan>
-   </text>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(90,80)">
     &lt;q&gt; = 9.031923
    </text>
-   <text fill="black" text-anchor="start" transform="translate(90,141)">
-    σ   = 5.779455
-   </text>
+   <g transform="translate(90,46) scale(0.4629629629629629,0.4629629629629629)">
+    <g transform="translate(0,0)">
+     <g transform="translate(0,-29.25)">
+      <text font-family="Arial" fill="black" font-size="45">
+       Equilibrium charge
+      </text>
+     </g>
+     <g transform="translate(21.008807999999988,24.75)">
+      <text font-family="Arial" fill="black" font-size="45">
+       state distribution
+      </text>
+     </g>
+    </g>
+   </g>
+   <g transform="translate(90,144) scale(0.4629629629629629,0.4629629629629629)">
+    <text font-family="Arial" fill="black" font-size="45">
+     σ   = 5.779455
+    </text>
+   </g>
   </g>
   <g transform="translate(180,4)" font-family="Arial" font-size="24" space="preserve">
    <path d="M0,0H840V59H0Z" style="fill: none;"></path>
-   <text fill="black" text-anchor="start" transform="translate(20,51)">
-    <tspan dy="-.1em">
+   <g transform="translate(20,47) scale(0.4929615634420718,0.4929615634420718)">
+    <text font-family="Arial" fill="black" font-size="49">
      U projectile at 1.4 MeV/u on
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
-     40
-    </tspan>
-    <tspan dy=".36em">
+    </text>
+    <g transform="translate(619.2444384,-22.54)">
+     <text font-family="Arial" fill="black" font-size="29.4">
+      40
+     </text>
+    </g>
+    <text font-family="Arial" fill="black" font-size="49" x="651">
      Ar target with 1 mbar pressure. (equilibrium)
-    </tspan>
-   </text>
+    </text>
+   </g>
   </g>
  </g>
 </svg>
