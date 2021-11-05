@@ -100,14 +100,12 @@
    <g>
     <g font-family="Arial" font-size="29" space="preserve" font-weight="bold">
      <g transform="translate(96,77)">
-      <g>
-       <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(0,-17)">
-        Signal Peak over
-       </text>
-       <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(33,18)">
-        background
-       </text>
-      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(0,-17)">
+       Signal Peak over
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(33,18)">
+       background
+      </text>
      </g>
     </g>
    </g>
