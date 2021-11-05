@@ -75,10 +75,10 @@
   <g transform="translate(185,4)" font-family="Arial" font-size="39" space="preserve">
    <path d="M0,0H829V52H0Z" style="fill: none;"></path>
    <g transform="translate(20,40) scale(0.920)">
-    <text font-family="Arial" fill="black" font-size="43">
+    <text fill="black" font-size="43">
      Stacked 1D histograms: option
     </text>
-    <text font-family="Courier New" fill="black" font-size="43" transform="translate(600)">
+    <text font-family="Courier New" font-size="43" space="preserve" fill="black" transform="translate(600)">
      "nostackb"
     </text>
    </g>

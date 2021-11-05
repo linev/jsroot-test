@@ -10,7 +10,7 @@
   <g transform="translate(180,4)" font-family="Arial" font-size="36" space="preserve">
    <path d="M0,0H840V44H0Z" style="fill: none;"></path>
    <g transform="translate(53,35)">
-    <text font-family="Arial" fill="black" font-size="37">
+    <text fill="black" font-size="37">
      pz:py:px {(pz&lt;10 &amp;&amp; pz&gt;6)+(pz&lt;4 &amp;&amp; pz&gt;3)}
     </text>
    </g>
