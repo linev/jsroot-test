@@ -10,19 +10,19 @@
    <g clip-path="path('M0,0H960V640H0Z')">
     <g>
      <g transform="translate(71,556)">
-      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0L-27,0m0,3v-6M0,0L27,0m0,3v-6M0,0L0,55m3,0h-6M0,0L0,-55m3,0h-6"></path>
+      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0H-27m0,3v-6M0,0H27m0,3v-6M0,0V55m3,0h-6M0,0V-55m3,0h-6"></path>
      </g>
      <g transform="translate(616,211)">
-      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0L-27,0m0,3v-6M0,0L27,0m0,3v-6M0,0L0,36m3,0h-6M0,0L0,-36m3,0h-6"></path>
+      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0H-27m0,3v-6M0,0H27m0,3v-6M0,0V36m3,0h-6M0,0V-36m3,0h-6"></path>
      </g>
      <path d="M67,552v8h8v-8zM612,207v8h8v-8z" style="stroke: red; fill: red;"></path>
     </g>
     <g>
      <g transform="translate(344,356)">
-      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0L-27,0m0,3v-6M0,0L27,0m0,3v-6M0,0L0,55m3,0h-6M0,0L0,-55m3,0h-6"></path>
+      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0H-27m0,3v-6M0,0H27m0,3v-6M0,0V55m3,0h-6M0,0V-55m3,0h-6"></path>
      </g>
      <g transform="translate(889,65)">
-      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0L-27,0m0,3v-6M0,0L27,0m0,3v-6M0,0L0,36m3,0h-6M0,0L0,-36m3,0h-6"></path>
+      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0H-27m0,3v-6M0,0H27m0,3v-6M0,0V36m3,0h-6M0,0V-36m3,0h-6"></path>
      </g>
      <path d="M344,352l-4,8h8zM889,61l-4,8h8z" style="stroke: green; fill: green;"></path>
     </g>
