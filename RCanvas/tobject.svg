@@ -69,7 +69,7 @@
     </g>
     <g transform="translate(36,2)" font-family="Arial" font-size="20" space="preserve">
      <path d="M0,0H528V32H0Z" style="fill: none;"></path>
-     <text fill="#000000" text-anchor="middle" dy=".8em" transform="translate(264,0)">
+     <text fill="#000000" text-anchor="middle" dy=".8em" transform="translate(264)">
       Graph
      </text>
     </g>
@@ -151,7 +151,7 @@
     </g>
     <g transform="translate(36,2)" font-family="Arial" font-size="20" space="preserve">
      <path d="M0,0H528V32H0Z" style="fill: none;"></path>
-     <text fill="#000000" text-anchor="middle" dy=".8em" transform="translate(264,0)">
+     <text fill="#000000" text-anchor="middle" dy=".8em" transform="translate(264)">
       Example of TH1
      </text>
     </g>
@@ -312,7 +312,7 @@
        <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(2,30)">
         900
        </text>
-       <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(2,0)">
+       <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(2)">
         1000
        </text>
       </g>
@@ -320,7 +320,7 @@
     </g>
     <g transform="translate(36,2)" font-family="Arial" font-size="20" space="preserve">
      <path d="M0,0H528V32H0Z" style="fill: none;"></path>
-     <text fill="#000000" text-anchor="middle" dy=".8em" transform="translate(264,0)">
+     <text fill="#000000" text-anchor="middle" dy=".8em" transform="translate(264)">
       Example of TH2
      </text>
     </g>
@@ -376,7 +376,7 @@
     </g>
     <g transform="translate(36,2)" font-family="Arial" font-size="20" space="preserve">
      <path d="M0,0H528V32H0Z" style="fill: none;"></path>
-     <text fill="#000000" text-anchor="middle" dy=".8em" transform="translate(264,0)">
+     <text fill="#000000" text-anchor="middle" dy=".8em" transform="translate(264)">
       Example of TH2
      </text>
     </g>

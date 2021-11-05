@@ -93,7 +93,7 @@
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,8)">
        3
       </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,0)">
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4)">
        4
       </text>
      </g>
@@ -102,7 +102,7 @@
   </g>
   <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
    <path d="M0,0H960V53H0Z" style="fill: none;"></path>
-   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480,0)">
+   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
     py vs px
    </text>
   </g>

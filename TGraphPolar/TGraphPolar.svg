@@ -53,7 +53,7 @@
      <ellipse cx="0" cy="0" rx="230" ry="314" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="230" ry="314" style="fill: none; stroke: black; stroke-width: 1;"></ellipse>
      <line x1="0" y1="0" x2="230" y2="0" style="stroke: black; stroke-width: 1;"></line>
-     <text text-anchor="start" dy=".4em" transform="translate(255,0)">
+     <text text-anchor="start" dy=".4em" transform="translate(255)">
       0
      </text>
      <line x1="0" y1="0" x2="-115" y2="-272" style="stroke: black; stroke-width: 1;"></line>
@@ -171,7 +171,7 @@
      <ellipse cx="0" cy="0" rx="224" ry="306" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="230" ry="314" style="fill: none; stroke: black; stroke-width: 1;"></ellipse>
      <line x1="0" y1="0" x2="230" y2="0" style="stroke: black; stroke-width: 1;"></line>
-     <text text-anchor="start" dy=".4em" transform="translate(255,0)">
+     <text text-anchor="start" dy=".4em" transform="translate(255)">
       0
      </text>
      <line x1="0" y1="0" x2="163" y2="-222" style="stroke: black; stroke-width: 1;"></line>

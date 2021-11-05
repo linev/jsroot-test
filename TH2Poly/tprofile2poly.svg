@@ -82,7 +82,7 @@
         <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,104)">
          10
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,0)">
+        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2)">
          15
         </text>
        </g>
@@ -150,7 +150,7 @@
     </g>
     <g transform="translate(38,4)" font-family="Arial" font-size="26" space="preserve">
      <path d="M0,0H301V52H0Z" style="fill: none;"></path>
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151,0)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151)">
       Total average merge
      </text>
     </g>
@@ -339,7 +339,7 @@
     </g>
     <g transform="translate(38,4)" font-family="Arial" font-size="22" space="preserve">
      <path d="M0,0H301V52H0Z" style="fill: none;"></path>
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151,0)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151)">
       Detector average merge
      </text>
     </g>
@@ -555,7 +555,7 @@
     </g>
     <g transform="translate(38,4)" font-family="Arial" font-size="24" space="preserve">
      <path d="M0,0H301V52H0Z" style="fill: none;"></path>
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151,0)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151)">
       Detector error merge
      </text>
     </g>
