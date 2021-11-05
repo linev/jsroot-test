@@ -10,7 +10,7 @@
      1)   C(x) = d
     </text>
     <g transform="translate(165)">
-     <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-9.940000000000001h6.980000000000001l6.980000000000001,29.100000000000005l6.980000000000001,-64.00000000000001h59.141385199999995v6.980000000000001"></path>
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-10h7l7,29l7,-64h59v7"></path>
      <g transform="translate(28)">
       <g>
        <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(14,-17)">
@@ -27,10 +27,10 @@
     </text>
     <g transform="translate(268)">
      <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,8.5a6,6,0,0,0,12,0v-46a6,6,0,1,1,12,0"></path>
-     <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(0,31)">
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(1,31)">
       0
      </text>
-     <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(0,-48)">
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(13,-48)">
       x
      </text>
     </g>
@@ -63,7 +63,7 @@
      2)   C(x) = d
     </text>
     <g transform="translate(166)">
-     <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-9.940000000000001h6.980000000000001l6.980000000000001,29.100000000000005l6.980000000000001,-64.00000000000001h59.141385199999995v6.980000000000001"></path>
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-10h7l7,29l7,-64h59v7"></path>
      <g transform="translate(28)">
       <g>
        <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(14,-17)">
@@ -80,7 +80,7 @@
     </text>
     <g transform="translate(269)">
      <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,8.5a6,6,0,0,0,12,0v-46a6,6,0,1,1,12,0"></path>
-     <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(0,-48)">
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(13,-48)">
       x
      </text>
     </g>
@@ -131,7 +131,7 @@
      (
     </text>
     <g transform="translate(211)">
-     <path style="stroke: black; stroke-width: 3; fill: none;" d="M12,-44.84h-6v69.80000000000001h6"></path>
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M12,-45h-6v70h6"></path>
      <g transform="translate(12)">
       <g>
        <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(1,-17)">
@@ -146,7 +146,7 @@
        +C(V)
       </text>
      </g>
-     <path style="stroke: black; stroke-width: 3; fill: none;" d="M108.65362719999999,-44.84h6v69.80000000000001h-6"></path>
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M109,-45h6v70h-6"></path>
     </g>
     <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(332,-31)">
      2
@@ -155,7 +155,7 @@
      +
     </text>
     <g transform="translate(360)">
-     <path style="stroke: black; stroke-width: 3; fill: none;" d="M12,-44.84h-6v69.80000000000001h6"></path>
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M12,-45h-6v70h6"></path>
      <g transform="translate(12)">
       <g>
        <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(1,-17)">
@@ -170,7 +170,7 @@
        +S(V)
       </text>
      </g>
-     <path style="stroke: black; stroke-width: 3; fill: none;" d="M106.256319,-44.84h6v69.80000000000001h-6"></path>
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M106,-45h6v70h-6"></path>
     </g>
     <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(478,-31)">
      2
@@ -187,10 +187,10 @@
     </text>
     <g transform="translate(133)">
      <path style="stroke: black; stroke-width: 3; fill: none;" d="M29,-43.5h-29l11.600000000000001,17.4l-11.600000000000001,40.599999999999994h29"></path>
-     <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(0,31)">
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(-4,31)">
       i=-∞
      </text>
-     <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(0,-48)">
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(7,-48)">
       ∞
      </text>
     </g>
@@ -198,7 +198,7 @@
      A(i)cos
     </text>
     <g transform="translate(259)">
-     <path style="stroke: black; stroke-width: 3; fill: none;" d="M12,-44.84h-6v69.80000000000001h6"></path>
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M12,-45h-6v70h6"></path>
      <g transform="translate(12)">
       <g>
        <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(14,-17)">
@@ -210,7 +210,7 @@
        </text>
       </g>
      </g>
-     <path style="stroke: black; stroke-width: 3; fill: none;" d="M47.2071832,-44.84h6v69.80000000000001h-6"></path>
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M47,-45h6v70h-6"></path>
     </g>
    </g>
   </g>
