@@ -5,268 +5,214 @@
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g font-family="Arial" font-size="29" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="start" transform="translate(120,161)">
-    <tspan dy="-.1em">
+   <g transform="translate(120,175)">
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="29">
      1)   C(x) = d
-    </tspan>
-    <tspan>
-     <tspan style="font-size: 238%;" dy=".17em">
-      <tspan>
-       √
-      </tspan>
-      <tspan>
-       ‾‾
-      </tspan>
-      <tspan dy="-.17em" dx="-.87em">
-      </tspan>
-     </tspan>
-     <tspan>
-      <tspan dy="-.6em" dx=".71em">
-       2
-      </tspan>
-      <tspan dy="1em" dx="-1.06em">
-       λ D
-      </tspan>
-      <tspan dx="-1.78em" dy="-.6em">
-       ——
-      </tspan>
-     </tspan>
-    </tspan>
-    <tspan dx=".2em" dy=".2em">
-    </tspan>
-    <tspan>
-     ∫
-    </tspan>
-    <tspan font-size="60%" dx="-.5em" dy="-1.67em">
-     x
-    </tspan>
-    <tspan font-size="60%" dx="-.53em" dy="2.83em">
-     0
-    </tspan>
-    <tspan dx="-.04em" dy="-.7em">
+    </text>
+    <g transform="translate(165)">
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-9.940000000000001h6.980000000000001l6.980000000000001,29.100000000000005l6.980000000000001,-64.00000000000001h59.141385199999995v6.980000000000001"></path>
+     <g transform="translate(28)">
+      <g>
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(14,-17)">
+        2
+       </text>
+       <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-10.149999999999999h42.281385199999995"></path>
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(0,18)">
+        λ D
+       </text>
+      </g>
+     </g>
+    </g>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="29" x="252">
+    </text>
+    <g transform="translate(268)">
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,8.5a6,6,0,0,0,12,0v-46a6,6,0,1,1,12,0"></path>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(0,31)">
+      0
+     </text>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(0,-48)">
+      x
+     </text>
+    </g>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="29" x="297">
      cos(
-    </tspan>
-    <tspan dy="-.6em" dx=".18em">
-     π
-    </tspan>
-    <tspan dy="1em" dx="-.61em">
-     2
-    </tspan>
-    <tspan dx="-.79em" dy="-.6em">
-     —
-    </tspan>
-    <tspan dx=".2em" dy=".2em">
+    </text>
+    <g transform="translate(355)">
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(0,-17)">
+      π
+     </text>
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-10.149999999999999h15.823502"></path>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(1,18)">
+      2
+     </text>
+    </g>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="29" x="374">
      t
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(384,-14)">
      2
-    </tspan>
-    <tspan dy=".36em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="29" x="394">
      )dt
-    </tspan>
-   </text>
+    </text>
+   </g>
   </g>
   <g font-family="Arial" font-size="29" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="start" transform="translate(120,346)">
-    <tspan dy="-.1em">
+   <g transform="translate(120,340)">
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="29">
      2)   C(x) = d
-    </tspan>
-    <tspan>
-     <tspan style="font-size: 238%;" dy=".17em">
-      <tspan>
-       √
-      </tspan>
-      <tspan>
-       ‾‾
-      </tspan>
-      <tspan dy="-.17em" dx="-.87em">
-      </tspan>
-     </tspan>
-     <tspan>
-      <tspan dy="-.6em" dx=".71em">
-       2
-      </tspan>
-      <tspan dy="1em" dx="-1.06em">
-       λ D
-      </tspan>
-      <tspan dx="-1.78em" dy="-.6em">
-       ——
-      </tspan>
-     </tspan>
-    </tspan>
-    <tspan dx=".2em" dy=".2em">
-    </tspan>
-    <tspan>
-     ∫
-    </tspan>
-    <tspan font-size="60%" dx="-.5em" dy="-1.67em">
-     x
-    </tspan>
-    <tspan dx="-.02em" dy="1em">
+    </text>
+    <g transform="translate(166)">
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-9.940000000000001h6.980000000000001l6.980000000000001,29.100000000000005l6.980000000000001,-64.00000000000001h59.141385199999995v6.980000000000001"></path>
+     <g transform="translate(28)">
+      <g>
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(14,-17)">
+        2
+       </text>
+       <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-10.149999999999999h42.281385199999995"></path>
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(0,18)">
+        λ D
+       </text>
+      </g>
+     </g>
+    </g>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="29" x="253">
+    </text>
+    <g transform="translate(269)">
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,8.5a6,6,0,0,0,12,0v-46a6,6,0,1,1,12,0"></path>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(0,-48)">
+      x
+     </text>
+    </g>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="29" x="298">
      cos(
-    </tspan>
-    <tspan dy="-.6em" dx=".18em">
-     π
-    </tspan>
-    <tspan dy="1em" dx="-.61em">
-     2
-    </tspan>
-    <tspan dx="-.79em" dy="-.6em">
-     —
-    </tspan>
-    <tspan dx=".2em" dy=".2em">
+    </text>
+    <g transform="translate(356)">
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(0,-17)">
+      π
+     </text>
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-10.149999999999999h15.823502"></path>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(1,18)">
+      2
+     </text>
+    </g>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="29" x="375">
      t
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(385,-14)">
      2
-    </tspan>
-    <tspan dy=".36em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="29" x="395">
      )dt
-    </tspan>
-   </text>
+    </text>
+   </g>
   </g>
   <g font-family="Arial" font-size="29" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="start" transform="translate(120,495)">
-    <tspan dy="-.1em">
+   <g transform="translate(120,491)">
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="29">
      3)   R = |A|
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(140,-14)">
      2
-    </tspan>
-    <tspan dy=".36em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="29" x="150">
      =
-    </tspan>
-    <tspan dy="-.6em" dx=".23em">
-     1
-    </tspan>
-    <tspan dy="1em" dx="-.55em">
-     2
-    </tspan>
-    <tspan dx="-.79em" dy="-.6em">
-     —
-    </tspan>
-    <tspan dx=".2em" dy=".2em">
+    </text>
+    <g transform="translate(184)">
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(1,-17)">
+      1
+     </text>
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-10.149999999999999h13.671174199999998"></path>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(0,18)">
+      2
+     </text>
+    </g>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="29" x="201">
      (
-    </tspan>
-    <tspan>
-     <tspan>
-      <tspan style="font-size: 183%;">
-       [
-      </tspan>
-      <tspan dx="-.2em">
-      </tspan>
-     </tspan>
-     <tspan>
-      <tspan dy="-.6em" dx=".23em">
-       1
-      </tspan>
-      <tspan dy="1em" dx="-.55em">
-       2
-      </tspan>
-      <tspan dx="-.79em" dy="-.6em">
-       —
-      </tspan>
-      <tspan dx=".2em" dy=".2em">
+    </text>
+    <g transform="translate(211)">
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M12,-44.84h-6v69.80000000000001h6"></path>
+     <g transform="translate(12)">
+      <g>
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(1,-17)">
+        1
+       </text>
+       <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-10.149999999999999h13.671174199999998"></path>
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(0,18)">
+        2
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="29" x="17">
        +C(V)
-      </tspan>
-     </tspan>
-     <tspan>
-      <tspan dx="-.2em">
-      </tspan>
-      <tspan style="font-size: 183%;">
-       ]
-      </tspan>
-     </tspan>
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-1.52em">
+      </text>
+     </g>
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M108.65362719999999,-44.84h6v69.80000000000001h-6"></path>
+    </g>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(332,-31)">
      2
-    </tspan>
-    <tspan dy=".91em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="29" x="342">
      +
-    </tspan>
-    <tspan>
-     <tspan>
-      <tspan style="font-size: 183%;">
-       [
-      </tspan>
-      <tspan dx="-.2em">
-      </tspan>
-     </tspan>
-     <tspan>
-      <tspan dy="-.6em" dx=".23em">
-       1
-      </tspan>
-      <tspan dy="1em" dx="-.55em">
-       2
-      </tspan>
-      <tspan dx="-.79em" dy="-.6em">
-       —
-      </tspan>
-      <tspan dx=".2em" dy=".2em">
+    </text>
+    <g transform="translate(360)">
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M12,-44.84h-6v69.80000000000001h6"></path>
+     <g transform="translate(12)">
+      <g>
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(1,-17)">
+        1
+       </text>
+       <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-10.149999999999999h13.671174199999998"></path>
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(0,18)">
+        2
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="29" x="17">
        +S(V)
-      </tspan>
-     </tspan>
-     <tspan>
-      <tspan dx="-.2em">
-      </tspan>
-      <tspan style="font-size: 183%;">
-       ]
-      </tspan>
-     </tspan>
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-1.52em">
+      </text>
+     </g>
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M106.256319,-44.84h6v69.80000000000001h-6"></path>
+    </g>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(478,-31)">
      2
-    </tspan>
-    <tspan dy=".91em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="29" x="488">
      )
-    </tspan>
-   </text>
+    </text>
+   </g>
   </g>
   <g font-family="Arial" font-size="29" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="start" transform="translate(120,653)">
-    <tspan dy="-.1em">
+   <g transform="translate(120,655)">
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="29">
      4)   F(t) =
-    </tspan>
-    <tspan>
-     ∑
-    </tspan>
-    <tspan font-size="60%" dx="-1.33em" dy="1.17em">
-     i=-∞
-    </tspan>
-    <tspan font-size="60%" dx="-2.1em" dy="-2.67em">
-     ∞
-    </tspan>
-    <tspan dx=".27em" dy=".9em">
+    </text>
+    <g transform="translate(133)">
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M29,-43.5h-29l11.600000000000001,17.4l-11.600000000000001,40.599999999999994h29"></path>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(0,31)">
+      i=-∞
+     </text>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="17" transform="translate(0,-48)">
+      ∞
+     </text>
+    </g>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="29" x="162">
      A(i)cos
-    </tspan>
-    <tspan>
-     <tspan>
-      <tspan style="font-size: 183%;">
-       [
-      </tspan>
-      <tspan dx="-.2em">
-      </tspan>
-     </tspan>
-     <tspan>
-      <tspan dy="-.6em" dx=".86em">
-       i
-      </tspan>
-      <tspan dy="1em" dx="-.74em">
-       t+i
-      </tspan>
-      <tspan dx="-1.61em" dy="-.6em">
-       ——
-      </tspan>
-     </tspan>
-     <tspan dx=".2em" dy=".2em">
-      <tspan dx="-.2em">
-      </tspan>
-      <tspan style="font-size: 183%;">
-       ]
-      </tspan>
-     </tspan>
-    </tspan>
-   </text>
+    </text>
+    <g transform="translate(259)">
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M12,-44.84h-6v69.80000000000001h6"></path>
+     <g transform="translate(12)">
+      <g>
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(14,-17)">
+        i
+       </text>
+       <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-10.149999999999999h32.307183200000004"></path>
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="29" transform="translate(0,18)">
+        t+i
+       </text>
+      </g>
+     </g>
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M47.2071832,-44.84h6v69.80000000000001h-6"></path>
+    </g>
+   </g>
   </g>
  </g>
 </svg>

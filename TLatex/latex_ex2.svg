@@ -5,186 +5,192 @@
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g font-family="Arial" font-size="58" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="start" transform="translate(372,236)">
-    <tspan dy="-.1em">
+   <g transform="translate(377,101)">
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58">
      e
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(32,-28)">
      +
-    </tspan>
-    <tspan dy=".36em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58" x="53">
      e
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(85,-28)">
      -
-    </tspan>
-    <tspan dy=".36em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58" x="97">
      → Z
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(212,-28)">
      0
-    </tspan>
-    <tspan dy=".36em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58" x="232">
      → I
-    </tspan>
-    <tspan text-decoration="overline">
-     I
-    </tspan>
-    <tspan>
+    </text>
+    <g transform="translate(328)">
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="58" text-decoration="overline">
+      I
+     </text>
+    </g>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58" x="347">
      , q
-    </tspan>
-    <tspan text-decoration="overline">
-     q
-    </tspan>
-   </text>
+    </text>
+    <g transform="translate(412)">
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="58" text-decoration="overline">
+      q
+     </text>
+    </g>
+   </g>
   </g>
   <g font-family="Arial" font-size="58" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="start" transform="translate(411,282)">
-    <tspan dy="-.1em">
+   <g transform="translate(416,261)">
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58">
      |
-    </tspan>
-    <tspan>
-     <tspan>
+    </text>
+    <g transform="translate(15)">
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="58" transform="translate(1)">
       a
-     </tspan>
-     <tspan dx="-.5em" dy="-.2em">
-      ˭
-     </tspan>
-    </tspan>
-    <tspan dx=".3em" dy=".2em">
+     </text>
+     <path style="stroke: black; stroke-width: 6; fill: none;" d="M6.96,-55.68H27.84l-11.600000000000001,-11.600000000000001m11.600000000000001,11.600000000000001l-11.600000000000001,11.600000000000001"></path>
+    </g>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58" x="48">
      •
-    </tspan>
-    <tspan>
-     <tspan>
+    </text>
+    <g transform="translate(70)">
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="58">
       b
-     </tspan>
-     <tspan dx="-.5em" dy="-.2em">
-      ˭
-     </tspan>
-    </tspan>
-    <tspan dx=".3em" dy=".2em">
+     </text>
+     <path style="stroke: black; stroke-width: 6; fill: none;" d="M6.96,-55.68H27.84l-11.600000000000001,-11.600000000000001m11.600000000000001,11.600000000000001l-11.600000000000001,11.600000000000001"></path>
+    </g>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58" x="104">
      |=Σ a
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(239,-28)">
      i
-    </tspan>
-    <tspan font-size="60%" dx="-.16em" dy="1em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(239,11)">
      jk
-    </tspan>
-    <tspan dy="-.24em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58" x="268">
      +b
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(337,-28)">
      bj
-    </tspan>
-    <tspan font-size="60%" dx="-.52em" dy="1em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(337,11)">
      i
-    </tspan>
-   </text>
+    </text>
+   </g>
   </g>
   <g font-family="Arial" font-size="58" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="start" transform="translate(215,529)">
-    <tspan dy="-.1em">
+   <g transform="translate(220,461)">
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58">
      i(∂
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy=".4em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(69,11)">
      μ
-    </tspan>
-    <tspan dy="-.24em" text-decoration="overline">
-     ψ
-    </tspan>
-    <tspan>
+    </text>
+    <g transform="translate(90)">
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="58" text-decoration="overline">
+      ψ
+     </text>
+    </g>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58" x="133">
      γ
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(163,-28)">
      μ
-    </tspan>
-    <tspan dy=".36em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58" x="184">
      +m
-    </tspan>
-    <tspan text-decoration="overline">
-     ψ
-    </tspan>
-    <tspan>
+    </text>
+    <g transform="translate(271)">
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="58" text-decoration="overline">
+      ψ
+     </text>
+    </g>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58" x="314">
      =0⇔(☐+m
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(608,-28)">
      2
-    </tspan>
-    <tspan dy=".36em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58" x="628">
      )ψ=0
-    </tspan>
-   </text>
+    </text>
+   </g>
   </g>
   <g font-family="Arial" font-size="58" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="start" transform="translate(138,624)">
-    <tspan dy="-.1em">
+   <g transform="translate(161,621)">
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58">
      L
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy=".4em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(35,11)">
      em
-    </tspan>
-    <tspan dy="-.24em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58" x="85">
      =eJ
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(184,-28)">
      μ
-    </tspan>
-    <tspan font-size="60%" dx="-.36em" dy="1em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(184,11)">
      em
-    </tspan>
-    <tspan dy="-.24em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58" x="234">
      A
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy=".4em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(275,11)">
      μ
-    </tspan>
-    <tspan dy="-.24em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58" x="296">
      , J
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(375,-28)">
      μ
-    </tspan>
-    <tspan font-size="60%" dx="-.36em" dy="1em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(375,11)">
      em
-    </tspan>
-    <tspan dy="-.24em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58" x="425">
      =
-    </tspan>
-    <tspan text-decoration="overline">
-     I
-    </tspan>
-    <tspan>
+    </text>
+    <g transform="translate(460)">
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="58" text-decoration="overline">
+      I
+     </text>
+    </g>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58" x="479">
      γ
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy=".4em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(509,11)">
      μ
-    </tspan>
-    <tspan dy="-.24em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58" x="530">
      I , M
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(649,-28)">
      j
-    </tspan>
-    <tspan font-size="60%" dx="-.17em" dy="1em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(649,11)">
      i
-    </tspan>
-    <tspan dy="-.24em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58" x="659">
      =Σ A
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy=".4em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(788,11)">
      α
-    </tspan>
-    <tspan dy="-.24em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="58" x="809">
      τ
-    </tspan>
-    <tspan font-size="60%" dx=".1em" dy="-.6em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(837,-28)">
      α j
-    </tspan>
-    <tspan font-size="60%" dx="-.69em" dy="1em">
+    </text>
+    <text font-family="Arial" font-weight="bold" fill="black" font-size="35" transform="translate(837,11)">
      i
-    </tspan>
-   </text>
+    </text>
+   </g>
   </g>
  </g>
 </svg>

@@ -64,508 +64,468 @@
    </g>
    <g>
     <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(192,79)">
-      <tspan dy="-.1em">
+     <g transform="translate(192,77)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
        K
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy=".4em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(10,3)">
        S
-      </tspan>
-     </text>
+      </text>
+     </g>
     </g>
     <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(288,84)">
-      <tspan dy="-.1em">
+     <g transform="translate(288,79)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
        K
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(10,-7)">
        *0
-      </tspan>
-     </text>
+      </text>
+     </g>
     </g>
     <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(192,186)">
-      <tspan dy="-.1em">
+     <g transform="translate(192,151)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
        K
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy=".4em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(10,3)">
        S
-      </tspan>
-      <tspan dy="-.24em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="15">
        ... K
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(41,-7)">
        *0
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="50">
        ...
-      </tspan>
-      <tspan dy="-.6em" dx=".46em">
-       2s
-      </tspan>
-      <tspan dy="1em" dx="-1.37em">
-       <tspan>
-        πα
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy="-.6em">
-        2
-       </tspan>
-      </tspan>
-      <tspan dx="-1.83em" dy="-.24em">
-       ——
-      </tspan>
-      <tspan dx=".9em" dy="-.4em">
-       dσ
-      </tspan>
-      <tspan dy="1em" dx="-1.99em">
-       dcosθ
-      </tspan>
-      <tspan dx="-2.89em" dy="-.6em">
-       ———
-      </tspan>
-      <tspan dx=".2em" dy=".2em">
+      </text>
+      <g transform="translate(66)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="14" transform="translate(4,-8)">
+        2s
+       </text>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h21.399926320000002"></path>
+       <g transform="translate(0,10)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+         πα
+        </text>
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(18,-7)">
+         2
+        </text>
+       </g>
+      </g>
+      <g transform="translate(89)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="14" transform="translate(11,-8)">
+        dσ
+       </text>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h37.64480720000001"></path>
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="14" transform="translate(0,9)">
+        dcosθ
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="128">
        (e
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(144,-7)">
        +
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="149">
        e
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(157,-7)">
        -
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="160">
        → f
-      </tspan>
-      <tspan text-decoration="overline">
-       f
-      </tspan>
-      <tspan>
+      </text>
+      <g transform="translate(187)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="14" text-decoration="overline">
+        f
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="192">
        ) =
-      </tspan>
-      <tspan>
-       <tspan>
-        <tspan style="font-size: 183%;">
-         |
-        </tspan>
-        <tspan dx="-.2em">
-        </tspan>
-       </tspan>
-       <tspan>
-        <tspan>
-        </tspan>
-        <tspan dy="-.6em" dx="1.23em">
-         1
-        </tspan>
-        <tspan dy="1em" dx="-1.64em">
-         1 - Δα
-        </tspan>
-        <tspan dx="-2.87em" dy="-.6em">
-         ———
-        </tspan>
-        <tspan dx=".2em" dy=".2em">
-        </tspan>
-       </tspan>
-       <tspan>
-        <tspan dx="-.2em">
-        </tspan>
-        <tspan style="font-size: 183%;">
-         |
-        </tspan>
-       </tspan>
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-1.52em">
+      </text>
+      <g transform="translate(213)">
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M3,-21.44v33.8"></path>
+       <g transform="translate(6)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+        </text>
+        <g transform="translate(4)">
+         <text font-family="Arial" font-weight="bold" fill="black" font-size="14" transform="translate(15,-8)">
+          1
+         </text>
+         <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h36.96055160000001"></path>
+         <text font-family="Arial" font-weight="bold" fill="black" font-size="14" transform="translate(0,9)">
+          1 - Δα
+         </text>
+        </g>
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="42">
+        </text>
+       </g>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M54.8267628,-21.44v33.8"></path>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(271,-15)">
        2
-      </tspan>
-      <tspan dy=".91em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="276">
        (1+cos
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(324,-7)">
        2
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="329">
        θ)
-      </tspan>
-     </text>
+      </text>
+     </g>
     </g>
     <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(192,259)">
-      <tspan dy="-.1em">
+     <g transform="translate(192,260)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
        K
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy=".4em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(10,3)">
        S
-      </tspan>
-     </text>
+      </text>
+     </g>
     </g>
     <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(288,265)">
-      <tspan dy="-.1em">
+     <g transform="translate(288,262)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
        K
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(10,-7)">
        *0
-      </tspan>
-     </text>
+      </text>
+     </g>
     </g>
     <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(192,341)">
-      <tspan dy="-.1em">
+     <g transform="translate(192,325)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
        K
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy=".4em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(10,3)">
        S
-      </tspan>
-      <tspan dy="-.24em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="15">
        ... K
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(41,-7)">
        *0
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="50">
        ...
-      </tspan>
-      <tspan dy="-.6em" dx=".46em">
-       2s
-      </tspan>
-      <tspan dy="1em" dx="-1.37em">
-       <tspan>
-        πα
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy="-.6em">
-        2
-       </tspan>
-      </tspan>
-      <tspan dx="-1.83em" dy="-.24em">
-       ——
-      </tspan>
-      <tspan dx=".9em" dy="-.4em">
-       dσ
-      </tspan>
-      <tspan dy="1em" dx="-1.99em">
-       dcosθ
-      </tspan>
-      <tspan dx="-2.89em" dy="-.6em">
-       ———
-      </tspan>
-      <tspan dx=".2em" dy=".2em">
+      </text>
+      <g transform="translate(66)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="14" transform="translate(4,-8)">
+        2s
+       </text>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h21.399926320000002"></path>
+       <g transform="translate(0,10)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+         πα
+        </text>
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(18,-7)">
+         2
+        </text>
+       </g>
+      </g>
+      <g transform="translate(89)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="14" transform="translate(11,-8)">
+        dσ
+       </text>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h37.64480720000001"></path>
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="14" transform="translate(0,9)">
+        dcosθ
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="128">
        (e
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(144,-7)">
        +
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="149">
        e
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(157,-7)">
        -
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="160">
        → f
-      </tspan>
-      <tspan text-decoration="overline">
-       f
-      </tspan>
-      <tspan>
+      </text>
+      <g transform="translate(187)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="14" text-decoration="overline">
+        f
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="192">
        ) =
-      </tspan>
-      <tspan>
-       <tspan>
-        <tspan style="font-size: 183%;">
-         |
-        </tspan>
-        <tspan dx="-.2em">
-        </tspan>
-       </tspan>
-       <tspan>
-        <tspan>
-        </tspan>
-        <tspan dy="-.6em" dx="1.23em">
-         1
-        </tspan>
-        <tspan dy="1em" dx="-1.64em">
-         1 - Δα
-        </tspan>
-        <tspan dx="-2.87em" dy="-.6em">
-         ———
-        </tspan>
-        <tspan dx=".2em" dy=".2em">
-        </tspan>
-       </tspan>
-       <tspan>
-        <tspan dx="-.2em">
-        </tspan>
-        <tspan style="font-size: 183%;">
-         |
-        </tspan>
-       </tspan>
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-1.52em">
+      </text>
+      <g transform="translate(213)">
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M3,-21.44v33.8"></path>
+       <g transform="translate(6)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+        </text>
+        <g transform="translate(4)">
+         <text font-family="Arial" font-weight="bold" fill="black" font-size="14" transform="translate(15,-8)">
+          1
+         </text>
+         <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h36.96055160000001"></path>
+         <text font-family="Arial" font-weight="bold" fill="black" font-size="14" transform="translate(0,9)">
+          1 - Δα
+         </text>
+        </g>
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="42">
+        </text>
+       </g>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M54.8267628,-21.44v33.8"></path>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(271,-15)">
        2
-      </tspan>
-      <tspan dy=".91em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="276">
        (1+cos
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(324,-7)">
        2
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="329">
        θ)
-      </tspan>
-     </text>
+      </text>
+     </g>
     </g>
     <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(192,384)">
-      <tspan dy="-.1em">
+     <g transform="translate(192,384)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
        K
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy=".4em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(10,3)">
        S
-      </tspan>
-     </text>
+      </text>
+     </g>
     </g>
     <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(288,384)">
-      <tspan dy="-.1em">
+     <g transform="translate(288,384)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
        K
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(10,-7)">
        *0
-      </tspan>
-     </text>
+      </text>
+     </g>
     </g>
     <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(192,448)">
-      <tspan dy="-.1em">
+     <g transform="translate(192,448)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
        K
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy=".4em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(10,3)">
        S
-      </tspan>
-      <tspan dy="-.24em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="15">
        ... K
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(41,-7)">
        *0
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="50">
        ...
-      </tspan>
-      <tspan dy="-.6em" dx=".46em">
-       2s
-      </tspan>
-      <tspan dy="1em" dx="-1.37em">
-       <tspan>
-        πα
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy="-.6em">
-        2
-       </tspan>
-      </tspan>
-      <tspan dx="-1.83em" dy="-.24em">
-       ——
-      </tspan>
-      <tspan dx=".9em" dy="-.4em">
-       dσ
-      </tspan>
-      <tspan dy="1em" dx="-1.99em">
-       dcosθ
-      </tspan>
-      <tspan dx="-2.89em" dy="-.6em">
-       ———
-      </tspan>
-      <tspan dx=".2em" dy=".2em">
+      </text>
+      <g transform="translate(66)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="14" transform="translate(4,-8)">
+        2s
+       </text>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h21.399926320000002"></path>
+       <g transform="translate(0,10)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+         πα
+        </text>
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(18,-7)">
+         2
+        </text>
+       </g>
+      </g>
+      <g transform="translate(89)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="14" transform="translate(11,-8)">
+        dσ
+       </text>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h37.64480720000001"></path>
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="14" transform="translate(0,9)">
+        dcosθ
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="128">
        (e
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(144,-7)">
        +
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="149">
        e
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(157,-7)">
        -
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="160">
        → f
-      </tspan>
-      <tspan text-decoration="overline">
-       f
-      </tspan>
-      <tspan>
+      </text>
+      <g transform="translate(187)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="14" text-decoration="overline">
+        f
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="192">
        ) =
-      </tspan>
-      <tspan>
-       <tspan>
-        <tspan style="font-size: 183%;">
-         |
-        </tspan>
-        <tspan dx="-.2em">
-        </tspan>
-       </tspan>
-       <tspan>
-        <tspan>
-        </tspan>
-        <tspan dy="-.6em" dx="1.23em">
-         1
-        </tspan>
-        <tspan dy="1em" dx="-1.64em">
-         1 - Δα
-        </tspan>
-        <tspan dx="-2.87em" dy="-.6em">
-         ———
-        </tspan>
-        <tspan dx=".2em" dy=".2em">
-        </tspan>
-       </tspan>
-       <tspan>
-        <tspan dx="-.2em">
-        </tspan>
-        <tspan style="font-size: 183%;">
-         |
-        </tspan>
-       </tspan>
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-1.52em">
+      </text>
+      <g transform="translate(213)">
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M3,-21.44v33.8"></path>
+       <g transform="translate(6)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+        </text>
+        <g transform="translate(4)">
+         <text font-family="Arial" font-weight="bold" fill="black" font-size="14" transform="translate(15,-8)">
+          1
+         </text>
+         <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h36.96055160000001"></path>
+         <text font-family="Arial" font-weight="bold" fill="black" font-size="14" transform="translate(0,9)">
+          1 - Δα
+         </text>
+        </g>
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="42">
+        </text>
+       </g>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M54.8267628,-21.44v33.8"></path>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(271,-15)">
        2
-      </tspan>
-      <tspan dy=".91em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="276">
        (1+cos
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(324,-7)">
        2
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="329">
        θ)
-      </tspan>
-     </text>
+      </text>
+     </g>
     </g>
     <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(192,512)">
-      <tspan dy="-.1em">
+     <g transform="translate(192,507)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
        K
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy=".4em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(10,3)">
        S
-      </tspan>
-     </text>
+      </text>
+     </g>
     </g>
     <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(288,512)">
-      <tspan dy="-.1em">
+     <g transform="translate(288,509)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
        K
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(10,-7)">
        *0
-      </tspan>
-     </text>
+      </text>
+     </g>
     </g>
     <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(192,576)">
-      <tspan dy="-.1em">
+     <g transform="translate(192,563)">
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
        K
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy=".4em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(10,3)">
        S
-      </tspan>
-      <tspan dy="-.24em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="15">
        ... K
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(41,-7)">
        *0
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="50">
        ...
-      </tspan>
-      <tspan dy="-.6em" dx=".46em">
-       2s
-      </tspan>
-      <tspan dy="1em" dx="-1.37em">
-       <tspan>
-        πα
-       </tspan>
-       <tspan font-size="60%" dx=".1em" dy="-.6em">
-        2
-       </tspan>
-      </tspan>
-      <tspan dx="-1.83em" dy="-.24em">
-       ——
-      </tspan>
-      <tspan dx=".9em" dy="-.4em">
-       dσ
-      </tspan>
-      <tspan dy="1em" dx="-1.99em">
-       dcosθ
-      </tspan>
-      <tspan dx="-2.89em" dy="-.6em">
-       ———
-      </tspan>
-      <tspan dx=".2em" dy=".2em">
+      </text>
+      <g transform="translate(66)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="14" transform="translate(4,-8)">
+        2s
+       </text>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h21.399926320000002"></path>
+       <g transform="translate(0,10)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+         πα
+        </text>
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(18,-7)">
+         2
+        </text>
+       </g>
+      </g>
+      <g transform="translate(89)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="14" transform="translate(11,-8)">
+        dσ
+       </text>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h37.64480720000001"></path>
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="14" transform="translate(0,9)">
+        dcosθ
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="128">
        (e
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(144,-7)">
        +
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="149">
        e
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(157,-7)">
        -
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="160">
        → f
-      </tspan>
-      <tspan text-decoration="overline">
-       f
-      </tspan>
-      <tspan>
+      </text>
+      <g transform="translate(187)">
+       <text font-family="Arial" font-weight="bold" fill="black" font-size="14" text-decoration="overline">
+        f
+       </text>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="192">
        ) =
-      </tspan>
-      <tspan>
-       <tspan>
-        <tspan style="font-size: 183%;">
-         |
-        </tspan>
-        <tspan dx="-.2em">
-        </tspan>
-       </tspan>
-       <tspan>
-        <tspan>
-        </tspan>
-        <tspan dy="-.6em" dx="1.23em">
-         1
-        </tspan>
-        <tspan dy="1em" dx="-1.64em">
-         1 - Δα
-        </tspan>
-        <tspan dx="-2.87em" dy="-.6em">
-         ———
-        </tspan>
-        <tspan dx=".2em" dy=".2em">
-        </tspan>
-       </tspan>
-       <tspan>
-        <tspan dx="-.2em">
-        </tspan>
-        <tspan style="font-size: 183%;">
-         |
-        </tspan>
-       </tspan>
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-1.52em">
+      </text>
+      <g transform="translate(213)">
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M3,-21.44v33.8"></path>
+       <g transform="translate(6)">
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14">
+        </text>
+        <g transform="translate(4)">
+         <text font-family="Arial" font-weight="bold" fill="black" font-size="14" transform="translate(15,-8)">
+          1
+         </text>
+         <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4.8999999999999995h36.96055160000001"></path>
+         <text font-family="Arial" font-weight="bold" fill="black" font-size="14" transform="translate(0,9)">
+          1 - Δα
+         </text>
+        </g>
+        <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="42">
+        </text>
+       </g>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M54.8267628,-21.44v33.8"></path>
+      </g>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(271,-15)">
        2
-      </tspan>
-      <tspan dy=".91em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="276">
        (1+cos
-      </tspan>
-      <tspan font-size="60%" dx=".1em" dy="-.6em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="8" transform="translate(324,-7)">
        2
-      </tspan>
-      <tspan dy=".36em">
+      </text>
+      <text font-family="Arial" font-weight="bold" fill="black" font-size="14" x="329">
        θ)
-      </tspan>
-     </text>
+      </text>
+     </g>
     </g>
     <g font-family="Arial" font-size="14" space="preserve" font-weight="bold" font-style="oblique">
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(96,128)">

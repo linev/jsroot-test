@@ -1,0 +1,439 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+ <title>
+  ROOT canvas
+ </title>
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
+ <g>
+  <g transform="translate(120,80)" font-family="Arial" font-size="26" space="preserve" font-weight="bold">
+   <path d="M4,4v640h960v-640z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M0,0H960V640H0Z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
+   <text fill="black" text-anchor="start" transform="translate(220,150)">
+    <tspan dy="-.7em" dx=".46em">
+     2s
+    </tspan>
+    <tspan dy="1em" dx="-1.37em">
+     <tspan>
+      πα
+     </tspan>
+     <tspan font-size="60%" dx=".1em" dy="-.6em">
+      2
+     </tspan>
+    </tspan>
+    <tspan dx="-1.83em" dy="-.24em">
+     ——
+    </tspan>
+    <tspan dx=".2em" dy=".2em">
+    </tspan>
+    <tspan dy="-.6em" dx=".9em">
+     dσ
+    </tspan>
+    <tspan dy="1em" dx="-1.99em">
+     dcosθ
+    </tspan>
+    <tspan dx="-2.89em" dy="-.6em">
+     ———
+    </tspan>
+    <tspan dx=".2em" dy=".2em">
+     (e
+    </tspan>
+    <tspan font-size="60%" dx=".1em" dy="-.6em">
+     +
+    </tspan>
+    <tspan dy=".36em">
+     e
+    </tspan>
+    <tspan font-size="60%" dx=".1em" dy="-.6em">
+     -
+    </tspan>
+    <tspan dy=".36em">
+     → f
+    </tspan>
+    <tspan text-decoration="overline">
+     f
+    </tspan>
+    <tspan>
+     ) =
+    </tspan>
+    <tspan>
+     <tspan>
+      <tspan style="font-size: 183%;">
+       |
+      </tspan>
+      <tspan dx="-.2em">
+      </tspan>
+     </tspan>
+     <tspan>
+      <tspan>
+      </tspan>
+      <tspan dy="-.6em" dx="1.23em">
+       1
+      </tspan>
+      <tspan dy="1em" dx="-1.64em">
+       1 - Δα
+      </tspan>
+      <tspan dx="-2.87em" dy="-.6em">
+       ———
+      </tspan>
+      <tspan dx=".2em" dy=".2em">
+      </tspan>
+     </tspan>
+     <tspan>
+      <tspan dx="-.2em">
+      </tspan>
+      <tspan style="font-size: 183%;">
+       |
+      </tspan>
+     </tspan>
+    </tspan>
+    <tspan font-size="60%" dx=".1em" dy="-1.52em">
+     2
+    </tspan>
+    <tspan dy=".91em">
+     (1+cos
+    </tspan>
+    <tspan font-size="60%" dx=".1em" dy="-.6em">
+     2
+    </tspan>
+    <tspan dy=".36em">
+     θ)
+    </tspan>
+   </text>
+   <text fill="black" text-anchor="start" transform="translate(159,289)">
+    <tspan dy="-.1em">
+     + 4 Re
+    </tspan>
+    <tspan>
+     <tspan>
+      <tspan style="font-size: 362%;">
+       {
+      </tspan>
+      <tspan dx="-.2em">
+      </tspan>
+     </tspan>
+     <tspan>
+      <tspan>
+      </tspan>
+      <tspan dy="-.6em" dx="1.21em">
+       2
+      </tspan>
+      <tspan dy="1em" dx="-1.66em">
+       1 - Δα
+      </tspan>
+      <tspan dx="-2.87em" dy="-.6em">
+       ———
+      </tspan>
+      <tspan dx=".2em" dy=".2em">
+       χ(s)
+      </tspan>
+      <tspan>
+       <tspan>
+        <tspan style="font-size: 243%;">
+         [
+        </tspan>
+        <tspan dx="-.2em">
+        </tspan>
+       </tspan>
+       <tspan>
+        <tspan>
+         <tspan>
+          g
+         </tspan>
+         <tspan dx="-.5em" dy="-.2em">
+          ˆ
+         </tspan>
+        </tspan>
+        <tspan font-size="60%" dx=".6em" dy=".73em">
+         ν
+        </tspan>
+        <tspan font-size="60%" dx="-.31em" dy="-1em">
+         e
+        </tspan>
+        <tspan dy=".36em">
+         <tspan>
+          g
+         </tspan>
+         <tspan dx="-.5em" dy="-.2em">
+          ˆ
+         </tspan>
+        </tspan>
+        <tspan font-size="60%" dx=".6em" dy=".73em">
+         ν
+        </tspan>
+        <tspan font-size="60%" dx="-.31em" dy="-1em">
+         f
+        </tspan>
+        <tspan dx=".11em" dy=".36em">
+         (1 + cos
+        </tspan>
+        <tspan font-size="60%" dx=".1em" dy="-.6em">
+         2
+        </tspan>
+        <tspan dy=".36em">
+         θ) + 2
+        </tspan>
+        <tspan>
+         <tspan>
+          g
+         </tspan>
+         <tspan dx="-.5em" dy="-.2em">
+          ˆ
+         </tspan>
+        </tspan>
+        <tspan font-size="60%" dx=".6em" dy=".73em">
+         a
+        </tspan>
+        <tspan font-size="60%" dx="-.34em" dy="-1em">
+         e
+        </tspan>
+        <tspan dx=".01em" dy=".36em">
+         <tspan>
+          g
+         </tspan>
+         <tspan dx="-.5em" dy="-.2em">
+          ˆ
+         </tspan>
+        </tspan>
+        <tspan font-size="60%" dx=".6em" dy=".73em">
+         a
+        </tspan>
+        <tspan font-size="60%" dx="-.34em" dy="-1em">
+         f
+        </tspan>
+        <tspan dx=".13em" dy=".36em">
+         cosθ)
+        </tspan>
+       </tspan>
+       <tspan>
+        <tspan dx="-.2em">
+        </tspan>
+        <tspan style="font-size: 243%;">
+         ]
+        </tspan>
+       </tspan>
+      </tspan>
+      <tspan>
+      </tspan>
+     </tspan>
+     <tspan>
+      <tspan dx="-.2em">
+      </tspan>
+      <tspan style="font-size: 362%;">
+       }
+      </tspan>
+     </tspan>
+    </tspan>
+   </text>
+   <text fill="black" text-anchor="start" transform="translate(69,592)">
+    <tspan dy="-.1em">
+     + 16
+    </tspan>
+    <tspan>
+     <tspan>
+      <tspan>
+       |
+      </tspan>
+     </tspan>
+     <tspan>
+      χ(s)
+     </tspan>
+     <tspan>
+      <tspan>
+       |
+      </tspan>
+     </tspan>
+    </tspan>
+    <tspan font-size="60%" dx=".1em" dy="-.6em">
+     2
+    </tspan>
+    <tspan dy=".36em">
+    </tspan>
+    <tspan>
+     <tspan>
+      <tspan style="font-size: 489%;">
+       [
+      </tspan>
+      <tspan dx="-.2em">
+      </tspan>
+     </tspan>
+     <tspan>
+      <tspan>
+       (
+      </tspan>
+      <tspan>
+       <tspan>
+        g
+       </tspan>
+       <tspan dx="-.5em" dy="-.2em">
+        ˆ
+       </tspan>
+      </tspan>
+      <tspan font-size="60%" dx=".6em" dy=".73em">
+       a
+      </tspan>
+      <tspan font-size="60%" dx="-.34em" dy="-1em">
+       <tspan>
+        e
+       </tspan>
+       <tspan font-size="60%" dx=".1em" dy="-.6em">
+        2
+       </tspan>
+      </tspan>
+      <tspan dy=".58em">
+       +
+      </tspan>
+      <tspan>
+       <tspan>
+        g
+       </tspan>
+       <tspan dx="-.5em" dy="-.2em">
+        ˆ
+       </tspan>
+      </tspan>
+      <tspan font-size="60%" dx=".6em" dy=".73em">
+       v
+      </tspan>
+      <tspan font-size="60%" dx="-.31em" dy="-1em">
+       <tspan>
+        e
+       </tspan>
+       <tspan font-size="60%" dx=".1em" dy="-.6em">
+        2
+       </tspan>
+      </tspan>
+      <tspan dy=".58em">
+       ) (
+      </tspan>
+      <tspan>
+       <tspan>
+        g
+       </tspan>
+       <tspan dx="-.5em" dy="-.2em">
+        ˆ
+       </tspan>
+      </tspan>
+      <tspan font-size="60%" dx=".6em" dy=".73em">
+       a
+      </tspan>
+      <tspan font-size="60%" dx="-.34em" dy="-1em">
+       <tspan>
+        f
+       </tspan>
+       <tspan font-size="60%" dx=".1em" dy="-.6em">
+        2
+       </tspan>
+      </tspan>
+      <tspan dy=".58em">
+       +
+      </tspan>
+      <tspan>
+       <tspan>
+        g
+       </tspan>
+       <tspan dx="-.5em" dy="-.2em">
+        ˆ
+       </tspan>
+      </tspan>
+      <tspan font-size="60%" dx=".6em" dy=".73em">
+       v
+      </tspan>
+      <tspan font-size="60%" dx="-.31em" dy="-1em">
+       <tspan>
+        f
+       </tspan>
+       <tspan font-size="60%" dx=".1em" dy="-.6em">
+        2
+       </tspan>
+      </tspan>
+      <tspan dy=".58em">
+       )(1+cos
+      </tspan>
+      <tspan font-size="60%" dx=".1em" dy="-.6em">
+       2
+      </tspan>
+      <tspan dy=".36em">
+       θ) + 8
+      </tspan>
+      <tspan>
+       <tspan>
+        g
+       </tspan>
+       <tspan dx="-.5em" dy="-.2em">
+        ˆ
+       </tspan>
+      </tspan>
+      <tspan font-size="60%" dx=".6em" dy=".73em">
+       a
+      </tspan>
+      <tspan font-size="60%" dx="-.34em" dy="-1em">
+       e
+      </tspan>
+      <tspan dx=".01em" dy=".36em">
+      </tspan>
+      <tspan>
+       <tspan>
+        g
+       </tspan>
+       <tspan dx="-.5em" dy="-.2em">
+        ˆ
+       </tspan>
+      </tspan>
+      <tspan font-size="60%" dx=".6em" dy=".73em">
+       a
+      </tspan>
+      <tspan font-size="60%" dx="-.34em" dy="-1em">
+       f
+      </tspan>
+      <tspan dx=".13em" dy=".36em">
+      </tspan>
+      <tspan>
+       <tspan>
+        g
+       </tspan>
+       <tspan dx="-.5em" dy="-.2em">
+        ˆ
+       </tspan>
+      </tspan>
+      <tspan font-size="60%" dx=".6em" dy=".73em">
+       v
+      </tspan>
+      <tspan font-size="60%" dx="-.31em" dy="-1em">
+       e
+      </tspan>
+      <tspan dy=".36em">
+      </tspan>
+      <tspan>
+       <tspan>
+        g
+       </tspan>
+       <tspan dx="-.5em" dy="-.2em">
+        ˆ
+       </tspan>
+      </tspan>
+      <tspan font-size="60%" dx=".6em" dy=".73em">
+       v
+      </tspan>
+      <tspan font-size="60%" dx="-.31em" dy="-1em">
+       f
+      </tspan>
+      <tspan dx=".11em" dy=".36em">
+       cosθ
+      </tspan>
+     </tspan>
+     <tspan>
+      <tspan dx="-.2em">
+      </tspan>
+      <tspan style="font-size: 489%;">
+       ]
+      </tspan>
+     </tspan>
+    </tspan>
+   </text>
+   <g font-family="Arial" font-size="21" space="preserve" font-weight="bold">
+    <path d="M240,-13h480v26h-480z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
+    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(480,0)">
+     Born equation
+    </text>
+   </g>
+  </g>
+ </g>
+</svg>
