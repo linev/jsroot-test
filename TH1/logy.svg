@@ -50,35 +50,29 @@
      <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
      <path d="M18,640h-18m18,-23h-18m18,-18h-18m18,-14h-18m18,-13h-18m18,-10h-18m18,-10h-18m36,-8h-36m18,-56h-18m18,-32h-18m18,-23h-18m18,-18h-18m18,-14h-18m18,-13h-18m18,-10h-18m18,-10h-18m36,-8h-36m18,-55h-18m18,-33h-18m18,-23h-18m18,-18h-18m18,-14h-18m18,-12h-18m18,-11h-18m18,-10h-18m36,-8h-36m18,-55h-18m18,-33h-18m18,-23h-18m18,-18h-18m18,-14h-18m18,-12h-18m18,-11h-18m18,-9h-18" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
-      <g transform="translate(-43,554)">
+      <g transform="translate(-43,556)">
        <text font-family="Arial" fill="black" font-size="28">
         10
        </text>
-       <g transform="translate(30,-13)">
-        <text font-family="Arial" fill="black" font-size="16.8">
-         0
-        </text>
-       </g>
+       <text font-family="Arial" fill="black" font-size="17" transform="translate(30,-14)">
+        0
+       </text>
       </g>
-      <g transform="translate(-43,370)">
+      <g transform="translate(-43,372)">
        <text font-family="Arial" fill="black" font-size="28">
         10
        </text>
-       <g transform="translate(30,-13)">
-        <text font-family="Arial" fill="black" font-size="16.8">
-         1
-        </text>
-       </g>
+       <text font-family="Arial" fill="black" font-size="17" transform="translate(30,-14)">
+        1
+       </text>
       </g>
-      <g transform="translate(-43,186)">
+      <g transform="translate(-43,188)">
        <text font-family="Arial" fill="black" font-size="28">
         10
        </text>
-       <g transform="translate(30,-13)">
-        <text font-family="Arial" fill="black" font-size="16.8">
-         2
-        </text>
-       </g>
+       <text font-family="Arial" fill="black" font-size="17" transform="translate(30,-14)">
+        2
+       </text>
       </g>
      </g>
     </g>

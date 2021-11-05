@@ -163,15 +163,13 @@
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,28)">
        40
       </text>
-      <g transform="translate(5,-11)">
+      <g transform="translate(5,-10)">
        <text font-family="Arial" fill="black" font-size="28">
         ×10
        </text>
-       <g transform="translate(46,-13)">
-        <text font-family="Arial" fill="black" font-size="16.8">
-         3
-        </text>
-       </g>
+       <text font-family="Arial" fill="black" font-size="17" transform="translate(46,-14)">
+        3
+       </text>
       </g>
      </g>
     </g>

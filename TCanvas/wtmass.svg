@@ -75,15 +75,13 @@
         </text>
        </g>
        <g font-family="Arial" font-size="25" space="preserve" transform="translate(948,80)">
-        <g transform="translate(-126,6)">
+        <g transform="translate(-126,8)">
          <text font-family="Arial" fill="black" font-size="25">
           M
          </text>
-         <g transform="translate(29,6)">
-          <text font-family="Arial" fill="black" font-size="15">
-           T,W
-          </text>
-         </g>
+         <text font-family="Arial" fill="black" font-size="15" transform="translate(29,5)">
+          T,W
+         </text>
          <text font-family="Arial" fill="black" font-size="25" x="56">
           [GeV]
          </text>
@@ -144,15 +142,13 @@
    </text>
   </g>
   <g font-family="Arial" font-size="22" space="preserve">
-   <g transform="translate(1029,780)">
+   <g transform="translate(1029,781)">
     <text font-family="Arial" fill="black" font-size="22">
      M
     </text>
-    <g transform="translate(25,5)">
-     <text font-family="Arial" fill="black" font-size="13.2">
-      T,W
-     </text>
-    </g>
+    <text font-family="Arial" fill="black" font-size="13" transform="translate(25,4)">
+     T,W
+    </text>
     <text font-family="Arial" fill="black" font-size="22" x="49">
      [GeV]
     </text>

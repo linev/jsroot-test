@@ -101,19 +101,15 @@
    </text>
    <g transform="translate(90,46) scale(0.463)">
     <g>
-     <g transform="translate(0,-29)">
-      <text font-family="Arial" fill="black" font-size="45">
-       Equilibrium charge
-      </text>
-     </g>
-     <g transform="translate(21,25)">
-      <text font-family="Arial" fill="black" font-size="45">
-       state distribution
-      </text>
-     </g>
+     <text font-family="Arial" fill="black" font-size="45" transform="translate(0,-27)">
+      Equilibrium charge
+     </text>
+     <text font-family="Arial" fill="black" font-size="45" transform="translate(21,27)">
+      state distribution
+     </text>
     </g>
    </g>
-   <g transform="translate(90,144) scale(0.463)">
+   <g transform="translate(90,146) scale(0.463)">
     <text font-family="Arial" fill="black" font-size="45">
      σ   = 5.779455
     </text>
@@ -121,15 +117,13 @@
   </g>
   <g transform="translate(180,4)" font-family="Arial" font-size="24" space="preserve">
    <path d="M0,0H840V59H0Z" style="fill: none;"></path>
-   <g transform="translate(20,47) scale(0.493)">
+   <g transform="translate(20,50) scale(0.493)">
     <text font-family="Arial" fill="black" font-size="49">
      U projectile at 1.4 MeV/u on
     </text>
-    <g transform="translate(619,-23)">
-     <text font-family="Arial" fill="black" font-size="29.4">
-      40
-     </text>
-    </g>
+    <text font-family="Arial" fill="black" font-size="29" transform="translate(619,-24)">
+     40
+    </text>
     <text font-family="Arial" fill="black" font-size="49" x="651">
      Ar target with 1 mbar pressure. (equilibrium)
     </text>

@@ -50,15 +50,13 @@
         </text>
        </g>
        <g font-family="Arial" font-size="18" space="preserve" transform="translate(972,29)">
-        <g transform="translate(-82,4)">
+        <g transform="translate(-82,5)">
          <text font-family="Arial" fill="black" font-size="18">
           m
          </text>
-         <g transform="translate(20,4)">
-          <text font-family="Arial" fill="black" font-size="10.799999999999999">
-           γγ
-          </text>
-         </g>
+         <text font-family="Arial" fill="black" font-size="11" transform="translate(20,4)">
+          γγ
+         </text>
          <text font-family="Arial" fill="black" font-size="18" x="31">
           [GeV]
          </text>
@@ -136,21 +134,17 @@
     <g font-family="Arial" font-size="19" space="preserve">
      <g transform="translate(216,114)">
       <g>
-       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-5.700000000000001h2.2800000000000002l2.2800000000000002,7.600000000000001l2.2800000000000002,-19h13.847557199999999v2.2800000000000002"></path>
-       <g transform="translate(9)">
-        <text font-family="Arial" fill="black" font-size="19">
-         s
-        </text>
-       </g>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-6.840000000000001h2.2800000000000007l2.2800000000000007,7.600000000000001l2.2800000000000007,-19.000000000000004h13.8475572v2.2800000000000007"></path>
+       <text font-family="Arial" fill="black" font-size="19" transform="translate(9)">
+        s
+       </text>
       </g>
       <text font-family="Arial" fill="black" font-size="19" x="23">
        = 13 TeV, 10 fb
       </text>
-      <g transform="translate(155,-9)">
-       <text font-family="Arial" fill="black" font-size="11.4">
-        -1
-       </text>
-      </g>
+      <text font-family="Arial" fill="black" font-size="11" transform="translate(155,-9)">
+       -1
+      </text>
      </g>
     </g>
    </g>
@@ -195,15 +189,13 @@
         </text>
        </g>
        <g font-family="Arial" font-size="34" space="preserve" transform="translate(972,54)">
-        <g transform="translate(-145,9)">
+        <g transform="translate(-145,10)">
          <text font-family="Arial" fill="black" font-size="34">
           m
          </text>
-         <g transform="translate(29,7)">
-          <text font-family="Arial" fill="black" font-size="20.4">
-           γγ
-          </text>
-         </g>
+         <text font-family="Arial" fill="black" font-size="20" transform="translate(29,7)">
+          γγ
+         </text>
          <text font-family="Arial" fill="black" font-size="34" x="49">
           [GeV]
          </text>

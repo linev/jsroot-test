@@ -9,41 +9,33 @@
    <g>
     <g transform="translate(240,150)">
      <g font-family="Courier New" font-size="25" space="preserve" font-weight="bold">
-      <g transform="translate(-248,39)">
+      <g transform="translate(-248,40)">
        <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="25">
         TGaxis label:
        </text>
-       <g transform="translate(210)">
-        <text font-family="Courier New" font-weight="bold" fill="red" font-size="25">
-         2012-03-07 21:00:00
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="red" font-size="25" transform="translate(210)">
+        2012-03-07 21:00:00
+       </text>
       </g>
-      <g transform="translate(2512,39)">
+      <g transform="translate(2512,40)">
        <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="25">
         TGaxis label:
        </text>
-       <g transform="translate(210)">
-        <text font-family="Courier New" font-weight="bold" fill="red" font-size="25">
-         2012-03-07 21:00:01
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="red" font-size="25" transform="translate(210)">
+        2012-03-07 21:00:01
+       </text>
       </g>
      </g>
     </g>
     <g font-family="Courier New" font-size="18" space="preserve" font-weight="bold">
      <g transform="translate(6,50)">
       <g>
-       <g transform="translate(0,-12)">
-        <text font-family="Courier New" font-weight="bold" fill="black" font-size="18">
-         2012-03-07  21:00:00 CET, 2012-03-07  20:00:00 GMT
-        </text>
-       </g>
-       <g transform="translate(146,10)">
-        <text font-family="Courier New" font-weight="bold" fill="black" font-size="18">
-         offset: 0, option local
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="black" font-size="18" transform="translate(0,-11)">
+        2012-03-07  21:00:00 CET, 2012-03-07  20:00:00 GMT
+       </text>
+       <text font-family="Courier New" font-weight="bold" fill="black" font-size="18" transform="translate(146,11)">
+        offset: 0, option local
+       </text>
       </g>
      </g>
     </g>
@@ -57,11 +49,9 @@
       <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="23">
        Expecting:
       </text>
-      <g transform="translate(193)">
-       <text font-family="Courier New" font-weight="bold" fill="red" font-size="23">
-        2012-03-07 21:00:00
-       </text>
-      </g>
+      <text font-family="Courier New" font-weight="bold" fill="red" font-size="23" transform="translate(193)">
+       2012-03-07 21:00:00
+      </text>
      </g>
     </g>
    </g>
@@ -71,41 +61,33 @@
    <g>
     <g transform="translate(240,150)">
      <g font-family="Courier New" font-size="25" space="preserve" font-weight="bold">
-      <g transform="translate(-248,39)">
+      <g transform="translate(-248,40)">
        <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="25">
         TGaxis label:
        </text>
-       <g transform="translate(210)">
-        <text font-family="Courier New" font-weight="bold" fill="red" font-size="25">
-         2012-05-07 21:00:00
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="red" font-size="25" transform="translate(210)">
+        2012-05-07 21:00:00
+       </text>
       </g>
-      <g transform="translate(2512,39)">
+      <g transform="translate(2512,40)">
        <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="25">
         TGaxis label:
        </text>
-       <g transform="translate(210)">
-        <text font-family="Courier New" font-weight="bold" fill="red" font-size="25">
-         2012-05-07 21:00:01
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="red" font-size="25" transform="translate(210)">
+        2012-05-07 21:00:01
+       </text>
       </g>
      </g>
     </g>
     <g font-family="Courier New" font-size="18" space="preserve" font-weight="bold">
      <g transform="translate(6,50)">
       <g>
-       <g transform="translate(0,-12)">
-        <text font-family="Courier New" font-weight="bold" fill="black" font-size="18">
-         2012-05-07  21:00:00 CEST, 2012-05-07  19:00:00 GMT
-        </text>
-       </g>
-       <g transform="translate(151,10)">
-        <text font-family="Courier New" font-weight="bold" fill="black" font-size="18">
-         offset: 0, option local
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="black" font-size="18" transform="translate(0,-11)">
+        2012-05-07  21:00:00 CEST, 2012-05-07  19:00:00 GMT
+       </text>
+       <text font-family="Courier New" font-weight="bold" fill="black" font-size="18" transform="translate(151,11)">
+        offset: 0, option local
+       </text>
       </g>
      </g>
     </g>
@@ -119,11 +101,9 @@
       <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="23">
        Expecting:
       </text>
-      <g transform="translate(193)">
-       <text font-family="Courier New" font-weight="bold" fill="red" font-size="23">
-        2012-05-07 21:00:00
-       </text>
-      </g>
+      <text font-family="Courier New" font-weight="bold" fill="red" font-size="23" transform="translate(193)">
+       2012-05-07 21:00:00
+      </text>
      </g>
     </g>
     <g>
@@ -136,41 +116,33 @@
    <g>
     <g transform="translate(240,150)">
      <g font-family="Courier New" font-size="25" space="preserve" font-weight="bold">
-      <g transform="translate(-248,39)">
+      <g transform="translate(-248,40)">
        <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="25">
         TGaxis label:
        </text>
-       <g transform="translate(210)">
-        <text font-family="Courier New" font-weight="bold" fill="red" font-size="25">
-         2012-01-01 01:00:00
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="red" font-size="25" transform="translate(210)">
+        2012-01-01 01:00:00
+       </text>
       </g>
-      <g transform="translate(2512,39)">
+      <g transform="translate(2512,40)">
        <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="25">
         TGaxis label:
        </text>
-       <g transform="translate(210)">
-        <text font-family="Courier New" font-weight="bold" fill="red" font-size="25">
-         2012-01-01 01:00:01
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="red" font-size="25" transform="translate(210)">
+        2012-01-01 01:00:01
+       </text>
       </g>
      </g>
     </g>
     <g font-family="Courier New" font-size="18" space="preserve" font-weight="bold">
      <g transform="translate(6,50)">
       <g>
-       <g transform="translate(189,-12)">
-        <text font-family="Courier New" font-weight="bold" fill="black" font-size="18">
-         0 h 0 m 0 s
-        </text>
-       </g>
-       <g transform="translate(0,10)">
-        <text font-family="Courier New" font-weight="bold" fill="black" font-size="18">
-         offset: 2012-01-01  01:00:00 CET, option local
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="black" font-size="18" transform="translate(189,-11)">
+        0 h 0 m 0 s
+       </text>
+       <text font-family="Courier New" font-weight="bold" fill="black" font-size="18" transform="translate(0,11)">
+        offset: 2012-01-01  01:00:00 CET, option local
+       </text>
       </g>
      </g>
     </g>
@@ -184,11 +156,9 @@
       <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="23">
        Expecting:
       </text>
-      <g transform="translate(193)">
-       <text font-family="Courier New" font-weight="bold" fill="red" font-size="23">
-        2012-01-01 01:00:00
-       </text>
-      </g>
+      <text font-family="Courier New" font-weight="bold" fill="red" font-size="23" transform="translate(193)">
+       2012-01-01 01:00:00
+      </text>
      </g>
     </g>
     <g>
@@ -201,41 +171,33 @@
    <g>
     <g transform="translate(240,150)">
      <g font-family="Courier New" font-size="25" space="preserve" font-weight="bold">
-      <g transform="translate(-248,39)">
+      <g transform="translate(-248,40)">
        <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="25">
         TGaxis label:
        </text>
-       <g transform="translate(210)">
-        <text font-family="Courier New" font-weight="bold" fill="red" font-size="25">
-         2012-07-01 12:00:00
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="red" font-size="25" transform="translate(210)">
+        2012-07-01 12:00:00
+       </text>
       </g>
-      <g transform="translate(2512,39)">
+      <g transform="translate(2512,40)">
        <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="25">
         TGaxis label:
        </text>
-       <g transform="translate(210)">
-        <text font-family="Courier New" font-weight="bold" fill="red" font-size="25">
-         2012-07-01 12:00:01
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="red" font-size="25" transform="translate(210)">
+        2012-07-01 12:00:01
+       </text>
       </g>
      </g>
     </g>
     <g font-family="Courier New" font-size="18" space="preserve" font-weight="bold">
      <g transform="translate(6,50)">
       <g>
-       <g transform="translate(189,-12)">
-        <text font-family="Courier New" font-weight="bold" fill="black" font-size="18">
-         10 h 0 m 0 s
-        </text>
-       </g>
-       <g transform="translate(0,10)">
-        <text font-family="Courier New" font-weight="bold" fill="black" font-size="18">
-         offset: 2012-07-01  02:00:00 CEST, option local
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="black" font-size="18" transform="translate(189,-11)">
+        10 h 0 m 0 s
+       </text>
+       <text font-family="Courier New" font-weight="bold" fill="black" font-size="18" transform="translate(0,11)">
+        offset: 2012-07-01  02:00:00 CEST, option local
+       </text>
       </g>
      </g>
     </g>
@@ -249,11 +211,9 @@
       <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="23">
        Expecting:
       </text>
-      <g transform="translate(193)">
-       <text font-family="Courier New" font-weight="bold" fill="red" font-size="23">
-        2012-07-01 12:00:00
-       </text>
-      </g>
+      <text font-family="Courier New" font-weight="bold" fill="red" font-size="23" transform="translate(193)">
+       2012-07-01 12:00:00
+      </text>
      </g>
     </g>
     <g>
@@ -266,41 +226,33 @@
    <g>
     <g transform="translate(240,150)">
      <g font-family="Courier New" font-size="25" space="preserve" font-weight="bold">
-      <g transform="translate(-248,39)">
+      <g transform="translate(-248,40)">
        <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="25">
         TGaxis label:
        </text>
-       <g transform="translate(210)">
-        <text font-family="Courier New" font-weight="bold" fill="red" font-size="25">
-         2012-03-07 20:00:00
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="red" font-size="25" transform="translate(210)">
+        2012-03-07 20:00:00
+       </text>
       </g>
-      <g transform="translate(2512,39)">
+      <g transform="translate(2512,40)">
        <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="25">
         TGaxis label:
        </text>
-       <g transform="translate(210)">
-        <text font-family="Courier New" font-weight="bold" fill="red" font-size="25">
-         2012-03-07 20:00:01
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="red" font-size="25" transform="translate(210)">
+        2012-03-07 20:00:01
+       </text>
       </g>
      </g>
     </g>
     <g font-family="Courier New" font-size="18" space="preserve" font-weight="bold">
      <g transform="translate(6,50)">
       <g>
-       <g transform="translate(0,-12)">
-        <text font-family="Courier New" font-weight="bold" fill="black" font-size="18">
-         2012-03-07  21:00:00 CET, 2012-03-07  20:00:00 GMT
-        </text>
-       </g>
-       <g transform="translate(157,10)">
-        <text font-family="Courier New" font-weight="bold" fill="black" font-size="18">
-         offset: 0, option gmt
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="black" font-size="18" transform="translate(0,-11)">
+        2012-03-07  21:00:00 CET, 2012-03-07  20:00:00 GMT
+       </text>
+       <text font-family="Courier New" font-weight="bold" fill="black" font-size="18" transform="translate(157,11)">
+        offset: 0, option gmt
+       </text>
       </g>
      </g>
     </g>
@@ -314,11 +266,9 @@
       <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="23">
        Expecting:
       </text>
-      <g transform="translate(193)">
-       <text font-family="Courier New" font-weight="bold" fill="red" font-size="23">
-        2012-03-07 20:00:00
-       </text>
-      </g>
+      <text font-family="Courier New" font-weight="bold" fill="red" font-size="23" transform="translate(193)">
+       2012-03-07 20:00:00
+      </text>
      </g>
     </g>
    </g>
@@ -328,41 +278,33 @@
    <g>
     <g transform="translate(240,150)">
      <g font-family="Courier New" font-size="25" space="preserve" font-weight="bold">
-      <g transform="translate(-248,39)">
+      <g transform="translate(-248,40)">
        <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="25">
         TGaxis label:
        </text>
-       <g transform="translate(210)">
-        <text font-family="Courier New" font-weight="bold" fill="red" font-size="25">
-         2012-05-07 20:00:00
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="red" font-size="25" transform="translate(210)">
+        2012-05-07 20:00:00
+       </text>
       </g>
-      <g transform="translate(2512,39)">
+      <g transform="translate(2512,40)">
        <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="25">
         TGaxis label:
        </text>
-       <g transform="translate(210)">
-        <text font-family="Courier New" font-weight="bold" fill="red" font-size="25">
-         2012-05-07 20:00:01
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="red" font-size="25" transform="translate(210)">
+        2012-05-07 20:00:01
+       </text>
       </g>
      </g>
     </g>
     <g font-family="Courier New" font-size="18" space="preserve" font-weight="bold">
      <g transform="translate(6,50)">
       <g>
-       <g transform="translate(0,-12)">
-        <text font-family="Courier New" font-weight="bold" fill="black" font-size="18">
-         2012-05-07  21:00:00 CEST, 2012-05-07  19:00:00 GMT
-        </text>
-       </g>
-       <g transform="translate(162,10)">
-        <text font-family="Courier New" font-weight="bold" fill="black" font-size="18">
-         offset: 0, option gmt
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="black" font-size="18" transform="translate(0,-11)">
+        2012-05-07  21:00:00 CEST, 2012-05-07  19:00:00 GMT
+       </text>
+       <text font-family="Courier New" font-weight="bold" fill="black" font-size="18" transform="translate(162,11)">
+        offset: 0, option gmt
+       </text>
       </g>
      </g>
     </g>
@@ -376,11 +318,9 @@
       <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="23">
        Expecting:
       </text>
-      <g transform="translate(193)">
-       <text font-family="Courier New" font-weight="bold" fill="red" font-size="23">
-        2012-05-07 19:00:00
-       </text>
-      </g>
+      <text font-family="Courier New" font-weight="bold" fill="red" font-size="23" transform="translate(193)">
+       2012-05-07 19:00:00
+      </text>
      </g>
     </g>
     <g>
@@ -393,41 +333,33 @@
    <g>
     <g transform="translate(240,150)">
      <g font-family="Courier New" font-size="25" space="preserve" font-weight="bold">
-      <g transform="translate(-248,39)">
+      <g transform="translate(-248,40)">
        <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="25">
         TGaxis label:
        </text>
-       <g transform="translate(210)">
-        <text font-family="Courier New" font-weight="bold" fill="red" font-size="25">
-         2012-01-01 00:00:00
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="red" font-size="25" transform="translate(210)">
+        2012-01-01 00:00:00
+       </text>
       </g>
-      <g transform="translate(2512,39)">
+      <g transform="translate(2512,40)">
        <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="25">
         TGaxis label:
        </text>
-       <g transform="translate(210)">
-        <text font-family="Courier New" font-weight="bold" fill="red" font-size="25">
-         2012-01-01 00:00:01
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="red" font-size="25" transform="translate(210)">
+        2012-01-01 00:00:01
+       </text>
       </g>
      </g>
     </g>
     <g font-family="Courier New" font-size="18" space="preserve" font-weight="bold">
      <g transform="translate(6,50)">
       <g>
-       <g transform="translate(178,-12)">
-        <text font-family="Courier New" font-weight="bold" fill="black" font-size="18">
-         0 h 0 m 0 s
-        </text>
-       </g>
-       <g transform="translate(0,10)">
-        <text font-family="Courier New" font-weight="bold" fill="black" font-size="18">
-         offset: 2012-01-01  00:00:00 GMT, option gmt
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="black" font-size="18" transform="translate(178,-11)">
+        0 h 0 m 0 s
+       </text>
+       <text font-family="Courier New" font-weight="bold" fill="black" font-size="18" transform="translate(0,11)">
+        offset: 2012-01-01  00:00:00 GMT, option gmt
+       </text>
       </g>
      </g>
     </g>
@@ -441,11 +373,9 @@
       <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="23">
        Expecting:
       </text>
-      <g transform="translate(193)">
-       <text font-family="Courier New" font-weight="bold" fill="red" font-size="23">
-        2012-01-01 00:00:00
-       </text>
-      </g>
+      <text font-family="Courier New" font-weight="bold" fill="red" font-size="23" transform="translate(193)">
+       2012-01-01 00:00:00
+      </text>
      </g>
     </g>
     <g>
@@ -458,41 +388,33 @@
    <g>
     <g transform="translate(240,150)">
      <g font-family="Courier New" font-size="25" space="preserve" font-weight="bold">
-      <g transform="translate(-248,39)">
+      <g transform="translate(-248,40)">
        <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="25">
         TGaxis label:
        </text>
-       <g transform="translate(210)">
-        <text font-family="Courier New" font-weight="bold" fill="red" font-size="25">
-         2012-07-01 10:00:00
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="red" font-size="25" transform="translate(210)">
+        2012-07-01 10:00:00
+       </text>
       </g>
-      <g transform="translate(2512,39)">
+      <g transform="translate(2512,40)">
        <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="25">
         TGaxis label:
        </text>
-       <g transform="translate(210)">
-        <text font-family="Courier New" font-weight="bold" fill="red" font-size="25">
-         2012-07-01 10:00:01
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="red" font-size="25" transform="translate(210)">
+        2012-07-01 10:00:01
+       </text>
       </g>
      </g>
     </g>
     <g font-family="Courier New" font-size="18" space="preserve" font-weight="bold">
      <g transform="translate(6,50)">
       <g>
-       <g transform="translate(173,-12)">
-        <text font-family="Courier New" font-weight="bold" fill="black" font-size="18">
-         10 h 0 m 0 s
-        </text>
-       </g>
-       <g transform="translate(0,10)">
-        <text font-family="Courier New" font-weight="bold" fill="black" font-size="18">
-         offset: 2012-07-01  00:00:00 GMT, option gmt
-        </text>
-       </g>
+       <text font-family="Courier New" font-weight="bold" fill="black" font-size="18" transform="translate(173,-11)">
+        10 h 0 m 0 s
+       </text>
+       <text font-family="Courier New" font-weight="bold" fill="black" font-size="18" transform="translate(0,11)">
+        offset: 2012-07-01  00:00:00 GMT, option gmt
+       </text>
       </g>
      </g>
     </g>
@@ -506,11 +428,9 @@
       <text font-family="Courier New" font-weight="bold" fill="rgb(0,0,154)" font-size="23">
        Expecting:
       </text>
-      <g transform="translate(193)">
-       <text font-family="Courier New" font-weight="bold" fill="red" font-size="23">
-        2012-07-01 10:00:00
-       </text>
-      </g>
+      <text font-family="Courier New" font-weight="bold" fill="red" font-size="23" transform="translate(193)">
+       2012-07-01 10:00:00
+      </text>
      </g>
     </g>
     <g>

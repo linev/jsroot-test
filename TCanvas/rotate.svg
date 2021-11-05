@@ -146,17 +146,13 @@
      Function abs(
     </text>
     <g transform="translate(208)">
-     <g transform="translate(0,-22)">
-      <text font-family="Arial" fill="black" font-size="34">
-       sin(x)
-      </text>
-     </g>
+     <text font-family="Arial" fill="black" font-size="34" transform="translate(0,-20)">
+      sin(x)
+     </text>
      <path style="stroke: black; stroke-width: 2; fill: none;" d="M0,-11.899999999999999h81.95839399999998"></path>
-     <g transform="translate(34,19)">
-      <text font-family="Arial" fill="black" font-size="34">
-       x
-      </text>
-     </g>
+     <text font-family="Arial" fill="black" font-size="34" transform="translate(34,21)">
+      x
+     </text>
     </g>
     <text font-family="Arial" fill="black" font-size="34" x="293">
      )

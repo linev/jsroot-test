@@ -64,85 +64,69 @@
    <path d="M0,0h600" style="stroke: black; stroke-width: 1;"></path>
    <path d="M0,-11v11m26,-6v6m15,-6v6m11,-6v6m8,-6v6m7,-6v6m5,-6v6m5,-6v6m5,-6v6m4,-11v11m26,-6v6m15,-6v6m10,-6v6m9,-6v6m6,-6v6m6,-6v6m5,-6v6m5,-6v6m3,-11v11m26,-6v6m15,-6v6m11,-6v6m8,-6v6m7,-6v6m6,-6v6m5,-6v6m4,-6v6m4,-11v11m26,-6v6m15,-6v6m11,-6v6m8,-6v6m7,-6v6m6,-6v6m5,-6v6m4,-6v6m4,-11v11m26,-6v6m15,-6v6m10,-6v6m9,-6v6m7,-6v6m5,-6v6m5,-6v6m5,-6v6m4,-11v11m25,-6v6m15,-6v6m11,-6v6m8,-6v6m7,-6v6m6,-6v6m5,-6v6m4,-6v6m4,-11v11m26,-6v6m15,-6v6m11,-6v6m8,-6v6m7,-6v6m6,-6v6m5,-6v6m4,-6v6m4,-11v11" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="32" space="preserve" font-weight="bold">
-    <g transform="translate(-26,38)">
+    <g transform="translate(-26,39)">
      <text font-family="Arial" font-weight="bold" fill="black" font-size="32">
       10
      </text>
-     <g transform="translate(35,-15)">
-      <text font-family="Arial" font-weight="bold" fill="black" font-size="19.2">
-       -3
-      </text>
-     </g>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="19" transform="translate(35,-15)">
+      -3
+     </text>
     </g>
-    <g transform="translate(60,38)">
+    <g transform="translate(60,39)">
      <text font-family="Arial" font-weight="bold" fill="black" font-size="32">
       10
      </text>
-     <g transform="translate(35,-15)">
-      <text font-family="Arial" font-weight="bold" fill="black" font-size="19.2">
-       -2
-      </text>
-     </g>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="19" transform="translate(35,-15)">
+      -2
+     </text>
     </g>
-    <g transform="translate(145,38)">
+    <g transform="translate(145,39)">
      <text font-family="Arial" font-weight="bold" fill="black" font-size="32">
       10
      </text>
-     <g transform="translate(35,-15)">
-      <text font-family="Arial" font-weight="bold" fill="black" font-size="19.2">
-       -1
-      </text>
-     </g>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="19" transform="translate(35,-15)">
+      -1
+     </text>
     </g>
-    <g transform="translate(234,38)">
+    <g transform="translate(234,39)">
      <text font-family="Arial" font-weight="bold" fill="black" font-size="32">
       10
      </text>
-     <g transform="translate(35,-15)">
-      <text font-family="Arial" font-weight="bold" fill="black" font-size="19.2">
-       0
-      </text>
-     </g>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="19" transform="translate(35,-15)">
+      0
+     </text>
     </g>
-    <g transform="translate(320,38)">
+    <g transform="translate(320,39)">
      <text font-family="Arial" font-weight="bold" fill="black" font-size="32">
       10
      </text>
-     <g transform="translate(35,-15)">
-      <text font-family="Arial" font-weight="bold" fill="black" font-size="19.2">
-       1
-      </text>
-     </g>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="19" transform="translate(35,-15)">
+      1
+     </text>
     </g>
-    <g transform="translate(406,38)">
+    <g transform="translate(406,39)">
      <text font-family="Arial" font-weight="bold" fill="black" font-size="32">
       10
      </text>
-     <g transform="translate(35,-15)">
-      <text font-family="Arial" font-weight="bold" fill="black" font-size="19.2">
-       2
-      </text>
-     </g>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="19" transform="translate(35,-15)">
+      2
+     </text>
     </g>
-    <g transform="translate(491,38)">
+    <g transform="translate(491,39)">
      <text font-family="Arial" font-weight="bold" fill="black" font-size="32">
       10
      </text>
-     <g transform="translate(35,-15)">
-      <text font-family="Arial" font-weight="bold" fill="black" font-size="19.2">
-       3
-      </text>
-     </g>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="19" transform="translate(35,-15)">
+      3
+     </text>
     </g>
-    <g transform="translate(577,38)">
+    <g transform="translate(577,39)">
      <text font-family="Arial" font-weight="bold" fill="black" font-size="32">
       10
      </text>
-     <g transform="translate(35,-15)">
-      <text font-family="Arial" font-weight="bold" fill="black" font-size="19.2">
-       4
-      </text>
-     </g>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="19" transform="translate(35,-15)">
+      4
+     </text>
     </g>
    </g>
    <g font-family="Arial" font-size="24" space="preserve" transform="translate(600,58)">
@@ -193,55 +177,45 @@
    <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
    <path d="M33,640h-33m17,-48h-17m17,-28h-17m17,-20h-17m17,-16h-17m17,-13h-17m17,-10h-17m17,-9h-17m17,-9h-17m33,-7h-33m17,-48h-17m17,-28h-17m17,-20h-17m17,-16h-17m17,-13h-17m17,-10h-17m17,-9h-17m17,-9h-17m33,-7h-33m17,-48h-17m17,-28h-17m17,-20h-17m17,-16h-17m17,-13h-17m17,-10h-17m17,-9h-17m17,-9h-17m33,-7h-33m17,-48h-17m17,-28h-17m17,-20h-17m17,-16h-17m17,-13h-17m17,-10h-17m17,-9h-17m17,-9h-17m33,-7h-33" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="32" space="preserve" font-weight="bold">
-    <g transform="translate(-50,651)">
+    <g transform="translate(-50,653)">
      <text font-family="Arial" font-weight="bold" fill="black" font-size="32">
       10
      </text>
-     <g transform="translate(35,-15)">
-      <text font-family="Arial" font-weight="bold" fill="black" font-size="19.2">
-       0
-      </text>
-     </g>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="19" transform="translate(35,-15)">
+      0
+     </text>
     </g>
-    <g transform="translate(-49,491)">
+    <g transform="translate(-49,493)">
      <text font-family="Arial" font-weight="bold" fill="black" font-size="32">
       10
      </text>
-     <g transform="translate(35,-15)">
-      <text font-family="Arial" font-weight="bold" fill="black" font-size="19.2">
-       1
-      </text>
-     </g>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="19" transform="translate(35,-15)">
+      1
+     </text>
     </g>
-    <g transform="translate(-50,331)">
+    <g transform="translate(-50,333)">
      <text font-family="Arial" font-weight="bold" fill="black" font-size="32">
       10
      </text>
-     <g transform="translate(35,-15)">
-      <text font-family="Arial" font-weight="bold" fill="black" font-size="19.2">
-       2
-      </text>
-     </g>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="19" transform="translate(35,-15)">
+      2
+     </text>
     </g>
-    <g transform="translate(-50,171)">
+    <g transform="translate(-50,173)">
      <text font-family="Arial" font-weight="bold" fill="black" font-size="32">
       10
      </text>
-     <g transform="translate(35,-15)">
-      <text font-family="Arial" font-weight="bold" fill="black" font-size="19.2">
-       3
-      </text>
-     </g>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="19" transform="translate(35,-15)">
+      3
+     </text>
     </g>
-    <g transform="translate(-50,11)">
+    <g transform="translate(-50,13)">
      <text font-family="Arial" font-weight="bold" fill="black" font-size="32">
       10
      </text>
-     <g transform="translate(35,-15)">
-      <text font-family="Arial" font-weight="bold" fill="black" font-size="19.2">
-       4
-      </text>
-     </g>
+     <text font-family="Arial" font-weight="bold" fill="black" font-size="19" transform="translate(35,-15)">
+      4
+     </text>
     </g>
    </g>
    <g font-family="Arial" font-size="24" space="preserve" transform="translate(-69,0)">

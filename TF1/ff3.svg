@@ -59,59 +59,49 @@
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
      <path d="M0,-24v24m65,-12v12m37,-12v12m27,-12v12m21,-12v12m17,-12v12m14,-12v12m13,-12v12m11,-12v12m9,-24v24m65,-12v12m38,-12v12m27,-12v12m20,-12v12m17,-12v12m15,-12v12m12,-12v12m11,-12v12m10,-24v24m64,-12v12m38,-12v12m27,-12v12m21,-12v12m17,-12v12m14,-12v12m12,-12v12m11,-12v12m10,-24v24m65,-12v12m38,-12v12m26,-12v12m21,-12v12m17,-12v12m14,-12v12m13,-12v12m11,-12v12m10,-24v24m64,-12v12m38,-12v12" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
-      <g transform="translate(-22,34)">
+      <g transform="translate(-22,36)">
        <text font-family="Arial" fill="black" font-size="28">
         10
        </text>
-       <g transform="translate(30,-13)">
-        <text font-family="Arial" fill="black" font-size="16.8">
-         -3
-        </text>
-       </g>
+       <text font-family="Arial" fill="black" font-size="17" transform="translate(30,-14)">
+        -3
+       </text>
       </g>
-      <g transform="translate(192,34)">
+      <g transform="translate(192,36)">
        <text font-family="Arial" fill="black" font-size="28">
         10
        </text>
-       <g transform="translate(30,-13)">
-        <text font-family="Arial" fill="black" font-size="16.8">
-         -2
-        </text>
-       </g>
+       <text font-family="Arial" fill="black" font-size="17" transform="translate(30,-14)">
+        -2
+       </text>
       </g>
-      <g transform="translate(407,34)">
+      <g transform="translate(407,36)">
        <text font-family="Arial" fill="black" font-size="28">
         10
        </text>
-       <g transform="translate(30,-13)">
-        <text font-family="Arial" fill="black" font-size="16.8">
-         -1
-        </text>
-       </g>
+       <text font-family="Arial" fill="black" font-size="17" transform="translate(30,-14)">
+        -1
+       </text>
       </g>
-      <g transform="translate(623,34)">
+      <g transform="translate(623,36)">
        <text font-family="Arial" fill="black" font-size="28">
         10
        </text>
-       <g transform="translate(30,-13)">
-        <text font-family="Arial" fill="black" font-size="16.8">
-         0
-        </text>
-       </g>
+       <text font-family="Arial" fill="black" font-size="17" transform="translate(30,-14)">
+        0
+       </text>
       </g>
-      <g transform="translate(839,34)">
+      <g transform="translate(839,36)">
        <text font-family="Arial" fill="black" font-size="28">
         10
        </text>
-       <g transform="translate(30,-13)">
-        <text font-family="Arial" fill="black" font-size="16.8">
-         1
-        </text>
-       </g>
+       <text font-family="Arial" fill="black" font-size="17" transform="translate(30,-14)">
+        1
+       </text>
       </g>
      </g>
      <g font-family="Arial" font-size="28" space="preserve" transform="translate(480,54)">
-      <g transform="translate(-119,8)">
+      <g transform="translate(-119,10)">
        <text font-family="Arial" fill="black" font-size="28">
         thickness (μg/cm2)
        </text>
@@ -148,15 +138,13 @@
   </g>
   <g transform="translate(120,4)" font-family="Arial" font-size="33" space="preserve">
    <path d="M0,0H960V53H0Z" style="fill: none;"></path>
-   <g transform="translate(23,44) scale(0.766)">
+   <g transform="translate(23,46) scale(0.766)">
     <text font-family="Arial" fill="black" font-size="44">
      U projectile at 1.4 MeV/u on
     </text>
-    <g transform="translate(556,-20)">
-     <text font-family="Arial" fill="black" font-size="26.4">
-      40
-     </text>
-    </g>
+    <text font-family="Arial" fill="black" font-size="26" transform="translate(556,-21)">
+     40
+    </text>
     <text font-family="Arial" fill="black" font-size="44" x="585">
      Ar target with 1 mbar pressure.
     </text>

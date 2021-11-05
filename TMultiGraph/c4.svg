@@ -43,15 +43,13 @@
       </text>
      </g>
      <g font-family="Arial" font-size="28" space="preserve" transform="translate(960,45)">
-      <g transform="translate(-105,7)">
+      <g transform="translate(-105,9)">
        <text font-family="Arial" fill="black" font-size="28">
         E
        </text>
-       <g transform="translate(17,6)">
-        <text font-family="Arial" fill="black" font-size="16.8">
-         γ
-        </text>
-       </g>
+       <text font-family="Arial" fill="black" font-size="17" transform="translate(17,5)">
+        γ
+       </text>
        <text font-family="Arial" fill="black" font-size="28" x="25">
         (GeV)
        </text>

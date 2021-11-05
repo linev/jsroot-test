@@ -44,23 +44,19 @@
       </text>
      </g>
      <g font-family="Arial" font-size="28" space="preserve" transform="translate(960,45)">
-      <g transform="translate(-129,7)">
+      <g transform="translate(-129,9)">
        <text font-family="Arial" fill="black" font-size="28">
         p
        </text>
-       <g transform="translate(16,6)">
-        <text font-family="Arial" fill="black" font-size="16.8">
-         T
-        </text>
-       </g>
+       <text font-family="Arial" fill="black" font-size="17" transform="translate(16,5)">
+        T
+       </text>
        <text font-family="Arial" fill="black" font-size="28" x="26">
         (GeV/
        </text>
-       <g transform="translate(105)">
-        <text font-family="Arial" fill="black" font-size="28" font-style="italic">
-         c
-        </text>
-       </g>
+       <text font-family="Arial" fill="black" font-size="28" font-style="italic" transform="translate(105)">
+        c
+       </text>
        <text font-family="Arial" fill="black" font-size="28" x="119">
         )
        </text>
@@ -90,47 +86,37 @@
      <g font-family="Arial" font-size="28" space="preserve" transform="translate(-67,0)">
       <g transform=" rotate(270) translate(-269,9)">
        <g>
-        <g transform="translate(11,-18)">
-         <text font-family="Arial" fill="black" font-size="28">
-          1
-         </text>
-        </g>
+        <text font-family="Arial" fill="black" font-size="28" transform="translate(11,-17)">
+         1
+        </text>
         <path style="stroke: black; stroke-width: 2; fill: none;" d="M0,-9.799999999999999h34.39116784"></path>
-        <g transform="translate(0,15)">
+        <g transform="translate(0,17)">
          <text font-family="Arial" fill="black" font-size="28">
           N
          </text>
-         <g transform="translate(20,6)">
-          <text font-family="Arial" fill="black" font-size="16.8">
-           ev
-          </text>
-         </g>
+         <text font-family="Arial" fill="black" font-size="17" transform="translate(20,5)">
+          ev
+         </text>
         </g>
        </g>
        <text font-family="Arial" fill="black" font-size="28" x="37">
         d
        </text>
-       <g transform="translate(53,-13)">
-        <text font-family="Arial" fill="black" font-size="16.8">
-         2
-        </text>
-       </g>
+       <text font-family="Arial" fill="black" font-size="17" transform="translate(53,-14)">
+        2
+       </text>
        <text font-family="Arial" fill="black" font-size="28" x="62">
         N/dp
        </text>
-       <g transform="translate(122,6)">
-        <text font-family="Arial" fill="black" font-size="16.8">
-         t
-        </text>
-       </g>
+       <text font-family="Arial" fill="black" font-size="17" transform="translate(122,5)">
+        t
+       </text>
        <text font-family="Arial" fill="black" font-size="28" x="127">
         dy (Gev/c)
        </text>
-       <g transform="translate(255,-13)">
-        <text font-family="Arial" fill="black" font-size="16.8">
-         -1
-        </text>
-       </g>
+       <text font-family="Arial" fill="black" font-size="17" transform="translate(255,-14)">
+        -1
+       </text>
       </g>
      </g>
     </g>
