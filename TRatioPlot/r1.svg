@@ -21,7 +21,7 @@
      <g>
       <g transform="translate(0,474)">
        <path d="M0,0h955" style="stroke: black; stroke-width: 1;"></path>
-       <path d="M0,-17v17m48,-9v9m48,-9v9m47,-9v9m48,-17v17m48,-9v9m48,-9v9m47,-9v9m48,-17v17m48,-9v9m48,-9v9m47,-9v9m48,-17v17m48,-9v9m48,-9v9m47,-9v9m48,-17v17m48,-9v9m48,-9v9m47,-9v9m48,-17v17" style="stroke: black; stroke-width: 1;"></path>
+       <path d="M0,-17v17m19,-9v9m19,-9v9m19,-9v9m19,-9v9m20,-17v17m19,-9v9m19,-9v9m19,-9v9m19,-9v9m19,-17v17m19,-9v9m19,-9v9m19,-9v9m19,-9v9m20,-17v17m19,-9v9m19,-9v9m19,-9v9m19,-9v9m19,-17v17m19,-9v9m19,-9v9m19,-9v9m19,-9v9m20,-17v17m19,-9v9m19,-9v9m19,-9v9m19,-9v9m19,-17v17m19,-9v9m19,-9v9m19,-9v9m19,-9v9m20,-17v17m19,-9v9m19,-9v9m19,-9v9m19,-9v9m19,-17v17m19,-9v9m19,-9v9m19,-9v9m19,-9v9m20,-17v17m19,-9v9m19,-9v9m19,-9v9m19,-9v9m19,-17v17" style="stroke: black; stroke-width: 1;"></path>
       </g>
       <g>
        <path d="M0,0v474" style="stroke: black; stroke-width: 1;"></path>
@@ -233,22 +233,37 @@
      <g>
       <g transform="translate(0,155)">
        <path d="M0,0h955" style="stroke: black; stroke-width: 1;"></path>
-       <path d="M0,-7v7m48,-4v4m48,-4v4m47,-4v4m48,-7v7m48,-4v4m48,-4v4m47,-4v4m48,-7v7m48,-4v4m48,-4v4m47,-4v4m48,-7v7m48,-4v4m48,-4v4m47,-4v4m48,-7v7m48,-4v4m48,-4v4m47,-4v4m48,-7v7" style="stroke: black; stroke-width: 1;"></path>
+       <path d="M0,-7v7m19,-4v4m19,-4v4m19,-4v4m19,-4v4m20,-7v7m19,-4v4m19,-4v4m19,-4v4m19,-4v4m19,-7v7m19,-4v4m19,-4v4m19,-4v4m19,-4v4m20,-7v7m19,-4v4m19,-4v4m19,-4v4m19,-4v4m19,-7v7m19,-4v4m19,-4v4m19,-4v4m19,-4v4m20,-7v7m19,-4v4m19,-4v4m19,-4v4m19,-4v4m19,-7v7m19,-4v4m19,-4v4m19,-4v4m19,-4v4m20,-7v7m19,-4v4m19,-4v4m19,-4v4m19,-4v4m19,-7v7m19,-4v4m19,-4v4m19,-4v4m19,-4v4m20,-7v7m19,-4v4m19,-4v4m19,-4v4m19,-4v4m19,-7v7" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="20" space="preserve">
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,3)">
          0
         </text>
+        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(96,3)">
+         1
+        </text>
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(191,3)">
          2
+        </text>
+        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(287,3)">
+         3
         </text>
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(382,3)">
          4
         </text>
+        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(478,3)">
+         5
+        </text>
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(573,3)">
          6
         </text>
+        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(669,3)">
+         7
+        </text>
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(764,3)">
          8
+        </text>
+        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(860,3)">
+         9
         </text>
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(955,3)">
          10

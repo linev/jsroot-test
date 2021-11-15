@@ -110,22 +110,37 @@
     </g>
     <g>
      <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M18,616h-18m18,-26h-18m18,-26h-18m18,-25h-18m36,-26h-36m18,-26h-18m18,-25h-18m18,-26h-18m18,-26h-18m36,-25h-36m18,-26h-18m18,-26h-18m18,-25h-18m18,-26h-18m36,-25h-36m18,-26h-18m18,-26h-18m18,-25h-18m18,-26h-18m36,-26h-36m18,-25h-18m18,-26h-18m18,-26h-18m18,-25h-18m36,-26h-36" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M18,628h-18m18,-12h-18m18,-13h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-12h-18m18,-13h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-13h-18m18,-12h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-13h-18m18,-13h-18m36,-12h-36m18,-13h-18m18,-13h-18m18,-13h-18m18,-13h-18m36,-12h-36m18,-13h-18m18,-13h-18m18,-13h-18m18,-13h-18m36,-13h-36m18,-12h-18m18,-13h-18m18,-13h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-12h-18m18,-13h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,577)">
+       0.05
+      </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,513)">
-       0.1
+       0.10
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,449)">
+       0.15
       </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,385)">
-       0.2
+       0.20
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,321)">
+       0.25
       </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,257)">
-       0.3
+       0.30
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,192)">
+       0.35
       </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,128)">
-       0.4
+       0.40
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,64)">
+       0.45
       </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4)">
-       0.5
+       0.50
       </text>
      </g>
      <g font-family="Arial" font-size="28" space="preserve" transform="translate(-81,320)">

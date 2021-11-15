@@ -12,7 +12,7 @@
      <rect x="0" y="0" width="528" height="228" style="fill: none; stroke: black; stroke-width: 1;"></rect>
      <g>
       <path d="M0,0v228M106,0v228M211,0v228M317,0v228M422,0v228M528,0v228" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-      <path d="M0,228h528M0,204h528M0,180h528M0,156h528M0,133h528M0,109h528M0,85h528M0,61h528M0,37h528M0,13h528" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+      <path d="M0,228h528M0,168h528M0,109h528M0,49h528" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
      </g>
      <g clip-path="path('M0,0H528V228H0Z')">
       <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
@@ -44,37 +44,19 @@
        </g>
       </g>
       <g transform="translate(0,228)">
-       <path d="M12,0h-12m6,-6h-6m6,-6h-6m6,-6h-6m12,-6h-12m6,-6h-6m6,-6h-6m6,-6h-6m12,-6h-12m6,-6h-6m6,-6h-6m6,-6h-6m12,-6h-12m6,-6h-6m6,-6h-6m6,-5h-6m12,-6h-12m6,-6h-6m6,-6h-6m6,-6h-6m12,-6h-12m6,-6h-6m6,-6h-6m6,-6h-6m12,-6h-12m6,-6h-6m6,-6h-6m6,-6h-6m12,-6h-12m6,-6h-6m6,-6h-6m6,-6h-6m12,-6h-12m6,-6h-6m6,-6h-6m6,-6h-6m12,-6h-12m6,-6h-6m6,-6h-6" style="stroke: black;"></path>
+       <path d="M12,0h-12m6,-12h-6m6,-12h-6m6,-12h-6m6,-12h-6m12,-12h-12m6,-12h-6m6,-12h-6m6,-11h-6m6,-12h-6m12,-12h-12m6,-12h-6m6,-12h-6m6,-12h-6m6,-12h-6m12,-12h-12m6,-12h-6m6,-12h-6m6,-12h-6m6,-12h-6" style="stroke: black;"></path>
        <g font-family="Arial" font-size="20" space="preserve">
         <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3)">
          0
         </text>
-        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-24)">
-         20
-        </text>
-        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-48)">
-         40
-        </text>
-        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-72)">
-         60
-        </text>
-        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-95)">
-         80
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-60)">
+         50
         </text>
         <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-119)">
          100
         </text>
-        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-143)">
-         120
-        </text>
-        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-167)">
-         140
-        </text>
-        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-191)">
-         160
-        </text>
-        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-215)">
-         180
+        <text fill="green" text-anchor="end" dy=".4em" transform="translate(-3,-179)">
+         150
         </text>
        </g>
       </g>
@@ -82,7 +64,7 @@
        <path d="M0,0v6m26,-6v3m27,-3v3m26,-3v3m27,-3v6m26,-6v3m26,-3v3m27,-3v3m26,-3v6m27,-6v3m26,-3v3m26,-3v3m27,-3v6m26,-6v3m27,-3v3m26,-3v3m26,-3v6m27,-6v3m26,-3v3m27,-3v3m26,-3v6" style="stroke: black;"></path>
       </g>
       <g transform="translate(528,228)">
-       <path d="M0,0h-12m12,-6h-6m6,-6h-6m6,-6h-6m6,-6h-12m12,-6h-6m6,-6h-6m6,-6h-6m6,-6h-12m12,-6h-6m6,-6h-6m6,-6h-6m6,-6h-12m12,-6h-6m6,-6h-6m6,-5h-6m6,-6h-12m12,-6h-6m6,-6h-6m6,-6h-6m6,-6h-12m12,-6h-6m6,-6h-6m6,-6h-6m6,-6h-12m12,-6h-6m6,-6h-6m6,-6h-6m6,-6h-12m12,-6h-6m6,-6h-6m6,-6h-6m6,-6h-12m12,-6h-6m6,-6h-6m6,-6h-6m6,-6h-12m12,-6h-6m6,-6h-6" style="stroke: black;"></path>
+       <path d="M0,0h-12m12,-12h-6m6,-12h-6m6,-12h-6m6,-12h-6m6,-12h-12m12,-12h-6m6,-12h-6m6,-11h-6m6,-12h-6m6,-12h-12m12,-12h-6m6,-12h-6m6,-12h-6m6,-12h-6m6,-12h-12m12,-12h-6m6,-12h-6m6,-12h-6m6,-12h-6" style="stroke: black;"></path>
       </g>
      </g>
     </g>
@@ -261,7 +243,7 @@
        <rect x="0" y="0" width="264" height="114" style="fill: none; stroke: black; stroke-width: 1;"></rect>
        <g>
         <path d="M0,0v114M53,0v114M106,0v114M158,0v114M211,0v114M264,0v114" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-        <path d="M0,114h264M0,102h264M0,90h264M0,78h264M0,66h264M0,54h264M0,42h264M0,30h264M0,19h264M0,7h264" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+        <path d="M0,114h264M0,84h264M0,54h264M0,25h264" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
        </g>
        <g clip-path="path('M0,0H264V114H0Z')">
         <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
@@ -293,37 +275,19 @@
          </g>
         </g>
         <g transform="translate(0,114)">
-         <path d="M6,0h-6m6,-12h-6m6,-12h-6m6,-12h-6m6,-12h-6m6,-12h-6m6,-12h-6m6,-12h-6m6,-11h-6m6,-12h-6" style="stroke: black;"></path>
-         <g font-family="Arial" font-size="9" space="preserve">
+         <path d="M6,0h-6m3,-6h-3m3,-6h-3m3,-6h-3m3,-6h-3m6,-6h-6m3,-6h-3m3,-6h-3m3,-6h-3m3,-6h-3m6,-6h-6m3,-6h-3m3,-6h-3m3,-6h-3m3,-6h-3m6,-5h-6m3,-6h-3m3,-6h-3m3,-6h-3m3,-6h-3" style="stroke: black;"></path>
+         <g font-family="Arial" font-size="20" space="preserve">
           <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2)">
            0
           </text>
-          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-12)">
-           20
-          </text>
-          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-24)">
-           40
-          </text>
-          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-36)">
-           60
-          </text>
-          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-48)">
-           80
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-30)">
+           50
           </text>
           <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-60)">
            100
           </text>
-          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-72)">
-           120
-          </text>
-          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-84)">
-           140
-          </text>
-          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-95)">
-           160
-          </text>
-          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-107)">
-           180
+          <text fill="green" text-anchor="end" dy=".4em" transform="translate(-2,-89)">
+           150
           </text>
          </g>
         </g>
@@ -331,7 +295,7 @@
          <path d="M0,0v3m13,-3v2m13,-2v2m14,-2v2m13,-2v3m13,-3v2m13,-2v2m13,-2v2m14,-2v3m13,-3v2m13,-2v2m13,-2v2m13,-2v3m14,-3v2m13,-2v2m13,-2v2m13,-2v3m13,-3v2m14,-2v2m13,-2v2m13,-2v3" style="stroke: black;"></path>
         </g>
         <g transform="translate(264,114)">
-         <path d="M0,0h-6m6,-12h-6m6,-12h-6m6,-12h-6m6,-12h-6m6,-12h-6m6,-12h-6m6,-12h-6m6,-11h-6m6,-12h-6" style="stroke: black;"></path>
+         <path d="M0,0h-6m6,-6h-3m3,-6h-3m3,-6h-3m3,-6h-3m3,-6h-6m6,-6h-3m3,-6h-3m3,-6h-3m3,-6h-3m3,-6h-6m6,-6h-3m3,-6h-3m3,-6h-3m3,-6h-3m3,-5h-6m6,-6h-3m3,-6h-3m3,-6h-3m3,-6h-3" style="stroke: black;"></path>
         </g>
        </g>
       </g>

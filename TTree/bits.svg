@@ -122,22 +122,37 @@
     </g>
     <g>
      <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M36,640h-36m18,-30h-18m18,-31h-18m18,-30h-18m36,-31h-36m18,-30h-18m18,-31h-18m18,-30h-18m36,-31h-36m18,-30h-18m18,-31h-18m18,-30h-18m36,-30h-36m18,-31h-18m18,-30h-18m18,-31h-18m36,-30h-36m18,-31h-18m18,-30h-18m18,-31h-18m36,-30h-36m18,-30h-18" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M36,640h-36m18,-12h-18m18,-12h-18m18,-13h-18m18,-12h-18m36,-12h-36m18,-12h-18m18,-12h-18m18,-12h-18m18,-13h-18m36,-12h-36m18,-12h-18m18,-12h-18m18,-12h-18m18,-13h-18m36,-12h-36m18,-12h-18m18,-12h-18m18,-12h-18m18,-12h-18m36,-13h-36m18,-12h-18m18,-12h-18m18,-12h-18m18,-12h-18m36,-13h-36m18,-12h-18m18,-12h-18m18,-12h-18m18,-12h-18m36,-12h-36m18,-13h-18m18,-12h-18m18,-12h-18m18,-12h-18m36,-12h-36m18,-13h-18m18,-12h-18m18,-12h-18m18,-12h-18m36,-12h-36m18,-12h-18m18,-13h-18m18,-12h-18m18,-12h-18m36,-12h-36m18,-12h-18m18,-13h-18m18,-12h-18m18,-12h-18m36,-12h-36m18,-12h-18m18,-12h-18" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,640)">
        0
       </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,579)">
+       0.1
+      </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,518)">
        0.2
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,457)">
+       0.3
       </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,396)">
        0.4
       </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,335)">
+       0.5
+      </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,275)">
        0.6
       </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,214)">
+       0.7
+      </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,153)">
        0.8
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,92)">
+       0.9
       </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,31)">
        1

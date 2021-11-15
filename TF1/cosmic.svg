@@ -16,7 +16,7 @@
      <title></title>
      <path d="M0,0H461V627H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <g>
-      <path d="M0,0v627M92,0v627M184,0v627M277,0v627M369,0v627M461,0v627" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+      <path d="M0,0v627M46,0v627M92,0v627M138,0v627M184,0v627M231,0v627M277,0v627M323,0v627M369,0v627M415,0v627M461,0v627" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
       <path d="M0,627h461M0,549h461M0,471h461M0,393h461M0,315h461M0,237h461M0,159h461M0,81h461M0,3h461" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
      </g>
      <g clip-path="path('M0,0H461V627H0Z')">
@@ -27,22 +27,37 @@
      <g>
       <g transform="translate(0,627)">
        <path d="M0,0h461" style="stroke: black; stroke-width: 1;"></path>
-       <path d="M0,-24v24m23,-12v12m23,-12v12m23,-12v12m23,-24v24m23,-12v12m23,-12v12m23,-12v12m23,-24v24m23,-12v12m24,-12v12m23,-12v12m23,-24v24m23,-12v12m23,-12v12m23,-12v12m23,-24v24m23,-12v12m23,-12v12m23,-12v12m23,-24v24" style="stroke: black; stroke-width: 1;"></path>
+       <path d="M0,-24v24m9,-12v12m9,-12v12m10,-12v12m9,-12v12m9,-24v24m9,-12v12m10,-12v12m9,-12v12m9,-12v12m9,-24v24m9,-12v12m10,-12v12m9,-12v12m9,-12v12m9,-24v24m10,-12v12m9,-12v12m9,-12v12m9,-12v12m9,-24v24m10,-12v12m9,-12v12m9,-12v12m9,-12v12m10,-24v24m9,-12v12m9,-12v12m9,-12v12m9,-12v12m10,-24v24m9,-12v12m9,-12v12m9,-12v12m9,-12v12m10,-24v24m9,-12v12m9,-12v12m9,-12v12m10,-12v12m9,-24v24m9,-12v12m9,-12v12m9,-12v12m10,-12v12m9,-24v24m9,-12v12m9,-12v12m10,-12v12m9,-12v12m9,-24v24" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="20" space="preserve">
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,5)">
          0
         </text>
+        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(46,5)">
+         10
+        </text>
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(92,5)">
          20
+        </text>
+        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(138,5)">
+         30
         </text>
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(184,5)">
          40
         </text>
+        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231,5)">
+         50
+        </text>
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(277,5)">
          60
         </text>
+        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(323,5)">
+         70
+        </text>
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(369,5)">
          80
+        </text>
+        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(415,5)">
+         90
         </text>
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(461,5)">
          100
@@ -156,7 +171,7 @@
      <title></title>
      <path d="M0,0H461V627H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <g>
-      <path d="M0,0v627M92,0v627M184,0v627M277,0v627M369,0v627M461,0v627" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+      <path d="M0,0v627M46,0v627M92,0v627M138,0v627M184,0v627M231,0v627M277,0v627M323,0v627M369,0v627M415,0v627M461,0v627" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
       <path d="M0,627h461M0,555h461M0,483h461M0,410h461M0,338h461M0,266h461M0,194h461M0,121h461M0,49h461" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
      </g>
      <g clip-path="path('M0,0H461V627H0Z')">
@@ -180,22 +195,37 @@
      <g>
       <g transform="translate(0,627)">
        <path d="M0,0h461" style="stroke: black; stroke-width: 1;"></path>
-       <path d="M0,-24v24m23,-12v12m23,-12v12m23,-12v12m23,-24v24m23,-12v12m23,-12v12m23,-12v12m23,-24v24m23,-12v12m24,-12v12m23,-12v12m23,-24v24m23,-12v12m23,-12v12m23,-12v12m23,-24v24m23,-12v12m23,-12v12m23,-12v12m23,-24v24" style="stroke: black; stroke-width: 1;"></path>
+       <path d="M0,-24v24m9,-12v12m9,-12v12m10,-12v12m9,-12v12m9,-24v24m9,-12v12m10,-12v12m9,-12v12m9,-12v12m9,-24v24m9,-12v12m10,-12v12m9,-12v12m9,-12v12m9,-24v24m10,-12v12m9,-12v12m9,-12v12m9,-12v12m9,-24v24m10,-12v12m9,-12v12m9,-12v12m9,-12v12m10,-24v24m9,-12v12m9,-12v12m9,-12v12m9,-12v12m10,-24v24m9,-12v12m9,-12v12m9,-12v12m9,-12v12m10,-24v24m9,-12v12m9,-12v12m9,-12v12m10,-12v12m9,-24v24m9,-12v12m9,-12v12m9,-12v12m10,-12v12m9,-24v24m9,-12v12m9,-12v12m10,-12v12m9,-12v12m9,-24v24" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="20" space="preserve">
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,5)">
          0
         </text>
+        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(46,5)">
+         10
+        </text>
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(92,5)">
          20
+        </text>
+        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(138,5)">
+         30
         </text>
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(184,5)">
          40
         </text>
+        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231,5)">
+         50
+        </text>
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(277,5)">
          60
         </text>
+        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(323,5)">
+         70
+        </text>
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(369,5)">
          80
+        </text>
+        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(415,5)">
+         90
         </text>
         <text fill="black" text-anchor="middle" dy=".8em" transform="translate(461,5)">
          100

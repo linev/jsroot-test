@@ -148,22 +148,37 @@
       </g>
       <g>
        <path d="M0,0v627" style="stroke: black; stroke-width: 1;"></path>
-       <path d="M17,627h-17m9,-23h-9m9,-24h-9m9,-23h-9m9,-23h-9m17,-24h-17m9,-23h-9m9,-23h-9m9,-24h-9m9,-23h-9m17,-23h-17m9,-24h-9m9,-23h-9m9,-23h-9m9,-24h-9m17,-23h-17m9,-23h-9m9,-24h-9m9,-23h-9m9,-23h-9m17,-24h-17m9,-23h-9m9,-23h-9m9,-23h-9m9,-24h-9m17,-23h-17m9,-23h-9" style="stroke: black; stroke-width: 1;"></path>
+       <path d="M17,627h-17m9,-12h-9m9,-11h-9m9,-12h-9m9,-12h-9m17,-11h-17m9,-12h-9m9,-12h-9m9,-11h-9m9,-12h-9m17,-12h-17m9,-11h-9m9,-12h-9m9,-12h-9m9,-11h-9m17,-12h-17m9,-12h-9m9,-11h-9m9,-12h-9m9,-12h-9m17,-11h-17m9,-12h-9m9,-12h-9m9,-11h-9m9,-12h-9m17,-12h-17m9,-11h-9m9,-12h-9m9,-12h-9m9,-11h-9m17,-12h-17m9,-12h-9m9,-11h-9m9,-12h-9m9,-12h-9m17,-11h-17m9,-12h-9m9,-12h-9m9,-11h-9m9,-12h-9m17,-12h-17m9,-11h-9m9,-12h-9m9,-12h-9m9,-11h-9m17,-12h-17m9,-11h-9m9,-12h-9m9,-12h-9m9,-11h-9m17,-12h-17m9,-12h-9m9,-11h-9m9,-12h-9" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="20" space="preserve">
         <text fill="black" text-anchor="end" dy=".4em" transform="translate(-3,627)">
          0
         </text>
+        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-3,569)">
+         50
+        </text>
         <text fill="black" text-anchor="end" dy=".4em" transform="translate(-3,510)">
          100
+        </text>
+        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-3,452)">
+         150
         </text>
         <text fill="black" text-anchor="end" dy=".4em" transform="translate(-3,394)">
          200
         </text>
+        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-3,335)">
+         250
+        </text>
         <text fill="black" text-anchor="end" dy=".4em" transform="translate(-3,277)">
          300
         </text>
+        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-3,219)">
+         350
+        </text>
         <text fill="black" text-anchor="end" dy=".4em" transform="translate(-3,160)">
          400
+        </text>
+        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-3,102)">
+         450
         </text>
         <text fill="black" text-anchor="end" dy=".4em" transform="translate(-3,44)">
          500

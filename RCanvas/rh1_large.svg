@@ -9,7 +9,7 @@
    <rect x="0" y="0" width="880" height="532" style="fill: none; stroke: black; stroke-width: 1;"></rect>
    <g>
     <path d="M0,0v532M147,0v532M293,0v532M440,0v532M587,0v532M733,0v532M880,0v532" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-    <path d="M0,508h880M0,459h880M0,411h880M0,363h880M0,314h880M0,266h880M0,218h880M0,169h880M0,121h880M0,73h880M0,24h880" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+    <path d="M0,508h880M0,387h880M0,266h880M0,145h880M0,24h880" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
    </g>
    <g clip-path="path('M0,0H880V532H0Z')">
     <g objname="name" objtype="ROOT::Experimental::RHistDisplayItem">
@@ -52,37 +52,19 @@
      </g>
     </g>
     <g transform="translate(0,532)">
-     <path d="M10,-12h-10m20,-12h-20m10,-12h-10m10,-12h-10m10,-12h-10m20,-13h-20m10,-12h-10m10,-12h-10m10,-12h-10m20,-12h-20m10,-12h-10m10,-12h-10m10,-12h-10m20,-12h-20m10,-12h-10m10,-12h-10m10,-13h-10m20,-12h-20m10,-12h-10m10,-12h-10m10,-12h-10m20,-12h-20m10,-12h-10m10,-12h-10m10,-12h-10m20,-12h-20m10,-12h-10m10,-13h-10m10,-12h-10m20,-12h-20m10,-12h-10m10,-12h-10m10,-12h-10m20,-12h-20m10,-12h-10m10,-12h-10m10,-12h-10m20,-12h-20m10,-13h-10m10,-12h-10m10,-12h-10m20,-12h-20m10,-12h-10" style="stroke: black;"></path>
+     <path d="M20,-24h-20m10,-24h-10m10,-25h-10m10,-24h-10m10,-24h-10m20,-24h-20m10,-24h-10m10,-24h-10m10,-25h-10m10,-24h-10m20,-24h-20m10,-24h-10m10,-24h-10m10,-25h-10m10,-24h-10m20,-24h-20m10,-24h-10m10,-24h-10m10,-24h-10m10,-25h-10m20,-24h-20" style="stroke: black;"></path>
      <g font-family="Arial" font-size="21" space="preserve">
       <text text-anchor="end" dy=".4em" transform="translate(-5,-24)">
        1000
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-73)">
-       1200
-      </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-121)">
-       1400
-      </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-169)">
-       1600
-      </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-218)">
-       1800
+      <text text-anchor="end" dy=".4em" transform="translate(-5,-145)">
+       1500
       </text>
       <text text-anchor="end" dy=".4em" transform="translate(-5,-266)">
        2000
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-314)">
-       2200
-      </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-363)">
-       2400
-      </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-411)">
-       2600
-      </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-459)">
-       2800
+      <text text-anchor="end" dy=".4em" transform="translate(-5,-387)">
+       2500
       </text>
       <text text-anchor="end" dy=".4em" transform="translate(-5,-508)">
        3000
