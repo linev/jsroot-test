@@ -61,22 +61,37 @@
     </g>
     <g>
      <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M36,640h-36m18,-26h-18m18,-25h-18m18,-26h-18m18,-25h-18m36,-26h-36m18,-26h-18m18,-25h-18m18,-26h-18m18,-25h-18m36,-26h-36m18,-26h-18m18,-25h-18m18,-26h-18m18,-25h-18m36,-26h-36m18,-26h-18m18,-25h-18m18,-26h-18m18,-25h-18m36,-26h-36m18,-26h-18m18,-25h-18m18,-26h-18m18,-25h-18m36,-26h-36" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M36,640h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,640)">
        1
       </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,576)">
+       1.5
+      </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,512)">
        2
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,448)">
+       2.5
       </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,384)">
        3
       </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,320)">
+       3.5
+      </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,256)">
        4
       </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,192)">
+       4.5
+      </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,128)">
        5
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,64)">
+       5.5
       </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4)">
        6

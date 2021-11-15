@@ -46,22 +46,37 @@
     </g>
     <g>
      <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M36,640h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M36,640h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,640)">
        0
       </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,576)">
+       100
+      </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,512)">
        200
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,448)">
+       300
       </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,384)">
        400
       </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,320)">
+       500
+      </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,256)">
        600
       </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,192)">
+       700
+      </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,128)">
        800
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,64)">
+       900
       </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4)">
        1000

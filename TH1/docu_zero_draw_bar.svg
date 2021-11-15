@@ -9,7 +9,7 @@
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <g>
     <path d="M0,0v640M120,0v640M240,0v640M360,0v640M480,0v640M600,0v640M720,0v640M840,0v640M960,0v640" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-    <path d="M0,576h960M0,448h960M0,320h960M0,192h960M0,64h960" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+    <path d="M0,640h960M0,576h960M0,512h960M0,448h960M0,384h960M0,320h960M0,256h960M0,192h960M0,128h960M0,64h960M0,0h960" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
    </g>
    <g clip-path="path('M0,0H960V640H0Z')">
     <g>
@@ -52,22 +52,40 @@
     </g>
     <g>
      <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M18,640h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18m18,-32h-18m36,-32h-36m18,-32h-18m18,-32h-18" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M36,640h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,640)">
+       -5
+      </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,576)">
        -4
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,512)">
+       -3
       </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,448)">
        -2
       </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,384)">
+       -1
+      </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,320)">
        0
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,256)">
+       1
       </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,192)">
        2
       </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,128)">
+       3
+      </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,64)">
        4
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4)">
+       5
       </text>
      </g>
     </g>

@@ -9,7 +9,7 @@
    <path d="M0,0H960V600H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <g>
     <path d="M0,0v600M48,0v600M96,0v600M144,0v600M192,0v600M240,0v600M288,0v600M336,0v600M384,0v600M432,0v600M480,0v600M528,0v600M576,0v600M624,0v600M672,0v600M720,0v600M768,0v600M816,0v600M864,0v600M912,0v600M960,0v600" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-    <path d="M0,512h960M0,391h960M0,270h960M0,148h960M0,27h960" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+    <path d="M0,573h960M0,512h960M0,452h960M0,391h960M0,330h960M0,270h960M0,209h960M0,148h960M0,88h960M0,27h960" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
    </g>
    <g clip-path="path('M0,0H960V600H0Z')">
     <g>
@@ -85,19 +85,34 @@
     </g>
     <g>
      <path d="M0,0v600" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M18,585h-18m18,-24h-18m18,-25h-18m36,-24h-36m18,-24h-18m18,-24h-18m18,-25h-18m18,-24h-18m36,-24h-36m18,-24h-18m18,-25h-18m18,-24h-18m18,-24h-18m36,-24h-36m18,-25h-18m18,-24h-18m18,-24h-18m18,-24h-18m36,-25h-36m18,-24h-18m18,-24h-18m18,-24h-18m18,-24h-18m36,-25h-36m18,-24h-18" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M18,597h-18m18,-12h-18m36,-12h-36m18,-12h-18m18,-13h-18m18,-12h-18m18,-12h-18m36,-12h-36m18,-12h-18m18,-12h-18m18,-12h-18m18,-12h-18m36,-12h-36m18,-13h-18m18,-12h-18m18,-12h-18m18,-12h-18m36,-12h-36m18,-12h-18m18,-12h-18m18,-12h-18m18,-13h-18m36,-12h-36m18,-12h-18m18,-12h-18m18,-12h-18m18,-12h-18m36,-12h-36m18,-12h-18m18,-13h-18m18,-12h-18m18,-12h-18m36,-12h-36m18,-12h-18m18,-12h-18m18,-12h-18m18,-12h-18m36,-13h-36m18,-12h-18m18,-12h-18m18,-12h-18m18,-12h-18m36,-12h-36m18,-12h-18m18,-12h-18m18,-12h-18m18,-13h-18m36,-12h-36m18,-12h-18m18,-12h-18" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,573)">
+       225
+      </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,512)">
        230
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,452)">
+       235
       </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,391)">
        240
       </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,330)">
+       245
+      </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,270)">
        250
       </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,209)">
+       255
+      </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,148)">
        260
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,88)">
+       265
       </text>
       <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,27)">
        270
