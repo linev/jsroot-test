@@ -239,11 +239,11 @@
     </g>
     <g transform="translate(647,69)" font-family="Arial" font-size="25" space="preserve">
      <path d="M0,0H247V65H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <rect x="7" y="5" width="48" height="24" style="fill: rgb(148,105,112); stroke: rgb(0,0,153); stroke-width: 1;"></rect>
+     <path d="M7,5v24h48v-24z" style="fill: rgb(148,105,112); stroke: rgb(0,0,153); stroke-width: 1;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(62,17)">
       All nations
      </text>
-     <rect x="7" y="36" width="48" height="24" style="fill: rgb(212,89,84); stroke: rgb(0,0,153); stroke-width: 1;"></rect>
+     <path d="M7,36v24h48v-24z" style="fill: rgb(212,89,84); stroke: rgb(0,0,153); stroke-width: 1;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(62,48)">
       French only
      </text>

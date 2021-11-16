@@ -167,91 +167,76 @@
   </g>
   <g transform="translate(480,80)" font-family="Arial" font-size="31" space="preserve">
    <path d="M0,0H600V160H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <rect x="5" y="9" width="28" height="30" style="fill: none;"></rect>
    <path d="M5,24H33" style="stroke: black; stroke-width: 2;"></path>
    <path d="M19,24h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(38,24)">
     F1
    </text>
-   <rect x="155" y="9" width="28" height="30" style="fill: none;"></rect>
    <path d="M155,24H183" style="stroke: black; stroke-width: 2;"></path>
    <path d="M169,24h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(188,24)">
     F2
    </text>
-   <rect x="305" y="9" width="28" height="30" style="fill: none;"></rect>
    <path d="M305,24H333" style="stroke: red; stroke-width: 2;"></path>
    <path d="M319,24h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(338,24)">
     F3
    </text>
-   <rect x="455" y="9" width="28" height="30" style="fill: none;"></rect>
    <path d="M455,24H483" style="stroke: green; stroke-width: 2;"></path>
    <path d="M469,24h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(488,24)">
     F4
    </text>
-   <rect x="5" y="47" width="28" height="30" style="fill: none;"></rect>
    <path d="M5,61H33" style="stroke: blue; stroke-width: 2;"></path>
    <path d="M19,61h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(38,62)">
     F5
    </text>
-   <rect x="155" y="47" width="28" height="30" style="fill: none;"></rect>
    <path d="M155,61H183" style="stroke: yellow; stroke-width: 2;"></path>
    <path d="M169,61h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(188,62)">
     F6
    </text>
-   <rect x="305" y="47" width="28" height="30" style="fill: none;"></rect>
    <path d="M305,61H333" style="stroke: magenta; stroke-width: 2;"></path>
    <path d="M319,61h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(338,62)">
     F7
    </text>
-   <rect x="455" y="47" width="28" height="30" style="fill: none;"></rect>
    <path d="M455,61H483" style="stroke: cyan; stroke-width: 2;"></path>
    <path d="M469,61h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(488,62)">
     F8
    </text>
-   <rect x="5" y="84" width="28" height="30" style="fill: none;"></rect>
    <path d="M5,99H33" style="stroke: rgb(89,212,84); stroke-width: 2;"></path>
    <path d="M19,99h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(38,99)">
     F9
    </text>
-   <rect x="155" y="84" width="28" height="30" style="fill: none;"></rect>
    <path d="M155,99H183" style="stroke: rgb(89,84,217); stroke-width: 2;"></path>
    <path d="M169,99h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(188,99)">
     F10
    </text>
-   <rect x="305" y="84" width="28" height="30" style="fill: none;"></rect>
    <path d="M305,99H333" style="stroke: rgb(192,182,172); stroke-width: 2;"></path>
    <path d="M319,99h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(338,99)">
     F11
    </text>
-   <rect x="455" y="84" width="28" height="30" style="fill: none;"></rect>
    <path d="M455,99H483" style="stroke: rgb(192,182,172); stroke-width: 2;"></path>
    <path d="M469,99h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(488,99)">
     F12
    </text>
-   <rect x="5" y="122" width="28" height="30" style="fill: none;"></rect>
    <path d="M5,136H33" style="stroke: rgb(77,77,77); stroke-width: 2;"></path>
    <path d="M19,136h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(38,137)">
     F13
    </text>
-   <rect x="155" y="122" width="28" height="30" style="fill: none;"></rect>
    <path d="M155,136H183" style="stroke: rgb(102,102,102); stroke-width: 2;"></path>
    <path d="M169,136h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(188,137)">
     F14
    </text>
-   <rect x="305" y="122" width="28" height="30" style="fill: none;"></rect>
    <path d="M305,136H333" style="stroke: rgb(128,128,128); stroke-width: 2;"></path>
    <path d="M319,136h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(338,137)">

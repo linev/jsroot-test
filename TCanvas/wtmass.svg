@@ -156,27 +156,27 @@
   </g>
   <g transform="translate(900,80)" font-family="Arial" font-size="18" space="preserve" font-weight="bold">
    <path d="M0,0H180V168H0Z" style="fill: white;"></path>
-   <rect x="5" y="7" width="35" height="18" style="fill: rgb(250,121,33); stroke: black; stroke-width: 1;"></rect>
+   <path d="M5,7v18h35v-18z" style="fill: rgb(250,121,33); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(45,16)">
     Diboson
    </text>
-   <rect x="5" y="30" width="35" height="18" style="fill: rgb(91,192,235); stroke: black; stroke-width: 1;"></rect>
+   <path d="M5,30v18h35v-18z" style="fill: rgb(91,192,235); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(45,39)">
     DrellYan
    </text>
-   <rect x="5" y="52" width="35" height="18" style="fill: rgb(229,89,52); stroke: black; stroke-width: 1;"></rect>
+   <path d="M5,52v18h35v-18z" style="fill: rgb(229,89,52); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(45,61)">
     W
    </text>
-   <rect x="5" y="75" width="35" height="18" style="fill: rgb(8,103,136); stroke: black; stroke-width: 1;"></rect>
+   <path d="M5,75v18h35v-18z" style="fill: rgb(8,103,136); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(45,84)">
     Z
    </text>
-   <rect x="5" y="97" width="35" height="18" style="fill: rgb(253,231,76); stroke: black; stroke-width: 1;"></rect>
+   <path d="M5,97v18h35v-18z" style="fill: rgb(253,231,76); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(45,106)">
     stop
    </text>
-   <rect x="5" y="120" width="35" height="18" style="fill: rgb(155,197,61); stroke: black; stroke-width: 1;"></rect>
+   <path d="M5,120v18h35v-18z" style="fill: rgb(155,197,61); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(45,129)">
     ttbar
    </text>

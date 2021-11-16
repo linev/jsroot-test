@@ -157,20 +157,20 @@
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(372,23)">
     Data
    </text>
-   <rect x="12" y="43" width="72" height="27" style="fill: rgb(222,90,106); stroke: black; stroke-width: 1;"></rect>
+   <path d="M12,43v27h72v-27z" style="fill: rgb(222,90,106); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(372,57)">
     W+jets
    </text>
-   <rect x="12" y="77" width="72" height="27" style="fill: rgb(248,206,104); stroke: black; stroke-width: 1;"></rect>
+   <path d="M12,77v27h72v-27z" style="fill: rgb(248,206,104); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(372,91)">
     Z+jets
    </text>
-   <rect x="12" y="111" width="72" height="27" style="fill: rgb(155,152,204); stroke: black; stroke-width: 1;"></rect>
-   <rect x="12" y="145" width="72" height="27" style="fill: rgb(195,138,145); stroke: black; stroke-width: 1;"></rect>
+   <path d="M12,111v27h72v-27z" style="fill: rgb(155,152,204); stroke: black; stroke-width: 1;"></path>
+   <path d="M12,145v27h72v-27z" style="fill: rgb(195,138,145); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(372,159)">
     Diboson
    </text>
-   <rect x="12" y="179" width="72" height="27" style="fill: rgb(208,240,193); stroke: black; stroke-width: 1;"></rect>
+   <path d="M12,179v27h72v-27z" style="fill: rgb(208,240,193); stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(372,193)">
     Single top
    </text>

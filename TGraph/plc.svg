@@ -94,31 +94,31 @@
   </g>
   <g transform="translate(600,96)" font-family="Arial" font-size="16" space="preserve">
    <path d="M0,0H456V168H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <rect x="14" y="8" width="86" height="25" style="fill: rgb(99,0,5);"></rect>
+   <path d="M14,8v25h86v-25z" style="fill: rgb(99,0,5);"></path>
    <path d="M14,21H100" style="stroke: rgb(99,0,5); stroke-width: 3;"></path>
    <path d="M53,17l8,8m0,-8l-8,8m0,-4h8m-4,-4v8" style="stroke: red; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,21)">
     Graph with a red star
    </text>
-   <rect x="14" y="40" width="86" height="25" style="fill: rgb(154,8,7);"></rect>
+   <path d="M14,40v25h86v-25z" style="fill: rgb(154,8,7);"></path>
    <path d="M14,52H100" style="stroke: rgb(154,8,7); stroke-width: 3;"></path>
    <path d="M53,52a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,53)">
     Graph with a circular marker
    </text>
-   <rect x="14" y="71" width="86" height="25" style="fill: rgb(199,57,9);"></rect>
+   <path d="M14,71v25h86v-25z" style="fill: rgb(199,57,9);"></path>
    <path d="M14,84H100" style="stroke: rgb(199,57,9); stroke-width: 3;"></path>
    <path d="M53,80v8h8v-8z" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,84)">
     Graph with an open square marker
    </text>
-   <rect x="14" y="103" width="86" height="25" style="fill: rgb(201,117,17);"></rect>
+   <path d="M14,103v25h86v-25z" style="fill: rgb(201,117,17);"></path>
    <path d="M14,116H100" style="stroke: rgb(201,117,17); stroke-width: 3;"></path>
    <path d="M53,112l8,8m0,-8l-8,8m0,-4h8m-4,-4v8" style="stroke: blue; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,116)">
     Graph with a blue star
    </text>
-   <rect x="14" y="134" width="86" height="25" style="fill: rgb(227,170,24);"></rect>
+   <path d="M14,134v25h86v-25z" style="fill: rgb(227,170,24);"></path>
    <path d="M14,147H100" style="stroke: rgb(227,170,24); stroke-width: 3;"></path>
    <path d="M53,143v8h8v-8z" style="stroke: black; fill: black;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,147)">

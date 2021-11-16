@@ -293,25 +293,21 @@
     </g>
     <g transform="translate(374,361)" font-family="Arial" font-size="9" space="preserve">
      <path d="M0,0H138V71H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <rect x="4" y="4" width="27" height="13" style="fill: none;"></rect>
      <path d="M4,10H31" style="stroke: rgb(0,0,154); stroke-width: 1;"></path>
      <path d="M15.0,10.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0z" style="stroke: blue; fill: blue;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(35,10)">
       Data
      </text>
-     <rect x="4" y="21" width="27" height="13" style="fill: none;"></rect>
      <path d="M4,27H31" style="stroke: rgb(255,0,255); stroke-width: 2;"></path>
      <path d="M18,27h1" style="stroke: black; fill: none;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(35,27)">
       Gauss + Power
      </text>
-     <rect x="4" y="38" width="27" height="13" style="fill: none;"></rect>
      <path d="M4,44H31" style="stroke: rgb(255,0,0); stroke-width: 2; stroke-dasharray: 3,3;"></path>
      <path d="M18,44h1" style="stroke: black; fill: none;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(35,44)">
       Power (background)
      </text>
-     <rect x="4" y="54" width="27" height="13" style="fill: none;"></rect>
      <path d="M4,61H31" style="stroke: rgb(0,154,0); stroke-width: 2; stroke-dasharray: 3,3;"></path>
      <path d="M18,61h1" style="stroke: black; fill: none;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(35,60)">

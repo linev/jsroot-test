@@ -134,13 +134,13 @@
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(60,30)">
     Lab. Lesson 2
    </text>
-   <rect x="7" y="60" width="46" height="40" style="fill: yellow;"></rect>
+   <path d="M7,60v40h46v-40z" style="fill: yellow;"></path>
    <path d="M7,80H53" style="stroke: black; stroke-width: 1;"></path>
    <path d="M30,80h1" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(60,80)">
     Expected Points
    </text>
-   <rect x="7" y="110" width="46" height="40" style="fill: white;"></rect>
+   <path d="M7,110v40h46v-40z" style="fill: white;"></path>
    <path d="M7,130H53" style="stroke: black; stroke-width: 1;"></path>
    <path d="M26,130a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(60,130)">

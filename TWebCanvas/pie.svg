@@ -534,23 +534,23 @@
     </g>
     <g transform="translate(374,54)" font-family="Arial" font-size="18" space="preserve">
      <path d="M0,0H173V115H0Z" style="fill: rgb(255,255,255); stroke: rgb(0,0,0); stroke-width: 1;"></path>
-     <rect x="5" y="5" width="33" height="17" style="fill: rgb(255,0,0); stroke: rgb(0,0,0); stroke-width: 1;"></rect>
+     <path d="M5,5v17h33v-17z" style="fill: rgb(255,0,0); stroke: rgb(0,0,0); stroke-width: 1;"></path>
      <text fill="rgb(0,0,0)" text-anchor="start" dy=".4em" transform="translate(43,14)">
       Slice0
      </text>
-     <rect x="5" y="27" width="33" height="17" style="fill: url(#pat_3031_3); stroke: rgb(0,0,0); stroke-width: 1;"></rect>
+     <path d="M5,27v17h33v-17z" style="fill: url(#pat_3031_3); stroke: rgb(0,0,0); stroke-width: 1;"></path>
      <text fill="rgb(0,0,0)" text-anchor="start" dy=".4em" transform="translate(43,36)">
       Slice1
      </text>
-     <rect x="5" y="49" width="33" height="17" style="fill: rgb(0,0,255); stroke: rgb(0,0,0); stroke-width: 1;"></rect>
+     <path d="M5,49v17h33v-17z" style="fill: rgb(0,0,255); stroke: rgb(0,0,0); stroke-width: 1;"></path>
      <text fill="rgb(0,0,0)" text-anchor="start" dy=".4em" transform="translate(43,58)">
       Slice2
      </text>
-     <rect x="5" y="70" width="33" height="17" style="fill: rgb(255,255,0); stroke: rgb(0,0,0); stroke-width: 1;"></rect>
+     <path d="M5,70v17h33v-17z" style="fill: rgb(255,255,0); stroke: rgb(0,0,0); stroke-width: 1;"></path>
      <text fill="rgb(0,0,0)" text-anchor="start" dy=".4em" transform="translate(43,79)">
       Slice3
      </text>
-     <rect x="5" y="92" width="33" height="17" style="fill: rgb(255,0,255); stroke: rgb(0,0,0); stroke-width: 1;"></rect>
+     <path d="M5,92v17h33v-17z" style="fill: rgb(255,0,255); stroke: rgb(0,0,0); stroke-width: 1;"></path>
      <text fill="rgb(0,0,0)" text-anchor="start" dy=".4em" transform="translate(43,101)">
       Slice4
      </text>

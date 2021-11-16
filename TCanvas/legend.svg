@@ -130,7 +130,7 @@
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,24)">
     The Legend Title
    </text>
-   <rect x="14" y="47" width="86" height="30" style="fill: url(#pat_3003_416); stroke: rgb(0,0,153); stroke-width: 1;"></rect>
+   <path d="M14,47v30h86v-30z" style="fill: url(#pat_3003_416); stroke: rgb(0,0,153); stroke-width: 1;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,62)">
     Histogram filled with random numbers
    </text>
