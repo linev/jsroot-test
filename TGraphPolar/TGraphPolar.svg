@@ -14,7 +14,7 @@
    <g>
     <g transform="translate(288,392)" font-family="Arial" font-size="25" space="preserve" font-weight="bold">
      <ellipse cx="0" cy="0" rx="19" ry="26" style="fill: none; stroke: black; stroke-width: 1;"></ellipse>
-     <text text-anchor="middle" dy=".8em" transform="translate(19,5)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(19,5)">
       -1
      </text>
      <ellipse cx="0" cy="0" rx="29" ry="39" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
@@ -22,7 +22,7 @@
      <ellipse cx="0" cy="0" rx="48" ry="65" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="58" ry="79" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="67" ry="92" style="fill: none; stroke: black; stroke-width: 1;"></ellipse>
-     <text text-anchor="middle" dy=".8em" transform="translate(67,5)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(67,5)">
       -0.5
      </text>
      <ellipse cx="0" cy="0" rx="77" ry="105" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
@@ -30,7 +30,7 @@
      <ellipse cx="0" cy="0" rx="96" ry="131" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="105" ry="144" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="115" ry="157" style="fill: none; stroke: black; stroke-width: 1;"></ellipse>
-     <text text-anchor="middle" dy=".8em" transform="translate(115,5)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(115,5)">
       0
      </text>
      <ellipse cx="0" cy="0" rx="125" ry="170" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
@@ -38,7 +38,7 @@
      <ellipse cx="0" cy="0" rx="144" ry="196" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="153" ry="209" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="163" ry="222" style="fill: none; stroke: black; stroke-width: 1;"></ellipse>
-     <text text-anchor="middle" dy=".8em" transform="translate(163,5)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(163,5)">
       0.5
      </text>
      <ellipse cx="0" cy="0" rx="173" ry="236" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
@@ -46,14 +46,14 @@
      <ellipse cx="0" cy="0" rx="192" ry="262" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="201" ry="275" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="211" ry="288" style="fill: none; stroke: black; stroke-width: 1;"></ellipse>
-     <text text-anchor="middle" dy=".8em" transform="translate(211,5)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(211,5)">
       1
      </text>
      <ellipse cx="0" cy="0" rx="220" ry="301" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="230" ry="314" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="230" ry="314" style="fill: none; stroke: black; stroke-width: 1;"></ellipse>
      <line x1="0" y1="0" x2="230" y2="0" style="stroke: black; stroke-width: 1;"></line>
-     <text text-anchor="start" dy=".4em" transform="translate(255)">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(255)">
       0
      </text>
      <line x1="0" y1="0" x2="-115" y2="-272" style="stroke: black; stroke-width: 1;"></line>
@@ -77,20 +77,20 @@
      <line x1="0" y1="0" x2="190" y2="177" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
      <line x1="0" y1="0" x2="220" y2="93" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
      <g transform="translate(-157,-301)">
-      <text font-size="25" transform="translate(0,-15)">
+      <text fill="black" font-size="25" transform="translate(0,-15)">
        2π
       </text>
-      <path style="stroke-width: 3; fill: none;" d="M0,-9h28"></path>
-      <text font-size="25" transform="translate(8,15)">
+      <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-9h28"></path>
+      <text fill="black" font-size="25" transform="translate(8,15)">
        3
       </text>
      </g>
      <g transform="translate(-158,340)">
-      <text font-size="25" transform="translate(0,-15)">
+      <text fill="black" font-size="25" transform="translate(0,-15)">
        4π
       </text>
-      <path style="stroke-width: 3; fill: none;" d="M0,-9h28"></path>
-      <text font-size="25" transform="translate(8,15)">
+      <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-9h28"></path>
+      <text fill="black" font-size="25" transform="translate(8,15)">
        3
       </text>
      </g>
@@ -116,7 +116,7 @@
    <g>
     <g transform="translate(288,392)" font-family="Arial" font-size="25" space="preserve" font-weight="bold">
      <ellipse cx="0" cy="0" rx="19" ry="26" style="fill: none; stroke: black; stroke-width: 1;"></ellipse>
-     <text text-anchor="middle" dy=".8em" transform="translate(19,5)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(19,5)">
       0.6
      </text>
      <ellipse cx="0" cy="0" rx="25" ry="34" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
@@ -124,7 +124,7 @@
      <ellipse cx="0" cy="0" rx="38" ry="52" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="44" ry="61" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="51" ry="69" style="fill: none; stroke: black; stroke-width: 1;"></ellipse>
-     <text text-anchor="middle" dy=".8em" transform="translate(51,5)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(51,5)">
       0.8
      </text>
      <ellipse cx="0" cy="0" rx="57" ry="78" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
@@ -132,7 +132,7 @@
      <ellipse cx="0" cy="0" rx="70" ry="96" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="77" ry="104" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="83" ry="113" style="fill: none; stroke: black; stroke-width: 1;"></ellipse>
-     <text text-anchor="middle" dy=".8em" transform="translate(83,5)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(83,5)">
       1
      </text>
      <ellipse cx="0" cy="0" rx="89" ry="122" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
@@ -140,7 +140,7 @@
      <ellipse cx="0" cy="0" rx="102" ry="139" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="109" ry="148" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="115" ry="157" style="fill: none; stroke: black; stroke-width: 1;"></ellipse>
-     <text text-anchor="middle" dy=".8em" transform="translate(115,5)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(115,5)">
       1.2
      </text>
      <ellipse cx="0" cy="0" rx="121" ry="166" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
@@ -148,7 +148,7 @@
      <ellipse cx="0" cy="0" rx="134" ry="183" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="141" ry="192" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="147" ry="201" style="fill: none; stroke: black; stroke-width: 1;"></ellipse>
-     <text text-anchor="middle" dy=".8em" transform="translate(147,5)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(147,5)">
       1.4
      </text>
      <ellipse cx="0" cy="0" rx="153" ry="210" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
@@ -156,7 +156,7 @@
      <ellipse cx="0" cy="0" rx="166" ry="227" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="173" ry="236" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="179" ry="245" style="fill: none; stroke: black; stroke-width: 1;"></ellipse>
-     <text text-anchor="middle" dy=".8em" transform="translate(179,5)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(179,5)">
       1.6
      </text>
      <ellipse cx="0" cy="0" rx="186" ry="253" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
@@ -164,14 +164,14 @@
      <ellipse cx="0" cy="0" rx="198" ry="271" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="205" ry="280" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="211" ry="288" style="fill: none; stroke: black; stroke-width: 1;"></ellipse>
-     <text text-anchor="middle" dy=".8em" transform="translate(211,5)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(211,5)">
       1.8
      </text>
      <ellipse cx="0" cy="0" rx="218" ry="297" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="224" ry="306" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="230" ry="314" style="fill: none; stroke: black; stroke-width: 1;"></ellipse>
      <line x1="0" y1="0" x2="230" y2="0" style="stroke: black; stroke-width: 1;"></line>
-     <text text-anchor="start" dy=".4em" transform="translate(255)">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(255)">
       0
      </text>
      <line x1="0" y1="0" x2="163" y2="-222" style="stroke: black; stroke-width: 1;"></line>
@@ -214,61 +214,61 @@
      <line x1="0" y1="0" x2="219" y2="97" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
      <line x1="0" y1="0" x2="227" y2="49" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
      <g transform="translate(180,-246)">
-      <text font-size="25" transform="translate(0,-15)">
+      <text fill="black" font-size="25" transform="translate(0,-15)">
        π
       </text>
-      <path style="stroke-width: 3; fill: none;" d="M0,-9h14"></path>
-      <text font-size="25" transform="translate(1,15)">
+      <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-9h14"></path>
+      <text fill="black" font-size="25" transform="translate(1,15)">
        4
       </text>
      </g>
      <g transform="translate(-8,-348)">
-      <text font-size="25" transform="translate(0,-15)">
+      <text fill="black" font-size="25" transform="translate(0,-15)">
        π
       </text>
-      <path style="stroke-width: 3; fill: none;" d="M0,-9h14"></path>
-      <text font-size="25" transform="translate(1,15)">
+      <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-9h14"></path>
+      <text fill="black" font-size="25" transform="translate(1,15)">
        2
       </text>
      </g>
      <g transform="translate(-210,-246)">
-      <text font-size="25" transform="translate(0,-15)">
+      <text fill="black" font-size="25" transform="translate(0,-15)">
        3π
       </text>
-      <path style="stroke-width: 3; fill: none;" d="M0,-9h28"></path>
-      <text font-size="25" transform="translate(8,15)">
+      <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-9h28"></path>
+      <text fill="black" font-size="25" transform="translate(8,15)">
        4
       </text>
      </g>
      <g transform="translate(-271,9)">
-      <text font-size="25">
+      <text fill="black" font-size="25">
        π
       </text>
      </g>
      <g transform="translate(-210,285)">
-      <text font-size="25" transform="translate(0,-15)">
+      <text fill="black" font-size="25" transform="translate(0,-15)">
        5π
       </text>
-      <path style="stroke-width: 3; fill: none;" d="M0,-9h28"></path>
-      <text font-size="25" transform="translate(8,15)">
+      <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-9h28"></path>
+      <text fill="black" font-size="25" transform="translate(8,15)">
        4
       </text>
      </g>
      <g transform="translate(-15,387)">
-      <text font-size="25" transform="translate(0,-15)">
+      <text fill="black" font-size="25" transform="translate(0,-15)">
        3π
       </text>
-      <path style="stroke-width: 3; fill: none;" d="M0,-9h28"></path>
-      <text font-size="25" transform="translate(8,15)">
+      <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-9h28"></path>
+      <text fill="black" font-size="25" transform="translate(8,15)">
        2
       </text>
      </g>
      <g transform="translate(180,285)">
-      <text font-size="25" transform="translate(0,-15)">
+      <text fill="black" font-size="25" transform="translate(0,-15)">
        7π
       </text>
-      <path style="stroke-width: 3; fill: none;" d="M0,-9h28"></path>
-      <text font-size="25" transform="translate(8,15)">
+      <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-9h28"></path>
+      <text fill="black" font-size="25" transform="translate(8,15)">
        4
       </text>
      </g>
