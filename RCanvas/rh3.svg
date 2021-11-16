@@ -14,7 +14,7 @@
      <title></title>
      <rect x="0" y="0" width="440" height="266" style="fill: none; stroke: black; stroke-width: 1;"></rect>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,17)" x="35" y="17" width="440" height="18" font-family="Arial" font-size="25" space="preserve">
+    <g transform="translate(35,17)" x="35" y="17" width="440" height="18" font-family="Arial" font-size="25" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,9)">
       Box(0) default draw option
      </text>
@@ -31,7 +31,7 @@
      <title></title>
      <rect x="0" y="0" width="440" height="266" style="fill: none; stroke: black; stroke-width: 1;"></rect>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,17)" x="35" y="17" width="440" height="18" font-family="Arial" font-size="25" space="preserve">
+    <g transform="translate(35,17)" x="35" y="17" width="440" height="18" font-family="Arial" font-size="25" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,9)">
       Color() draw option
      </text>
@@ -48,7 +48,7 @@
      <title></title>
      <rect x="0" y="0" width="440" height="266" style="fill: none; stroke: black; stroke-width: 1;"></rect>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,17)" x="35" y="17" width="440" height="18" font-family="Arial" font-size="25" space="preserve">
+    <g transform="translate(35,17)" x="35" y="17" width="440" height="18" font-family="Arial" font-size="25" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,9)">
       Sphere(1) draw option
      </text>
@@ -65,7 +65,7 @@
      <title></title>
      <rect x="0" y="0" width="440" height="266" style="fill: none; stroke: black; stroke-width: 1;"></rect>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,17)" x="35" y="17" width="440" height="18" font-family="Arial" font-size="25" space="preserve">
+    <g transform="translate(35,17)" x="35" y="17" width="440" height="18" font-family="Arial" font-size="25" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,9)">
       Scatter() draw option
      </text>

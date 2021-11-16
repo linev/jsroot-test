@@ -11,7 +11,7 @@
      <title></title>
      <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
      <svg x="0" y="0" overflow="hidden" width="440" height="177" viewBox="0 0 440 177">
-      <g objname="name" objtype="ROOT::Experimental::RHist2Drawable">
+      <g>
        <path fill="rgb(53, 42, 135)" d="M0,177h22v-9h-22zM0,150h22v-17h-22zM0,124h22v-9h-22zM0,106h22v-9h-22zM0,89h22v-9h-22zM0,71h22v-27h-22zM0,35h22v-26h-22zM22,177h22v-53h-22zM22,71h22v-9h-22zM22,53h22v-35h-22zM22,9h22v-9h-22zM44,159h22v-26h-22zM44,44h22v-44h-22zM66,177h22v-27h-22zM66,27h22v-9h-22zM66,9h22v-9h-22zM88,177h22v-18h-22zM88,35h22v-8h-22zM88,18h22v-18h-22zm22,150h22v-9h-22zM110,18h22v-18h-22zm22,159h22v-18h-22zM132,18h22v-18h-22zM154,9h22v-9h-22zm22,0h22v-9h-22zm22,0h22v-9h-22zm22,0h22v-9h-22zm22,168h22v-9h-22zm44,0h22v-18h-22zM286,9h22v-9h-22zm22,0h22v-9h-22zm22,168h22v-18h-22zM330,18h22v-18h-22zm22,159h22v-27h-22zM352,27h22v-27h-22zm22,150h22v-27h-22zM374,35h22v-26h-22zm22,124h22v-26h-22zm0,-35h22v-9h-22zm0,-80h22v-26h-22zM396,9h22v-9h-22zm22,159h22v-9h-22zm0,-18h22v-53h-22zm0,-70h22v-71h-22z"></path>
        <path fill="rgb(37, 63, 171)" d="M0,115h22v-9h-22zM0,97h22v-8h-22zM0,80h22v-9h-22zM0,44h22v-9h-22zm22,80h22v-27h-22zM22,89h22v-9h-22zM22,62h22v-9h-22zm22,71h22v-9h-22zm0,-18h22v-9h-22zM44,62h22v-9h-22zm22,80h22v-9h-22zM66,44h22v-9h-22zM66,18h22v-9h-22zM88,159h22v-17h-22zm22,0h22v-9h-22zM110,44h22v-9h-22zm22,106h22v-8h-22zm22,27h22v-18h-22zM154,18h22v-9h-22zm22,159h22v-9h-22zM176,18h22v-9h-22zm22,159h22v-18h-22zM198,27h22v-9h-22zm22,150h22v-18h-22zM220,18h22v-9h-22zm22,150h22v-9h-22zM242,18h22v-18h-22zm22,159h22v-9h-22zM264,18h22v-18h-22zm22,0h22v-9h-22zm22,159h22v-27h-22zM308,27h22v-18h-22zm22,132h22v-9h-22zM330,35h22v-17h-22zm22,107h22v-9h-22zM352,35h22v-8h-22zm22,115h22v-26h-22zm0,-97h22v-18h-22zm22,80h22v-9h-22zm0,-18h22v-18h-22zm0,-44h22v-27h-22zm22,26h22v-17h-22z"></path>
        <path fill="rgb(21, 84, 207)" d="M22,97h22v-8h-22zM22,80h22v-9h-22zm22,44h22v-9h-22zM44,97h22v-8h-22zM44,71h22v-9h-22zM44,53h22v-9h-22zm22,97h22v-8h-22zM66,53h22v-9h-22zM66,35h22v-8h-22zM88,53h22v-18h-22zM88,27h22v-9h-22zm22,123h22v-8h-22zM110,27h22v-9h-22zm22,132h22v-9h-22zM132,35h22v-17h-22zm22,124h22v-9h-22zm22,9h22v-26h-22zm22,-9h22v-9h-22zM198,18h22v-9h-22zm22,141h22v-9h-22zM220,27h22v-9h-22zm22,132h22v-9h-22zM242,27h22v-9h-22zm22,141h22v-18h-22zM264,27h22v-9h-22zm22,132h22v-17h-22zM286,35h22v-8h-22zm22,115h22v-8h-22zM308,35h22v-8h-22zm22,115h22v-8h-22zm0,-97h22v-18h-22zm22,97h22v-8h-22zm0,-17h22v-9h-22zm0,-71h22v-27h-22zm22,62h22v-27h-22zm0,-35h22v-9h-22zm0,-18h22v-18h-22zm22,26h22v-26h-22z"></path>
@@ -83,7 +83,7 @@
       </g>
      </g>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
+    <g transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
       Color() draw option (default)
      </text>
@@ -97,7 +97,7 @@
      <title></title>
      <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
      <svg x="0" y="0" overflow="hidden" width="440" height="177" viewBox="0 0 440 177">
-      <g objname="name" objtype="ROOT::Experimental::RHist2Drawable">
+      <g>
        <g font-family="Arial" font-size="5" space="preserve">
         <text fill="#0000FF" text-anchor="middle" dy=".4em" transform="translate(11,173)">
          1
@@ -1306,7 +1306,7 @@
       </g>
      </g>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
+    <g transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
       Text() draw option
      </text>
@@ -1323,7 +1323,7 @@
      <title></title>
      <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
+    <g transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
       Lego() draw option
      </text>
@@ -1337,7 +1337,7 @@
      <title></title>
      <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
      <svg x="0" y="0" overflow="hidden" width="440" height="177" viewBox="0 0 440 177">
-      <g objname="name" objtype="ROOT::Experimental::RHist2Drawable">
+      <g>
        <path d="M161,173l-9,-9l-9,-2l-22,-5l-22,1l-7,-3l-15,-4l-17,-5l-2,-9l-3,-1l-15,-8l-7,-6l-4,-3l-18,-4z" style="fill: rgb(37, 63, 171); stroke: none;"></path>
        <path d="M262,173l-9,-4l-11,4z" style="fill: rgb(37, 63, 171); stroke: none;"></path>
        <path d="M316,173l-13,-9l-6,-1l-2,1l-9,9z" style="fill: rgb(37, 63, 171); stroke: none;"></path>
@@ -1427,7 +1427,7 @@
       </g>
      </g>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
+    <g transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
       Contour() draw option
      </text>
@@ -1441,7 +1441,7 @@
      <title></title>
      <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
      <svg x="0" y="0" overflow="hidden" width="440" height="177" viewBox="0 0 440 177">
-      <g objname="name" objtype="ROOT::Experimental::RHist2Drawable">
+      <g>
        <path d="M11,172h1M11,164h1M11,155h1M11,146l1,-1M11,137h-1M9,128h3M10,120l2,-1M12,111h-2M9,102h4M8,93h6m-1,1l1,-1l-1,-1M9,84h4M7,75h8m-1,1l1,-1l-1,-1M11,66h-1M10,57h2M10,49h2M12,40h-2M11,31l1,1M11,13h-1M11,4h1M33,155h1M32,146h1M31,128h4M31,120h4M33,111l1,-1M30,102l5,-1M31,93h4M29,84h8m-1,1l1,-1l-1,-1M31,75l4,1M31,66l4,2M32,58h2M31,48h4M33,31h-1M33,22v1M33,5h1M54,164h1M55,155v-1M53,146h4M54,138l2,-1M51,129l8,-1m-1,2l1,-2l-2,-1M53,120h5M51,111l8,-1m-1,2l1,-2l-2,-1M50,102l10,-1m-1,2l1,-2l-2,-1M52,93l6,-1m-1,2l1,-2l-2,-1M52,84h6m-1,1l1,-1l-1,-1M54,75l1,1M51,66l9,1m-2,1l2,-1l-1,-2M52,57h6m-1,1l1,-1l-1,-1M54,48l2,1M54,39l2,2M54,31h3M55,22h1M54,13h2M54,4h1M77,173h1M76,164h1M76,155l2,-1M76,147l2,-1M74,138l6,-2m-1,2l1,-2l-2,-1M74,129l5,-1M73,120h9m-1,1l1,-1l-1,-1M71,112l13,-3m-1,2l1,-2l-2,-1M73,102h8m-1,1l1,-1l-1,-1M72,92l11,2m-2,1l2,-1l-1,-2M74,83l6,1m-2,1l2,-1l-1,-2M72,75h9m-1,1l1,-1l-1,-1M74,66h5M73,56l8,2m-2,1l2,-1l-1,-2M76,48l1,2M75,40h3M77,31v1M74,22l6,1m-2,1l2,-1l-1,-2M76,4l1,1M100,173h-1M99,164v-1M98,155l2,-1M98,147l1,-2M96,138l5,-2M97,129l3,-2M93,121l12,-3m-1,2l1,-2l-2,-1M94,111h10m-1,1l1,-1l-1,-1M97,102h4M93,93h12m-1,1l1,-1l-1,-1M95,84h8m-1,1l1,-1l-1,-1M92,74l14,2m-2,1l2,-1l-1,-2M92,66l13,2m-2,1l2,-1l-1,-2M96,57l6,2m-2,1l2,-1l-1,-2M96,47l6,3m-2,1l2,-1l-1,-2M99,39l1,2M98,31h2M97,22h4M99,12l-1,2M99,5v-1M121,173v-1M121,164v-1M120,156l2,-2M121,147v-3M120,139l3,-3M120,130l3,-4M120,121l2,-3M118,110l5,1M115,102l11,-1m-1,2l1,-2l-2,-1M115,93h11m-1,1l1,-1l-1,-1M113,84h15m-1,1l1,-1l-1,-1M115,77l13,-3m-1,2l1,-2l-2,-1M118,65l6,3m-2,1l2,-1l-1,-2M119,55l5,5M116,47l10,4m-2,1l2,-1l-1,-2M115,39l12,1m-2,1l2,-1l-1,-2M119,31h4M122,21l-1,2M120,13l2,1M142,173h2M142,165l2,-2M142,155l2,-1M142,147l1,-2M140,139l5,-3M142,129l3,-2M141,122l5,-4M138,113l10,-4m-1,2l1,-2l-2,-1M135,103l15,-3m-1,2l1,-2l-2,-1M140,94l6,-2m-1,2l1,-2l-2,-1M136,84h15m-1,1l1,-1l-1,-1M142,73l2,5M142,64l3,5M138,57l9,1m-2,1l2,-1l-1,-2M140,49h6m-1,1l1,-1l-1,-1M139,38l8,4m-2,1l2,-1l-1,-2M141,29l4,5M142,21l2,1M142,13l1,1M164,173l3,-1M163,164l4,-1M165,156l-1,-1M164,148l3,-4M164,139l2,-4M162,130l6,-4m0,2v-2h-2M160,122l10,-6m0,2v-2h-2M162,112l5,-4M161,102h9m-1,1l1,-1l-1,-1M160,93h9m-1,1l1,-1l-1,-1M160,83l10,2m-2,1l2,-1l-1,-2M161,74l7,2m-2,1l2,-1l-1,-2M157,66h15m-1,1l1,-1l-1,-1M161,56l8,4m-2,1l2,-1l-1,-2M163,46l5,4M165,39l1,2M163,30l4,2M164,20l3,3M164,12l2,2M166,4l-1,1M187,173v-1M186,155h2M185,148l4,-4M187,139v-4M185,131l4,-5M185,121l3,-4M189,112l-4,-4M188,104l-2,-4M182,94l9,-2m-1,2l1,-2l-2,-1M187,84l1,1M179,74l16,3m-2,1l2,-1l-1,-2M184,64l6,4m-2,0h2v-2M185,55l5,5M186,47l2,3M184,38l6,5m-2,0h2v-2M185,29l4,4M189,21l-4,2M185,12l3,3M187,3v3M209,173h-1M210,164l-1,-1M208,156l2,-3M207,148l4,-3M207,139l4,-4M208,131l2,-5M209,121v-3M208,111l1,-2M210,104l-1,-5M213,93l-7,-1m2,-1l-2,1l1,2M213,84l-7,-1m2,-1l-2,1l1,2M208,75h2M208,64l2,5M208,55l2,5M211,47l-4,4M212,39l-6,2m1,-2l-1,2l2,1M209,28v6m-1,-1l1,1l1,-1M211,20l-4,4M209,13v1M208,3l2,3M232,173l-2,-1M231,164l1,-1M232,156l-1,-2M231,148l-1,-4M231,139v-4M232,130l-2,-4M232,121l-2,-4M230,112l1,-3M228,102l6,-1m-1,2l1,-2l-2,-1M233,93h-4M227,86l7,-3m-1,2l1,-2l-2,-1M229,75h4M232,64l-2,5M234,54l-5,7m0,-2v2h2M233,46l-4,6m0,-2v2h2M235,38l-7,3m1,-2l-1,2l2,1M234,29l-7,3m1,-2l-1,2l2,1M230,21l3,2M232,13l-3,1M231,4v1M253,174v-2M253,165l1,-2M253,156v-3M253,148l1,-4M256,139l-5,-3M253,130v-4M257,121l-8,-4m2,-1l-2,1l1,2M253,113v-5M254,103l-3,-3M254,93l-3,-1M252,86l3,-4M255,73l-5,4M256,62l-6,8m0,-2v2h2M252,54l2,6m-2,-1l2,1l1,-2M254,46l-3,5M252,38l2,3M252,30l1,2M253,21v2M253,12v2M253,4l1,1M275,173v-1M276,164l-2,-1M275,156v-2M277,147l-4,-2M277,139l-4,-4M275,130v-3M278,121l-6,-3m2,-1l-2,1l1,2M279,113l-8,-5m2,0h-2v2M282,102h-14m1,-1l-1,1l1,1M281,94l-11,-2m2,-1l-2,1l1,2M281,85l-12,-2m2,-1l-2,1l1,2M285,74l-20,3m1,-2l-1,2l2,1M279,65l-9,2m1,-2l-1,2l2,1M278,55l-6,6m0,-2v2h2M275,46l1,5M274,39l2,2M276,29l-2,4M274,21l1,3M275,13v1M298,173l-1,-1M298,165l-2,-2M298,156l-3,-2M300,147l-6,-2m2,-1l-2,1l1,2M299,140l-4,-5M302,130l-9,-4m2,-1l-2,1l1,2M298,120h-3M301,111l-8,-2m2,-1l-2,1l1,2M302,103l-10,-2m2,-1l-2,1l1,2M301,94l-8,-2m2,-1l-2,1l1,2M307,84h-19m1,-1l-1,1l1,1M303,74l-13,2m1,-2l-1,2l2,1M304,65l-15,3m1,-2l-1,2l2,1M302,56l-10,2m1,-2l-1,2l2,1M299,48l-4,1M301,38l-8,4m1,-2l-1,2l2,1M299,30l-4,2M297,21l-1,1M297,12v2M298,4l-1,1M320,164h-1M320,155l-2,-1M320,147l-1,-2M321,138l-4,-2M322,130l-6,-4m2,0h-2v2M323,121l-9,-4m2,-1l-2,1l1,2M322,112l-6,-2m2,-1l-2,1l1,2M322,102h-6m1,-1l-1,1l1,1M322,92l-7,2m1,-2l-1,2l2,1M325,84h-13m1,-1l-1,1l1,1M323,75l-8,1m1,-2l-1,2l2,1M324,66l-10,1m1,-2l-1,2l2,1M323,57l-8,2m1,-2l-1,2l2,1M324,46l-10,4m1,-2l-1,2l2,1M323,39l-8,2m1,-2l-1,2l2,1M320,30l-3,1M321,22l-5,1M320,13l-1,1M319,4v1M342,173h-2M342,164l-2,-1M342,156l-2,-2M340,147l1,-2M344,139l-5,-3M344,129l-5,-1M346,120h-9m1,-1l-1,1l1,1M347,112l-11,-3m2,-1l-2,1l1,2M346,103l-10,-2m2,-1l-2,1l1,2M345,93l-8,1m1,-2l-1,2l2,1M345,84h-8m1,-1l-1,1l1,1M347,75l-11,1m1,-2l-1,2l2,1M344,65l-6,3m1,-2l-1,2l2,1M347,56l-12,2m1,-2l-1,2l2,1M344,48l-5,1M342,39l-3,1M342,31l-2,1M342,22l-3,1M341,13h-1M363,156l-1,-2M364,146h-2M365,137h-4M367,129l-8,-2m2,-1l-2,1l1,2M365,120l-5,-1M367,112l-8,-2m2,-1l-2,1l1,2M369,102l-11,-1m2,-1l-2,1l1,2M367,93l-8,1m1,-2l-1,2l2,1M368,84l-10,1m1,-2l-1,2l2,1M367,75l-8,1m1,-2l-1,2l2,1M366,66l-6,1m1,-2l-1,2l2,1M364,57l-2,1M365,48l-3,1M364,40h-2M364,30l-2,1M364,22l-2,1M364,13h-1M364,4l-2,1M385,164h-1M386,155l-1,-1M387,146h-5M385,137h-1M386,129l-2,-1M388,120l-7,-1m2,-1l-2,1l1,2M387,111h-4M389,103l-8,-2m2,-1l-2,1l1,2M388,93h-6m1,-1l-1,1l1,1M388,84l-5,1M387,75h-5M388,66l-6,1m1,-2l-1,2l2,1M387,57l-3,1M386,48l-1,1M386,40h-2M386,31l-2,1M386,13h-2M385,4h-1M408,155h-2M408,146h-2M408,138l-1,-1M408,128h-2M409,120h-4M409,111l-4,-1M409,102h-4M410,93h-6m1,-1l-1,1l1,1M408,84h-2M410,75l-5,1M409,66l-4,1M409,58h-4M408,48h-2M408,39l-2,1M408,31h-1M407,22v1M429,164h1M429,155h-1M429,146v-1M431,128h-5M427,120h3M431,111h-5M431,102l-4,-1M430,93h-2M431,84l-4,1M432,75l-6,1m1,-2l-1,2l2,1M430,66h-2M431,57h-3M432,49h-6m1,-1l-1,1l1,1M430,40h-2M430,31h-2M429,22h-1M429,13h1M429,4h-1" style="fill: none; stroke: #FF0000; stroke-width: 1;"></path>
       </g>
      </svg>
@@ -1494,7 +1494,7 @@
       </g>
      </g>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
+    <g transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
       Arrow() draw option
      </text>
@@ -1511,7 +1511,7 @@
      <title></title>
      <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
+    <g transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
       Surf() draw option
      </text>

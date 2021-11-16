@@ -8,7 +8,7 @@
    <title></title>
    <rect x="0" y="0" width="730" height="532" style="fill: none; stroke: black; stroke-width: 1;"></rect>
    <svg x="0" y="0" overflow="hidden" width="730" height="532" viewBox="0 0 730 532">
-    <g objname="name" objtype="ROOT::Experimental::RHist2Drawable">
+    <g>
      <path fill="#352A87" d="M0,0h61v-44h-61zM730,532h61v-44h-61z"></path>
      <path fill="rgb(37, 63, 171)" d="M0,44h61v-44h-61zm61,0h61v-44h-61zm608,0h61v-88h-61zm61,444h61v-45h-61zM730,89h61v-133h-61z"></path>
      <path fill="rgb(21, 84, 207)" d="M0,89h61v-45h-61zM61,0h61v-44h-61zm61,0h61v-44h-61zM548,0h60v-44h-60zm60,532h61v-44h-61zM608,44h61v-88h-61zm61,488h61v-44h-61zM669,89h61v-45h-61zm61,354h61v-44h-61zm0,-310h61v-44h-61z"></path>
@@ -601,12 +601,12 @@
     </g>
    </g>
   </g>
-  <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(70,14)" x="70" y="14" width="730" height="63" font-family="Arial" font-size="49" space="preserve">
+  <g transform="translate(70,14)" x="70" y="14" width="730" height="63" font-family="Arial" font-size="49" space="preserve">
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(365,32)">
     2D histogram with color palette
    </text>
   </g>
-  <g objname="name" objtype="ROOT::Experimental::RPaletteDrawable" transform="translate(820,84)" x="820" y="84" width="50" height="532">
+  <g transform="translate(820,84)" x="820" y="84" width="50" height="532">
    <g>
     <rect x="0" width="50" y="0" height="532" style="stroke: black;" fill="none"></rect>
     <rect x="0" y="505" width="50" height="27" style="fill: #352A87; stroke: #352A87;"></rect>
@@ -651,7 +651,7 @@
     </g>
    </g>
   </g>
-  <g objname="name" objtype="ROOT::Experimental::RDisplayHistStat" transform="translate(480,98)" x="480" y="98" width="300" height="210">
+  <g transform="translate(480,98)" x="480" y="98" width="300" height="210">
    <rect x="0" width="300" y="0" height="210" style="stroke: black; stroke-width: 1; fill: #FF0000;"></rect>
    <g font-family="Arial" font-size="17" space="preserve">
     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(150,11)">

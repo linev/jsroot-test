@@ -8,7 +8,7 @@
    <title></title>
    <rect x="0" y="0" width="880" height="532" style="fill: none; stroke: black; stroke-width: 1;"></rect>
    <svg x="0" y="0" overflow="hidden" width="880" height="532" viewBox="0 0 880 532">
-    <g objname="name" objtype="ROOT::Experimental::RHistDisplayItem">
+    <g>
      <path fill="rgb(53, 42, 135)" d="M0,532h4v-53h-4zm4,0h5v-51h-5zm5,0h4v-48h-4zm4,0h5v-45h-5zm5,0h4v-43h-4zm4,0h4v-40h-4zm4,0h5v-37h-5zm5,0h4v-35h-4zm4,0h5v-32h-5zm5,0h4v-29h-4zm4,0h4v-27h-4zm4,0h5v-24h-5zm5,0h4v-21h-4zm4,0h5v-19h-5zm5,0h4v-16h-4zm4,0h4v-13h-4zm4,0h5v-11h-5zm5,0h4v-8h-4zm4,0h5v-5h-5zm5,0h4v-3h-4z"></path>
      <path fill="rgb(37, 63, 171)" d="M0,479h4v-53h-4zm4,2h5v-53h-5zm5,3h4v-53h-4zm4,3h5v-53h-5zm5,2h4v-53h-4zm4,3h4v-53h-4zm4,3h5v-53h-5zm5,2h4v-53h-4zm4,3h5v-53h-5zm5,3h4v-53h-4zm4,2h4v-53h-4zm4,3h5v-53h-5zm5,3h4v-53h-4zm4,2h5v-53h-5zm5,3h4v-53h-4zm4,3h4v-53h-4zm4,2h5v-53h-5zm5,3h4v-53h-4zm4,3h5v-54h-5zm5,2h4v-53h-4zm4,3h4v-53h-4zm4,0h5v-51h-5zm5,0h4v-48h-4zm4,0h5v-45h-5zm5,0h4v-43h-4zm4,0h4v-40h-4zm4,0h5v-37h-5zm5,0h4v-35h-4zm4,0h5v-32h-5zm5,0h4v-29h-4zm4,0h4v-27h-4zm4,0h5v-24h-5zm5,0h4v-21h-4zm4,0h5v-19h-5zm5,0h4v-16h-4zm4,0h4v-13h-4zm4,0h5v-11h-5zm5,0h4v-8h-4zm4,0h5v-5h-5zm5,0h4v-3h-4z"></path>
      <path fill="rgb(21, 84, 207)" d="M0,426h4v-54h-4zm4,2h5v-53h-5zm5,3h4v-53h-4zm4,3h5v-54h-5zm5,2h4v-53h-4zm4,3h4v-53h-4zm4,3h5v-54h-5zm5,2h4v-53h-4zm4,3h5v-53h-5zm5,3h4v-54h-4zm4,2h4v-53h-4zm4,3h5v-53h-5zm5,3h4v-54h-4zm4,2h5v-53h-5zm5,3h4v-53h-4zm4,3h4v-54h-4zm4,2h5v-53h-5zm5,3h4v-53h-4zm4,2h5v-53h-5zm5,3h4v-53h-4zm4,3h4v-53h-4zm4,2h5v-53h-5zm5,3h4v-53h-4zm4,3h5v-53h-5zm5,2h4v-53h-4zm4,3h4v-53h-4zm4,3h5v-53h-5zm5,2h4v-53h-4zm4,3h5v-53h-5zm5,3h4v-53h-4zm4,2h4v-53h-4zm4,3h5v-53h-5zm5,3h4v-53h-4zm4,2h5v-53h-5zm5,3h4v-53h-4zm4,3h4v-53h-4zm4,2h5v-53h-5zm5,3h4v-53h-4zm4,3h5v-54h-5zm5,2h4v-53h-4zm4,3h4v-53h-4zm4,0h5v-51h-5zm5,0h4v-48h-4zm4,0h5v-45h-5zm5,0h4v-43h-4zm4,0h4v-40h-4zm4,0h5v-37h-5zm5,0h4v-35h-4zm4,0h5v-32h-5zm5,0h4v-29h-4zm4,0h4v-27h-4zm4,0h5v-24h-5zm5,0h4v-21h-4zm4,0h5v-19h-5zm5,0h4v-16h-4zm4,0h4v-13h-4zm4,0h5v-11h-5zm5,0h4v-8h-4zm4,0h5v-5h-5zm5,0h4v-3h-4z"></path>
@@ -86,12 +86,12 @@
     </g>
    </g>
   </g>
-  <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(70,35)" x="70" y="35" width="880" height="35" font-family="Arial" font-size="49" space="preserve">
+  <g transform="translate(70,35)" x="70" y="35" width="880" height="35" font-family="Arial" font-size="49" space="preserve">
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(440,18)">
     Large RH2D histogram with 2000 x 2000 bins
    </text>
   </g>
-  <g objname="name" objtype="ROOT::Experimental::RDisplayHistStat" transform="translate(630,98)" x="630" y="98" width="300" height="210">
+  <g transform="translate(630,98)" x="630" y="98" width="300" height="210">
    <rect x="0" width="300" y="0" height="210" style="stroke: black; stroke-width: 1; fill: #0000FF;"></rect>
    <g font-family="Arial" font-size="17" space="preserve">
     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(150,11)">

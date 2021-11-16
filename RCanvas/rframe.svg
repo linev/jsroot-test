@@ -8,13 +8,13 @@
    <title></title>
    <rect x="0" y="0" width="720" height="440" style="fill: none; stroke: #0000FF; stroke-width: 3;"></rect>
    <svg x="0" y="0" overflow="hidden" width="720" height="440" viewBox="0 0 720 440">
-    <g objname="name" objtype="ROOT::Experimental::RBox">
+    <g>
      <rect x="580" width="40" y="53" height="40" style="stroke: black; stroke-width: 1; fill: #0000FF;"></rect>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RLine">
+    <g>
      <line x1="120" y1="367" x2="600" y2="73" style="stroke: black; stroke-width: 2;"></line>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
+    <g font-family="Arial" font-size="24" space="preserve">
      <text fill="black" text-anchor="start" dy=".8em" transform="translate(120,367)">
       clipping on
      </text>
@@ -57,52 +57,52 @@
     </g>
    </g>
    <g>
-    <g objname="name" objtype="ROOT::Experimental::RLine">
+    <g>
      <line x1="-144" y1="484" x2="-144" y2="-44" style="stroke: #FF0000; stroke-width: 2;"></line>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
+    <g font-family="Arial" font-size="24" space="preserve">
      <text fill="black" text-anchor="start" transform="translate(-149,484) rotate(270)">
       Line drawn on frame, normalized coordinates
      </text>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RLine">
+    <g>
      <line x1="840" y1="484" x2="840" y2="-44" style="stroke: #FF0000; stroke-width: 2;"></line>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
+    <g font-family="Arial" font-size="24" space="preserve">
      <text fill="black" text-anchor="start" dy=".8em" transform="translate(840,484) rotate(270)">
       Line drawn on frame, user coordinates
      </text>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RBox">
+    <g>
      <rect x="580" width="40" y="347" height="40" style="stroke: black; stroke-width: 1; fill: #FFFF00;"></rect>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RLine">
+    <g>
      <line x1="120" y1="73" x2="600" y2="367" style="stroke: black; stroke-width: 2;"></line>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
+    <g font-family="Arial" font-size="24" space="preserve">
      <text fill="black" text-anchor="start" transform="translate(120,73)">
       clipping off
      </text>
     </g>
    </g>
   </g>
-  <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(240,112)" x="240" y="112" width="720" height="80" font-family="Arial" font-size="56" space="preserve">
+  <g transform="translate(240,112)" x="240" y="112" width="720" height="80" font-family="Arial" font-size="56" space="preserve">
    <text fill="blue" text-anchor="middle" dy=".4em" transform="translate(360,40)">
     Frame title
    </text>
   </g>
-  <g objname="name" objtype="ROOT::Experimental::RLine">
+  <g>
    <line x1="100" y1="80" x2="900" y2="80" style="stroke: black; stroke-width: 2;"></line>
   </g>
-  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
+  <g font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="start" transform="translate(100,75)">
     Line drawn on pad, fix pixel length
    </text>
   </g>
-  <g objname="name" objtype="ROOT::Experimental::RLine">
+  <g>
    <line x1="120" y1="720" x2="1080" y2="720" style="stroke: black; stroke-width: 2;"></line>
   </g>
-  <g objname="name" objtype="ROOT::Experimental::RText" font-family="Arial" font-size="24" space="preserve">
+  <g font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="start" dy=".8em" transform="translate(120,720)">
     Line drawn on pad, normalized coordinates
    </text>

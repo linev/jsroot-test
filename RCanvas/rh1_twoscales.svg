@@ -8,10 +8,10 @@
    <title></title>
    <rect x="0" y="0" width="704" height="456" style="fill: none; stroke: black; stroke-width: 1;"></rect>
    <svg x="0" y="0" overflow="hidden" width="704" height="456" viewBox="0 0 704 456">
-    <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
+    <g>
      <path d="M0,456h56v-28h28v-43h29v-71h28v-129h28v-71h28v-92h28v15h28v170h29v129h28v62h28v47h28v7h28v4h310" style="stroke-linejoin: miter; stroke: #FF0000; stroke-width: 2; fill: none;"></path>
     </g>
-    <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
+    <g>
      <path d="M0,456h197v-1h28v-1h28v-8h29v-13h28v-23h28v-76h28v-81h28v-89h28v-43h29v-87h28v-12h28v6h28v104h28v73h28v40h29v117h28v41h28v23h28" style="stroke-linejoin: miter; stroke: #0000FF; stroke-width: 4; fill: none;"></path>
     </g>
    </svg>
@@ -93,7 +93,7 @@
     </g>
    </g>
   </g>
-  <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(56,30)" x="56" y="30" width="704" height="30" font-family="Arial" font-size="42" space="preserve">
+  <g transform="translate(56,30)" x="56" y="30" width="704" height="30" font-family="Arial" font-size="42" space="preserve">
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(352,15)">
     Two independent Y axes for histograms
    </text>
