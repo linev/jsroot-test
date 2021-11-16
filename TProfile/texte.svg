@@ -7,7 +7,7 @@
   <g transform="translate(120,80)">
    <title></title>
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <g clip-path="path('M0,0H960V640H0Z')">
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g font-family="Arial" font-size="3" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(24,65)">
       2
@@ -278,7 +278,7 @@
      </text>
      <path d="M0,640h19v-563h10v563h38v-465h10v23h9v-10h10v36h10v17h9v32h10v3h9v17h10v-1h10v32h9v11h10v23h9v1h10v33h10v7h9v11h10v15h9v17h10v11h10v11h9v16h10v11h9v14h10v2h19v15h10v11h9v8h10v9h10v8h9v5h19v12h10v3h10v5h9v2h10v6h19v12h10v-5h9v3h10v1h9v-3h10v3h10v-3h9v5h10v-7h9v1h10v-3h10v-3h9v-4h10v-5h9v-6h10v-2h10v-5h9v-9h19v-14h10v-3h10v-10h9v-10h10v-11h9v-3h10v-13h10v-10h9v-13h10v-12h9v-2h10v-22h10v-1h9v-24h10v-14h9v-13h10v-11h10v-22h9v-3h10v-45h9v-16h10v-7h10v17h9v-59h10v-50h9v23h10v-55h10v35h9v-22h10v1h9v468h48v-610h10" style="stroke-linejoin: miter; stroke: rgb(0,0,154); stroke-width: 1; fill: none;"></path>
     </g>
-   </g>
+   </svg>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>

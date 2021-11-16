@@ -4,7 +4,7 @@
  </title>
  <path d="M0,0H1200V800H0Z" style="fill: rgb(222,186,135);"></path>
  <g>
-  <g transform="translate(12,8)" clip-path="path('M0,0H1176V384H0Z')">
+  <svg viewBox="0 0 1176 384" preserveAspectRatio="none" x="12" y="8" width="1176" height="384">
    <path d="M0,0H1176V384H0Z" style="fill: rgb(222,186,135);"></path>
    <g>
     <g transform="translate(118,38)">
@@ -14,13 +14,13 @@
       <path d="M0,307h941M0,287h941M0,266h941M0,246h941M0,225h941M0,205h941M0,184h941M0,164h941M0,143h941M0,123h941M0,102h941M0,82h941M0,61h941M0,41h941M0,20h941M0,0h941" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
       <path d="M35,0v307M85,0v307M120,0v307M148,0v307M170,0v307M189,0v307M206,0v307M220,0v307M233,0v307M318,0v307M368,0v307M403,0v307M431,0v307M453,0v307M472,0v307M488,0v307M503,0v307M516,0v307M601,0v307M651,0v307M686,0v307M714,0v307M736,0v307M755,0v307M771,0v307M786,0v307M799,0v307M884,0v307M934,0v307" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
      </g>
-     <g clip-path="path('M0,0H941V307H0Z')">
+     <svg x="0" y="0" overflow="hidden" width="941" height="307" viewBox="0 0 941 307">
       <g>
        <path d="M0,307h628v-20h-628zM0,287h705v-21h-705zM0,266h863v-20h-863zM0,246h620v-21h-620zM0,225h491v-20h-491zM0,205h659v-21h-659zM0,184h426v-20h-426zM0,164h528v-21h-528zM0,143h318v-20h-318zM0,123h403v-21h-403zM0,102h372v-20h-372zM0,82h406v-21h-406zM0,61h265v-20h-265zM0,41h298v-21h-298zM0,20h85v-20h-85z" style="fill: rgb(191,130,120);"></path>
        <path d="M0,307h628v-4h-628zM0,287h705v-4h-705zM0,266h863v-4h-863zM0,246h620v-4h-620zM0,225h491v-4h-491zM0,205h659v-4h-659zM0,184h426v-4h-426zM0,164h528v-4h-528zM0,143h318v-4h-318zM0,123h403v-4h-403zM0,102h372v-4h-372zM0,82h406v-4h-406zM0,61h265v-4h-265zM0,41h298v-4h-298zM0,20h85v-4h-85z" style="fill: rgb(228, 155, 143);"></path>
        <path d="M0,287h628v4h-628zM0,266h705v4h-705zM0,246h863v4h-863zM0,225h620v4h-620zM0,205h491v4h-491zM0,184h659v4h-659zM0,164h426v4h-426zM0,143h528v4h-528zM0,123h318v4h-318zM0,102h403v4h-403zM0,82h372v4h-372zM0,61h406v4h-406zM0,41h265v4h-265zM0,20h298v4h-298zM0,0h85v4h-85z" style="fill: rgb(160, 109, 100);"></path>
       </g>
-     </g>
+     </svg>
      <g>
       <g transform="translate(0,307)">
        <path d="M0,0h941" style="stroke: black; stroke-width: 1;"></path>
@@ -142,8 +142,8 @@
      <path d="M0,15h235" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
-  </g>
-  <g transform="translate(12,408)" clip-path="path('M0,0H1176V384H0Z')">
+  </svg>
+  <svg viewBox="0 0 1176 384" preserveAspectRatio="none" x="12" y="408" width="1176" height="384">
    <path d="M0,0H1176V384H0Z" style="fill: rgb(222,186,135);"></path>
    <g>
     <g transform="translate(118,38)">
@@ -153,7 +153,7 @@
       <path d="M0,0v307M72,0v307M145,0v307M217,0v307M290,0v307M362,0v307M434,0v307M507,0v307M579,0v307M651,0v307M724,0v307M796,0v307M869,0v307M941,0v307" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
       <path d="M0,307h941M0,252h941M0,197h941M0,142h941M0,87h941M0,32h941" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
      </g>
-     <g clip-path="path('M0,0H941V307H0Z')">
+     <svg x="0" y="0" overflow="hidden" width="941" height="307" viewBox="0 0 941 307">
       <g>
        <path d="M7,63h32v244h-32zM79,86h33v221h-33zM152,85h32v222h-32zM224,85h33v222h-33zM297,15h32v292h-32zM369,81h32v226h-32zM441,255h33v52h-33zM514,270h32v37h-32zM586,297h32v10h-32zM658,166h33v141h-33zM731,214h32v93h-32zM803,249h33v58h-33zM876,281h32v26h-32z" style="fill: rgb(148,105,112);"></path>
        <path d="M7,63h6v244h-6zM79,86h7v221h-7zM152,85h6v222h-6zM224,85h7v222h-7zM297,15h6v292h-6zM369,81h6v226h-6zM441,255h7v52h-7zM514,270h6v37h-6zM586,297h6v10h-6zM658,166h7v141h-7zM731,214h6v93h-6zM803,249h7v58h-7zM876,281h6v26h-6z" style="fill: rgb(177, 125, 134);"></path>
@@ -164,7 +164,7 @@
        <path d="M40,199h6v108h-6zM112,220h6v87h-6zM185,141h6v166h-6zM257,212h6v95h-6zM330,136h6v171h-6zM402,196h6v111h-6zM474,272h6v35h-6zM547,292h6v15h-6zM619,304h6v3h-6zM691,268h6v39h-6zM764,244h6v63h-6zM836,282h6v25h-6zM909,300h6v7h-6z" style="fill: rgb(253, 106, 100);"></path>
        <path d="M69,199h-6v108h6zM141,220h-6v87h6zM214,141h-6v166h6zM286,212h-6v95h6zM359,136h-6v171h6zM431,196h-6v111h6zM503,272h-6v35h6zM576,292h-6v15h6zM648,304h-6v3h6zM720,268h-6v39h6zM793,244h-6v63h6zM865,282h-6v25h6zM938,300h-6v7h6z" style="fill: rgb(177, 74, 70);"></path>
       </g>
-     </g>
+     </svg>
      <g>
       <g transform="translate(0,307)">
        <path d="M0,0h941" style="stroke: black; stroke-width: 1;"></path>
@@ -255,6 +255,6 @@
      </text>
     </g>
    </g>
-  </g>
+  </svg>
  </g>
 </svg>

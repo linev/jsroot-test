@@ -7,7 +7,7 @@
   <g transform="translate(120,80)">
    <title></title>
    <path d="M0,0H960V640H0Z" style="fill: rgb(133,194,163); stroke: black; stroke-width: 1;"></path>
-   <g clip-path="path('M0,0H960V640H0Z')">
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
      <path d="M44,414l8,-2l9,-214l9,47l9,197l8,-31l9,-188l9,-31l8,158l9,114l9,-67l9,-153l8,-69l9,68l9,130l9,86l8,-13l9,-88l9,-105l8,-67l9,-7l9,45l9,72l8,75l9,58l9,31l9,4l8,-17l9,-31l9,-38l8,-39l9,-37l9,-32l9,-27l8,-21l9,-15l9,-11l9,-8l8,-6l9,-3l9,-2l8,-1l9,-1h122l9,1l9,1l9,2l8,3l9,6l9,8l8,11l9,15l9,21l9,27l8,32l9,37l9,39l9,38l8,31l9,17l9,-4l8,-31l9,-58l9,-75l9,-72l8,-45l9,7l9,67l9,105l8,88l9,13l9,-86l8,-130l9,-68l9,69l9,153l8,67l9,-114l9,-158l9,31l8,188l9,31l9,-197l8,-47l9,214l9,2l9,-225l8,112" style="stroke: rgb(255,204,0); stroke-width: 3; fill: none;"></path>
     </g>
@@ -20,7 +20,7 @@
     <g>
      <path d="M44,339l8,18l9,18l9,18l9,17l8,17l9,17l9,16l8,16l9,15l9,15l9,13l8,13l9,12l9,12l9,10l8,9l9,8l9,8l8,6l9,5l9,4l9,3l8,1l9,1l9,-1l9,-1l8,-3l9,-4l9,-5l8,-7l9,-7l9,-8l9,-9l8,-11l9,-11l9,-12l9,-13l8,-14l9,-14l9,-15l8,-16l9,-16l9,-17l9,-17l8,-18l9,-18l9,-18l9,-18l8,-18l9,-18l9,-18l8,-18l9,-18l9,-18l9,-17l8,-17l9,-16l9,-16l9,-15l8,-14l9,-14l9,-13l8,-12l9,-11l9,-11l9,-9l8,-8l9,-7l9,-7l9,-5l8,-4l9,-3l9,-1l8,-1l9,1l9,1l9,3l8,4l9,5l9,6l9,8l8,8l9,9l9,10l8,12l9,12l9,13l9,13l8,15l9,15l9,16l9,16l8,17l9,17l9,17l8,18l9,18l9,18l9,19l8,18" style="stroke: blue; stroke-width: 3; fill: none;"></path>
     </g>
-   </g>
+   </svg>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>

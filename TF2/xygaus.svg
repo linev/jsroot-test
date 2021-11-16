@@ -7,7 +7,7 @@
   <g transform="translate(120,80)">
    <title></title>
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <g clip-path="path('M0,0H960V640H0Z')">
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
      <path d="M464,222l5,2l27,4l32,10l13,7l19,10l17,12l15,17l4,4l18,21l9,22l1,2l12,19l8,21l4,22l2,21l-1,21l-5,22l-9,21l-11,18l-2,3l-15,22l-15,14l-7,7l-25,19l-4,2l-28,17l-10,5l-22,10l-32,10l-3,1l-29,8l-32,6l-32,3l-32,1l-32,-1l-32,-3l-32,-5l-31,-9h-1l-32,-10l-24,-11l-8,-4l-30,-18l-2,-1l-27,-20l-5,-5l-17,-16l-15,-21v-1l-14,-21l-8,-21l-4,-22l-2,-21l2,-21l4,-22l9,-21l13,-20v-1l16,-22l16,-15l6,-6l26,-19l4,-2l28,-17l10,-5l22,-10l32,-10l4,-1l28,-8l32,-5l32,-3l32,-1l32,1l32,3l32,5z" style="fill: none; stroke: red; stroke-width: 2;"></path>
      <path d="M704,160l16,9l13,12l1,22l-14,14l-11,7l-21,10l-32,1l-23,-11l-9,-7l-14,-14l3,-22l11,-10l18,-11l14,-7h32z" style="fill: none; stroke: red; stroke-width: 2;"></path>
@@ -34,7 +34,7 @@
      <path d="M496,309l4,22l-4,3l-32,5l-10,-8l6,-22l4,-2l32,2z" style="fill: none; stroke: red; stroke-width: 2;"></path>
      <path d="M494,331l-30,4l-5,-4l5,-19z" style="fill: none; stroke: red; stroke-width: 2;"></path>
     </g>
-   </g>
+   </svg>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>

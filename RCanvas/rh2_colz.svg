@@ -7,7 +7,7 @@
   <g transform="translate(70,84)">
    <title></title>
    <rect x="0" y="0" width="730" height="532" style="fill: none; stroke: black; stroke-width: 1;"></rect>
-   <g clip-path="path('M0,0H730V532H0Z')">
+   <svg x="0" y="0" overflow="hidden" width="730" height="532" viewBox="0 0 730 532">
     <g objname="name" objtype="ROOT::Experimental::RHist2Drawable">
      <path fill="#352A87" d="M0,0h61v-44h-61zM730,532h61v-44h-61z"></path>
      <path fill="rgb(37, 63, 171)" d="M0,44h61v-44h-61zm61,0h61v-44h-61zm608,0h61v-88h-61zm61,444h61v-45h-61zM730,89h61v-133h-61z"></path>
@@ -539,7 +539,7 @@
       </text>
      </g>
     </g>
-   </g>
+   </svg>
    <g>
     <g transform="translate(0,532)">
      <path d="M0,-14v14m24,-7v7m25,-7v7m24,-7v7m24,-7v7m25,-14v14m24,-7v7m24,-7v7m25,-7v7m24,-7v7m24,-14v14m25,-7v7m24,-7v7m24,-7v7m25,-7v7m24,-14v14m24,-7v7m25,-7v7m24,-7v7m24,-7v7m25,-14v14m24,-7v7m24,-7v7m25,-7v7m24,-7v7m24,-14v14m25,-7v7m24,-7v7m24,-7v7m25,-7v7m24,-14v14" style="stroke: black;"></path>

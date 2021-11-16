@@ -9,20 +9,20 @@
  </title>
  <path d="M0,0H1000V700H0Z" style="fill: white;"></path>
  <g>
-  <g transform="translate(0,0)" clip-path="path('M0,0H500V233H0Z')">
+  <svg viewBox="0 0 500 233" preserveAspectRatio="none" x="0" y="0" width="500" height="233">
    <path d="M0,0H500V233H0Z" style="fill: none;"></path>
    <g>
     <g transform="translate(35,28)">
      <title></title>
      <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
-     <g clip-path="path('M0,0H440V177H0Z')">
+     <svg x="0" y="0" overflow="hidden" width="440" height="177" viewBox="0 0 440 177">
       <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
        <path d="M0,177h35v-8h18v-15h17v-32h18v-55h18v-30h17v-29h18v4h17v41h18v79h18v26h17v10h18v7h17v2h194" style="stroke-linejoin: miter; stroke: #FF0000; stroke-width: 2; fill: none;"></path>
       </g>
       <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
        <path d="M0,177h158v-3h18v-5h18v-7h17v-16h18v-23h17v-16h18v-19h18v-8h17v-40h18v23h17v24h18v33h18v8h17v19h18v19h17v3h18" style="stroke-linejoin: miter; stroke: #0000FF; stroke-width: 4; fill: none;"></path>
       </g>
-     </g>
+     </svg>
      <g>
       <g transform="translate(0,177)">
        <path d="M0,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5" style="stroke: black;"></path>
@@ -75,14 +75,14 @@
      </text>
     </g>
    </g>
-  </g>
-  <g transform="translate(0,233)" clip-path="path('M0,0H500V233H0Z')">
+  </svg>
+  <svg viewBox="0 0 500 233" preserveAspectRatio="none" x="0" y="233" width="500" height="233">
    <path d="M0,0H500V233H0Z" style="fill: none;"></path>
    <g>
     <g transform="translate(35,28)">
      <title></title>
      <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
-     <g clip-path="path('M0,0H440V177H0Z')">
+     <svg x="0" y="0" overflow="hidden" width="440" height="177" viewBox="0 0 440 177">
       <g objname="name" objtype="ROOT::Experimental::RHist1Drawable" font-family="Arial" font-size="12" space="preserve">
        <text fill="#FF0000" text-anchor="start" dy=".4em" transform="translate(44,165) rotate(270)">
         9
@@ -125,7 +125,7 @@
       <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
        <path d="M167.00,171.67l1.55,4.66l-3.88,-2.91h4.66l-3.88,2.91zM185.00,166.67l1.55,4.66l-3.88,-2.91h4.66l-3.88,2.91zM203.00,159.67l1.55,4.66l-3.88,-2.91h4.66l-3.88,2.91zM220.00,143.67l1.55,4.66l-3.88,-2.91h4.66l-3.88,2.91zM238.00,120.67l1.55,4.66l-3.88,-2.91h4.66l-3.88,2.91zM255.00,104.67l1.55,4.66l-3.88,-2.91h4.66l-3.88,2.91zM273.00,85.67l1.55,4.66l-3.88,-2.91h4.66l-3.88,2.91zM291.00,77.67l1.55,4.66l-3.88,-2.91h4.66l-3.88,2.91zM308.00,37.67l1.55,4.66l-3.88,-2.91h4.66l-3.88,2.91zM326.00,60.67l1.55,4.66l-3.88,-2.91h4.66l-3.88,2.91zM343.00,84.67l1.55,4.66l-3.88,-2.91h4.66l-3.88,2.91zM361.00,117.67l1.55,4.66l-3.88,-2.91h4.66l-3.88,2.91zM379.00,125.67l1.55,4.66l-3.88,-2.91h4.66l-3.88,2.91zM396.00,144.67l1.55,4.66l-3.88,-2.91h4.66l-3.88,2.91zM414.00,163.67l1.55,4.66l-3.88,-2.91h4.66l-3.88,2.91zM431.00,166.67l1.55,4.66l-3.88,-2.91h4.66l-3.88,2.91z" style="stroke: #0000FF; fill: none;"></path>
       </g>
-     </g>
+     </svg>
      <g>
       <g transform="translate(0,177)">
        <path d="M0,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5" style="stroke: black;"></path>
@@ -178,21 +178,21 @@
      </text>
     </g>
    </g>
-  </g>
-  <g transform="translate(0,467)" clip-path="path('M0,0H500V233H0Z')">
+  </svg>
+  <svg viewBox="0 0 500 233" preserveAspectRatio="none" x="0" y="467" width="500" height="233">
    <path d="M0,0H500V233H0Z" style="fill: none;"></path>
    <g>
     <g transform="translate(35,28)">
      <title></title>
      <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
-     <g clip-path="path('M0,0H440V177H0Z')">
+     <svg x="0" y="0" overflow="hidden" width="440" height="177" viewBox="0 0 440 177">
       <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
        <path d="M44,169L62,154L79,122L97,67L115,37L132,8L150,12L167,53L185,132L203,158L220,168L238,175" fill="none" style="stroke: #FF0000; stroke-width: 1;"></path>
       </g>
       <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
        <path d="M167,174L185,169L203,162L220,146L238,123L255,107L273,88L291,80L308,40L326,63L343,87L361,120L379,128L396,147L414,166L431,169" fill="none" style="stroke: #0000FF; stroke-width: 1;"></path>
       </g>
-     </g>
+     </svg>
      <g>
       <g transform="translate(0,177)">
        <path d="M0,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5" style="stroke: black;"></path>
@@ -245,21 +245,21 @@
      </text>
     </g>
    </g>
-  </g>
-  <g transform="translate(500,0)" clip-path="path('M0,0H500V233H0Z')">
+  </svg>
+  <svg viewBox="0 0 500 233" preserveAspectRatio="none" x="500" y="0" width="500" height="233">
    <path d="M0,0H500V233H0Z" style="fill: none;"></path>
    <g>
     <g transform="translate(35,28)">
      <title></title>
      <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
-     <g clip-path="path('M0,0H440V177H0Z')">
+     <svg x="0" y="0" overflow="hidden" width="440" height="177" viewBox="0 0 440 177">
       <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
        <path d="M35,169m0,3v-6m0,3h18m0,3v-6m0,3M44,167m3,0h-6m3,0v5m3,0h-6m3,0M53,154m0,3v-6m0,3h18m0,3v-6m0,3M62,149m3,0h-6m3,0v9m3,0h-6m3,0M70,122m0,3v-6m0,3h18m0,3v-6m0,3M79,115m3,0h-6m3,0v14m3,0h-6m3,0M88,67m0,3v-6m0,3h18m0,3v-6m0,3M97,57m3,0h-6m3,0v19m3,0h-6m3,0M106,37m0,3v-6m0,3h18m0,3v-6m0,3M115,26m3,0h-6m3,0v22m3,0h-6m3,0M123,8m0,3v-6m0,3h18m0,3v-6m0,3M132,-4m3,0h-6m3,0v25m3,0h-6m3,0M141,12m0,3v-6m0,3h18m0,3v-6m0,3M150,0m3,0h-6m3,0v24m3,0h-6m3,0M158,53m0,3v-6m0,3h18m0,3v-6m0,3M167,42m3,0h-6m3,0v21m3,0h-6m3,0M176,132m0,3v-6m0,3h18m0,3v-6m0,3M185,126m3,0h-6m3,0v12m3,0h-6m3,0M194,158m0,3v-6m0,3h18m0,3v-6m0,3M203,154m3,0h-6m3,0v8m3,0h-6m3,0M211,168m0,3v-6m0,3h18m0,3v-6m0,3M220,166m3,0h-6m3,0v5m3,0h-6m3,0M229,175m0,3v-6m0,3h18m0,3v-6m0,3M238,174m3,0h-6m3,0v2m3,0h-6m3,0" style="stroke: #FF0000; stroke-width: 1;"></path>
       </g>
       <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
        <path d="M9,177C11.83,177,20.17,177,26,177S38,177,44,177S56.17,177,62,177S73.17,177,79,177S91.17,177,97,177S108.17,177,114,177S126,177,132,177S144.17,177,150,177S161.6,174.53,167,173S179.98,169.02,185,167S198.21,161.78,202,159S217.53,143.95,220,141S235.6,118.87,238,116S252.16,101.92,255,99S269.52,82.86,273,80S288.09,72.74,290,70S303.09,31.32,308,29S324.03,50.24,326,53S341.51,75.46,343,78S358.69,110.15,361,113S374.42,119.16,378,122S393.39,138.03,396,141S409.98,160.3,414,163S428.29,166.41,431,167L431,172C428.24,171.56,418.65,171.35,414,169S399.17,155,396,152S381.89,137.75,378,135S363.58,129.9,361,127S344.74,97.67,343,95S328.26,75.84,326,73S313.01,48.77,308,51S292.3,86.15,290,89S276.99,94.29,273,97S258.09,111.09,255,114S240.76,127.09,238,130S223,148,220,151S206.32,163.44,202,166S190.39,170.45,185,172S172.72,175.2,167,176S155.83,177,150,177S138,177,132,177S119.83,177,114,177S102.83,177,97,177S84.83,177,79,177S67.83,177,62,177S50,177,44,177S31.83,177,26,177S11.83,177,9,177Z" style="stroke: none; fill: url(#pat_3003_0000ff);"></path>
       </g>
-     </g>
+     </svg>
      <g>
       <g transform="translate(0,177)">
        <path d="M0,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5" style="stroke: black;"></path>
@@ -312,14 +312,14 @@
      </text>
     </g>
    </g>
-  </g>
-  <g transform="translate(500,233)" clip-path="path('M0,0H500V233H0Z')">
+  </svg>
+  <svg viewBox="0 0 500 233" preserveAspectRatio="none" x="500" y="233" width="500" height="233">
    <path d="M0,0H500V233H0Z" style="fill: none;"></path>
    <g>
     <g transform="translate(35,28)">
      <title></title>
      <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
-     <g clip-path="path('M0,0H440V177H0Z')">
+     <svg x="0" y="0" overflow="hidden" width="440" height="177" viewBox="0 0 440 177">
       <g objname="name" objtype="ROOT::Experimental::RHist1Drawable">
        <path d="M0,177h9v0h-9zM18,177h9v0h-9zM35,169h9v8h-9zM53,154h9v23h-9zM70,122h9v55h-9zM88,67h9v110h-9zM106,37h9v140h-9zM123,8h9v169h-9zM141,12h9v165h-9zM158,53h9v124h-9zM176,132h9v45h-9zM194,158h9v19h-9zM211,168h9v9h-9zM229,175h9v2h-9zM246,177h9v0h-9zM264,177h9v0h-9zM282,177h9v0h-9zM299,177h9v0h-9zM317,177h9v0h-9zM334,177h9v0h-9zM352,177h9v0h-9zM370,177h9v0h-9zM387,177h9v0h-9zM405,177h9v0h-9zM422,177h9v0h-9z" style="fill: #FF0000;"></path>
       </g>
@@ -328,7 +328,7 @@
        <path d="M9,177h1v0h-1zM27,177h1v0h-1zM44,177h1v0h-1zM62,177h1v0h-1zM79,177h1v0h-1zM97,177h1v0h-1zM115,177h1v0h-1zM132,177h1v0h-1zM150,177h1v0h-1zM167,174h1v3h-1zM185,169h1v8h-1zM203,162h1v15h-1zM220,146h1v31h-1zM238,123h1v54h-1zM255,107h1v70h-1zM273,88h1v89h-1zM291,80h1v97h-1zM308,40h1v137h-1zM326,63h1v114h-1zM343,87h1v90h-1zM361,120h1v57h-1zM379,128h1v49h-1zM396,147h1v30h-1zM414,166h1v11h-1zM431,169h1v8h-1z" style="fill: rgb(0, 0, 255);"></path>
        <path d="M18,177h-1v0h1zM36,177h-1v0h1zM53,177h-1v0h1zM71,177h-1v0h1zM88,177h-1v0h1zM106,177h-1v0h1zM124,177h-1v0h1zM141,177h-1v0h1zM159,177h-1v0h1zM176,174h-1v3h1zM194,169h-1v8h1zM212,162h-1v15h1zM229,146h-1v31h1zM247,123h-1v54h1zM264,107h-1v70h1zM282,88h-1v89h1zM300,80h-1v97h1zM317,40h-1v137h1zM335,63h-1v114h1zM352,87h-1v90h1zM370,120h-1v57h1zM388,128h-1v49h1zM405,147h-1v30h1zM423,166h-1v11h1zM440,169h-1v8h1z" style="fill: rgb(0, 0, 213);"></path>
       </g>
-     </g>
+     </svg>
      <g>
       <g transform="translate(0,177)">
        <path d="M0,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5m22,-3v3m22,-3v3m22,-3v3m22,-5v5" style="stroke: black;"></path>
@@ -381,8 +381,8 @@
      </text>
     </g>
    </g>
-  </g>
-  <g transform="translate(500,467)" clip-path="path('M0,0H500V233H0Z')">
+  </svg>
+  <svg viewBox="0 0 500 233" preserveAspectRatio="none" x="500" y="467" width="500" height="233">
    <path d="M0,0H500V233H0Z" style="fill: none;"></path>
    <g transform="translate(4,19)">
     <image width="496" height="195" xlink:href="data:image/png;base64,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"></image>
@@ -391,7 +391,6 @@
     <g transform="translate(35,28)" style="display: none;">
      <title></title>
      <rect x="0" y="0" width="440" height="177" style="fill: none; stroke: black; stroke-width: 1;"></rect>
-     <g clip-path="path('M0,0H440V177H0Z')"></g>
     </g>
     <g objname="name" objtype="ROOT::Experimental::RFrameTitle" transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
@@ -399,6 +398,6 @@
      </text>
     </g>
    </g>
-  </g>
+  </svg>
  </g>
 </svg>

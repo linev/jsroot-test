@@ -304,7 +304,7 @@
   <g>
    <path d="M1080,720h120v80h-120z" style="fill: rgb(252,252,252);"></path>
   </g>
-  <g transform="translate(360,240)" clip-path="path('M0,0H480V320H0Z')">
+  <svg viewBox="0 0 480 320" preserveAspectRatio="none" x="360" y="240" width="480" height="320">
    <path d="M0,0H480V320H0Z" style="fill: rgb(232,232,232);"></path>
    <g>
     <g font-family="Arial" font-size="29" space="preserve" font-weight="bold">
@@ -313,6 +313,6 @@
      </text>
     </g>
    </g>
-  </g>
+  </svg>
  </g>
 </svg>

@@ -7,11 +7,11 @@
   <g transform="translate(120,80)">
    <title></title>
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <g clip-path="path('M0,0H960V640H0Z')">
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
      <path d="M24,639h1m47,-1h1m9,-1h1m8,0h1m9,-2h1m9,2h1m8,-5h1m9,-2h1m8,0h1m9,-6h1m9,1h1m8,-8h1m9,-4h1m8,-11h1m9,5h1m9,-14h1m8,6h1m9,-17h1m8,-21h1m9,0h1m9,-4h1m8,-34h1m9,-6h1m8,-11h1m9,-16h1m9,-45h1m8,-3h1m9,-25h1m8,-11h1m9,-36h1m9,-13h1m8,-50h1m9,-33h1m8,-1h1m9,-37h1m9,-26h1m8,-67h1m9,30h1m8,-51h1m9,43h1m9,-51h1m8,-27h1m9,17h1m8,24h1m9,-35h1m9,-42h1m8,69h1m9,3h1m8,12h1m9,3h1m9,48h1m8,16h1m9,12h1m8,24h1m9,15h1m9,9h1m8,35h1m9,42h1m8,13h1m9,20h1m9,61h1m8,-6h1m9,28h1m8,24h1m9,14h1m9,21h1m8,18h1m9,22h1m8,-1h1m9,21h1m9,5h1m8,15h1m9,3h1m8,12h1m9,7h1m9,-8h1m8,12h1m9,4h1m8,4h1m9,0h1m9,4h1m8,-1h1m9,7h1m8,-3h1m9,1h1m9,3h1m8,0h1m9,0h1m56,0h1" style="stroke: black; fill: none;"></path>
     </g>
-   </g>
+   </svg>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>

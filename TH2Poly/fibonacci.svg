@@ -7,7 +7,7 @@
   <g transform="translate(120,80)">
    <title></title>
    <path d="M0,0H960V640H0Z" style="fill: white;"></path>
-   <g clip-path="path('M0,0H960V640H0Z')">
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
      <path fill="rgb(38,62,168)" d="M678,186v-11h28v11zM706,175v11h9l1,-1h4l1,-1h3v-1h2v-1h2l1,-1h1v-1h1l1,-1l1,-1v-1h1v-2zM678,175h56v-3l-1,-1v-2h-1v-1l-1,-1l-1,-1l-1,-1l-1,-1h-1v-1l-1,-1h-1l-1,-1l-2,-1h-1l-1,-1h-1l-1,-1h-2l-1,-1h-2l-1,-1h-1l-2,-1h-2l-1,-1h-3l-2,-1h-5l-2,-1h-7l-2,-1h-7z" style="stroke: rgb(0,0,154); stroke-width: 1;"></path>
      <path fill="rgb(22,82,205)" d="M678,186v-35h-9l-2,1h-11l-3,1h-3l-2,1h-5l-3,1h-2l-3,1l-2,1h-2l-3,1h-2l-2,1l-2,1l-2,1h-2l-2,1l-2,1l-2,1l-2,1l-1,1l-2,1l-1,1l-2,1l-1,1l-1,1l-2,1l-1,1l-1,1l-1,1v1l-1,1l-1,1v1l-1,1v2l-1,1v3z" style="stroke: rgb(0,0,154); stroke-width: 1;"></path>
@@ -46,7 +46,7 @@
       </text>
      </g>
     </g>
-   </g>
+   </svg>
   </g>
   <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
    <path d="M0,0H960V53H0Z" style="fill: none;"></path>

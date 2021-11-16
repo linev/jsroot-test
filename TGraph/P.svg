@@ -7,11 +7,11 @@
   <g transform="translate(120,80)">
    <title></title>
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <g clip-path="path('M0,0H960V640H0Z')">
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
      <path d="M-6,581v12h12v-12zM40,516v12h12v-12zM86,454v12h12v-12zM132,394v12h12v-12zM178,337v12h12v-12zM224,284v12h12v-12zM270,235v12h12v-12zM316,191v12h12v-12zM361,153v12h12v-12zM407,119v12h12v-12zM453,92v12h12v-12zM499,71v12h12v-12zM545,57v12h12v-12zM591,49v12h12v-12zM637,47v12h12v-12zM683,53v12h12v-12zM729,64v12h12v-12zM775,83v12h12v-12zM821,107v12h12v-12zM867,138v12h12v-12z" style="stroke: blue; fill: blue;"></path>
     </g>
-   </g>
+   </svg>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>

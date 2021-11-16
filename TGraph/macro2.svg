@@ -11,7 +11,7 @@
     <path d="M80,0v640M169,0v640M258,0v640M347,0v640M436,0v640M524,0v640M613,0v640M702,0v640M791,0v640M880,0v640" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
     <path d="M0,640h960M0,556h960M0,472h960M0,388h960M0,304h960M0,220h960M0,136h960M0,51h960" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
    </g>
-   <g clip-path="path('M0,0H960V640H0Z')">
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
      <path d="M80,594l89,-46l89,-47l89,-46l89,-36l88,-40l89,-47l89,-38l89,-45l89,-32L880,54l-89,69l-89,56l-89,62l-89,55l-88,61l-89,64l-89,55l-89,55l-89,54Z" style="stroke: none; fill: yellow;"></path>
      <path d="M80,590l89,-51l89,-50l89,-51l89,-50l88,-51l89,-50l89,-51l89,-50l89,-50" style="stroke: black; stroke-width: 1; fill: none;"></path>
@@ -49,7 +49,7 @@
      </g>
      <path d="M76,590a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM165,539a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM254,522a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM343,472a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM432,455a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM520,438a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM609,346a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM698,262a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM787,270a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM876,194a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: black; fill: none;"></path>
     </g>
-   </g>
+   </svg>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>

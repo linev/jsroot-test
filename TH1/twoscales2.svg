@@ -7,14 +7,14 @@
   <g transform="translate(120,80)">
    <title></title>
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <g clip-path="path('M0,0H960V640H0Z')">
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
      <path d="M0,640h67v-12h39v-23h9v23h10v-23h9v12h10v-35h10v-11h9v-23h10v34h9v-57h10v-184h10v92h9v-58h19v-69h10v12h10v-58h9v-103h10v-104h9v161h10v-115h10v-69h9v173h10v-161h9v11h10v58h10v-81h9v173h10v115h9v-81h10v-34h10v184h9v-81h10v58h9v103h10v-34h10v57h9v-11h10v46h9v34h10v58h10v-35h9v58h19v-23h20v11h9v12h413" style="stroke-linejoin: miter; stroke: rgb(0,0,154); stroke-width: 1; fill: none;"></path>
     </g>
     <g>
      <path d="M0,622h10v2h9v-9h19v-6h10v5h10v-12h9v-4h10v4h9v-5h10v-6h10v-5h9v2h10v-7h9v-6h10v-8h10v-5h9v-15h10v6h9v-19h10v13h10v-13h9v-5h10v-36h9v-4h10v-8h10v-2h9v-1h10v-25h9v-2h10v-26h10v-7h9v-21h10v-15h9v-1h10v6h10v-47h9v-7h10v-6h9v-20h10v-2h10v-12h9v-31h10v13h9v-65h10v33h10v-54h9v6h10v34h9v-55h10v-15h10v-22h9v3h10v-32h9v-2h10v-10h10v20h9v-43h10v-2h9v-1h20v11h9v-26h10v2h9v1h10v-28h10v27h9v18h10v-5h9v-10h10v-14h10v-4h9v18h10v19h9v-37h10v45h10v23h9v-1h10v6h9v3h10v22h10v-29h9v54h10v2h9v15h10v6h10v16h9v23h10v9h9v17h10v14h10v-4h9v37h10v4h9v9h10v21h19v17h10v34h9v23h10" style="stroke-linejoin: miter; stroke: rgb(255,0,0); stroke-width: 1; fill: none;"></path>
     </g>
-   </g>
+   </svg>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>

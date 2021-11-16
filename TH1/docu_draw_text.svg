@@ -4,13 +4,13 @@
  </title>
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
-  <g transform="translate(12,8)" clip-path="path('M0,0H576V784H0Z')">
+  <svg viewBox="0 0 576 784" preserveAspectRatio="none" x="12" y="8" width="576" height="784">
    <path d="M0,0H576V784H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(58,78)">
      <title></title>
      <path d="M0,0H461V627H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <g clip-path="path('M0,0H461V627H0Z')">
+     <svg x="0" y="0" overflow="hidden" width="461" height="627" viewBox="0 0 461 627">
       <g>
        <g font-family="Arial" font-size="23" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(23,470) rotate(-45)">
@@ -264,7 +264,7 @@
         </text>
        </g>
       </g>
-     </g>
+     </svg>
      <g>
       <g transform="translate(0,627)">
        <path d="M0,0h461" style="stroke: black; stroke-width: 1;"></path>
@@ -378,14 +378,14 @@
      <path d="M0,31h115" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
-  </g>
-  <g transform="translate(612,8)" clip-path="path('M0,0H576V784H0Z')">
+  </svg>
+  <svg viewBox="0 0 576 784" preserveAspectRatio="none" x="612" y="8" width="576" height="784">
    <path d="M0,0H576V784H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(58,78)">
      <title></title>
      <path d="M0,0H461V627H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <g clip-path="path('M0,0H461V627H0Z')">
+     <svg x="0" y="0" overflow="hidden" width="461" height="627" viewBox="0 0 461 627">
       <g>
        <path d="M0,625h46M23,625v1M46,612h46M69,611v3M92,535h46M115,532v5M138,302h46M161,297v10M184,45h48M208,38v14M231,37h46M254,30v14M277,314h46M300,309v10M323,532h46M346,529v6M369,613h46M392,612v2M415,625h46M438,625v0" style="stroke: rgb(0,0,153); stroke-width: 1;"></path>
       </g>
@@ -422,7 +422,7 @@
        </text>
        <path d="M0,625h46v-13h46v-77h46v-233h46v-257h47v-8h46v277h46v218h46v81h46v12h46" style="stroke-linejoin: miter; stroke: rgb(0,0,153); stroke-width: 1; fill: none;"></path>
       </g>
-     </g>
+     </svg>
      <g>
       <g transform="translate(0,627)">
        <path d="M0,0h461" style="stroke: black; stroke-width: 1;"></path>
@@ -521,6 +521,6 @@
      <path d="M0,31h115" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
-  </g>
+  </svg>
  </g>
 </svg>

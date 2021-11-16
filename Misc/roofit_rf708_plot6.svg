@@ -7,7 +7,7 @@
   <g transform="translate(120,80)">
    <title></title>
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <g clip-path="path('M0,0H960V640H0Z')">
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
      <path d="M0,0h24v640h936" style="stroke-linejoin: miter; stroke: rgb(0,0,154); stroke-width: 1; fill: none;"></path>
     </g>
@@ -263,7 +263,7 @@
     <g>
      <path d="M-24,640h48l24,-1h24l24,-1l24,-1l24,-1l24,-3l24,-4l24,-7l24,-9l24,-13l12,-8l12,-10l12,-12l12,-13l12,-15l12,-18l12,-20l12,-23l12,-25l12,-29l12,-33l12,-37l12,-40l6,-22l6,-24l6,-24l6,-26l6,-27l6,-29l6,-31l6,-33l6,-34l6,-37l3,30l3,28l3,27l3,26l6,47l6,42l6,38l6,35l6,31l6,28l6,24l6,23l6,20l6,18l6,16l6,14l6,13l6,11l12,20l12,15l12,13l12,10l12,9l12,7l24,11l24,9l24,7l24,6l24,5l24,5l24,4l24,3l24,3l24,2l24,2l24,2l24,1h24v5" style="stroke: rgb(0,255,255); stroke-width: 3; fill: none;"></path>
     </g>
-   </g>
+   </svg>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>

@@ -7,7 +7,7 @@
   <g transform="translate(120,80)">
    <title></title>
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <g clip-path="path('M0,0H960V640H0Z')">
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
      <path d="M228,126l11,10l2,16l11,8l20,-8l4,-14l24,7l21,-9l3,-3l20,-13l4,-7l7,7l17,6l10,10l14,4l15,-4l9,-9l10,9l14,8l13,8l11,4l24,4l24,1l10,7l14,5l24,7l9,4l8,16l7,5l7,-5l17,-4l6,4l-6,9l-10,7l4,16l6,4l14,-4l10,-1l7,1l16,16l-23,9l-4,7l1,16l1,16l2,2l7,14l-3,16l4,16l-2,16l-6,8l-5,8l-2,16l3,16l4,6l24,-2h24l23,-4h1h1l23,2l24,4l24,9l4,1l20,5l20,11l4,5l12,11l3,16l2,16l-4,16l-13,9l-9,7l-15,10l-11,6l-13,5l-24,5l-24,3l-24,1l-24,-3l-24,-5l-12,-6l-12,-5l-24,-10l-1,-1l-12,-16l-11,-11l-12,-5l2,-16l-14,-7l-24,6l-24,-2l-13,3l13,8l7,8l-7,4l-16,-4l-8,-6l-24,5l-6,1l-18,12l-14,4l-10,3l-10,-3l-14,-2l-4,2l-5,16l-15,9l-13,-9l-11,-8l-15,8l-9,3l-7,-3l-17,-7l-24,-1l-17,-8l-7,-4l-24,-9h-24l-7,-3l-17,-13l-3,-3l-11,-16l-10,-9l-24,-4l-24,4l-4,-7l4,-6l6,-10l-6,-7l-18,-9l-6,-9l-3,-7l3,-3l11,-13l-11,-7l-13,-9l7,-16l-9,-16l15,-7l10,-9l-10,-3l-17,-13l14,-16l-3,-16l6,-15l1,-1l11,-16l12,-10l5,-6l14,-16l5,-3l24,-6l19,-7l-6,-16l11,-7l23,7l1,1l1,-1l14,-16l2,-16z" style="fill: rgb(22,82,205); stroke: none;"></path>
      <path d="M275,488h1z" style="fill: rgb(22,82,205); stroke: none;"></path>
@@ -46,7 +46,7 @@
      <path d="M379,328l-7,12l-18,-12l18,-15z" style="fill: rgb(251,230,29); stroke: none;"></path>
      <path d="M376,328l-4,6l-9,-6l9,-7z" style="fill: rgb(249,249,15); stroke: none;"></path>
     </g>
-   </g>
+   </svg>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
