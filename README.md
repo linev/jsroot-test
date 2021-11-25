@@ -41,7 +41,10 @@ Run more tests:
 
     [shell] node test.js --create --more
 
+Run with `xvfb` to get reproducible results on different platforms:
+
+    [shell]  xvfb-run -s "-ac -screen 0 1280x1024x24"  node test.js -c -m
+
 If SVG file differs from stored in repository, difference can be checked with command:
 
     [shell] ./testdiff.sh TH1/TH1.svg
-
