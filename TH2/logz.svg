@@ -12,19 +12,19 @@
      <path d="M0,0H301V201H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
       <g>
-       <path fill="rgb(38,62,168)" d="M100,141h51v-141h-51zm51,40h50v-181h-50zm50,20h50v-80h-50zm50,0h50v-40h-50z"></path>
-       <path fill="rgb(22,82,205)" d="M100,161h51v-20h-51zm51,40h50v-20h-50z"></path>
-       <path fill="rgb(16,100,220)" d="M100,181h51v-20h-51z"></path>
-       <path fill="rgb(18,114,217)" d="M50,20h50v-20h-50z"></path>
-       <path fill="rgb(20,129,214)" d="M50,60h50v-40h-50zm50,141h51v-20h-51z"></path>
-       <path fill="rgb(14,143,209)" d="M50,80h50v-20h-50z"></path>
-       <path fill="rgb(9,157,204)" d="M50,101h50v-21h-50z"></path>
-       <path fill="rgb(13,167,195)" d="M50,121h50v-20h-50z"></path>
-       <path fill="rgb(30,175,179)" d="M50,141h50v-20h-50z"></path>
-       <path fill="rgb(46,183,164)" d="M50,161h50v-20h-50z"></path>
-       <path fill="rgb(82,186,146)" d="M50,201h50v-40h-50z"></path>
-       <path fill="rgb(251,230,29)" d="M0,201h50v-20h-50z"></path>
-       <path fill="rgb(249,249,15)" d="M0,181h50v-181h-50z"></path>
+       <path fill="rgb(38,62,168)" d="M100,0h51v141h-51zm51,0h50v181h-50zm50,121h50v80h-50zm50,40h50v40h-50z"></path>
+       <path fill="rgb(22,82,205)" d="M100,141h51v20h-51zm51,40h50v20h-50z"></path>
+       <path fill="rgb(16,100,220)" d="M100,161h51v20h-51z"></path>
+       <path fill="rgb(18,114,217)" d="M50,0h50v20h-50z"></path>
+       <path fill="rgb(20,129,214)" d="M50,20h50v40h-50zm50,161h51v20h-51z"></path>
+       <path fill="rgb(14,143,209)" d="M50,60h50v20h-50z"></path>
+       <path fill="rgb(9,157,204)" d="M50,80h50v21h-50z"></path>
+       <path fill="rgb(13,167,195)" d="M50,101h50v20h-50z"></path>
+       <path fill="rgb(30,175,179)" d="M50,121h50v20h-50z"></path>
+       <path fill="rgb(46,183,164)" d="M50,141h50v20h-50z"></path>
+       <path fill="rgb(82,186,146)" d="M50,161h50v40h-50z"></path>
+       <path fill="rgb(251,230,29)" d="M0,181h50v20h-50z"></path>
+       <path fill="rgb(249,249,15)" d="M0,0h50v181h-50z"></path>
        <g font-family="Arial" font-size="9" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          14.2620
@@ -293,21 +293,21 @@
      <path d="M0,0H301V201H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
       <g>
-       <path fill="rgb(38,62,168)" d="M100,80h51v-20h-51zm0,-40h51v-40h-51zm51,121h50v-161h-50zm50,20h50v-181h-50zm50,0h50v-181h-50z"></path>
-       <path fill="rgb(16,100,220)" d="M100,141h51v-40h-51zm51,40h50v-20h-50z"></path>
-       <path fill="rgb(18,114,217)" d="M100,161h51v-20h-51zm0,-60h51v-21h-51zM201,201h50v-20h-50zm50,0h50v-20h-50z"></path>
-       <path fill="rgb(20,129,214)" d="M100,60h51v-20h-51z"></path>
-       <path fill="rgb(14,143,209)" d="M50,40h50v-40h-50zM151,201h50v-20h-50z"></path>
-       <path fill="rgb(9,157,204)" d="M50,60h50v-20h-50zm50,121h51v-20h-51z"></path>
-       <path fill="rgb(13,167,195)" d="M50,80h50v-20h-50z"></path>
-       <path fill="rgb(30,175,179)" d="M50,101h50v-21h-50z"></path>
-       <path fill="rgb(46,183,164)" d="M50,121h50v-20h-50zm50,80h51v-20h-51z"></path>
-       <path fill="rgb(82,186,146)" d="M50,141h50v-20h-50z"></path>
-       <path fill="rgb(149,190,113)" d="M50,161h50v-20h-50z"></path>
-       <path fill="rgb(179,189,101)" d="M50,181h50v-20h-50z"></path>
-       <path fill="rgb(209,187,89)" d="M50,201h50v-20h-50z"></path>
-       <path fill="rgb(251,230,29)" d="M0,201h50v-20h-50zM0,101h50v-21h-50zM0,40h50v-20h-50z"></path>
-       <path fill="rgb(249,249,15)" d="M0,181h50v-80h-50zM0,80h50v-40h-50zM0,20h50v-20h-50z"></path>
+       <path fill="rgb(38,62,168)" d="M100,0h51v40h-51zm0,60h51v20h-51zM151,0h50v161h-50zm50,0h50v181h-50zm50,0h50v181h-50z"></path>
+       <path fill="rgb(16,100,220)" d="M100,101h51v40h-51zm51,60h50v20h-50z"></path>
+       <path fill="rgb(18,114,217)" d="M100,80h51v21h-51zm0,61h51v20h-51zm101,40h50v20h-50zm50,0h50v20h-50z"></path>
+       <path fill="rgb(20,129,214)" d="M100,40h51v20h-51z"></path>
+       <path fill="rgb(14,143,209)" d="M50,0h50v40h-50zM151,181h50v20h-50z"></path>
+       <path fill="rgb(9,157,204)" d="M50,40h50v20h-50zm50,121h51v20h-51z"></path>
+       <path fill="rgb(13,167,195)" d="M50,60h50v20h-50z"></path>
+       <path fill="rgb(30,175,179)" d="M50,80h50v21h-50z"></path>
+       <path fill="rgb(46,183,164)" d="M50,101h50v20h-50zm50,80h51v20h-51z"></path>
+       <path fill="rgb(82,186,146)" d="M50,121h50v20h-50z"></path>
+       <path fill="rgb(149,190,113)" d="M50,141h50v20h-50z"></path>
+       <path fill="rgb(179,189,101)" d="M50,161h50v20h-50z"></path>
+       <path fill="rgb(209,187,89)" d="M50,181h50v20h-50z"></path>
+       <path fill="rgb(251,230,29)" d="M0,20h50v20h-50zM0,80h50v21h-50zM0,181h50v20h-50z"></path>
+       <path fill="rgb(249,249,15)" d="M0,0h50v20h-50zM0,40h50v40h-50zm0,61h50v80h-50z"></path>
        <g font-family="Arial" font-size="10" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          5.5325
@@ -618,24 +618,24 @@
      <path d="M0,0H301V201H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
       <g>
-       <path fill="rgb(16,100,220)" d="M0,201h50v-201h-50z"></path>
-       <path fill="rgb(18,114,217)" d="M50,201h50v-201h-50z"></path>
-       <path fill="rgb(20,129,214)" d="M100,201h51v-40h-51z"></path>
-       <path fill="rgb(14,143,209)" d="M100,161h51v-20h-51zm51,40h50v-20h-50z"></path>
-       <path fill="rgb(9,157,204)" d="M100,141h51v-20h-51z"></path>
-       <path fill="rgb(13,167,195)" d="M100,121h51v-20h-51zm0,-41h51v-20h-51z"></path>
-       <path fill="rgb(30,175,179)" d="M151,181h50v-20h-50z"></path>
-       <path fill="rgb(46,183,164)" d="M100,101h51v-21h-51zm51,60h50v-20h-50zm50,40h50v-20h-50z"></path>
-       <path fill="rgb(82,186,146)" d="M100,40h51v-40h-51z"></path>
-       <path fill="rgb(116,189,129)" d="M100,60h51v-20h-51z"></path>
-       <path fill="rgb(149,190,113)" d="M151,141h50v-20h-50z"></path>
-       <path fill="rgb(179,189,101)" d="M151,121h50v-20h-50zm50,60h50v-20h-50z"></path>
-       <path fill="rgb(209,187,89)" d="M251,201h50v-20h-50z"></path>
-       <path fill="rgb(226,192,75)" d="M151,101h50v-21h-50z"></path>
-       <path fill="rgb(244,198,59)" d="M151,80h50v-20h-50z"></path>
-       <path fill="rgb(253,210,43)" d="M151,60h50v-20h-50zm50,101h50v-20h-50z"></path>
-       <path fill="rgb(251,230,29)" d="M151,40h50v-20h-50z"></path>
-       <path fill="rgb(249,249,15)" d="M151,20h50v-20h-50zm50,121h50v-20h-50zm50,40h50v-20h-50z"></path>
+       <path fill="rgb(16,100,220)" d="M0,0h50v201h-50z"></path>
+       <path fill="rgb(18,114,217)" d="M50,0h50v201h-50z"></path>
+       <path fill="rgb(20,129,214)" d="M100,161h51v40h-51z"></path>
+       <path fill="rgb(14,143,209)" d="M100,141h51v20h-51zm51,40h50v20h-50z"></path>
+       <path fill="rgb(9,157,204)" d="M100,121h51v20h-51z"></path>
+       <path fill="rgb(13,167,195)" d="M100,60h51v20h-51zm0,41h51v20h-51z"></path>
+       <path fill="rgb(30,175,179)" d="M151,161h50v20h-50z"></path>
+       <path fill="rgb(46,183,164)" d="M100,80h51v21h-51zm51,61h50v20h-50zm50,40h50v20h-50z"></path>
+       <path fill="rgb(82,186,146)" d="M100,0h51v40h-51z"></path>
+       <path fill="rgb(116,189,129)" d="M100,40h51v20h-51z"></path>
+       <path fill="rgb(149,190,113)" d="M151,121h50v20h-50z"></path>
+       <path fill="rgb(179,189,101)" d="M151,101h50v20h-50zm50,60h50v20h-50z"></path>
+       <path fill="rgb(209,187,89)" d="M251,181h50v20h-50z"></path>
+       <path fill="rgb(226,192,75)" d="M151,80h50v21h-50z"></path>
+       <path fill="rgb(244,198,59)" d="M151,60h50v20h-50z"></path>
+       <path fill="rgb(253,210,43)" d="M151,40h50v20h-50zm50,101h50v20h-50z"></path>
+       <path fill="rgb(251,230,29)" d="M151,20h50v20h-50z"></path>
+       <path fill="rgb(249,249,15)" d="M151,0h50v20h-50zm50,121h50v20h-50zm50,40h50v20h-50z"></path>
        <g font-family="Arial" font-size="7" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          0.3879
@@ -904,20 +904,20 @@
      <path d="M0,0H301V201H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
       <g>
-       <path fill="rgb(38,62,168)" d="M100,141h51v-141h-51zm51,40h50v-181h-50zm50,20h50v-80h-50zm50,0h50v-40h-50z"></path>
-       <path fill="rgb(22,82,205)" d="M100,161h51v-20h-51zm51,40h50v-20h-50z"></path>
-       <path fill="rgb(16,100,220)" d="M100,181h51v-20h-51z"></path>
-       <path fill="rgb(18,114,217)" d="M50,40h50v-40h-50z"></path>
-       <path fill="rgb(20,129,214)" d="M50,60h50v-20h-50z"></path>
-       <path fill="rgb(14,143,209)" d="M50,80h50v-20h-50zm50,121h51v-20h-51z"></path>
-       <path fill="rgb(9,157,204)" d="M50,121h50v-41h-50z"></path>
-       <path fill="rgb(13,167,195)" d="M50,141h50v-20h-50z"></path>
-       <path fill="rgb(30,175,179)" d="M50,161h50v-20h-50z"></path>
-       <path fill="rgb(46,183,164)" d="M50,181h50v-20h-50z"></path>
-       <path fill="rgb(82,186,146)" d="M50,201h50v-20h-50z"></path>
-       <path fill="rgb(244,198,59)" d="M0,121h50v-20h-50zM0,20h50v-20h-50z"></path>
-       <path fill="rgb(251,230,29)" d="M0,181h50v-60h-50zM0,101h50v-81h-50z"></path>
-       <path fill="rgb(249,249,15)" d="M0,201h50v-20h-50z"></path>
+       <path fill="rgb(38,62,168)" d="M100,0h51v141h-51zm51,0h50v181h-50zm50,121h50v80h-50zm50,40h50v40h-50z"></path>
+       <path fill="rgb(22,82,205)" d="M100,141h51v20h-51zm51,40h50v20h-50z"></path>
+       <path fill="rgb(16,100,220)" d="M100,161h51v20h-51z"></path>
+       <path fill="rgb(18,114,217)" d="M50,0h50v40h-50z"></path>
+       <path fill="rgb(20,129,214)" d="M50,40h50v20h-50z"></path>
+       <path fill="rgb(14,143,209)" d="M50,60h50v20h-50zm50,121h51v20h-51z"></path>
+       <path fill="rgb(9,157,204)" d="M50,80h50v41h-50z"></path>
+       <path fill="rgb(13,167,195)" d="M50,121h50v20h-50z"></path>
+       <path fill="rgb(30,175,179)" d="M50,141h50v20h-50z"></path>
+       <path fill="rgb(46,183,164)" d="M50,161h50v20h-50z"></path>
+       <path fill="rgb(82,186,146)" d="M50,181h50v20h-50z"></path>
+       <path fill="rgb(244,198,59)" d="M0,0h50v20h-50zM0,101h50v20h-50z"></path>
+       <path fill="rgb(251,230,29)" d="M0,20h50v81h-50zM0,121h50v60h-50z"></path>
+       <path fill="rgb(249,249,15)" d="M0,181h50v20h-50z"></path>
        <g font-family="Arial" font-size="9" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          15.8556
@@ -1186,22 +1186,22 @@
      <path d="M0,0H301V201H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
       <g>
-       <path fill="rgb(38,62,168)" d="M100,80h51v-20h-51zm51,41h50v-121h-50zm50,60h50v-181h-50zm50,20h50v-201h-50z"></path>
-       <path fill="rgb(22,82,205)" d="M100,60h51v-60h-51zm51,101h50v-40h-50z"></path>
-       <path fill="rgb(16,100,220)" d="M151,181h50v-20h-50z"></path>
-       <path fill="rgb(18,114,217)" d="M100,161h51v-60h-51z"></path>
-       <path fill="rgb(20,129,214)" d="M100,101h51v-21h-51zM201,201h50v-20h-50z"></path>
-       <path fill="rgb(14,143,209)" d="M50,20h50v-20h-50zM151,201h50v-20h-50z"></path>
-       <path fill="rgb(9,157,204)" d="M50,40h50v-20h-50zm50,141h51v-20h-51z"></path>
-       <path fill="rgb(13,167,195)" d="M50,80h50v-40h-50z"></path>
-       <path fill="rgb(30,175,179)" d="M50,101h50v-21h-50z"></path>
-       <path fill="rgb(46,183,164)" d="M50,121h50v-20h-50zm50,80h51v-20h-51z"></path>
-       <path fill="rgb(82,186,146)" d="M50,141h50v-20h-50z"></path>
-       <path fill="rgb(116,189,129)" d="M50,161h50v-20h-50z"></path>
-       <path fill="rgb(179,189,101)" d="M50,181h50v-20h-50z"></path>
-       <path fill="rgb(209,187,89)" d="M50,201h50v-20h-50z"></path>
-       <path fill="rgb(251,230,29)" d="M0,161h50v-20h-50zM0,60h50v-60h-50z"></path>
-       <path fill="rgb(249,249,15)" d="M0,201h50v-40h-50zM0,141h50v-81h-50z"></path>
+       <path fill="rgb(38,62,168)" d="M100,60h51v20h-51zM151,0h50v121h-50zm50,0h50v181h-50zm50,0h50v201h-50z"></path>
+       <path fill="rgb(22,82,205)" d="M100,0h51v60h-51zm51,121h50v40h-50z"></path>
+       <path fill="rgb(16,100,220)" d="M151,161h50v20h-50z"></path>
+       <path fill="rgb(18,114,217)" d="M100,101h51v60h-51z"></path>
+       <path fill="rgb(20,129,214)" d="M100,80h51v21h-51zM201,181h50v20h-50z"></path>
+       <path fill="rgb(14,143,209)" d="M50,0h50v20h-50zM151,181h50v20h-50z"></path>
+       <path fill="rgb(9,157,204)" d="M50,20h50v20h-50zm50,141h51v20h-51z"></path>
+       <path fill="rgb(13,167,195)" d="M50,40h50v40h-50z"></path>
+       <path fill="rgb(30,175,179)" d="M50,80h50v21h-50z"></path>
+       <path fill="rgb(46,183,164)" d="M50,101h50v20h-50zm50,80h51v20h-51z"></path>
+       <path fill="rgb(82,186,146)" d="M50,121h50v20h-50z"></path>
+       <path fill="rgb(116,189,129)" d="M50,141h50v20h-50z"></path>
+       <path fill="rgb(179,189,101)" d="M50,161h50v20h-50z"></path>
+       <path fill="rgb(209,187,89)" d="M50,181h50v20h-50z"></path>
+       <path fill="rgb(251,230,29)" d="M0,0h50v60h-50zM0,141h50v20h-50z"></path>
+       <path fill="rgb(249,249,15)" d="M0,60h50v81h-50zM0,161h50v40h-50z"></path>
        <g font-family="Arial" font-size="10" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          5.7080
@@ -1512,22 +1512,22 @@
      <path d="M0,0H301V201H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
       <g>
-       <path fill="rgb(16,100,220)" d="M0,201h50v-201h-50z"></path>
-       <path fill="rgb(18,114,217)" d="M50,201h50v-201h-50zm50,0h51v-20h-51z"></path>
-       <path fill="rgb(20,129,214)" d="M100,181h51v-20h-51z"></path>
-       <path fill="rgb(14,143,209)" d="M100,161h51v-20h-51zm51,40h50v-20h-50z"></path>
-       <path fill="rgb(9,157,204)" d="M100,141h51v-20h-51z"></path>
-       <path fill="rgb(13,167,195)" d="M100,121h51v-20h-51zm51,60h50v-20h-50z"></path>
-       <path fill="rgb(30,175,179)" d="M100,80h51v-20h-51z"></path>
-       <path fill="rgb(46,183,164)" d="M100,101h51v-21h-51zm0,-41h51v-20h-51zm51,101h50v-20h-50zm50,40h50v-20h-50z"></path>
-       <path fill="rgb(82,186,146)" d="M100,40h51v-40h-51zM251,201h50v-20h-50z"></path>
-       <path fill="rgb(149,190,113)" d="M151,141h50v-20h-50z"></path>
-       <path fill="rgb(179,189,101)" d="M151,121h50v-20h-50zm50,60h50v-20h-50z"></path>
-       <path fill="rgb(226,192,75)" d="M151,101h50v-21h-50z"></path>
-       <path fill="rgb(244,198,59)" d="M151,80h50v-20h-50zm50,81h50v-20h-50z"></path>
-       <path fill="rgb(253,210,43)" d="M151,60h50v-20h-50z"></path>
-       <path fill="rgb(251,230,29)" d="M151,40h50v-20h-50z"></path>
-       <path fill="rgb(249,249,15)" d="M151,20h50v-20h-50zm50,121h50v-20h-50zm50,40h50v-20h-50z"></path>
+       <path fill="rgb(16,100,220)" d="M0,0h50v201h-50z"></path>
+       <path fill="rgb(18,114,217)" d="M50,0h50v201h-50zm50,181h51v20h-51z"></path>
+       <path fill="rgb(20,129,214)" d="M100,161h51v20h-51z"></path>
+       <path fill="rgb(14,143,209)" d="M100,141h51v20h-51zm51,40h50v20h-50z"></path>
+       <path fill="rgb(9,157,204)" d="M100,121h51v20h-51z"></path>
+       <path fill="rgb(13,167,195)" d="M100,101h51v20h-51zm51,60h50v20h-50z"></path>
+       <path fill="rgb(30,175,179)" d="M100,60h51v20h-51z"></path>
+       <path fill="rgb(46,183,164)" d="M100,40h51v20h-51zm0,40h51v21h-51zm51,61h50v20h-50zm50,40h50v20h-50z"></path>
+       <path fill="rgb(82,186,146)" d="M100,0h51v40h-51zM251,181h50v20h-50z"></path>
+       <path fill="rgb(149,190,113)" d="M151,121h50v20h-50z"></path>
+       <path fill="rgb(179,189,101)" d="M151,101h50v20h-50zm50,60h50v20h-50z"></path>
+       <path fill="rgb(226,192,75)" d="M151,80h50v21h-50z"></path>
+       <path fill="rgb(244,198,59)" d="M151,60h50v20h-50zm50,81h50v20h-50z"></path>
+       <path fill="rgb(253,210,43)" d="M151,40h50v20h-50z"></path>
+       <path fill="rgb(251,230,29)" d="M151,20h50v20h-50z"></path>
+       <path fill="rgb(249,249,15)" d="M151,0h50v20h-50zm50,121h50v20h-50zm50,40h50v20h-50z"></path>
        <g font-family="Arial" font-size="7" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          0.3600
@@ -1796,15 +1796,15 @@
      <path d="M0,0H301V201H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
       <g>
-       <path fill="rgb(38,62,168)" d="M50,181h50v-181h-50zm50,20h51v-201h-51zm51,0h50v-201h-50zm50,0h50v-201h-50zm50,0h50v-201h-50z"></path>
-       <path fill="rgb(22,82,205)" d="M50,201h50v-20h-50z"></path>
-       <path fill="rgb(16,100,220)" d="M0,60h50v-60h-50z"></path>
-       <path fill="rgb(18,114,217)" d="M0,101h50v-41h-50z"></path>
-       <path fill="rgb(20,129,214)" d="M0,121h50v-20h-50z"></path>
-       <path fill="rgb(14,143,209)" d="M0,141h50v-20h-50z"></path>
-       <path fill="rgb(13,167,195)" d="M0,161h50v-20h-50z"></path>
-       <path fill="rgb(82,186,146)" d="M0,181h50v-20h-50z"></path>
-       <path fill="rgb(249,249,15)" d="M0,201h50v-20h-50z"></path>
+       <path fill="rgb(38,62,168)" d="M50,0h50v181h-50zm50,0h51v201h-51zm51,0h50v201h-50zm50,0h50v201h-50zm50,0h50v201h-50z"></path>
+       <path fill="rgb(22,82,205)" d="M50,181h50v20h-50z"></path>
+       <path fill="rgb(16,100,220)" d="M0,0h50v60h-50z"></path>
+       <path fill="rgb(18,114,217)" d="M0,60h50v41h-50z"></path>
+       <path fill="rgb(20,129,214)" d="M0,101h50v20h-50z"></path>
+       <path fill="rgb(14,143,209)" d="M0,121h50v20h-50z"></path>
+       <path fill="rgb(13,167,195)" d="M0,141h50v20h-50z"></path>
+       <path fill="rgb(82,186,146)" d="M0,161h50v20h-50z"></path>
+       <path fill="rgb(249,249,15)" d="M0,181h50v20h-50z"></path>
        <g font-family="Arial" font-size="7" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          1713.8334
@@ -2115,19 +2115,19 @@
      <path d="M0,0H301V201H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
       <g>
-       <path fill="rgb(38,62,168)" d="M100,101h51v-21h-51zm0,-41h51v-60h-51zm51,121h50v-181h-50zm50,20h50v-201h-50zm50,0h50v-201h-50z"></path>
-       <path fill="rgb(22,82,205)" d="M100,121h51v-20h-51zm0,-41h51v-20h-51z"></path>
-       <path fill="rgb(18,114,217)" d="M100,141h51v-20h-51zm51,60h50v-20h-50z"></path>
-       <path fill="rgb(20,129,214)" d="M100,161h51v-20h-51z"></path>
-       <path fill="rgb(9,157,204)" d="M100,181h51v-20h-51z"></path>
-       <path fill="rgb(46,183,164)" d="M100,201h51v-20h-51z"></path>
-       <path fill="rgb(116,189,129)" d="M50,20h50v-20h-50z"></path>
-       <path fill="rgb(149,190,113)" d="M50,60h50v-40h-50z"></path>
-       <path fill="rgb(179,189,101)" d="M50,80h50v-20h-50z"></path>
-       <path fill="rgb(209,187,89)" d="M50,121h50v-41h-50z"></path>
-       <path fill="rgb(226,192,75)" d="M50,141h50v-20h-50z"></path>
-       <path fill="rgb(244,198,59)" d="M50,201h50v-60h-50z"></path>
-       <path fill="rgb(249,249,15)" d="M0,201h50v-201h-50z"></path>
+       <path fill="rgb(38,62,168)" d="M100,0h51v60h-51zm0,80h51v21h-51zM151,0h50v181h-50zm50,0h50v201h-50zm50,0h50v201h-50z"></path>
+       <path fill="rgb(22,82,205)" d="M100,60h51v20h-51zm0,41h51v20h-51z"></path>
+       <path fill="rgb(18,114,217)" d="M100,121h51v20h-51zm51,60h50v20h-50z"></path>
+       <path fill="rgb(20,129,214)" d="M100,141h51v20h-51z"></path>
+       <path fill="rgb(9,157,204)" d="M100,161h51v20h-51z"></path>
+       <path fill="rgb(46,183,164)" d="M100,181h51v20h-51z"></path>
+       <path fill="rgb(116,189,129)" d="M50,0h50v20h-50z"></path>
+       <path fill="rgb(149,190,113)" d="M50,20h50v40h-50z"></path>
+       <path fill="rgb(179,189,101)" d="M50,60h50v20h-50z"></path>
+       <path fill="rgb(209,187,89)" d="M50,80h50v41h-50z"></path>
+       <path fill="rgb(226,192,75)" d="M50,121h50v20h-50z"></path>
+       <path fill="rgb(244,198,59)" d="M50,141h50v60h-50z"></path>
+       <path fill="rgb(249,249,15)" d="M0,0h50v201h-50z"></path>
        <g font-family="Arial" font-size="10" space="preserve">
         <text fill="black" text-anchor="middle" dy=".4em" transform="translate(25,191)">
          1
