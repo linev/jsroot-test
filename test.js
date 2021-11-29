@@ -205,7 +205,7 @@ processNextOption = reset_mathjax => {
             keyid = null;
             return processNextOption();
          }
-         if (++optid>=opts.length) {
+         if (++optid >= opts.length) {
             optid = -1;
             let found = false, next = null;
             for (let key in examples_main) {
@@ -222,6 +222,16 @@ processNextOption = reset_mathjax => {
    }
 
    entry = opts[optid];
+
+   if ((theOnlyOptionId >= 0) && !entry.file && !entry.json && !entry.url) {
+      let rid = optid;
+      while (--rid >= 0) {
+         let sentry = opts[rid];
+         if (sentry.file && sentry.item) {
+            entry.file = sentry.file; entry.item = sentry.item; break;
+         }
+      }
+   }
 
    entry_name = "";
 
@@ -268,7 +278,7 @@ processNextOption = reset_mathjax => {
            itemid = 0;
          }
       }
-      if (itemid>=0) {
+      if (itemid >= 0) {
          itemname = entry.items[itemid];
          if (entry.opts && (itemid < entry.opts.length)) opt = entry.opts[itemid];
       }
