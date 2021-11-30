@@ -6,9 +6,9 @@
  <g>
   <g transform="translate(120,80)" font-family="Arial" font-size="28" space="preserve" font-weight="bold">
    <path d="M4,4v640h960v-640z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0H960V640H0Z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H960V640H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="21" space="preserve" font-weight="bold">
-    <path d="M240,-13h480v26h-480z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
+    <path d="M240,-13h480v26h-480z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(480)">
      Born equation
     </text>

@@ -2,11 +2,11 @@
  <title>
   ROOT canvas
  </title>
- <path d="M0,0H1200V800H0Z" style="fill: rgb(222,186,135);"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: #deba87;"></path>
  <g>
   <g transform="translate(120,80)">
    <title></title>
-   <path d="M0,0H960V640H0Z" style="fill: rgb(222,186,135); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H960V640H0Z" style="fill: #deba87; stroke: black; stroke-width: 1;"></path>
    <g>
     <path d="M43,0v640M148,0v640M253,0v640M359,0v640M464,0v640M569,0v640M675,0v640M780,0v640M885,0v640" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
     <path d="M0,606h960M0,540h960M0,473h960M0,407h960M0,340h960M0,273h960M0,207h960M0,140h960M0,74h960M0,7h960" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
@@ -470,7 +470,7 @@
    </text>
   </g>
   <g transform="translate(360,80)" font-family="Arial" font-size="26" space="preserve">
-   <path d="M0,0H420V160H0Z" style="fill: rgb(222,186,135); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H420V160H0Z" style="fill: #deba87; stroke: black; stroke-width: 1;"></path>
    <path d="M49,26l8,8m0,-8l-8,8m0,-4h8m-4,-4v8" style="stroke: black; fill: none;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(105,30)">
     -7 + 2*x*x + x*x*x
