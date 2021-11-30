@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+ <title>
+  ROOT canvas
+ </title>
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
+ <g>
+  <g transform="translate(120,80)">
+   <title></title>
+   <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <g>
+    <path d="M132,0v640M306,0v640M480,0v640M654,0v640M828,0v640" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+    <path d="M0,587h960M0,490h960M0,393h960M0,296h960M0,199h960M0,102h960M0,5h960" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+   </g>
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
+    <g>
+     <g>
+      <path d="M128,490a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM302,296a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM476,102a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM650,393a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM824,199a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: black; fill: black;"></path>
+     </g>
+     <g>
+      <g transform="translate(132,490)">
+       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52M0,0H52M0,0V97M0,0V-48"></path>
+      </g>
+      <g transform="translate(306,296)">
+       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52M0,0H52M0,0V48M0,0V-97"></path>
+      </g>
+      <g transform="translate(480,102)">
+       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52M0,0H52M0,0V97M0,0V-48"></path>
+      </g>
+      <g transform="translate(654,393)">
+       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52M0,0H52M0,0V48M0,0V-97"></path>
+      </g>
+      <g transform="translate(828,199)">
+       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52M0,0H52M0,0V97M0,0V-48"></path>
+      </g>
+     </g>
+     <g>
+      <g transform="translate(132,490)">
+       <path d="M-26,48H26V-58H-26Z" style="fill: none; stroke: rgb(0,0,255); stroke-width: 1;"></path>
+      </g>
+      <g transform="translate(306,296)">
+       <path d="M-26,39H26V-68H-26Z" style="fill: none; stroke: rgb(0,0,255); stroke-width: 1;"></path>
+      </g>
+      <g transform="translate(480,102)">
+       <path d="M-26,78H26V-58H-26Z" style="fill: none; stroke: rgb(0,0,255); stroke-width: 1;"></path>
+      </g>
+      <g transform="translate(654,393)">
+       <path d="M-26,29H26V-39H-26Z" style="fill: none; stroke: rgb(0,0,255); stroke-width: 1;"></path>
+      </g>
+      <g transform="translate(828,199)">
+       <path d="M-26,116H26V-78H-26Z" style="fill: none; stroke: rgb(0,0,255); stroke-width: 1;"></path>
+      </g>
+     </g>
+    </g>
+   </svg>
+   <g>
+    <g transform="translate(0,640)">
+     <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M28,-12v12m35,-12v12m34,-12v12m35,-24v24m35,-12v12m35,-12v12m35,-12v12m34,-12v12m35,-24v24m35,-12v12m35,-12v12m34,-12v12m35,-12v12m35,-24v24m35,-12v12m35,-12v12m34,-12v12m35,-12v12m35,-24v24m35,-12v12m34,-12v12m35,-12v12m35,-12v12m35,-24v24m35,-12v12m34,-12v12m35,-12v12" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(132,6)">
+       0
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(306,6)">
+       1
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480,6)">
+       2
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(654,6)">
+       3
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(828,6)">
+       4
+      </text>
+     </g>
+    </g>
+    <g>
+     <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M18,625h-18m18,-19h-18m36,-19h-36m18,-20h-18m18,-19h-18m18,-20h-18m18,-19h-18m36,-19h-36m18,-20h-18m18,-19h-18m18,-19h-18m18,-20h-18m36,-19h-36m18,-20h-18m18,-19h-18m18,-19h-18m18,-20h-18m36,-19h-36m18,-20h-18m18,-19h-18m18,-19h-18m18,-20h-18m36,-19h-36m18,-20h-18m18,-19h-18m18,-19h-18m18,-20h-18m36,-19h-36m18,-20h-18m18,-19h-18m18,-19h-18m18,-20h-18m36,-19h-36" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,587)">
+       -1
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,490)">
+       0
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,393)">
+       1
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,296)">
+       2
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,199)">
+       3
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,102)">
+       4
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,5)">
+       5
+      </text>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
+   <path d="M0,0H960V53H0Z" style="fill: none;"></path>
+   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
+    TGraphMultiErrors Example
+   </text>
+  </g>
+ </g>
+</svg>
