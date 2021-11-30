@@ -13,7 +13,7 @@
    </g>
    <svg x="0" y="0" overflow="hidden" width="960" height="600" viewBox="0 0 960 600">
     <g>
-     <path d="M0,100h48v73h48v291h48v-316h48v291h48v-218h48v352h48v-37h48v-206h48v-72h48v121h48v-243h48v-60h48v145h48v-194h48v194h48v-97h48v158h48v36h48v49h48L960,603L0,603Z" style="stroke-linejoin: miter; stroke: rgb(0,0,154); stroke-width: 1; fill: rgb(125,154,210);"></path>
+     <path d="M0,100h48v73h48v291h48v-316h48v291h48v-218h48v352h48v-37h48v-206h48v-72h48v121h48v-243h48v-60h48v145h48v-194h48v194h48v-97h48v158h48v36h48v49h48L960,603L0,603Z" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: #7d9ad2;"></path>
     </g>
    </svg>
    <g>
@@ -129,7 +129,7 @@
   </g>
   <g transform="translate(840,16)" font-family="Arial" font-size="12" space="preserve" font-weight="bold">
    <path d="M4,4v104h336v-104z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0H336V104H0Z" style="fill: rgb(230,230,230); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H336V104H0Z" style="fill: #e6e6e6; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(17,13)">
     Use the axis Context Menu LabelsOption
    </text>
