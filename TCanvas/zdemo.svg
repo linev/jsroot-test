@@ -2,12 +2,12 @@
  <title>
   ROOT canvas
  </title>
- <path d="M0,0H1200V800H0Z" style="fill: rgb(171,166,191);"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: #aba6bf;"></path>
  <g>
   <g transform="translate(48,22)" font-family="Times New Roman" font-size="24" space="preserve" font-weight="bold" font-style="italic">
    <path d="M3,3v53h1104v-53z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0H1104V53H0Z" style="fill: rgb(229,229,229); stroke: black; stroke-width: 1;"></path>
-   <text fill="rgb(148,105,112)" text-anchor="middle" dy=".4em" transform="translate(552,27)">
+   <path d="M0,0H1104V53H0Z" style="fill: #e5e5e5; stroke: black; stroke-width: 1;"></path>
+   <text fill="#946970" text-anchor="middle" dy=".4em" transform="translate(552,27)">
     Z-scaling of       Direct Photon Productions in pp Collisions at RHIC Energies
    </text>
   </g>
@@ -22,22 +22,22 @@
    </text>
   </g>
   <svg viewBox="0 0 552 648" preserveAspectRatio="none" x="24" y="136" width="552" height="648">
-   <path d="M0,0H552V648H0Z" style="fill: rgb(173,189,199);"></path>
+   <path d="M0,0H552V648H0Z" style="fill: #adbdc7;"></path>
    <g>
     <g transform="translate(55,65)">
      <title></title>
-     <path d="M0,0H442V518H0Z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H442V518H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="442" height="518" viewBox="0 0 442 518">
       <g>
-       <path d="M130,61l38,60l28,48l21,44l17,41l14,40l13,42l11,45l10,48l9,55" style="stroke: rgb(125,153,209); stroke-width: 1; fill: none;"></path>
+       <path d="M130,61l38,60l28,48l21,44l17,41l14,40l13,42l11,45l10,48l9,55" style="stroke: #7d99d1; stroke-width: 1; fill: none;"></path>
        <path d="M126,56v9h9v-9zM164,116v9h9v-9zM191,165v9h9v-9zM212,208v9h9v-9zM229,249v9h9v-9zM244,290v9h9v-9zM256,332v9h9v-9zM267,376v9h9v-9zM277,425v9h9v-9zM286,480v9h9v-9z" style="stroke: blue; fill: blue;"></path>
       </g>
       <g>
-       <path d="M130,29l87,117l44,66l30,50l22,43l19,40l15,39l13,38l12,40l10,43" style="stroke: rgb(125,153,209); stroke-width: 1; fill: none;"></path>
+       <path d="M130,29l87,117l44,66l30,50l22,43l19,40l15,39l13,38l12,40l10,43" style="stroke: #7d99d1; stroke-width: 1; fill: none;"></path>
        <path d="M130.4,23.2l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM216.5,139.8l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM260.7,206.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM290.7,256.3l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM313.3,299.5l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM331.6,339.3l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM346.9,377.8l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM360.0,416.4l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM371.5,456.3l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM381.8,498.7l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5z" style="stroke: red; fill: red;"></path>
       </g>
       <g>
-       <path d="M130,12l118,152l51,70l33,48l24,38l19,33l16,29l14,28l12,26l10,26" style="stroke: rgb(125,153,209); stroke-width: 1; fill: none;"></path>
+       <path d="M130,12l118,152l51,70l33,48l24,38l19,33l16,29l14,28l12,26l10,26" style="stroke: #7d99d1; stroke-width: 1; fill: none;"></path>
        <path d="M126,12a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM244,164a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM295,234a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM328,282a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM352,320a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM371,353a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM387,382a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM401,410a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM413,436a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM423,462a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: magenta; fill: magenta;"></path>
       </g>
       <g>
@@ -166,52 +166,52 @@
      </g>
     </g>
     <g font-family="Arial" font-size="40" space="preserve" font-weight="bold">
-     <text fill="rgb(105,130,150)" text-anchor="start" dy=".4em" transform="translate(331,97)">
+     <text fill="#698296" text-anchor="start" dy=".4em" transform="translate(331,97)">
       p - p
      </text>
     </g>
     <g font-family="Arial" font-size="25" space="preserve" font-weight="bold">
      <g transform="translate(331,145)">
-      <text fill="rgb(105,130,150)" font-size="25">
+      <text fill="#698296" font-size="25">
        Direct γ
       </text>
      </g>
     </g>
     <g font-family="Arial" font-size="25" space="preserve" font-weight="bold">
      <g transform="translate(331,172)">
-      <text fill="rgb(105,130,150)" font-size="25">
+      <text fill="#698296" font-size="25">
        θ = 90
       </text>
-      <text fill="rgb(105,130,150)" font-size="15" transform="translate(72,-12)">
+      <text fill="#698296" font-size="15" transform="translate(72,-12)">
        o
       </text>
      </g>
     </g>
     <g font-family="Arial" font-size="25" space="preserve" font-weight="bold">
      <g transform="translate(110,366)">
-      <text fill="rgb(105,130,150)" font-size="25">
+      <text fill="#698296" font-size="25">
        Ed
       </text>
-      <text fill="rgb(105,130,150)" font-size="15" transform="translate(31,-12)">
+      <text fill="#698296" font-size="15" transform="translate(31,-12)">
        3
       </text>
-      <text fill="rgb(105,130,150)" font-size="25" x="40">
+      <text fill="#698296" font-size="25" x="40">
        σ/dq
       </text>
-      <text fill="rgb(105,130,150)" font-size="15" transform="translate(92,-12)">
+      <text fill="#698296" font-size="15" transform="translate(92,-12)">
        3
       </text>
      </g>
     </g>
     <g font-family="Arial" font-size="25" space="preserve" font-weight="bold">
      <g transform="translate(99,399)">
-      <text fill="rgb(105,130,150)" font-size="25">
+      <text fill="#698296" font-size="25">
        (barn/Gev
       </text>
-      <text fill="rgb(105,130,150)" font-size="15" transform="translate(115,-12)">
+      <text fill="#698296" font-size="15" transform="translate(115,-12)">
        2
       </text>
-      <text fill="rgb(105,130,150)" font-size="25" x="124">
+      <text fill="#698296" font-size="25" x="124">
        )
       </text>
      </g>
@@ -271,15 +271,15 @@
    </g>
   </svg>
   <svg viewBox="0 0 552 648" preserveAspectRatio="none" x="624" y="136" width="552" height="648">
-   <path d="M0,0H552V648H0Z" style="fill: rgb(173,189,199);"></path>
+   <path d="M0,0H552V648H0Z" style="fill: #adbdc7;"></path>
    <g>
     <g transform="translate(55,65)">
      <title></title>
-     <path d="M0,0H442V518H0Z" style="fill: rgb(242,242,242); stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H442V518H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="442" height="518" viewBox="0 0 442 518">
       <g>
-       <path d="M63,25l78,119l39,60l29,44l25,38l22,33l21,32l20,31l20,30l19,30" style="stroke: rgb(89,84,217); stroke-width: 1; fill: none;"></path>
-       <path d="M62.7,19.1l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM140.7,138.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM179.8,197.7l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM208.9,242.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM233.5,279.5l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM255.7,313.4l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM276.6,345.1l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM296.7,375.8l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM316.6,406.1l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM336.4,436.3l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5z" style="stroke: rgb(212,89,84); fill: rgb(212,89,84);"></path>
+       <path d="M63,25l78,119l39,60l29,44l25,38l22,33l21,32l20,31l20,30l19,30" style="stroke: #5954d9; stroke-width: 1; fill: none;"></path>
+       <path d="M62.7,19.1l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM140.7,138.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM179.8,197.7l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM208.9,242.0l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM233.5,279.5l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM255.7,313.4l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM276.6,345.1l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM296.7,375.8l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM316.6,406.1l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5zM336.4,436.3l4.0,12.0l-10.0,-7.5h12.0l-10.0,7.5z" style="stroke: #d45954; fill: #d45954;"></path>
       </g>
      </svg>
      <g>
@@ -450,62 +450,62 @@
      </g>
     </g>
     <g font-family="Arial" font-size="40" space="preserve" font-weight="bold">
-     <text fill="rgb(105,130,150)" text-anchor="start" dy=".4em" transform="translate(331,97)">
+     <text fill="#698296" text-anchor="start" dy=".4em" transform="translate(331,97)">
       p - p
      </text>
     </g>
     <g font-family="Arial" font-size="25" space="preserve" font-weight="bold">
      <g transform="translate(331,145)">
-      <text fill="rgb(105,130,150)" font-size="25">
+      <text fill="#698296" font-size="25">
        Direct γ
       </text>
      </g>
     </g>
     <g font-family="Arial" font-size="25" space="preserve" font-weight="bold">
      <g transform="translate(331,172)">
-      <text fill="rgb(105,130,150)" font-size="25">
+      <text fill="#698296" font-size="25">
        θ = 90
       </text>
-      <text fill="rgb(105,130,150)" font-size="15" transform="translate(72,-12)">
+      <text fill="#698296" font-size="15" transform="translate(72,-12)">
        o
       </text>
      </g>
     </g>
     <g font-family="Arial" font-size="25" space="preserve" font-weight="bold">
-     <text fill="rgb(105,130,150)" text-anchor="start" dy=".4em" transform="translate(386,292)">
+     <text fill="#698296" text-anchor="start" dy=".4em" transform="translate(386,292)">
       H(z)
      </text>
     </g>
     <g font-family="Arial" font-size="25" space="preserve" font-weight="bold">
-     <text fill="rgb(105,130,150)" text-anchor="start" dy=".4em" transform="translate(375,324)">
+     <text fill="#698296" text-anchor="start" dy=".4em" transform="translate(375,324)">
       (barn)
      </text>
     </g>
     <g font-family="Arial" font-size="22" space="preserve" font-weight="bold">
      <g transform="translate(110,463)">
       <g>
-       <path style="stroke: rgb(207,94,97); stroke-width: 2; fill: none;" d="M0,-8h3l3,9l3,-22h16v3"></path>
-       <text fill="rgb(207,94,97)" font-size="22" transform="translate(10)">
+       <path style="stroke: #cf5e61; stroke-width: 2; fill: none;" d="M0,-8h3l3,9l3,-22h16v3"></path>
+       <text fill="#cf5e61" font-size="22" transform="translate(10)">
         s
        </text>
       </g>
-      <text fill="rgb(207,94,97)" font-size="22" x="27">
+      <text fill="#cf5e61" font-size="22" x="27">
        , GeV
       </text>
      </g>
     </g>
     <g font-family="Arial" font-size="22" space="preserve" font-weight="bold">
-     <text fill="rgb(207,94,97)" text-anchor="start" dy=".4em" transform="translate(121,480)">
+     <text fill="#cf5e61" text-anchor="start" dy=".4em" transform="translate(121,480)">
       63
      </text>
     </g>
     <g font-family="Arial" font-size="22" space="preserve" font-weight="bold">
-     <text fill="rgb(207,94,97)" text-anchor="start" dy=".4em" transform="translate(121,505)">
+     <text fill="#cf5e61" text-anchor="start" dy=".4em" transform="translate(121,505)">
       200
      </text>
     </g>
     <g font-family="Arial" font-size="22" space="preserve" font-weight="bold">
-     <text fill="rgb(207,94,97)" text-anchor="start" dy=".4em" transform="translate(121,531)">
+     <text fill="#cf5e61" text-anchor="start" dy=".4em" transform="translate(121,531)">
       500
      </text>
     </g>
