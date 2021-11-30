@@ -10,54 +10,34 @@
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
      <g>
-      <g transform="translate(132,490)">
-       <path d="M-52,97H52V-48H-52Z" style="fill: white; stroke: rgb(255,0,0); stroke-width: 1;"></path>
-      </g>
+      <path d="M128,490a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM302,296a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM476,102a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM650,393a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM824,199a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: black; fill: black;"></path>
+     </g>
+     <g>
       <g transform="translate(306,296)">
-       <path d="M-52,48H52V-97H-52Z" style="fill: white; stroke: rgb(255,0,0); stroke-width: 1;"></path>
+       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52l3,5m0,-10l-3,5M0,0H52l-3,5m0,-10l3,5M0,0V48l-5,-3m10,0l-5,3M0,0V-97l-5,3m10,0l-5,-3"></path>
       </g>
       <g transform="translate(480,102)">
-       <path d="M-52,97H52V-48H-52Z" style="fill: white; stroke: rgb(255,0,0); stroke-width: 1;"></path>
+       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52l3,5m0,-10l-3,5M0,0H52l-3,5m0,-10l3,5M0,0V97l-5,-3m10,0l-5,3M0,0V-48l-5,3m10,0l-5,-3"></path>
       </g>
       <g transform="translate(654,393)">
-       <path d="M-52,48H52V-97H-52Z" style="fill: white; stroke: rgb(255,0,0); stroke-width: 1;"></path>
+       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52l3,5m0,-10l-3,5M0,0H52l-3,5m0,-10l3,5M0,0V48l-5,-3m10,0l-5,3M0,0V-97l-5,3m10,0l-5,-3"></path>
       </g>
       <g transform="translate(828,199)">
-       <path d="M-52,97H52V-48H-52Z" style="fill: white; stroke: rgb(255,0,0); stroke-width: 1;"></path>
+       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52l3,5m0,-10l-3,5M0,0H52l-3,5m0,-10l3,5M0,0V97l-5,-3m10,0l-5,3M0,0V-48l-5,3m10,0l-5,-3"></path>
       </g>
      </g>
      <g>
-      <g transform="translate(132,490)">
-       <path d="M-52,97H52V-48H-52Z" style="fill: white; stroke: rgb(255,0,0); stroke-width: 1;"></path>
-      </g>
       <g transform="translate(306,296)">
-       <path d="M-52,48H52V-97H-52Z" style="fill: white; stroke: rgb(255,0,0); stroke-width: 1;"></path>
+       <path style="stroke: rgb(0,0,255); stroke-width: 1; fill: none;" d="M-52,0m2,3h-2v-6h2M52,0m-2,3h2v-6h-2M0,39m-3,-2v2h6v-2M0,-68m-3,2v-2h6v2"></path>
       </g>
       <g transform="translate(480,102)">
-       <path d="M-52,97H52V-48H-52Z" style="fill: white; stroke: rgb(255,0,0); stroke-width: 1;"></path>
+       <path style="stroke: rgb(0,0,255); stroke-width: 1; fill: none;" d="M-52,0m2,3h-2v-6h2M52,0m-2,3h2v-6h-2M0,78m-3,-2v2h6v-2M0,-58m-3,2v-2h6v2"></path>
       </g>
       <g transform="translate(654,393)">
-       <path d="M-52,48H52V-97H-52Z" style="fill: white; stroke: rgb(255,0,0); stroke-width: 1;"></path>
+       <path style="stroke: rgb(0,0,255); stroke-width: 1; fill: none;" d="M-52,0m2,3h-2v-6h2M52,0m-2,3h2v-6h-2M0,29m-3,-2v2h6v-2M0,-39m-3,2v-2h6v2"></path>
       </g>
       <g transform="translate(828,199)">
-       <path d="M-52,97H52V-48H-52Z" style="fill: white; stroke: rgb(255,0,0); stroke-width: 1;"></path>
-      </g>
-     </g>
-     <g>
-      <g transform="translate(132,490)">
-       <path d="M-52,48H52V-58H-52Z" style="fill: white; stroke: rgb(255,0,0); stroke-width: 1;"></path>
-      </g>
-      <g transform="translate(306,296)">
-       <path d="M-52,39H52V-68H-52Z" style="fill: white; stroke: rgb(255,0,0); stroke-width: 1;"></path>
-      </g>
-      <g transform="translate(480,102)">
-       <path d="M-52,78H52V-58H-52Z" style="fill: white; stroke: rgb(255,0,0); stroke-width: 1;"></path>
-      </g>
-      <g transform="translate(654,393)">
-       <path d="M-52,29H52V-39H-52Z" style="fill: white; stroke: rgb(255,0,0); stroke-width: 1;"></path>
-      </g>
-      <g transform="translate(828,199)">
-       <path d="M-52,116H52V-78H-52Z" style="fill: white; stroke: rgb(255,0,0); stroke-width: 1;"></path>
+       <path style="stroke: rgb(0,0,255); stroke-width: 1; fill: none;" d="M-52,0m2,3h-2v-6h2M52,0m-2,3h2v-6h-2M0,116m-3,-2v2h6v-2M0,-78m-3,2v-2h6v2"></path>
       </g>
      </g>
     </g>

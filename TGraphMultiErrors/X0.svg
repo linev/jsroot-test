@@ -10,49 +10,38 @@
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
      <g>
-      <g transform="translate(306,296)">
-       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52m0,3v-6M0,0H52m0,3v-6M0,0V48m3,0h-6M0,0V-97m3,0h-6"></path>
-      </g>
-      <g transform="translate(480,102)">
-       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52m0,3v-6M0,0H52m0,3v-6M0,0V97m3,0h-6M0,0V-48m3,0h-6"></path>
-      </g>
-      <g transform="translate(654,393)">
-       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52m0,3v-6M0,0H52m0,3v-6M0,0V48m3,0h-6M0,0V-97m3,0h-6"></path>
-      </g>
-      <g transform="translate(828,199)">
-       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52m0,3v-6M0,0H52m0,3v-6M0,0V97m3,0h-6M0,0V-48m3,0h-6"></path>
-      </g>
       <path d="M128,490a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM302,296a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM476,102a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM650,393a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM824,199a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: black; fill: black;"></path>
      </g>
      <g>
       <g transform="translate(306,296)">
-       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52m0,3v-6M0,0H52m0,3v-6M0,0V48m3,0h-6M0,0V-97m3,0h-6"></path>
+       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52M0,0H52M0,0V48M0,0V-97"></path>
       </g>
       <g transform="translate(480,102)">
-       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52m0,3v-6M0,0H52m0,3v-6M0,0V97m3,0h-6M0,0V-48m3,0h-6"></path>
+       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52M0,0H52M0,0V97M0,0V-48"></path>
       </g>
       <g transform="translate(654,393)">
-       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52m0,3v-6M0,0H52m0,3v-6M0,0V48m3,0h-6M0,0V-97m3,0h-6"></path>
+       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52M0,0H52M0,0V48M0,0V-97"></path>
       </g>
       <g transform="translate(828,199)">
-       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52m0,3v-6M0,0H52m0,3v-6M0,0V97m3,0h-6M0,0V-48m3,0h-6"></path>
+       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52M0,0H52M0,0V97M0,0V-48"></path>
       </g>
-      <path d="M128,490a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM302,296a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM476,102a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM650,393a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM824,199a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: black; fill: black;"></path>
      </g>
      <g>
+      <g transform="translate(132,490)">
+       <path d="M-52,48H52V-58H-52Z" style="fill: none; stroke: rgb(0,0,255); stroke-width: 1;"></path>
+      </g>
       <g transform="translate(306,296)">
-       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52m0,3v-6M0,0H52m0,3v-6M0,0V39m3,0h-6M0,0V-68m3,0h-6"></path>
+       <path d="M-52,39H52V-68H-52Z" style="fill: none; stroke: rgb(0,0,255); stroke-width: 1;"></path>
       </g>
       <g transform="translate(480,102)">
-       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52m0,3v-6M0,0H52m0,3v-6M0,0V78m3,0h-6M0,0V-58m3,0h-6"></path>
+       <path d="M-52,78H52V-58H-52Z" style="fill: none; stroke: rgb(0,0,255); stroke-width: 1;"></path>
       </g>
       <g transform="translate(654,393)">
-       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52m0,3v-6M0,0H52m0,3v-6M0,0V29m3,0h-6M0,0V-39m3,0h-6"></path>
+       <path d="M-52,29H52V-39H-52Z" style="fill: none; stroke: rgb(0,0,255); stroke-width: 1;"></path>
       </g>
       <g transform="translate(828,199)">
-       <path style="stroke: rgb(255,0,0); stroke-width: 1; fill: none;" d="M0,0H-52m0,3v-6M0,0H52m0,3v-6M0,0V116m3,0h-6M0,0V-78m3,0h-6"></path>
+       <path d="M-52,116H52V-78H-52Z" style="fill: none; stroke: rgb(0,0,255); stroke-width: 1;"></path>
       </g>
-      <path d="M128,490a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM302,296a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM476,102a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM650,393a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM824,199a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: black; fill: black;"></path>
      </g>
     </g>
    </svg>
