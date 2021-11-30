@@ -9,15 +9,15 @@
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
-     <path fill="rgb(16,100,220)" d="M640,256h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53z"></path>
-     <path fill="rgb(46,183,164)" d="M107,128h53v256h-53zM427,512h53v128h-53zm53,0h53v128h-53zm53,0h54v128h-54zm54,0h53v128h-53zm53,0h53v128h-53zm53,0h54v128h-54z"></path>
-     <path fill="rgb(82,186,146)" d="M800,256h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53z"></path>
-     <path fill="rgb(116,189,129)" d="M0,0h53v128h-53zM53,0h54v128h-54zm54,0h53v128h-53zm53,512h53v128h-53zm53,0h54v128h-54z"></path>
-     <path fill="rgb(149,190,113)" d="M480,256h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53z"></path>
-     <path fill="rgb(179,189,101)" d="M747,512h53v128h-53zm53,0h53v128h-53zm53,0h54v128h-54zm54,0h53v128h-53z"></path>
-     <path fill="rgb(209,187,89)" d="M160,0h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53zm53,0h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53zm53,0h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53zm53,0h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53zm53,0h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53z"></path>
-     <path fill="rgb(253,210,43)" d="M267,512h53v128h-53zM320,256h53v384h-53zm53,0h54v384h-54zm54,0h53v256h-53z"></path>
-     <path fill="rgb(249,249,15)" d="M160,256h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53z"></path>
+     <path fill="#1064dc" d="M640,256h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53z"></path>
+     <path fill="#2eb7a4" d="M107,128h53v256h-53zM427,512h53v128h-53zm53,0h53v128h-53zm53,0h54v128h-54zm54,0h53v128h-53zm53,0h53v128h-53zm53,0h54v128h-54z"></path>
+     <path fill="#52ba92" d="M800,256h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53z"></path>
+     <path fill="#74bd81" d="M0,0h53v128h-53zM53,0h54v128h-54zm54,0h53v128h-53zm53,512h53v128h-53zm53,0h54v128h-54z"></path>
+     <path fill="#95be71" d="M480,256h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53z"></path>
+     <path fill="#b3bd65" d="M747,512h53v128h-53zm53,0h53v128h-53zm53,0h54v128h-54zm54,0h53v128h-53z"></path>
+     <path fill="#d1bb59" d="M160,0h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53zm53,0h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53zm53,0h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53zm53,0h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53zm53,0h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53z"></path>
+     <path fill="#fdd22b" d="M267,512h53v128h-53zM320,256h53v384h-53zm53,0h54v384h-54zm54,0h53v256h-53z"></path>
+     <path fill="#f9f90f" d="M160,256h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53z"></path>
     </g>
    </svg>
    <g>
@@ -102,26 +102,26 @@
   </g>
   <g transform="translate(1086,80)">
    <path d="M0,0H48V640H0Z" style="fill: none; stroke: black; stroke-width: 1;"></path>
-   <rect x="0" y="608" width="48" height="32" style="fill: rgb(38,62,168); stroke: rgb(38,62,168);"></rect>
-   <rect x="0" y="576" width="48" height="32" style="fill: rgb(22,82,205); stroke: rgb(22,82,205);"></rect>
-   <rect x="0" y="544" width="48" height="32" style="fill: rgb(16,100,220); stroke: rgb(16,100,220);"></rect>
-   <rect x="0" y="512" width="48" height="32" style="fill: rgb(18,114,217); stroke: rgb(18,114,217);"></rect>
-   <rect x="0" y="480" width="48" height="32" style="fill: rgb(20,129,214); stroke: rgb(20,129,214);"></rect>
-   <rect x="0" y="448" width="48" height="32" style="fill: rgb(14,143,209); stroke: rgb(14,143,209);"></rect>
-   <rect x="0" y="416" width="48" height="32" style="fill: rgb(9,157,204); stroke: rgb(9,157,204);"></rect>
-   <rect x="0" y="384" width="48" height="32" style="fill: rgb(13,167,195); stroke: rgb(13,167,195);"></rect>
-   <rect x="0" y="352" width="48" height="32" style="fill: rgb(30,175,179); stroke: rgb(30,175,179);"></rect>
-   <rect x="0" y="320" width="48" height="32" style="fill: rgb(46,183,164); stroke: rgb(46,183,164);"></rect>
-   <rect x="0" y="288" width="48" height="32" style="fill: rgb(82,186,146); stroke: rgb(82,186,146);"></rect>
-   <rect x="0" y="256" width="48" height="32" style="fill: rgb(116,189,129); stroke: rgb(116,189,129);"></rect>
-   <rect x="0" y="224" width="48" height="32" style="fill: rgb(149,190,113); stroke: rgb(149,190,113);"></rect>
-   <rect x="0" y="192" width="48" height="32" style="fill: rgb(179,189,101); stroke: rgb(179,189,101);"></rect>
-   <rect x="0" y="160" width="48" height="32" style="fill: rgb(209,187,89); stroke: rgb(209,187,89);"></rect>
-   <rect x="0" y="128" width="48" height="32" style="fill: rgb(226,192,75); stroke: rgb(226,192,75);"></rect>
-   <rect x="0" y="96" width="48" height="32" style="fill: rgb(244,198,59); stroke: rgb(244,198,59);"></rect>
-   <rect x="0" y="64" width="48" height="32" style="fill: rgb(253,210,43); stroke: rgb(253,210,43);"></rect>
-   <rect x="0" y="32" width="48" height="32" style="fill: rgb(251,230,29); stroke: rgb(251,230,29);"></rect>
-   <rect x="0" y="0" width="48" height="32" style="fill: rgb(249,249,15); stroke: rgb(249,249,15);"></rect>
+   <rect x="0" y="608" width="48" height="32" style="fill: #263ea8; stroke: #263ea8;"></rect>
+   <rect x="0" y="576" width="48" height="32" style="fill: #1652cd; stroke: #1652cd;"></rect>
+   <rect x="0" y="544" width="48" height="32" style="fill: #1064dc; stroke: #1064dc;"></rect>
+   <rect x="0" y="512" width="48" height="32" style="fill: #1272d9; stroke: #1272d9;"></rect>
+   <rect x="0" y="480" width="48" height="32" style="fill: #1481d6; stroke: #1481d6;"></rect>
+   <rect x="0" y="448" width="48" height="32" style="fill: #0e8fd1; stroke: #0e8fd1;"></rect>
+   <rect x="0" y="416" width="48" height="32" style="fill: #099dcc; stroke: #099dcc;"></rect>
+   <rect x="0" y="384" width="48" height="32" style="fill: #0da7c3; stroke: #0da7c3;"></rect>
+   <rect x="0" y="352" width="48" height="32" style="fill: #1eafb3; stroke: #1eafb3;"></rect>
+   <rect x="0" y="320" width="48" height="32" style="fill: #2eb7a4; stroke: #2eb7a4;"></rect>
+   <rect x="0" y="288" width="48" height="32" style="fill: #52ba92; stroke: #52ba92;"></rect>
+   <rect x="0" y="256" width="48" height="32" style="fill: #74bd81; stroke: #74bd81;"></rect>
+   <rect x="0" y="224" width="48" height="32" style="fill: #95be71; stroke: #95be71;"></rect>
+   <rect x="0" y="192" width="48" height="32" style="fill: #b3bd65; stroke: #b3bd65;"></rect>
+   <rect x="0" y="160" width="48" height="32" style="fill: #d1bb59; stroke: #d1bb59;"></rect>
+   <rect x="0" y="128" width="48" height="32" style="fill: #e2c04b; stroke: #e2c04b;"></rect>
+   <rect x="0" y="96" width="48" height="32" style="fill: #f4c63b; stroke: #f4c63b;"></rect>
+   <rect x="0" y="64" width="48" height="32" style="fill: #fdd22b; stroke: #fdd22b;"></rect>
+   <rect x="0" y="32" width="48" height="32" style="fill: #fbe61d; stroke: #fbe61d;"></rect>
+   <rect x="0" y="0" width="48" height="32" style="fill: #f9f90f; stroke: #f9f90f;"></rect>
    <g transform="translate(48, 0)">
     <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
     <path d="M0,640h-33m33,-60h-33m33,-60h-33m33,-60h-33m33,-59h-33m33,-60h-33m33,-60h-33m33,-60h-33m33,-60h-33m33,-60h-33m33,-59h-33" style="stroke: black; stroke-width: 1;"></path>
