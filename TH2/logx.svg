@@ -128,7 +128,7 @@
    <rect x="0" y="64" width="48" height="32" style="fill: #fdd22b; stroke: #fdd22b;"></rect>
    <rect x="0" y="32" width="48" height="32" style="fill: #fbe61d; stroke: #fbe61d;"></rect>
    <rect x="0" y="0" width="48" height="32" style="fill: #f9f90f; stroke: #f9f90f;"></rect>
-   <g transform="translate(48, 0)">
+   <g transform="translate(48)">
     <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
     <path d="M0,640h-33m33,-58h-33m33,-57h-33m33,-58h-33m33,-58h-33m33,-58h-33m33,-57h-33m33,-58h-33m33,-58h-33m33,-58h-33m33,-57h-33m33,-58h-33" style="stroke: black; stroke-width: 1;"></path>
     <g font-family="Arial" font-size="28" space="preserve">
