@@ -88,12 +88,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(106,4)" font-family="Arial" font-size="26" space="preserve">
-     <path d="M0,0H363V43H0Z" style="fill: none;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(182,22)">
-      Subset of CMS Run 2010B
-     </text>
-    </g>
     <g transform="translate(449,51)" font-family="Arial" font-size="12" space="preserve">
      <path d="M0,0H115V125H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(58,16)">
@@ -118,6 +112,12 @@
       10.82
      </text>
      <path d="M0,31h115" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(106,4)" font-family="Arial" font-size="26" space="preserve">
+     <path d="M0,0H363V43H0Z" style="fill: none;"></path>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(182,22)">
+      Subset of CMS Run 2010B
+     </text>
     </g>
    </g>
   </svg>
@@ -198,14 +198,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(86,4)" font-family="Arial" font-size="21" space="preserve">
-     <path d="M0,0H403V48H0Z" style="fill: none;"></path>
-     <g transform="translate(10,32) scale(0.546)">
-      <text fill="black" font-size="40">
-       Subset of CMS Run 2010B: J/ψ window
-      </text>
-     </g>
-    </g>
     <g transform="translate(449,51)" font-family="Arial" font-size="10" space="preserve">
      <path d="M0,0H115V125H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(58,16)">
@@ -230,6 +222,14 @@
       0.05163
      </text>
      <path d="M0,31h115" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(86,4)" font-family="Arial" font-size="21" space="preserve">
+     <path d="M0,0H403V48H0Z" style="fill: none;"></path>
+     <g transform="translate(10,32) scale(0.546)">
+      <text fill="black" font-size="40">
+       Subset of CMS Run 2010B: J/ψ window
+      </text>
+     </g>
     </g>
    </g>
   </svg>

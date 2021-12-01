@@ -159,12 +159,6 @@
     </g>
    </g>
   </g>
-  <g transform="translate(371,4)" font-family="Arial" font-size="36" space="preserve">
-   <path d="M0,0H459V52H0Z" style="fill: none;"></path>
-   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(230,26)">
-    Option COLor example
-   </text>
-  </g>
   <g transform="translate(936,52)" font-family="Arial" font-size="20" space="preserve">
    <path d="M0,0H240V192H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(120,16)">
@@ -201,6 +195,12 @@
     4.999
    </text>
    <path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path>
+  </g>
+  <g transform="translate(371,4)" font-family="Arial" font-size="36" space="preserve">
+   <path d="M0,0H459V52H0Z" style="fill: none;"></path>
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(230,26)">
+    Option COLor example
+   </text>
   </g>
  </g>
 </svg>

@@ -109,32 +109,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(103,4)" font-family="Arial" font-size="25" space="preserve">
-     <path d="M0,0H370V49H0Z" style="fill: none;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(185,25)">
-      Cosmic Data Spectrum
-     </text>
-    </g>
-    <g>
-     <line x1="58" y1="706" x2="58" y2="78" style="stroke: #ff0000; stroke-width: 3; stroke-dasharray: 5,5;"></line>
-    </g>
-    <g font-family="Arial" font-size="17" space="preserve" font-weight="bold">
-     <text fill="#ff0000" text-anchor="start" transform="translate(58,757)">
-      Threshold
-     </text>
-    </g>
-    <g transform="translate(63,86)" font-family="Arial" font-size="8" space="preserve">
-     <path d="M0,0H196V71H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(98,12)">
-      First event: 2021/02/22  09:01:02
-     </text>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(98,36)">
-      Last event:  2021/02/23  20:18:52
-     </text>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(98,59)">
-      Type: X100-7 - Voltage: 5.00 [V]
-     </text>
-    </g>
     <g transform="translate(397,86)" font-family="Arial" font-size="12" space="preserve">
      <path d="M0,0H115V86H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(6,11)">
@@ -160,6 +134,32 @@
      </text>
      <text fill="black" text-anchor="end" dy=".4em" transform="translate(109,75)">
       0
+     </text>
+    </g>
+    <g transform="translate(103,4)" font-family="Arial" font-size="25" space="preserve">
+     <path d="M0,0H370V49H0Z" style="fill: none;"></path>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(185,25)">
+      Cosmic Data Spectrum
+     </text>
+    </g>
+    <g>
+     <line x1="58" y1="706" x2="58" y2="78" style="stroke: #ff0000; stroke-width: 3; stroke-dasharray: 5,5;"></line>
+    </g>
+    <g font-family="Arial" font-size="17" space="preserve" font-weight="bold">
+     <text fill="#ff0000" text-anchor="start" transform="translate(58,757)">
+      Threshold
+     </text>
+    </g>
+    <g transform="translate(63,86)" font-family="Arial" font-size="8" space="preserve">
+     <path d="M0,0H196V71H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(98,12)">
+      First event: 2021/02/22  09:01:02
+     </text>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(98,36)">
+      Last event:  2021/02/23  20:18:52
+     </text>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(98,59)">
+      Type: X100-7 - Voltage: 5.00 [V]
      </text>
     </g>
    </g>
@@ -277,43 +277,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(101,4)" font-family="Arial" font-size="25" space="preserve">
-     <path d="M0,0H373V49H0Z" style="fill: none;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(187,25)">
-      Cosmic Data Spectrum Fit
-     </text>
-    </g>
-    <g>
-     <line x1="58" y1="706" x2="58" y2="78" style="stroke: #ff0000; stroke-width: 3; stroke-dasharray: 5,5;"></line>
-    </g>
-    <g font-family="Arial" font-size="17" space="preserve" font-weight="bold">
-     <text fill="#ff0000" text-anchor="start" transform="translate(58,757)">
-      Threshold
-     </text>
-    </g>
-    <g transform="translate(374,361)" font-family="Arial" font-size="9" space="preserve">
-     <path d="M0,0H138V71H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <path d="M4,10H31" style="stroke: #00009a; stroke-width: 1;"></path>
-     <path d="M15.0,10.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0z" style="stroke: blue; fill: blue;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(35,10)">
-      Data
-     </text>
-     <path d="M4,27H31" style="stroke: #ff00ff; stroke-width: 2;"></path>
-     <path d="M18,27h1" style="stroke: black; fill: none;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(35,27)">
-      Gauss + Power
-     </text>
-     <path d="M4,44H31" style="stroke: #ff0000; stroke-width: 2; stroke-dasharray: 3,3;"></path>
-     <path d="M18,44h1" style="stroke: black; fill: none;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(35,44)">
-      Power (background)
-     </text>
-     <path d="M4,61H31" style="stroke: #009a00; stroke-width: 2; stroke-dasharray: 3,3;"></path>
-     <path d="M18,61h1" style="stroke: black; fill: none;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(35,60)">
-      Gauss (signal)
-     </text>
-    </g>
     <g transform="translate(288,86)" font-family="Arial" font-size="13" space="preserve">
      <path d="M0,0H225V267H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,12)">
@@ -394,6 +357,43 @@
        14.11 ± 0.28
       </text>
      </g>
+    </g>
+    <g transform="translate(101,4)" font-family="Arial" font-size="25" space="preserve">
+     <path d="M0,0H373V49H0Z" style="fill: none;"></path>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(187,25)">
+      Cosmic Data Spectrum Fit
+     </text>
+    </g>
+    <g>
+     <line x1="58" y1="706" x2="58" y2="78" style="stroke: #ff0000; stroke-width: 3; stroke-dasharray: 5,5;"></line>
+    </g>
+    <g font-family="Arial" font-size="17" space="preserve" font-weight="bold">
+     <text fill="#ff0000" text-anchor="start" transform="translate(58,757)">
+      Threshold
+     </text>
+    </g>
+    <g transform="translate(374,361)" font-family="Arial" font-size="9" space="preserve">
+     <path d="M0,0H138V71H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <path d="M4,10H31" style="stroke: #00009a; stroke-width: 1;"></path>
+     <path d="M15.0,10.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0z" style="stroke: blue; fill: blue;"></path>
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(35,10)">
+      Data
+     </text>
+     <path d="M4,27H31" style="stroke: #ff00ff; stroke-width: 2;"></path>
+     <path d="M18,27h1" style="stroke: black; fill: none;"></path>
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(35,27)">
+      Gauss + Power
+     </text>
+     <path d="M4,44H31" style="stroke: #ff0000; stroke-width: 2; stroke-dasharray: 3,3;"></path>
+     <path d="M18,44h1" style="stroke: black; fill: none;"></path>
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(35,44)">
+      Power (background)
+     </text>
+     <path d="M4,61H31" style="stroke: #009a00; stroke-width: 2; stroke-dasharray: 3,3;"></path>
+     <path d="M18,61h1" style="stroke: black; fill: none;"></path>
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(35,60)">
+      Gauss (signal)
+     </text>
     </g>
    </g>
   </svg>

@@ -66,12 +66,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(432,1)" font-family="Arial" font-size="18" space="preserve">
-     <path d="M0,0H311V22H0Z" style="fill: none;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(156,11)">
-      Love at first sight
-     </text>
-    </g>
     <g transform="translate(917,16)" font-family="Arial" font-size="8" space="preserve">
      <path d="M0,0H235V40H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(118,5)">
@@ -96,6 +90,12 @@
       199.0
      </text>
      <path d="M0,10h235" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(432,1)" font-family="Arial" font-size="18" space="preserve">
+     <path d="M0,0H311V22H0Z" style="fill: none;"></path>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(156,11)">
+      Love at first sight
+     </text>
     </g>
    </g>
   </svg>

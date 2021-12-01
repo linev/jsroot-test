@@ -134,12 +134,6 @@
     </g>
    </g>
   </g>
-  <g transform="translate(444,4)" font-family="Arial" font-size="36" space="preserve">
-   <path d="M0,0H312V52H0Z" style="fill: none;"></path>
-   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(156,26)">
-    USA Population
-   </text>
-  </g>
   <g transform="translate(936,52)" font-family="Arial" font-size="26" space="preserve">
    <path d="M0,0H240V64H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(120,16)">
@@ -152,6 +146,12 @@
     48
    </text>
    <path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path>
+  </g>
+  <g transform="translate(444,4)" font-family="Arial" font-size="36" space="preserve">
+   <path d="M0,0H312V52H0Z" style="fill: none;"></path>
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(156,26)">
+    USA Population
+   </text>
   </g>
  </g>
 </svg>

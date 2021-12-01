@@ -72,12 +72,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(86,4)" font-family="Arial" font-size="20" space="preserve">
-     <path d="M0,0H403V43H0Z" style="fill: none;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(202,22)">
-      Distribution drawn with option E4
-     </text>
-    </g>
     <g transform="translate(449,51)" font-family="Arial" font-size="11" space="preserve">
      <path d="M0,0H115V125H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(58,16)">
@@ -102,6 +96,12 @@
       0.1687
      </text>
      <path d="M0,31h115" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(86,4)" font-family="Arial" font-size="20" space="preserve">
+     <path d="M0,0H403V43H0Z" style="fill: none;"></path>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(202,22)">
+      Distribution drawn with option E4
+     </text>
     </g>
    </g>
   </svg>
@@ -173,12 +173,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(86,4)" font-family="Arial" font-size="23" space="preserve">
-     <path d="M0,0H403V43H0Z" style="fill: none;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(202,22)">
-      Distribution drawn option E3
-     </text>
-    </g>
     <g transform="translate(449,51)" font-family="Arial" font-size="11" space="preserve">
      <path d="M0,0H115V125H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(58,16)">
@@ -203,6 +197,12 @@
       0.1687
      </text>
      <path d="M0,31h115" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(86,4)" font-family="Arial" font-size="23" space="preserve">
+     <path d="M0,0H403V43H0Z" style="fill: none;"></path>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(202,22)">
+      Distribution drawn option E3
+     </text>
     </g>
    </g>
   </svg>

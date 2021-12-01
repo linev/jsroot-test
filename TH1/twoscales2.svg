@@ -108,31 +108,6 @@
     h1
    </text>
   </g>
-  <g transform="translate(780,52)" font-family="Arial" font-size="23" space="preserve">
-   <path d="M0,0H240V128H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <text fill="#ff0000" text-anchor="middle" dy=".4em" transform="translate(120,16)">
-    h1
-   </text>
-   <text fill="#ff0000" text-anchor="start" dy=".4em" transform="translate(12,48)">
-    Entries
-   </text>
-   <text fill="#ff0000" text-anchor="end" dy=".4em" transform="translate(228,48)">
-    1000
-   </text>
-   <text fill="#ff0000" text-anchor="start" dy=".4em" transform="translate(12,80)">
-    Mean
-   </text>
-   <text fill="#ff0000" text-anchor="end" dy=".4em" transform="translate(228,80)">
-    -1.021
-   </text>
-   <text fill="#ff0000" text-anchor="start" dy=".4em" transform="translate(12,112)">
-    Std Dev
-   </text>
-   <text fill="#ff0000" text-anchor="end" dy=".4em" transform="translate(228,112)">
-    0.4857
-   </text>
-   <path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path>
-  </g>
   <g transform="translate(480,52)" font-family="Arial" font-size="23" space="preserve">
    <path d="M0,0H240V128H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(120,16)">
@@ -154,6 +129,31 @@
     Std Dev
    </text>
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,112)">
+    0.4857
+   </text>
+   <path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path>
+  </g>
+  <g transform="translate(780,52)" font-family="Arial" font-size="23" space="preserve">
+   <path d="M0,0H240V128H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <text fill="#ff0000" text-anchor="middle" dy=".4em" transform="translate(120,16)">
+    h1
+   </text>
+   <text fill="#ff0000" text-anchor="start" dy=".4em" transform="translate(12,48)">
+    Entries
+   </text>
+   <text fill="#ff0000" text-anchor="end" dy=".4em" transform="translate(228,48)">
+    1000
+   </text>
+   <text fill="#ff0000" text-anchor="start" dy=".4em" transform="translate(12,80)">
+    Mean
+   </text>
+   <text fill="#ff0000" text-anchor="end" dy=".4em" transform="translate(228,80)">
+    -1.021
+   </text>
+   <text fill="#ff0000" text-anchor="start" dy=".4em" transform="translate(12,112)">
+    Std Dev
+   </text>
+   <text fill="#ff0000" text-anchor="end" dy=".4em" transform="translate(228,112)">
     0.4857
    </text>
    <path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path>

@@ -95,6 +95,56 @@
       </g>
      </g>
     </g>
+    <g transform="translate(375,24)" font-family="Arial" font-size="15" space="preserve">
+     <path d="M0,0H166V74H0Z" style="fill: #deba87; stroke: black; stroke-width: 1;"></path>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(83,9)">
+      htemp
+     </text>
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(8,28)">
+      Entries
+     </text>
+     <text fill="black" text-anchor="end" dy=".4em" transform="translate(158,28)">
+      45657
+     </text>
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(8,46)">
+      Mean
+     </text>
+     <text fill="black" text-anchor="end" dy=".4em" transform="translate(158,46)">
+      1.995
+     </text>
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(8,65)">
+      Std Dev
+     </text>
+     <text fill="black" text-anchor="end" dy=".4em" transform="translate(158,65)">
+      3.675
+     </text>
+     <path d="M0,19h166" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(375,24)" font-family="Arial" font-size="15" space="preserve">
+     <path d="M0,0H166V74H0Z" style="fill: #deba87; stroke: black; stroke-width: 1;"></path>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(83,9)">
+      htemp
+     </text>
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(8,28)">
+      Entries
+     </text>
+     <text fill="black" text-anchor="end" dy=".4em" transform="translate(158,28)">
+      45657
+     </text>
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(8,46)">
+      Mean
+     </text>
+     <text fill="black" text-anchor="end" dy=".4em" transform="translate(158,46)">
+      1.995
+     </text>
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(8,65)">
+      Std Dev
+     </text>
+     <text fill="black" text-anchor="end" dy=".4em" transform="translate(158,65)">
+      3.675
+     </text>
+     <path d="M0,19h166" style="stroke: black; stroke-width: 1;"></path>
+    </g>
     <g transform="translate(118,2)" font-family="Arial" font-size="16" space="preserve">
      <path d="M0,0H316V20H0Z" style="fill: none;"></path>
      <g transform="translate(67,16) scale(0.980)">
@@ -102,56 +152,6 @@
        3*px+2 {px**2+py**2&gt;1}
       </text>
      </g>
-    </g>
-    <g transform="translate(375,24)" font-family="Arial" font-size="15" space="preserve">
-     <path d="M0,0H166V74H0Z" style="fill: #deba87; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(83,9)">
-      htemp
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(8,28)">
-      Entries
-     </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(158,28)">
-      45657
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(8,46)">
-      Mean
-     </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(158,46)">
-      1.995
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(8,65)">
-      Std Dev
-     </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(158,65)">
-      3.675
-     </text>
-     <path d="M0,19h166" style="stroke: black; stroke-width: 1;"></path>
-    </g>
-    <g transform="translate(375,24)" font-family="Arial" font-size="15" space="preserve">
-     <path d="M0,0H166V74H0Z" style="fill: #deba87; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(83,9)">
-      htemp
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(8,28)">
-      Entries
-     </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(158,28)">
-      45657
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(8,46)">
-      Mean
-     </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(158,46)">
-      1.995
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(8,65)">
-      Std Dev
-     </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(158,65)">
-      3.675
-     </text>
-     <path d="M0,19h166" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -243,12 +243,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(234,2)" font-family="Arial" font-size="16" space="preserve">
-     <path d="M0,0H83V20H0Z" style="fill: none;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(42,10)">
-      pz:px
-     </text>
-    </g>
     <g transform="translate(375,24)" font-family="Arial" font-size="15" space="preserve">
      <path d="M0,0H166V110H0Z" style="fill: #deba87; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(83,9)">
@@ -285,6 +279,12 @@
       2.005
      </text>
      <path d="M0,18h166" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(234,2)" font-family="Arial" font-size="16" space="preserve">
+     <path d="M0,0H83V20H0Z" style="fill: none;"></path>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(42,10)">
+      pz:px
+     </text>
     </g>
    </g>
   </svg>

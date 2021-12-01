@@ -68,12 +68,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(121,4)" font-family="Arial" font-size="25" space="preserve">
-     <path d="M0,0H334V43H0Z" style="fill: none;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(167,22)">
-      Bar-chart drawn from 0
-     </text>
-    </g>
     <g transform="translate(449,51)" font-family="Arial" font-size="12" space="preserve">
      <path d="M0,0H115V125H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(58,16)">
@@ -99,6 +93,12 @@
      </text>
      <path d="M0,31h115" style="stroke: black; stroke-width: 1;"></path>
     </g>
+    <g transform="translate(121,4)" font-family="Arial" font-size="25" space="preserve">
+     <path d="M0,0H334V43H0Z" style="fill: none;"></path>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(167,22)">
+      Bar-chart drawn from 0
+     </text>
+    </g>
    </g>
   </svg>
   <svg viewBox="0 0 576 784" preserveAspectRatio="none" x="612" y="8" width="576" height="784">
@@ -110,12 +110,6 @@
     <g transform="translate(58,78)" style="display: none;">
      <title></title>
      <path d="M0,0H461V627H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-    </g>
-    <g transform="translate(120,4)" font-family="Arial" font-size="25" space="preserve">
-     <path d="M0,0H336V44H0Z" style="fill: none;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(168,22)">
-      Lego plot drawn from 0
-     </text>
     </g>
     <g transform="translate(449,51)" font-family="Arial" font-size="8" space="preserve">
      <path d="M0,0H115V188H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
@@ -153,6 +147,12 @@
       0.000e+0
      </text>
      <path d="M0,31h115" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(120,4)" font-family="Arial" font-size="25" space="preserve">
+     <path d="M0,0H336V44H0Z" style="fill: none;"></path>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(168,22)">
+      Lego plot drawn from 0
+     </text>
     </g>
    </g>
   </svg>

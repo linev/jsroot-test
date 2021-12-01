@@ -110,12 +110,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(526,2)" font-family="Arial" font-size="17" space="preserve">
-     <path d="M0,0H123V21H0Z" style="fill: none;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(62,11)">
-      Nation
-     </text>
-    </g>
     <g transform="translate(917,25)" font-family="Arial" font-size="12" space="preserve">
      <path d="M0,0H235V61H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(118,8)">
@@ -140,6 +134,12 @@
       2.337
      </text>
      <path d="M0,15h235" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(526,2)" font-family="Arial" font-size="17" space="preserve">
+     <path d="M0,0H123V21H0Z" style="fill: none;"></path>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(62,11)">
+      Nation
+     </text>
     </g>
    </g>
   </svg>

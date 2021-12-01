@@ -84,19 +84,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(85,36)" font-family="Arial" font-size="15" space="preserve" font-weight="bold">
-     <path d="M3,3v23h141v-23z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-     <path d="M0,0H141V23H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(71,12)">
-      Default option
-     </text>
-    </g>
-    <g transform="translate(141,1)" font-family="Arial" font-size="11" space="preserve">
-     <path d="M0,0H283V14H0Z" style="fill: none;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(142,7)">
-      This is the px distribution
-     </text>
-    </g>
     <g transform="translate(440,16)" font-family="Arial" font-size="7" space="preserve">
      <path d="M0,0H113V38H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(57,5)">
@@ -122,6 +109,19 @@
      </text>
      <path d="M0,10h113" style="stroke: black; stroke-width: 1;"></path>
     </g>
+    <g transform="translate(85,36)" font-family="Arial" font-size="15" space="preserve" font-weight="bold">
+     <path d="M3,3v23h141v-23z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+     <path d="M0,0H141V23H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(71,12)">
+      Default option
+     </text>
+    </g>
+    <g transform="translate(141,1)" font-family="Arial" font-size="11" space="preserve">
+     <path d="M0,0H283V14H0Z" style="fill: none;"></path>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(142,7)">
+      This is the px distribution
+     </text>
+    </g>
    </g>
   </svg>
   <svg viewBox="0 0 564 240" preserveAspectRatio="none" x="612" y="64" width="564" height="240">
@@ -133,6 +133,31 @@
     <g transform="translate(56,24)" style="display: none;">
      <title></title>
      <path d="M0,0H451V192H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(440,16)" font-family="Arial" font-size="7" space="preserve">
+     <path d="M0,0H113V38H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(57,5)">
+      hpx_copy
+     </text>
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(6,14)">
+      Entries
+     </text>
+     <text fill="black" text-anchor="end" dy=".4em" transform="translate(107,14)">
+      25000
+     </text>
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(6,24)">
+      Mean
+     </text>
+     <text fill="black" text-anchor="end" dy=".4em" transform="translate(107,24)">
+      -0.004011
+     </text>
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(6,33)">
+      Std Dev
+     </text>
+     <text fill="black" text-anchor="end" dy=".4em" transform="translate(107,33)">
+      0.9978
+     </text>
+     <path d="M0,10h113" style="stroke: black; stroke-width: 1;"></path>
     </g>
     <g transform="translate(76,26)" font-family="Arial" font-size="12" space="preserve" font-weight="bold">
      <path d="M3,3v15h143v-15z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
@@ -153,31 +178,6 @@
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(142,7)">
       This is the px distribution
      </text>
-    </g>
-    <g transform="translate(440,16)" font-family="Arial" font-size="7" space="preserve">
-     <path d="M0,0H113V38H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(57,5)">
-      hpx_copy
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(6,14)">
-      Entries
-     </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(107,14)">
-      25000
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(6,24)">
-      Mean
-     </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(107,24)">
-      -0.004011
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(6,33)">
-      Std Dev
-     </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(107,33)">
-      0.9978
-     </text>
-     <path d="M0,10h113" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -266,6 +266,31 @@
       </g>
      </g>
     </g>
+    <g transform="translate(880,29)" font-family="Arial" font-size="14" space="preserve">
+     <path d="M0,0H226V70H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(113,9)">
+      hpx
+     </text>
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,26)">
+      Entries
+     </text>
+     <text fill="black" text-anchor="end" dy=".4em" transform="translate(215,26)">
+      25000
+     </text>
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,44)">
+      Mean
+     </text>
+     <text fill="black" text-anchor="end" dy=".4em" transform="translate(215,44)">
+      -0.004011
+     </text>
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,61)">
+      Std Dev
+     </text>
+     <text fill="black" text-anchor="end" dy=".4em" transform="translate(215,61)">
+      0.9978
+     </text>
+     <path d="M0,18h226" style="stroke: black; stroke-width: 1;"></path>
+    </g>
     <g transform="translate(790,136)" font-family="Arial" font-size="16" space="preserve" font-weight="bold">
      <path d="M3,3v20h169v-20z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H169V20H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
@@ -294,31 +319,6 @@
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(272,14)">
       This is the px distribution
      </text>
-    </g>
-    <g transform="translate(880,29)" font-family="Arial" font-size="14" space="preserve">
-     <path d="M0,0H226V70H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(113,9)">
-      hpx
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,26)">
-      Entries
-     </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(215,26)">
-      25000
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,44)">
-      Mean
-     </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(215,44)">
-      -0.004011
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,61)">
-      Std Dev
-     </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(215,61)">
-      0.9978
-     </text>
-     <path d="M0,18h226" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>

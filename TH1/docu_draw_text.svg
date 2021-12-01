@@ -334,12 +334,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(86,4)" font-family="Arial" font-size="22" space="preserve">
-     <path d="M0,0H403V44H0Z" style="fill: none;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(202,22)">
-      Option TEXT on 2D histograms
-     </text>
-    </g>
     <g transform="translate(449,51)" font-family="Arial" font-size="10" space="preserve">
      <path d="M0,0H115V188H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(58,16)">
@@ -376,6 +370,12 @@
       4.999
      </text>
      <path d="M0,31h115" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(86,4)" font-family="Arial" font-size="22" space="preserve">
+     <path d="M0,0H403V44H0Z" style="fill: none;"></path>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(202,22)">
+      Option TEXT on 2D histograms
+     </text>
     </g>
    </g>
   </svg>
@@ -489,12 +489,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(86,4)" font-family="Arial" font-size="22" space="preserve">
-     <path d="M0,0H403V44H0Z" style="fill: none;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(202,22)">
-      Option TEXT on 1D histograms
-     </text>
-    </g>
     <g transform="translate(449,51)" font-family="Arial" font-size="11" space="preserve">
      <path d="M0,0H115V125H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(58,16)">
@@ -519,6 +513,12 @@
       0.9973
      </text>
      <path d="M0,31h115" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(86,4)" font-family="Arial" font-size="22" space="preserve">
+     <path d="M0,0H403V44H0Z" style="fill: none;"></path>
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(202,22)">
+      Option TEXT on 1D histograms
+     </text>
     </g>
    </g>
   </svg>

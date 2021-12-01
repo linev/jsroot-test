@@ -94,27 +94,6 @@
     </g>
    </g>
   </g>
-  <g transform="translate(180,120)" font-family="Arial" font-size="14" space="preserve">
-   <path d="M0,0H276V120H0Z" style="fill: white; stroke: white; stroke-width: 1;"></path>
-   <path d="M8,23H61" style="stroke: blue; stroke-width: 2;"></path>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(69,23)">
-    Gaussian (//mu = -0.5)
-   </text>
-   <path d="M8,60H61" style="stroke: #9999cc; stroke-width: 3;"></path>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(69,60)">
-    Fit with Gaussian to x
-   </text>
-   <path d="M8,97H61" style="stroke: red; stroke-width: 2;"></path>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(69,98)">
-    Gaussian (//mu = +0.5)
-   </text>
-  </g>
-  <g transform="translate(354,4)" font-family="Arial" font-size="25" space="preserve">
-   <path d="M0,0H492V44H0Z" style="fill: none;"></path>
-   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(246,22)">
-    Distribution of Gaussian numbers
-   </text>
-  </g>
   <g transform="translate(672,64)" font-family="Arial" font-size="30" space="preserve">
    <path d="M0,0H432V288H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,18)">
@@ -173,6 +152,27 @@
      0.7902 ± 0.0056
     </text>
    </g>
+  </g>
+  <g transform="translate(180,120)" font-family="Arial" font-size="14" space="preserve">
+   <path d="M0,0H276V120H0Z" style="fill: white; stroke: white; stroke-width: 1;"></path>
+   <path d="M8,23H61" style="stroke: blue; stroke-width: 2;"></path>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(69,23)">
+    Gaussian (//mu = -0.5)
+   </text>
+   <path d="M8,60H61" style="stroke: #9999cc; stroke-width: 3;"></path>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(69,60)">
+    Fit with Gaussian to x
+   </text>
+   <path d="M8,97H61" style="stroke: red; stroke-width: 2;"></path>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(69,98)">
+    Gaussian (//mu = +0.5)
+   </text>
+  </g>
+  <g transform="translate(354,4)" font-family="Arial" font-size="25" space="preserve">
+   <path d="M0,0H492V44H0Z" style="fill: none;"></path>
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(246,22)">
+    Distribution of Gaussian numbers
+   </text>
   </g>
  </g>
 </svg>
