@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+ <title>
+  ROOT canvas
+ </title>
+ <path d="M0,0H1200V800H0Z" style="fill: none;"></path>
+ <g>
+  <g transform="translate(120,80)">
+   <title></title>
+   <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
+    <g>
+     <path d="M444,611H348V621H444ZM615,595H498V605H615ZM640,579H360V589H640ZM493,563H378V573H493ZM518,547H375V557H518ZM614,531H389V541H614ZM554,515H381V525H554ZM549,499H409V509H549ZM549,483H397V493H549ZM575,467H410V477H575ZM559,451H397V461H559ZM550,435H397V445H550ZM564,419H399V429H564ZM557,403H391V413H557ZM564,387H403V397H564ZM564,371H390V381H564ZM566,355H398V365H566ZM561,339H398V349H561ZM567,323H402V333H567ZM562,307H405V317H562ZM556,291H400V301H556ZM564,275H403V285H564ZM553,259H398V269H553ZM565,243H398V253H565ZM571,227H394V237H571ZM565,211H395V221H565ZM565,195H403V205H565ZM565,179H400V189H565ZM562,163H409V173H562ZM579,147H402V157H579ZM563,131H402V141H563ZM572,115H397V125H572ZM582,99H395V109H582ZM555,83H330V93H555ZM521,67H390V77H521ZM516,51H396V61H516ZM525,35H414V45H525ZM210,19H198V29H210ZM282,3H270V13H282Z" style="stroke: #00009a; stroke-width: 1; fill: none;"></path>
+     <path d="M396,611V621M456,611V621M336,611V621M606,595V605M624,595V605M480,595V605M492,579V589M768,579V589M264,579V589M425,563V573M624,563V573M168,563V573M444,547V557M648,547V557M192,547V557M492,531V541M888,531V541M168,531V541M474,515V525M744,515V525M144,515V525M482,499V509M768,499V509M144,499V509M469,483V493M816,483V493M192,483V493M494,467V477M864,467V477M72,467V477M477,451V461M864,451V461M120,451V461M472,435V445M888,435V445M96,435V445M478,419V429M864,419V429M120,419V429M475,403V413M840,403V413M72,403V413M482,387V397M888,387V397M48,387V397M481,371V381M888,371V381M72,371V381M481,355V365M960,355V365M0,355V365M479,339V349M912,339V349M72,339V349M486,323V333M864,323V333M96,323V333M484,307V317M840,307V317M96,307V317M480,291V301M888,291V301M72,291V301M482,275V285M840,275V285M24,275V285M474,259V269M912,259V269M96,259V269M481,243V253M888,243V253M120,243V253M482,227V237M864,227V237M120,227V237M477,211V221M864,211V221M168,211V221M484,195V205M816,195V205M96,195V205M488,179V189M768,179V189M96,179V189M480,163V173M840,163V173M216,163V173M492,147V157M816,147V157M168,147V157M474,131V141M816,131V141M144,131V141M492,115V125M816,115V125M168,115V125M468,99V109M864,99V109M144,99V109M450,83V93M696,83V93M216,83V93M486,67V77M696,67V77M288,67V77M432,51V61M816,51V61M360,51V61M510,35V45M552,35V45M336,35V45M204,19V29M216,19V29M192,19V29M276,3V13M288,3V13M264,3V13" style="stroke: #00009a; stroke-width: 1; fill: none;"></path>
+    </g>
+   </svg>
+   <g>
+    <g transform="translate(0,640)">
+     <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,6)">
+       -4
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(120,6)">
+       -3
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(240,6)">
+       -2
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(360,6)">
+       -1
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480,6)">
+       0
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(600,6)">
+       1
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(720,6)">
+       2
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(840,6)">
+       3
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(960,6)">
+       4
+      </text>
+     </g>
+    </g>
+    <g>
+     <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M36,640h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,640)">
+       -4
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,560)">
+       -3
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,480)">
+       -2
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,400)">
+       -1
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,320)">
+       0
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,240)">
+       1
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,160)">
+       2
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,80)">
+       3
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4)">
+       4
+      </text>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
+   <path d="M0,0H960V53H0Z" style="fill: none;"></path>
+   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
+    py vs px
+   </text>
+  </g>
+  <g transform="translate(936,52)" font-family="Arial" font-size="20" space="preserve">
+   <path d="M0,0H240V212H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(120,18)">
+    hpxpy
+   </text>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,53)">
+    Entries
+   </text>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,53)">
+    25000
+   </text>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,88)">
+    Mean x
+   </text>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,88)">
+    0.003181
+   </text>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,124)">
+    Mean y
+   </text>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,124)">
+    0.009441
+   </text>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,159)">
+    Std Dev x
+   </text>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,159)">
+    1.004
+   </text>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,194)">
+    Std Dev y
+   </text>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,194)">
+    0.9972
+   </text>
+   <path d="M0,35h240" style="stroke: black; stroke-width: 1;"></path>
+  </g>
+ </g>
+</svg>

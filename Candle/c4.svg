@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+ <title>
+  ROOT canvas
+ </title>
+ <path d="M0,0H1200V800H0Z" style="fill: none;"></path>
+ <g>
+  <g transform="translate(120,80)">
+   <title></title>
+   <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
+    <g>
+     <path d="M4,356V364H20V356ZM28,276V284H44V276ZM52,280V392H68V280ZM76,300V380H92V300ZM100,284V367H116V284ZM124,262V388H140V262ZM148,258V371H164V258ZM172,243V369H188V243ZM196,269V367H212V269ZM220,268V380H236V268ZM244,267V383H260V267ZM268,272V372H284V272ZM292,256V369H308V256ZM316,271V379H332V271ZM340,264V376H356V264ZM364,263V374H380V263ZM388,267V375H404V267ZM412,263V374H428V263ZM436,269V372H452V269ZM460,264V374H476V264ZM484,270V375H500V270ZM508,265V371H524V265ZM532,265V371H548V265ZM556,266V377H572V266ZM580,261V370H596V261ZM604,267V374H620V267ZM628,265V376H644V265ZM652,263V373H668V263ZM676,266V368H692V266ZM700,253V364H716V253ZM724,263V364H740V263ZM748,270V378H764V270ZM772,256V357H788V256ZM796,251V371H812V251ZM820,272V376H836V272ZM844,258V396H860V258ZM868,292V396H884V292ZM892,268V346H908V268ZM940,356V364H956V356Z" style="stroke: #00009a; stroke-width: 1; fill: none;"></path>
+     <path d="M7,360H17M4,352H20M4,368H20M12,356V352M12,364V368M31,280H41M28,272H44M28,288H44M36,276V272M36,284V288M55,336H65M52,272H68M52,400H68M60,280V272M60,392V400M79,356H89M76,288H92M76,480H92M84,300V288M84,380V480M103,344H113M100,176H116M100,448H116M108,284V176M108,367V448M127,328H137M124,176H140M124,464H140M132,262V176M132,388V464M151,325H161M148,96H164M148,528H164M156,258V96M156,371V528M175,302H185M172,112H188M172,544H188M180,243V112M180,369V544M199,321H209M196,96H212M196,496H212M204,269V96M204,367V496M223,319H233M220,80H236M220,512H236M228,268V80M228,380V512M247,323H257M244,112H260M244,560H260M252,267V112M252,383V560M271,324H281M268,128H284M268,512H284M276,272V128M276,372V512M295,311H305M292,64H308M292,544H308M300,256V64M300,369V544M319,324H329M316,80H332M316,528H332M324,271V80M324,379V528M343,319H353M340,64H356M340,560H356M348,264V64M348,376V560M367,320H377M364,80H380M364,544H380M372,263V80M372,374V544M391,323H401M388,96H404M388,544H404M396,267V96M396,375V544M415,317H425M412,80H428M412,544H428M420,263V80M420,374V544M439,319H449M436,96H452M436,528H452M444,269V96M444,372V528M463,316H473M460,96H476M460,544H476M468,264V96M468,374V544M487,321H497M484,96H500M484,544H500M492,270V96M492,375V544M511,317H521M508,80H524M508,544H524M516,265V80M516,371V544M535,317H545M532,80H548M532,544H548M540,265V80M540,371V544M559,322H569M556,80H572M556,528H572M564,266V80M564,377V528M583,319H593M580,96H596M580,544H596M588,261V96M588,370V544M607,318H617M604,80H620M604,544H620M612,267V80M612,374V544M631,322H641M628,80H644M628,544H644M636,265V80M636,376V544M655,319H665M652,80H668M652,544H668M660,263V80M660,373V544M679,315H689M676,112H692M676,528H692M684,266V112M684,368V528M703,312H713M700,128H716M700,544H716M708,253V128M708,364V544M727,313H737M724,96H740M724,528H740M732,263V96M732,364V528M751,327H761M748,112H764M748,512H764M756,270V112M756,378V512M775,318H785M772,112H788M772,480H788M780,256V112M780,357V480M799,315H809M796,48H812M796,496H812M804,251V48M804,371V496M823,336H833M820,160H836M820,480H836M828,272V160M828,376V480M847,340H857M844,96H860M844,480H860M852,258V96M852,396V480M871,360H881M868,240H884M868,544H884M876,292V240M876,396V544M895,340H905M892,256H908M892,352H908M900,268V256M900,346V352M943,360H953M940,352H956M940,368H956M948,356V352M948,364V368" style="stroke: #00009a; stroke-width: 1; fill: none;"></path>
+    </g>
+   </svg>
+   <g>
+    <g transform="translate(0,640)">
+     <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24m24,-12v12m24,-12v12m24,-12v12m24,-12v12m24,-24v24" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,6)">
+       -4
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(120,6)">
+       -3
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(240,6)">
+       -2
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(360,6)">
+       -1
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480,6)">
+       0
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(600,6)">
+       1
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(720,6)">
+       2
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(840,6)">
+       3
+      </text>
+      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(960,6)">
+       4
+      </text>
+     </g>
+    </g>
+    <g>
+     <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M36,640h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve">
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,640)">
+       -4
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,560)">
+       -3
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,480)">
+       -2
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,400)">
+       -1
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,320)">
+       0
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,240)">
+       1
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,160)">
+       2
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,80)">
+       3
+      </text>
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4)">
+       4
+      </text>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
+   <path d="M0,0H960V53H0Z" style="fill: none;"></path>
+   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
+    py vs px
+   </text>
+  </g>
+  <g transform="translate(936,52)" font-family="Arial" font-size="20" space="preserve">
+   <path d="M0,0H240V212H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(120,18)">
+    hpxpy
+   </text>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,53)">
+    Entries
+   </text>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,53)">
+    25000
+   </text>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,88)">
+    Mean x
+   </text>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,88)">
+    0.003181
+   </text>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,124)">
+    Mean y
+   </text>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,124)">
+    0.009441
+   </text>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,159)">
+    Std Dev x
+   </text>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,159)">
+    1.004
+   </text>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,194)">
+    Std Dev y
+   </text>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,194)">
+    0.9972
+   </text>
+   <path d="M0,35h240" style="stroke: black; stroke-width: 1;"></path>
+  </g>
+ </g>
+</svg>
