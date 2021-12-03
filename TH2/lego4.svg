@@ -17,39 +17,39 @@
     py vs px
    </text>
   </g>
-  <g transform="translate(936,52)" font-family="Arial" font-size="20" space="preserve">
+  <g transform="translate(936,52)" font-family="Arial" font-size="20" space="preserve" fill="black">
    <path d="M0,0H240V212H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(120,18)">
+   <text text-anchor="middle" dy=".4em" transform="translate(120,18)">
     hpxpy
    </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,53)">
+   <text text-anchor="start" dy=".4em" transform="translate(12,53)">
     Entries
    </text>
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,53)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,53)">
     25000
    </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,88)">
+   <text text-anchor="start" dy=".4em" transform="translate(12,88)">
     Mean x
    </text>
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,88)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,88)">
     0.003181
    </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,124)">
+   <text text-anchor="start" dy=".4em" transform="translate(12,124)">
     Mean y
    </text>
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,124)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,124)">
     0.009441
    </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,159)">
+   <text text-anchor="start" dy=".4em" transform="translate(12,159)">
     Std Dev x
    </text>
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,159)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,159)">
     1.004
    </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,194)">
+   <text text-anchor="start" dy=".4em" transform="translate(12,194)">
     Std Dev y
    </text>
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(228,194)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,194)">
     0.9972
    </text>
    <path d="M0,35h240" style="stroke: black; stroke-width: 1;"></path>

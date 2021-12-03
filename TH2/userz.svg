@@ -20,17 +20,17 @@
     <g transform="translate(0,640)">
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
      <path d="M0,-24v24m240,-24v24m240,-24v24m240,-24v24m240,-12v12" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="31" space="preserve">
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(120,11)">
+     <g font-family="Arial" font-size="31" space="preserve" fill="black" text-anchor="middle">
+      <text dy=".8em" transform="translate(120,11)">
        myvar1
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(360,11)">
+      <text dy=".8em" transform="translate(360,11)">
        Expression 2
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(600,11)">
+      <text dy=".8em" transform="translate(600,11)">
        Variable 3
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(840,11)">
+      <text dy=".8em" transform="translate(840,11)">
        Variable 4
       </text>
      </g>
@@ -38,17 +38,17 @@
     <g>
      <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
      <path d="M36,640h-36m36,-160h-36m36,-160h-36m36,-160h-36m18,-160h-18" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="16" space="preserve">
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,560)">
+     <g font-family="Arial" font-size="16" space="preserve" fill="black" text-anchor="end">
+      <text dy=".4em" transform="translate(-4,560)">
        myvar1
       </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,400)">
+      <text dy=".4em" transform="translate(-4,400)">
        Expression 2
       </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,240)">
+      <text dy=".4em" transform="translate(-4,240)">
        Variable 3
       </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,80)">
+      <text dy=".4em" transform="translate(-4,80)">
        Variable 4
       </text>
      </g>
@@ -80,38 +80,38 @@
    <g transform="translate(48)">
     <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
     <path d="M0,640h-33m33,-64h-33m33,-64h-33m33,-64h-33m33,-64h-33m33,-64h-33m33,-64h-33m33,-64h-33m33,-64h-33m33,-64h-33m33,-64h-33" style="stroke: black; stroke-width: 1;"></path>
-    <g font-family="Arial" font-size="28" space="preserve">
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,640)">
+    <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="start">
+     <text dy=".4em" transform="translate(4,640)">
       -100
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,576)">
+     <text dy=".4em" transform="translate(4,576)">
       -80
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,512)">
+     <text dy=".4em" transform="translate(4,512)">
       -60
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,448)">
+     <text dy=".4em" transform="translate(4,448)">
       -40
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,384)">
+     <text dy=".4em" transform="translate(4,384)">
       -20
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,320)">
+     <text dy=".4em" transform="translate(4,320)">
       0
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,256)">
+     <text dy=".4em" transform="translate(4,256)">
       20
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,192)">
+     <text dy=".4em" transform="translate(4,192)">
       40
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,128)">
+     <text dy=".4em" transform="translate(4,128)">
       60
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,64)">
+     <text dy=".4em" transform="translate(4,64)">
       80
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(4)">
+     <text dy=".4em" transform="translate(4)">
       100
      </text>
     </g>
