@@ -28,38 +28,38 @@
       <g transform="translate(0,192)">
        <path d="M0,0h451" style="stroke: black; stroke-width: 1;"></path>
        <path d="M0,-7v7m11,-4v4m12,-4v4m11,-4v4m11,-7v7m11,-4v4m12,-4v4m11,-4v4m11,-7v7m11,-4v4m12,-4v4m11,-4v4m11,-7v7m12,-4v4m11,-4v4m11,-4v4m11,-7v7m12,-4v4m11,-4v4m11,-4v4m12,-7v7m11,-4v4m11,-4v4m11,-4v4m12,-7v7m11,-4v4m11,-4v4m11,-4v4m12,-7v7m11,-4v4m11,-4v4m12,-4v4m11,-7v7m11,-4v4m11,-4v4m12,-4v4m11,-7v7m11,-4v4m11,-4v4m12,-4v4m11,-7v7" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="8" space="preserve">
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,3)">
+       <g font-family="Arial" font-size="8" space="preserve" fill="black" text-anchor="middle">
+        <text dy=".8em" transform="translate(0,3)">
          -10
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(45,3)">
+        <text dy=".8em" transform="translate(45,3)">
          -8
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(90,3)">
+        <text dy=".8em" transform="translate(90,3)">
          -6
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(135,3)">
+        <text dy=".8em" transform="translate(135,3)">
          -4
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(180,3)">
+        <text dy=".8em" transform="translate(180,3)">
          -2
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(226,3)">
+        <text dy=".8em" transform="translate(226,3)">
          0
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(271,3)">
+        <text dy=".8em" transform="translate(271,3)">
          2
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(316,3)">
+        <text dy=".8em" transform="translate(316,3)">
          4
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(361,3)">
+        <text dy=".8em" transform="translate(361,3)">
          6
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(406,3)">
+        <text dy=".8em" transform="translate(406,3)">
          8
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(451,3)">
+        <text dy=".8em" transform="translate(451,3)">
          10
         </text>
        </g>
@@ -69,18 +69,18 @@
        <path d="M9,179h-9m9,-11h-9m9,-8h-9m9,-7h-9m9,-6h-9m9,-5h-9m9,-5h-9m17,-4h-17m9,-26h-9m9,-15h-9m9,-11h-9m9,-8h-9m9,-7h-9m9,-6h-9m9,-5h-9m9,-5h-9m17,-4h-17m9,-26h-9m9,-15h-9" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="8" space="preserve">
         <g transform="translate(-12,136)">
-         <text style="fill: black;" font-size="8">
+         <text fill="black" font-size="8">
           10
          </text>
-         <text style="fill: black;" font-size="5" transform="translate(8,-4)">
+         <text fill="black" font-size="5" transform="translate(8,-4)">
           0
          </text>
         </g>
         <g transform="translate(-11,49)">
-         <text style="fill: black;" font-size="8">
+         <text fill="black" font-size="8">
           10
          </text>
-         <text style="fill: black;" font-size="5" transform="translate(8,-4)">
+         <text fill="black" font-size="5" transform="translate(8,-4)">
           1
          </text>
         </g>
@@ -94,13 +94,13 @@
       x*sin(x)*exp(-0.1*x)+15
      </text>
     </g>
-    <g transform="translate(147,90)" font-family="Arial" font-size="15" space="preserve">
+    <g transform="translate(147,90)" font-family="Arial" font-size="15" space="preserve" fill="black" text-anchor="start">
      <path d="M4,4v41h271v-41z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H271V41H0Z" style="fill: #dfbb88; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(14,10)">
+     <text dy=".4em" transform="translate(14,10)">
       Log scale along Y axis.
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(14,31)">
+     <text dy=".4em" transform="translate(14,31)">
       More Log labels requested.
      </text>
     </g>
@@ -127,74 +127,74 @@
        <path d="M105,-7v7m83,-7v7m59,-7v7m46,-7v7m37,-7v7m32,-7v7m27,-7v7m25,-7v7m21,-7v7" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="8" space="preserve">
         <g transform="translate(95,12)">
-         <text style="fill: black;" font-size="8">
+         <text fill="black" font-size="8">
           2×10
          </text>
-         <text style="fill: black;" font-size="5" transform="translate(17,-4)">
+         <text fill="black" font-size="5" transform="translate(17,-4)">
           2
          </text>
         </g>
         <g transform="translate(178,12)">
-         <text style="fill: black;" font-size="8">
+         <text fill="black" font-size="8">
           3×10
          </text>
-         <text style="fill: black;" font-size="5" transform="translate(17,-4)">
+         <text fill="black" font-size="5" transform="translate(17,-4)">
           2
          </text>
         </g>
         <g transform="translate(237,12)">
-         <text style="fill: black;" font-size="8">
+         <text fill="black" font-size="8">
           4×10
          </text>
-         <text style="fill: black;" font-size="5" transform="translate(17,-4)">
+         <text fill="black" font-size="5" transform="translate(17,-4)">
           2
          </text>
         </g>
         <g transform="translate(283,12)">
-         <text style="fill: black;" font-size="8">
+         <text fill="black" font-size="8">
           5×10
          </text>
-         <text style="fill: black;" font-size="5" transform="translate(17,-4)">
+         <text fill="black" font-size="5" transform="translate(17,-4)">
           2
          </text>
         </g>
         <g transform="translate(320,12)">
-         <text style="fill: black;" font-size="8">
+         <text fill="black" font-size="8">
           6×10
          </text>
-         <text style="fill: black;" font-size="5" transform="translate(17,-4)">
+         <text fill="black" font-size="5" transform="translate(17,-4)">
           2
          </text>
         </g>
         <g transform="translate(352,12)">
-         <text style="fill: black;" font-size="8">
+         <text fill="black" font-size="8">
           7×10
          </text>
-         <text style="fill: black;" font-size="5" transform="translate(17,-4)">
+         <text fill="black" font-size="5" transform="translate(17,-4)">
           2
          </text>
         </g>
         <g transform="translate(379,12)">
-         <text style="fill: black;" font-size="8">
+         <text fill="black" font-size="8">
           8×10
          </text>
-         <text style="fill: black;" font-size="5" transform="translate(17,-4)">
+         <text fill="black" font-size="5" transform="translate(17,-4)">
           2
          </text>
         </g>
         <g transform="translate(404,12)">
-         <text style="fill: black;" font-size="8">
+         <text fill="black" font-size="8">
           9×10
          </text>
-         <text style="fill: black;" font-size="5" transform="translate(17,-4)">
+         <text fill="black" font-size="5" transform="translate(17,-4)">
           2
          </text>
         </g>
         <g transform="translate(430,12)">
-         <text style="fill: black;" font-size="8">
+         <text fill="black" font-size="8">
           10
          </text>
-         <text style="fill: black;" font-size="5" transform="translate(8,-4)">
+         <text fill="black" font-size="5" transform="translate(8,-4)">
           3
          </text>
         </g>
@@ -203,44 +203,44 @@
       <g>
        <path d="M0,0v192" style="stroke: black; stroke-width: 1;"></path>
        <path d="M17,187h-17m17,-9h-17m17,-8h-17m17,-7h-17m17,-48h-17m17,-27h-17m17,-20h-17m17,-15h-17m17,-13h-17m17,-10h-17m17,-9h-17m17,-8h-17m17,-7h-17" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="6" space="preserve">
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-1,187)">
+       <g font-family="Arial" font-size="6" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-1,187)">
          70
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-1,178)">
+        <text dy=".4em" transform="translate(-1,178)">
          80
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-1,170)">
+        <text dy=".4em" transform="translate(-1,170)">
          90
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-1,163)">
+        <text dy=".4em" transform="translate(-1,163)">
          100
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-1,115)">
+        <text dy=".4em" transform="translate(-1,115)">
          200
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-1,88)">
+        <text dy=".4em" transform="translate(-1,88)">
          300
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-1,68)">
+        <text dy=".4em" transform="translate(-1,68)">
          400
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-1,53)">
+        <text dy=".4em" transform="translate(-1,53)">
          500
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-1,40)">
+        <text dy=".4em" transform="translate(-1,40)">
          600
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-1,30)">
+        <text dy=".4em" transform="translate(-1,30)">
          700
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-1,21)">
+        <text dy=".4em" transform="translate(-1,21)">
          800
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-1,13)">
+        <text dy=".4em" transform="translate(-1,13)">
          900
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-1,6)">
+        <text dy=".4em" transform="translate(-1,6)">
          1000
         </text>
        </g>
@@ -253,16 +253,16 @@
       Graph
      </text>
     </g>
-    <g transform="translate(102,147)" font-family="Arial" font-size="12" space="preserve">
+    <g transform="translate(102,147)" font-family="Arial" font-size="12" space="preserve" fill="black" text-anchor="start">
      <path d="M4,4v55h247v-55z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H247V55H0Z" style="fill: #dfbb88; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,9)">
+     <text dy=".4em" transform="translate(12,9)">
       Log scale along X and Y axis.
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,28)">
+     <text dy=".4em" transform="translate(12,28)">
       More Log labels on both.
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,46)">
+     <text dy=".4em" transform="translate(12,46)">
       No exponent along Y axis.
      </text>
     </g>
@@ -410,11 +410,11 @@
       <g transform="translate(0,330)">
        <path d="M0,0h902" style="stroke: black; stroke-width: 1;"></path>
        <path d="M0,-12v12m205,-6v6m120,-6v6m86,-6v6m66,-6v6m54,-6v6m46,-6v6m39,-6v6m35,-6v6m31,-12v12m206,-6v6" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="14" space="preserve">
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,4)">
+       <g font-family="Arial" font-size="14" space="preserve" fill="black" text-anchor="middle">
+        <text dy=".8em" transform="translate(0,4)">
          1
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(682,4)">
+        <text dy=".8em" transform="translate(682,4)">
          10
         </text>
        </g>
@@ -422,8 +422,8 @@
       <g>
        <path d="M0,0v330" style="stroke: black; stroke-width: 1;"></path>
        <path d="M17,306h-17m17,-24h-17m17,-20h-17m17,-18h-17m34,-17h-34m17,-106h-17m17,-63h-17m17,-44h-17" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="14" space="preserve">
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,227)">
+       <g font-family="Arial" font-size="14" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-2,227)">
          10
         </text>
        </g>
@@ -436,16 +436,16 @@
       x*sin(x+10)+25
      </text>
     </g>
-    <g transform="translate(167,206)" font-family="Arial" font-size="17" space="preserve">
+    <g transform="translate(167,206)" font-family="Arial" font-size="17" space="preserve" fill="black" text-anchor="start">
      <path d="M4,4v97h597v-97z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H597V97H0Z" style="fill: #dfbb88; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(30,16)">
+     <text dy=".4em" transform="translate(30,16)">
       Log scale along X and Y axis.
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(30,49)">
+     <text dy=".4em" transform="translate(30,49)">
       More Log labels on both.
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(30,81)">
+     <text dy=".4em" transform="translate(30,81)">
       The labels have no exponents (they would be 0 or 1)
      </text>
     </g>

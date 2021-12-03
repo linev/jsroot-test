@@ -27,26 +27,26 @@
        <path d="M35,-6v6m50,-6v6m35,-6v6m28,-6v6m22,-6v6m19,-6v6m17,-6v6m14,-6v6m13,-12v12m85,-6v6m50,-6v6m35,-6v6m28,-6v6m22,-6v6m19,-6v6m16,-6v6m15,-6v6m13,-12v12m85,-6v6m50,-6v6m35,-6v6m28,-6v6m22,-6v6m19,-6v6m16,-6v6m15,-6v6m13,-12v12m85,-6v6m50,-6v6" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="13" space="preserve">
         <g transform="translate(224,17)">
-         <text style="fill: black;" font-size="13">
+         <text fill="black" font-size="13">
           10
          </text>
-         <text style="fill: black;" font-size="8" transform="translate(14,-6)">
+         <text fill="black" font-size="8" transform="translate(14,-6)">
           1
          </text>
         </g>
         <g transform="translate(507,17)">
-         <text style="fill: black;" font-size="13">
+         <text fill="black" font-size="13">
           10
          </text>
-         <text style="fill: black;" font-size="8" transform="translate(14,-6)">
+         <text fill="black" font-size="8" transform="translate(14,-6)">
           2
          </text>
         </g>
         <g transform="translate(790,17)">
-         <text style="fill: black;" font-size="13">
+         <text fill="black" font-size="13">
           10
          </text>
-         <text style="fill: black;" font-size="8" transform="translate(14,-6)">
+         <text fill="black" font-size="8" transform="translate(14,-6)">
           3
          </text>
         </g>
@@ -55,50 +55,50 @@
       <g>
        <path d="M0,0v307" style="stroke: black; stroke-width: 1;"></path>
        <path d="M35,307h-35m35,-20h-35m35,-21h-35m35,-20h-35m35,-21h-35m35,-20h-35m35,-21h-35m35,-20h-35m35,-21h-35m35,-20h-35m35,-21h-35m35,-20h-35m35,-21h-35m35,-20h-35m35,-21h-35m18,-20h-18" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="13" space="preserve">
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,297)">
+       <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-2,297)">
          DE
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,277)">
+        <text dy=".4em" transform="translate(-2,277)">
          CH
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,256)">
+        <text dy=".4em" transform="translate(-2,256)">
          FR
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,236)">
+        <text dy=".4em" transform="translate(-2,236)">
          IT
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,215)">
+        <text dy=".4em" transform="translate(-2,215)">
          NL
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,195)">
+        <text dy=".4em" transform="translate(-2,195)">
          GB
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,174)">
+        <text dy=".4em" transform="translate(-2,174)">
          AT
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,154)">
+        <text dy=".4em" transform="translate(-2,154)">
          BE
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,133)">
+        <text dy=".4em" transform="translate(-2,133)">
          NO
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,113)">
+        <text dy=".4em" transform="translate(-2,113)">
          ES
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,92)">
+        <text dy=".4em" transform="translate(-2,92)">
          DK
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,72)">
+        <text dy=".4em" transform="translate(-2,72)">
          SE
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,51)">
+        <text dy=".4em" transform="translate(-2,51)">
          GR
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,31)">
+        <text dy=".4em" transform="translate(-2,31)">
          ZZ
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,10)">
+        <text dy=".4em" transform="translate(-2,10)">
          PT
         </text>
        </g>
@@ -110,27 +110,27 @@
       </g>
      </g>
     </g>
-    <g transform="translate(917,25)" font-family="Arial" font-size="12" space="preserve">
+    <g transform="translate(917,25)" font-family="Arial" font-size="12" space="preserve" fill="black">
      <path d="M0,0H235V61H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(118,8)">
+     <text text-anchor="middle" dy=".4em" transform="translate(118,8)">
       htemp
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,23)">
+     <text text-anchor="start" dy=".4em" transform="translate(12,23)">
       Entries
      </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(223,23)">
+     <text text-anchor="end" dy=".4em" transform="translate(223,23)">
       3354
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,38)">
+     <text text-anchor="start" dy=".4em" transform="translate(12,38)">
       Mean
      </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(223,38)">
+     <text text-anchor="end" dy=".4em" transform="translate(223,38)">
       3.247
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(12,53)">
+     <text text-anchor="start" dy=".4em" transform="translate(12,53)">
       Std Dev
      </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(223,53)">
+     <text text-anchor="end" dy=".4em" transform="translate(223,53)">
       2.337
      </text>
      <path d="M0,15h235" style="stroke: black; stroke-width: 1;"></path>
@@ -169,44 +169,44 @@
       <g transform="translate(0,307)">
        <path d="M0,0h941" style="stroke: black; stroke-width: 1;"></path>
        <path d="M0,-12v12m72,-12v12m73,-12v12m72,-12v12m73,-12v12m72,-12v12m72,-12v12m73,-12v12m72,-12v12m72,-12v12m73,-12v12m72,-12v12m73,-12v12m72,-6v6" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="13" space="preserve">
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(36,4)">
+       <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="middle">
+        <text dy=".8em" transform="translate(36,4)">
          PS
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(109,4)">
+        <text dy=".8em" transform="translate(109,4)">
          EP
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(181,4)">
+        <text dy=".8em" transform="translate(181,4)">
          ST
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(254,4)">
+        <text dy=".8em" transform="translate(254,4)">
          SPS
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(326,4)">
+        <text dy=".8em" transform="translate(326,4)">
          LEP
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(398,4)">
+        <text dy=".8em" transform="translate(398,4)">
          EF
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(471,4)">
+        <text dy=".8em" transform="translate(471,4)">
          FI
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(543,4)">
+        <text dy=".8em" transform="translate(543,4)">
          PE
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(615,4)">
+        <text dy=".8em" transform="translate(615,4)">
          DG
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(688,4)">
+        <text dy=".8em" transform="translate(688,4)">
          DD
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(760,4)">
+        <text dy=".8em" transform="translate(760,4)">
          TIS
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(833,4)">
+        <text dy=".8em" transform="translate(833,4)">
          AG
         </text>
-        <text fill="black" text-anchor="middle" dy=".8em" transform="translate(905,4)">
+        <text dy=".8em" transform="translate(905,4)">
          TH
         </text>
        </g>
@@ -214,23 +214,23 @@
       <g>
        <path d="M0,0v307" style="stroke: black; stroke-width: 1;"></path>
        <path d="M35,307h-35m18,-11h-18m18,-11h-18m18,-11h-18m18,-11h-18m35,-11h-35m18,-11h-18m18,-11h-18m18,-11h-18m18,-11h-18m35,-11h-35m18,-11h-18m18,-11h-18m18,-11h-18m18,-11h-18m35,-11h-35m18,-11h-18m18,-11h-18m18,-11h-18m18,-11h-18m35,-11h-35m18,-11h-18m18,-11h-18m18,-11h-18m18,-11h-18m35,-11h-35m18,-11h-18m18,-11h-18" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="13" space="preserve">
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,307)">
+       <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-2,307)">
          0
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,252)">
+        <text dy=".4em" transform="translate(-2,252)">
          100
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,197)">
+        <text dy=".4em" transform="translate(-2,197)">
          200
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,142)">
+        <text dy=".4em" transform="translate(-2,142)">
          300
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,87)">
+        <text dy=".4em" transform="translate(-2,87)">
          400
         </text>
-        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-2,32)">
+        <text dy=".4em" transform="translate(-2,32)">
          500
         </text>
        </g>
