@@ -10,21 +10,21 @@
   <g transform="translate(180,4)" font-family="Arial" font-size="36" space="preserve">
    <path d="M0,0H840V44H0Z" style="fill: none;"></path>
    <g transform="translate(53,35)">
-    <text style="fill: black;" font-size="37">
+    <text fill="black" font-size="37">
      pz:py:px {(pz&lt;10 &amp;&amp; pz&gt;6)+(pz&lt;4 &amp;&amp; pz&gt;3)}
     </text>
    </g>
   </g>
-  <g transform="translate(52,60)" font-family="Arial" font-size="31" space="preserve" font-weight="bold">
+  <g transform="translate(52,60)" font-family="Arial" font-size="31" space="preserve" font-weight="bold" fill="black" text-anchor="start">
    <path d="M4,4v161h1096v-161z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H1096V161H0Z" style="fill: #dfbb88; stroke: black; stroke-width: 1;"></path>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(55,27)">
+   <text dy=".4em" transform="translate(55,27)">
     You can interactively rotate this view in 2 ways:
    </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(55,81)">
+   <text dy=".4em" transform="translate(55,81)">
     - With the RotateCube in clicking in this pad
    </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(55,134)">
+   <text dy=".4em" transform="translate(55,134)">
     - Selecting View with x3d in the View menu
    </text>
   </g>
