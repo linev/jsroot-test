@@ -17,32 +17,32 @@
     <g transform="translate(0,640)">
      <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
      <path d="M0,-24v24m30,-12v12m30,-12v12m30,-12v12m29,-24v24m30,-12v12m30,-12v12m30,-12v12m30,-24v24m30,-12v12m30,-12v12m30,-12v12m29,-24v24m30,-12v12m30,-12v12m30,-12v12m30,-24v24m30,-12v12m30,-12v12m29,-12v12m30,-24v24m30,-12v12m30,-12v12m30,-12v12m30,-24v24m30,-12v12m30,-12v12m29,-12v12m30,-24v24m30,-12v12m30,-12v12m30,-12v12m30,-24v24" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve">
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,6)">
+     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="middle">
+      <text dy=".8em" transform="translate(0,6)">
        0
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(119,6)">
+      <text dy=".8em" transform="translate(119,6)">
        2
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(239,6)">
+      <text dy=".8em" transform="translate(239,6)">
        4
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(358,6)">
+      <text dy=".8em" transform="translate(358,6)">
        6
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(478,6)">
+      <text dy=".8em" transform="translate(478,6)">
        8
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(597,6)">
+      <text dy=".8em" transform="translate(597,6)">
        10
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(717,6)">
+      <text dy=".8em" transform="translate(717,6)">
        12
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(836,6)">
+      <text dy=".8em" transform="translate(836,6)">
        14
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(956,6)">
+      <text dy=".8em" transform="translate(956,6)">
        16
       </text>
      </g>
@@ -55,32 +55,32 @@
     <g>
      <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
      <path d="M36,640h-36m18,-19h-18m18,-18h-18m18,-19h-18m36,-19h-36m18,-19h-18m18,-18h-18m18,-19h-18m36,-19h-36m18,-19h-18m18,-18h-18m18,-19h-18m36,-19h-36m18,-19h-18m18,-18h-18m18,-19h-18m36,-19h-36m18,-18h-18m18,-19h-18m18,-19h-18m36,-19h-36m18,-18h-18m18,-19h-18m18,-19h-18m36,-19h-36m18,-18h-18m18,-19h-18m18,-19h-18m36,-18h-36m18,-19h-18m18,-19h-18m18,-19h-18m36,-18h-36m18,-19h-18m18,-19h-18" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve">
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,640)">
+     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
+      <text dy=".4em" transform="translate(-4,640)">
        0
       </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,565)">
+      <text dy=".4em" transform="translate(-4,565)">
        0.02
       </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,490)">
+      <text dy=".4em" transform="translate(-4,490)">
        0.04
       </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,415)">
+      <text dy=".4em" transform="translate(-4,415)">
        0.06
       </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,340)">
+      <text dy=".4em" transform="translate(-4,340)">
        0.08
       </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,265)">
+      <text dy=".4em" transform="translate(-4,265)">
        0.10
       </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,190)">
+      <text dy=".4em" transform="translate(-4,190)">
        0.12
       </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,116)">
+      <text dy=".4em" transform="translate(-4,116)">
        0.14
       </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,41)">
+      <text dy=".4em" transform="translate(-4,41)">
        0.16
       </text>
      </g>
@@ -100,15 +100,15 @@
     &lt;q&gt; = 9.031923
    </text>
    <g transform="translate(90,38) scale(0.463)">
-    <text style="fill: black;" font-size="45" transform="translate(0,-27)">
+    <text fill="black" font-size="45" transform="translate(0,-27)">
      Equilibrium charge
     </text>
-    <text style="fill: black;" font-size="45" transform="translate(21,27)">
+    <text fill="black" font-size="45" transform="translate(21,27)">
      state distribution
     </text>
    </g>
    <g transform="translate(90,138) scale(0.463)">
-    <text style="fill: black;" font-size="45">
+    <text fill="black" font-size="45">
      σ   = 5.779455
     </text>
    </g>
@@ -116,13 +116,13 @@
   <g transform="translate(180,4)" font-family="Arial" font-size="24" space="preserve">
    <path d="M0,0H840V59H0Z" style="fill: none;"></path>
    <g transform="translate(20,39) scale(0.493)">
-    <text style="fill: black;" font-size="49">
+    <text fill="black" font-size="49">
      U projectile at 1.4 MeV/u on
     </text>
-    <text style="fill: black;" font-size="29" transform="translate(619,-24)">
+    <text fill="black" font-size="29" transform="translate(619,-24)">
      40
     </text>
-    <text style="fill: black;" font-size="49" x="651">
+    <text fill="black" font-size="49" x="651">
      Ar target with 1 mbar pressure. (equilibrium)
     </text>
    </g>

@@ -19,18 +19,18 @@
      <path d="M75,-12v12m60,-12v12m47,-12v12m38,-12v12m32,-12v12m28,-12v12m24,-12v12m22,-24v24m145,-12v12m84,-12v12m60,-12v12m47,-12v12m38,-12v12m32,-12v12m28,-12v12m24,-12v12m22,-24v24m145,-12v12" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
       <g transform="translate(304,36)">
-       <text style="fill: black;" font-size="28">
+       <text fill="black" font-size="28">
         10
        </text>
-       <text style="fill: black;" font-size="17" transform="translate(30,-14)">
+       <text fill="black" font-size="17" transform="translate(30,-14)">
         -1
        </text>
       </g>
       <g transform="translate(786,36)">
-       <text style="fill: black;" font-size="28">
+       <text fill="black" font-size="28">
         10
        </text>
-       <text style="fill: black;" font-size="17" transform="translate(30,-14)">
+       <text fill="black" font-size="17" transform="translate(30,-14)">
         0
        </text>
       </g>
@@ -39,8 +39,8 @@
     <g>
      <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
      <path d="M18,489h-18m18,-118h-18m18,-83h-18m18,-65h-18m18,-53h-18m18,-44h-18m18,-39h-18m18,-34h-18m36,-31h-36" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve">
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,22)">
+     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
+      <text dy=".4em" transform="translate(-4,22)">
        10
       </text>
      </g>

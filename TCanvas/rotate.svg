@@ -60,38 +60,38 @@
     <g transform="translate(0,960)">
      <path d="M0,0h640" style="stroke: black; stroke-width: 1;"></path>
      <path d="M0,-24v24m16,-12v12m16,-12v12m16,-12v12m16,-24v24m16,-12v12m16,-12v12m16,-12v12m16,-24v24m16,-12v12m16,-12v12m16,-12v12m16,-24v24m16,-12v12m16,-12v12m16,-12v12m16,-24v24m16,-12v12m16,-12v12m16,-12v12m16,-24v24m16,-12v12m16,-12v12m16,-12v12m16,-24v24m16,-12v12m16,-12v12m16,-12v12m16,-24v24m16,-12v12m16,-12v12m16,-12v12m16,-24v24m16,-12v12m16,-12v12m16,-12v12m16,-24v24m16,-12v12m16,-12v12m16,-12v12m16,-24v24" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve">
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,6)">
+     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="middle">
+      <text dy=".8em" transform="translate(0,6)">
        -10
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(64,6)">
+      <text dy=".8em" transform="translate(64,6)">
        -8
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(128,6)">
+      <text dy=".8em" transform="translate(128,6)">
        -6
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(192,6)">
+      <text dy=".8em" transform="translate(192,6)">
        -4
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(256,6)">
+      <text dy=".8em" transform="translate(256,6)">
        -2
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(320,6)">
+      <text dy=".8em" transform="translate(320,6)">
        0
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(384,6)">
+      <text dy=".8em" transform="translate(384,6)">
        2
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(448,6)">
+      <text dy=".8em" transform="translate(448,6)">
        4
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(512,6)">
+      <text dy=".8em" transform="translate(512,6)">
        6
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(576,6)">
+      <text dy=".8em" transform="translate(576,6)">
        8
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(640,6)">
+      <text dy=".8em" transform="translate(640,6)">
        10
       </text>
      </g>
@@ -99,26 +99,26 @@
     <g>
      <path d="M0,0v960" style="stroke: black; stroke-width: 1;"></path>
      <path d="M36,960h-36m18,-37h-18m18,-38h-18m18,-37h-18m36,-38h-36m18,-37h-18m18,-37h-18m18,-38h-18m36,-37h-36m18,-37h-18m18,-38h-18m18,-37h-18m36,-38h-36m18,-37h-18m18,-37h-18m18,-38h-18m36,-37h-36m18,-37h-18m18,-38h-18m18,-37h-18m36,-38h-36m18,-37h-18m18,-37h-18m18,-38h-18m36,-37h-36m18,-37h-18" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve">
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,960)">
+     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
+      <text dy=".4em" transform="translate(-4,960)">
        0
       </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,810)">
+      <text dy=".4em" transform="translate(-4,810)">
        200
       </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,661)">
+      <text dy=".4em" transform="translate(-4,661)">
        400
       </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,511)">
+      <text dy=".4em" transform="translate(-4,511)">
        600
       </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,362)">
+      <text dy=".4em" transform="translate(-4,362)">
        800
       </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,212)">
+      <text dy=".4em" transform="translate(-4,212)">
        1000
       </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-4,63)">
+      <text dy=".4em" transform="translate(-4,63)">
        1200
       </text>
      </g>
@@ -142,19 +142,19 @@
     Graph with error bars
    </text>
    <g transform="translate(114,104) scale(0.442)">
-    <text style="fill: black;" font-size="34">
+    <text fill="black" font-size="34">
      Function abs(
     </text>
     <g transform="translate(208)">
-     <text style="fill: black;" font-size="34" transform="translate(0,-20)">
+     <text fill="black" font-size="34" transform="translate(0,-20)">
       sin(x)
      </text>
      <path style="stroke: black; stroke-width: 2; fill: none;" d="M0,-12h82"></path>
-     <text style="fill: black;" font-size="34" transform="translate(34,21)">
+     <text fill="black" font-size="34" transform="translate(34,21)">
       x
      </text>
     </g>
-    <text style="fill: black;" font-size="34" x="293">
+    <text fill="black" font-size="34" x="293">
      )
     </text>
    </g>

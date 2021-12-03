@@ -431,38 +431,38 @@
      <path d="M0,0h948" style="stroke: black; stroke-width: 1;"></path>
      <path d="M11,-12v12m28,-12v12m27,-12v12m28,-12v12m27,-24v24m28,-12v12m27,-12v12m28,-12v12m27,-12v12m28,-24v24m28,-12v12m27,-12v12m28,-12v12m27,-12v12m28,-24v24m27,-12v12m28,-12v12m28,-12v12m27,-12v12m28,-24v24m27,-12v12m28,-12v12m27,-12v12m28,-12v12m27,-24v24m28,-12v12m28,-12v12m27,-12v12m28,-12v12m27,-24v24m28,-12v12m27,-12v12m28,-12v12m27,-12v12m28,-24v24" style="stroke: black; stroke-width: 1;"></path>
      <path d="M11,-620v-12m28,12v-12m27,12v-12m28,12v-12m27,24v-24m28,12v-12m27,12v-12m28,12v-12m27,12v-12m28,24v-24m28,12v-12m27,12v-12m28,12v-12m27,12v-12m28,24v-24m27,12v-12m28,12v-12m28,12v-12m27,12v-12m28,24v-24m27,12v-12m28,12v-12m27,12v-12m28,12v-12m27,24v-24m28,12v-12m28,12v-12m27,12v-12m28,12v-12m27,24v-24m28,12v-12m27,12v-12m28,12v-12m27,12v-12m28,24v-24" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="40" space="preserve">
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(121,6)">
+     <g font-family="Arial" font-size="40" space="preserve" fill="black" text-anchor="middle">
+      <text dy=".8em" transform="translate(121,6)">
        500
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(259,6)">
+      <text dy=".8em" transform="translate(259,6)">
        1000
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(397,6)">
+      <text dy=".8em" transform="translate(397,6)">
        1500
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(535,6)">
+      <text dy=".8em" transform="translate(535,6)">
        2000
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(672,6)">
+      <text dy=".8em" transform="translate(672,6)">
        2500
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(810,6)">
+      <text dy=".8em" transform="translate(810,6)">
        3000
       </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(948,6)">
+      <text dy=".8em" transform="translate(948,6)">
        3500
       </text>
      </g>
      <g font-family="Arial" font-size="40" space="preserve" transform="translate(948,90)">
       <g transform="translate(-195,12)">
-       <text style="fill: black;" font-size="40">
+       <text fill="black" font-size="40">
         E
        </text>
-       <text style="fill: black;" font-size="24" transform="translate(25,8)">
+       <text fill="black" font-size="24" transform="translate(25,8)">
         T,jet
        </text>
-       <text style="fill: black;" font-size="40" x="72">
+       <text fill="black" font-size="40" x="72">
         [GeV]
        </text>
       </g>
@@ -474,109 +474,109 @@
      <path d="M912,632h36m-18,-18h18m-18,-11h18m-18,-8h18m-18,-6h18m-18,-5h18m-18,-4h18m-18,-3h18m-18,-4h18m-36,-2h36m-18,-19h18m-18,-11h18m-18,-7h18m-18,-6h18m-18,-5h18m-18,-4h18m-18,-4h18m-18,-3h18m-36,-3h36m-18,-18h18m-18,-11h18m-18,-8h18m-18,-6h18m-18,-4h18m-18,-5h18m-18,-3h18m-18,-3h18m-36,-3h36m-18,-19h18m-18,-10h18m-18,-8h18m-18,-6h18m-18,-5h18m-18,-4h18m-18,-3h18m-18,-4h18m-36,-2h36m-18,-19h18m-18,-11h18m-18,-7h18m-18,-6h18m-18,-5h18m-18,-4h18m-18,-4h18m-18,-3h18m-36,-3h36m-18,-18h18m-18,-11h18m-18,-8h18m-18,-6h18m-18,-5h18m-18,-4h18m-18,-3h18m-18,-3h18m-36,-3h36m-18,-19h18m-18,-10h18m-18,-8h18m-18,-6h18m-18,-5h18m-18,-4h18m-18,-4h18m-18,-3h18m-36,-2h36m-18,-19h18m-18,-11h18m-18,-7h18m-18,-6h18m-18,-5h18m-18,-4h18m-18,-4h18m-18,-3h18m-36,-3h36m-18,-18h18m-18,-11h18m-18,-8h18m-18,-6h18m-18,-5h18m-18,-4h18m-18,-3h18m-18,-3h18m-36,-3h36m-18,-19h18m-18,-10h18m-18,-8h18m-18,-6h18m-18,-5h18m-18,-4h18m-18,-4h18m-18,-3h18m-36,-3h36m-18,-18h18" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="40" space="preserve">
       <g transform="translate(-67,648)">
-       <text style="fill: black;" font-size="40">
+       <text fill="black" font-size="40">
         10
        </text>
-       <text style="fill: black;" font-size="24" transform="translate(42,-19)">
+       <text fill="black" font-size="24" transform="translate(42,-19)">
         -3
        </text>
       </g>
       <g transform="translate(-67,587)">
-       <text style="fill: black;" font-size="40">
+       <text fill="black" font-size="40">
         10
        </text>
-       <text style="fill: black;" font-size="24" transform="translate(42,-19)">
+       <text fill="black" font-size="24" transform="translate(42,-19)">
         -2
        </text>
       </g>
       <g transform="translate(-66,525)">
-       <text style="fill: black;" font-size="40">
+       <text fill="black" font-size="40">
         10
        </text>
-       <text style="fill: black;" font-size="24" transform="translate(42,-19)">
+       <text fill="black" font-size="24" transform="translate(42,-19)">
         -1
        </text>
       </g>
       <g transform="translate(-59,464)">
-       <text style="fill: black;" font-size="40">
+       <text fill="black" font-size="40">
         10
        </text>
-       <text style="fill: black;" font-size="24" transform="translate(42,-19)">
+       <text fill="black" font-size="24" transform="translate(42,-19)">
         0
        </text>
       </g>
       <g transform="translate(-58,403)">
-       <text style="fill: black;" font-size="40">
+       <text fill="black" font-size="40">
         10
        </text>
-       <text style="fill: black;" font-size="24" transform="translate(42,-19)">
+       <text fill="black" font-size="24" transform="translate(42,-19)">
         1
        </text>
       </g>
       <g transform="translate(-59,341)">
-       <text style="fill: black;" font-size="40">
+       <text fill="black" font-size="40">
         10
        </text>
-       <text style="fill: black;" font-size="24" transform="translate(42,-19)">
+       <text fill="black" font-size="24" transform="translate(42,-19)">
         2
        </text>
       </g>
       <g transform="translate(-59,280)">
-       <text style="fill: black;" font-size="40">
+       <text fill="black" font-size="40">
         10
        </text>
-       <text style="fill: black;" font-size="24" transform="translate(42,-19)">
+       <text fill="black" font-size="24" transform="translate(42,-19)">
         3
        </text>
       </g>
       <g transform="translate(-59,219)">
-       <text style="fill: black;" font-size="40">
+       <text fill="black" font-size="40">
         10
        </text>
-       <text style="fill: black;" font-size="24" transform="translate(42,-19)">
+       <text fill="black" font-size="24" transform="translate(42,-19)">
         4
        </text>
       </g>
       <g transform="translate(-59,157)">
-       <text style="fill: black;" font-size="40">
+       <text fill="black" font-size="40">
         10
        </text>
-       <text style="fill: black;" font-size="24" transform="translate(42,-19)">
+       <text fill="black" font-size="24" transform="translate(42,-19)">
         5
        </text>
       </g>
       <g transform="translate(-59,96)">
-       <text style="fill: black;" font-size="40">
+       <text fill="black" font-size="40">
         10
        </text>
-       <text style="fill: black;" font-size="24" transform="translate(42,-19)">
+       <text fill="black" font-size="24" transform="translate(42,-19)">
         6
        </text>
       </g>
       <g transform="translate(-59,34)">
-       <text style="fill: black;" font-size="40">
+       <text fill="black" font-size="40">
         10
        </text>
-       <text style="fill: black;" font-size="24" transform="translate(42,-19)">
+       <text fill="black" font-size="24" transform="translate(42,-19)">
         7
        </text>
       </g>
      </g>
      <g font-family="Arial" font-size="40" space="preserve" transform="translate(-134,0)">
       <g transform=" rotate(270) translate(-337,12)">
-       <text style="fill: black;" font-size="40">
+       <text fill="black" font-size="40">
         dσ
        </text>
-       <text style="fill: black;" font-size="24" transform="translate(46,8)">
+       <text fill="black" font-size="24" transform="translate(46,8)">
         jet
        </text>
-       <text style="fill: black;" font-size="40" x="72">
+       <text fill="black" font-size="40" x="72">
         /dE
        </text>
-       <text style="fill: black;" font-size="24" transform="translate(131,8)">
+       <text fill="black" font-size="24" transform="translate(131,8)">
         T,jet
        </text>
-       <text style="fill: black;" font-size="40" x="178">
+       <text fill="black" font-size="40" x="178">
         [fb/GeV]
        </text>
       </g>
@@ -588,24 +588,24 @@
    <g transform="translate(360,120)">
     <g>
      <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,-13h4l4,15l4,-36h27v4"></path>
-     <text style="fill: black;" font-size="36" transform="translate(17)">
+     <text fill="black" font-size="36" transform="translate(17)">
       s
      </text>
     </g>
-    <text style="fill: black;" font-size="36" x="44">
+    <text fill="black" font-size="36" x="44">
      = 14 TeV
     </text>
    </g>
   </g>
   <g font-family="Arial" font-size="36" space="preserve">
    <g transform="translate(684,120)">
-    <text style="fill: black;" font-size="36">
+    <text fill="black" font-size="36">
      |η
     </text>
-    <text style="fill: black;" font-size="22" transform="translate(30,7)">
+    <text fill="black" font-size="22" transform="translate(30,7)">
      jet
     </text>
-    <text style="fill: black;" font-size="36" x="54">
+    <text fill="black" font-size="36" x="54">
      |&lt;0.5
     </text>
    </g>
