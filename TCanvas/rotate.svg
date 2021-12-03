@@ -142,19 +142,19 @@
     Graph with error bars
    </text>
    <g transform="translate(114,104) scale(0.442)">
-    <text fill="black" font-size="34">
+    <text style="fill: black;" font-size="34">
      Function abs(
     </text>
     <g transform="translate(208)">
-     <text fill="black" font-size="34" transform="translate(0,-20)">
+     <text style="fill: black;" font-size="34" transform="translate(0,-20)">
       sin(x)
      </text>
      <path style="stroke: black; stroke-width: 2; fill: none;" d="M0,-12h82"></path>
-     <text fill="black" font-size="34" transform="translate(34,21)">
+     <text style="fill: black;" font-size="34" transform="translate(34,21)">
       x
      </text>
     </g>
-    <text fill="black" font-size="34" x="293">
+    <text style="fill: black;" font-size="34" x="293">
      )
     </text>
    </g>

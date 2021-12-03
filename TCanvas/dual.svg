@@ -29,7 +29,7 @@
        </g>
        <g font-family="Arial" font-size="20" space="preserve" transform="translate(461,44)">
         <g transform="translate(-132,7)">
-         <text fill="black" font-size="20">
+         <text style="fill: black;" font-size="20">
           μμ mass [GeV]
          </text>
         </g>
@@ -40,42 +40,42 @@
        <path d="M9,627h-9m9,-11h-9m9,-10h-9m9,-8h-9m9,-7h-9m17,-6h-17m9,-43h-9m9,-25h-9m9,-17h-9m9,-14h-9m9,-11h-9m9,-10h-9m9,-8h-9m9,-7h-9m17,-7h-17m9,-42h-9m9,-25h-9m9,-18h-9m9,-13h-9m9,-11h-9m9,-10h-9m9,-8h-9m9,-7h-9m17,-7h-17m9,-42h-9m9,-25h-9m9,-18h-9m9,-13h-9m9,-12h-9m9,-9h-9m9,-8h-9m9,-7h-9m17,-7h-17m9,-42h-9m9,-25h-9m9,-18h-9m9,-14h-9m9,-11h-9m9,-9h-9m9,-8h-9m9,-8h-9m17,-6h-17" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="20" space="preserve">
         <g transform="translate(-31,593)">
-         <text fill="black" font-size="20">
+         <text style="fill: black;" font-size="20">
           10
          </text>
-         <text fill="black" font-size="12" transform="translate(21,-10)">
+         <text style="fill: black;" font-size="12" transform="translate(21,-10)">
           0
          </text>
         </g>
         <g transform="translate(-30,451)">
-         <text fill="black" font-size="20">
+         <text style="fill: black;" font-size="20">
           10
          </text>
-         <text fill="black" font-size="12" transform="translate(21,-10)">
+         <text style="fill: black;" font-size="12" transform="translate(21,-10)">
           1
          </text>
         </g>
         <g transform="translate(-31,310)">
-         <text fill="black" font-size="20">
+         <text style="fill: black;" font-size="20">
           10
          </text>
-         <text fill="black" font-size="12" transform="translate(21,-10)">
+         <text style="fill: black;" font-size="12" transform="translate(21,-10)">
           2
          </text>
         </g>
         <g transform="translate(-31,169)">
-         <text fill="black" font-size="20">
+         <text style="fill: black;" font-size="20">
           10
          </text>
-         <text fill="black" font-size="12" transform="translate(21,-10)">
+         <text style="fill: black;" font-size="12" transform="translate(21,-10)">
           3
          </text>
         </g>
         <g transform="translate(-31,28)">
-         <text fill="black" font-size="20">
+         <text style="fill: black;" font-size="20">
           10
          </text>
-         <text fill="black" font-size="12" transform="translate(21,-10)">
+         <text style="fill: black;" font-size="12" transform="translate(21,-10)">
           4
          </text>
         </g>
@@ -161,7 +161,7 @@
        </g>
        <g font-family="Arial" font-size="20" space="preserve" transform="translate(461,44)">
         <g transform="translate(-132,7)">
-         <text fill="black" font-size="20">
+         <text style="fill: black;" font-size="20">
           μμ mass [GeV]
          </text>
         </g>
@@ -226,7 +226,7 @@
     <g transform="translate(86,4)" font-family="Arial" font-size="21" space="preserve">
      <path d="M0,0H403V48H0Z" style="fill: none;"></path>
      <g transform="translate(10,32) scale(0.546)">
-      <text fill="black" font-size="40">
+      <text style="fill: black;" font-size="40">
        Subset of CMS Run 2010B: J/ψ window
       </text>
      </g>

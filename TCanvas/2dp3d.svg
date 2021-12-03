@@ -60,34 +60,34 @@
        <path d="M9,294h-9m9,-6h-9m9,-5h-9m9,-5h-9m9,-4h-9m17,-3h-17m9,-23h-9m9,-14h-9m9,-9h-9m9,-7h-9m9,-7h-9m9,-5h-9m9,-4h-9m9,-4h-9m17,-3h-17m9,-24h-9m9,-13h-9m9,-10h-9m9,-7h-9m9,-6h-9m9,-5h-9m9,-5h-9m9,-3h-9m17,-4h-17m9,-23h-9m9,-13h-9m9,-10h-9m9,-7h-9m9,-6h-9m9,-6h-9m9,-4h-9m9,-4h-9m17,-3h-17m9,-23h-9m9,-14h-9" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="13" space="preserve">
         <g transform="translate(-20,276)">
-         <text fill="black" font-size="13">
+         <text style="fill: black;" font-size="13">
           10
          </text>
-         <text fill="black" font-size="8" transform="translate(14,-6)">
+         <text style="fill: black;" font-size="8" transform="translate(14,-6)">
           0
          </text>
         </g>
         <g transform="translate(-20,200)">
-         <text fill="black" font-size="13">
+         <text style="fill: black;" font-size="13">
           10
          </text>
-         <text fill="black" font-size="8" transform="translate(14,-6)">
+         <text style="fill: black;" font-size="8" transform="translate(14,-6)">
           1
          </text>
         </g>
         <g transform="translate(-20,123)">
-         <text fill="black" font-size="13">
+         <text style="fill: black;" font-size="13">
           10
          </text>
-         <text fill="black" font-size="8" transform="translate(14,-6)">
+         <text style="fill: black;" font-size="8" transform="translate(14,-6)">
           2
          </text>
         </g>
         <g transform="translate(-20,47)">
-         <text fill="black" font-size="13">
+         <text style="fill: black;" font-size="13">
           10
          </text>
-         <text fill="black" font-size="8" transform="translate(14,-6)">
+         <text style="fill: black;" font-size="8" transform="translate(14,-6)">
           3
          </text>
         </g>
@@ -148,7 +148,7 @@
     <g transform="translate(118,2)" font-family="Arial" font-size="16" space="preserve">
      <path d="M0,0H316V20H0Z" style="fill: none;"></path>
      <g transform="translate(67,16) scale(0.980)">
-      <text fill="black" font-size="17">
+      <text style="fill: black;" font-size="17">
        3*px+2 {px**2+py**2&gt;1}
       </text>
      </g>
@@ -396,7 +396,7 @@
     <g transform="translate(188,2)" font-family="Arial" font-size="16" space="preserve">
      <path d="M0,0H177V20H0Z" style="fill: none;"></path>
      <g transform="translate(42,16) scale(0.980)">
-      <text fill="black" font-size="17">
+      <text style="fill: black;" font-size="17">
        py:px {pz&gt;1}
       </text>
      </g>
@@ -412,7 +412,7 @@
     <g transform="translate(83,2)" font-family="Arial" font-size="16" space="preserve">
      <path d="M0,0H386V20H0Z" style="fill: none;"></path>
      <g transform="translate(28,16) scale(0.980)">
-      <text fill="black" font-size="17">
+      <text style="fill: black;" font-size="17">
        pz:py:px {(pz&lt;10 &amp;&amp; pz&gt;6)+(pz&lt;4 &amp;&amp; pz&gt;3)}
       </text>
      </g>

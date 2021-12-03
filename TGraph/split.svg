@@ -100,15 +100,15 @@
     &lt;q&gt; = 9.031923
    </text>
    <g transform="translate(90,38) scale(0.463)">
-    <text fill="black" font-size="45" transform="translate(0,-27)">
+    <text style="fill: black;" font-size="45" transform="translate(0,-27)">
      Equilibrium charge
     </text>
-    <text fill="black" font-size="45" transform="translate(21,27)">
+    <text style="fill: black;" font-size="45" transform="translate(21,27)">
      state distribution
     </text>
    </g>
    <g transform="translate(90,138) scale(0.463)">
-    <text fill="black" font-size="45">
+    <text style="fill: black;" font-size="45">
      σ   = 5.779455
     </text>
    </g>
@@ -116,13 +116,13 @@
   <g transform="translate(180,4)" font-family="Arial" font-size="24" space="preserve">
    <path d="M0,0H840V59H0Z" style="fill: none;"></path>
    <g transform="translate(20,39) scale(0.493)">
-    <text fill="black" font-size="49">
+    <text style="fill: black;" font-size="49">
      U projectile at 1.4 MeV/u on
     </text>
-    <text fill="black" font-size="29" transform="translate(619,-24)">
+    <text style="fill: black;" font-size="29" transform="translate(619,-24)">
      40
     </text>
-    <text fill="black" font-size="49" x="651">
+    <text style="fill: black;" font-size="49" x="651">
      Ar target with 1 mbar pressure. (equilibrium)
     </text>
    </g>

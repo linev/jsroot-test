@@ -39,42 +39,42 @@
      <path d="M0,-24v24m65,-12v12m37,-12v12m27,-12v12m21,-12v12m17,-12v12m14,-12v12m13,-12v12m11,-12v12m9,-24v24m65,-12v12m38,-12v12m27,-12v12m20,-12v12m17,-12v12m15,-12v12m12,-12v12m11,-12v12m10,-24v24m64,-12v12m38,-12v12m27,-12v12m21,-12v12m17,-12v12m14,-12v12m12,-12v12m11,-12v12m10,-24v24m65,-12v12m38,-12v12m26,-12v12m21,-12v12m17,-12v12m14,-12v12m13,-12v12m11,-12v12m10,-24v24m64,-12v12m38,-12v12" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve">
       <g transform="translate(-22,36)">
-       <text fill="black" font-size="28">
+       <text style="fill: black;" font-size="28">
         10
        </text>
-       <text fill="black" font-size="17" transform="translate(30,-14)">
+       <text style="fill: black;" font-size="17" transform="translate(30,-14)">
         -3
        </text>
       </g>
       <g transform="translate(192,36)">
-       <text fill="black" font-size="28">
+       <text style="fill: black;" font-size="28">
         10
        </text>
-       <text fill="black" font-size="17" transform="translate(30,-14)">
+       <text style="fill: black;" font-size="17" transform="translate(30,-14)">
         -2
        </text>
       </g>
       <g transform="translate(407,36)">
-       <text fill="black" font-size="28">
+       <text style="fill: black;" font-size="28">
         10
        </text>
-       <text fill="black" font-size="17" transform="translate(30,-14)">
+       <text style="fill: black;" font-size="17" transform="translate(30,-14)">
         -1
        </text>
       </g>
       <g transform="translate(623,36)">
-       <text fill="black" font-size="28">
+       <text style="fill: black;" font-size="28">
         10
        </text>
-       <text fill="black" font-size="17" transform="translate(30,-14)">
+       <text style="fill: black;" font-size="17" transform="translate(30,-14)">
         0
        </text>
       </g>
       <g transform="translate(839,36)">
-       <text fill="black" font-size="28">
+       <text style="fill: black;" font-size="28">
         10
        </text>
-       <text fill="black" font-size="17" transform="translate(30,-14)">
+       <text style="fill: black;" font-size="17" transform="translate(30,-14)">
         1
        </text>
       </g>
@@ -174,13 +174,13 @@
   <g transform="translate(180,4)" font-family="Arial" font-size="29" space="preserve">
    <path d="M0,0H840V59H0Z" style="fill: none;"></path>
    <g transform="translate(20,42) scale(0.602)">
-    <text fill="black" font-size="49">
+    <text style="fill: black;" font-size="49">
      U projectile at 200 MeV/u on
     </text>
-    <text fill="black" font-size="29" transform="translate(635,-24)">
+    <text style="fill: black;" font-size="29" transform="translate(635,-24)">
      12
     </text>
-    <text fill="black" font-size="49" x="666">
+    <text style="fill: black;" font-size="49" x="666">
      C target with 0 mbar pressure.
     </text>
    </g>
