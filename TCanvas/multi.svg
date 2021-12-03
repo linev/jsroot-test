@@ -299,7 +299,7 @@
      </g>
     </g>
     <g>
-     <line x1="180" y1="428" x2="1140" y2="428" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M180,428L1140,428" style="stroke: black; stroke-width: 1;"></path>
     </g>
     <g transform="translate(696,80)" font-family="Arial" font-size="24" space="preserve">
      <path d="M0,0H384V168H0Z" style="fill: none;"></path>

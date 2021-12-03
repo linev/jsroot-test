@@ -52,30 +52,30 @@
      <ellipse cx="0" cy="0" rx="220" ry="301" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="230" ry="314" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="230" ry="314" style="fill: none; stroke: black; stroke-width: 1;"></ellipse>
-     <line x1="0" y1="0" x2="230" y2="0" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,0L230,0" style="stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(255)">
       0
      </text>
-     <line x1="0" y1="0" x2="-115" y2="-272" style="stroke: black; stroke-width: 1;"></line>
-     <line x1="0" y1="0" x2="-115" y2="272" style="stroke: black; stroke-width: 1;"></line>
-     <line x1="0" y1="0" x2="220" y2="-93" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="190" y2="-177" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="143" y2="-245" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="84" y2="-292" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="17" y2="-313" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-51" y2="-306" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-169" y2="-214" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-207" y2="-136" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-227" y2="-47" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-227" y2="47" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-207" y2="136" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-169" y2="214" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-51" y2="306" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="17" y2="313" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="84" y2="292" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="143" y2="245" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="190" y2="177" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="220" y2="93" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
+     <path d="M0,0L-115,-272" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0L-115,272" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0L220,-93" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L190,-177" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L143,-245" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L84,-292" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L17,-313" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-51,-306" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-169,-214" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-207,-136" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-227,-47" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-227,47" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-207,136" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-169,214" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-51,306" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L17,313" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L84,292" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L143,245" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L190,177" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L220,93" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
      <g transform="translate(-157,-301)">
       <text fill="black" font-size="25" transform="translate(0,-15)">
        2π
@@ -170,49 +170,49 @@
      <ellipse cx="0" cy="0" rx="218" ry="297" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="224" ry="306" style="fill: none; stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></ellipse>
      <ellipse cx="0" cy="0" rx="230" ry="314" style="fill: none; stroke: black; stroke-width: 1;"></ellipse>
-     <line x1="0" y1="0" x2="230" y2="0" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,0L230,0" style="stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(255)">
       0
      </text>
-     <line x1="0" y1="0" x2="163" y2="-222" style="stroke: black; stroke-width: 1;"></line>
-     <line x1="0" y1="0" x2="0" y2="-314" style="stroke: black; stroke-width: 1;"></line>
-     <line x1="0" y1="0" x2="-163" y2="-222" style="stroke: black; stroke-width: 1;"></line>
-     <line x1="0" y1="0" x2="-230" y2="0" style="stroke: black; stroke-width: 1;"></line>
-     <line x1="0" y1="0" x2="-163" y2="222" style="stroke: black; stroke-width: 1;"></line>
-     <line x1="0" y1="0" x2="0" y2="314" style="stroke: black; stroke-width: 1;"></line>
-     <line x1="0" y1="0" x2="163" y2="222" style="stroke: black; stroke-width: 1;"></line>
-     <line x1="0" y1="0" x2="227" y2="-49" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="219" y2="-97" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="205" y2="-143" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="186" y2="-185" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="135" y2="-254" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="104" y2="-280" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="71" y2="-299" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="36" y2="-310" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-36" y2="-310" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-71" y2="-299" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-104" y2="-280" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-135" y2="-254" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-186" y2="-185" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-205" y2="-143" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-219" y2="-97" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-227" y2="-49" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-227" y2="49" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-219" y2="97" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-205" y2="143" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-186" y2="185" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-135" y2="254" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-104" y2="280" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-71" y2="299" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="-36" y2="310" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="36" y2="310" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="71" y2="299" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="104" y2="280" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="135" y2="254" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="186" y2="185" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="205" y2="143" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="219" y2="97" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
-     <line x1="0" y1="0" x2="227" y2="49" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
+     <path d="M0,0L163,-222" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0L0,-314" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0L-163,-222" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0L-230,0" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0L-163,222" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0L0,314" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0L163,222" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0L227,-49" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L219,-97" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L205,-143" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L186,-185" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L135,-254" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L104,-280" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L71,-299" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L36,-310" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-36,-310" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-71,-299" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-104,-280" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-135,-254" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-186,-185" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-205,-143" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-219,-97" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-227,-49" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-227,49" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-219,97" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-205,143" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-186,185" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-135,254" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-104,280" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-71,299" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L-36,310" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L36,310" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L71,299" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L104,280" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L135,254" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L186,185" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L205,143" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L219,97" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+     <path d="M0,0L227,49" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
      <g transform="translate(180,-246)">
       <text fill="black" font-size="25" transform="translate(0,-15)">
        π

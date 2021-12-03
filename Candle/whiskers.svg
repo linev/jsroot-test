@@ -333,16 +333,16 @@
      <path d="M0,15h235" style="stroke: black; stroke-width: 1;"></path>
     </g>
     <g>
-     <line x1="334" y1="346" x2="334" y2="338" style="stroke: #00ff00; stroke-width: 2;"></line>
+     <path d="M334,346L334,338" style="stroke: #00ff00; stroke-width: 2;"></path>
     </g>
     <g>
-     <line x1="524" y1="346" x2="524" y2="115" style="stroke: #00ff00; stroke-width: 2;"></line>
+     <path d="M524,346L524,115" style="stroke: #00ff00; stroke-width: 2;"></path>
     </g>
     <g>
-     <line x1="842" y1="346" x2="842" y2="342" style="stroke: #00ff00; stroke-width: 2;"></line>
+     <path d="M842,346L842,342" style="stroke: #00ff00; stroke-width: 2;"></path>
     </g>
     <g>
-     <line x1="652" y1="346" x2="652" y2="111" style="stroke: #00ff00; stroke-width: 2;"></line>
+     <path d="M652,346L652,111" style="stroke: #00ff00; stroke-width: 2;"></path>
     </g>
    </g>
   </svg>

@@ -627,7 +627,7 @@
    <path d="M0,0H60V24H0Z" style="fill: yellow;"></path>
   </g>
   <g>
-   <line x1="578" y1="264" x2="638" y2="264" style="stroke: black; stroke-width: 4;"></line>
+   <path d="M578,264L638,264" style="stroke: black; stroke-width: 4;"></path>
   </g>
  </g>
 </svg>

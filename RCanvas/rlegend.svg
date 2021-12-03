@@ -77,16 +77,16 @@
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(191,79)">
     histo1
    </text>
-   <line x1="6" y1="79" x2="81" y2="79" style="stroke: #FF0000; stroke-width: 2;"></line>
+   <path d="M6,79h75" style="stroke: #FF0000; stroke-width: 2;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(191,131)">
     histo2
    </text>
-   <line x1="6" y1="131" x2="81" y2="131" style="stroke: #0000FF; stroke-width: 4;"></line>
+   <path d="M6,131h75" style="stroke: #0000FF; stroke-width: 4;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(191,184)">
     test
    </text>
-   <rect x="6" y="163" width="75" height="42" style="fill: url(#pat_3004_0000ff);"></rect>
-   <line x1="6" y1="184" x2="81" y2="184" style="stroke: #008000; stroke-width: 5;"></line>
+   <path d="M6,163h75v42h-75z" style="fill: url(#pat_3004_0000ff);"></path>
+   <path d="M6,184h75" style="stroke: #008000; stroke-width: 5;"></path>
    <path d="M47,187h7v-7h-7v-7h-7v7h-7v7h7v7h7z" style="stroke: #FF0000; fill: none;"></path>
   </g>
  </g>

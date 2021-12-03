@@ -103,7 +103,7 @@
      </g>
     </g>
     <g>
-     <line x1="0" y1="10" x2="600" y2="10" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,10L600,10" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -156,7 +156,7 @@
      </g>
     </g>
     <g>
-     <line x1="0" y1="10" x2="600" y2="10" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,10L600,10" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -209,7 +209,7 @@
      </g>
     </g>
     <g>
-     <line x1="0" y1="10" x2="600" y2="10" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,10L600,10" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -312,7 +312,7 @@
      </g>
     </g>
     <g>
-     <line x1="0" y1="10" x2="600" y2="10" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,10L600,10" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -365,7 +365,7 @@
      </g>
     </g>
     <g>
-     <line x1="0" y1="10" x2="600" y2="10" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,10L600,10" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -418,12 +418,12 @@
      </g>
     </g>
     <g>
-     <line x1="0" y1="10" x2="600" y2="10" style="stroke: black; stroke-width: 1;"></line>
+     <path d="M0,10L600,10" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
   <g>
-   <line x1="600" y1="800" x2="600" y2="0" style="stroke: black; stroke-width: 1;"></line>
+   <path d="M600,800L600,0" style="stroke: black; stroke-width: 1;"></path>
   </g>
  </g>
 </svg>

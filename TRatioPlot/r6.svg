@@ -312,13 +312,13 @@
      </g>
     </g>
     <g>
-     <line x1="119" y1="42" x2="1075" y2="42" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
+     <path d="M119,42L1075,42" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
     </g>
     <g>
-     <line x1="119" y1="83" x2="1075" y2="83" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
+     <path d="M119,83L1075,83" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
     </g>
     <g>
-     <line x1="119" y1="125" x2="1075" y2="125" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></line>
+     <path d="M119,125L1075,125" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
     </g>
    </g>
   </svg>

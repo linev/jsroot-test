@@ -5,19 +5,19 @@
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g>
-   <rect x="120" width="240" y="320" height="240" style="stroke: #0000FF; stroke-width: 5; fill: #00FF007F;"></rect>
+   <path d="M120,560H360V320H120Z" style="stroke: #0000FF; stroke-width: 5; fill: #00FF007F;"></path>
   </g>
   <g>
-   <rect x="480" width="240" y="240" height="400" style="stroke: #FF0000; stroke-width: 10; stroke-dasharray: 3,3; fill: #0000FFB3;"></rect>
+   <path d="M480,640H720V240H480Z" style="stroke: #FF0000; stroke-width: 10; stroke-dasharray: 3,3; fill: #0000FFB3;"></path>
   </g>
   <g>
-   <rect x="840" width="240" y="320" height="160" style="stroke: black; stroke-width: 3; fill: #0000FF;"></rect>
+   <path d="M840,480H1080V320H840Z" style="stroke: black; stroke-width: 3; fill: #0000FF;"></path>
   </g>
   <g>
-   <rect x="840" width="240" y="80" height="160" style="stroke: black; stroke-width: 4; fill: none;"></rect>
+   <path d="M840,240H1080V80H840Z" style="stroke: black; stroke-width: 4; fill: none;"></path>
   </g>
   <g>
-   <rect x="840" width="240" y="560" height="160" style="stroke: black; stroke-width: 2; fill: none;" rx="10" ry="10"></rect>
+   <path d="M840,720H1080V560H840Z" style="stroke: black; stroke-width: 2; fill: none;" rx="10" ry="10"></path>
   </g>
  </g>
 </svg>

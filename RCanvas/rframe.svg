@@ -9,10 +9,10 @@
    <rect x="0" y="0" width="720" height="440" style="fill: none; stroke: #0000FF; stroke-width: 3;"></rect>
    <svg x="0" y="0" overflow="hidden" width="720" height="440" viewBox="0 0 720 440">
     <g>
-     <rect x="580" width="40" y="53" height="40" style="stroke: black; stroke-width: 1; fill: #0000FF;"></rect>
+     <path d="M580,93H620V53H580Z" style="stroke: black; stroke-width: 1; fill: #0000FF;"></path>
     </g>
     <g>
-     <line x1="120" y1="367" x2="600" y2="73" style="stroke: black; stroke-width: 2;"></line>
+     <path d="M120,367L600,73" style="stroke: black; stroke-width: 2;"></path>
     </g>
     <g font-family="Arial" font-size="24" space="preserve">
      <text fill="black" text-anchor="start" dy=".8em" transform="translate(120,367)">
@@ -58,7 +58,7 @@
    </g>
    <g>
     <g>
-     <line x1="-144" y1="484" x2="-144" y2="-44" style="stroke: #FF0000; stroke-width: 2;"></line>
+     <path d="M-144,484L-144,-44" style="stroke: #FF0000; stroke-width: 2;"></path>
     </g>
     <g font-family="Arial" font-size="24" space="preserve">
      <text fill="black" text-anchor="start" transform="translate(-149,484) rotate(270)">
@@ -66,7 +66,7 @@
      </text>
     </g>
     <g>
-     <line x1="840" y1="484" x2="840" y2="-44" style="stroke: #FF0000; stroke-width: 2;"></line>
+     <path d="M840,484L840,-44" style="stroke: #FF0000; stroke-width: 2;"></path>
     </g>
     <g font-family="Arial" font-size="24" space="preserve">
      <text fill="black" text-anchor="start" dy=".8em" transform="translate(840,484) rotate(270)">
@@ -74,10 +74,10 @@
      </text>
     </g>
     <g>
-     <rect x="580" width="40" y="347" height="40" style="stroke: black; stroke-width: 1; fill: #FFFF00;"></rect>
+     <path d="M580,387H620V347H580Z" style="stroke: black; stroke-width: 1; fill: #FFFF00;"></path>
     </g>
     <g>
-     <line x1="120" y1="73" x2="600" y2="367" style="stroke: black; stroke-width: 2;"></line>
+     <path d="M120,73L600,367" style="stroke: black; stroke-width: 2;"></path>
     </g>
     <g font-family="Arial" font-size="24" space="preserve">
      <text fill="black" text-anchor="start" transform="translate(120,73)">
@@ -92,7 +92,7 @@
    </text>
   </g>
   <g>
-   <line x1="100" y1="80" x2="900" y2="80" style="stroke: black; stroke-width: 2;"></line>
+   <path d="M100,80L900,80" style="stroke: black; stroke-width: 2;"></path>
   </g>
   <g font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="start" transform="translate(100,75)">
@@ -100,7 +100,7 @@
    </text>
   </g>
   <g>
-   <line x1="120" y1="720" x2="1080" y2="720" style="stroke: black; stroke-width: 2;"></line>
+   <path d="M120,720L1080,720" style="stroke: black; stroke-width: 2;"></path>
   </g>
   <g font-family="Arial" font-size="24" space="preserve">
    <text fill="black" text-anchor="start" dy=".8em" transform="translate(120,720)">

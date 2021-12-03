@@ -608,27 +608,27 @@
   </g>
   <g transform="translate(820,84)" x="820" y="84" width="50" height="532">
    <g>
-    <rect x="0" width="50" y="0" height="532" style="stroke: black; fill: none;"></rect>
-    <rect x="0" y="505" width="50" height="27" style="fill: #352A87; stroke: #352A87;"></rect>
-    <rect x="0" y="479" width="50" height="26" style="fill: rgb(37, 63, 171); stroke: rgb(37, 63, 171);"></rect>
-    <rect x="0" y="452" width="50" height="27" style="fill: rgb(21, 84, 207); stroke: rgb(21, 84, 207);"></rect>
-    <rect x="0" y="426" width="50" height="26" style="fill: rgb(16, 102, 219); stroke: rgb(16, 102, 219);"></rect>
-    <rect x="0" y="399" width="50" height="27" style="fill: rgb(18, 117, 216); stroke: rgb(18, 117, 216);"></rect>
-    <rect x="0" y="372" width="50" height="27" style="fill: rgb(19, 133, 213); stroke: rgb(19, 133, 213);"></rect>
-    <rect x="0" y="346" width="50" height="26" style="fill: rgb(13, 147, 208); stroke: rgb(13, 147, 208);"></rect>
-    <rect x="0" y="319" width="50" height="27" style="fill: rgb(7, 162, 203); stroke: rgb(7, 162, 203);"></rect>
-    <rect x="0" y="293" width="50" height="26" style="fill: rgb(21, 171, 188); stroke: rgb(21, 171, 188);"></rect>
-    <rect x="0" y="266" width="50" height="27" style="fill: rgb(38, 179, 172); stroke: rgb(38, 179, 172);"></rect>
-    <rect x="0" y="239" width="50" height="27" style="fill: rgb(65, 185, 155); stroke: rgb(65, 185, 155);"></rect>
-    <rect x="0" y="213" width="50" height="26" style="fill: rgb(102, 188, 136); stroke: rgb(102, 188, 136);"></rect>
-    <rect x="0" y="186" width="50" height="27" style="fill: rgb(139, 191, 117); stroke: rgb(139, 191, 117);"></rect>
-    <rect x="0" y="160" width="50" height="26" style="fill: rgb(170, 189, 105); stroke: rgb(170, 189, 105);"></rect>
-    <rect x="0" y="133" width="50" height="27" style="fill: rgb(201, 187, 92); stroke: rgb(201, 187, 92);"></rect>
-    <rect x="0" y="106" width="50" height="27" style="fill: rgb(223, 191, 77); stroke: rgb(223, 191, 77);"></rect>
-    <rect x="0" y="80" width="50" height="26" style="fill: rgb(242, 197, 60); stroke: rgb(242, 197, 60);"></rect>
-    <rect x="0" y="53" width="50" height="27" style="fill: rgb(253, 208, 44); stroke: rgb(253, 208, 44);"></rect>
-    <rect x="0" y="27" width="50" height="26" style="fill: rgb(251, 230, 29); stroke: rgb(251, 230, 29);"></rect>
-    <rect x="0" y="0" width="50" height="27" style="fill: #F9FB0E; stroke: #F9FB0E;"></rect>
+    <path d="M0,0H50V532H0Z" style="stroke: black; fill: none;"></path>
+    <path d="M0,505H50V532H0Z" style="fill: #352A87; stroke: #352A87;"></path>
+    <path d="M0,479H50V505H0Z" style="fill: rgb(37, 63, 171); stroke: rgb(37, 63, 171);"></path>
+    <path d="M0,452H50V479H0Z" style="fill: rgb(21, 84, 207); stroke: rgb(21, 84, 207);"></path>
+    <path d="M0,426H50V452H0Z" style="fill: rgb(16, 102, 219); stroke: rgb(16, 102, 219);"></path>
+    <path d="M0,399H50V426H0Z" style="fill: rgb(18, 117, 216); stroke: rgb(18, 117, 216);"></path>
+    <path d="M0,372H50V399H0Z" style="fill: rgb(19, 133, 213); stroke: rgb(19, 133, 213);"></path>
+    <path d="M0,346H50V372H0Z" style="fill: rgb(13, 147, 208); stroke: rgb(13, 147, 208);"></path>
+    <path d="M0,319H50V346H0Z" style="fill: rgb(7, 162, 203); stroke: rgb(7, 162, 203);"></path>
+    <path d="M0,293H50V319H0Z" style="fill: rgb(21, 171, 188); stroke: rgb(21, 171, 188);"></path>
+    <path d="M0,266H50V293H0Z" style="fill: rgb(38, 179, 172); stroke: rgb(38, 179, 172);"></path>
+    <path d="M0,239H50V266H0Z" style="fill: rgb(65, 185, 155); stroke: rgb(65, 185, 155);"></path>
+    <path d="M0,213H50V239H0Z" style="fill: rgb(102, 188, 136); stroke: rgb(102, 188, 136);"></path>
+    <path d="M0,186H50V213H0Z" style="fill: rgb(139, 191, 117); stroke: rgb(139, 191, 117);"></path>
+    <path d="M0,160H50V186H0Z" style="fill: rgb(170, 189, 105); stroke: rgb(170, 189, 105);"></path>
+    <path d="M0,133H50V160H0Z" style="fill: rgb(201, 187, 92); stroke: rgb(201, 187, 92);"></path>
+    <path d="M0,106H50V133H0Z" style="fill: rgb(223, 191, 77); stroke: rgb(223, 191, 77);"></path>
+    <path d="M0,80H50V106H0Z" style="fill: rgb(242, 197, 60); stroke: rgb(242, 197, 60);"></path>
+    <path d="M0,53H50V80H0Z" style="fill: rgb(253, 208, 44); stroke: rgb(253, 208, 44);"></path>
+    <path d="M0,27H50V53H0Z" style="fill: rgb(251, 230, 29); stroke: rgb(251, 230, 29);"></path>
+    <path d="M0,0H50V27H0Z" style="fill: #F9FB0E; stroke: #F9FB0E;"></path>
    </g>
    <g transform="translate(50,532)">
     <path d="M0,-10h-8m8,-25h-8m8,-25h-8m8,-25h-15m15,-24h-8m8,-25h-8m8,-25h-8m8,-25h-15m15,-25h-8m8,-25h-8m8,-25h-8m8,-24h-15m15,-25h-8m8,-25h-8m8,-25h-8m8,-25h-15m15,-25h-8m8,-25h-8m8,-24h-8m8,-25h-15m15,-25h-8m8,-25h-8" style="stroke: black;"></path>
