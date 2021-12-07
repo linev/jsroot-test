@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+ <title>
+  ROOT canvas
+ </title>
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
+ <g>
+  <g transform="translate(120,80)">
+   <title></title>
+   <path d="M0,0H924V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <svg x="0" y="0" overflow="hidden" width="924" height="640" viewBox="0 0 924 640">
+    <g>
+     <path fill="#1272d9" d="M0,0h23v640h-23zM23,0h23v640h-23zM46,0h23v640h-23zM69,0h23v640h-23zM92,0h24v640h-24zm24,0h23v640h-23zm23,0h23v640h-23zm23,0h23v640h-23zm23,0h23v640h-23zm23,0h23v352h-23zm0,368h23v272h-23zM231,0h23v240h-23zm0,256h23v16h-23zm0,128h23v256h-23zM254,0h23v224h-23zm0,416h23v224h-23zM277,0h23v208h-23zm0,432h23v208h-23zM300,0h23v208h-23zm0,432h23v208h-23zM323,0h24v176h-24zm0,464h24v176h-24zM347,0h23v176h-23zm0,464h23v176h-23zM370,0h23v176h-23zm0,480h23v160h-23zM393,0h23v176h-23zm0,480h23v160h-23zM416,0h23v160h-23zm0,496h23v144h-23zM439,0h23v160h-23zm0,496h23v144h-23zM462,0h23v144h-23zm0,160h23v16h-23zm0,336h23v144h-23zM485,0h23v144h-23zm0,480h23v160h-23zM508,0h23v160h-23zm0,480h23v160h-23zM531,0h23v160h-23zm0,480h23v160h-23zM554,0h24v176h-24zm0,480h24v160h-24zM578,0h23v192h-23zm0,464h23v176h-23zM601,0h23v208h-23zm0,448h23v192h-23zM624,0h23v208h-23zm0,432h23v208h-23zM647,0h23v224h-23zm0,400h23v240h-23zM670,0h23v256h-23zm0,272h23v48h-23zm0,128h23v240h-23zM693,0h23v336h-23zm0,352h23v16h-23zm0,32h23v256h-23zM716,0h23v640h-23zm23,0h23v640h-23zm23,0h23v640h-23zm23,0h24v640h-24zm24,0h23v640h-23zm23,0h23v640h-23zm23,0h23v640h-23zm23,0h23v640h-23zm23,0h23v640h-23z"></path>
+     <path fill="#0da7c3" d="M208,352h23v16h-23zM231,240h23v16h-23zm0,32h23v112h-23zm23,-48h23v64h-23zm0,80h23v64h-23zm0,80h23v32h-23zM277,208h23v48h-23zm0,192h23v32h-23zM300,208h23v32h-23zm0,208h23v16h-23zM323,176h24v32h-24zm0,256h24v32h-24zM347,176h23v32h-23zm0,240h23v48h-23zM370,176h23v32h-23zm0,256h23v48h-23zM393,176h23v16h-23zm0,288h23v16h-23zM416,160h23v32h-23zm0,288h23v48h-23zM439,160h23v16h-23zm0,288h23v48h-23zM462,144h23v16h-23zm0,320h23v32h-23zM485,144h23v32h-23zm0,304h23v32h-23zM508,160h23v32h-23zm0,304h23v16h-23zM531,160h23v48h-23zm0,272h23v48h-23zM554,176h24v32h-24zm0,272h24v32h-24zM578,192h23v32h-23zm0,240h23v32h-23zM601,208h23v16h-23zm0,192h23v48h-23zM624,208h23v48h-23zm0,176h23v48h-23zM647,224h23v64h-23zm0,80h23v16h-23zm0,32h23v64h-23zm23,-80h23v16h-23zm0,64h23v80h-23zm23,16h23v16h-23zm0,32h23v16h-23z"></path>
+     <path fill="#74bd81" d="M254,288h23v16h-23zm0,80h23v16h-23zM277,256h23v144h-23zm23,-16h23v176h-23zm23,-32h24v64h-24zm0,80h24v32h-24zm0,64h24v80h-24zM347,208h23v64h-23zm0,192h23v16h-23zM370,208h23v32h-23zm0,176h23v48h-23zM393,192h23v48h-23zm0,208h23v64h-23zM416,192h23v32h-23zm0,224h23v32h-23zM439,176h23v32h-23zm0,48h23v16h-23zm0,192h23v32h-23zM462,176h23v48h-23zm0,240h23v48h-23zM485,176h23v48h-23zm0,224h23v48h-23zM508,192h23v48h-23zm0,192h23v16h-23zm0,32h23v48h-23zM531,208h23v32h-23zm0,192h23v32h-23zM554,208h24v48h-24zm0,160h24v80h-24zM578,224h23v80h-23zm0,144h23v64h-23zM601,224h23v176h-23zm23,32h23v128h-23zm23,32h23v16h-23zm0,32h23v16h-23z"></path>
+     <path fill="#e2c04b" d="M323,272h24v16h-24zm0,48h24v32h-24zm24,-48h23v32h-23zm0,48h23v80h-23zm23,-80h23v32h-23zm0,64h23v80h-23zm23,-64h23v48h-23zm0,128h23v32h-23zM416,224h23v48h-23zm0,144h23v48h-23zM439,208h23v16h-23zm0,32h23v32h-23zm0,144h23v32h-23zM462,224h23v32h-23zm0,144h23v48h-23zM485,224h23v32h-23zm0,160h23v16h-23zM508,240h23v32h-23zm0,112h23v32h-23zm0,48h23v16h-23zM531,240h23v64h-23zm0,96h23v64h-23zm23,-80h24v112h-24zm24,48h23v64h-23z"></path>
+     <path fill="#f9f90f" d="M347,304h23v16h-23zm23,-32h23v32h-23zm23,16h23v80h-23zm23,-16h23v96h-23zm23,0h23v112h-23zm23,-16h23v112h-23zm23,0h23v128h-23zm23,16h23v80h-23zm23,32h23v32h-23z"></path>
+    </g>
+   </svg>
+   <g>
+    <g transform="translate(0,640)">
+     <path d="M0,0h924" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,-24v24m23,-12v12m23,-12v12m23,-12v12m23,-12v12m24,-24v24m23,-12v12m23,-12v12m23,-12v12m23,-12v12m23,-24v24m23,-12v12m23,-12v12m23,-12v12m23,-12v12m24,-24v24m23,-12v12m23,-12v12m23,-12v12m23,-12v12m23,-24v24m23,-12v12m23,-12v12m23,-12v12m23,-12v12m24,-24v24m23,-12v12m23,-12v12m23,-12v12m23,-12v12m23,-24v24m23,-12v12m23,-12v12m23,-12v12m23,-12v12m24,-24v24m23,-12v12m23,-12v12m23,-12v12m23,-12v12m23,-24v24" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="middle">
+      <text dy=".8em" transform="translate(0,6)">
+       -4
+      </text>
+      <text dy=".8em" transform="translate(116,6)">
+       -3
+      </text>
+      <text dy=".8em" transform="translate(231,6)">
+       -2
+      </text>
+      <text dy=".8em" transform="translate(347,6)">
+       -1
+      </text>
+      <text dy=".8em" transform="translate(462,6)">
+       0
+      </text>
+      <text dy=".8em" transform="translate(578,6)">
+       1
+      </text>
+      <text dy=".8em" transform="translate(693,6)">
+       2
+      </text>
+      <text dy=".8em" transform="translate(809,6)">
+       3
+      </text>
+      <text dy=".8em" transform="translate(924,6)">
+       4
+      </text>
+     </g>
+    </g>
+    <g>
+     <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M36,640h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
+      <text dy=".4em" transform="translate(-4,640)">
+       -4
+      </text>
+      <text dy=".4em" transform="translate(-4,560)">
+       -3
+      </text>
+      <text dy=".4em" transform="translate(-4,480)">
+       -2
+      </text>
+      <text dy=".4em" transform="translate(-4,400)">
+       -1
+      </text>
+      <text dy=".4em" transform="translate(-4,320)">
+       0
+      </text>
+      <text dy=".4em" transform="translate(-4,240)">
+       1
+      </text>
+      <text dy=".4em" transform="translate(-4,160)">
+       2
+      </text>
+      <text dy=".4em" transform="translate(-4,80)">
+       3
+      </text>
+      <text dy=".4em" transform="translate(-4)">
+       4
+      </text>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(1050,80)">
+   <path d="M0,0H54V640H0Z" style="fill: none; stroke: black; stroke-width: 1;"></path>
+   <path d="M0,576H54V640H0Z" style="fill: #1272d9; stroke: #1272d9;"></path>
+   <path d="M0,512H54V576H0Z" style="fill: #0da7c3; stroke: #0da7c3;"></path>
+   <path d="M0,384H54V512H0Z" style="fill: #74bd81; stroke: #74bd81;"></path>
+   <path d="M0,256H54V384H0Z" style="fill: #e2c04b; stroke: #e2c04b;"></path>
+   <path d="M0,0H54V256H0Z" style="fill: #f9f90f; stroke: #f9f90f;"></path>
+   <g transform="translate(54)">
+    <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
+    <path d="M0,640h-33m33,-64h-33m33,-64h-33m33,-128h-33m33,-128h-33m33,-256h-33" style="stroke: black; stroke-width: 1;"></path>
+    <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="start">
+     <text dy=".4em" transform="translate(8,640)">
+      0
+     </text>
+     <text dy=".4em" transform="translate(8,576)">
+      20
+     </text>
+     <text dy=".4em" transform="translate(8,512)">
+      40
+     </text>
+     <text dy=".4em" transform="translate(8,384)">
+      80
+     </text>
+     <text dy=".4em" transform="translate(8,256)">
+      120
+     </text>
+     <text dy=".4em" transform="translate(8)">
+      200
+     </text>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(283,4)" font-family="Arial" font-size="40" space="preserve">
+   <path d="M0,0H633V49H0Z" style="fill: none;"></path>
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(317,25)">
+    User contours, CJUST
+   </text>
+  </g>
+ </g>
+</svg>
