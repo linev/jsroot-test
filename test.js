@@ -112,12 +112,12 @@ function ProduceFile(content, extension, subid) {
      result = "NEW";
    }
 
-   // workaround to ignore alice variation, to let enable TGeo testings
-   if ((result == "DIFF") && (keyid == "TGeo") && (entry_name == "alice") && (Math.abs(svg0.length - content.length) < 0.01*svg0.length)) {
-      console.log('!! Ignore alice variation for now !!');
-      content = svg0;
-      result = "MATCH";
-   }
+//   // workaround to ignore alice variation, to let enable TGeo testings
+// if ((result == "DIFF") && (keyid == "TGeo") && (entry_name == "alice") && (Math.abs(svg0.length - content.length) < 0.01*svg0.length)) {
+//      console.log('!! Ignore alice variation for now !!');
+//      content = svg0;
+//      result = "MATCH";
+//   }
 
    switch (result) {
       case "NEW": nnew++; break;
