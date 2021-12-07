@@ -12,19 +12,18 @@
      <path d="M0,0H301V201H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
       <g>
-       <path fill="#263ea8" d="M100,0h51v141h-51zm51,0h50v181h-50zm50,121h50v80h-50zm50,40h50v40h-50z"></path>
-       <path fill="#1652cd" d="M100,141h51v20h-51zm51,40h50v20h-50z"></path>
-       <path fill="#1064dc" d="M100,161h51v20h-51z"></path>
-       <path fill="#1272d9" d="M50,0h50v20h-50z"></path>
-       <path fill="#1481d6" d="M50,20h50v40h-50zm50,161h51v20h-51z"></path>
-       <path fill="#0e8fd1" d="M50,60h50v20h-50z"></path>
-       <path fill="#099dcc" d="M50,80h50v21h-50z"></path>
-       <path fill="#0da7c3" d="M50,101h50v20h-50z"></path>
-       <path fill="#1eafb3" d="M50,121h50v20h-50z"></path>
-       <path fill="#2eb7a4" d="M50,141h50v20h-50z"></path>
-       <path fill="#52ba92" d="M50,161h50v40h-50z"></path>
-       <path fill="#fbe61d" d="M0,181h50v20h-50z"></path>
-       <path fill="#f9f90f" d="M0,0h50v181h-50z"></path>
+       <path fill="#263ea8" d="M100,0h51v121h-51zm51,0h50v181h-50zm50,121h50v80h-50zm50,40h50v40h-50z"></path>
+       <path fill="#1652cd" d="M100,121h51v20h-51z"></path>
+       <path fill="#1272d9" d="M100,141h51v20h-51z"></path>
+       <path fill="#1481d6" d="M151,181h50v20h-50z"></path>
+       <path fill="#099dcc" d="M100,161h51v20h-51z"></path>
+       <path fill="#2eb7a4" d="M50,0h50v20h-50z"></path>
+       <path fill="#52ba92" d="M50,20h50v20h-50z"></path>
+       <path fill="#95be71" d="M50,40h50v20h-50zm50,141h51v20h-51z"></path>
+       <path fill="#d1bb59" d="M50,60h50v20h-50z"></path>
+       <path fill="#e2c04b" d="M50,80h50v21h-50z"></path>
+       <path fill="#fbe61d" d="M50,101h50v20h-50z"></path>
+       <path fill="#f9f90f" d="M0,0h50v201h-50zM50,121h50v80h-50z"></path>
        <g font-family="Arial" font-size="9" space="preserve" fill="black" text-anchor="middle">
         <text dy=".4em" transform="translate(25,191)">
          14.2620
@@ -623,10 +622,10 @@
        <path fill="#1481d6" d="M100,161h51v40h-51z"></path>
        <path fill="#0e8fd1" d="M100,141h51v20h-51zm51,40h50v20h-50z"></path>
        <path fill="#099dcc" d="M100,121h51v20h-51z"></path>
-       <path fill="#0da7c3" d="M100,60h51v20h-51zm0,41h51v20h-51z"></path>
-       <path fill="#1eafb3" d="M151,161h50v20h-50z"></path>
-       <path fill="#2eb7a4" d="M100,80h51v21h-51zm51,61h50v20h-50zm50,40h50v20h-50z"></path>
-       <path fill="#52ba92" d="M100,0h51v40h-51z"></path>
+       <path fill="#0da7c3" d="M100,101h51v20h-51z"></path>
+       <path fill="#1eafb3" d="M100,60h51v20h-51zm51,101h50v20h-50z"></path>
+       <path fill="#2eb7a4" d="M100,80h51v21h-51zM201,181h50v20h-50z"></path>
+       <path fill="#52ba92" d="M100,0h51v40h-51zm51,141h50v20h-50z"></path>
        <path fill="#74bd81" d="M100,40h51v20h-51z"></path>
        <path fill="#95be71" d="M151,121h50v20h-50z"></path>
        <path fill="#b3bd65" d="M151,101h50v20h-50zm50,60h50v20h-50z"></path>
@@ -904,20 +903,19 @@
      <path d="M0,0H301V201H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
       <g>
-       <path fill="#263ea8" d="M100,0h51v141h-51zm51,0h50v181h-50zm50,121h50v80h-50zm50,40h50v40h-50z"></path>
-       <path fill="#1652cd" d="M100,141h51v20h-51zm51,40h50v20h-50z"></path>
-       <path fill="#1064dc" d="M100,161h51v20h-51z"></path>
-       <path fill="#1272d9" d="M50,0h50v40h-50z"></path>
-       <path fill="#1481d6" d="M50,40h50v20h-50z"></path>
-       <path fill="#0e8fd1" d="M50,60h50v20h-50zm50,121h51v20h-51z"></path>
-       <path fill="#099dcc" d="M50,80h50v41h-50z"></path>
-       <path fill="#0da7c3" d="M50,121h50v20h-50z"></path>
-       <path fill="#1eafb3" d="M50,141h50v20h-50z"></path>
-       <path fill="#2eb7a4" d="M50,161h50v20h-50z"></path>
-       <path fill="#52ba92" d="M50,181h50v20h-50z"></path>
-       <path fill="#f4c63b" d="M0,0h50v20h-50zM0,101h50v20h-50z"></path>
-       <path fill="#fbe61d" d="M0,20h50v81h-50zM0,121h50v60h-50z"></path>
-       <path fill="#f9f90f" d="M0,181h50v20h-50z"></path>
+       <path fill="#263ea8" d="M100,0h51v121h-51zm51,0h50v181h-50zm50,121h50v80h-50zm50,40h50v40h-50z"></path>
+       <path fill="#1652cd" d="M100,121h51v20h-51z"></path>
+       <path fill="#1272d9" d="M100,141h51v20h-51z"></path>
+       <path fill="#1481d6" d="M151,181h50v20h-50z"></path>
+       <path fill="#099dcc" d="M100,161h51v20h-51z"></path>
+       <path fill="#2eb7a4" d="M50,0h50v20h-50z"></path>
+       <path fill="#52ba92" d="M50,20h50v20h-50z"></path>
+       <path fill="#95be71" d="M50,40h50v20h-50z"></path>
+       <path fill="#d1bb59" d="M50,60h50v20h-50z"></path>
+       <path fill="#e2c04b" d="M100,181h51v20h-51z"></path>
+       <path fill="#fdd22b" d="M50,80h50v21h-50z"></path>
+       <path fill="#fbe61d" d="M50,101h50v20h-50z"></path>
+       <path fill="#f9f90f" d="M0,0h50v201h-50zM50,121h50v80h-50z"></path>
        <g font-family="Arial" font-size="9" space="preserve" fill="black" text-anchor="middle">
         <text dy=".4em" transform="translate(25,191)">
          15.8556
@@ -1186,8 +1184,8 @@
      <path d="M0,0H301V201H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="301" height="201" viewBox="0 0 301 201">
       <g>
-       <path fill="#263ea8" d="M100,60h51v20h-51zM151,0h50v121h-50zm50,0h50v181h-50zm50,0h50v201h-50z"></path>
-       <path fill="#1652cd" d="M100,0h51v60h-51zm51,121h50v40h-50z"></path>
+       <path fill="#263ea8" d="M100,60h51v20h-51zM151,0h50v121h-50zm50,0h50v161h-50zm50,0h50v201h-50z"></path>
+       <path fill="#1652cd" d="M100,0h51v60h-51zm51,121h50v40h-50zm50,40h50v20h-50z"></path>
        <path fill="#1064dc" d="M151,161h50v20h-50z"></path>
        <path fill="#1272d9" d="M100,101h51v60h-51z"></path>
        <path fill="#1481d6" d="M100,80h51v21h-51zM201,181h50v20h-50z"></path>
@@ -1196,12 +1194,11 @@
        <path fill="#0da7c3" d="M50,40h50v40h-50z"></path>
        <path fill="#1eafb3" d="M50,80h50v21h-50z"></path>
        <path fill="#2eb7a4" d="M50,101h50v20h-50zm50,80h51v20h-51z"></path>
-       <path fill="#52ba92" d="M50,121h50v20h-50z"></path>
-       <path fill="#74bd81" d="M50,141h50v20h-50z"></path>
+       <path fill="#74bd81" d="M50,121h50v20h-50z"></path>
+       <path fill="#95be71" d="M50,141h50v20h-50z"></path>
        <path fill="#b3bd65" d="M50,161h50v20h-50z"></path>
-       <path fill="#d1bb59" d="M50,181h50v20h-50z"></path>
-       <path fill="#fbe61d" d="M0,0h50v60h-50zM0,141h50v20h-50z"></path>
-       <path fill="#f9f90f" d="M0,60h50v81h-50zM0,161h50v40h-50z"></path>
+       <path fill="#e2c04b" d="M50,181h50v20h-50z"></path>
+       <path fill="#f9f90f" d="M0,0h50v201h-50z"></path>
        <g font-family="Arial" font-size="10" space="preserve" fill="black" text-anchor="middle">
         <text dy=".4em" transform="translate(25,191)">
          5.7080
@@ -1517,10 +1514,9 @@
        <path fill="#1481d6" d="M100,161h51v20h-51z"></path>
        <path fill="#0e8fd1" d="M100,141h51v20h-51zm51,40h50v20h-50z"></path>
        <path fill="#099dcc" d="M100,121h51v20h-51z"></path>
-       <path fill="#0da7c3" d="M100,101h51v20h-51zm51,60h50v20h-50z"></path>
-       <path fill="#1eafb3" d="M100,60h51v20h-51z"></path>
-       <path fill="#2eb7a4" d="M100,40h51v20h-51zm0,40h51v21h-51zm51,61h50v20h-50zm50,40h50v20h-50z"></path>
-       <path fill="#52ba92" d="M100,0h51v40h-51zM251,181h50v20h-50z"></path>
+       <path fill="#1eafb3" d="M100,60h51v20h-51zm0,41h51v20h-51zm51,60h50v20h-50z"></path>
+       <path fill="#2eb7a4" d="M100,40h51v20h-51zm0,40h51v21h-51zM201,181h50v20h-50z"></path>
+       <path fill="#52ba92" d="M100,0h51v40h-51zm51,141h50v20h-50zm100,40h50v20h-50z"></path>
        <path fill="#95be71" d="M151,121h50v20h-50z"></path>
        <path fill="#b3bd65" d="M151,101h50v20h-50zm50,60h50v20h-50z"></path>
        <path fill="#e2c04b" d="M151,80h50v21h-50z"></path>
