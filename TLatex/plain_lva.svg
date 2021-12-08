@@ -1,11 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
- <title>
-  ROOT canvas
- </title>
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(120,80)">
-   <title></title>
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <g>
     <path d="M0,0v640M96,0v640M192,0v640M288,0v640M384,0v640M480,0v640M576,0v640M672,0v640M768,0v640M864,0v640M960,0v640" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>

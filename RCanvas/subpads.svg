@@ -1,14 +1,10 @@
 <svg width="1200" height="800" viewBox="0 0 1200 600" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
- <title>
-  ROOT canvas
- </title>
  <path d="M0,0H1200V600H0Z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 600 300" preserveAspectRatio="none" x="0" y="0" width="600" height="300">
    <path d="M0,0H600V300H0Z" style="fill: none;"></path>
    <g>
     <g transform="translate(42,36)">
-     <title></title>
      <rect x="0" y="0" width="528" height="228" style="fill: none; stroke: black; stroke-width: 1;"></rect>
      <g>
       <path d="M0,0v228M106,0v228M211,0v228M317,0v228M422,0v228M528,0v228" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
@@ -74,7 +70,6 @@
    <path d="M0,0H600V300H0Z" style="fill: none;"></path>
    <g>
     <g transform="translate(42,36)">
-     <title></title>
      <rect x="0" y="0" width="528" height="228" style="fill: none; stroke: black; stroke-width: 1;"></rect>
      <g>
       <path d="M0,0v228M106,0v228M211,0v228M317,0v228M422,0v228M528,0v228" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
@@ -152,7 +147,6 @@
    <path d="M0,0H600V300H0Z" style="fill: none;"></path>
    <g>
     <g transform="translate(42,36)">
-     <title></title>
      <rect x="0" y="0" width="528" height="228" style="fill: none; stroke: black; stroke-width: 1;"></rect>
      <g>
       <path d="M0,0v228M106,0v228M211,0v228M317,0v228M422,0v228M528,0v228" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
@@ -239,7 +233,6 @@
      <path d="M0,0H300V150H0Z" style="fill: none;"></path>
      <g>
       <g transform="translate(21,18)">
-       <title></title>
        <rect x="0" y="0" width="264" height="114" style="fill: none; stroke: black; stroke-width: 1;"></rect>
        <g>
         <path d="M0,0v114M53,0v114M106,0v114M158,0v114M211,0v114M264,0v114" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
@@ -305,7 +298,6 @@
      <path d="M0,0H300V150H0Z" style="fill: none;"></path>
      <g>
       <g transform="translate(21,18)">
-       <title></title>
        <rect x="0" y="0" width="264" height="114" style="fill: none; stroke: black; stroke-width: 1;"></rect>
        <g>
         <path d="M0,0v114M53,0v114M106,0v114M158,0v114M211,0v114M264,0v114" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
@@ -383,7 +375,6 @@
      <path d="M0,0H300V150H0Z" style="fill: none;"></path>
      <g>
       <g transform="translate(21,18)">
-       <title></title>
        <rect x="0" y="0" width="264" height="114" style="fill: none; stroke: black; stroke-width: 1;"></rect>
        <g>
         <path d="M0,0v114M53,0v114M106,0v114M158,0v114M211,0v114M264,0v114" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>

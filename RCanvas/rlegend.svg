@@ -7,13 +7,9 @@
    <path d="M8,0L0,8" style="stroke: #0000FF; stroke-width: 1;"></path>
   </pattern>
  </defs>
- <title>
-  ROOT canvas
- </title>
  <path d="M0,0H1000V700H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(70,84)">
-   <title></title>
    <rect x="0" y="0" width="880" height="532" style="fill: none; stroke: black; stroke-width: 1;"></rect>
    <svg x="0" y="0" overflow="hidden" width="880" height="532" viewBox="0 0 880 532">
     <g>

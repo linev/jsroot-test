@@ -1,11 +1,7 @@
 <svg width="1200" height="800" viewBox="0 0 1200 800" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
- <title>
-  ROOT canvas
- </title>
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(240,200)">
-   <title></title>
    <rect x="0" y="0" width="720" height="440" style="fill: none; stroke: #0000FF; stroke-width: 3;"></rect>
    <svg x="0" y="0" overflow="hidden" width="720" height="440" viewBox="0 0 720 440">
     <g>

@@ -13,13 +13,9 @@
    <path d="M8,0L0,8" style="stroke: blue; stroke-width: 1;"></path>
   </pattern>
  </defs>
- <title>
-  ROOT canvas
- </title>
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(120,80)">
-   <title></title>
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <g>
     <path d="M103,0v640M392,0v640M681,0v640" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>

@@ -4,13 +4,9 @@
    <path d="M2,1h1v1h-1zM0,3h1v1h-1z" style="fill: green;"></path>
   </pattern>
  </defs>
- <title>
-  ROOT canvas
- </title>
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g transform="rotate(-90,120,80) translate(-520,80)">
-   <title></title>
    <path d="M0,0H640V960H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="640" height="960" viewBox="0 0 640 960">
     <g>

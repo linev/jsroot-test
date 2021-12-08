@@ -4,16 +4,12 @@
    <path d="M8,0L0,8" style="stroke: #59d454; stroke-width: 1;"></path>
   </pattern>
  </defs>
- <title>
-  ROOT canvas
- </title>
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 576 784" preserveAspectRatio="none" x="12" y="8" width="576" height="784">
    <path d="M0,0H576V784H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(58,78)">
-     <title></title>
      <path d="M0,0H461V627H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <g>
       <path d="M0,0v627M46,0v627M92,0v627M138,0v627M184,0v627M231,0v627M277,0v627M323,0v627M369,0v627M415,0v627M461,0v627" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
@@ -168,7 +164,6 @@
    <path d="M0,0H576V784H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(58,78)">
-     <title></title>
      <path d="M0,0H461V627H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <g>
       <path d="M0,0v627M46,0v627M92,0v627M138,0v627M184,0v627M231,0v627M277,0v627M323,0v627M369,0v627M415,0v627M461,0v627" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>

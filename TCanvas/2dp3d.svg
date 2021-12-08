@@ -1,14 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
- <title>
-  ROOT canvas
- </title>
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 552 368" preserveAspectRatio="none" x="24" y="16" width="552" height="368">
    <path d="M0,0H552V368H0Z" style="fill: #ccc7ab;"></path>
    <g>
     <g transform="translate(55,37)">
-     <title></title>
      <path d="M0,0H442V294H0Z" style="fill: #ccc7ab; stroke: black; stroke-width: 1;"></path>
      <g>
       <path d="M43,0v294M114,0v294M185,0v294M257,0v294M328,0v294M399,0v294" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
@@ -159,7 +155,6 @@
    <path d="M0,0H552V368H0Z" style="fill: #ccc7ab;"></path>
    <g>
     <g transform="translate(55,37)">
-     <title></title>
      <path d="M0,0H442V294H0Z" style="fill: #ccc7ab; stroke: black; stroke-width: 1;"></path>
      <g>
       <path d="M0,0v294M42,0v294M85,0v294M127,0v294M170,0v294M212,0v294M255,0v294M298,0v294M340,0v294M382,0v294M425,0v294" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
@@ -292,7 +287,6 @@
    <path d="M0,0H552V368H0Z" style="fill: #ccc7ab;"></path>
    <g>
     <g transform="translate(55,37)">
-     <title></title>
      <path d="M0,0H442V294H0Z" style="fill: #ccc7ab; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="442" height="294" viewBox="0 0 442 294">
       <g>

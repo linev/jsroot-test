@@ -4,13 +4,9 @@
    <path d="M0,0L7,7M7,0L0,7" style="stroke: #b3b3b3; stroke-width: 1; fill: none;"></path>
   </pattern>
  </defs>
- <title>
-  ROOT canvas
- </title>
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(120,80)">
-   <title></title>
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <g>
     <path d="M0,0v640M87,0v640M175,0v640M262,0v640M349,0v640M436,0v640M524,0v640M611,0v640M698,0v640M785,0v640M873,0v640M960,0v640" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
