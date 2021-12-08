@@ -1,14 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
- <title>
-  ROOT canvas
- </title>
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 564 240" preserveAspectRatio="none" x="36" y="64" width="564" height="240">
    <path d="M0,0H564V240H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(56,24)">
-     <title></title>
      <path d="M0,0H451V192H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="451" height="192" viewBox="0 0 451 192">
       <g>
@@ -131,7 +127,6 @@
    </g>
    <g>
     <g transform="translate(56,24)" style="display: none;">
-     <title></title>
      <path d="M0,0H451V192H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
     </g>
     <g transform="translate(440,16)" font-family="Arial" font-size="7" space="preserve" fill="black">
@@ -185,7 +180,6 @@
    <path d="M0,0H1128V440H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(113,44)">
-     <title></title>
      <path d="M0,0H902V352H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <g>
       <path d="M0,0v352M113,0v352M226,0v352M338,0v352M451,0v352M564,0v352M677,0v352M789,0v352M902,0v352" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>

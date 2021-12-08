@@ -1,14 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
- <title>
-  ROOT canvas
- </title>
  <path d="M0,0H1200V800H0Z" style="fill: #deba87;"></path>
  <g>
   <svg viewBox="0 0 1176 384" preserveAspectRatio="none" x="12" y="8" width="1176" height="384">
    <path d="M0,0H1176V384H0Z" style="fill: #deba87;"></path>
    <g>
     <g transform="translate(118,38)">
-     <title></title>
      <path d="M0,0H941V307H0Z" style="fill: #adbdc7; stroke: black; stroke-width: 1;"></path>
      <g>
       <path d="M0,307h941M0,287h941M0,266h941M0,246h941M0,225h941M0,205h941M0,184h941M0,164h941M0,143h941M0,123h941M0,102h941M0,82h941M0,61h941M0,41h941M0,20h941M0,0h941" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
@@ -147,7 +143,6 @@
    <path d="M0,0H1176V384H0Z" style="fill: #deba87;"></path>
    <g>
     <g transform="translate(118,38)">
-     <title></title>
      <path d="M0,0H941V307H0Z" style="fill: #adbdc7; stroke: black; stroke-width: 1;"></path>
      <g>
       <path d="M0,0v307M72,0v307M145,0v307M217,0v307M290,0v307M362,0v307M434,0v307M507,0v307M579,0v307M651,0v307M724,0v307M796,0v307M869,0v307M941,0v307" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>

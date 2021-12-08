@@ -1,14 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
- <title>
-  ROOT canvas
- </title>
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 576 384" preserveAspectRatio="none" x="12" y="8" width="576" height="384">
    <path d="M0,0H576V384H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(58,38)">
-     <title></title>
      <path d="M0,0H461V307H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="461" height="307" viewBox="0 0 461 307">
       <g>
@@ -99,7 +95,6 @@
    <path d="M0,0H576V384H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(58,38)">
-     <title></title>
      <path d="M0,0H461V307H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <g>
       <path d="M0,0v307M58,0v307M115,0v307M173,0v307M231,0v307M288,0v307M346,0v307M403,0v307M461,0v307" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
@@ -200,7 +195,6 @@
    </g>
    <g>
     <g transform="translate(58,38)" style="display: none;">
-     <title></title>
      <path d="M0,0H461V307H0Z" style="fill: #cccccc; stroke: black; stroke-width: 1;"></path>
     </g>
     <g transform="translate(120,2)" font-family="Arial" font-size="20" space="preserve">
@@ -218,7 +212,6 @@
    </g>
    <g>
     <g transform="translate(58,38)" style="display: none;">
-     <title></title>
      <path d="M0,0H461V307H0Z" style="fill: #cccccc; stroke: black; stroke-width: 1;"></path>
     </g>
     <g transform="translate(120,2)" font-family="Arial" font-size="20" space="preserve">
