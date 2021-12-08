@@ -44,9 +44,7 @@
    </svg>
    <g>
     <g transform="translate(0,640)">
-     <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M0,-16v16m21,-8v8m22,-8v8m21,-8v8m21,-8v8m22,-16v16m21,-8v8m21,-8v8m22,-8v8m21,-8v8m21,-16v16m22,-8v8m21,-8v8m21,-8v8m22,-8v8m21,-16v16m21,-8v8m22,-8v8m21,-8v8m21,-8v8m22,-16v16m21,-8v8m21,-8v8m22,-8v8m21,-8v8m21,-16v16m22,-8v8m21,-8v8m21,-8v8m22,-8v8m21,-16v16m21,-8v8m22,-8v8m21,-8v8m21,-8v8m22,-16v16m21,-8v8m21,-8v8m22,-8v8m21,-8v8m21,-16v16m22,-8v8m21,-8v8m21,-8v8m22,-8v8m21,-16v16" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M0,-624v-16m21,8v-8m22,8v-8m21,8v-8m21,8v-8m22,16v-16m21,8v-8m21,8v-8m22,8v-8m21,8v-8m21,16v-16m22,8v-8m21,8v-8m21,8v-8m22,8v-8m21,16v-16m21,8v-8m22,8v-8m21,8v-8m21,8v-8m22,16v-16m21,8v-8m21,8v-8m22,8v-8m21,8v-8m21,16v-16m22,8v-8m21,8v-8m21,8v-8m22,8v-8m21,16v-16m21,8v-8m22,8v-8m21,8v-8m21,8v-8m22,16v-16m21,8v-8m21,8v-8m22,8v-8m21,8v-8m21,16v-16m22,8v-8m21,8v-8m21,8v-8m22,8v-8m21,16v-16" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0h960M0,-640h960M0,-16v16m21,-8v8m22,-8v8m21,-8v8m21,-8v8m22,-16v16m21,-8v8m21,-8v8m22,-8v8m21,-8v8m21,-16v16m22,-8v8m21,-8v8m21,-8v8m22,-8v8m21,-16v16m21,-8v8m22,-8v8m21,-8v8m21,-8v8m22,-16v16m21,-8v8m21,-8v8m22,-8v8m21,-8v8m21,-16v16m22,-8v8m21,-8v8m21,-8v8m22,-8v8m21,-16v16m21,-8v8m22,-8v8m21,-8v8m21,-8v8m22,-16v16m21,-8v8m21,-8v8m22,-8v8m21,-8v8m21,-16v16m22,-8v8m21,-8v8m21,-8v8m22,-8v8m21,-16v16M0,-624v-16m21,8v-8m22,8v-8m21,8v-8m21,8v-8m22,16v-16m21,8v-8m21,8v-8m22,8v-8m21,8v-8m21,16v-16m22,8v-8m21,8v-8m21,8v-8m22,8v-8m21,16v-16m21,8v-8m22,8v-8m21,8v-8m21,8v-8m22,16v-16m21,8v-8m21,8v-8m22,8v-8m21,8v-8m21,16v-16m22,8v-8m21,8v-8m21,8v-8m22,8v-8m21,16v-16m21,8v-8m22,8v-8m21,8v-8m21,8v-8m22,16v-16m21,8v-8m21,8v-8m22,8v-8m21,8v-8m21,16v-16m22,8v-8m21,8v-8m21,8v-8m22,8v-8m21,16v-16" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="24" space="preserve" fill="black" text-anchor="middle">
       <text dy=".8em" transform="translate(0,6)">
        50
@@ -94,9 +92,7 @@
      </g>
     </g>
     <g>
-     <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M36,640h-36m36,-113h-36m36,-67h-36m36,-47h-36m36,-36h-36m36,-30h-36m36,-25h-36m36,-22h-36m36,-19h-36m36,-18h-36m36,-113h-36m36,-66h-36m36,-47h-36m36,-37h-36" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M924,640h36m-36,-113h36m-36,-67h36m-36,-47h36m-36,-36h36m-36,-30h36m-36,-25h36m-36,-22h36m-36,-19h36m-36,-18h36m-36,-113h36m-36,-66h36m-36,-47h36m-36,-37h36" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0v640M960,0v640M36,640h-36m36,-113h-36m36,-67h-36m36,-47h-36m36,-36h-36m36,-30h-36m36,-25h-36m36,-22h-36m36,-19h-36m36,-18h-36m36,-113h-36m36,-66h-36m36,-47h-36m36,-37h-36M924,640h36m-36,-113h36m-36,-67h36m-36,-47h36m-36,-36h36m-36,-30h36m-36,-25h36m-36,-22h36m-36,-19h36m-36,-18h36m-36,-113h36m-36,-66h36m-36,-47h36m-36,-37h36" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="16" space="preserve" fill="black" text-anchor="end">
       <text dy=".4em" transform="translate(-4,640)">
        1

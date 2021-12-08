@@ -30,8 +30,7 @@
    <path d="M0,32H54V64H0Z" style="fill: #fbe61d;"></path>
    <path d="M0,0H54V32H0Z" style="fill: #f9f90f;"></path>
    <g transform="translate(54)">
-    <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
-    <path d="M0,640h-33m33,-70h-33m33,-70h-33m33,-70h-33m33,-70h-33m33,-70h-33m33,-70h-33m33,-70h-33m33,-70h-33m33,-70h-33" style="stroke: black; stroke-width: 1;"></path>
+    <path d="M0,0v640M0,640h-33m33,-70h-33m33,-70h-33m33,-70h-33m33,-70h-33m33,-70h-33m33,-70h-33m33,-70h-33m33,-70h-33m33,-70h-33" style="stroke: black; stroke-width: 1;"></path>
     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="start">
      <text dy=".4em" transform="translate(4,640)">
       0

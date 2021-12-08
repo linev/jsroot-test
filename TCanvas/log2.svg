@@ -44,9 +44,7 @@
    </svg>
    <g>
     <g transform="translate(0,640)">
-     <path d="M0,0h960" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M103,-16v16m289,-16v16m289,-16v16" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M103,-624v-16m289,16v-16m289,16v-16" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0h960M0,-640h960M103,-16v16m289,-16v16m289,-16v16M103,-624v-16m289,16v-16m289,16v-16" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="24" space="preserve">
       <g transform="translate(93,32)">
        <text fill="black" font-size="24">
@@ -88,9 +86,7 @@
      </g>
     </g>
     <g>
-     <path d="M0,0v640" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M36,640h-36m36,-113h-36m36,-114h-36m36,-113h-36m36,-114h-36m36,-113h-36" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M924,640h36m-36,-113h36m-36,-114h36m-36,-113h36m-36,-114h36m-36,-113h36" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0v640M960,0v640M36,640h-36m36,-113h-36m36,-114h-36m36,-113h-36m36,-114h-36m36,-113h-36M924,640h36m-36,-113h36m-36,-114h36m-36,-113h36m-36,-114h36m-36,-113h36" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="24" space="preserve" fill="black" text-anchor="end">
       <text dy=".4em" transform="translate(-4,640)">
        1
