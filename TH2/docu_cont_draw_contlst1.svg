@@ -88,12 +88,12 @@
   </g>
   <g transform="translate(1026,120)">
    <path d="M0,0H54V600H0Z" style="fill: #f9f90f; stroke: black; stroke-width: 1;"></path>
-   <path d="M0,452H54V513H0Z" style="fill: #1168db; stroke: #1168db;"></path>
-   <path d="M0,330H54V452H0Z" style="fill: #0b98ce; stroke: #0b98ce;"></path>
-   <path d="M0,270H54V330H0Z" style="fill: #2eb7a4; stroke: #2eb7a4;"></path>
-   <path d="M0,178H54V270H0Z" style="fill: #9ebe6e; stroke: #9ebe6e;"></path>
-   <path d="M0,57H54V178H0Z" style="fill: #eec440; stroke: #eec440;"></path>
-   <path d="M0,0H54V57H0Z" style="fill: #f9f90f; stroke: #f9f90f;"></path>
+   <path d="M0,452H54V513H0Z" style="fill: #1168db; stroke: none;"></path>
+   <path d="M0,330H54V452H0Z" style="fill: #0b98ce; stroke: none;"></path>
+   <path d="M0,270H54V330H0Z" style="fill: #2eb7a4; stroke: none;"></path>
+   <path d="M0,178H54V270H0Z" style="fill: #9ebe6e; stroke: none;"></path>
+   <path d="M0,57H54V178H0Z" style="fill: #eec440; stroke: none;"></path>
+   <path d="M0,0H54V57H0Z" style="fill: #f9f90f; stroke: none;"></path>
    <g transform="translate(54)">
     <path d="M0,0v600" style="stroke: black; stroke-width: 1;"></path>
     <path d="M0,543h-31m31,-61h-31m31,-60h-31m31,-61h-31m31,-61h-31m31,-61h-31m31,-61h-31m31,-60h-31m31,-61h-31" style="stroke: black; stroke-width: 1;"></path>
