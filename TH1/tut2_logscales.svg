@@ -85,7 +85,6 @@
      </g>
     </g>
     <g transform="translate(56,1)" font-family="Arial" font-size="12" space="preserve">
-     <path d="M0,0H451V16H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(226)">
       x*sin(x)*exp(-0.1*x)+15
      </text>
@@ -243,7 +242,6 @@
      </g>
     </g>
     <g transform="translate(56,1)" font-family="Arial" font-size="12" space="preserve">
-     <path d="M0,0H451V16H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(226)">
       Graph
      </text>
@@ -425,7 +423,6 @@
      </g>
     </g>
     <g transform="translate(113,2)" font-family="Arial" font-size="21" space="preserve">
-     <path d="M0,0H902V27H0Z" style="fill: none;"></path>
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(451)">
       x*sin(x+10)+25
      </text>
