@@ -146,8 +146,13 @@ function ProduceSVG(obj, opt) {
    if ((theOnlyOptionId >= 0) && theOnlyOptionId !== optid)
       return processNextOption();
 
+  if (entry.reset_funcs) obj.fFunctions = jsroot.create("TList");
+
    jsroot.makeSVG({ object: obj, option: opt, width: 1200, height: 800 })
-         .then(svg => ProduceFile(svg, ".svg"));
+         .then(svg => {
+            ProduceFile(svg, ".svg");
+            if (entry.reset_funcs) obj.fFunctions = jsroot.create("TList");
+         });
 }
 
 function ProcessURL(url) {
