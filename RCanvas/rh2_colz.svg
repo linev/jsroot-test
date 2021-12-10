@@ -597,12 +597,12 @@
     </g>
    </g>
   </g>
-  <g transform="translate(70,14)" x="70" y="14" width="730" height="63" font-family="Arial" font-size="49" space="preserve">
+  <g transform="translate(70,14)" font-family="Arial" font-size="49" space="preserve">
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(365,32)">
     2D histogram with color palette
    </text>
   </g>
-  <g transform="translate(820,84)" x="820" y="84" width="50" height="532">
+  <g transform="translate(820,84)">
    <g>
     <path d="M0,0H50V532H0Z" style="stroke: black; fill: none;"></path>
     <path d="M0,505H50V532H0Z" style="fill: #352A87; stroke: #352A87;"></path>
@@ -647,7 +647,7 @@
     </g>
    </g>
   </g>
-  <g transform="translate(480,98)" x="480" y="98" width="300" height="210">
+  <g transform="translate(480,98)">
    <rect x="0" width="300" y="0" height="210" style="stroke: black; stroke-width: 1; fill: #FF0000;"></rect>
    <g font-family="Arial" font-size="17" space="preserve">
     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(150,11)">

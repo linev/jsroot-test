@@ -65,7 +65,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
+    <g transform="translate(35,11)" font-family="Arial" font-size="16" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
       Default RH1 drawing
      </text>
@@ -167,7 +167,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
+    <g transform="translate(35,11)" font-family="Arial" font-size="16" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
       Text() and Marker() draw options
      </text>
@@ -233,7 +233,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
+    <g transform="translate(35,11)" font-family="Arial" font-size="16" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
       Line() draw option
      </text>
@@ -299,7 +299,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
+    <g transform="translate(35,11)" font-family="Arial" font-size="16" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
       Error() draw options
      </text>
@@ -367,7 +367,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
+    <g transform="translate(35,11)" font-family="Arial" font-size="16" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
       Bar() draw options
      </text>
@@ -380,7 +380,7 @@
     <image width="496" height="195" xlink:href="data:image/png;base64,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"></image>
    </g>
    <g>
-    <g transform="translate(35,11)" x="35" y="11" width="440" height="12" font-family="Arial" font-size="16" space="preserve">
+    <g transform="translate(35,11)" font-family="Arial" font-size="16" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(220,6)">
       Lego() draw option
      </text>

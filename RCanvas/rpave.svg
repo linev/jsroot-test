@@ -18,7 +18,7 @@
  </defs>
  <path d="M0,0H1000V700H0Z" style="fill: white;"></path>
  <g>
-  <g transform="translate(550,455)" x="550" y="455" width="400" height="210" font-family="CustomFont" font-size="21" space="preserve" fill="black" text-anchor="middle">
+  <g transform="translate(550,455)" font-family="CustomFont" font-size="21" space="preserve" fill="black" text-anchor="middle">
    <rect x="0" width="400" y="0" height="210" style="stroke: black; stroke-width: 1; fill: url(#pat_3004_008000);"></rect>
    <text dy=".4em" transform="translate(200,35)">
     RPaveText with custom font
@@ -30,7 +30,7 @@
     One also can provide valid URL
    </text>
   </g>
-  <g transform="translate(550,35)" x="550" y="35" width="400" height="210" font-family="Arial" font-size="20" space="preserve" fill="black" text-anchor="middle">
+  <g transform="translate(550,35)" font-family="Arial" font-size="20" space="preserve" fill="black" text-anchor="middle">
    <rect x="0" width="400" y="0" height="210" style="stroke: black; stroke-width: 1; fill: url(#pat_3003_ffff00);"></rect>
    <text dy=".4em" transform="translate(200,35)">
     This is RPaveText
@@ -42,10 +42,10 @@
     It should be in top right corner
    </text>
   </g>
-  <g transform="translate(50,455)" x="50" y="455" width="300" height="210">
+  <g transform="translate(50,455)">
    <rect x="0" width="300" y="0" height="210" style="stroke: black; stroke-width: 1; fill: url(#pat_3002_ff0000);"></rect>
   </g>
-  <g transform="translate(50,35)" x="50" y="35" width="300" height="210">
+  <g transform="translate(50,35)">
    <rect x="0" width="300" y="0" height="210" style="stroke: #008000; stroke-width: 3; fill: url(#pat_3001_0000ff);"></rect>
   </g>
  </g>
