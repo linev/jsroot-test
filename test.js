@@ -252,9 +252,6 @@ processNextOption = reset_mathjax => {
          processNextOption(true);
       });
 
-   // always reset random generator
-   jsroot.seed(1122);
-
    let filename = "", itemname = "", jsonname = "", url = "", opt = "", opt2 = "",
        filepath = "http://jsroot.gsi.de/files/";
 //       filepath = "https://root.cern.ch/js/files/";
