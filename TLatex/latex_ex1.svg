@@ -2,7 +2,7 @@
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g font-family="Arial" font-size="29" space="preserve" font-weight="bold">
-   <g transform="translate(120,175)">
+   <g transform="translate(120,172)">
     <text fill="black" font-size="29">
      1)   C(x) = d
     </text>
@@ -21,11 +21,11 @@
     <text fill="black" font-size="29" x="252">
     </text>
     <g transform="translate(268)">
-     <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,9a6,6,0,0,0,12,0v-46a6,6,0,1,1,12,0"></path>
-     <text fill="black" font-size="17" transform="translate(1,31)">
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,7a5,5,0,0,0,10,0v-39a5,5,0,1,1,10,0"></path>
+     <text fill="black" font-size="17" transform="translate(0,29)">
       0
      </text>
-     <text fill="black" font-size="17" transform="translate(13,-48)">
+     <text fill="black" font-size="17" transform="translate(10,-41)">
       x
      </text>
     </g>
@@ -53,7 +53,7 @@
    </g>
   </g>
   <g font-family="Arial" font-size="29" space="preserve" font-weight="bold">
-   <g transform="translate(120,340)">
+   <g transform="translate(120,336)">
     <text fill="black" font-size="29">
      2)   C(x) = d
     </text>
@@ -72,8 +72,8 @@
     <text fill="black" font-size="29" x="253">
     </text>
     <g transform="translate(269)">
-     <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,9a6,6,0,0,0,12,0v-46a6,6,0,1,1,12,0"></path>
-     <text fill="black" font-size="17" transform="translate(13,-48)">
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M0,7a5,5,0,0,0,10,0v-39a5,5,0,1,1,10,0"></path>
+     <text fill="black" font-size="17" transform="translate(10,-41)">
       x
      </text>
     </g>
@@ -174,16 +174,16 @@
    </g>
   </g>
   <g font-family="Arial" font-size="29" space="preserve" font-weight="bold">
-   <g transform="translate(120,655)">
+   <g transform="translate(120,652)">
     <text fill="black" font-size="29">
      4)   F(t) =
     </text>
     <g transform="translate(133)">
-     <path style="stroke: black; stroke-width: 3; fill: none;" d="M29,-43h-29l12,17l-12,41h29"></path>
-     <text fill="black" font-size="17" transform="translate(-4,31)">
+     <path style="stroke: black; stroke-width: 3; fill: none;" d="M29,-37h-29l12,15l-12,34h29"></path>
+     <text fill="black" font-size="17" transform="translate(-4,29)">
       i=-∞
      </text>
-     <text fill="black" font-size="17" transform="translate(7,-48)">
+     <text fill="black" font-size="17" transform="translate(7,-41)">
       ∞
      </text>
     </g>
