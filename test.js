@@ -2,7 +2,7 @@ let jsroot = require("jsroot"),
     fs = require("fs"),
     xml_formatter = require('xml-formatter');
 
-require("./../jsroot/demo/examples.js");
+let examples_main = require("./../jsroot/demo/examples.json");
 
 examples_main.TH1.push({ name: "B_local", file: "file://other/hsimple.root", item: "hpx;1", opt:"B,fill_green", title: "draw histogram as bar chart" });
 examples_main.TTree.push({ name: "2d_local", asurl: true, file: "file://other/hsimple.root", item: "ntuple", opt: "px:py", title: "Two-dimensional TTree::Draw" });
@@ -47,15 +47,13 @@ if (process.argv && (process.argv.length > 2)) {
            break;
         case "-m":
         case "--more":
-           require("./../jsroot/demo/examples_more.js");
+           let examples_more = require("./../jsroot/demo/examples_more.json");
 
            for (let key in examples_more) {
-              if (key in examples_main) {
-                 for (let n in examples_more[key])
-                    examples_main[key].push(examples_more[key][n]);
-              } else {
+              if (examples_main[key])
+                 examples_main[key].push(...examples_more[key]);
+              else
                  examples_main[key] = examples_more[key];
-              }
            }
            break;
         case "-i":
