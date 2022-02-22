@@ -155,25 +155,30 @@ function ProduceSVG(obj, opt) {
 
 function ProcessURL(url) {
 
+   let hpainter;
+
    return jsroot.require('hierarchy').then(() => {
 
-      let hpainter = new jsroot.HierarchyPainter("testing", null);
-      let batch_disp = new JSROOT.BatchDisplay(1200, 800);
-      hpainter.setDisplay(batch_disp);
+      hpainter = new jsroot.HierarchyPainter("testing", null);
 
-      hpainter.startGUI(null, url).then(() => {
-         if (batch_disp.numFrames() == 0) {
-            console.log(' Processing url: ', url);
-            console.log('   !!! BATCH URL CREATES NO FRAME !!!', keyid, entry_name);
-         }
-         for (let n = 0; n < batch_disp.numFrames(); ++n) {
-            let json = batch_disp.makeJSON(n, 1);
-            if (json) ProduceFile(json, ".json", n);
-            let svg = json ? "" : batch_disp.makeSVG(n);
-            if (svg) ProduceFile(svg, ".svg", n);
-         }
-         processNextOption();
-      });
+      hpainter.setDisplay('batch');
+
+      return hpainter.createDisplay();
+   }).then(() => hpainter.startGUI(null, url)).then(() => {
+
+      let disp = hpainter.getDisplay();
+      if (disp.numFrames() == 0) {
+         console.log(' Processing url: ', url);
+         console.log('   !!! BATCH URL CREATES NO FRAME !!!', keyid, entry_name);
+      }
+      for (let n = 0; n < disp.numFrames(); ++n) {
+         let json = disp.makeJSON(n, 1);
+         if (json) ProduceFile(json, ".json", n);
+         let svg = json ? "" : disp.makeSVG(n);
+         if (svg) ProduceFile(svg, ".svg", n);
+      }
+
+      processNextOption();
    });
 }
 
