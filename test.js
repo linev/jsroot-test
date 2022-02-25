@@ -1,4 +1,4 @@
-let jsroot,
+let jsroot, createRootColors,
     fs = require("fs"),
     xml_formatter = require('xml-formatter');
 
@@ -73,7 +73,9 @@ if (process.argv && (process.argv.length > 2)) {
 
 function ProduceGlobalStyleCopy() {
    // copy style when painter is loaded
-   if (!init_style && jsroot.Painter) init_style = jsroot.gStyle;
+   if (!init_style && jsroot.gStyle) {
+      init_style = jsroot.extend({}, jsroot.gStyle);
+   }
 }
 
 function ProduceFile(content, extension, subid) {
@@ -155,9 +157,9 @@ function ProcessURL(url) {
 
    let hpainter;
 
-   return jsroot.require('hierarchy').then(() => {
+   return jsroot.require('hierarchy').then(hh => {
 
-      hpainter = new jsroot.HierarchyPainter("testing", null);
+      hpainter = new hh.HierarchyPainter("testing", null);
 
       hpainter.setDisplay('batch');
 
@@ -319,10 +321,10 @@ processNextOption = reset_mathjax => {
    }
 
    ProduceGlobalStyleCopy();
-   if (!entry.style && init_style) jsroot.gStyle = jsroot.extend({}, init_style);
+   if (!entry.style && init_style) jsroot.extend(jsroot.gStyle, init_style);
 
    // ensure default options
-   if (jsroot.Painter) jsroot.Painter.createRootColors(); // ensure default colors
+   if (createRootColors) createRootColors(); // ensure default colors
    jsroot.settings.Latex = 2;
    if (entry.latex) jsroot.settings.Latex = jsroot.constants.Latex.fromString(entry.latex);
    // seedrandom('hello.', { global: true }); // set global random
@@ -347,9 +349,8 @@ processNextOption = reset_mathjax => {
             // Check that copy of gStyle exists
             ProduceGlobalStyleCopy();
             // first create copy of existing style
-            let newstyle = jsroot.extend({}, jsroot.gStyle);
             // then apply changes to the
-            jsroot.gStyle = jsroot.extend(newstyle, obj);
+            jsroot.extend(jsroot.gStyle, obj);
             return processNextOption();
          } else {
             testobj = obj;
@@ -369,7 +370,9 @@ processNextOption = reset_mathjax => {
 // start processing
 import('jsroot').then(handle => {
    jsroot = handle;
-
+   return jsroot.require('painter');
+}).then(handle => {
+   createRootColors = handle.createRootColors;
    console.log(`JSROOT version  ${jsroot.version_id} ${jsroot.version_date}`);
    processNextOption();
 });
