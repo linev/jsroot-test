@@ -1,4 +1,4 @@
-let jsroot = require("jsroot"),
+let jsroot,
     fs = require("fs"),
     xml_formatter = require('xml-formatter');
 
@@ -6,8 +6,6 @@ let examples_main = require("./../jsroot/demo/examples.json");
 
 examples_main.TH1.push({ name: "B_local", file: "file://other/hsimple.root", item: "hpx;1", opt:"B,fill_green", title: "draw histogram as bar chart" });
 examples_main.TTree.push({ name: "2d_local", asurl: true, file: "file://other/hsimple.root", item: "ntuple", opt: "px:py", title: "Two-dimensional TTree::Draw" });
-
-console.log(`JSROOT version  ${jsroot.version_id} ${jsroot.version_date}`);
 
 let init_style = null,
     test_mode = "verify", nmatch = 0, ndiff = 0, nnew = 0,
@@ -369,5 +367,9 @@ processNextOption = reset_mathjax => {
 }
 
 // start processing
+import('jsroot').then(handle => {
+   jsroot = handle;
 
-processNextOption();
+   console.log(`JSROOT version  ${jsroot.version_id} ${jsroot.version_date}`);
+   processNextOption();
+});
