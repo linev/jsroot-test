@@ -328,7 +328,7 @@ processNextOption = reset_mathjax => {
    jsroot.settings.Latex = 2;
    if (entry.latex) jsroot.settings.Latex = jsroot.constants.Latex.fromString(entry.latex);
    // seedrandom('hello.', { global: true }); // set global random
-   jsroot._.id_counter = 1; // used in some custom styles
+   jsroot.internals.id_counter = 1; // used in some custom styles
 
    if (url.length > 0) {
       testfile = testobj = null;
