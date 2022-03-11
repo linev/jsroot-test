@@ -1,10 +1,21 @@
-let jsroot;
+import { gStyle, version_id, version_date, create, settings, constants, internals, httpRequest } from 'jsroot';
+
+console.log(`JSROOT version  ${version_id} ${version_date}`);
 
 import { createRootColors } from 'jsroot/colors';
 
-import { readFileSync, mkdirSync, accessSync, writeFileSync, unlink, constants } from 'fs';
+import { makeSVG } from 'jsroot/draw';
+
+import { openFile } from 'jsroot/io';
+
+import { HierarchyPainter } from 'jsroot/hierarchy';
+
+import { loadMathjax } from 'jsroot/latex';
+
+import { readFileSync, mkdirSync, accessSync, writeFileSync, unlink, constants as fs_constants } from 'fs';
 
 import xml_formatter from 'xml-formatter';
+
 
 let examples_main = JSON.parse(readFileSync("./../jsroot/demo/examples.json"));
 
@@ -79,9 +90,8 @@ if (process.argv && (process.argv.length > 2)) {
 
 function ProduceGlobalStyleCopy() {
    // copy style when painter is loaded
-   if (!init_style && jsroot.gStyle) {
-      init_style = jsroot.extend({}, jsroot.gStyle);
-   }
+   if (!init_style && gStyle)
+      init_style = Object.assign({}, gStyle);
 }
 
 function ProduceFile(content, extension, subid) {
@@ -100,7 +110,7 @@ function ProduceFile(content, extension, subid) {
       content = xml_formatter(content, {indentation: ' ', lineSeparator: '\n' });
 
    try {
-      accessSync(keyid, constants.W_OK);
+      accessSync(keyid, fs_constants.W_OK);
    } catch(err) {
       mkdirSync(keyid);
    }
@@ -150,27 +160,24 @@ function ProduceSVG(obj, opt) {
    if ((theOnlyOptionId >= 0) && theOnlyOptionId !== optid)
       return processNextOption();
 
-  if (entry.reset_funcs) obj.fFunctions = jsroot.create("TList");
+  if (entry.reset_funcs) obj.fFunctions = create("TList");
 
-   jsroot.makeSVG({ object: obj, option: opt, width: 1200, height: 800 })
+   makeSVG({ object: obj, option: opt, width: 1200, height: 800 })
          .then(svg => {
             ProduceFile(svg, ".svg");
-            if (entry.reset_funcs) obj.fFunctions = jsroot.create("TList");
+            if (entry.reset_funcs) obj.fFunctions = create("TList");
          });
 }
 
 function ProcessURL(url) {
 
-   let hpainter;
+   let hpainter = new HierarchyPainter("testing", null);
 
-   return jsroot.require('hierarchy').then(hh => {
+   hpainter.setDisplay('batch');
 
-      hpainter = new hh.HierarchyPainter("testing", null);
-
-      hpainter.setDisplay('batch');
-
-      return hpainter.createDisplay();
-   }).then(() => hpainter.startGUI(null, url)).then(() => {
+   hpainter.createDisplay()
+           .then(() => hpainter.startGUI(null, url))
+           .then(() => {
 
       let disp = hpainter.getDisplay();
       if (disp.numFrames() == 0) {
@@ -253,9 +260,7 @@ processNextOption = reset_mathjax => {
    if (entry.notest) return processNextOption();
 
    if (((entry.latex === "mathjax") || entry.reset_mathjax) && !reset_mathjax)
-      return jsroot.require('latex')
-                   .then(ltx => ltx.loadMathjax())
-                   .then(() => {
+      return loadMathjax().then(() => {
          MathJax.startup.defaultReady();
          console.log('Loading MathJax and doing extra reset!!!')
          processNextOption(true);
@@ -327,26 +332,27 @@ processNextOption = reset_mathjax => {
    }
 
    ProduceGlobalStyleCopy();
-   if (!entry.style && init_style) jsroot.extend(jsroot.gStyle, init_style);
+   if (!entry.style && init_style)
+      Object.assign(gStyle, init_style);
 
    // ensure default options
    createRootColors(); // ensure default colors
-   jsroot.settings.Latex = 2;
-   if (entry.latex) jsroot.settings.Latex = jsroot.constants.Latex.fromString(entry.latex);
+   settings.Latex = 2;
+   if (entry.latex) settings.Latex = constants.Latex.fromString(entry.latex);
    // seedrandom('hello.', { global: true }); // set global random
-   jsroot.internals.id_counter = 1; // used in some custom styles
+   internals.id_counter = 1; // used in some custom styles
 
    if (url.length > 0) {
       testfile = testobj = null;
       return ProcessURL(url);
    } else if (jsonname.length > 0) {
       testfile = testobj = null;
-      jsroot.httpRequest(jsonname, 'object').then(obj => {
+      httpRequest(jsonname, 'object').then(obj => {
          testobj = obj;
          ProduceSVG(testobj, opt+opt2);
       });
    } else if (filename.length > 0) {
-      jsroot.openFile(filename).then(file => {
+      openFile(filename).then(file => {
          testfile = file;
          return testfile.readObject(itemname);
       }).then(obj => {
@@ -356,7 +362,7 @@ processNextOption = reset_mathjax => {
             ProduceGlobalStyleCopy();
             // first create copy of existing style
             // then apply changes to the
-            jsroot.extend(jsroot.gStyle, obj);
+            Object.assign(gStyle, obj);
             return processNextOption();
          } else {
             testobj = obj;
@@ -373,8 +379,4 @@ processNextOption = reset_mathjax => {
    }
 }
 
-import('jsroot').then(handle => {
-   jsroot = handle;
-   console.log(`JSROOT version  ${jsroot.version_id} ${jsroot.version_date}`);
-   processNextOption();
-});
+processNextOption();
