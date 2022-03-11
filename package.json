@@ -6,6 +6,7 @@
   },
   "description": "JSROOT test suite for Node.js",
   "main": "test.js",
+  "type": "module",
   "author": "s.linev@gsi.de",
   "license": "MIT",
   "repository": {

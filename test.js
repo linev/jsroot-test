@@ -1,8 +1,12 @@
-let jsroot, createRootColors,
-    fs = require("fs"),
-    xml_formatter = require('xml-formatter');
+let jsroot;
 
-let examples_main = require("./../jsroot/demo/examples.json");
+import { createRootColors } from 'jsroot/colors';
+
+import { readFileSync, mkdirSync, accessSync, writeFileSync, unlink, constants } from 'fs';
+
+import xml_formatter from 'xml-formatter';
+
+let examples_main = JSON.parse(readFileSync("./../jsroot/demo/examples.json"));
 
 examples_main.TH1.push({ name: "B_local", file: "file://other/hsimple.root", item: "hpx;1", opt:"B,fill_green", title: "draw histogram as bar chart" });
 examples_main.TTree.push({ name: "2d_local", asurl: true, file: "file://other/hsimple.root", item: "ntuple", opt: "px:py", title: "Two-dimensional TTree::Draw" });
@@ -28,8 +32,10 @@ if (process.argv && (process.argv.length > 2)) {
         case "--key":
            keyid = process.argv[++cnt];
            theonlykey = true;
-           if (!keyid || !examples_main[keyid])
-              return console.log('Key not found', keyid);
+           if (!keyid || !examples_main[keyid]) {
+               console.log('Key not found', keyid);
+               exit();
+           }
            break;
         case "-o":
         case "--opt":
@@ -45,7 +51,7 @@ if (process.argv && (process.argv.length > 2)) {
            break;
         case "-m":
         case "--more":
-           let examples_more = require("./../jsroot/demo/examples_more.json");
+           let examples_more = JSON.parse(readFileSync("./../jsroot/demo/examples_more.json"));
 
            for (let key in examples_more) {
               if (examples_main[key])
@@ -67,7 +73,7 @@ if (process.argv && (process.argv.length > 2)) {
            console.log('   -o | --opt id : select specific option id (number or name), only when key is specified');
            console.log('   -m | --more : use more tests');
            console.log('   -i | --ignore : ignore TLS checks');
-           return;
+           exit();
       }
 }
 
@@ -94,16 +100,16 @@ function ProduceFile(content, extension, subid) {
       content = xml_formatter(content, {indentation: ' ', lineSeparator: '\n' });
 
    try {
-      fs.accessSync(keyid, fs.constants.W_OK);
+      accessSync(keyid, constants.W_OK);
    } catch(err) {
-      fs.mkdirSync(keyid);
+      mkdirSync(keyid);
    }
 
    let svgname = keyid + "/" + use_name + extension,
        svg0 = null, result = "MATCH";
 
    try {
-     svg0 = fs.readFileSync(svgname, 'utf-8');
+     svg0 = readFileSync(svgname, 'utf-8');
      if (svg0 != content) result = "DIFF";
    } catch(e) {
      svg0 = null;
@@ -130,9 +136,9 @@ function ProduceFile(content, extension, subid) {
 
    if ((result === "NEW") || ((test_mode === 'create') && (result!=='MATCH'))) {
       if (clen > 0)
-         fs.writeFileSync(svgname, content);
+         writeFileSync(svgname, content);
       else if (result !== "NEW")
-         fs.unlink(svgname);
+         unlink(svgname);
    }
 
    if (subid === undefined) processNextOption();
@@ -324,7 +330,7 @@ processNextOption = reset_mathjax => {
    if (!entry.style && init_style) jsroot.extend(jsroot.gStyle, init_style);
 
    // ensure default options
-   if (createRootColors) createRootColors(); // ensure default colors
+   createRootColors(); // ensure default colors
    jsroot.settings.Latex = 2;
    if (entry.latex) jsroot.settings.Latex = jsroot.constants.Latex.fromString(entry.latex);
    // seedrandom('hello.', { global: true }); // set global random
@@ -367,12 +373,8 @@ processNextOption = reset_mathjax => {
    }
 }
 
-// start processing
 import('jsroot').then(handle => {
    jsroot = handle;
-   return jsroot.require('colors');
-}).then(h => {
-   createRootColors = h.createRootColors;
    console.log(`JSROOT version  ${jsroot.version_id} ${jsroot.version_date}`);
    processNextOption();
 });
