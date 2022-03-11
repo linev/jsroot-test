@@ -370,9 +370,9 @@ processNextOption = reset_mathjax => {
 // start processing
 import('jsroot').then(handle => {
    jsroot = handle;
-   return jsroot.require('painter');
-}).then(handle => {
-   createRootColors = handle.createRootColors;
+   return jsroot.require('colors');
+}).then(h => {
+   createRootColors = h.createRootColors;
    console.log(`JSROOT version  ${jsroot.version_id} ${jsroot.version_date}`);
    processNextOption();
 });
