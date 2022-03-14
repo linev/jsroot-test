@@ -1,12 +1,8 @@
-import { gStyle, version_id, version_date, create, settings, constants, internals, httpRequest } from 'jsroot';
+import { gStyle, version_id, version_date, create, settings, constants, internals, httpRequest, openFile, makeSVG } from 'jsroot';
 
 console.log(`JSROOT version  ${version_id} ${version_date}`);
 
 import { createRootColors } from 'jsroot/colors';
-
-import { makeSVG } from 'jsroot/draw';
-
-import { openFile } from 'jsroot/io';
 
 import { HierarchyPainter } from 'jsroot/hierarchy';
 
