@@ -111,6 +111,11 @@
   </g>
   <g transform="translate(636,88)" font-family="Arial" font-size="30" space="preserve">
    <path d="M0,0H432V288H0Z" style="fill: white;"></path>
+   <g transform="translate(22,29)">
+    <text fill="black" font-size="30">
+     χ^2 / ndf
+    </text>
+   </g>
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(410,18)">
     42.03 / 44
    </text>
@@ -123,51 +128,46 @@
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,90)">
     Norm
    </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,126)">
-    Mean
-   </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,162)">
-    Sigma
-   </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,198)">
-    a
-   </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,234)">
-    b
-   </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,270)">
-    c
-   </text>
-   <g transform="translate(22,29)">
-    <text fill="black" font-size="30">
-     χ^2 / ndf
-    </text>
-   </g>
    <g transform="translate(239,101)">
     <text fill="black" font-size="30">
      57.83 ± 7.89
     </text>
    </g>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,126)">
+    Mean
+   </text>
    <g transform="translate(225,137)">
     <text fill="black" font-size="30">
      7.010 ± 0.134
     </text>
    </g>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,162)">
+    Sigma
+   </text>
    <g transform="translate(191,173)">
     <text fill="black" font-size="30">
      0.9238 ± 0.1550
     </text>
    </g>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,198)">
+    a
+   </text>
    <g transform="translate(256,209)">
     <text fill="black" font-size="30">
      200.6 ± 5.4
     </text>
    </g>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,234)">
+    b
+   </text>
    <g transform="translate(231,245)">
     <text fill="black" font-size="30">
      -16.73 ± 1.03
     </text>
    </g>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,270)">
+    c
+   </text>
    <g transform="translate(190,281)">
     <text fill="black" font-size="30">
      0.4438 ± 0.0464

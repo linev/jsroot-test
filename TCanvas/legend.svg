@@ -129,12 +129,6 @@
     Histogram filled with random numbers
    </text>
    <path d="M14,99H100" style="stroke: blue; stroke-width: 4;"></path>
-   <path d="M14,136H100" style="stroke: red; stroke-width: 2;"></path>
-   <path d="M57,122V152" style="stroke: red; stroke-width: 2;"></path>
-   <path d="M52,131v10h10v-10z" style="stroke: cyan; fill: cyan;"></path>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,137)">
-    Graph with error bars
-   </text>
    <g transform="translate(114,104) scale(0.442)">
     <text fill="black" font-size="34">
      Function abs(
@@ -152,6 +146,12 @@
      )
     </text>
    </g>
+   <path d="M14,136H100" style="stroke: red; stroke-width: 2;"></path>
+   <path d="M57,122V152" style="stroke: red; stroke-width: 2;"></path>
+   <path d="M52,131v10h10v-10z" style="stroke: cyan; fill: cyan;"></path>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,137)">
+    Graph with error bars
+   </text>
   </g>
   <g transform="translate(382,4)" font-family="Arial" font-size="40" space="preserve">
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(219,25)">

@@ -164,11 +164,6 @@
    <path d="M0,0H504V104H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <path d="M15,28H111" style="stroke: #cc3333; stroke-width: 2;"></path>
    <path d="M59.8,28.0a3.2,3.2,0,1,0,6.4,0a3.2,3.2,0,1,0,-6.4,0z" style="stroke: blue; fill: blue;"></path>
-   <path d="M15,77H111" style="stroke: #000099; stroke-width: 3;"></path>
-   <path d="M59.8,77.0a3.2,3.2,0,1,0,6.4,0a3.2,3.2,0,1,0,-6.4,0z" style="stroke: blue; fill: blue;"></path>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(126,77)">
-    Countries surfaces from TH2Poly (with errors)
-   </text>
    <g transform="translate(126,33) scale(0.665)">
     <text fill="black" font-size="20">
      Real countries surfaces from Wikipedia (in km
@@ -180,6 +175,11 @@
      )
     </text>
    </g>
+   <path d="M15,77H111" style="stroke: #000099; stroke-width: 3;"></path>
+   <path d="M59.8,77.0a3.2,3.2,0,1,0,6.4,0a3.2,3.2,0,1,0,-6.4,0z" style="stroke: blue; fill: blue;"></path>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(126,77)">
+    Countries surfaces from TH2Poly (with errors)
+   </text>
   </g>
   <g transform="translate(338,4)" font-family="Arial" font-size="41" space="preserve">
    <g transform="translate(12,45) scale(0.874)">

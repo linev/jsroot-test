@@ -54,7 +54,6 @@
       0
      </text>
      <path d="M0,0L-115,-272" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M0,0L-115,272" style="stroke: black; stroke-width: 1;"></path>
      <g transform="translate(-157,-301)">
       <text fill="black" font-size="25" transform="translate(0,-15)">
        2π
@@ -64,6 +63,7 @@
        3
       </text>
      </g>
+     <path d="M0,0L-115,272" style="stroke: black; stroke-width: 1;"></path>
      <g transform="translate(-158,340)">
       <text fill="black" font-size="25" transform="translate(0,-15)">
        4π
@@ -171,12 +171,6 @@
       0
      </text>
      <path d="M0,0L163,-222" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M0,0L0,-314" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M0,0L-163,-222" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M0,0L-230,0" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M0,0L-163,222" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M0,0L0,314" style="stroke: black; stroke-width: 1;"></path>
-     <path d="M0,0L163,222" style="stroke: black; stroke-width: 1;"></path>
      <g transform="translate(180,-246)">
       <text fill="black" font-size="25" transform="translate(0,-15)">
        π
@@ -186,6 +180,7 @@
        4
       </text>
      </g>
+     <path d="M0,0L0,-314" style="stroke: black; stroke-width: 1;"></path>
      <g transform="translate(-8,-348)">
       <text fill="black" font-size="25" transform="translate(0,-15)">
        π
@@ -195,6 +190,7 @@
        2
       </text>
      </g>
+     <path d="M0,0L-163,-222" style="stroke: black; stroke-width: 1;"></path>
      <g transform="translate(-210,-246)">
       <text fill="black" font-size="25" transform="translate(0,-15)">
        3π
@@ -204,11 +200,13 @@
        4
       </text>
      </g>
+     <path d="M0,0L-230,0" style="stroke: black; stroke-width: 1;"></path>
      <g transform="translate(-271,9)">
       <text fill="black" font-size="25">
        π
       </text>
      </g>
+     <path d="M0,0L-163,222" style="stroke: black; stroke-width: 1;"></path>
      <g transform="translate(-210,285)">
       <text fill="black" font-size="25" transform="translate(0,-15)">
        5π
@@ -218,6 +216,7 @@
        4
       </text>
      </g>
+     <path d="M0,0L0,314" style="stroke: black; stroke-width: 1;"></path>
      <g transform="translate(-15,387)">
       <text fill="black" font-size="25" transform="translate(0,-15)">
        3π
@@ -227,6 +226,7 @@
        2
       </text>
      </g>
+     <path d="M0,0L163,222" style="stroke: black; stroke-width: 1;"></path>
      <g transform="translate(180,285)">
       <text fill="black" font-size="25" transform="translate(0,-15)">
        7π

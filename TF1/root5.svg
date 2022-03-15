@@ -108,6 +108,11 @@
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(410,90)">
     0.7973
    </text>
+   <g transform="translate(22,137)">
+    <text fill="black" font-size="30">
+     χ^2 / ndf
+    </text>
+   </g>
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(410,126)">
     60.68 / 58
    </text>
@@ -120,27 +125,22 @@
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,198)">
     Constant
    </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,234)">
-    Mean
-   </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,270)">
-    Sigma
-   </text>
-   <g transform="translate(22,137)">
-    <text fill="black" font-size="30">
-     χ^2 / ndf
-    </text>
-   </g>
    <g transform="translate(257,209)">
     <text fill="black" font-size="30">
      501.9 ± 6.2
     </text>
    </g>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,234)">
+    Mean
+   </text>
    <g transform="translate(181,245)">
     <text fill="black" font-size="30">
      -0.4919 ± 0.0079
     </text>
    </g>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,270)">
+    Sigma
+   </text>
    <g transform="translate(190,281)">
     <text fill="black" font-size="30">
      0.7902 ± 0.0056

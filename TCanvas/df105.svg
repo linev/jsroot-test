@@ -159,14 +159,6 @@
     Z+jets
    </text>
    <path d="M12,111v27h72v-27z" style="fill: #9b98cc; stroke: black; stroke-width: 1;"></path>
-   <path d="M12,145v27h72v-27z" style="fill: #c38a91; stroke: black; stroke-width: 1;"></path>
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(372,159)">
-    Diboson
-   </text>
-   <path d="M12,179v27h72v-27z" style="fill: #d0f0c1; stroke: black; stroke-width: 1;"></path>
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(372,193)">
-    Single top
-   </text>
    <g transform="translate(354,135) scale(0.914)">
     <text fill="black" font-size="31">
      t
@@ -177,6 +169,14 @@
      </text>
     </g>
    </g>
+   <path d="M12,145v27h72v-27z" style="fill: #c38a91; stroke: black; stroke-width: 1;"></path>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(372,159)">
+    Diboson
+   </text>
+   <path d="M12,179v27h72v-27z" style="fill: #d0f0c1; stroke: black; stroke-width: 1;"></path>
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(372,193)">
+    Single top
+   </text>
   </g>
   <g font-family="Arial" font-size="32" space="preserve" font-weight="bold" font-style="oblique">
    <text fill="black" text-anchor="start" transform="translate(252,112)">

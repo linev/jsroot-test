@@ -138,30 +138,6 @@
   </g>
   <g transform="translate(144,52)" font-family="Arial" font-size="14" space="preserve">
    <path d="M0,0H240V148H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <text fill="blue" text-anchor="end" dy=".4em" transform="translate(228,9)">
-    7.515 / 3
-   </text>
-   <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,28)">
-    p0
-   </text>
-   <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,46)">
-    p1
-   </text>
-   <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,65)">
-    p2
-   </text>
-   <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,83)">
-    p3
-   </text>
-   <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,102)">
-    p4
-   </text>
-   <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,120)">
-    p5
-   </text>
-   <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,139)">
-    p6
-   </text>
    <g transform="translate(12,15) scale(0.962)">
     <text fill="blue" font-size="15">
      χ
@@ -173,36 +149,60 @@
      / ndf
     </text>
    </g>
+   <text fill="blue" text-anchor="end" dy=".4em" transform="translate(228,9)">
+    7.515 / 3
+   </text>
+   <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,28)">
+    p0
+   </text>
    <g transform="translate(102,33) scale(0.962)">
     <text fill="blue" font-size="15">
      2.022 ± 4.573e+04
     </text>
    </g>
+   <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,46)">
+    p1
+   </text>
    <g transform="translate(102,51) scale(0.962)">
     <text fill="blue" font-size="15">
      85.35 ± 4.572e+04
     </text>
    </g>
+   <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,65)">
+    p2
+   </text>
    <g transform="translate(98,70) scale(0.962)">
     <text fill="blue" font-size="15">
      -504.7 ± 4.516e+04
     </text>
    </g>
+   <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,83)">
+    p3
+   </text>
    <g transform="translate(102,88) scale(0.962)">
     <text fill="blue" font-size="15">
      862.3 ± 4.566e+04
     </text>
    </g>
+   <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,102)">
+    p4
+   </text>
    <g transform="translate(102,107) scale(0.962)">
     <text fill="blue" font-size="15">
      970.8 ± 3.948e+04
     </text>
    </g>
+   <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,120)">
+    p5
+   </text>
    <g transform="translate(133,125) scale(0.962)">
     <text fill="blue" font-size="15">
      -3737 ± 33.42
     </text>
    </g>
+   <text fill="blue" text-anchor="start" dy=".4em" transform="translate(12,139)">
+    p6
+   </text>
    <g transform="translate(103,144) scale(0.962)">
     <text fill="blue" font-size="15">
      2497 ± 4.182e+04
@@ -211,27 +211,6 @@
   </g>
   <g transform="translate(864,52)" font-family="Arial" font-size="13" space="preserve">
    <path d="M0,0H240V124H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <text fill="red" text-anchor="end" dy=".4em" transform="translate(228,9)">
-    0.8146 / 4
-   </text>
-   <text fill="red" text-anchor="start" dy=".4em" transform="translate(12,27)">
-    p0
-   </text>
-   <text fill="red" text-anchor="start" dy=".4em" transform="translate(12,44)">
-    p1
-   </text>
-   <text fill="red" text-anchor="start" dy=".4em" transform="translate(12,62)">
-    p2
-   </text>
-   <text fill="red" text-anchor="start" dy=".4em" transform="translate(12,80)">
-    p3
-   </text>
-   <text fill="red" text-anchor="start" dy=".4em" transform="translate(12,97)">
-    p4
-   </text>
-   <text fill="red" text-anchor="start" dy=".4em" transform="translate(12,115)">
-    p5
-   </text>
    <g transform="translate(12,14) scale(0.921)">
     <text fill="red" font-size="15">
      χ
@@ -243,31 +222,52 @@
      / ndf
     </text>
    </g>
+   <text fill="red" text-anchor="end" dy=".4em" transform="translate(228,9)">
+    0.8146 / 4
+   </text>
+   <text fill="red" text-anchor="start" dy=".4em" transform="translate(12,27)">
+    p0
+   </text>
    <g transform="translate(138,32) scale(0.921)">
     <text fill="red" font-size="15">
      3.959 ± 0.631
     </text>
    </g>
+   <text fill="red" text-anchor="start" dy=".4em" transform="translate(12,44)">
+    p1
+   </text>
    <g transform="translate(143,49) scale(0.921)">
     <text fill="red" font-size="15">
      13.55 ±  1.43
     </text>
    </g>
+   <text fill="red" text-anchor="start" dy=".4em" transform="translate(12,62)">
+    p2
+   </text>
    <g transform="translate(142,67) scale(0.921)">
     <text fill="red" font-size="15">
      18.33 ±  5.69
     </text>
    </g>
+   <text fill="red" text-anchor="start" dy=".4em" transform="translate(12,80)">
+    p3
+   </text>
    <g transform="translate(134,85) scale(0.921)">
     <text fill="red" font-size="15">
      -32.01 ± 9.676
     </text>
    </g>
+   <text fill="red" text-anchor="start" dy=".4em" transform="translate(12,97)">
+    p4
+   </text>
    <g transform="translate(146,102) scale(0.921)">
     <text fill="red" font-size="15">
      -26.6 ±  11.6
     </text>
    </g>
+   <text fill="red" text-anchor="start" dy=".4em" transform="translate(12,115)">
+    p5
+   </text>
    <g transform="translate(142,120) scale(0.921)">
     <text fill="red" font-size="15">
      25.04 ±  8.75

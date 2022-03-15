@@ -48,12 +48,6 @@
     0
    </text>
    <path d="M0,0L339,-226" style="stroke: black; stroke-width: 1;"></path>
-   <path d="M0,0L0,-320" style="stroke: black; stroke-width: 1;"></path>
-   <path d="M0,0L-339,-226" style="stroke: black; stroke-width: 1;"></path>
-   <path d="M0,0L-480,0" style="stroke: black; stroke-width: 1;"></path>
-   <path d="M0,0L-339,226" style="stroke: black; stroke-width: 1;"></path>
-   <path d="M0,0L0,320" style="stroke: black; stroke-width: 1;"></path>
-   <path d="M0,0L339,226" style="stroke: black; stroke-width: 1;"></path>
    <g transform="translate(358,-239)">
     <text fill="black" font-size="26" transform="translate(0,-15)">
      π
@@ -63,6 +57,7 @@
      4
     </text>
    </g>
+   <path d="M0,0L0,-320" style="stroke: black; stroke-width: 1;"></path>
    <g transform="translate(-8,-337)">
     <text fill="black" font-size="26" transform="translate(0,-15)">
      π
@@ -72,6 +67,7 @@
      2
     </text>
    </g>
+   <path d="M0,0L-339,-226" style="stroke: black; stroke-width: 1;"></path>
    <g transform="translate(-390,-239)">
     <text fill="black" font-size="26" transform="translate(0,-15)">
      3π
@@ -81,11 +77,13 @@
      4
     </text>
    </g>
+   <path d="M0,0L-480,0" style="stroke: black; stroke-width: 1;"></path>
    <g transform="translate(-523,9)">
     <text fill="black" font-size="26">
      π
     </text>
    </g>
+   <path d="M0,0L-339,226" style="stroke: black; stroke-width: 1;"></path>
    <g transform="translate(-390,279)">
     <text fill="black" font-size="26" transform="translate(0,-15)">
      5π
@@ -95,6 +93,7 @@
      4
     </text>
    </g>
+   <path d="M0,0L0,320" style="stroke: black; stroke-width: 1;"></path>
    <g transform="translate(-16,377)">
     <text fill="black" font-size="26" transform="translate(0,-15)">
      3π
@@ -104,6 +103,7 @@
      2
     </text>
    </g>
+   <path d="M0,0L339,226" style="stroke: black; stroke-width: 1;"></path>
    <g transform="translate(358,279)">
     <text fill="black" font-size="26" transform="translate(0,-15)">
      7π

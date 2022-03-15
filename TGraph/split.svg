@@ -90,9 +90,6 @@
    <path d="M0,0H360V160H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <path d="M11,30H79" style="stroke: blue; stroke-width: 2;"></path>
    <path d="M39,30a6,6,0,1,0,12,0a6,6,0,1,0,-12,0z" style="stroke: red; fill: red;"></path>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(90,80)">
-    &lt;q&gt; = 9.031923
-   </text>
    <g transform="translate(90,38) scale(0.463)">
     <text fill="black" font-size="45" transform="translate(0,-27)">
      Equilibrium charge
@@ -101,6 +98,9 @@
      state distribution
     </text>
    </g>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(90,80)">
+    &lt;q&gt; = 9.031923
+   </text>
    <g transform="translate(90,138) scale(0.463)">
     <text fill="black" font-size="45">
      σ   = 5.779455

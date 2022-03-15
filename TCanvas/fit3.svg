@@ -107,6 +107,11 @@
   </g>
   <g transform="translate(744,52)" font-family="Arial" font-size="28" space="preserve">
    <path d="M0,0H432V288H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <g transform="translate(22,28) scale(0.941)">
+    <text fill="black" font-size="30">
+     χ^2 / ndf
+    </text>
+   </g>
    <text fill="black" text-anchor="end" dy=".4em" transform="translate(410,18)">
     20.03 / 30
    </text>
@@ -119,35 +124,30 @@
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,90)">
     Bkg0
    </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,126)">
-    Bkg1
-   </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,162)">
-    Bkg2
-   </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,198)">
-    Gauss scale
-   </text>
-   <g transform="translate(22,28) scale(0.941)">
-    <text fill="black" font-size="30">
-     χ^2 / ndf
-    </text>
-   </g>
    <g transform="translate(227,100) scale(0.941)">
     <text fill="black" font-size="30">
      -1.723 ± 3.178
     </text>
    </g>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,126)">
+    Bkg1
+   </text>
    <g transform="translate(249,136) scale(0.941)">
     <text fill="black" font-size="30">
      55.72 ± 8.54
     </text>
    </g>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,162)">
+    Bkg2
+   </text>
    <g transform="translate(243,172) scale(0.941)">
     <text fill="black" font-size="30">
      -19.41 ± 4.10
     </text>
    </g>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,198)">
+    Gauss scale
+   </text>
    <g transform="translate(236,208) scale(0.941)">
     <text fill="black" font-size="30">
      8.415 ± 1.290

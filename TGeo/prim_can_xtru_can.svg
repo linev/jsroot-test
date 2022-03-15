@@ -34,6 +34,16 @@
      <text fill="red" font-size="13" text-anchor="start" dy=".4em" transform="translate(59,136)">
       ----- Define the blueprint polygon :
      </text>
+     <g transform="translate(59,162) scale(1.026)">
+      <text fill="red" font-size="13">
+       -----                 Double_t x[8] = {-30,-30,30,30,15,15,-15,-15};
+      </text>
+     </g>
+     <g transform="translate(59,183) scale(1.026)">
+      <text fill="red" font-size="13">
+       -----                 Double_t y[8] = {-30,30,30,-30,-30,15,15,-30};
+      </text>
+     </g>
      <text fill="red" font-size="13" text-anchor="start" dy=".4em" transform="translate(59,199)">
       -----                 xtru-&gt;DefinePolygon(8,x,y);
      </text>
@@ -51,16 +61,6 @@
      </text>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,304)">
      </text>
-     <g transform="translate(59,162) scale(1.026)">
-      <text fill="red" font-size="13">
-       -----                 Double_t x[8] = {-30,-30,30,30,15,15,-15,-15};
-      </text>
-     </g>
-     <g transform="translate(59,183) scale(1.026)">
-      <text fill="red" font-size="13">
-       -----                 Double_t y[8] = {-30,30,30,-30,-30,15,15,-30};
-      </text>
-     </g>
     </g>
    </g>
   </svg>
