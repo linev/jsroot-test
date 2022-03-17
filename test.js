@@ -41,7 +41,7 @@ if (process.argv && (process.argv.length > 2)) {
            theonlykey = true;
            if (!keyid || !examples_main[keyid]) {
                console.log('Key not found', keyid);
-               exit();
+               process.exit();
            }
            break;
         case "-o":
@@ -80,7 +80,7 @@ if (process.argv && (process.argv.length > 2)) {
            console.log('   -o | --opt id : select specific option id (number or name), only when key is specified');
            console.log('   -m | --more : use more tests');
            console.log('   -i | --ignore : ignore TLS checks');
-           exit();
+           process.exit();
       }
 }
 
