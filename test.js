@@ -18,14 +18,13 @@ let examples_main = JSON.parse(readFileSync("./../jsroot/demo/examples.json"));
 examples_main.TH1.push({ name: "B_local", file: "file://other/hsimple.root", item: "hpx;1", opt:"B,fill_green", title: "draw histogram as bar chart" });
 examples_main.TTree.push({ name: "2d_local", asurl: true, file: "file://other/hsimple.root", item: "ntuple", opt: "px:py", title: "Two-dimensional TTree::Draw" });
 
-let init_style = null,
+let init_style = null, init_palette = 57,
     test_mode = "verify", nmatch = 0, ndiff = 0, nnew = 0,
     keyid = 'TH1', theonlykey = false, optid = -1,
     theOnlyOption, theOnlyOptionId = -100, itemid = -1,
     entry, entry_name = "", testfile = null, testobj = null,
     all_diffs = [],
-    last_time = new Date().getTime(),
-    processNextOption;
+    last_time = new Date().getTime();
 
 if (process.argv && (process.argv.length > 2)) {
 
@@ -86,8 +85,10 @@ if (process.argv && (process.argv.length > 2)) {
 
 function ProduceGlobalStyleCopy() {
    // copy style when painter is loaded
-   if (!init_style && gStyle)
+   if (!init_style && gStyle) {
       init_style = Object.assign({}, gStyle);
+      init_palette = settings.Palette;
+   }
 }
 
 function ProduceFile(content, extension, subid) {
@@ -194,7 +195,7 @@ function ProcessURL(url) {
 }
 
 
-processNextOption = reset_mathjax => {
+function processNextOption(reset_mathjax) {
 
    if (!keyid) {
       if (all_diffs.length) console.log("ALL DIFFS", all_diffs);
@@ -332,6 +333,8 @@ processNextOption = reset_mathjax => {
    ProduceGlobalStyleCopy();
    if (!entry.style && init_style)
       Object.assign(gStyle, init_style);
+
+   settings.Palette = init_palette;
 
    // ensure default options
    createRootColors(); // ensure default colors
