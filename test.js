@@ -1,4 +1,4 @@
-import { gStyle, version_id, version_date, create, settings, constants, internals, httpRequest, openFile, makeSVG } from 'jsroot';
+import { gStyle, version_id, version_date, create, settings, constants, internals, httpRequest, openFile, makeSVG, readStyleFromURL } from 'jsroot';
 
 console.log(`JSROOT version  ${version_id} ${version_date}`);
 
@@ -166,6 +166,8 @@ function ProduceSVG(obj, opt) {
 }
 
 function ProcessURL(url) {
+
+   readStyleFromURL(url);
 
    let hpainter = new HierarchyPainter("testing", null);
 
