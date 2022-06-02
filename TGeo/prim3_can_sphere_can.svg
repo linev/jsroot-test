@@ -10,31 +10,31 @@
   <svg viewBox="0 0 1200 320" preserveAspectRatio="none" x="0" y="480" width="1200" height="320">
    <path d="M0,0H1200V320H0Z" style="fill: white;"></path>
    <g>
-    <g transform="translate(12,3)" font-family="Arial" font-size="32" space="preserve" font-weight="bold" text-anchor="middle">
+    <g transform="translate(12,3)" font-family="Arial" font-size="32" space="preserve" font-weight="bold">
      <path d="M4,4v314h1176v-314z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H1176V314H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
-     <text fill="red" dy=".4em" transform="translate(588,20)">
+     <text fill="red" text-anchor="middle" dy=".4em" transform="translate(588,20)">
       TGeoSphere- sphere class
      </text>
-     <text fill="black" dy=".4em" transform="translate(588,59)">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,59)">
       fRmin     = 30.00         =&gt;  inner radius
      </text>
-     <text fill="black" dy=".4em" transform="translate(588,98)">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,98)">
       fRmax     = 40.00         =&gt;  outer radius
      </text>
-     <text fill="black" dy=".4em" transform="translate(588,137)">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,137)">
       fTheta1   = 60.00         =&gt;  lower theta limit
      </text>
-     <text fill="black" dy=".4em" transform="translate(588,177)">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,177)">
       fTheta2   = 120.00        =&gt;  higher theta limit
      </text>
-     <text fill="black" dy=".4em" transform="translate(588,216)">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,216)">
       fPhi1     = 30.00         =&gt;  lower phi limit
      </text>
-     <text fill="black" dy=".4em" transform="translate(588,255)">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,255)">
       fPhi2     = 240.00        =&gt;  higher phi limit
      </text>
-     <text fill="black" dy=".4em" transform="translate(588,294)">
+     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(588,294)">
      </text>
     </g>
    </g>
