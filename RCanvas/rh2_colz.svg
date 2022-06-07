@@ -538,7 +538,7 @@
    </svg>
    <g>
     <g transform="translate(0,532)">
-     <path d="M0,-14v14m24,-7v7m25,-7v7m24,-7v7m24,-7v7m25,-14v14m24,-7v7m24,-7v7m25,-7v7m24,-7v7m24,-14v14m25,-7v7m24,-7v7m24,-7v7m25,-7v7m24,-14v14m24,-7v7m25,-7v7m24,-7v7m24,-7v7m25,-14v14m24,-7v7m24,-7v7m25,-7v7m24,-7v7m24,-14v14m25,-7v7m24,-7v7m24,-7v7m25,-7v7m24,-14v14" style="stroke: black;"></path>
+     <path d="M0,-14V0M24,-7V0M49,-7V0M73,-7V0M97,-7V0M122,-14V0M146,-7V0M170,-7V0M195,-7V0M219,-7V0M243,-14V0M268,-7V0M292,-7V0M316,-7V0M341,-7V0M365,-14V0M389,-7V0M414,-7V0M438,-7V0M462,-7V0M487,-14V0M511,-7V0M535,-7V0M560,-7V0M584,-7V0M608,-14V0M633,-7V0M657,-7V0M681,-7V0M706,-7V0M730,-14V0" style="stroke: black;"></path>
      <g font-family="Arial" font-size="21" space="preserve">
       <text text-anchor="middle" dy=".8em" transform="translate(0,4)">
        2
@@ -564,7 +564,7 @@
      </g>
     </g>
     <g transform="translate(0,532)">
-     <path d="M20,0h-20m10,-18h-10m10,-17h-10m10,-18h-10m10,-18h-10m20,-18h-20m10,-17h-10m10,-18h-10m10,-18h-10m10,-18h-10m20,-17h-20m10,-18h-10m10,-18h-10m10,-18h-10m10,-17h-10m20,-18h-20m10,-18h-10m10,-17h-10m10,-18h-10m10,-18h-10m20,-18h-20m10,-17h-10m10,-18h-10m10,-18h-10m10,-18h-10m20,-17h-20m10,-18h-10m10,-18h-10m10,-18h-10m10,-17h-10m20,-18h-20" style="stroke: black;"></path>
+     <path d="M20,0H0M10,-18H0M10,-35H0M10,-53H0M10,-71H0M20,-89H0M10,-106H0M10,-124H0M10,-142H0M10,-160H0M20,-177H0M10,-195H0M10,-213H0M10,-231H0M10,-248H0M20,-266H0M10,-284H0M10,-301H0M10,-319H0M10,-337H0M20,-355H0M10,-372H0M10,-390H0M10,-408H0M10,-426H0M20,-443H0M10,-461H0M10,-479H0M10,-497H0M10,-514H0M20,-532H0" style="stroke: black;"></path>
      <g font-family="Arial" font-size="21" space="preserve">
       <text text-anchor="end" dy=".4em" transform="translate(-5)">
        2
@@ -590,10 +590,10 @@
      </g>
     </g>
     <g>
-     <path d="M0,0v14m24,-14v7m25,-7v7m24,-7v7m24,-7v7m25,-7v14m24,-14v7m24,-7v7m25,-7v7m24,-7v7m24,-7v14m25,-14v7m24,-7v7m24,-7v7m25,-7v7m24,-7v14m24,-14v7m25,-7v7m24,-7v7m24,-7v7m25,-7v14m24,-14v7m24,-7v7m25,-7v7m24,-7v7m24,-7v14m25,-14v7m24,-7v7m24,-7v7m25,-7v7m24,-7v14" style="stroke: black;"></path>
+     <path d="M0,0V14M24,0V7M49,0V7M73,0V7M97,0V7M122,0V14M146,0V7M170,0V7M195,0V7M219,0V7M243,0V14M268,0V7M292,0V7M316,0V7M341,0V7M365,0V14M389,0V7M414,0V7M438,0V7M462,0V7M487,0V14M511,0V7M535,0V7M560,0V7M584,0V7M608,0V14M633,0V7M657,0V7M681,0V7M706,0V7M730,0V14" style="stroke: black;"></path>
     </g>
     <g transform="translate(730,532)">
-     <path d="M0,0h-20m20,-18h-10m10,-17h-10m10,-18h-10m10,-18h-10m10,-18h-20m20,-17h-10m10,-18h-10m10,-18h-10m10,-18h-10m10,-17h-20m20,-18h-10m10,-18h-10m10,-18h-10m10,-17h-10m10,-18h-20m20,-18h-10m10,-17h-10m10,-18h-10m10,-18h-10m10,-18h-20m20,-17h-10m10,-18h-10m10,-18h-10m10,-18h-10m10,-17h-20m20,-18h-10m10,-18h-10m10,-18h-10m10,-17h-10m10,-18h-20" style="stroke: black;"></path>
+     <path d="M0,0H-20M0,-18H-10M0,-35H-10M0,-53H-10M0,-71H-10M0,-89H-20M0,-106H-10M0,-124H-10M0,-142H-10M0,-160H-10M0,-177H-20M0,-195H-10M0,-213H-10M0,-231H-10M0,-248H-10M0,-266H-20M0,-284H-10M0,-301H-10M0,-319H-10M0,-337H-10M0,-355H-20M0,-372H-10M0,-390H-10M0,-408H-10M0,-426H-10M0,-443H-20M0,-461H-10M0,-479H-10M0,-497H-10M0,-514H-10M0,-532H-20" style="stroke: black;"></path>
     </g>
    </g>
   </g>
@@ -627,7 +627,7 @@
     <path d="M0,0H50V27H0Z" style="fill: #F9FB0E; stroke: #F9FB0E;"></path>
    </g>
    <g transform="translate(50,532)">
-    <path d="M0,-10h-8m8,-25h-8m8,-25h-8m8,-25h-15m15,-24h-8m8,-25h-8m8,-25h-8m8,-25h-15m15,-25h-8m8,-25h-8m8,-25h-8m8,-24h-15m15,-25h-8m8,-25h-8m8,-25h-8m8,-25h-15m15,-25h-8m8,-25h-8m8,-24h-8m8,-25h-15m15,-25h-8m8,-25h-8" style="stroke: black;"></path>
+    <path d="M0,-10H-8M0,-35H-8M0,-60H-8M0,-85H-15M0,-109H-8M0,-134H-8M0,-159H-8M0,-184H-15M0,-209H-8M0,-234H-8M0,-259H-8M0,-283H-15M0,-308H-8M0,-333H-8M0,-358H-8M0,-383H-15M0,-408H-8M0,-433H-8M0,-457H-8M0,-482H-15M0,-507H-8M0,-532H-8" style="stroke: black;"></path>
     <g font-family="Arial" font-size="21" space="preserve">
      <text text-anchor="start" dy=".4em" transform="translate(4,-85)">
       20
