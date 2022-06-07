@@ -3508,11 +3508,13 @@
        <g data-mml-node="mstyle" fill="black" stroke="black">
         <g data-mml-node="TeXAtom" data-mjx-texclass="ORD">
          <g data-mml-node="TeXAtom" data-mjx-texclass="ORD">
-          <g data-mml-node="mi">
-           <use data-c="1D6C1" xlink:href="#MJX-140-TEX-B-1D6C1"></use>
+          <g data-mml-node="TeXAtom" data-mjx-texclass="ORD">
+           <g data-mml-node="mo">
+            <use data-c="1D6C1" xlink:href="#MJX-140-TEX-B-1D6C1"></use>
+           </g>
           </g>
          </g>
-         <g data-mml-node="mi" transform="translate(958,0)">
+         <g data-mml-node="mo" transform="translate(958,0)">
           <use data-c="22C5" xlink:href="#MJX-140-TEX-B-22C5"></use>
          </g>
         </g>
