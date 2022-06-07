@@ -29,7 +29,7 @@
    </svg>
    <g>
     <g transform="translate(0,640)">
-     <path d="M0,0h960M29,-12v12m32,-12v12m32,-12v12m32,-12v12m32,-24v24m32,-12v12m33,-12v12m32,-12v12m32,-12v12m32,-24v24m32,-12v12m32,-12v12m32,-12v12m32,-12v12m32,-24v24m33,-12v12m32,-12v12m32,-12v12m32,-12v12m32,-24v24m32,-12v12m32,-12v12m32,-12v12m32,-12v12m32,-24v24m33,-12v12m32,-12v12m32,-12v12m32,-12v12" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0h960M29,-12V0M61,-12V0M93,-12V0M125,-12V0M157,-24V0M189,-12V0M222,-12V0M254,-12V0M286,-12V0M318,-24V0M350,-12V0M382,-12V0M414,-12V0M446,-12V0M478,-24V0M511,-12V0M543,-12V0M575,-12V0M607,-12V0M639,-24V0M671,-12V0M703,-12V0M735,-12V0M767,-12V0M799,-24V0M832,-12V0M864,-12V0M896,-12V0M928,-12V0" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="middle">
       <text dy=".8em" transform="translate(157,6)">
        5
@@ -54,7 +54,7 @@
      </g>
     </g>
     <g>
-     <path d="M0,0v640M36,640h-36m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36m18,-16h-18m18,-16h-18m18,-16h-18m36,-16h-36" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0v640M36,640H0M18,624H0M18,608H0M18,592H0M36,576H0M18,560H0M18,544H0M18,528H0M36,512H0M18,496H0M18,480H0M18,464H0M36,448H0M18,432H0M18,416H0M18,400H0M36,384H0M18,368H0M18,352H0M18,336H0M36,320H0M18,304H0M18,288H0M18,272H0M36,256H0M18,240H0M18,224H0M18,208H0M36,192H0M18,176H0M18,160H0M18,144H0M36,128H0M18,112H0M18,96H0M18,80H0M36,64H0M18,48H0M18,32H0M18,16H0M36,0H0" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
       <text dy=".4em" transform="translate(-4,640)">
        -10

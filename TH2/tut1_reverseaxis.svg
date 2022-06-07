@@ -28,10 +28,10 @@
    </svg>
    <g>
     <g transform="translate(0,640)">
-     <path d="M0,0h960M0,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0m24,0v0" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0h960M0,0V0M24,0V0M48,0V0M72,0V0M96,0V0M120,0V0M144,0V0M168,0V0M192,0V0M216,0V0M240,0V0M264,0V0M288,0V0M312,0V0M336,0V0M360,0V0M384,0V0M408,0V0M432,0V0M456,0V0M480,0V0M504,0V0M528,0V0M552,0V0M576,0V0M600,0V0M624,0V0M648,0V0M672,0V0M696,0V0M720,0V0M744,0V0M768,0V0M792,0V0M816,0V0M840,0V0M864,0V0M888,0V0M912,0V0M936,0V0M960,0V0" style="stroke: black; stroke-width: 1;"></path>
     </g>
     <g>
-     <path d="M0,0v640M0,640h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0m0,-16h0" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0v640M0,640H0M0,624H0M0,608H0M0,592H0M0,576H0M0,560H0M0,544H0M0,528H0M0,512H0M0,496H0M0,480H0M0,464H0M0,448H0M0,432H0M0,416H0M0,400H0M0,384H0M0,368H0M0,352H0M0,336H0M0,320H0M0,304H0M0,288H0M0,272H0M0,256H0M0,240H0M0,224H0M0,208H0M0,192H0M0,176H0M0,160H0M0,144H0M0,128H0M0,112H0M0,96H0M0,80H0M0,64H0M0,48H0M0,32H0M0,16H0M0,0H0" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </g>
@@ -58,7 +58,7 @@
    <path d="M0,32H54V65H0Z" style="fill: #fbe61d;"></path>
    <path d="M0,0H54V33H0Z" style="fill: #f9f90f;"></path>
    <g transform="translate(54)">
-    <path d="M0,0v640M0,640h-33m33,-72h-33m33,-73h-33m33,-72h-33m33,-72h-33m33,-73h-33m33,-72h-33m33,-72h-33m33,-73h-33" style="stroke: black; stroke-width: 1;"></path>
+    <path d="M0,0v640M0,640H-33M0,568H-33M0,495H-33M0,423H-33M0,351H-33M0,278H-33M0,206H-33M0,134H-33M0,61H-33" style="stroke: black; stroke-width: 1;"></path>
     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="start">
      <text dy=".4em" transform="translate(4,640)">
       0
@@ -133,7 +133,7 @@
    </text>
   </g>
   <g transform="translate(120,720)">
-   <path d="M0,0h960M960,-17v17m-24,-9v9m-24,-9v9m-24,-9v9m-24,-9v9m-24,-17v17m-24,-9v9m-24,-9v9m-24,-9v9m-24,-9v9m-24,-17v17m-24,-9v9m-24,-9v9m-24,-9v9m-24,-9v9m-24,-17v17m-24,-9v9m-24,-9v9m-24,-9v9m-24,-9v9m-24,-17v17m-24,-9v9m-24,-9v9m-24,-9v9m-24,-9v9m-24,-17v17m-24,-9v9m-24,-9v9m-24,-9v9m-24,-9v9m-24,-17v17m-24,-9v9m-24,-9v9m-24,-9v9m-24,-9v9m-24,-17v17m-24,-9v9m-24,-9v9m-24,-9v9m-24,-9v9m-24,-17v17" style="stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0h960M960,-17V0M936,-9V0M912,-9V0M888,-9V0M864,-9V0M840,-17V0M816,-9V0M792,-9V0M768,-9V0M744,-9V0M720,-17V0M696,-9V0M672,-9V0M648,-9V0M624,-9V0M600,-17V0M576,-9V0M552,-9V0M528,-9V0M504,-9V0M480,-17V0M456,-9V0M432,-9V0M408,-9V0M384,-9V0M360,-17V0M336,-9V0M312,-9V0M288,-9V0M264,-9V0M240,-17V0M216,-9V0M192,-9V0M168,-9V0M144,-9V0M120,-17V0M96,-9V0M72,-9V0M48,-9V0M24,-9V0M0,-17V0" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="32" space="preserve" font-weight="bold" fill="black" text-anchor="middle">
     <text dy=".8em" transform="translate(960,26)">
      -4
@@ -165,7 +165,7 @@
    </g>
   </g>
   <g transform="translate(120,80)">
-   <path d="M0,0v640M33,0h-33m17,16h-17m17,16h-17m17,16h-17m17,16h-17m33,16h-33m17,16h-17m17,16h-17m17,16h-17m17,16h-17m33,16h-33m17,16h-17m17,16h-17m17,16h-17m17,16h-17m33,16h-33m17,16h-17m17,16h-17m17,16h-17m17,16h-17m33,16h-33m17,16h-17m17,16h-17m17,16h-17m17,16h-17m33,16h-33m17,16h-17m17,16h-17m17,16h-17m17,16h-17m33,16h-33m17,16h-17m17,16h-17m17,16h-17m17,16h-17m33,16h-33m17,16h-17m17,16h-17m17,16h-17m17,16h-17m33,16h-33" style="stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0v640M33,0H0M17,16H0M17,32H0M17,48H0M17,64H0M33,80H0M17,96H0M17,112H0M17,128H0M17,144H0M33,160H0M17,176H0M17,192H0M17,208H0M17,224H0M33,240H0M17,256H0M17,272H0M17,288H0M17,304H0M33,320H0M17,336H0M17,352H0M17,368H0M17,384H0M33,400H0M17,416H0M17,432H0M17,448H0M17,464H0M33,480H0M17,496H0M17,512H0M17,528H0M17,544H0M33,560H0M17,576H0M17,592H0M17,608H0M17,624H0M33,640H0" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="32" space="preserve" font-weight="bold" fill="black" text-anchor="end">
     <text dy=".4em" transform="translate(-24)">
      -4

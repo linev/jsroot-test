@@ -18,7 +18,7 @@
    </svg>
    <g>
     <g transform="translate(0,640)">
-     <path d="M0,0h960M0,-12v12m27,-12v12m26,-24v24m27,-12v12m27,-12v12m26,-12v12m27,-24v24m27,-12v12m26,-12v12m27,-12v12m27,-24v24m26,-12v12m27,-12v12m27,-12v12m26,-24v24m27,-12v12m27,-12v12m26,-12v12m27,-24v24m27,-12v12m26,-12v12m27,-12v12m27,-24v24m26,-12v12m27,-12v12m27,-12v12m26,-24v24m27,-12v12m27,-12v12m26,-12v12m27,-24v24m27,-12v12m26,-12v12m27,-12v12m27,-24v24m26,-12v12m27,-12v12" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0h960M0,-12V0M27,-12V0M53,-24V0M80,-12V0M107,-12V0M133,-12V0M160,-24V0M187,-12V0M213,-12V0M240,-12V0M267,-24V0M293,-12V0M320,-12V0M347,-12V0M373,-24V0M400,-12V0M427,-12V0M453,-12V0M480,-24V0M507,-12V0M533,-12V0M560,-12V0M587,-24V0M613,-12V0M640,-12V0M667,-12V0M693,-24V0M720,-12V0M747,-12V0M773,-12V0M800,-24V0M827,-12V0M853,-12V0M880,-12V0M907,-24V0M933,-12V0M960,-12V0" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="middle">
       <text dy=".8em" transform="translate(53,6)">
        2
@@ -55,7 +55,7 @@
      </g>
     </g>
     <g>
-     <path d="M0,0v640M36,640h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36m18,-13h-18m18,-13h-18m18,-12h-18m18,-13h-18m36,-13h-36" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0v640M36,640H0M18,627H0M18,614H0M18,602H0M18,589H0M36,576H0M18,563H0M18,550H0M18,538H0M18,525H0M36,512H0M18,499H0M18,486H0M18,474H0M18,461H0M36,448H0M18,435H0M18,422H0M18,410H0M18,397H0M36,384H0M18,371H0M18,358H0M18,346H0M18,333H0M36,320H0M18,307H0M18,294H0M18,282H0M18,269H0M36,256H0M18,243H0M18,230H0M18,218H0M18,205H0M36,192H0M18,179H0M18,166H0M18,154H0M18,141H0M36,128H0M18,115H0M18,102H0M18,90H0M18,77H0M36,64H0M18,51H0M18,38H0M18,26H0M18,13H0M36,0H0" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
       <text dy=".4em" transform="translate(-4,640)">
        1
@@ -117,7 +117,7 @@
    <path d="M0,32H48V65H0Z" style="fill: #fbe61d;"></path>
    <path d="M0,0H48V33H0Z" style="fill: #f9f90f;"></path>
    <g transform="translate(48)">
-    <path d="M0,0v640M0,640h-33m33,-60h-33m33,-60h-33m33,-60h-33m33,-59h-33m33,-60h-33m33,-60h-33m33,-60h-33m33,-60h-33m33,-60h-33m33,-59h-33" style="stroke: black; stroke-width: 1;"></path>
+    <path d="M0,0v640M0,640H-33M0,580H-33M0,520H-33M0,460H-33M0,401H-33M0,341H-33M0,281H-33M0,221H-33M0,161H-33M0,101H-33M0,42H-33" style="stroke: black; stroke-width: 1;"></path>
     <g font-family="Arial" font-size="28" space="preserve">
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,640)">
       0

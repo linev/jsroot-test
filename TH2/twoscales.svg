@@ -13,7 +13,7 @@
    </svg>
    <g>
     <g transform="translate(0,640)">
-     <path d="M0,0h960M0,-24v24m32,-12v12m32,-12v12m32,-12v12m32,-12v12m32,-24v24m32,-12v12m32,-12v12m32,-12v12m32,-12v12m32,-24v24m32,-12v12m32,-12v12m32,-12v12m32,-12v12m32,-24v24m32,-12v12m32,-12v12m32,-12v12m32,-12v12m32,-24v24m32,-12v12m32,-12v12m32,-12v12m32,-12v12m32,-24v24m32,-12v12m32,-12v12m32,-12v12m32,-12v12m32,-24v24" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0h960M0,-24V0M32,-12V0M64,-12V0M96,-12V0M128,-12V0M160,-24V0M192,-12V0M224,-12V0M256,-12V0M288,-12V0M320,-24V0M352,-12V0M384,-12V0M416,-12V0M448,-12V0M480,-24V0M512,-12V0M544,-12V0M576,-12V0M608,-12V0M640,-24V0M672,-12V0M704,-12V0M736,-12V0M768,-12V0M800,-24V0M832,-12V0M864,-12V0M896,-12V0M928,-12V0M960,-24V0" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="middle">
       <text dy=".8em" transform="translate(0,6)">
        -3
@@ -39,7 +39,7 @@
      </g>
     </g>
     <g>
-     <path d="M0,0v640M36,640h-36m18,-21h-18m18,-22h-18m18,-21h-18m18,-21h-18m36,-22h-36m18,-21h-18m18,-21h-18m18,-22h-18m18,-21h-18m36,-21h-36m18,-22h-18m18,-21h-18m18,-21h-18m18,-22h-18m36,-21h-36m18,-21h-18m18,-22h-18m18,-21h-18m18,-21h-18m36,-22h-36m18,-21h-18m18,-21h-18m18,-22h-18m18,-21h-18m36,-21h-36m18,-22h-18m18,-21h-18m18,-21h-18m18,-22h-18m36,-21h-36" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0v640M36,640H0M18,619H0M18,597H0M18,576H0M18,555H0M36,533H0M18,512H0M18,491H0M18,469H0M18,448H0M36,427H0M18,405H0M18,384H0M18,363H0M18,341H0M36,320H0M18,299H0M18,277H0M18,256H0M18,235H0M36,213H0M18,192H0M18,171H0M18,149H0M18,128H0M36,107H0M18,85H0M18,64H0M18,43H0M18,21H0M36,0H0" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
       <text dy=".4em" transform="translate(-4,640)">
        -3
@@ -65,7 +65,7 @@
      </g>
     </g>
     <g>
-     <path d="M0,0h960M0,0v24m32,-24v12m32,-12v12m32,-12v12m32,-12v12m32,-12v24m32,-24v12m32,-12v12m32,-12v12m32,-12v12m32,-12v24m32,-24v12m32,-12v12m32,-12v12m32,-12v12m32,-12v24m32,-24v12m32,-12v12m32,-12v12m32,-12v12m32,-12v24m32,-24v12m32,-12v12m32,-12v12m32,-12v12m32,-12v24m32,-24v12m32,-12v12m32,-12v12m32,-12v12m32,-12v24" style="stroke: red; stroke-width: 1;"></path>
+     <path d="M0,0h960M0,0V24M32,0V12M64,0V12M96,0V12M128,0V12M160,0V24M192,0V12M224,0V12M256,0V12M288,0V12M320,0V24M352,0V12M384,0V12M416,0V12M448,0V12M480,0V24M512,0V12M544,0V12M576,0V12M608,0V12M640,0V24M672,0V12M704,0V12M736,0V12M768,0V12M800,0V24M832,0V12M864,0V12M896,0V12M928,0V12M960,0V24" style="stroke: red; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve" fill="red" text-anchor="middle">
       <text transform="translate(0,-6)">
        -3
@@ -91,7 +91,7 @@
      </g>
     </g>
     <g transform="translate(960)">
-     <path d="M0,0v640M0,640h-36m36,-21h-18m18,-22h-18m18,-21h-18m18,-21h-18m18,-22h-36m36,-21h-18m18,-21h-18m18,-22h-18m18,-21h-18m18,-21h-36m36,-22h-18m18,-21h-18m18,-21h-18m18,-22h-18m18,-21h-36m36,-21h-18m18,-22h-18m18,-21h-18m18,-21h-18m18,-22h-36m36,-21h-18m18,-21h-18m18,-22h-18m18,-21h-18m18,-21h-36m36,-22h-18m18,-21h-18m18,-21h-18m18,-22h-18m18,-21h-36" style="stroke: red; stroke-width: 1;"></path>
+     <path d="M0,0v640M0,640H-36M0,619H-18M0,597H-18M0,576H-18M0,555H-18M0,533H-36M0,512H-18M0,491H-18M0,469H-18M0,448H-18M0,427H-36M0,405H-18M0,384H-18M0,363H-18M0,341H-18M0,320H-36M0,299H-18M0,277H-18M0,256H-18M0,235H-18M0,213H-36M0,192H-18M0,171H-18M0,149H-18M0,128H-18M0,107H-36M0,85H-18M0,64H-18M0,43H-18M0,21H-18M0,0H-36" style="stroke: red; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve" fill="red" text-anchor="start">
       <text dy=".4em" transform="translate(4,640)">
        -3
