@@ -14,7 +14,7 @@
    </svg>
    <g>
     <g transform="translate(0,640)">
-     <path d="M0,0h960M22,-12v12m25,-12v12m26,-12v12m25,-24v24m25,-12v12m26,-12v12m25,-12v12m26,-12v12m25,-24v24m26,-12v12m25,-12v12m26,-12v12m25,-12v12m26,-24v24m25,-12v12m26,-12v12m25,-12v12m26,-12v12m25,-24v24m25,-12v12m26,-12v12m25,-12v12m26,-12v12m25,-24v24m26,-12v12m25,-12v12m26,-12v12m25,-12v12m26,-24v24m25,-12v12m26,-12v12m25,-12v12m26,-12v12m25,-24v24m25,-12v12m26,-12v12m25,-12v12" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0h960M22,-12V0M47,-12V0M73,-12V0M98,-24V0M123,-12V0M149,-12V0M174,-12V0M200,-12V0M225,-24V0M251,-12V0M276,-12V0M302,-12V0M327,-12V0M353,-24V0M378,-12V0M404,-12V0M429,-12V0M455,-12V0M480,-24V0M505,-12V0M531,-12V0M556,-12V0M582,-12V0M607,-24V0M633,-12V0M658,-12V0M684,-12V0M709,-12V0M735,-24V0M760,-12V0M786,-12V0M811,-12V0M837,-12V0M862,-24V0M887,-12V0M913,-12V0M938,-12V0" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="middle">
       <text dy=".8em" transform="translate(98,6)">
        -3
@@ -40,7 +40,7 @@
      </g>
     </g>
     <g>
-     <path d="M0,0v640M18,613h-18m36,-26h-36m18,-27h-18m18,-27h-18m18,-26h-18m18,-27h-18m36,-27h-36m18,-26h-18m18,-27h-18m18,-27h-18m18,-26h-18m36,-27h-36m18,-27h-18m18,-26h-18m18,-27h-18m18,-27h-18m36,-26h-36m18,-27h-18m18,-27h-18m18,-26h-18m18,-27h-18m36,-27h-36m18,-26h-18" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0v640M18,613H0M36,587H0M18,560H0M18,533H0M18,507H0M18,480H0M36,453H0M18,427H0M18,400H0M18,373H0M18,347H0M36,320H0M18,293H0M18,267H0M18,240H0M18,213H0M36,187H0M18,160H0M18,133H0M18,107H0M18,80H0M36,53H0M18,27H0" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
       <text dy=".4em" transform="translate(-4,587)">
        -1
@@ -60,7 +60,7 @@
      </g>
     </g>
     <g transform="translate(960)">
-     <path d="M0,0v640M0,613h-18m18,-26h-36m36,-27h-18m18,-27h-18m18,-26h-18m18,-27h-18m18,-27h-36m36,-26h-18m18,-27h-18m18,-27h-18m18,-26h-18m18,-27h-36m36,-27h-18m18,-26h-18m18,-27h-18m18,-27h-18m18,-26h-36m36,-27h-18m18,-27h-18m18,-26h-18m18,-27h-18m18,-27h-36m36,-26h-18" style="stroke: red; stroke-width: 1;"></path>
+     <path d="M0,0v640M0,613H-18M0,587H-36M0,560H-18M0,533H-18M0,507H-18M0,480H-18M0,453H-36M0,427H-18M0,400H-18M0,373H-18M0,347H-18M0,320H-36M0,293H-18M0,267H-18M0,240H-18M0,213H-18M0,187H-36M0,160H-18M0,133H-18M0,107H-18M0,80H-18M0,53H-36M0,27H-18" style="stroke: red; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve" fill="red" text-anchor="start">
       <text dy=".4em" transform="translate(4,587)">
        -0.10

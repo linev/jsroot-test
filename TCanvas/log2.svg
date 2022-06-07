@@ -44,7 +44,7 @@
    </svg>
    <g>
     <g transform="translate(0,640)">
-     <path d="M0,0h960M0,-640h960M103,-16v16m289,-16v16m289,-16v16M103,-624V-640M392,-624V-640M681,-624V-640" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0h960M0,-640h960M103,-16V0M392,-16V0M681,-16V0M103,-624V-640M392,-624V-640M681,-624V-640" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="24" space="preserve">
       <g transform="translate(93,32)">
        <text fill="black" font-size="24">
@@ -86,7 +86,7 @@
      </g>
     </g>
     <g>
-     <path d="M0,0v640M960,0v640M36,640h-36m36,-113h-36m36,-114h-36m36,-113h-36m36,-114h-36m36,-113h-36M924,640H960M924,527H960M924,413H960M924,300H960M924,186H960M924,73H960" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0v640M960,0v640M36,640H0M36,527H0M36,413H0M36,300H0M36,186H0M36,73H0M924,640H960M924,527H960M924,413H960M924,300H960M924,186H960M924,73H960" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="24" space="preserve" fill="black" text-anchor="end">
       <text dy=".4em" transform="translate(-4,640)">
        1
