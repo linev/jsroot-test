@@ -140,14 +140,12 @@
    <text dy=".4em" transform="translate(18,162)">
     sqroot-&gt;Print();
    </text>
-   <text dy=".4em" transform="translate(18,183)"></text>
    <text dy=".4em" transform="translate(18,205)">
     TH1 * h1f = 0;
    </text>
    <text dy=".4em" transform="translate(18,226)">
     file-&gt;GetObject("h1f",h1f);
    </text>
-   <text dy=".4em" transform="translate(18,248)"></text>
    <text dy=".4em" transform="translate(18,269)">
     h1f-&gt;Fit("sqroot");
    </text>
