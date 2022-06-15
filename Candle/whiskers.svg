@@ -53,7 +53,7 @@
          5
         </text>
        </g>
-       <g font-family="Arial" font-size="13" space="preserve" transform="translate(941,22)">
+       <g font-family="Arial" font-size="13" space="preserve" transform="translate(941,21)">
         <g transform="translate(-120,5)">
          <text fill="black" font-size="13">
           Standard deviation σ
@@ -106,42 +106,42 @@
       Gaus
      </text>
     </g>
-    <g transform="translate(917,25)" font-family="Arial" font-size="14" space="preserve" fill="black">
-     <path d="M0,0H235V102H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text text-anchor="middle" dy=".4em" transform="translate(118,9)">
+    <g transform="translate(917,25)" font-family="Arial" font-size="12" space="preserve" fill="black">
+     <path d="M0,0H235V92H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text text-anchor="middle" dy=".4em" transform="translate(118,8)">
       h1
      </text>
-     <text text-anchor="start" dy=".4em" transform="translate(12,26)">
+     <text text-anchor="start" dy=".4em" transform="translate(12,23)">
       Entries
      </text>
-     <text text-anchor="end" dy=".4em" transform="translate(223,26)">
+     <text text-anchor="end" dy=".4em" transform="translate(223,23)">
       100000
      </text>
-     <text text-anchor="start" dy=".4em" transform="translate(12,43)">
+     <text text-anchor="start" dy=".4em" transform="translate(12,38)">
       Mean x
      </text>
-     <text text-anchor="end" dy=".4em" transform="translate(223,43)">
+     <text text-anchor="end" dy=".4em" transform="translate(223,38)">
       4.686e-4
      </text>
-     <text text-anchor="start" dy=".4em" transform="translate(12,60)">
+     <text text-anchor="start" dy=".4em" transform="translate(12,54)">
       Mean y
      </text>
-     <text text-anchor="end" dy=".4em" transform="translate(223,60)">
+     <text text-anchor="end" dy=".4em" transform="translate(223,54)">
       0.000e+0
      </text>
-     <text text-anchor="start" dy=".4em" transform="translate(12,77)">
+     <text text-anchor="start" dy=".4em" transform="translate(12,69)">
       Std Dev x
      </text>
-     <text text-anchor="end" dy=".4em" transform="translate(223,77)">
+     <text text-anchor="end" dy=".4em" transform="translate(223,69)">
       0.9992
      </text>
-     <text text-anchor="start" dy=".4em" transform="translate(12,94)">
+     <text text-anchor="start" dy=".4em" transform="translate(12,84)">
       Std Dev y
      </text>
-     <text text-anchor="end" dy=".4em" transform="translate(223,94)">
+     <text text-anchor="end" dy=".4em" transform="translate(223,84)">
       0.000e+0
      </text>
-     <path d="M0,17h235" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,15h235" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -205,7 +205,7 @@
          5
         </text>
        </g>
-       <g font-family="Arial" font-size="13" space="preserve" transform="translate(941,22)">
+       <g font-family="Arial" font-size="13" space="preserve" transform="translate(941,21)">
         <g transform="translate(-120,5)">
          <text fill="black" font-size="13">
           Standard deviation σ

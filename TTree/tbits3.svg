@@ -174,36 +174,36 @@
     drawing 'event.fTracks[].fTriggerBits' from T
    </text>
   </g>
-  <g transform="translate(936,52)" font-family="Arial" font-size="21" space="preserve" fill="black">
-   <path d="M0,0H240V128H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <text text-anchor="start" dy=".4em" transform="translate(12,13)">
+  <g transform="translate(936,52)" font-family="Arial" font-size="22" space="preserve" fill="black">
+   <path d="M0,0H240V160H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <text text-anchor="start" dy=".4em" transform="translate(12,16)">
     Entries
    </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,13)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,16)">
     2535136
    </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,38)">
+   <text text-anchor="start" dy=".4em" transform="translate(12,48)">
     Mean
    </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,38)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,48)">
     31.95
    </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,64)">
+   <text text-anchor="start" dy=".4em" transform="translate(12,80)">
     Std Dev
    </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,64)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,80)">
     18.46
    </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,90)">
+   <text text-anchor="start" dy=".4em" transform="translate(12,112)">
     Underflow
    </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,90)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,112)">
     0
    </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,115)">
+   <text text-anchor="start" dy=".4em" transform="translate(12,144)">
     Overflow
    </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,115)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,144)">
     0
    </text>
   </g>

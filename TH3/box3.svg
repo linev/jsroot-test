@@ -9,48 +9,48 @@
     drawing 'px:py:pz' from ntuple
    </text>
   </g>
-  <g transform="translate(936,52)" font-family="Arial" font-size="15" space="preserve" fill="black">
-   <path d="M0,0H240V128H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <text text-anchor="start" dy=".4em" transform="translate(12,9)">
+  <g transform="translate(936,52)" font-family="Arial" font-size="20" space="preserve" fill="black">
+   <path d="M0,0H240V224H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <text text-anchor="start" dy=".4em" transform="translate(12,16)">
     Entries
    </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,9)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,16)">
     25000
    </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,27)">
+   <text text-anchor="start" dy=".4em" transform="translate(12,48)">
     Mean x
    </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,27)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,48)">
     0.002997
    </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,46)">
+   <text text-anchor="start" dy=".4em" transform="translate(12,80)">
     Mean y
    </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,46)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,80)">
     0.009597
    </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,64)">
+   <text text-anchor="start" dy=".4em" transform="translate(12,112)">
     Mean z
    </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,64)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,112)">
     2.007
    </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,82)">
+   <text text-anchor="start" dy=".4em" transform="translate(12,144)">
     Std Dev x
    </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,82)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,144)">
     1.005
    </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,101)">
+   <text text-anchor="start" dy=".4em" transform="translate(12,176)">
     Std Dev y
    </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,101)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,176)">
     0.9988
    </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,119)">
+   <text text-anchor="start" dy=".4em" transform="translate(12,208)">
     Std Dev z
    </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,119)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,208)">
     2.017
    </text>
   </g>
