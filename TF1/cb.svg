@@ -98,7 +98,7 @@
       crystalball
      </text>
     </g>
-    <g transform="translate(823,0)" font-family="Arial" font-size="21" space="preserve">
+    <g transform="translate(823)" font-family="Arial" font-size="21" space="preserve">
      <path d="M0,0H235V100H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <path d="M7,19H52" style="stroke: #ff0000; stroke-width: 2;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,19)">
@@ -206,7 +206,7 @@
       crystalballn
      </text>
     </g>
-    <g transform="translate(823,0)" font-family="Arial" font-size="19" space="preserve">
+    <g transform="translate(823)" font-family="Arial" font-size="19" space="preserve">
      <path d="M0,0H235V100H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <path d="M7,19H52" style="stroke: red; stroke-width: 2;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,19)">
@@ -320,7 +320,7 @@
       ROOT::Math::crystalball_cdf(x, 1.2, 2, 1, 0)
      </text>
     </g>
-    <g transform="translate(823,0)" font-family="Arial" font-size="21" space="preserve">
+    <g transform="translate(823)" font-family="Arial" font-size="21" space="preserve">
      <path d="M0,0H235V75H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <path d="M7,20H52" style="stroke: #cd3333; stroke-width: 2;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,20)">
