@@ -247,6 +247,52 @@
       TSVDUnfold covariance matrix
      </text>
     </g>
+    <g transform="translate(482,38)">
+     <path d="M0,0H23V301H0Z" style="fill: none; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,286H23V301H0Z" style="fill: #1652cd;"></path>
+     <path d="M0,271H23V287H0Z" style="fill: #1652cd;"></path>
+     <path d="M0,256H23V272H0Z" style="fill: #1064dc;"></path>
+     <path d="M0,241H23V257H0Z" style="fill: #1272d9;"></path>
+     <path d="M0,226H23V242H0Z" style="fill: #1481d6;"></path>
+     <path d="M0,211H23V227H0Z" style="fill: #0e8fd1;"></path>
+     <path d="M0,196H23V212H0Z" style="fill: #099dcc;"></path>
+     <path d="M0,181H23V197H0Z" style="fill: #0da7c3;"></path>
+     <path d="M0,166H23V182H0Z" style="fill: #1eafb3;"></path>
+     <path d="M0,151H23V167H0Z" style="fill: #2eb7a4;"></path>
+     <path d="M0,135H23V152H0Z" style="fill: #52ba92;"></path>
+     <path d="M0,120H23V136H0Z" style="fill: #74bd81;"></path>
+     <path d="M0,105H23V121H0Z" style="fill: #95be71;"></path>
+     <path d="M0,90H23V106H0Z" style="fill: #b3bd65;"></path>
+     <path d="M0,75H23V91H0Z" style="fill: #d1bb59;"></path>
+     <path d="M0,60H23V76H0Z" style="fill: #e2c04b;"></path>
+     <path d="M0,45H23V61H0Z" style="fill: #f4c63b;"></path>
+     <path d="M0,30H23V46H0Z" style="fill: #fdd22b;"></path>
+     <path d="M0,15H23V31H0Z" style="fill: #fbe61d;"></path>
+     <path d="M0,0H23V16H0Z" style="fill: #f9f90f;"></path>
+     <g transform="translate(23)">
+      <path d="M0,0v301M0,264H-15M0,219H-15M0,175H-15M0,130H-15M0,86H-15M0,42H-15" style="stroke: black; stroke-width: 1;"></path>
+      <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="start">
+       <text dy=".4em" transform="translate(2,264)">
+        0
+       </text>
+       <text dy=".4em" transform="translate(2,219)">
+        200
+       </text>
+       <text dy=".4em" transform="translate(2,175)">
+        400
+       </text>
+       <text dy=".4em" transform="translate(2,130)">
+        600
+       </text>
+       <text dy=".4em" transform="translate(2,86)">
+        800
+       </text>
+       <text dy=".4em" transform="translate(2,42)">
+        1000
+       </text>
+      </g>
+     </g>
+    </g>
    </g>
   </svg>
   <svg viewBox="0 0 564 376" preserveAspectRatio="none" x="612" y="412" width="564" height="376">
