@@ -69,6 +69,37 @@
     </g>
    </g>
   </g>
+  <g transform="translate(936,52)" font-family="Arial" font-size="20" space="preserve" fill="black">
+   <path d="M0,0H240V128H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <text text-anchor="middle" dy=".4em" transform="translate(120,13)">
+    h
+   </text>
+   <text text-anchor="start" dy=".4em" transform="translate(12,38)">
+    Entries
+   </text>
+   <text text-anchor="end" dy=".4em" transform="translate(228,38)">
+    3000
+   </text>
+   <text text-anchor="start" dy=".4em" transform="translate(12,64)">
+    Mean
+   </text>
+   <text text-anchor="end" dy=".4em" transform="translate(228,64)">
+    -0.003385
+   </text>
+   <text text-anchor="start" dy=".4em" transform="translate(12,90)">
+    Std Dev
+   </text>
+   <text text-anchor="end" dy=".4em" transform="translate(228,90)">
+    0.9908
+   </text>
+   <text text-anchor="start" dy=".4em" transform="translate(12,115)">
+    Test
+   </text>
+   <text text-anchor="end" dy=".4em" transform="translate(228,115)">
+    10
+   </text>
+   <path d="M0,26h240" style="stroke: black; stroke-width: 1;"></path>
+  </g>
   <g transform="translate(551,4)" font-family="Arial" font-size="36" space="preserve">
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(49,22)">
     test
