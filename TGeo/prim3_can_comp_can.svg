@@ -10,34 +10,34 @@
   <svg viewBox="0 0 1200 320" preserveAspectRatio="none" x="0" y="480" width="1200" height="320">
    <path d="M0,0H1200V320H0Z" style="fill: white;"></path>
    <g>
-    <g transform="translate(12,3)" font-family="Arial" font-size="26" space="preserve" font-weight="bold" text-anchor="start">
+    <g transform="translate(12,3)" font-family="Arial" font-size="23" space="preserve" font-weight="bold" text-anchor="start">
      <path d="M4,4v314h1176v-314z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H1176V314H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
-     <text fill="red" dy=".4em" transform="translate(59,16)">
+     <text fill="red" dy=".4em" transform="translate(59,30)">
       TGeoCompositeShape - composite shape class
      </text>
-     <text fill="blue" font-size="13" dy=".4em" transform="translate(59,47)">
+     <text fill="blue" font-size="13" dy=".4em" transform="translate(59,58)">
       ----- Define the shape components and don't forget to name them
      </text>
-     <text fill="blue" font-size="13" dy=".4em" transform="translate(59,79)">
+     <text fill="blue" font-size="13" dy=".4em" transform="translate(59,86)">
       ----- Define geometrical transformations that apply to shape components
      </text>
-     <text fill="blue" font-size="13" dy=".4em" transform="translate(59,110)">
+     <text fill="blue" font-size="13" dy=".4em" transform="translate(59,115)">
       ----- Name all transformations and register them
      </text>
-     <text fill="blue" font-size="13" dy=".4em" transform="translate(59,141)">
+     <text fill="blue" font-size="13" dy=".4em" transform="translate(59,143)">
       ----- Define the composite shape based on a Boolean expression
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,173)">
+     <text fill="black" dy=".4em" transform="translate(59,171)">
       TGeoCompositeShape("someName", "expression")
      </text>
-     <text fill="blue" font-size="13" dy=".4em" transform="translate(59,204)">
+     <text fill="blue" font-size="13" dy=".4em" transform="translate(59,199)">
       ----- Expression is made of &lt;shapeName:transfName&gt; components related by Boolean operators
      </text>
-     <text fill="blue" font-size="13" dy=".4em" transform="translate(59,235)">
+     <text fill="blue" font-size="13" dy=".4em" transform="translate(59,228)">
       ----- Boolean operators can be: (+) union, (-) subtraction and (*) intersection
      </text>
-     <text fill="blue" font-size="13" dy=".4em" transform="translate(59,267)">
+     <text fill="blue" font-size="13" dy=".4em" transform="translate(59,256)">
       ----- Use paranthesys in the expression to force precedence
      </text>
     </g>

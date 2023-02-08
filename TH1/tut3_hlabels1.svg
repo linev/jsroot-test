@@ -123,16 +123,16 @@
   <g transform="translate(840,16)" font-family="Arial" font-size="12" space="preserve" font-weight="bold" fill="black" text-anchor="start">
    <path d="M4,4v104h336v-104z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H336V104H0Z" style="fill: #e6e6e6; stroke: black; stroke-width: 1;"></path>
-   <text dy=".4em" transform="translate(17,13)">
+   <text dy=".4em" transform="translate(17,17)">
     Use the axis Context Menu LabelsOption
    </text>
-   <text dy=".4em" transform="translate(17,39)">
+   <text dy=".4em" transform="translate(17,40)">
     "a"   to sort by alphabetic order
    </text>
-   <text dy=".4em" transform="translate(17,65)">
+   <text dy=".4em" transform="translate(17,64)">
     "&gt;"   to sort by decreasing values
    </text>
-   <text dy=".4em" transform="translate(17,91)">
+   <text dy=".4em" transform="translate(17,87)">
     "&lt;"   to sort by increasing values
    </text>
   </g>

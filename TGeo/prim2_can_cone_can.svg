@@ -10,43 +10,43 @@
   <svg viewBox="0 0 1200 320" preserveAspectRatio="none" x="0" y="480" width="1200" height="320">
    <path d="M0,0H1200V320H0Z" style="fill: white;"></path>
    <g>
-    <g transform="translate(12,3)" font-family="Arial" font-size="20" space="preserve" font-weight="bold" text-anchor="start">
+    <g transform="translate(12,3)" font-family="Arial" font-size="18" space="preserve" font-weight="bold" text-anchor="start">
      <path d="M4,4v314h1176v-314z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H1176V314H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
-     <text fill="red" dy=".4em" transform="translate(59,12)">
+     <text fill="red" dy=".4em" transform="translate(59,27)">
       TGeoCone - cone class
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,36)">
+     <text fill="black" dy=".4em" transform="translate(59,48)">
       fDZ       = 40.00         =&gt;  half length in Z
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,60)">
+     <text fill="black" dy=".4em" transform="translate(59,70)">
       fRmin1    = 10.00         =&gt;  inner radius at -dz
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,85)">
+     <text fill="black" dy=".4em" transform="translate(59,92)">
       fRmax1    = 20.00         =&gt;  outer radius at -dz
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,109)">
+     <text fill="black" dy=".4em" transform="translate(59,114)">
       fRmin2    = 35.00         =&gt;  inner radius at +dz
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,133)">
+     <text fill="black" dy=".4em" transform="translate(59,135)">
       fRmax2    = 45.00         =&gt;  outer radius at +dz
      </text>
      <text fill="blue" dy=".4em" transform="translate(59,157)">
       Execute: cone(iaxis, ndiv, start, step) to divide this.
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,181)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,179)">
       ----- IAXIS can be 2 or 3 (Phi, Z)
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,205)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,200)">
       ----- NDIV must be a positive integer
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,229)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,222)">
       ----- START must be a valid axis offset within shape range on divided axis
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,254)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,244)">
       ----- STEP is the division step. START+NDIV*STEP must be in range also
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,278)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,266)">
       ----- If START and STEP are omitted, all range of the axis will be divided
      </text>
     </g>

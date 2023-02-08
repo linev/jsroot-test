@@ -10,40 +10,40 @@
   <svg viewBox="0 0 1200 320" preserveAspectRatio="none" x="0" y="480" width="1200" height="320">
    <path d="M0,0H1200V320H0Z" style="fill: white;"></path>
    <g>
-    <g transform="translate(12,3)" font-family="Arial" font-size="21" space="preserve" font-weight="bold" text-anchor="start">
+    <g transform="translate(12,3)" font-family="Arial" font-size="19" space="preserve" font-weight="bold" text-anchor="start">
      <path d="M4,4v314h1176v-314z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H1176V314H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
-     <text fill="red" dy=".4em" transform="translate(59,13)">
+     <text fill="red" dy=".4em" transform="translate(59,27)">
       TGeoTrd1 - Trd1 class
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,39)">
+     <text fill="black" dy=".4em" transform="translate(59,51)">
       fDx1      = 10.00         =&gt;  half length in X at lower Z surface(-dz)
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,65)">
+     <text fill="black" dy=".4em" transform="translate(59,75)">
       fDx2      = 20.00         =&gt;  half length in X at higher Z surface(+dz)
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,92)">
+     <text fill="black" dy=".4em" transform="translate(59,98)">
       fDy       = 30.00         =&gt;  half length in Y
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,118)">
+     <text fill="black" dy=".4em" transform="translate(59,122)">
       fDz       = 40.00         =&gt;  half length in Z
      </text>
-     <text fill="blue" dy=".4em" transform="translate(59,144)">
+     <text fill="blue" dy=".4em" transform="translate(59,145)">
       Execute: trd1(iaxis, ndiv, start, step) to divide this.
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,170)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,169)">
       ----- IAXIS can be 2 or 3 (Y, Z)
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,196)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,192)">
       ----- NDIV must be a positive integer
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,222)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,216)">
       ----- START must be a valid axis offset within shape range on divided axis
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,249)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,239)">
       ----- STEP is the division step. START+NDIV*STEP must be in range also
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,275)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,263)">
       ----- If START and STEP are omitted, all range of the axis will be divided
      </text>
     </g>

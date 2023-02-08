@@ -10,52 +10,52 @@
   <svg viewBox="0 0 1200 320" preserveAspectRatio="none" x="0" y="480" width="1200" height="320">
    <path d="M0,0H1200V320H0Z" style="fill: white;"></path>
    <g>
-    <g transform="translate(12,3)" font-family="Arial" font-size="16" space="preserve" font-weight="bold" text-anchor="start">
+    <g transform="translate(12,3)" font-family="Arial" font-size="14" space="preserve" font-weight="bold" text-anchor="start">
      <path d="M4,4v314h1176v-314z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H1176V314H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
-     <text fill="red" dy=".4em" transform="translate(59,10)">
+     <text fill="red" dy=".4em" transform="translate(59,25)">
       TGeoPgon - pgon class
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,29)">
+     <text fill="black" dy=".4em" transform="translate(59,42)">
       fPhi1     = 315.00        =&gt;  lower phi limit
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,49)">
+     <text fill="black" dy=".4em" transform="translate(59,60)">
       fDphi     = 270.00        =&gt;  phi range
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,69)">
+     <text fill="black" dy=".4em" transform="translate(59,78)">
       fNedges   =     4         =&gt;  number of edges
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,88)">
+     <text fill="black" dy=".4em" transform="translate(59,95)">
       fNz       =     4         =&gt;  number of z planes
      </text>
-     <text fill="blue" dy=".4em" transform="translate(59,108)">
+     <text fill="blue" dy=".4em" transform="translate(59,113)">
       fZ[0]=-70.00  fRmin[0]=45.00  fRmax[0]=50.00
      </text>
-     <text fill="blue" dy=".4em" transform="translate(59,128)">
+     <text fill="blue" dy=".4em" transform="translate(59,131)">
       fZ[1]= 0.00  fRmin[1]=35.00  fRmax[1]=40.00
      </text>
-     <text fill="blue" dy=".4em" transform="translate(59,147)">
+     <text fill="blue" dy=".4em" transform="translate(59,148)">
       fZ[2]= 0.00  fRmin[2]=30.00  fRmax[2]=35.00
      </text>
-     <text fill="blue" dy=".4em" transform="translate(59,167)">
+     <text fill="blue" dy=".4em" transform="translate(59,166)">
       fZ[3]=70.00  fRmin[3]=90.00  fRmax[3]=100.00
      </text>
-     <text fill="blue" dy=".4em" transform="translate(59,186)">
+     <text fill="blue" dy=".4em" transform="translate(59,183)">
       Execute: pgon(iaxis, ndiv, start, step) to divide this.
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,206)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,201)">
       ----- IAXIS can be 2 or 3 (Phi, Z)
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,226)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,219)">
       ----- NDIV must be a positive integer
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,245)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,236)">
       ----- START must be a valid axis offset within shape range on divided axis
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,265)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,254)">
       ----- STEP is the division step. START+NDIV*STEP must be in range also
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,285)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,272)">
       ----- If START and STEP are omitted, all range of the axis will be divided
      </text>
     </g>

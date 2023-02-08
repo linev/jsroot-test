@@ -4,13 +4,13 @@
   <g transform="translate(120,80)" font-family="Arial" font-size="7" space="preserve" font-weight="bold" fill="black" text-anchor="middle">
    <path d="M4,4v640h960v-640z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H960V640H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
-   <text dy=".4em" transform="translate(480,107)">
+   <text dy=".4em" transform="translate(480,128)">
     #frac{2s}{πα^{2}}  #frac{dσ}{dcosθ} (e^{+}e^{-} → f{f} ) = | #frac{1}{1 - Δα} |^{2} (1+cos^{2}θ)
    </text>
    <text dy=".4em" transform="translate(480,320)">
     + 4 Re { #frac{2}{1 - Δα} χ(s) [·{g}_{ν}^{e}·{g}_{ν}^{f} (1 + cos^{2}θ) + 2 ·{g}_{a}^{e}·{g}_{a}^{f} cosθ) ] }
    </text>
-   <text dy=".4em" transform="translate(480,533)">
+   <text dy=".4em" transform="translate(480,512)">
     + 16 | χ(s) |^{2} [( ·{g}_{a}^{{e}^{2}} + ·{g}_{v}^{{e}^{2}} ) ( ·{g}_{a}^{{f}^{2}} + ·{g}_{v}^{{f}^{2}})(1+cos^{2}θ) + 8 ·{g}_{a}^{e} ·{g}_{a}^{f} ·{g}_{v}^{e} ·{g}_{v}^{f}cosθ ]
    </text>
    <g font-family="Arial" font-size="21" space="preserve" font-weight="bold">

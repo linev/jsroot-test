@@ -286,16 +286,16 @@
     <g transform="translate(138,96)" font-family="Arial" font-size="15" space="preserve" font-weight="bold" text-anchor="middle">
      <path d="M4,4v100h291v-100z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H291V100H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
-     <text fill="blue" font-size="22" dy=".4em" transform="translate(146,13)">
+     <text fill="blue" font-size="22" dy=".4em" transform="translate(146,16)">
       You can move
      </text>
-     <text fill="black" dy=".4em" transform="translate(146,38)">
+     <text fill="black" dy=".4em" transform="translate(146,39)">
       Title and Stats pads
      </text>
-     <text fill="black" dy=".4em" transform="translate(146,63)">
+     <text fill="black" dy=".4em" transform="translate(146,61)">
       X and Y axis
      </text>
-     <text fill="black" dy=".4em" transform="translate(146,88)">
+     <text fill="black" dy=".4em" transform="translate(146,84)">
       You can modify bin contents
      </text>
     </g>

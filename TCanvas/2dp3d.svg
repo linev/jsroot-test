@@ -404,13 +404,13 @@
     <g transform="translate(24,28)" font-family="Arial" font-size="14" space="preserve" font-weight="bold" fill="black" text-anchor="start">
      <path d="M4,4v74h504v-74z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H504V74H0Z" style="fill: #deba87; stroke: black; stroke-width: 1;"></path>
-     <text dy=".4em" transform="translate(25,12)">
+     <text dy=".4em" transform="translate(25,15)">
       You can interactively rotate this view in 2 ways:
      </text>
      <text dy=".4em" transform="translate(25,37)">
       - With the RotateCube in clicking in this pad
      </text>
-     <text dy=".4em" transform="translate(25,62)">
+     <text dy=".4em" transform="translate(25,59)">
       - Selecting View with x3d in the View menu
      </text>
     </g>
