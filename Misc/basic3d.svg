@@ -10,10 +10,10 @@
   <g transform="translate(120,24)" font-family="Arial" font-size="34" space="preserve" font-weight="bold" text-anchor="middle">
    <path d="M4,4v96h960v-96z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H960V96H0Z" style="fill: #b3a697; stroke: black; stroke-width: 1;"></path>
-   <text fill="black" dy=".4em" transform="translate(480,26)">
+   <text fill="black" dy=".4em" transform="translate(480,24)">
     Examples of 3-D primitives
    </text>
-   <text fill="blue" dy=".4em" transform="translate(480,70)">
+   <text fill="blue" dy=".4em" transform="translate(480,72)">
     Click anywhere on the picture to rotate
    </text>
   </g>

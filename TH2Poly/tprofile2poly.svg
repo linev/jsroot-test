@@ -142,7 +142,7 @@
      </g>
     </g>
     <g transform="translate(38,4)" font-family="Arial" font-size="23" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151,3)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151)">
       Total average merge
      </text>
     </g>
@@ -326,7 +326,7 @@
      </g>
     </g>
     <g transform="translate(38,4)" font-family="Arial" font-size="20" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151,3)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151)">
       Detector average merge
      </text>
     </g>
@@ -504,7 +504,7 @@
      </g>
     </g>
     <g transform="translate(38,4)" font-family="Arial" font-size="22" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151,3)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151)">
       Detector error merge
      </text>
     </g>

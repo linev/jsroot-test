@@ -8,7 +8,7 @@
    </g>
    <g>
     <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231,1)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231)">
       ROOT::Math::breitwigner_cdf_c(x, y)
      </text>
     </g>
@@ -21,7 +21,7 @@
    </g>
    <g>
     <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231,1)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231)">
       ROOT::Math::cauchy_cdf(x,y)
      </text>
     </g>
@@ -34,7 +34,7 @@
    </g>
    <g>
     <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231,1)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231)">
       ROOT::Math::normal_cdf(x,y)
      </text>
     </g>
@@ -47,7 +47,7 @@
    </g>
    <g>
     <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231,1)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231)">
       ROOT::Math::exponential_cdf_c(x,y)
      </text>
     </g>

@@ -116,41 +116,41 @@
   <g transform="translate(720,200)" font-family="Arial" font-size="10" space="preserve" font-weight="bold" fill="black" text-anchor="start">
    <path d="M4,4v280h360v-280z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H360V280H0Z" style="fill: #dfbb88; stroke: black; stroke-width: 1;"></path>
-   <text dy=".4em" transform="translate(18,24)">
+   <text dy=".4em" transform="translate(18,11)">
     TCanvas * c1 = new TCanvas("c1","Canvas");
    </text>
-   <text dy=".4em" transform="translate(18,43)">
+   <text dy=".4em" transform="translate(18,32)">
     c1-&gt;SetGridx();
    </text>
-   <text dy=".4em" transform="translate(18,62)">
+   <text dy=".4em" transform="translate(18,54)">
     c1-&gt;SetGridy();
    </text>
-   <text dy=".4em" transform="translate(18,82)">
+   <text dy=".4em" transform="translate(18,75)">
     TFile * file = new TFile("fillrandom.root");
    </text>
-   <text dy=".4em" transform="translate(18,101)">
+   <text dy=".4em" transform="translate(18,97)">
     file-&gt;ls();
    </text>
-   <text dy=".4em" transform="translate(18,121)">
+   <text dy=".4em" transform="translate(18,118)">
     TF1 * sqroot = 0;
    </text>
    <text dy=".4em" transform="translate(18,140)">
     file-&gt;GetObject("sqroot",sqroot);
    </text>
-   <text dy=".4em" transform="translate(18,159)">
+   <text dy=".4em" transform="translate(18,162)">
     sqroot-&gt;Print();
    </text>
-   <text dy=".4em" transform="translate(18,198)">
+   <text dy=".4em" transform="translate(18,205)">
     TH1 * h1f = 0;
    </text>
-   <text dy=".4em" transform="translate(18,218)">
+   <text dy=".4em" transform="translate(18,226)">
     file-&gt;GetObject("h1f",h1f);
    </text>
-   <text dy=".4em" transform="translate(18,256)">
+   <text dy=".4em" transform="translate(18,269)">
     h1f-&gt;Fit("sqroot");
    </text>
   </g>
-  <g transform="translate(371,4)" font-family="Arial" font-size="32" space="preserve">
+  <g transform="translate(371,4)" font-family="Arial" font-size="35" space="preserve">
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(229,22)">
     Test random numbers
    </text>

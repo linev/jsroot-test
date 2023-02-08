@@ -10,43 +10,43 @@
   <svg viewBox="0 0 1200 320" preserveAspectRatio="none" x="0" y="480" width="1200" height="320">
    <path d="M0,0H1200V320H0Z" style="fill: white;"></path>
    <g>
-    <g transform="translate(12,3)" font-family="Arial" font-size="18" space="preserve" font-weight="bold">
+    <g transform="translate(12,3)" font-family="Arial" font-size="20" space="preserve" font-weight="bold">
      <path d="M4,4v314h1176v-314z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H1176V314H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
-     <text fill="red" text-anchor="middle" dy=".4em" transform="translate(588,27)">
+     <text fill="red" text-anchor="middle" dy=".4em" transform="translate(588,12)">
       TGeoArb8 - arb8 class
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,48)">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,36)">
       fDz       = 20.00         =&gt;  Z half length
      </text>
-     <text fill="green" text-anchor="middle" dy=".4em" transform="translate(588,70)">
+     <text fill="green" text-anchor="middle" dy=".4em" transform="translate(588,60)">
       Vertices on lower Z plane:
      </text>
-     <text fill="blue" font-size="14" text-anchor="middle" dy=".4em" transform="translate(588,92)">
+     <text fill="blue" font-size="14" text-anchor="middle" dy=".4em" transform="translate(588,85)">
       fXY[0] = (-30.00, -25.00)
      </text>
-     <text fill="blue" font-size="14" text-anchor="middle" dy=".4em" transform="translate(588,114)">
+     <text fill="blue" font-size="14" text-anchor="middle" dy=".4em" transform="translate(588,109)">
       fXY[1] = (-25.00, 25.00)
      </text>
-     <text fill="blue" font-size="14" text-anchor="middle" dy=".4em" transform="translate(588,135)">
+     <text fill="blue" font-size="14" text-anchor="middle" dy=".4em" transform="translate(588,133)">
       fXY[2] = ( 5.00, 25.00)
      </text>
      <text fill="blue" font-size="14" text-anchor="middle" dy=".4em" transform="translate(588,157)">
       fXY[3] = (25.00, -25.00)
      </text>
-     <text fill="green" text-anchor="middle" dy=".4em" transform="translate(588,179)">
+     <text fill="green" text-anchor="middle" dy=".4em" transform="translate(588,181)">
       Vertices on higher Z plane:
      </text>
-     <text fill="blue" font-size="14" text-anchor="middle" dy=".4em" transform="translate(588,200)">
+     <text fill="blue" font-size="14" text-anchor="middle" dy=".4em" transform="translate(588,205)">
       fXY[4] = (-28.00, -23.00)
      </text>
-     <text fill="blue" font-size="14" text-anchor="middle" dy=".4em" transform="translate(588,222)">
+     <text fill="blue" font-size="14" text-anchor="middle" dy=".4em" transform="translate(588,229)">
       fXY[5] = (-23.00, 27.00)
      </text>
-     <text fill="blue" font-size="14" text-anchor="middle" dy=".4em" transform="translate(588,244)">
+     <text fill="blue" font-size="14" text-anchor="middle" dy=".4em" transform="translate(588,254)">
       fXY[6] = (-23.00, 27.00)
      </text>
-     <text fill="blue" font-size="14" text-anchor="middle" dy=".4em" transform="translate(588,266)">
+     <text fill="blue" font-size="14" text-anchor="middle" dy=".4em" transform="translate(588,278)">
       fXY[7] = (13.00, -27.00)
      </text>
     </g>

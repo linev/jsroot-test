@@ -110,7 +110,7 @@
       Default option
      </text>
     </g>
-    <g transform="translate(141,1)" font-family="Arial" font-size="10" space="preserve">
+    <g transform="translate(141,1)" font-family="Arial" font-size="11" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(142,7)">
       This is the px distribution
      </text>
@@ -162,7 +162,7 @@
       Click on lego to rotate
      </text>
     </g>
-    <g transform="translate(141,1)" font-family="Arial" font-size="10" space="preserve">
+    <g transform="translate(141,1)" font-family="Arial" font-size="11" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(142,7)">
       This is the px distribution
      </text>
@@ -286,20 +286,20 @@
     <g transform="translate(138,96)" font-family="Arial" font-size="15" space="preserve" font-weight="bold" text-anchor="middle">
      <path d="M4,4v100h291v-100z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H291V100H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
-     <text fill="blue" font-size="22" dy=".4em" transform="translate(146,16)">
+     <text fill="blue" font-size="22" dy=".4em" transform="translate(146,13)">
       You can move
      </text>
-     <text fill="black" dy=".4em" transform="translate(146,39)">
+     <text fill="black" dy=".4em" transform="translate(146,38)">
       Title and Stats pads
      </text>
-     <text fill="black" dy=".4em" transform="translate(146,61)">
+     <text fill="black" dy=".4em" transform="translate(146,63)">
       X and Y axis
      </text>
-     <text fill="black" dy=".4em" transform="translate(146,84)">
+     <text fill="black" dy=".4em" transform="translate(146,88)">
       You can modify bin contents
      </text>
     </g>
-    <g transform="translate(292,2)" font-family="Arial" font-size="20" space="preserve">
+    <g transform="translate(292,2)" font-family="Arial" font-size="22" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(272,14)">
       This is the px distribution
      </text>

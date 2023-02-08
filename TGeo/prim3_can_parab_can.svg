@@ -10,40 +10,40 @@
   <svg viewBox="0 0 1200 320" preserveAspectRatio="none" x="0" y="480" width="1200" height="320">
    <path d="M0,0H1200V320H0Z" style="fill: white;"></path>
    <g>
-    <g transform="translate(12,3)" font-family="Arial" font-size="19" space="preserve" font-weight="bold" text-anchor="start">
+    <g transform="translate(12,3)" font-family="Arial" font-size="21" space="preserve" font-weight="bold" text-anchor="start">
      <path d="M4,4v314h1176v-314z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H1176V314H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
-     <text fill="red" dy=".4em" transform="translate(59,27)">
+     <text fill="red" dy=".4em" transform="translate(59,13)">
       TGeoParaboloid - Paraboloid class
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,51)">
+     <text fill="black" dy=".4em" transform="translate(59,39)">
       fRlo      =  0.00         =&gt;  radius at Z=-dz
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,75)">
+     <text fill="black" dy=".4em" transform="translate(59,65)">
       fRhi      = 40.00         =&gt;  radius at Z=+dz
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,98)">
+     <text fill="black" dy=".4em" transform="translate(59,92)">
       fDz       = 50.00         =&gt;  half-length on Z axis
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,122)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,118)">
       ----- A paraboloid is described by the equation:
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,145)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,144)">
       -----    z = a*r*r + b;   where: r = x*x + y*y
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,169)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,170)">
       ----- Create with:    TGeoParaboloid *parab = new TGeoParaboloid(rlo, rhi, dz);
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,192)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,196)">
       -----    dz:  half-length in Z (range from -dz to +dz
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,216)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,222)">
       -----    rlo: radius at z=-dz given by: -dz = a*rlo*rlo + b
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,239)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,249)">
       -----    rhi: radius at z=+dz given by:  dz = a*rhi*rhi + b
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,263)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,275)">
       -----      rlo != rhi; both &gt;= 0
      </text>
     </g>

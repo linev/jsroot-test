@@ -83,17 +83,17 @@
      </g>
     </g>
     <g transform="translate(56,1)" font-family="Arial" font-size="12" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(226,1)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(226)">
       x*sin(x)*exp(-0.1*x)+15
      </text>
     </g>
     <g transform="translate(147,90)" font-family="Arial" font-size="15" space="preserve" fill="black" text-anchor="start">
      <path d="M4,4v41h271v-41z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H271V41H0Z" style="fill: #dfbb88; stroke: black; stroke-width: 1;"></path>
-     <text dy=".4em" transform="translate(14,11)">
+     <text dy=".4em" transform="translate(14,10)">
       Log scale along Y axis.
      </text>
-     <text dy=".4em" transform="translate(14,30)">
+     <text dy=".4em" transform="translate(14,31)">
       More Log labels requested.
      </text>
     </g>
@@ -238,20 +238,20 @@
      </g>
     </g>
     <g transform="translate(56,1)" font-family="Arial" font-size="12" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(226,1)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(226)">
       Graph
      </text>
     </g>
     <g transform="translate(102,147)" font-family="Arial" font-size="12" space="preserve" fill="black" text-anchor="start">
      <path d="M4,4v55h247v-55z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H247V55H0Z" style="fill: #dfbb88; stroke: black; stroke-width: 1;"></path>
-     <text dy=".4em" transform="translate(12,11)">
+     <text dy=".4em" transform="translate(12,9)">
       Log scale along X and Y axis.
      </text>
      <text dy=".4em" transform="translate(12,28)">
       More Log labels on both.
      </text>
-     <text dy=".4em" transform="translate(12,44)">
+     <text dy=".4em" transform="translate(12,46)">
       No exponent along Y axis.
      </text>
     </g>
@@ -416,21 +416,21 @@
       </g>
      </g>
     </g>
-    <g transform="translate(113,2)" font-family="Arial" font-size="20" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(451,1)">
+    <g transform="translate(113,2)" font-family="Arial" font-size="21" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(451)">
       x*sin(x+10)+25
      </text>
     </g>
     <g transform="translate(167,206)" font-family="Arial" font-size="17" space="preserve" fill="black" text-anchor="start">
      <path d="M4,4v97h597v-97z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H597V97H0Z" style="fill: #dfbb88; stroke: black; stroke-width: 1;"></path>
-     <text dy=".4em" transform="translate(30,19)">
+     <text dy=".4em" transform="translate(30,16)">
       Log scale along X and Y axis.
      </text>
      <text dy=".4em" transform="translate(30,49)">
       More Log labels on both.
      </text>
-     <text dy=".4em" transform="translate(30,78)">
+     <text dy=".4em" transform="translate(30,81)">
       The labels have no exponents (they would be 0 or 1)
      </text>
     </g>

@@ -1,38 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
-  <g transform="translate(60,40)" font-family="Arial" font-size="35" space="preserve" font-weight="bold" fill="black">
+  <g transform="translate(60,40)" font-family="Arial" font-size="40" space="preserve" font-weight="bold" fill="black">
    <path d="M0,0H1080V720H0Z" style="fill: white; stroke: white; stroke-width: 1;"></path>
-   <text text-anchor="middle" dy=".4em" transform="translate(540,58)">
+   <text text-anchor="middle" dy=".4em" transform="translate(540,24)">
     Group 0
    </text>
-   <text text-anchor="start" dy=".4em" transform="translate(54,101)">
+   <text text-anchor="start" dy=".4em" transform="translate(54,72)">
     Member 0
    </text>
-   <text text-anchor="start" dy=".4em" transform="translate(54,144)">
+   <text text-anchor="start" dy=".4em" transform="translate(54,120)">
     Member 1
    </text>
-   <path d="M0,230L1080,230" style="stroke: black; stroke-width: 3; stroke-dasharray: 20,5;"></path>
-   <text text-anchor="middle" dy=".4em" transform="translate(540,274)">
+   <path d="M0,216L1080,216" style="stroke: black; stroke-width: 3; stroke-dasharray: 20,5;"></path>
+   <text text-anchor="middle" dy=".4em" transform="translate(540,264)">
     Group 1
    </text>
-   <text text-anchor="start" dy=".4em" transform="translate(54,317)">
+   <text text-anchor="start" dy=".4em" transform="translate(54,312)">
     Member 0
    </text>
    <text text-anchor="start" dy=".4em" transform="translate(54,360)">
     Member 1
    </text>
-   <path d="M0,446L1080,446" style="stroke: black; stroke-width: 3; stroke-dasharray: 20,5;"></path>
-   <text text-anchor="middle" dy=".4em" transform="translate(540,490)">
+   <path d="M0,456L1080,456" style="stroke: black; stroke-width: 3; stroke-dasharray: 20,5;"></path>
+   <text text-anchor="middle" dy=".4em" transform="translate(540,504)">
     Group 2
    </text>
-   <text text-anchor="start" dy=".4em" transform="translate(54,533)">
+   <text text-anchor="start" dy=".4em" transform="translate(54,552)">
     Member 0
    </text>
-   <text text-anchor="start" dy=".4em" transform="translate(54,576)">
+   <text text-anchor="start" dy=".4em" transform="translate(54,600)">
     Member 1
    </text>
-   <path d="M0,662L1080,662" style="stroke: black; stroke-width: 3; stroke-dasharray: 20,5;"></path>
+   <path d="M0,696L1080,696" style="stroke: black; stroke-width: 3; stroke-dasharray: 20,5;"></path>
   </g>
  </g>
 </svg>

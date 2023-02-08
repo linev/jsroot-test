@@ -10,64 +10,64 @@
   <svg viewBox="0 0 1200 320" preserveAspectRatio="none" x="0" y="480" width="1200" height="320">
    <path d="M0,0H1200V320H0Z" style="fill: white;"></path>
    <g>
-    <g transform="translate(12,3)" font-family="Arial" font-size="11" space="preserve" font-weight="bold" text-anchor="start">
+    <g transform="translate(12,3)" font-family="Arial" font-size="13" space="preserve" font-weight="bold" text-anchor="start">
      <path d="M4,4v314h1176v-314z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H1176V314H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
-     <text fill="red" dy=".4em" transform="translate(59,23)">
+     <text fill="red" dy=".4em" transform="translate(59,8)">
       TGeoGtra - Twisted trapezoid class
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,37)">
+     <text fill="black" dy=".4em" transform="translate(59,24)">
       fDz       = 30.00         =&gt;  half length in Z
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,51)">
+     <text fill="black" dy=".4em" transform="translate(59,39)">
       fTheta    = 15.00         =&gt;  theta angle of trapezoid axis
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,65)">
+     <text fill="black" dy=".4em" transform="translate(59,55)">
       fPhi      = 30.00         =&gt;  phi angle of trapezoid axis
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,79)">
+     <text fill="black" dy=".4em" transform="translate(59,71)">
       fTwist    = 30.00         =&gt;  twist angle
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,93)">
+     <text fill="black" dy=".4em" transform="translate(59,86)">
       fH1       = 20.00         =&gt;  half length in y at -fDz
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,108)">
+     <text fill="black" dy=".4em" transform="translate(59,102)">
       fAlpha1   =  0.00         =&gt;  angle between centers of x edges and y axis at -fDz
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,122)">
+     <text fill="black" dy=".4em" transform="translate(59,118)">
       fBl1      = 10.00         =&gt;  half length in x at -dZ and y=-fH1
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,136)">
+     <text fill="black" dy=".4em" transform="translate(59,133)">
       fTl1      = 15.00         =&gt;  half length in x at -dZ and y=+fH1
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,150)">
+     <text fill="black" dy=".4em" transform="translate(59,149)">
       fH2       = 20.00         =&gt;  half length in y at +fDz
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,164)">
+     <text fill="black" dy=".4em" transform="translate(59,165)">
       fBl2      = 10.00         =&gt;  half length in x at +dZ and y=-fH1
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,178)">
+     <text fill="black" dy=".4em" transform="translate(59,181)">
       fTl2      = 15.00         =&gt;  half length in x at +dZ and y=+fH1
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,192)">
+     <text fill="black" dy=".4em" transform="translate(59,196)">
       fAlpha2   =  0.00         =&gt;  angle between centers of x edges and y axis at +fDz
      </text>
-     <text fill="blue" dy=".4em" transform="translate(59,206)">
+     <text fill="blue" dy=".4em" transform="translate(59,212)">
       Execute: gtra(iaxis, ndiv, start, step) to divide this.
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,221)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,228)">
       ----- IAXIS can be only 3 (Z)
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,235)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,243)">
       ----- NDIV must be a positive integer
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,249)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,259)">
       ----- START must be a valid axis offset within shape range on divided axis
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,263)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,275)">
       ----- STEP is the division step. START+NDIV*STEP must be in range also
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,277)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,290)">
       ----- If START and STEP are omitted, all range of the axis will be divided
      </text>
     </g>

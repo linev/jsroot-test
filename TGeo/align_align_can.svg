@@ -13,31 +13,31 @@
     <g transform="translate(12,3)" font-family="Arial" font-size="21" space="preserve" font-weight="bold" text-anchor="start">
      <path d="M4,4v314h1176v-314z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H1176V314H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
-     <text fill="red" dy=".4em" transform="translate(59,30)">
+     <text fill="red" dy=".4em" transform="translate(59,16)">
       Ideal / Aligned geometry
      </text>
-     <text fill="blue" font-size="13" dy=".4em" transform="translate(59,58)">
+     <text fill="blue" font-size="13" dy=".4em" transform="translate(59,47)">
       -- Create physical nodes for the objects you want to align
      </text>
-     <text fill="blue" font-size="13" dy=".4em" transform="translate(59,86)">
+     <text fill="blue" font-size="13" dy=".4em" transform="translate(59,79)">
       -- You must start from a valid CLOSED geometry
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,115)">
+     <text fill="black" dy=".4em" transform="translate(59,110)">
       TGeoPhysicalNode *node = gGeoManager-&gt;MakePhysicalNode(const char *path)
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,143)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,141)">
       + creates a physical node represented by path, e.g. TOP_1/A_2/B_3
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,171)">
+     <text fill="black" dy=".4em" transform="translate(59,173)">
       node-&gt;Align(TGeoMatrix *newmat, TGeoShape *newshape, Bool_t check=kFALSE)
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,199)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,204)">
       + newmat = new matrix to replace final node LOCAL matrix
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,228)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,235)">
       + newshape = new shape to replace final node shape
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,256)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,267)">
       + check = optional check if the new aligned node is overlapping
      </text>
     </g>

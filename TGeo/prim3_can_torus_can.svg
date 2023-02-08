@@ -10,25 +10,25 @@
   <svg viewBox="0 0 1200 320" preserveAspectRatio="none" x="0" y="480" width="1200" height="320">
    <path d="M0,0H1200V320H0Z" style="fill: white;"></path>
    <g>
-    <g transform="translate(12,3)" font-family="Arial" font-size="33" space="preserve" font-weight="bold">
+    <g transform="translate(12,3)" font-family="Arial" font-size="34" space="preserve" font-weight="bold">
      <path d="M4,4v314h1176v-314z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H1176V314H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
-     <text fill="red" text-anchor="middle" dy=".4em" transform="translate(588,36)">
+     <text fill="red" text-anchor="middle" dy=".4em" transform="translate(588,22)">
       TGeoTorus - torus class
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,76)">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,67)">
       fR        = 40.00         =&gt;  radius of the ring
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,117)">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,112)">
       fRmin     = 20.00         =&gt;  minimum radius
      </text>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,157)">
       fRmax     = 25.00         =&gt;  maximum radius
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,197)">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,202)">
       fPhi1     =  0.00         =&gt;  starting phi angle
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,238)">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,247)">
       fDphi     = 270.00        =&gt;  phi range
      </text>
     </g>

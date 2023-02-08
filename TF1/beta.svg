@@ -80,7 +80,7 @@
      </g>
     </g>
     <g transform="translate(118,2)" font-family="Arial" font-size="19" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(471,1)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(471)">
       TMath::BetaDist(x, [0], [1])
      </text>
     </g>
@@ -208,7 +208,7 @@
      </g>
     </g>
     <g transform="translate(118,2)" font-family="Arial" font-size="19" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(471,1)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(471)">
       TMath::BetaDistI(x, [0], [1])
      </text>
     </g>

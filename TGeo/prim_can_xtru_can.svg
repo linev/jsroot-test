@@ -10,53 +10,53 @@
   <svg viewBox="0 0 1200 320" preserveAspectRatio="none" x="0" y="480" width="1200" height="320">
    <path d="M0,0H1200V320H0Z" style="fill: white;"></path>
    <g>
-    <g transform="translate(12,3)" font-family="Arial" font-size="15" space="preserve" font-weight="bold">
+    <g transform="translate(12,3)" font-family="Arial" font-size="17" space="preserve" font-weight="bold">
      <path d="M4,4v314h1176v-314z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H1176V314H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
-     <text fill="red" text-anchor="start" dy=".4em" transform="translate(59,25)">
+     <text fill="red" text-anchor="start" dy=".4em" transform="translate(59,10)">
       TGeoXtru - Polygonal extrusion class
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,44)">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,31)">
       fNvert    =     8         =&gt;  number of polygone vertices
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,63)">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(59,52)">
       fNz       =     4         =&gt;  number of Z sections
      </text>
-     <text fill="red" font-size="13" text-anchor="start" dy=".4em" transform="translate(59,82)">
+     <text fill="red" font-size="13" text-anchor="start" dy=".4em" transform="translate(59,73)">
       ----- Any Z section is an arbitrary polygone
      </text>
-     <text fill="red" font-size="13" text-anchor="start" dy=".4em" transform="translate(59,100)">
+     <text fill="red" font-size="13" text-anchor="start" dy=".4em" transform="translate(59,94)">
       ----- The shape can have an arbitrary number of Z sections, as for pcon/pgon
      </text>
-     <text fill="red" font-size="13" text-anchor="start" dy=".4em" transform="translate(59,119)">
+     <text fill="red" font-size="13" text-anchor="start" dy=".4em" transform="translate(59,115)">
       ----- Create with:    TGeoXtru *xtru = new TGeoXtru(nz);
      </text>
-     <text fill="red" font-size="13" text-anchor="start" dy=".4em" transform="translate(59,138)">
+     <text fill="red" font-size="13" text-anchor="start" dy=".4em" transform="translate(59,136)">
       ----- Define the blueprint polygon :
      </text>
-     <g transform="translate(59,161) scale(0.924)">
+     <g transform="translate(59,162) scale(1.026)">
       <text fill="red" font-size="13">
        -----                 Double_t x[8] = {-30,-30,30,30,15,15,-15,-15};
       </text>
      </g>
-     <g transform="translate(59,180) scale(0.924)">
+     <g transform="translate(59,183) scale(1.026)">
       <text fill="red" font-size="13">
        -----                 Double_t y[8] = {-30,30,30,-30,-30,15,15,-30};
       </text>
      </g>
-     <text fill="red" font-size="13" text-anchor="start" dy=".4em" transform="translate(59,195)">
+     <text fill="red" font-size="13" text-anchor="start" dy=".4em" transform="translate(59,199)">
       -----                 xtru-&gt;DefinePolygon(8,x,y);
      </text>
-     <text fill="red" font-size="13" text-anchor="start" dy=".4em" transform="translate(59,214)">
+     <text fill="red" font-size="13" text-anchor="start" dy=".4em" transform="translate(59,220)">
       ----- Define translations/scales of the blueprint for Z sections :
      </text>
-     <text fill="red" font-size="13" text-anchor="start" dy=".4em" transform="translate(59,232)">
+     <text fill="red" font-size="13" text-anchor="start" dy=".4em" transform="translate(59,241)">
       -----                 xtru-&gt;DefineSection(i, Zsection, x0, y0, scale);
      </text>
-     <text fill="red" font-size="13" text-anchor="start" dy=".4em" transform="translate(59,251)">
+     <text fill="red" font-size="13" text-anchor="start" dy=".4em" transform="translate(59,262)">
       ----- Sections have to be defined in increasing Z order
      </text>
-     <text fill="red" font-size="13" text-anchor="start" dy=".4em" transform="translate(59,270)">
+     <text fill="red" font-size="13" text-anchor="start" dy=".4em" transform="translate(59,283)">
       ----- 2 sections can be defined at same Z (not for first/last sections)
      </text>
     </g>

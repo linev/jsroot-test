@@ -10,46 +10,46 @@
   <svg viewBox="0 0 1200 320" preserveAspectRatio="none" x="0" y="480" width="1200" height="320">
    <path d="M0,0H1200V320H0Z" style="fill: white;"></path>
    <g>
-    <g transform="translate(12,3)" font-family="Arial" font-size="16" space="preserve" font-weight="bold" text-anchor="start">
+    <g transform="translate(12,3)" font-family="Arial" font-size="18" space="preserve" font-weight="bold" text-anchor="start">
      <path d="M4,4v314h1176v-314z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H1176V314H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
-     <text fill="red" dy=".4em" transform="translate(59,26)">
+     <text fill="red" dy=".4em" transform="translate(59,11)">
       TGeoBBox - box class
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,46)">
+     <text fill="black" dy=".4em" transform="translate(59,34)">
       fDX       = 20.00         =&gt;  half length in X
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,66)">
+     <text fill="black" dy=".4em" transform="translate(59,56)">
       fDY       = 30.00         =&gt;  half length in Y
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,86)">
+     <text fill="black" dy=".4em" transform="translate(59,78)">
       fDZ       = 40.00         =&gt;  half length in Z
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,107)">
+     <text fill="black" dy=".4em" transform="translate(59,101)">
       fOrigin[0]=  0.00         =&gt;  box origin on X
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,127)">
+     <text fill="black" dy=".4em" transform="translate(59,123)">
       fOrigin[1]=  0.00         =&gt;  box origin on Y
      </text>
-     <text fill="black" dy=".4em" transform="translate(59,147)">
+     <text fill="black" dy=".4em" transform="translate(59,146)">
       fOrigin[2]=  0.00         =&gt;  box origin on Z
      </text>
-     <text fill="blue" dy=".4em" transform="translate(59,167)">
+     <text fill="blue" dy=".4em" transform="translate(59,168)">
       Execute: box(iaxis, ndiv, start, step) to divide this.
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,187)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,191)">
       ----- IAXIS can be 1, 2 or 3 (X, Y, Z)
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,207)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,213)">
       ----- NDIV must be a positive integer
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,228)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,236)">
       ----- START must be a valid axis offset within shape range on divided axis
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,248)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,258)">
       ----- STEP is the division step. START+NDIV*STEP must be in range also
      </text>
-     <text fill="red" font-size="13" dy=".4em" transform="translate(59,268)">
+     <text fill="red" font-size="13" dy=".4em" transform="translate(59,280)">
       ----- If START and STEP are omitted, all range of the axis will be divided
      </text>
     </g>
