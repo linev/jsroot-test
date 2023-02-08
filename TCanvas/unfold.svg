@@ -99,7 +99,7 @@
      </g>
     </g>
     <g transform="translate(118,2)" font-family="Arial" font-size="19" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(471)">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(471,1)">
       Unfolding toy example with TSVDUnfold
      </text>
     </g>
@@ -242,8 +242,8 @@
       </g>
      </g>
     </g>
-    <g transform="translate(71,2)" font-family="Arial" font-size="19" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(212)">
+    <g transform="translate(71,2)" font-family="Arial" font-size="18" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(212,1)">
       TSVDUnfold covariance matrix
      </text>
     </g>
@@ -406,8 +406,8 @@
       </g>
      </g>
     </g>
-    <g transform="translate(56,2)" font-family="Arial" font-size="19" space="preserve">
-     <g transform="translate(157,19) scale(0.920)">
+    <g transform="translate(56,2)" font-family="Arial" font-size="17" space="preserve">
+     <g transform="translate(164,18) scale(0.828)">
       <text fill="black" font-size="21">
        TSVDUnfold |d
       </text>

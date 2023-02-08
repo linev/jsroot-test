@@ -360,8 +360,8 @@
       </g>
      </g>
     </g>
-    <g transform="translate(38,4)" font-family="Arial" font-size="16" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151)">
+    <g transform="translate(38,4)" font-family="Arial" font-size="14" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151,3)">
       Fitted line with .95 conf. band
      </text>
     </g>
@@ -441,8 +441,8 @@
       </g>
      </g>
     </g>
-    <g transform="translate(38,4)" font-family="Arial" font-size="14" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151)">
+    <g transform="translate(38,4)" font-family="Arial" font-size="13" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151,3)">
       Fitted gaussian with .95 conf.band
      </text>
     </g>
@@ -482,8 +482,8 @@
     <g transform="translate(38,78)" style="display: none;">
      <path d="M0,0H301V627H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
     </g>
-    <g transform="translate(38,4)" font-family="Arial" font-size="12" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151)">
+    <g transform="translate(38,4)" font-family="Arial" font-size="11" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151,3)">
       1000*(([0]*sin(x)/x)*([1]*sin(y)/y))+250
      </text>
     </g>
