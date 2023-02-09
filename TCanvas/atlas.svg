@@ -619,7 +619,7 @@
    <path d="M0,0H60V24H0Z" style="fill: yellow;"></path>
   </g>
   <g>
-   <path d="M578,264L638,264" style="stroke: black; stroke-width: 4;"></path>
+   <path d="M578,264H638" style="stroke: black; stroke-width: 4;"></path>
   </g>
  </g>
 </svg>
