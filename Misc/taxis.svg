@@ -100,7 +100,7 @@
      </g>
     </g>
     <g>
-     <path d="M0,10L600,10" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,10H600" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -153,7 +153,7 @@
      </g>
     </g>
     <g>
-     <path d="M0,10L600,10" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,10H600" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -206,7 +206,7 @@
      </g>
     </g>
     <g>
-     <path d="M0,10L600,10" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,10H600" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -309,7 +309,7 @@
      </g>
     </g>
     <g>
-     <path d="M0,10L600,10" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,10H600" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -362,7 +362,7 @@
      </g>
     </g>
     <g>
-     <path d="M0,10L600,10" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,10H600" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -415,12 +415,12 @@
      </g>
     </g>
     <g>
-     <path d="M0,10L600,10" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,10H600" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
   <g>
-   <path d="M600,800L600,0" style="stroke: black; stroke-width: 1;"></path>
+   <path d="M600,800V0" style="stroke: black; stroke-width: 1;"></path>
   </g>
  </g>
 </svg>
