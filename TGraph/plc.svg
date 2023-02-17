@@ -5,23 +5,23 @@
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
-     <path d="M80,586.67C92,570.67,213.33,320,280,320S420,606.67,480,586.67S656,218.67,680,186.67S856.92,68.72,880,53.33" style="stroke: #630005; stroke-width: 3; fill: none;"></path>
+     <path d="M80,587Q200,320,280,320C360,320,400,613,480,587S600,293,680,187Q833,65,880,53" style="stroke: #630005; stroke-width: 3; fill: none;"></path>
      <path d="M76,583l8,8m0,-8l-8,8m0,-4h8m-4,-4v8M276,316l8,8m0,-8l-8,8m0,-4h8m-4,-4v8M476,583l8,8m0,-8l-8,8m0,-4h8m-4,-4v8M676,183l8,8m0,-8l-8,8m0,-4h8m-4,-4v8M876,49l8,8m0,-8l-8,8m0,-4h8m-4,-4v8" style="stroke: red; fill: none;"></path>
     </g>
     <g>
-     <path d="M80,560C92,544,213.33,293.33,280,293.33S420,580,480,560S656,192,680,160S856.92,42.05,880,26.67" style="stroke: #9a0807; stroke-width: 3; fill: none;"></path>
+     <path d="M80,560Q200,293,280,293C360,293,400,587,480,560S600,267,680,160Q833,39,880,27" style="stroke: #9a0807; stroke-width: 3; fill: none;"></path>
      <path d="M76,560a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM276,293a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM476,560a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM676,160a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM876,27a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: black; fill: none;"></path>
     </g>
     <g>
-     <path d="M80,533.33C92,517.33,213.33,266.67,280,266.67S420,553.33,480,533.33S656,165.33,680,133.33S856.92,15.38,880,0" style="stroke: #c73909; stroke-width: 3; fill: none;"></path>
+     <path d="M80,533Q200,267,280,267C360,267,400,560,480,533S600,240,680,133Q833,12,880,0" style="stroke: #c73909; stroke-width: 3; fill: none;"></path>
      <path d="M76,529v8h8v-8zM276,263v8h8v-8zM476,529v8h8v-8zM676,129v8h8v-8zM876,-4v8h8v-8z" style="stroke: black; fill: none;"></path>
     </g>
     <g>
-     <path d="M80,506.67C92,490.67,213.33,240,280,240S420,526.67,480,506.67S656,138.67,680,106.67S856.92,-11.28,880,-26.67" style="stroke: #c97511; stroke-width: 3; fill: none;"></path>
+     <path d="M80,507Q200,240,280,240C360,240,400,533,480,507S600,213,680,107Q833,-15,880,-27" style="stroke: #c97511; stroke-width: 3; fill: none;"></path>
      <path d="M76,503l8,8m0,-8l-8,8m0,-4h8m-4,-4v8M276,236l8,8m0,-8l-8,8m0,-4h8m-4,-4v8M476,503l8,8m0,-8l-8,8m0,-4h8m-4,-4v8M676,103l8,8m0,-8l-8,8m0,-4h8m-4,-4v8" style="stroke: blue; fill: none;"></path>
     </g>
     <g>
-     <path d="M80,480C92,464,213.33,213.33,280,213.33S420,500,480,480S656,112,680,80S856.92,-37.95,880,-53.33" style="stroke: #e3aa18; stroke-width: 3; fill: none;"></path>
+     <path d="M80,480Q200,213,280,213C360,213,400,507,480,480S600,187,680,80Q833,-41,880,-53" style="stroke: #e3aa18; stroke-width: 3; fill: none;"></path>
      <path d="M76,476v8h8v-8zM276,209v8h8v-8zM476,476v8h8v-8zM676,76v8h8v-8z" style="stroke: black; fill: black;"></path>
     </g>
    </svg>
