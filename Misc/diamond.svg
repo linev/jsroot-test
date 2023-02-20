@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
- <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 698 474" preserveAspectRatio="none" width="698" height="474">
+ <path d="M0,0H698V474H0Z" style="fill: white;"></path>
  <g>
-  <g transform="translate(60,160)">
-   <path d="M0,284l540,-280l540,280l-540,280z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,280l540,-280l540,280l-540,280z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
-   <g transform="translate(270,140)" font-family="Arial" font-size="26" space="preserve" font-weight="bold">
-    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(270,140)">
+  <g transform="translate(35,95)">
+   <path d="M0,170l314,-166l314,166l-314,166z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M0,166l314,-166l314,166l-314,166z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
+   <g transform="translate(157,83)" font-family="Arial" font-size="15" space="preserve" font-weight="bold">
+    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(157,83)">
      A TDiamond can contain any text.
     </text>
    </g>

@@ -1,30 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 698 474" preserveAspectRatio="none" width="698" height="474">
  <defs>
   <pattern id="pat_3008_6" patternUnits="userSpaceOnUse" width="10" height="10">
    <path d="M0,3v-3h3ZM7,0h3v3ZM0,7v3h3ZM7,10h3v-3ZM5,2l3,3l-3,3l-3,-3Z" style="fill: magenta;"></path>
    <path d="M0,3l5,5M3,10l5,-5M10,7l-5,-5M7,0l-5,5" style="stroke: magenta; stroke-width: 1;"></path>
   </pattern>
  </defs>
- <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
+ <path d="M0,0H698V474H0Z" style="fill: white;"></path>
  <g>
-  <g transform="translate(120,40)" font-family="Arial" font-size="75" space="preserve" font-weight="bold">
-   <path d="M3,3v120h960v-120z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0H960V120H0Z" style="fill: #deba87; stroke: black; stroke-width: 1;"></path>
-   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(480,60)">
+  <g transform="translate(70,24)" font-family="Arial" font-size="44" space="preserve" font-weight="bold">
+   <path d="M3,3v71h558v-71z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M0,0H558V71H0Z" style="fill: #deba87; stroke: black; stroke-width: 1;"></path>
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(279,36)">
     Examples of Ellipses
    </text>
   </g>
   <g>
-   <path transform="translate(300,600)" d="M-120,0A120,160,0,1,0,120,0A120,160,0,1,0,-120,0Z" style="stroke: black; stroke-width: 1; fill: white;"></path>
+   <path transform="translate(175,356)" d="M-69,0A69,95,0,1,0,69,0A69,95,0,1,0,-69,0Z" style="stroke: black; stroke-width: 1; fill: white;"></path>
   </g>
   <g>
-   <path transform="translate(300,320)" d="M-240,0A240,80,0,1,0,240,0A240,80,0,1,0,-240,0Z" style="stroke: black; stroke-width: 1; fill: url(#pat_3008_6);"></path>
+   <path transform="translate(175,190)" d="M-139,0A139,48,0,1,0,139,0A139,48,0,1,0,-139,0Z" style="stroke: black; stroke-width: 1; fill: url(#pat_3008_6);"></path>
   </g>
   <g>
-   <path transform="translate(900,320)" d="M0,0L170,57A240,80,0,1,1,170,-57Z" style="stroke: blue; stroke-width: 1; fill: red;"></path>
+   <path transform="translate(524,190)" d="M0,0L98,34A139,48,0,1,1,98,-34Z" style="stroke: blue; stroke-width: 1; fill: red;"></path>
   </g>
   <g>
-   <path transform="translate(900,600)" d="M0,0l-33,-140l-4,2l-5,1l-4,2l-5,2l-4,1l-5,2l-4,2l-4,2l-5,2l-4,2l-4,2l-4,3l-4,2l-4,2l-4,3l-4,2l-4,3l-4,3l-4,2l-4,3l-3,3l-4,3l-3,3l-4,3l-3,3l-4,3l-3,3l-3,3l-3,3l-3,3l-3,3l-3,4l-2,3l-3,3l-3,4l-2,3l-2,4l-3,3l-2,4l-2,3l-2,4l-2,3l-2,4l-1,3l-2,4l-1,4l-2,3l-1,4l-1,3l-1,4l-1,4l-1,3l-1,4v3l-1,4v3l-1,4v3v4v4v3l1,3v4v3l1,4l1,3v3l1,4l1,3l2,3l1,3l1,3l1,3l2,3l2,3l1,3l2,3l2,3l2,3l2,2l3,3l2,3l2,2l3,3l2,2l3,2l3,3l3,2l3,2l3,2l3,2l3,2l3,2l4,2l3,1l4,2l3,2l4,1l3,2l4,1l4,1l4,1l4,1l4,1l4,1l4,1l4,1l4,1h5l4,1h4l5,1h4h4h5h4h5h4h5l5,-1h4l5,-1h4l5,-1l4,-1l5,-1h5l4,-1l5,-2l5,-1l4,-1l5,-1l4,-2l5,-1l4,-2l5,-1l4,-2l5,-2l4,-2l4,-2l5,-2l4,-2l4,-2l4,-2l5,-2l4,-3l4,-2l4,-3l4,-2l4,-3l3,-2l4,-3l4,-3l4,-3l3,-3l4,-3l3,-3l3,-3l4,-3l3,-3l3,-3l3,-3l3,-3l3,-4l3,-3l2,-3l3,-4l2,-3l3,-3l2,-4l2,-3l3,-4l2,-3l2,-4l1,-3l2,-4l2,-4l1,-3l2,-4l1,-3l1,-4l2,-4l1,-3v-4l1,-3l1,-4l1,-3v-4v-4l1,-3v-4v-3v-4v-3l-1,-4v-3l-1,-3v-4l-1,-3Z" style="stroke: blue; stroke-width: 6; fill: yellow;"></path>
+   <path transform="translate(524,356)" d="M0,0l-20,-83l-2,1h-3l-2,1l-3,1l-3,1l-2,2l-3,1l-2,1l-3,1l-2,1l-3,2l-2,1l-2,1l-3,2l-2,1l-2,2l-3,1l-2,2l-2,1l-2,2l-3,2l-2,1l-2,2l-2,2l-2,2l-2,1l-1,2l-2,2l-2,2l-2,2l-1,2l-2,2l-2,2l-1,2l-2,2l-1,2l-2,2l-1,2l-1,2l-1,2l-1,2l-2,2l-1,2l-1,2v3l-1,2l-1,2l-1,2l-1,2v2l-1,2v2l-1,3v2v2v2l-1,2v2v2v2v2v2l1,2v2v2l1,2v2l1,2v2l1,2l1,2v2l1,2l1,1l1,2l1,2l1,2l1,1l1,2l2,2l1,1l1,2l2,1l1,2l2,1l1,1l2,2l2,1l1,1l2,2l2,1l2,1l2,1l2,1l2,1l2,1l2,1l2,1l2,1l2,1h2l3,1l2,1h2l3,1h2l2,1h3l2,1h3h2h3h2l3,1h3h2h3l2,-1h3h3h2h3l3,-1h2l3,-1h3l2,-1h3l3,-1l2,-1h3l3,-1l2,-1l3,-1l3,-1l2,-1l3,-1l2,-1l3,-1l3,-1l2,-1l3,-2l2,-1l2,-1l3,-1l2,-2l3,-1l2,-2l2,-1l3,-2l2,-1l2,-2l2,-2l2,-1l2,-2l2,-2l2,-1l2,-2l2,-2l2,-2l2,-2l2,-2l1,-2l2,-2l2,-1l1,-2l2,-2l1,-2l2,-2l1,-3l1,-2l1,-2l2,-2l1,-2l1,-2l1,-2l1,-2l1,-2l1,-2v-3l1,-2l1,-2v-2l1,-2v-2l1,-2v-2v-3l1,-2v-2v-2v-2v-2v-2v-2l-1,-2v-2v-2l-1,-2Z" style="stroke: blue; stroke-width: 6; fill: yellow;"></path>
   </g>
  </g>
 </svg>
