@@ -159,7 +159,7 @@ function ProduceSVG(obj, opt) {
 
   if (entry.reset_funcs) obj.fFunctions = create("TList");
 
-   makeSVG({ object: obj, option: opt, width: 1200, height: 800 })
+   makeSVG({ object: obj, option: opt, width: 1200, height: 800, use_canvas_size: true })
          .then(svg => {
             ProduceFile(svg, ".svg");
             if (entry.reset_funcs) obj.fFunctions = create("TList");
