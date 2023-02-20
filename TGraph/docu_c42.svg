@@ -1,69 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 596 372" preserveAspectRatio="none" width="596" height="372">
  <defs>
   <pattern id="pat_3005_6" patternUnits="userSpaceOnUse" width="8" height="8">
    <path d="M0,0L8,8" style="stroke: magenta; stroke-width: 1;"></path>
   </pattern>
  </defs>
- <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
+ <path d="M0,0H596V372H0Z" style="fill: white;"></path>
  <g>
-  <g transform="translate(120,80)">
-   <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
+  <g transform="translate(60,37)">
+   <path d="M0,0H477V298H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <svg x="0" y="0" overflow="hidden" width="477" height="298" viewBox="0 0 477 298">
     <g>
-     <path d="M97,587Q202,436,271,364C341,293,376,213,445,231S550,436,619,453Q792,364,793,320L793,142Q689,382,619,364C550,347,515,71,445,53S341,204,271,276Q136,387,97,409Z" style="fill: url(#pat_3005_6);"></path>
+     <path d="M48,273Q100,203,135,170C169,137,187,99,221,108S273,203,308,211Q392,170,394,149L394,66Q342,178,308,170C273,161,256,33,221,25S169,95,135,128Q67,181,48,190Z" style="fill: url(#pat_3005_6);"></path>
     </g>
    </svg>
    <g>
-    <g transform="translate(0,640)">
-     <path d="M0,0h960M28,-12V0M63,-12V0M97,-24V0M132,-12V0M167,-12V0M202,-12V0M237,-12V0M271,-24V0M306,-12V0M341,-12V0M376,-12V0M410,-12V0M445,-24V0M480,-12V0M515,-12V0M550,-12V0M584,-12V0M619,-24V0M654,-12V0M689,-12V0M723,-12V0M758,-12V0M793,-24V0M828,-12V0M863,-12V0M897,-12V0M932,-12V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(97,6)">
+    <g transform="translate(0,298)">
+     <path d="M0,0h477M14,-6V0M31,-6V0M48,-11V0M66,-6V0M83,-6V0M100,-6V0M118,-6V0M135,-11V0M152,-6V0M169,-6V0M187,-6V0M204,-6V0M221,-11V0M239,-6V0M256,-6V0M273,-6V0M290,-6V0M308,-11V0M325,-6V0M342,-6V0M359,-6V0M377,-6V0M394,-11V0M411,-6V0M429,-6V0M446,-6V0M463,-6V0" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="middle">
+      <text dy=".8em" transform="translate(48,4)">
        0
       </text>
-      <text dy=".8em" transform="translate(271,6)">
+      <text dy=".8em" transform="translate(135,4)">
        1
       </text>
-      <text dy=".8em" transform="translate(445,6)">
+      <text dy=".8em" transform="translate(221,4)">
        2
       </text>
-      <text dy=".8em" transform="translate(619,6)">
+      <text dy=".8em" transform="translate(308,4)">
        3
       </text>
-      <text dy=".8em" transform="translate(793,6)">
+      <text dy=".8em" transform="translate(394,4)">
        4
       </text>
      </g>
     </g>
     <g>
-     <path d="M0,0v640M18,640H0M18,622H0M18,604H0M36,587H0M18,569H0M18,551H0M18,533H0M18,516H0M36,498H0M18,480H0M18,462H0M18,444H0M18,427H0M36,409H0M18,391H0M18,373H0M18,356H0M18,338H0M36,320H0M18,302H0M18,284H0M18,267H0M18,249H0M36,231H0M18,213H0M18,196H0M18,178H0M18,160H0M36,142H0M18,124H0M18,107H0M18,89H0M18,71H0M36,53H0M18,36H0M18,18H0M18,0H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-4,587)">
+     <path d="M0,0v298M9,298H0M9,290H0M9,281H0M18,273H0M9,265H0M9,257H0M9,248H0M9,240H0M18,232H0M9,224H0M9,215H0M9,207H0M9,199H0M18,190H0M9,182H0M9,174H0M9,166H0M9,157H0M18,149H0M9,141H0M9,132H0M9,124H0M9,116H0M18,108H0M9,99H0M9,91H0M9,83H0M9,74H0M18,66H0M9,58H0M9,50H0M9,41H0M9,33H0M18,25H0M9,17H0M9,8H0M9,0H0" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="end">
+      <text dy=".4em" transform="translate(-2,273)">
        -1
       </text>
-      <text dy=".4em" transform="translate(-4,498)">
+      <text dy=".4em" transform="translate(-2,232)">
        0
       </text>
-      <text dy=".4em" transform="translate(-4,409)">
+      <text dy=".4em" transform="translate(-2,190)">
        1
       </text>
-      <text dy=".4em" transform="translate(-4,320)">
+      <text dy=".4em" transform="translate(-2,149)">
        2
       </text>
-      <text dy=".4em" transform="translate(-4,231)">
+      <text dy=".4em" transform="translate(-2,108)">
        3
       </text>
-      <text dy=".4em" transform="translate(-4,142)">
+      <text dy=".4em" transform="translate(-2,66)">
        4
       </text>
-      <text dy=".4em" transform="translate(-4,53)">
+      <text dy=".4em" transform="translate(-2,25)">
        5
       </text>
      </g>
     </g>
    </g>
   </g>
-  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
+  <g transform="translate(60,2)" font-family="Arial" font-size="19" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(239)">
     Graph
    </text>
   </g>
