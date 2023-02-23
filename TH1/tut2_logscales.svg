@@ -24,37 +24,37 @@
       <g transform="translate(0,210)">
        <path d="M0,0h262M0,-8V0M7,-4V0M13,-4V0M20,-4V0M26,-8V0M33,-4V0M39,-4V0M46,-4V0M52,-8V0M59,-4V0M66,-4V0M72,-4V0M79,-8V0M85,-4V0M92,-4V0M98,-4V0M105,-8V0M111,-4V0M118,-4V0M124,-4V0M131,-8V0M138,-4V0M144,-4V0M151,-4V0M157,-8V0M164,-4V0M170,-4V0M177,-4V0M183,-8V0M190,-4V0M197,-4V0M203,-4V0M210,-8V0M216,-4V0M223,-4V0M229,-4V0M236,-8V0M242,-4V0M249,-4V0M255,-4V0M262,-8V0" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="9" space="preserve" fill="black" text-anchor="middle">
-        <text dy=".8em" transform="translate(0,3)">
+        <text dy=".8em">
          -10
         </text>
-        <text dy=".8em" transform="translate(26,3)">
+        <text dy=".8em" transform="translate(26)">
          -8
         </text>
-        <text dy=".8em" transform="translate(52,3)">
+        <text dy=".8em" transform="translate(52)">
          -6
         </text>
-        <text dy=".8em" transform="translate(79,3)">
+        <text dy=".8em" transform="translate(79)">
          -4
         </text>
-        <text dy=".8em" transform="translate(105,3)">
+        <text dy=".8em" transform="translate(105)">
          -2
         </text>
-        <text dy=".8em" transform="translate(131,3)">
+        <text dy=".8em" transform="translate(131)">
          0
         </text>
-        <text dy=".8em" transform="translate(157,3)">
+        <text dy=".8em" transform="translate(157)">
          2
         </text>
-        <text dy=".8em" transform="translate(183,3)">
+        <text dy=".8em" transform="translate(183)">
          4
         </text>
-        <text dy=".8em" transform="translate(210,3)">
+        <text dy=".8em" transform="translate(210)">
          6
         </text>
-        <text dy=".8em" transform="translate(236,3)">
+        <text dy=".8em" transform="translate(236)">
          8
         </text>
-        <text dy=".8em" transform="translate(262,3)">
+        <text dy=".8em" transform="translate(262)">
          10
         </text>
        </g>
@@ -117,7 +117,7 @@
       <g transform="translate(0,210)">
        <path d="M0,0h262M61,-8V0M109,-8V0M144,-8V0M170,-8V0M192,-8V0M210,-8V0M226,-8V0M240,-8V0M253,-8V0" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="9" space="preserve">
-        <g transform="translate(50,12)">
+        <g transform="translate(50,9)">
          <text fill="black" font-size="9">
           2×10
          </text>
@@ -125,7 +125,7 @@
           2
          </text>
         </g>
-        <g transform="translate(98,12)">
+        <g transform="translate(98,9)">
          <text fill="black" font-size="9">
           3×10
          </text>
@@ -133,7 +133,7 @@
           2
          </text>
         </g>
-        <g transform="translate(133,12)">
+        <g transform="translate(133,9)">
          <text fill="black" font-size="9">
           4×10
          </text>
@@ -141,7 +141,7 @@
           2
          </text>
         </g>
-        <g transform="translate(159,12)">
+        <g transform="translate(159,9)">
          <text fill="black" font-size="9">
           5×10
          </text>
@@ -149,7 +149,7 @@
           2
          </text>
         </g>
-        <g transform="translate(181,12)">
+        <g transform="translate(181,9)">
          <text fill="black" font-size="9">
           6×10
          </text>
@@ -157,7 +157,7 @@
           2
          </text>
         </g>
-        <g transform="translate(199,12)">
+        <g transform="translate(199,9)">
          <text fill="black" font-size="9">
           7×10
          </text>
@@ -165,7 +165,7 @@
           2
          </text>
         </g>
-        <g transform="translate(215,12)">
+        <g transform="translate(215,9)">
          <text fill="black" font-size="9">
           8×10
          </text>
@@ -173,7 +173,7 @@
           2
          </text>
         </g>
-        <g transform="translate(229,12)">
+        <g transform="translate(229,9)">
          <text fill="black" font-size="9">
           9×10
          </text>
@@ -181,7 +181,7 @@
           2
          </text>
         </g>
-        <g transform="translate(247,12)">
+        <g transform="translate(247,9)">
          <text fill="black" font-size="9">
           10
          </text>
@@ -398,10 +398,10 @@
       <g transform="translate(0,360)">
        <path d="M0,0h525M0,-14V0M120,-7V0M189,-7V0M239,-7V0M278,-7V0M309,-7V0M336,-7V0M359,-7V0M379,-7V0M397,-14V0M517,-7V0" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="16" space="preserve" fill="black" text-anchor="middle">
-        <text dy=".8em" transform="translate(0,4)">
+        <text dy=".8em">
          1
         </text>
-        <text dy=".8em" transform="translate(397,4)">
+        <text dy=".8em" transform="translate(397)">
          10
         </text>
        </g>

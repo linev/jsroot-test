@@ -16,16 +16,16 @@
     <g transform="translate(0,640)">
      <path d="M0,0h960M0,-24V0M240,-24V0M480,-24V0M720,-24V0M960,-12V0" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="31" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(120,11)">
+      <text dy=".8em" transform="translate(120,5)">
        myvar1
       </text>
-      <text dy=".8em" transform="translate(360,11)">
+      <text dy=".8em" transform="translate(360,5)">
        Expression 2
       </text>
-      <text dy=".8em" transform="translate(600,11)">
+      <text dy=".8em" transform="translate(600,5)">
        Variable 3
       </text>
-      <text dy=".8em" transform="translate(840,11)">
+      <text dy=".8em" transform="translate(840,5)">
        Variable 4
       </text>
      </g>

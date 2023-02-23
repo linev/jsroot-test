@@ -15,25 +15,25 @@
     <g transform="translate(0,640)">
      <path d="M0,0h960M0,-24V0M32,-12V0M64,-12V0M96,-12V0M128,-12V0M160,-24V0M192,-12V0M224,-12V0M256,-12V0M288,-12V0M320,-24V0M352,-12V0M384,-12V0M416,-12V0M448,-12V0M480,-24V0M512,-12V0M544,-12V0M576,-12V0M608,-12V0M640,-24V0M672,-12V0M704,-12V0M736,-12V0M768,-12V0M800,-24V0M832,-12V0M864,-12V0M896,-12V0M928,-12V0M960,-24V0" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(0,6)">
+      <text dy=".8em" transform="translate(0,1)">
        -3
       </text>
-      <text dy=".8em" transform="translate(160,6)">
+      <text dy=".8em" transform="translate(160,1)">
        -2
       </text>
-      <text dy=".8em" transform="translate(320,6)">
+      <text dy=".8em" transform="translate(320,1)">
        -1
       </text>
-      <text dy=".8em" transform="translate(480,6)">
+      <text dy=".8em" transform="translate(480,1)">
        0
       </text>
-      <text dy=".8em" transform="translate(640,6)">
+      <text dy=".8em" transform="translate(640,1)">
        1
       </text>
-      <text dy=".8em" transform="translate(800,6)">
+      <text dy=".8em" transform="translate(800,1)">
        2
       </text>
-      <text dy=".8em" transform="translate(960,6)">
+      <text dy=".8em" transform="translate(960,1)">
        3
       </text>
      </g>
@@ -67,25 +67,25 @@
     <g>
      <path d="M0,0h960M0,0V24M32,0V12M64,0V12M96,0V12M128,0V12M160,0V24M192,0V12M224,0V12M256,0V12M288,0V12M320,0V24M352,0V12M384,0V12M416,0V12M448,0V12M480,0V24M512,0V12M544,0V12M576,0V12M608,0V12M640,0V24M672,0V12M704,0V12M736,0V12M768,0V12M800,0V24M832,0V12M864,0V12M896,0V12M928,0V12M960,0V24" style="stroke: red; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve" fill="red" text-anchor="middle">
-      <text transform="translate(0,-6)">
+      <text transform="translate(0,-4)">
        -3
       </text>
-      <text transform="translate(160,-6)">
+      <text transform="translate(160,-4)">
        -2
       </text>
-      <text transform="translate(320,-6)">
+      <text transform="translate(320,-4)">
        -1
       </text>
-      <text transform="translate(480,-6)">
+      <text transform="translate(480,-4)">
        0
       </text>
-      <text transform="translate(640,-6)">
+      <text transform="translate(640,-4)">
        1
       </text>
-      <text transform="translate(800,-6)">
+      <text transform="translate(800,-4)">
        2
       </text>
-      <text transform="translate(960,-6)">
+      <text transform="translate(960,-4)">
        3
       </text>
      </g>
