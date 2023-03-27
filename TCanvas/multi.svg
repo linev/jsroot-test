@@ -294,7 +294,7 @@
      <path d="M149,520H946" style="stroke: black; stroke-width: 1;"></path>
     </g>
     <g transform="translate(578,97)" font-family="Arial" font-size="26" space="preserve">
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,25)">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(64,25)">
       NLO QCD
      </text>
      <path d="M10,64H54" style="stroke: red; stroke-width: 4; stroke-dasharray: 5,3,1,3;"></path>
@@ -319,8 +319,8 @@
       Total
      </text>
     </g>
-    <g transform="translate(219,680)" font-family="Arial" font-size="26" space="preserve">
-     <g transform="translate(5,34) scale(0.789)">
+    <g transform="translate(219,680)" font-family="Arial" font-size="21" space="preserve">
+     <g transform="translate(36,32) scale(0.645)">
       <g>
        <path style="stroke: black; stroke-width: 2; fill: none;" d="M0,-12h4l4,13l4,-34h25v4"></path>
        <text fill="black" font-size="34" transform="translate(16)">
@@ -331,7 +331,7 @@
        = 7 TeV
       </text>
      </g>
-     <g transform="translate(5,69) scale(0.789)">
+     <g transform="translate(36,68) scale(0.645)">
       <text fill="black" font-size="34">
        Anti-k
       </text>
@@ -342,7 +342,7 @@
        R= 0.4
       </text>
      </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(5,99)">
+     <text fill="black" text-anchor="start" dy=".4em" transform="translate(36,99)">
       |y| &lt;0.5
      </text>
     </g>
