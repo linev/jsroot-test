@@ -121,6 +121,8 @@
   </g>
   <svg viewBox="0 0 24 240" preserveAspectRatio="none" x="550" y="97" width="24" height="240">
    <path d="M0,0H24V240H0Z" style="fill: #cf5e61; stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0h24l-2,2h-20v236l-2,2z" style="fill: #ad4f51;"></path>
+   <path d="M24,240v-240l-2,2v236h-20l-2,2z" style="fill: #f77074;"></path>
    <g>
     <g>
      <path d="M2,0h20v240h-20z" style="fill: #7d99d1;"></path>
