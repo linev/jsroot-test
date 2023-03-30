@@ -82,39 +82,39 @@
    </text>
   </g>
   <g transform="translate(120,80)">
-   <path d="M0,0h960M0,0V17M24,0V9M48,0V9M72,0V9M96,0V17M120,0V9M144,0V9M168,0V9M192,0V17M216,0V9M240,0V9M264,0V9M288,0V17M312,0V9M336,0V9M360,0V9M384,0V17M408,0V9M432,0V9M456,0V9M480,0V17M504,0V9M528,0V9M552,0V9M576,0V17M600,0V9M624,0V9M648,0V9M672,0V17M696,0V9M720,0V9M744,0V9M768,0V17M792,0V9M816,0V9M840,0V9M864,0V17M888,0V9M912,0V9M936,0V9M960,0V17" style="stroke: #000000; stroke-width: 1;"></path>
+   <path d="M0,0h960M960,0V17M936,0V9M912,0V9M888,0V9M864,0V17M840,0V9M816,0V9M792,0V9M768,0V17M744,0V9M720,0V9M696,0V9M672,0V17M648,0V9M624,0V9M600,0V9M576,0V17M552,0V9M528,0V9M504,0V9M480,0V17M456,0V9M432,0V9M408,0V9M384,0V17M360,0V9M336,0V9M312,0V9M288,0V17M264,0V9M240,0V9M216,0V9M192,0V17M168,0V9M144,0V9M120,0V9M96,0V17M72,0V9M48,0V9M24,0V9M0,0V17" style="stroke: #000000; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="32" space="preserve" font-weight="bold" fill="#000000" text-anchor="middle">
-    <text transform="translate(0,-4)">
+    <text transform="translate(960,-4)">
      -10
     </text>
-    <text transform="translate(96,-4)">
+    <text transform="translate(864,-4)">
      -8
     </text>
-    <text transform="translate(192,-4)">
+    <text transform="translate(768,-4)">
      -6
     </text>
-    <text transform="translate(288,-4)">
+    <text transform="translate(672,-4)">
      -4
     </text>
-    <text transform="translate(384,-4)">
+    <text transform="translate(576,-4)">
      -2
     </text>
     <text transform="translate(480,-4)">
      0
     </text>
-    <text transform="translate(576,-4)">
+    <text transform="translate(384,-4)">
      2
     </text>
-    <text transform="translate(672,-4)">
+    <text transform="translate(288,-4)">
      4
     </text>
-    <text transform="translate(768,-4)">
+    <text transform="translate(192,-4)">
      6
     </text>
-    <text transform="translate(864,-4)">
+    <text transform="translate(96,-4)">
      8
     </text>
-    <text transform="translate(960,-4)">
+    <text transform="translate(0,-4)">
      10
     </text>
    </g>
