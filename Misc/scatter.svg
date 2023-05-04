@@ -18,7 +18,7 @@
      <path d="M34,203a19,19,0,1,0,38,0a19,19,0,1,0,-38,0z" style="stroke: #8cbf75; fill: #8cbf75;"></path>
      <path d="M111,45a9,9,0,1,0,18,0a9,9,0,1,0,-18,0z" style="stroke: #44b999; fill: #44b999;"></path>
      <path d="M280.31,33.12a0.63,0.63,0,1,0,1.26,0a0.63,0.63,0,1,0,-1.26,0z" style="stroke: #f9f90f; fill: #f9f90f;"></path>
-     <path d="M504,118a7,7,0,1,0,14,0a7,7,0,1,0,-14,0z" style="stroke: #f9f90f; fill: #f9f90f;"></path>
+     <path d="M505,118a7,7,0,1,0,14,0a7,7,0,1,0,-14,0z" style="stroke: #f9f90f; fill: #f9f90f;"></path>
      <path d="M86,322a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: #74bd81; fill: #74bd81;"></path>
      <path d="M101,101a16,16,0,1,0,32,0a16,16,0,1,0,-32,0z" style="stroke: #1285d4; fill: #1285d4;"></path>
      <path d="M489,32a18,18,0,1,0,36,0a18,18,0,1,0,-36,0z" style="stroke: #23b2af; fill: #23b2af;"></path>
@@ -216,9 +216,9 @@
     </g>
    </g>
   </g>
-  <g transform="translate(276,2)" font-family="Arial" font-size="24" space="preserve">
+  <g transform="translate(276,2)" font-family="Arial" font-size="20" space="preserve">
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(73,15)">
-    Graph
+    Scatter plot
    </text>
   </g>
  </g>
