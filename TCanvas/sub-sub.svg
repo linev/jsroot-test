@@ -358,8 +358,8 @@
      <path d="M0,0H246V174H0Z" style="fill: #7d99d1; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="246" height="174" viewBox="0 0 246 174">
       <g>
-       <path d="M43,56h6M46,8v95M49,110h6M52,86v47M55,111h8M59,92v39M62,148h6M65,136v24M68,127h6M71,116v22M74,121h6M77,113v16M80,123h6M83,116v14M86,107h6M89,100v13M92,129h6M95,124v10M98,118h8M102,113v10M105,122h6M108,117v10M111,115h6M114,110v9M117,123h6M120,118v9M123,114h6M126,109v9M129,121h6M132,117v9M135,125h6M138,121v9M141,123h8M145,118v10M148,116h6M151,110v12M154,118h6M157,112v12M160,123h6M163,115v15M166,136h6M169,128v16M172,117h6M175,107v19M178,120h8M182,105v29M185,116h6M188,99v34M191,133h6M194,106v54" style="stroke: yellow; stroke-width: 1;"></path>
-       <path d="M43.6,53.6v4.8h4.8v-4.8zM49.6,107.6v4.8h4.8v-4.8zM56.6,108.6v4.8h4.8v-4.8zM62.6,145.6v4.8h4.8v-4.8zM68.6,124.6v4.8h4.8v-4.8zM74.6,118.6v4.8h4.8v-4.8zM80.6,120.6v4.8h4.8v-4.8zM86.6,104.6v4.8h4.8v-4.8zM92.6,126.6v4.8h4.8v-4.8zM99.6,115.6v4.8h4.8v-4.8zM105.6,119.6v4.8h4.8v-4.8zM111.6,112.6v4.8h4.8v-4.8zM117.6,120.6v4.8h4.8v-4.8zM123.6,111.6v4.8h4.8v-4.8zM129.6,118.6v4.8h4.8v-4.8zM135.6,122.6v4.8h4.8v-4.8zM142.6,120.6v4.8h4.8v-4.8zM148.6,113.6v4.8h4.8v-4.8zM154.6,115.6v4.8h4.8v-4.8zM160.6,120.6v4.8h4.8v-4.8zM166.6,133.6v4.8h4.8v-4.8zM172.6,114.6v4.8h4.8v-4.8zM179.6,117.6v4.8h4.8v-4.8zM185.6,113.6v4.8h4.8v-4.8zM191.6,130.6v4.8h4.8v-4.8z" style="stroke: red; fill: red;"></path>
+       <path d="M43,63h6M46,18v89M49,113h6M52,91v45M55,115h8M59,97v36M62,150h6M65,138v23M68,130h6M71,119v21M74,124h6M77,117v15M80,126h6M83,119v14M86,111h6M89,104v13M92,131h6M95,127v9M98,121h8M102,116v10M105,125h6M108,121v9M111,118h6M114,114v8M117,126h6M120,121v9M123,117h6M126,113v9M129,124h6M132,120v8M135,128h6M138,124v8M141,126h8M145,121v10M148,119h6M151,114v11M154,121h6M157,115v12M160,126h6M163,118v15M166,138h6M169,131v15M172,120h6M175,111v18M178,123h8M182,109v27M185,119h6M188,103v33M191,135h6M194,110v51" style="stroke: yellow; stroke-width: 1;"></path>
+       <path d="M43.6,60.6v4.8h4.8v-4.8zM49.6,110.6v4.8h4.8v-4.8zM56.6,112.6v4.8h4.8v-4.8zM62.6,147.6v4.8h4.8v-4.8zM68.6,127.6v4.8h4.8v-4.8zM74.6,121.6v4.8h4.8v-4.8zM80.6,123.6v4.8h4.8v-4.8zM86.6,108.6v4.8h4.8v-4.8zM92.6,128.6v4.8h4.8v-4.8zM99.6,118.6v4.8h4.8v-4.8zM105.6,122.6v4.8h4.8v-4.8zM111.6,115.6v4.8h4.8v-4.8zM117.6,123.6v4.8h4.8v-4.8zM123.6,114.6v4.8h4.8v-4.8zM129.6,121.6v4.8h4.8v-4.8zM135.6,125.6v4.8h4.8v-4.8zM142.6,123.6v4.8h4.8v-4.8zM148.6,116.6v4.8h4.8v-4.8zM154.6,118.6v4.8h4.8v-4.8zM160.6,123.6v4.8h4.8v-4.8zM166.6,135.6v4.8h4.8v-4.8zM172.6,117.6v4.8h4.8v-4.8zM179.6,120.6v4.8h4.8v-4.8zM185.6,116.6v4.8h4.8v-4.8zM191.6,132.6v4.8h4.8v-4.8z" style="stroke: red; fill: red;"></path>
       </g>
      </svg>
      <g>
@@ -396,27 +396,27 @@
        </g>
       </g>
       <g>
-       <path d="M0,0v174M10,174H0M5,169H0M5,163H0M5,158H0M5,152H0M10,147H0M5,141H0M5,136H0M5,131H0M5,125H0M10,120H0M5,114H0M5,109H0M5,103H0M5,98H0M10,93H0M5,87H0M5,82H0M5,76H0M5,71H0M10,65H0M5,60H0M5,55H0M5,49H0M5,44H0M10,38H0M5,33H0M5,27H0M5,22H0M5,17H0M10,11H0M5,6H0M5,0H0" style="stroke: black; stroke-width: 1;"></path>
+       <path d="M0,0v174M10,174H0M5,169H0M5,164H0M5,159H0M5,154H0M10,148H0M5,143H0M5,138H0M5,133H0M5,128H0M10,123H0M5,118H0M5,113H0M5,108H0M5,102H0M10,97H0M5,92H0M5,87H0M5,82H0M5,77H0M10,72H0M5,67H0M5,62H0M5,57H0M5,51H0M10,46H0M5,41H0M5,36H0M5,31H0M5,26H0M10,21H0M5,16H0M5,11H0M5,5H0M5,0H0" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="end">
         <text dy=".4em" transform="translate(-1,174)">
          0.8
         </text>
-        <text dy=".4em" transform="translate(-1,147)">
+        <text dy=".4em" transform="translate(-1,148)">
          0.9
         </text>
-        <text dy=".4em" transform="translate(-1,120)">
+        <text dy=".4em" transform="translate(-1,123)">
          1
         </text>
-        <text dy=".4em" transform="translate(-1,93)">
+        <text dy=".4em" transform="translate(-1,97)">
          1.1
         </text>
-        <text dy=".4em" transform="translate(-1,65)">
+        <text dy=".4em" transform="translate(-1,72)">
          1.2
         </text>
-        <text dy=".4em" transform="translate(-1,38)">
+        <text dy=".4em" transform="translate(-1,46)">
          1.3
         </text>
-        <text dy=".4em" transform="translate(-1,11)">
+        <text dy=".4em" transform="translate(-1,21)">
          1.4
         </text>
        </g>

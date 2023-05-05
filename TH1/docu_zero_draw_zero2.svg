@@ -5,7 +5,7 @@
    <path d="M0,0H317V458H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <g>
     <path d="M0,458h317M0,401h317M0,344h317M0,286h317M0,229h317M0,172h317M0,115h317M0,57h317M0,0h317" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-    <path d="M32,0v458M95,0v458M159,0v458M222,0v458M285,0v458" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+    <path d="M0,0v458M32,0v458M63,0v458M95,0v458M127,0v458M159,0v458M190,0v458M222,0v458M254,0v458M285,0v458M317,0v458" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
    </g>
    <svg x="0" y="0" overflow="hidden" width="317" height="458" viewBox="0 0 317 458">
     <g>
@@ -17,22 +17,40 @@
    </svg>
    <g>
     <g transform="translate(0,458)">
-     <path d="M0,0h317M0,-9V0M16,-9V0M32,-17V0M48,-9V0M63,-9V0M79,-9V0M95,-17V0M111,-9V0M127,-9V0M143,-9V0M159,-17V0M174,-9V0M190,-9V0M206,-9V0M222,-17V0M238,-9V0M254,-9V0M269,-9V0M285,-17V0M301,-9V0M317,-9V0" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0h317M0,-17V0M6,-9V0M13,-9V0M19,-9V0M25,-9V0M32,-17V0M38,-9V0M44,-9V0M51,-9V0M57,-9V0M63,-17V0M70,-9V0M76,-9V0M82,-9V0M89,-9V0M95,-17V0M101,-9V0M108,-9V0M114,-9V0M120,-9V0M127,-17V0M133,-9V0M139,-9V0M146,-9V0M152,-9V0M159,-17V0M165,-9V0M171,-9V0M178,-9V0M184,-9V0M190,-17V0M197,-9V0M203,-9V0M209,-9V0M216,-9V0M222,-17V0M228,-9V0M235,-9V0M241,-9V0M247,-9V0M254,-17V0M260,-9V0M266,-9V0M273,-9V0M279,-9V0M285,-17V0M292,-9V0M298,-9V0M304,-9V0M311,-9V0M317,-17V0" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="14" space="preserve" fill="black" text-anchor="middle">
+      <text dy=".8em" transform="translate(0,1)">
+       -5
+      </text>
       <text dy=".8em" transform="translate(32,1)">
        -4
+      </text>
+      <text dy=".8em" transform="translate(63,1)">
+       -3
       </text>
       <text dy=".8em" transform="translate(95,1)">
        -2
       </text>
+      <text dy=".8em" transform="translate(127,1)">
+       -1
+      </text>
       <text dy=".8em" transform="translate(159,1)">
        0
+      </text>
+      <text dy=".8em" transform="translate(190,1)">
+       1
       </text>
       <text dy=".8em" transform="translate(222,1)">
        2
       </text>
+      <text dy=".8em" transform="translate(254,1)">
+       3
+      </text>
       <text dy=".8em" transform="translate(285,1)">
        4
+      </text>
+      <text dy=".8em" transform="translate(317,1)">
+       5
       </text>
      </g>
     </g>
