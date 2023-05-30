@@ -247,14 +247,14 @@
         </g>
        </g>
        <g font-family="Arial" font-size="49" space="preserve" transform="translate(797,98)">
-        <g transform="translate(-224,15)">
+        <g transform="translate(-231,15)">
          <text fill="black" font-size="49">
           p
          </text>
          <text fill="black" font-size="29" transform="translate(28,10)">
           T,jet
          </text>
-         <text fill="black" font-size="49" x="86">
+         <text fill="black" font-size="49" x="106">
           [GeV]
          </text>
         </g>
@@ -320,7 +320,7 @@
      </text>
     </g>
     <g transform="translate(219,680)" font-family="Arial" font-size="21" space="preserve">
-     <g transform="translate(36,32) scale(0.645)">
+     <g transform="translate(36,32) scale(0.629)">
       <g>
        <path style="stroke: black; stroke-width: 2; fill: none;" d="M0,-12h4l4,13l4,-34h25v4"></path>
        <text fill="black" font-size="34" transform="translate(16)">
@@ -331,14 +331,14 @@
        = 7 TeV
       </text>
      </g>
-     <g transform="translate(36,68) scale(0.645)">
+     <g transform="translate(36,68) scale(0.629)">
       <text fill="black" font-size="34">
        Anti-k
       </text>
       <text fill="black" font-size="20" transform="translate(91,7)">
        t
       </text>
-      <text fill="black" font-size="34" x="97">
+      <text fill="black" font-size="34" x="111">
        R= 0.4
       </text>
      </g>

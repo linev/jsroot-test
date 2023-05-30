@@ -293,7 +293,7 @@
      <text fill="black" text-anchor="end" dy=".4em" transform="translate(213,79)">
       0
      </text>
-     <g transform="translate(11,106) scale(0.693)">
+     <g transform="translate(11,106) scale(0.686)">
       <text fill="black" font-size="19">
        χ^2 / ndf
       </text>
@@ -310,40 +310,40 @@
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,147)">
       Alpha_Power
      </text>
-     <g transform="translate(112,151) scale(0.693)">
-      <text fill="black" font-size="19">
+     <g transform="translate(111,151) scale(0.686)">
+      <text fill="black" font-size="19" x="8">
        -0.7008 ± 0.0182
       </text>
      </g>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,169)">
       Constant_Gauss
      </text>
-     <g transform="translate(138,174) scale(0.693)">
-      <text fill="black" font-size="19">
+     <g transform="translate(137,174) scale(0.686)">
+      <text fill="black" font-size="19" x="8">
        76.94 ± 1.92
       </text>
      </g>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,192)">
       Constant_Power
      </text>
-     <g transform="translate(138,196) scale(0.693)">
-      <text fill="black" font-size="19">
+     <g transform="translate(137,196) scale(0.686)">
+      <text fill="black" font-size="19" x="8">
        51.62 ± 2.80
       </text>
      </g>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,214)">
       Mean_Gauss
      </text>
-     <g transform="translate(138,219) scale(0.693)">
-      <text fill="black" font-size="19">
+     <g transform="translate(136,219) scale(0.686)">
+      <text fill="black" font-size="19" x="8">
        48.59 ± 0.34
       </text>
      </g>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,237)">
       Sigma_Gauss
      </text>
-     <g transform="translate(139,241) scale(0.693)">
-      <text fill="black" font-size="19">
+     <g transform="translate(138,241) scale(0.686)">
+      <text fill="black" font-size="19" x="8">
        14.11 ± 0.28
       </text>
      </g>

@@ -45,14 +45,14 @@
         </text>
        </g>
        <g font-family="Arial" font-size="16" space="preserve" transform="translate(565,26)">
-        <g transform="translate(-72,5)">
-         <text fill="black" font-size="16">
+        <g transform="translate(-76,5)">
+         <text fill="black" font-size="16" x="6">
           m
          </text>
-         <text fill="black" font-size="10" transform="translate(18,3)">
+         <text fill="black" font-size="10" transform="translate(20,3)">
           γγ
          </text>
-         <text fill="black" font-size="16" x="27">
+         <text fill="black" font-size="16" x="35">
           [GeV]
          </text>
         </g>
@@ -132,10 +132,10 @@
         s
        </text>
       </g>
-      <text fill="black" font-size="17" x="20">
+      <text fill="black" font-size="17" x="27">
        = 13 TeV, 10 fb
       </text>
-      <text fill="black" font-size="10" transform="translate(138,-9)">
+      <text fill="black" font-size="10" transform="translate(141,-9)">
        -1
       </text>
      </g>
@@ -180,14 +180,14 @@
         </text>
        </g>
        <g font-family="Arial" font-size="30" space="preserve" transform="translate(565,48)">
-        <g transform="translate(-128,9)">
+        <g transform="translate(-132,9)">
          <text fill="black" font-size="30">
           m
          </text>
          <text fill="black" font-size="18" transform="translate(26,6)">
           γγ
          </text>
-         <text fill="black" font-size="30" x="44">
+         <text fill="black" font-size="30" x="56">
           [GeV]
          </text>
         </g>

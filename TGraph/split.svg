@@ -102,20 +102,20 @@
     &lt;q&gt; = 9.031923
    </text>
    <g transform="translate(60,98) scale(0.465)">
-    <text fill="black" font-size="32">
+    <text fill="black" font-size="32" x="26">
      σ   = 5.779455
     </text>
    </g>
   </g>
-  <g transform="translate(119,3)" font-family="Arial" font-size="16" space="preserve">
-   <g transform="translate(13,28) scale(0.458)">
+  <g transform="translate(119,3)" font-family="Arial" font-size="15" space="preserve">
+   <g transform="translate(13,28) scale(0.456)">
     <text fill="black" font-size="35">
      U projectile at 1.4 MeV/u on
     </text>
-    <text fill="black" font-size="21" transform="translate(442,-18)">
+    <text fill="black" font-size="21" transform="translate(447,-18)">
      40
     </text>
-    <text fill="black" font-size="35" x="465">
+    <text fill="black" font-size="35" x="470">
      Ar target with 1 mbar pressure. (equilibrium)
     </text>
    </g>
