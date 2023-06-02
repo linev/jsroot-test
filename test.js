@@ -12,8 +12,9 @@ import { readFileSync, mkdirSync, accessSync, writeFileSync, unlink, constants a
 
 import xml_formatter from 'xml-formatter';
 
+let jsroot_path = './../jsroot'
 
-let examples_main = JSON.parse(readFileSync("./../jsroot/demo/examples.json"));
+let examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`));
 
 examples_main.TH1.push({ name: "B_local", file: "file://other/hsimple.root", item: "hpx;1", opt:"B,fill_green", title: "draw histogram as bar chart" });
 examples_main.TTree.push({ name: "2d_local", asurl: true, file: "file://other/hsimple.root", item: "ntuple", opt: "px:py", title: "Two-dimensional TTree::Draw" });
@@ -57,7 +58,7 @@ if (process.argv && (process.argv.length > 2)) {
            break;
         case "-m":
         case "--more":
-           let examples_more = JSON.parse(readFileSync("./../jsroot/demo/examples_more.json"));
+           let examples_more = JSON.parse(readFileSync(`${jsroot_path}/demo/examples_more.json`));
 
            for (let key in examples_more) {
               if (examples_main[key])
@@ -304,8 +305,10 @@ function processNextOption(reset_mathjax) {
 
    if (entry.r3d) opt2 = (opt ? "," : "") + "r3d_" + entry.r3d;
 
-   if (entry.url)
-      url = entry.url.replace(/\$\$\$/g, filepath);
+   if (entry.url) {
+      url = entry.url.replace(/\$\$\$/g, filepath).replace(/load=demo/g, `load=${jsroot_path}/demo`);
+      console.log('url', url);
+   }
    else if (entry.asurl) {
       url = ((entry.asurl === "browser") ? "?" : "?nobrowser&");
       url += jsonname ? "json=" + jsonname : "file=" + filename + "&item=" + itemname;
