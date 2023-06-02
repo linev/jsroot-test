@@ -305,10 +305,8 @@ function processNextOption(reset_mathjax) {
 
    if (entry.r3d) opt2 = (opt ? "," : "") + "r3d_" + entry.r3d;
 
-   if (entry.url) {
-      url = entry.url.replace(/\$\$\$/g, filepath).replace(/load=demo/g, `load=${jsroot_path}/demo`);
-      console.log('url', url);
-   }
+   if (entry.url)
+      url = entry.url.replace(/\$\$\$/g, filepath).replace(/inject=demo/g, `inject=${jsroot_path}/demo`);
    else if (entry.asurl) {
       url = ((entry.asurl === "browser") ? "?" : "?nobrowser&");
       url += jsonname ? "json=" + jsonname : "file=" + filename + "&item=" + itemname;
