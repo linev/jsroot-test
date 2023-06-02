@@ -1,6 +1,6 @@
 {
   "name": "jsroot-test",
-  "version": "7.3.2",
+  "version": "7.3.3",
   "engines": {
     "node": ">=0.14"
   },
@@ -14,7 +14,7 @@
     "url": "https://github.com/linev/jsroot-test.git"
   },
   "dependencies": {
-    "jsroot": "file:../jsroot",
+    "jsroot": "file:../old_jsroot",
     "xml-formatter": "^2.6.0"
   }
 }

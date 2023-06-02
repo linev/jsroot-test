@@ -13,7 +13,7 @@ import { readFileSync, mkdirSync, accessSync, writeFileSync, unlink, constants a
 import xml_formatter from 'xml-formatter';
 
 
-let examples_main = JSON.parse(readFileSync("./../jsroot/demo/examples.json"));
+let examples_main = JSON.parse(readFileSync("./../old_jsroot/demo/examples.json"));
 
 examples_main.TH1.push({ name: "B_local", file: "file://other/hsimple.root", item: "hpx;1", opt:"B,fill_green", title: "draw histogram as bar chart" });
 examples_main.TTree.push({ name: "2d_local", asurl: true, file: "file://other/hsimple.root", item: "ntuple", opt: "px:py", title: "Two-dimensional TTree::Draw" });
@@ -57,7 +57,7 @@ if (process.argv && (process.argv.length > 2)) {
            break;
         case "-m":
         case "--more":
-           let examples_more = JSON.parse(readFileSync("./../jsroot/demo/examples_more.json"));
+           let examples_more = JSON.parse(readFileSync("./../old_jsroot/demo/examples_more.json"));
 
            for (let key in examples_more) {
               if (examples_main[key])
