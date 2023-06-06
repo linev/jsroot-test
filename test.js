@@ -1,4 +1,4 @@
-import { gStyle, version_id, version_date, create, settings, constants, internals, httpRequest, openFile, makeSVG, readStyleFromURL } from 'jsroot';
+import { gStyle, version_id, version_date, create, settings, constants, internals, httpRequest, openFile, makeImage, readStyleFromURL } from 'jsroot';
 
 console.log(`JSROOT version  ${version_id} ${version_date}`);
 
@@ -102,9 +102,9 @@ function ProduceFile(content, extension, subid) {
 
    let use_name = entry_name;
    if (subid)
-      use_name += "_" + subid;
+      use_name += '_' + subid;
 
-   if (extension != ".json")
+   if (extension == '.svg')
       content = xml_formatter(content, {indentation: ' ', lineSeparator: '\n' });
 
    try {
@@ -113,12 +113,29 @@ function ProduceFile(content, extension, subid) {
       mkdirSync(keyid);
    }
 
-   let svgname = keyid + "/" + use_name + extension,
-       svg0 = null, result = "MATCH";
+   let svgname = keyid + '/' + use_name + extension,
+       svg0 = null, result = 'MATCH', ispng = (extension == '.png'),
+       clen = content.length ?? content.byteLength;
 
    try {
-     svg0 = readFileSync(svgname, 'utf-8');
-     if (svg0 != content) result = "DIFF";
+     svg0 = readFileSync(svgname, ispng ? undefined : 'utf-8');
+
+     let match = (svg0 == content);
+
+     if (ispng) {
+        match = (svg0?.byteLength === clen);
+
+        if (match) {
+           let view0 = new Int8Array(svg0),
+               view1 = new Int8Array(content);
+           for (let i = 0; i < clen; ++i)
+              if (view0[i] != view1[i]) {
+                 match = false; break;
+              }
+        }
+     }
+
+     if (!match) result = 'DIFF';
    } catch(e) {
      svg0 = null;
      result = "NEW";
@@ -137,8 +154,8 @@ function ProduceFile(content, extension, subid) {
       default: nmatch++;
    }
 
-   let clen = content ? content.length : -1;
-   console.log(keyid, use_name, 'result', result, 'len='+clen, (svg0 && result=='DIFF' ? 'rel0='+(clen/svg0.length*100).toFixed(1)+'\%' : ''));
+   let clen0 = svg0?.length ?? svg0?.byteLength ?? 0;
+   console.log(keyid, use_name, 'result', result, 'len='+clen, (clen0 && result=='DIFF' ? 'rel0='+(100.*clen/clen0).toFixed(1)+'\%' : ''));
 
    if (result === "DIFF") all_diffs.push(svgname);
 
@@ -152,19 +169,26 @@ function ProduceFile(content, extension, subid) {
    if (subid === undefined) processNextOption();
 }
 
-function ProduceSVG(obj, opt) {
+function ProduceSVG(object, option) {
 
    // use only for object reading
    if ((theOnlyOptionId >= 0) && theOnlyOptionId !== optid)
       return processNextOption();
 
-  if (entry.reset_funcs) obj.fFunctions = create("TList");
+   if (entry.reset_funcs)
+      object.fFunctions = create('TList');
 
-   makeSVG({ object: obj, option: opt, width: 1200, height: 800, use_canvas_size: entry.large ? false : true })
-         .then(svg => {
-            ProduceFile(svg, ".svg");
-            if (entry.reset_funcs) obj.fFunctions = create("TList");
-         });
+   let args = { format: 'svg', object, option, width: 1200, height: 800, use_canvas_size: entry.large ? false : true };
+
+   if (entry.aspng) {
+      args.format = 'png';
+      args.as_buffer = true;
+   }
+
+   makeImage(args).then(code => {
+       ProduceFile(code, entry.aspng ? '.png' : '.svg');
+       if (entry.reset_funcs) object.fFunctions = create('TList');
+   });
 }
 
 function ProcessURL(url) {
@@ -186,9 +210,9 @@ function ProcessURL(url) {
       }
       for (let n = 0; n < disp.numFrames(); ++n) {
          let json = disp.makeJSON(n, 1);
-         if (json) ProduceFile(json, ".json", n);
+         if (json) ProduceFile(json, '.json', n);
          let svg = json ? "" : disp.makeSVG(n);
-         if (svg) ProduceFile(svg, ".svg", n);
+         if (svg) ProduceFile(svg, '.svg', n);
       }
 
       processNextOption();
