@@ -1,9 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
-  <g transform="translate(120,80)" style="display: none;">
-   <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-  </g>
   <g transform="translate(600,400)" font-family="Arial" font-size="20" space="preserve">
    <path d="M-410,0 a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: #2e3498; fill: none;"></path>
    <text text-anchor="end" dy=".4em" transform="translate(-432) rotate(360)">
