@@ -1,43 +1,43 @@
 <svg width="1200" height="800" viewBox="0 0 1000 700" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
  <path d="M0,0H1000V700H0Z" style="fill: white;"></path>
  <g>
-  <g transform="translate(70,84)">
-   <rect x="0" y="0" width="880" height="532" style="fill: none; stroke: black; stroke-width: 1;"></rect>
+  <g transform="translate(100,70)">
+   <rect x="0" y="0" width="800" height="560" style="fill: none; stroke: black; stroke-width: 1;"></rect>
    <g>
-    <path d="M0,0v532M147,0v532M293,0v532M440,0v532M587,0v532M733,0v532M880,0v532" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-    <path d="M0,508h880M0,387h880M0,266h880M0,145h880M0,24h880" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+    <path d="M0,0v560M133,0v560M267,0v560M400,0v560M533,0v560M667,0v560M800,0v560" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+    <path d="M0,535h800M0,407h800M0,280h800M0,153h800M0,25h800" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
    </g>
-   <svg x="0" y="0" overflow="hidden" width="880" height="532" viewBox="0 0 880 532">
+   <svg x="0" y="0" overflow="hidden" width="800" height="560" viewBox="0 0 800 560">
     <g>
-     <path d="M0,45v-2h1v-2v-5h1v-4h1v-4h1v-2h1v-1v-1h2v1h1v2h1v3h1v1v3h1v1v5h1v7h1v6h1v2v7h1v10h1v9h1v2v10h1v12h1v11h1v3v11h1v15h1v13h1v3v13h1v2v14h1v14h1v3v14h1v3v14h1v15h1v3v14h1v3v14h1v15h1v3v14h1v3v14h1v16h1v14h1v2v13h1v15h1v12h1v3v11h1v13h1v10h1v2v9h1v10h1v8h1v2v6h1v2v6h1v5h1v1v4h1v1v3h1v2h1v1h1v1h1v-1h1v-2h1v-3h1v-5h1v-4h1v-1v-6h1v-8h1v-7h1v-1v-9h1v-10h1v-10h1v-2v-11h1v-13h1v-12h1v-2v-12h1v-3v-12h1v-14h1v-2v-14h1v-3v-14h1v-14h1v-3v-14h1v-3v-14h1v-15h1v-3v-14h1v-3v-14h1v-18h1v-14h1v-2v-14h1v-16h1v-13h1v-3v-12h1v-15h1v-11h1v-2v-11h1v-12h1v-10h1v-2v-8h1v-2v-7h1v-7h1v-2v-6h1v-1v-5h1v-4h1v-1v-3h1v-1v-2h1v-1h1v-1h1v1h1v2h1v3h1v4h1v5h1v6h1v1v6h1v9h1v8h1v2v9h1v11h1v11h1v2v11h1v2v12h1v12h1v3v12h1v3v13h1v14h1v2v14h1v3v14h1v15h1v2v15h1v3v14h1v18h1v14h1v3v14h1v17h1v14h1v3v13h1v16h1v12h1v3v12h1v14h1v10h1v3v10h1v2v9h1v9h1v1v8h1v2v7h1v6h1v1v5h1v1v4h1v4h1v3h1v1h1v1h1v-1h1v-2h1v-3h1v-3h1v-1v-5h1v-6h1v-6h1v-2v-7h1v-10h1v-8h1v-2v-10h1v-2v-10h1v-11h1v-2v-12h1v-2v-13h1v-12h1v-3v-13h1v-3v-13h1v-14h1v-3v-14h1v-3v-14h1v-18h1v-14h1v-3v-14h1v-18h1v-14h1v-3v-14h1v-16h1v-14h1v-3v-13h1v-15h1v-12h1v-2v-12h1v-2v-11h1v-10h1v-2v-10h1v-1v-9h1v-8h1v-2v-7h1v-1v-6h1v-5h1v-1v-5h1v-1v-3h1v-3h1v-1h1v-1h1v1h1v1h1v1v2h1v4h1v5h1v1v5h1v8h1v7h1v1v8h1v2v9h1v9h1v2v11h1v2v11h1v11h1v3v12h1v2v13h1v13h1v3v13h1v3v14h1v17h1v14h1v3v14h1v18h1v14h1v3v14h1v18h1v14h1v2v14h1v16h1v14h1v2v13h1v2v12h1v12h1v2v11h1v2v11h1v9h1v2v9h1v1v8h1v8h1v1v6h1v1v6h1v5h1v3h1v1v2h1v2h1v1h1v-1h1v-1h1v-3h1v-4h1v-5h1v-5h1v-1v-7h1v-1v-7h1v-8h1v-2v-8h1v-2v-10h1v-10h1v-2v-11h1v-2v-12h1v-12h1v-2v-13h1v-2v-13h1v-17h1v-13h1v-3v-14h1v-17h1v-15h1v-3v-14h1v-18h1v-14h1v-3v-14h1v-17h1v-14h1v-3v-13h1v-3v-13h1v-13h1v-2v-13h1v-2v-11h1v-11h1v-3v-10h1v-2v-10h1v-8h1v-2v-8h1v-2v-7h1v-7h1v-6h1v-1v-4h1v-5h1v-2h1v-1v-1h1v-1h1v1h1v1h1v3h1v3h1v1v4h1v1v5h1v7h1v1v7h1v1v8h1v9h1v2v9h1v2v10h1v11h1v2v12h1v2v12h1v15h1v13h1v3v13h1v17h1v14h1v3v14h1v17h1v15h1v3v14h1v18h1v14h1v3v14h1v3v14h1v13h1v3v13h1v3v12h1v13h1v2v12h1v2v11h1v10h1v2v10h1v2v9h1v9h1v8h1v1v6h1v7h1v5h1v4h1v3h1v2h1v1h1v-1h1v-1h1v-2h1v-1v-3h1v-4h1v-1v-6h1v-1v-6h1v-7h1v-1v-8h1v-2v-8h1v-10h1v-2v-10h1v-2v-11h1v-13h1v-12h1v-3v-12h1v-16h1v-13h1v-3v-14h1v-17h1v-14h1v-3v-14h1v-18h1v-14h1v-3v-14h1v-3v-15h1v-14h1v-3v-13h1v-3v-14h1v-13h1v-3v-12h1v-3v-12h1v-12h1v-2v-11h1v-2v-11h1v-11h1v-9h1v-2v-8h1v-9h1v-6h1v-2v-5h1v-6h1v-4h1v-3h1v-2h1v-1h2v1v1h1v2h1v1v3h1v5h1v5h1v1v6h1v1v7h1v8h1v1v9h1v2v9h1v12h1v11h1v2v11h1v15h1v12h1v3v13h1v16h1v14h1v2v14h1v17h1v15h1v3v14h1v3v15h1v14h1v3v14h1v3v14h1v14h1v3v14h1v2v14h1v12h1v3v12h1v3v11h1v14h1v10h1v2v10h1v11h1v8h1v2v7h1v8h1v5h1v1v5h1v5h1v2h1v1v2h1v1h2v-2h1v-2h1v-3h1v-1v-4h1v-1v-5h1v-6h1v-1v-7h1v-1v-8h1v-10h1v-9h1v-2v-10h1v-13h1v-12h1v-2v-12h1v-15h1v-13h1v-2v-14h1v-16h1v-14h1v-3v-14h1v-3v-14h1v-15h1v-3v-14h1v-3v-15h1v-14h1v-3v-14h1v-3v-14h1v-13h1v-3v-13h1v-3v-13h1v-15h1v-11h1v-3v-11h1v-13h1v-9h1v-2v-9h1v-10h1v-8h1v-1v-7h1v-7h1v-4h1v-1v-4h1v-1v-3h1v-2h1v-1h2v1h1v1v2h1v3h1v4h1v1v5h1v1v6h1v8h1v8h1v1v9h1v11h1v10h1v2v10h1v14h1v12h1v2v13h1v15h1v14h1v2v14h1v3v14h1v14h1v3v14h1v3v14h1v15h1v3v14h1v3v15h1v14h1v3v14h1v2v14h1v16h1v13h1v2v13h1v14h1v11h1v2v11h1v12h1v9h1v2v8h1v9h1v7h1v1v6h1v1v5h1v4h1v3h1v1v2h1v1h2v-1h1v-2h1v-1v-3h1v-4h1v-6h1v-6h1v-1v-7h1v-9h1v-8h1v-2v-9h1v-12h1v-11h1v-2v-11h1v-14h1v-13h1v-2v-13h1v-3v-13h1v-14h1v-2v-14h1v-3v-14h1v-15h1v-3v-14h1v-3v-15h1v-14h1v-3v-14h1v-3v-14h1v-17h1v-14h1v-3v-13h1v-15h1v-13h1v-2v-12h1v-14h1v-10h1v-2v-10h1v-11h1v-9h1v-1v-8h1v-1v-7h1v-6h1v-1v-5h1v-1v-4h1v-3h1v-2h1v-1v-1h2v1h1v1v1h1v4h1v4h1v1v4h1v7h1v7h1v1v8h1v10h1v9h1v2v9h1v1v12h1v11h1v3v11h1v3v12h1v13h1v3v13h1v3v13h1v14h1v3v14h1v3v14h1v15h1v3v14h1v3v15h1v17h1v14h1v3v14h1v16h1v14h1v2v13h1v15h1v12h1v3v11h1v13h1v10h1v2v9h1v2v8h1v8h1v1v7h1v1v6h1v5h1v1v4h1v1v3h1v2h1v2h2v-1h1v-2h1v-1v-2h1v-5h1v-5h1v-1v-5h1v-8h1v-7h1v-2v-8h1v-11h1v-10h1v-2v-10h1v-3v-11h1v-11h1v-3v-12h1v-3v-13h1v-13h1v-2v-14h1v-3v-14h1v-14h1v-3v-14h1v-3v-14h1v-18h1v-14h1v-3v-15h1v-17h1v-14h1v-2v-14h1v-16h1v-13h1v-3v-12h1v-15h1v-11h1v-2v-11h1v-2v-10h1v-9h1v-2v-9h1v-1v-8h1v-7h1v-1v-6h1v-1v-5h1v-5h1v-3h1v-1v-2h1v-2h2v1h1v2h1v3h1v1v3h1v6h1v5h1v2v6h1v9h1v8h1v2v9h1v2v9h1v11h1v2v11h1v2v12h1v12h1v3v12h1v3v13h1v14h1v3v13h1v3v14h1v18h1v14h1v3v15h1v17h1v14h1v3v14h1v17h1v14h1v3v13h1v16h1v12h1v3v12h1v2v12h1v10h1v2v11h1v1v10h1v8h1v2v8h1v1v7h1v6h1v1v6h1v1v4h1v4h1v2h1v1h1v1h1v-1h1v-2h1v-3h1v-4h1v-5h1v-7h1v-6h1v-1v-8h1v-1v-8h1v-9h1v-2v-10h1v-2v-10h1v-11h1v-2v-12h1v-2v-13h1v-12h1v-3v-13h1v-3v-13h1v-17h1v-14h1v-3v-14h1v-18h1v-14h1v-3v-15h1v-17h1v-14h1v-3v-14h1v-17h1v-13h1v-3v-13h1v-2v-13h1v-12h1v-2v-12h1v-2v-11h1v-10h1v-2v-9h1v-2v-9h1v-8h1v-1v-7h1v-1v-7h1v-6h1v-4h1v-1v-3h1v-3h1v-1h1v-1h1v1h1v1h1v1v3h1v4h1v4h1v1v6h1v1v6h1v7h1v2v8h1v2v9h1v9h1v2v10h1v3v11h1v11h1v3v12h1v2v13h1v16h1v13h1v3v14h1v17h1v14h1v3v14h1v18h1v14h1v3v15h1v17h1v14h1v3v13h1v3v14h1v13h1v2v13h1v2v12h1v12h1v2v11h1v2v10h1v10h1v2v8h1v2v8h1v8h1v7h1v1v5h1v5h1v4h1v3h1v1h1v1h1v-1h1v-2h1v-2h1v-1v-3h1v-1v-4h1v-6h1v-1v-6h1v-1v-8h1v-8h1v-1v-9h1v-2v-9h1v-11h1v-2v-11h1v-2v-12h1v-14h1v-13h1v-2v-14h1v-16h1v-14h1v-2v-14h1v-18h1v-14h1v-3v-14h1v-18h1v-14h1v-3v-14h1v-3v-14h1v-14h1v-3v-13h1v-3v-13h1v-13h1v-2v-12h1v-3v-11h1v-11h1v-2v-11h1v-2v-9h1v-11h1v-8h1v-1v-7h1v-8h1v-5h1v-1v-5h1v-4h1v-2h1v-1v-1h1v-1h1v1h1v1h1v1v2h1v3h1v1v5h1v1v5h1v6h1v1v7h1v2v8h1v9h1v1v10h1v2v10h1v13h1v12h1v2v12h1v15h1v13h1v3v14h1v16h1v14h1v3v14h1v18h1v14h1v3v15h1v2v15h1v14h1v3v14h1v3v14h1v13h1v3v13h1v3v12h1v13h1v2v12h1v2v11h1v12h1v10h1v2v8h1v10h1v7h1v2v6h1v6h1v5h1v1v3h1v3h1v1" style="stroke-linejoin: miter; stroke: #00FF00; stroke-width: 1; fill: none;"></path>
+     <path d="M0,47v-3h1v-7h1v-4h1v-1v-3h1v-1v-2h1v-1h1v1h1v2h1v4h1v4h1v6h1v1v6h1v2v8h1v10h1v10h1v2v10h1v2v13h1v14h1v15h1v2v13h1v3v16h1v17h1v17h1v3v15h1v3v18h1v18h1v18h1v3v15h1v4v18h1v18h1v17h1v3v15h1v3v16h1v17h1v15h1v3v12h1v2v14h1v13h1v12h1v2v9h1v2v10h1v8h1v8h1v1v5h1v1v4h1v4h1v2h1v1h1v-1h1v-2h1v-4h1v-4h1v-1v-6h1v-8h1v-8h1v-2v-8h1v-2v-11h1v-12h1v-13h1v-2v-12h1v-2v-15h1v-15h1v-17h1v-2v-14h1v-3v-18h1v-17h1v-18h1v-3v-15h1v-4v-18h1v-18h1v-18h1v-3v-15h1v-3v-18h1v-17h1v-17h1v-3v-13h1v-3v-15h1v-15h1v-14h1v-2v-11h1v-2v-12h1v-10h1v-10h1v-1v-7h1v-2v-7h1v-6h1v-4h1v-1v-3h1v-2h1v-1h1v1h1v1v1h1v1v4h1v4h1v7h1v1v6h1v1v9h1v10h1v11h1v2v10h1v2v13h1v14h1v15h1v3v13h1v3v16h1v17h1v17h1v3v15h1v3v18h1v18h1v18h1v4v15h1v3v18h1v18h1v18h1v2v15h1v3v16h1v16h1v16h1v2v12h1v3v13h1v13h1v12h1v2v9h1v1v10h1v8h1v7h1v1v5h1v1v4h1v3h1v2h1v1h1v-1v-1h1v-2h1v-4h1v-5h1v-1v-6h1v-8h1v-9h1v-1v-8h1v-2v-11h1v-13h1v-13h1v-2v-12h1v-2v-15h1v-16h1v-16h1v-3v-14h1v-3v-18h1v-17h1v-19h1v-3v-15h1v-3v-18h1v-18h1v-19h1v-3v-15h1v-2v-18h1v-17h1v-17h1v-3v-13h1v-2v-16h1v-14h1v-14h1v-2v-11h1v-2v-11h1v-11h1v-9h1v-2v-6h1v-2v-6h1v-6h1v-4h1v-1v-2h1v-1v-1h1v-1v1h1v1h1v2h1v1v4h1v5h1v6h1v1v7h1v1v9h1v11h1v11h1v2v10h1v2v14h1v14h1v15h1v2v14h1v2v17h1v17h1v17h1v3v15h1v3v18h1v18h1v19h1v3v15h1v3v18h1v18h1v18h1v3v14h1v3v16h1v16h1v15h1v3v12h1v2v13h1v13h1v12h1v1v9h1v2v9h1v8h1v7h1v1v4h1v1v4h1v3h1v1h1v1v-1h1v-1h1v-3h1v-4h1v-1v-4h1v-1v-7h1v-8h1v-9h1v-1v-9h1v-2v-11h1v-13h1v-13h1v-2v-12h1v-3v-15h1v-16h1v-16h1v-3v-14h1v-3v-18h1v-18h1v-18h1v-3v-15h1v-3v-18h1v-19h1v-18h1v-3v-15h1v-3v-17h1v-17h1v-17h1v-2v-14h1v-2v-15h1v-14h1v-14h1v-2v-10h1v-2v-12h1v-10h1v-9h1v-1v-7h1v-1v-7h1v-5h1v-4h1v-1v-2h1v-1h1v-1v1h1v1h1v3h1v5h1v5h1v7h1v1v7h1v1v10h1v10h1v12h1v2v10h1v2v14h1v14h1v16h1v2v13h1v3v17h1v17h1v17h1v3v15h1v3v18h1v19h1v18h1v3v15h1v3v18h1v18h1v18h1v3v14h1v2v17h1v16h1v15h1v2v12h1v2v13h1v13h1v11h1v2v8h1v2v9h1v7h1v1v6h1v1v4h1v1v4h1v2h1v1h1v1v-1h1v-2h1v-3h1v-4h1v-1v-4h1v-1v-7h1v-9h1v-9h1v-2v-9h1v-1v-12h1v-13h1v-13h1v-3v-12h1v-2v-16h1v-16h1v-16h1v-3v-14h1v-3v-18h1v-18h1v-18h1v-3v-15h1v-3v-19h1v-18h1v-18h1v-3v-15h1v-3v-17h1v-17h1v-16h1v-3v-13h1v-3v-15h1v-14h1v-13h1v-2v-10h1v-2v-11h1v-10h1v-9h1v-1v-7h1v-1v-6h1v-5h1v-4h1v-2h1v-1v-1h1v1h1v2h1v3h1v5h1v6h1v7h1v1v7h1v1v10h1v11h1v11h1v3v10h1v2v14h1v15h1v15h1v3v13h1v3v17h1v17h1v18h1v2v15h1v3v19h1v18h1v18h1v3v16h1v3v18h1v17h1v18h1v3v14h1v2v17h1v15h1v15h1v2v12h1v2v13h1v12h1v12h1v1v8h1v2v9h1v7h1v6h1v1v4h1v1v4h1v2h1v1h1v-1h1v-2h1v-3h1v-5h1v-1v-5h1v-1v-7h1v-9h1v-9h1v-2v-9h1v-2v-12h1v-13h1v-14h1v-2v-12h1v-3v-15h1v-16h1v-17h1v-3v-14h1v-3v-18h1v-18h1v-18h1v-3v-16h1v-3v-18h1v-18h1v-18h1v-3v-15h1v-3v-17h1v-17h1v-16h1v-3v-13h1v-2v-15h1v-14h1v-13h1v-2v-10h1v-2v-11h1v-9h1v-9h1v-1v-6h1v-1v-6h1v-5h1v-4h1v-2h1v-1h1v1h1v2h1v1v3h1v5h1v6h1v8h1v1v7h1v2v9h1v11h1v12h1v2v11h1v3v14h1v14h1v16h1v2v14h1v3v17h1v17h1v18h1v3v15h1v3v18h1v18h1v19h1v3v15h1v3v18h1v17h1v18h1v3v13h1v3v16h1v16h1v14h1v3v11h1v3v12h1v12h1v11h1v2v8h1v1v9h1v7h1v6h1v4h1v1v3h1v2h1v1h1v-1h1v-3h1v-3h1v-5h1v-1v-5h1v-2v-7h1v-9h1v-10h1v-2v-9h1v-2v-12h1v-13h1v-14h1v-2v-13h1v-2v-16h1v-16h1v-17h1v-3v-15h1v-2v-18h1v-18h1v-19h1v-3v-15h1v-3v-18h1v-18h1v-18h1v-3v-15h1v-3v-17h1v-17h1v-16h1v-2v-13h1v-3v-14h1v-14h1v-13h1v-2v-10h1v-1v-11h1v-9h1v-9h1v-1v-6h1v-1v-6h1v-4h1v-3h1v-1v-1h1v-1v1h1v1h1v2h1v4h1v5h1v7h1v7h1v2v7h1v2v10h1v11h1v12h1v2v11h1v3v14h1v15h1v16h1v2v14h1v3v17h1v17h1v18h1v3v15h1v3v18h1v19h1v18h1v3v15h1v3v18h1v17h1v18h1v2v14h1v3v16h1v15h1v15h1v2v11h1v3v12h1v12h1v10h1v2v8h1v1v8h1v7h1v6h1v1v3h1v1v3h1v1h1v1v-1h1v-1h1v-3h1v-3h1v-6h1v-1v-5h1v-1v-8h1v-9h1v-10h1v-2v-9h1v-2v-13h1v-13h1v-14h1v-3v-12h1v-3v-16h1v-16h1v-17h1v-3v-15h1v-3v-17h1v-19h1v-18h1v-3v-15h1v-3v-18h1v-19h1v-18h1v-2v-15h1v-3v-17h1v-17h1v-16h1v-2v-13h1v-2v-15h1v-13h1v-13h1v-2v-9h1v-2v-10h1v-10h1v-8h1v-1v-5h1v-1v-6h1v-4h1v-3h1v-1h1v-1v1h1v1h1v3h1v4h1v6h1v6h1v8h1v2v7h1v2v10h1v12h1v12h1v2v12h1v2v14h1v15h1v16h1v3v14h1v3v17h1v17h1v18h1v3v15h1v3v18h1v19h1v18h1v3v15h1v3v18h1v18h1v17h1v2v14h1v3v16h1v15h1v14h1v2v11h1v3v12h1v11h1v11h1v1v8h1v1v8h1v7h1v5h1v1v3h1v1v2h1v1h1v1v-1h1v-1h1v-3h1v-5h1v-5h1v-1v-6h1v-1v-8h1v-9h1v-11h1v-2v-9h1v-2v-13h1v-13h1v-15h1v-2v-13h1v-3v-16h1v-16h1v-17h1v-3v-15h1v-3v-18h1v-18h1v-18h1v-3v-15h1v-3v-19h1v-18h1v-18h1v-3v-14h1v-3v-17h1v-16h1v-16h1v-3v-12h1v-3v-14h1v-13h1v-12h1v-2v-10h1v-1v-11h1v-8h1v-1v-7h1v-1v-6h1v-1v-5h1v-4h1v-2h1v-1h1v-1v1h1v1h1v3h1v1v4h1v1v5h1v7h1v8h1v2v8h1v1v11h1v12h1v12h1v3v11h1v2v15h1v15h1v16h1v3v14h1v3v17h1v17h1v18h1v3v15h1v3v19h1v18h1v18h1v3v15h1v3v18h1v18h1v17h1v2v14h1v3v15h1v15h1v14h1v3v10h1v3v12h1v11h1v10h1v1v8h1v1v8h1v6h1v5h1v1v3h1v3h1v1h1v-1h1v-2h1v-3h1v-5h1v-5h1v-2v-5h1v-2v-8h1v-10h1v-10h1v-2v-10h1v-2v-13h1v-14h1v-14h1v-3v-13h1v-2v-16h1v-17h1v-17h1v-3v-15h1v-3v-18h1v-18h1v-18h1v-3v-16h1v-3v-18h1v-18h1v-18h1v-3v-14h1v-3v-17h1v-16h1v-16h1v-2v-13h1v-2v-14h1v-13h1v-12h1v-2v-9h1v-2v-10h1v-8h1v-8h1v-1v-5h1v-1v-5h1v-3h1v-3h1v-1h1v1h1v2h1v3h1v1v4h1v1v6h1v7h1v8h1v2v8h1v2v11h1v12h1v12h1v3v11h1v3v14h1v16h1v16h1v3v14h1v3v17h1v18h1v17h1v4v15h1v3v18h1v18h1v19h1v3v15h1v3v17h1v18h1v16h1v3v14h1v2v16h1v15h1v13h1v3v10h1v3v11h1v11h1v10h1v2v7h1v1v7h1v6h1v5h1v1v3h1v1" style="stroke-linejoin: miter; stroke: #00FF00; stroke-width: 1; fill: none;"></path>
     </g>
    </svg>
    <g>
-    <g transform="translate(0,532)">
-     <path d="M0,-14V0M29,-7V0M59,-7V0M88,-7V0M117,-7V0M147,-14V0M176,-7V0M205,-7V0M235,-7V0M264,-7V0M293,-14V0M323,-7V0M352,-7V0M381,-7V0M411,-7V0M440,-14V0M469,-7V0M499,-7V0M528,-7V0M557,-7V0M587,-14V0M616,-7V0M645,-7V0M675,-7V0M704,-7V0M733,-14V0M763,-7V0M792,-7V0M821,-7V0M851,-7V0M880,-14V0" style="stroke: black;"></path>
+    <g transform="translate(0,560)">
+     <path d="M0,-14V0M27,-7V0M53,-7V0M80,-7V0M107,-7V0M133,-14V0M160,-7V0M187,-7V0M213,-7V0M240,-7V0M267,-14V0M293,-7V0M320,-7V0M347,-7V0M373,-7V0M400,-14V0M427,-7V0M453,-7V0M480,-7V0M507,-7V0M533,-14V0M560,-7V0M587,-7V0M613,-7V0M640,-7V0M667,-14V0M693,-7V0M720,-7V0M747,-7V0M773,-7V0M800,-14V0" style="stroke: black;"></path>
      <g font-family="Arial" font-size="21" space="preserve">
       <text text-anchor="middle" dy=".8em" transform="translate(0,4)">
        1
       </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(147,4)">
+      <text text-anchor="middle" dy=".8em" transform="translate(133,4)">
        1.5
       </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(293,4)">
+      <text text-anchor="middle" dy=".8em" transform="translate(267,4)">
        2
       </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(440,4)">
+      <text text-anchor="middle" dy=".8em" transform="translate(400,4)">
        2.5
       </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(587,4)">
+      <text text-anchor="middle" dy=".8em" transform="translate(533,4)">
        3
       </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(733,4)">
+      <text text-anchor="middle" dy=".8em" transform="translate(667,4)">
        3.5
       </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(880,4)">
+      <text text-anchor="middle" dy=".8em" transform="translate(800,4)">
        4
       </text>
-      <g transform="translate(885,-8)">
+      <g transform="translate(805,-8)">
        <text font-size="21">
         ×10
        </text>
@@ -47,34 +47,34 @@
       </g>
      </g>
     </g>
-    <g transform="translate(0,532)">
-     <path d="M20,-24H0M10,-48H0M10,-73H0M10,-97H0M10,-121H0M20,-145H0M10,-169H0M10,-193H0M10,-218H0M10,-242H0M20,-266H0M10,-290H0M10,-314H0M10,-339H0M10,-363H0M20,-387H0M10,-411H0M10,-435H0M10,-459H0M10,-484H0M20,-508H0" style="stroke: black;"></path>
+    <g transform="translate(0,560)">
+     <path d="M20,-25H0M10,-51H0M10,-76H0M10,-102H0M10,-127H0M20,-153H0M10,-178H0M10,-204H0M10,-229H0M10,-255H0M20,-280H0M10,-305H0M10,-331H0M10,-356H0M10,-382H0M20,-407H0M10,-433H0M10,-458H0M10,-484H0M10,-509H0M20,-535H0" style="stroke: black;"></path>
      <g font-family="Arial" font-size="21" space="preserve">
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-24)">
+      <text text-anchor="end" dy=".4em" transform="translate(-5,-25)">
        1000
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-145)">
+      <text text-anchor="end" dy=".4em" transform="translate(-5,-153)">
        1500
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-266)">
+      <text text-anchor="end" dy=".4em" transform="translate(-5,-280)">
        2000
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-387)">
+      <text text-anchor="end" dy=".4em" transform="translate(-5,-407)">
        2500
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-508)">
+      <text text-anchor="end" dy=".4em" transform="translate(-5,-535)">
        3000
       </text>
      </g>
     </g>
    </g>
   </g>
-  <g transform="translate(70,35)" font-family="Arial" font-size="49" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(440,18)">
+  <g transform="translate(100,21)" font-family="Arial" font-size="49" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(400,18)">
     Large RH1D histogram with 5000000 bins
    </text>
   </g>
-  <g transform="translate(630,98)">
+  <g transform="translate(580,84)">
    <rect x="0" width="300" y="0" height="210" style="stroke: black; stroke-width: 1; fill: #0000FF;"></rect>
    <g font-family="Arial" font-size="29" space="preserve">
     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(150,18)">

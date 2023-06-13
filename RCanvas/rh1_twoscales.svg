@@ -1,96 +1,96 @@
 <svg width="1200" height="800" viewBox="0 0 800 600" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
  <path d="M0,0H800V600H0Z" style="fill: white;"></path>
  <g>
-  <g transform="translate(56,72)">
-   <rect x="0" y="0" width="704" height="456" style="fill: none; stroke: black; stroke-width: 1;"></rect>
-   <svg x="0" y="0" overflow="hidden" width="704" height="456" viewBox="0 0 704 456">
+  <g transform="translate(80,60)">
+   <rect x="0" y="0" width="640" height="480" style="fill: none; stroke: black; stroke-width: 1;"></rect>
+   <svg x="0" y="0" overflow="hidden" width="640" height="480" viewBox="0 0 640 480">
     <g>
-     <path d="M0,456h56v-28h28v-43h29v-71h28v-129h28v-71h28v-92h28v15h28v170h29v129h28v62h28v47h28v7h28v4h310" style="stroke-linejoin: miter; stroke: #FF0000; stroke-width: 2; fill: none;"></path>
+     <path d="M0,480h51v-29h26v-46h25v-74h26v-136h26v-75h25v-97h26v16h25v178h26v136h26v66h25v50h26v6h25v5h282" style="stroke-linejoin: miter; stroke: #FF0000; stroke-width: 2; fill: none;"></path>
     </g>
     <g>
-     <path d="M0,456h197v-1h28v-1h28v-8h29v-13h28v-23h28v-76h28v-81h28v-89h28v-43h29v-87h28v-12h28v6h28v104h28v73h28v40h29v117h28v41h28v23h28" style="stroke-linejoin: miter; stroke: #0000FF; stroke-width: 4; fill: none;"></path>
+     <path d="M0,480h179v-1h26v-1h25v-8h26v-14h26v-25h25v-80h26v-84h25v-94h26v-46h26v-91h25v-13h26v7h25v109h26v76h26v43h25v123h26v43h25v25h26" style="stroke-linejoin: miter; stroke: #0000FF; stroke-width: 4; fill: none;"></path>
     </g>
    </svg>
    <g>
-    <g transform="translate(0,456)">
-     <path d="M0,-12V0M35,-6V0M70,-6V0M106,-6V0M141,-12V0M176,-6V0M211,-6V0M246,-6V0M282,-12V0M317,-6V0M352,-6V0M387,-6V0M422,-12V0M458,-6V0M493,-6V0M528,-6V0M563,-12V0M598,-6V0M634,-6V0M669,-6V0M704,-12V0" style="stroke: black;"></path>
+    <g transform="translate(0,480)">
+     <path d="M0,-12V0M32,-6V0M64,-6V0M96,-6V0M128,-12V0M160,-6V0M192,-6V0M224,-6V0M256,-12V0M288,-6V0M320,-6V0M352,-6V0M384,-12V0M416,-6V0M448,-6V0M480,-6V0M512,-12V0M544,-6V0M576,-6V0M608,-6V0M640,-12V0" style="stroke: black;"></path>
      <g font-family="Arial" font-size="18" space="preserve">
       <text text-anchor="middle" dy=".8em" transform="translate(0,3)">
        0
       </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(141,3)">
+      <text text-anchor="middle" dy=".8em" transform="translate(128,3)">
        2
       </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(282,3)">
+      <text text-anchor="middle" dy=".8em" transform="translate(256,3)">
        4
       </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(422,3)">
+      <text text-anchor="middle" dy=".8em" transform="translate(384,3)">
        6
       </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(563,3)">
+      <text text-anchor="middle" dy=".8em" transform="translate(512,3)">
        8
       </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(704,3)">
+      <text text-anchor="middle" dy=".8em" transform="translate(640,3)">
        10
       </text>
      </g>
     </g>
-    <g transform="translate(0,456)">
-     <path d="M16,0H0M8,-21H0M8,-43H0M8,-64H0M8,-86H0M16,-107H0M8,-129H0M8,-150H0M8,-172H0M8,-193H0M16,-215H0M8,-236H0M8,-258H0M8,-279H0M8,-301H0M16,-322H0M8,-344H0M8,-365H0M8,-387H0M8,-408H0M16,-430H0M8,-451H0" style="stroke: #FF0000;"></path>
+    <g transform="translate(0,480)">
+     <path d="M16,0H0M8,-23H0M8,-45H0M8,-68H0M8,-91H0M16,-113H0M8,-136H0M8,-158H0M8,-181H0M8,-204H0M16,-226H0M8,-249H0M8,-272H0M8,-294H0M8,-317H0M16,-339H0M8,-362H0M8,-385H0M8,-407H0M8,-430H0M16,-453H0M8,-475H0" style="stroke: #FF0000;"></path>
      <g font-family="Arial" font-size="18" space="preserve">
       <text text-anchor="end" dy=".4em" transform="translate(-4)">
        0
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-4,-107)">
+      <text text-anchor="end" dy=".4em" transform="translate(-4,-113)">
        50
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-4,-215)">
+      <text text-anchor="end" dy=".4em" transform="translate(-4,-226)">
        100
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-4,-322)">
+      <text text-anchor="end" dy=".4em" transform="translate(-4,-339)">
        150
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-4,-430)">
+      <text text-anchor="end" dy=".4em" transform="translate(-4,-453)">
        200
       </text>
      </g>
     </g>
-    <g transform="translate(704,456)">
-     <path d="M0,0H-16M0,-11H-8M0,-22H-8M0,-33H-8M0,-44H-8M0,-55H-16M0,-66H-8M0,-77H-8M0,-88H-8M0,-99H-8M0,-110H-16M0,-121H-8M0,-132H-8M0,-143H-8M0,-154H-8M0,-165H-16M0,-176H-8M0,-187H-8M0,-198H-8M0,-209H-8M0,-220H-16M0,-231H-8M0,-242H-8M0,-254H-8M0,-265H-8M0,-276H-16M0,-287H-8M0,-298H-8M0,-309H-8M0,-320H-8M0,-331H-16M0,-342H-8M0,-353H-8M0,-364H-8M0,-375H-8M0,-386H-16M0,-397H-8M0,-408H-8M0,-419H-8M0,-430H-8M0,-441H-16M0,-452H-8" style="stroke: #0000FF;"></path>
+    <g transform="translate(640,480)">
+     <path d="M0,0H-16M0,-12H-8M0,-23H-8M0,-35H-8M0,-46H-8M0,-58H-16M0,-70H-8M0,-81H-8M0,-93H-8M0,-104H-8M0,-116H-16M0,-128H-8M0,-139H-8M0,-151H-8M0,-162H-8M0,-174H-16M0,-186H-8M0,-197H-8M0,-209H-8M0,-220H-8M0,-232H-16M0,-244H-8M0,-255H-8M0,-267H-8M0,-278H-8M0,-290H-16M0,-302H-8M0,-313H-8M0,-325H-8M0,-336H-8M0,-348H-16M0,-360H-8M0,-371H-8M0,-383H-8M0,-394H-8M0,-406H-16M0,-418H-8M0,-429H-8M0,-441H-8M0,-453H-8M0,-464H-16M0,-476H-8" style="stroke: #0000FF;"></path>
      <g font-family="Arial" font-size="18" space="preserve">
       <text text-anchor="start" dy=".4em" transform="translate(4)">
        0
       </text>
-      <text text-anchor="start" dy=".4em" transform="translate(4,-55)">
+      <text text-anchor="start" dy=".4em" transform="translate(4,-58)">
        50
       </text>
-      <text text-anchor="start" dy=".4em" transform="translate(4,-110)">
+      <text text-anchor="start" dy=".4em" transform="translate(4,-116)">
        100
       </text>
-      <text text-anchor="start" dy=".4em" transform="translate(4,-165)">
+      <text text-anchor="start" dy=".4em" transform="translate(4,-174)">
        150
       </text>
-      <text text-anchor="start" dy=".4em" transform="translate(4,-220)">
+      <text text-anchor="start" dy=".4em" transform="translate(4,-232)">
        200
       </text>
-      <text text-anchor="start" dy=".4em" transform="translate(4,-276)">
+      <text text-anchor="start" dy=".4em" transform="translate(4,-290)">
        250
       </text>
-      <text text-anchor="start" dy=".4em" transform="translate(4,-331)">
+      <text text-anchor="start" dy=".4em" transform="translate(4,-348)">
        300
       </text>
-      <text text-anchor="start" dy=".4em" transform="translate(4,-386)">
+      <text text-anchor="start" dy=".4em" transform="translate(4,-406)">
        350
       </text>
-      <text text-anchor="start" dy=".4em" transform="translate(4,-441)">
+      <text text-anchor="start" dy=".4em" transform="translate(4,-464)">
        400
       </text>
      </g>
     </g>
    </g>
   </g>
-  <g transform="translate(56,30)" font-family="Arial" font-size="42" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(352,15)">
+  <g transform="translate(80,18)" font-family="Arial" font-size="42" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(320,15)">
     Two independent Y axes for histograms
    </text>
   </g>

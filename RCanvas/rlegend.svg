@@ -9,63 +9,63 @@
  </defs>
  <path d="M0,0H1000V700H0Z" style="fill: white;"></path>
  <g>
-  <g transform="translate(70,84)">
-   <rect x="0" y="0" width="880" height="532" style="fill: none; stroke: black; stroke-width: 1;"></rect>
-   <svg x="0" y="0" overflow="hidden" width="880" height="532" viewBox="0 0 880 532">
+  <g transform="translate(100,70)">
+   <rect x="0" y="0" width="800" height="560" style="fill: none; stroke: black; stroke-width: 1;"></rect>
+   <svg x="0" y="0" overflow="hidden" width="800" height="560" viewBox="0 0 800 560">
     <g>
-     <path d="M0,532h70v-24h36v-47h35v-94h35v-167h35v-88h35v-87h36v11h35v123h35v237h35v79h35v31h36v21h35v5h387" style="stroke-linejoin: miter; stroke: #FF0000; stroke-width: 2; fill: none;"></path>
+     <path d="M0,560h64v-25h32v-49h32v-99h32v-176h32v-94h32v-90h32v11h32v129h32v250h32v83h32v33h32v22h32v5h352" style="stroke-linejoin: miter; stroke: #FF0000; stroke-width: 2; fill: none;"></path>
     </g>
     <g>
-     <path d="M0,532h317v-8h35v-16h35v-20h35v-50h36v-68h35v-50h35v-54h35v-27h35v-120h36v71h35v70h35v100h35v26h35v55h36v57h35v10h35" style="stroke-linejoin: miter; stroke: #0000FF; stroke-width: 4; fill: none;"></path>
+     <path d="M0,560h288v-8h32v-17h32v-22h32v-52h32v-71h32v-53h32v-57h32v-28h32v-126h32v74h32v74h32v105h32v27h32v58h32v60h32v11h32" style="stroke-linejoin: miter; stroke: #0000FF; stroke-width: 4; fill: none;"></path>
     </g>
    </svg>
    <g>
-    <g transform="translate(0,532)">
-     <path d="M0,-14V0M44,-7V0M88,-7V0M132,-7V0M176,-14V0M220,-7V0M264,-7V0M308,-7V0M352,-14V0M396,-7V0M440,-7V0M484,-7V0M528,-14V0M572,-7V0M616,-7V0M660,-7V0M704,-14V0M748,-7V0M792,-7V0M836,-7V0M880,-14V0" style="stroke: black;"></path>
+    <g transform="translate(0,560)">
+     <path d="M0,-14V0M40,-7V0M80,-7V0M120,-7V0M160,-14V0M200,-7V0M240,-7V0M280,-7V0M320,-14V0M360,-7V0M400,-7V0M440,-7V0M480,-14V0M520,-7V0M560,-7V0M600,-7V0M640,-14V0M680,-7V0M720,-7V0M760,-7V0M800,-14V0" style="stroke: black;"></path>
      <g font-family="Arial" font-size="21" space="preserve">
       <text text-anchor="middle" dy=".8em" transform="translate(0,4)">
        0
       </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(176,4)">
+      <text text-anchor="middle" dy=".8em" transform="translate(160,4)">
        2
       </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(352,4)">
+      <text text-anchor="middle" dy=".8em" transform="translate(320,4)">
        4
       </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(528,4)">
+      <text text-anchor="middle" dy=".8em" transform="translate(480,4)">
        6
       </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(704,4)">
+      <text text-anchor="middle" dy=".8em" transform="translate(640,4)">
        8
       </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(880,4)">
+      <text text-anchor="middle" dy=".8em" transform="translate(800,4)">
        10
       </text>
      </g>
     </g>
-    <g transform="translate(0,532)">
-     <path d="M20,0H0M10,-26H0M10,-52H0M10,-78H0M10,-104H0M20,-131H0M10,-157H0M10,-183H0M10,-209H0M10,-235H0M20,-261H0M10,-287H0M10,-313H0M10,-340H0M10,-366H0M20,-392H0M10,-418H0M10,-444H0M10,-470H0M10,-496H0M20,-522H0" style="stroke: black;"></path>
+    <g transform="translate(0,560)">
+     <path d="M20,0H0M10,-27H0M10,-55H0M10,-82H0M10,-110H0M20,-137H0M10,-165H0M10,-192H0M10,-220H0M10,-247H0M20,-275H0M10,-302H0M10,-330H0M10,-357H0M10,-385H0M20,-412H0M10,-440H0M10,-467H0M10,-495H0M10,-522H0M20,-550H0" style="stroke: black;"></path>
      <g font-family="Arial" font-size="21" space="preserve">
       <text text-anchor="end" dy=".4em" transform="translate(-5)">
        0
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-131)">
+      <text text-anchor="end" dy=".4em" transform="translate(-5,-137)">
        50
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-261)">
+      <text text-anchor="end" dy=".4em" transform="translate(-5,-275)">
        100
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-392)">
+      <text text-anchor="end" dy=".4em" transform="translate(-5,-412)">
        150
       </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-522)">
+      <text text-anchor="end" dy=".4em" transform="translate(-5,-550)">
        200
       </text>
      </g>
     </g>
    </g>
   </g>
-  <g transform="translate(630,98)" font-family="Arial" font-size="41" space="preserve">
+  <g transform="translate(580,84)" font-family="Arial" font-size="41" space="preserve">
    <rect x="0" width="300" y="0" height="210" style="stroke: #FF0000; stroke-width: 2; fill: url(#pat_3019_000078);"></rect>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(150,26)">
     Legend title
