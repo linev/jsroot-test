@@ -55,6 +55,13 @@
        1
       </text>
      </g>
+     <g font-family="Arial" font-size="13" space="preserve" transform="translate(478,21)">
+      <g transform="translate(-6,5)">
+       <text fill="black" font-size="13">
+        ε
+       </text>
+      </g>
+     </g>
     </g>
     <g>
      <path d="M0,0v300M18,300H0M9,294H0M9,288H0M9,283H0M9,277H0M18,271H0M9,265H0M9,259H0M9,253H0M9,248H0M18,242H0M9,236H0M9,230H0M9,224H0M9,218H0M18,213H0M9,207H0M9,201H0M9,195H0M9,189H0M18,183H0M9,178H0M9,172H0M9,166H0M9,160H0M18,154H0M9,148H0M9,143H0M9,137H0M9,131H0M18,125H0M9,119H0M9,113H0M9,108H0M9,102H0M18,96H0M9,90H0M9,84H0M9,78H0M9,73H0M18,67H0M9,61H0M9,55H0M9,49H0M9,43H0M18,38H0M9,32H0M9,26H0M9,20H0M9,14H0M18,8H0M9,3H0" style="stroke: black; stroke-width: 1;"></path>
@@ -93,15 +100,20 @@
        5
       </text>
      </g>
+     <g font-family="Arial" font-size="13" space="preserve" transform="translate(-33)">
+      <g transform="rotate(270) translate(-24,5)">
+       <text fill="black" font-size="13">
+        P(ε)
+       </text>
+      </g>
+     </g>
     </g>
    </g>
   </g>
   <g transform="translate(60,2)" font-family="Arial" font-size="19" space="preserve">
-   <g transform="translate(83,20)">
-    <text fill="black" font-size="21">
-     Beta distributions as priors;ε;P(ε)
-    </text>
-   </g>
+   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(239)">
+    Beta distributions as priors
+   </text>
   </g>
   <g transform="translate(150,41)" font-family="Arial" font-size="28" space="preserve">
    <path d="M0,0H359V146H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
