@@ -3,10 +3,6 @@
  <g>
   <g transform="translate(120,77)">
    <path d="M0,0H598V580H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <g>
-    <path d="M50,0v580M100,0v580M150,0v580M199,0v580M249,0v580M299,0v580M349,0v580M399,0v580M449,0v580M498,0v580M548,0v580" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-    <path d="M0,551h598M0,522h598M0,493h598M0,464h598M0,435h598M0,406h598M0,377h598M0,348h598M0,319h598M0,290h598M0,261h598M0,232h598M0,203h598M0,174h598M0,145h598M0,116h598M0,87h598M0,58h598M0,29h598" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-   </g>
    <svg x="0" y="0" overflow="hidden" width="598" height="580" viewBox="0 0 598 580">
     <g>
      <g font-family="Arial" font-size="19" space="preserve" fill="black" text-anchor="middle">
@@ -792,6 +788,8 @@
       </text>
      </g>
     </g>
+    <path d="M50,0v580M100,0v580M150,0v580M199,0v580M249,0v580M299,0v580M349,0v580M399,0v580M449,0v580M498,0v580M548,0v580" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+    <path d="M0,551h598M0,522h598M0,493h598M0,464h598M0,435h598M0,406h598M0,377h598M0,348h598M0,319h598M0,290h598M0,261h598M0,232h598M0,203h598M0,174h598M0,145h598M0,116h598M0,87h598M0,58h598M0,29h598" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
    </g>
   </g>
   <g transform="translate(100,4)" font-family="Arial" font-size="39" space="preserve">

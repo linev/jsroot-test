@@ -3,10 +3,6 @@
  <g>
   <g transform="translate(90,71)">
    <path d="M0,0H718V355H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <g>
-    <path d="M0,0v355M36,0v355M72,0v355M108,0v355M144,0v355M180,0v355M215,0v355M251,0v355M287,0v355M323,0v355M359,0v355M395,0v355M431,0v355M467,0v355M503,0v355M539,0v355M574,0v355M610,0v355M646,0v355M682,0v355M718,0v355" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-    <path d="M0,339h718M0,303h718M0,267h718M0,231h718M0,195h718M0,160h718M0,124h718M0,88h718M0,52h718M0,16h718" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-   </g>
    <svg x="0" y="0" overflow="hidden" width="718" height="355" viewBox="0 0 718 355">
     <g>
      <path d="M0,59h36v43h36v172h36v-186h36v172h36v-129h35v208h36v-22h36v-122h36v-43h36v72h36v-143h36v-36h36v86h36v-115h36v115h35v-57h36v93h36v21h36v29h36L718,358H0Z" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: #7d9ad2;"></path>
@@ -113,6 +109,8 @@
       </text>
      </g>
     </g>
+    <path d="M0,0v355M36,0v355M72,0v355M108,0v355M144,0v355M180,0v355M215,0v355M251,0v355M287,0v355M323,0v355M359,0v355M395,0v355M431,0v355M467,0v355M503,0v355M539,0v355M574,0v355M610,0v355M646,0v355M682,0v355M718,0v355" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+    <path d="M0,339h718M0,303h718M0,267h718M0,231h718M0,195h718M0,160h718M0,124h718M0,88h718M0,52h718M0,16h718" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
    </g>
   </g>
   <g transform="translate(90,2)" font-family="Arial" font-size="24" space="preserve">

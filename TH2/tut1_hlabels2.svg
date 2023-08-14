@@ -3,10 +3,6 @@
  <g>
   <g transform="translate(90,57)">
    <path d="M0,0H448V430H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <g>
-    <path d="M0,0v430M22,0v430M45,0v430M67,0v430M90,0v430M112,0v430M134,0v430M157,0v430M179,0v430M202,0v430M224,0v430M246,0v430M269,0v430M291,0v430M314,0v430M336,0v430M358,0v430M381,0v430M403,0v430M426,0v430M448,0v430" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-    <path d="M0,430h448M0,394h448M0,358h448M0,323h448M0,287h448M0,251h448M0,215h448M0,179h448M0,143h448M0,108h448M0,72h448M0,36h448M0,0h448" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-   </g>
    <svg x="0" y="0" overflow="hidden" width="448" height="430" viewBox="0 0 448 430">
     <g>
      <g font-family="Arial" font-size="14" space="preserve" fill="black" text-anchor="middle">
@@ -840,6 +836,8 @@
       </text>
      </g>
     </g>
+    <path d="M0,0v430M22,0v430M45,0v430M67,0v430M90,0v430M112,0v430M134,0v430M157,0v430M179,0v430M202,0v430M224,0v430M246,0v430M269,0v430M291,0v430M314,0v430M336,0v430M358,0v430M381,0v430M403,0v430M426,0v430M448,0v430" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+    <path d="M0,430h448M0,394h448M0,358h448M0,323h448M0,287h448M0,251h448M0,215h448M0,179h448M0,143h448M0,108h448M0,72h448M0,36h448M0,0h448" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
    </g>
   </g>
   <g transform="translate(75,3)" font-family="Arial" font-size="29" space="preserve">
