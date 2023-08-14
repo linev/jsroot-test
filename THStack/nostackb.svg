@@ -3,9 +3,6 @@
  <g>
   <g transform="translate(60,37)">
    <path d="M0,0H477V298H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <g>
-    <path d="M0,0v298M119,0v298M239,0v298M358,0v298M477,0v298" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-   </g>
    <svg x="0" y="0" overflow="hidden" width="477" height="298" viewBox="0 0 477 298">
     <g>
      <path d="M1,297h15v1h-15zM49,291h15v7h-15zM96,252h15v46h-15zM144,145h15v153h-15zM192,14h15v284h-15zM240,18h15v280h-15zM287,147h15v151h-15zM335,250h15v48h-15zM383,291h15v7h-15zM430,297h15v1h-15z" style="fill: red;"></path>
@@ -64,6 +61,7 @@
       </text>
      </g>
     </g>
+    <path d="M0,0v298M119,0v298M239,0v298M358,0v298M477,0v298" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
    </g>
   </g>
   <g transform="translate(92,2)" font-family="Arial" font-size="19" space="preserve">

@@ -8,10 +8,6 @@
  <g>
   <g transform="translate(70,47)">
    <path d="M0,0H558V379H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <g>
-    <path d="M0,0v379M51,0v379M101,0v379M152,0v379M203,0v379M254,0v379M304,0v379M355,0v379M406,0v379M457,0v379M507,0v379M558,0v379" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-    <path d="M0,379h558M0,316h558M0,253h558M0,190h558M0,126h558M0,63h558M0,0h558" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-   </g>
    <svg x="0" y="0" overflow="hidden" width="558" height="379" viewBox="0 0 558 379">
     <g>
      <path d="M25,286l26,-30l25,-28l25,-27l26,-25l25,-24l26,-20l25,-19l25,-15l26,-13l25,-10l25,-7l26,-4l25,-1l25,3l26,5l25,9l26,12l25,14l25,18v37l-25,-12l-25,-9l-26,-7l-25,-5l-26,-2l-25,1l-25,3l-26,6l-25,8l-25,10l-26,12l-25,15l-25,17l-26,18l-25,20l-26,22l-25,23l-25,23l-26,25Z" style="fill: url(#pat_3013_16);"></path>
@@ -95,6 +91,8 @@
       </text>
      </g>
     </g>
+    <path d="M0,0v379M51,0v379M101,0v379M152,0v379M203,0v379M254,0v379M304,0v379M355,0v379M406,0v379M457,0v379M507,0v379M558,0v379" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+    <path d="M0,379h558M0,316h558M0,253h558M0,190h558M0,126h558M0,63h558M0,0h558" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
    </g>
   </g>
  </g>

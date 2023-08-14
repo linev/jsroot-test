@@ -205,9 +205,6 @@
    <g>
     <g transform="translate(34,28)">
      <path d="M0,0H268V221H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <g>
-      <path d="M0,205h268M0,174h268M0,142h268M0,111h268M0,79h268M0,47h268M0,16h268" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-     </g>
      <svg x="0" y="0" overflow="hidden" width="268" height="221" viewBox="0 0 268 221">
       <g>
        <path d="M7,147l13,-14l14,16l13,-19l14,16l13,-47l13,-24l14,101l13,-109l13,32l14,25l13,-41l13,3l14,15l13,21l13,-4l14,-9l13,-28l14,39l13,53" style="stroke: black; stroke-width: 1; fill: none;"></path>
@@ -272,6 +269,7 @@
         </text>
        </g>
       </g>
+      <path d="M0,205h268M0,174h268M0,142h268M0,111h268M0,79h268M0,47h268M0,16h268" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
      </g>
     </g>
     <g transform="translate(92,1)" font-family="Arial" font-size="12" space="preserve">

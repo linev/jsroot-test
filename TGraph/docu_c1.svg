@@ -3,10 +3,6 @@
  <g>
   <g transform="translate(60,37)">
    <path d="M0,0H477V298H0Z" style="fill: #ccc7ab; stroke: black; stroke-width: 1;"></path>
-   <g>
-    <path d="M0,0v298M46,0v298M91,0v298M137,0v298M183,0v298M228,0v298M274,0v298M320,0v298M365,0v298M411,0v298M456,0v298" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-    <path d="M0,273h477M0,242h477M0,211h477M0,180h477M0,149h477M0,118h477M0,87h477M0,56h477M0,25h477" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-   </g>
    <svg x="0" y="0" overflow="hidden" width="477" height="298" viewBox="0 0 477 298">
     <g>
      <path d="M0,273.17Q13.69,254.97,22.82,243.14C31.95,231.31,36.52,225.43,45.65,214.02S59.34,196.98,68.47,186.11S82.16,169.91,91.29,159.69S104.99,144.49,114.11,135.02S127.81,120.97,136.94,112.34S150.63,99.58,159.76,91.88S173.45,80.55,182.58,73.86S196.28,64.05,205.41,58.43S219.1,50.26,228.23,45.77S241.92,39.31,251.05,36S264.75,31.32,273.88,29.21S287.57,26.35,296.7,25.48S310.39,24.47,319.52,24.83S333.22,25.69,342.34,27.29S356.04,30,365.17,32.81S378.86,37.35,387.99,41.35S401.68,47.67,410.81,52.82Q429.21,64.05,433.64,67.12" style="stroke: red; stroke-width: 4; fill: none;"></path>
@@ -94,6 +90,8 @@
       </text>
      </g>
     </g>
+    <path d="M0,0v298M46,0v298M91,0v298M137,0v298M183,0v298M228,0v298M274,0v298M320,0v298M365,0v298M411,0v298M456,0v298" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+    <path d="M0,273h477M0,242h477M0,211h477M0,180h477M0,149h477M0,118h477M0,87h477M0,56h477M0,25h477" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
    </g>
   </g>
   <g transform="translate(198,2)" font-family="Arial" font-size="18" space="preserve">
