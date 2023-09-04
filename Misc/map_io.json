@@ -1,0 +1,63 @@
+{
+ "_typename": "o2::quality_control::core::QualityObject",
+ "fUniqueID": 0,
+ "fBits": 33554432,
+ "mQuality": {
+  "_typename": "o2::quality_control::core::Quality",
+  "mLevel": 3,
+  "mName": "Bad",
+  "mUserMetadata": [
+   {
+    "_typename": "pair<string,string>",
+    "first": "Bad",
+    "second": "RangeCheck: Out of range of ExpectedValue(65.00) by more than #pm5.00 \n"
+   },
+   {
+    "_typename": "pair<string,string>",
+    "first": "Comment",
+    "second": ""
+   },
+   {
+    "_typename": "pair<string,string>",
+    "first": "Good",
+    "second": ""
+   },
+   {
+    "_typename": "pair<string,string>",
+    "first": "Medium",
+    "second": ""
+   },
+   {
+    "_typename": "pair<string,string>",
+    "first": "Null",
+    "second": ""
+   }
+  ],
+  "mReasons": []
+ },
+ "mCheckName": "PID_Mips_Trending",
+ "mDetectorName": "TPC",
+ "mPolicyName": "OnEachSeparately",
+ "mInputs": [
+  "PTPC/PID_Trending/0"
+ ],
+ "mMonitorObjectsNames": [
+  "PID_Trending/hdEdxTotMIP_TPC_StatMean_Trend"
+ ],
+ "mActivity": {
+  "_typename": "o2::quality_control::core::Activity",
+  "mId": 542255,
+  "mType": 0,
+  "mPeriodName": "LHC23zt",
+  "mPassName": "",
+  "mProvenance": "qc",
+  "mValidity": {
+   "_typename": "o2::math_utils::detail::Bracket<unsigned long>",
+   "mMin": 1693399792331,
+   "mMax": 1693400993585
+  },
+  "mBeamType": "",
+  "mPartitionName": "2hNStPe1Bvh",
+  "mFillNumber": 0
+ }
+}
