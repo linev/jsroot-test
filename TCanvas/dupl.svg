@@ -99,5 +99,30 @@
     test hist
    </text>
   </g>
+  <g transform="translate(544,31)" font-family="Arial" font-size="14" space="preserve" fill="black">
+   <path d="M0,0H140V76H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <text text-anchor="middle" dy=".4em" transform="translate(70,10)">
+    test
+   </text>
+   <text text-anchor="start" dy=".4em" transform="translate(7,29)">
+    Entries
+   </text>
+   <text text-anchor="end" dy=".4em" transform="translate(133,29)">
+    1000
+   </text>
+   <text text-anchor="start" dy=".4em" transform="translate(7,48)">
+    Mean
+   </text>
+   <text text-anchor="end" dy=".4em" transform="translate(133,48)">
+    0.01124
+   </text>
+   <text text-anchor="start" dy=".4em" transform="translate(7,67)">
+    Std Dev
+   </text>
+   <text text-anchor="end" dy=".4em" transform="translate(133,67)">
+    1.005
+   </text>
+   <path d="M0,19h140" style="stroke: black; stroke-width: 1;"></path>
+  </g>
  </g>
 </svg>
