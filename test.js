@@ -12,31 +12,30 @@ import xml_formatter from 'xml-formatter';
 
 console.log(`JSROOT version  ${version_id} ${version_date}`);
 
-let jsroot_path = './../jsroot'
+const jsroot_path = './../jsroot',
 
-let examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`));
+ examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`));
 
-examples_main.TH1.push({ name: "B_local", file: "file://other/hsimple.root", item: "hpx;1", opt:"B,fill_green", title: "draw histogram as bar chart" });
-examples_main.TTree.push({ name: "2d_local", asurl: true, file: "file://other/hsimple.root", item: "ntuple", opt: "px:py", title: "Two-dimensional TTree::Draw" });
+examples_main.TH1.push({ name: 'B_local', file: 'file://other/hsimple.root', item: 'hpx;1', opt: 'B,fill_green', title: 'draw histogram as bar chart' });
+examples_main.TTree.push({ name: '2d_local', asurl: true, file: 'file://other/hsimple.root', item: 'ntuple', opt: 'px:py', title: 'Two-dimensional TTree::Draw' });
 
 let init_style = null, init_palette = 57,
-    test_mode = "verify", nmatch = 0, ndiff = 0, nnew = 0,
+    test_mode = 'verify', nmatch = 0, ndiff = 0, nnew = 0,
     keyid = 'TH1', theonlykey = false, optid = -1,
     theOnlyOption, theOnlyOptionId = -100, itemid = -1,
-    entry, entry_name = "", testfile = null, testobj = null,
-    all_diffs = [],
+    entry, entry_name = '', testfile = null, testobj = null,
     last_time = new Date().getTime();
+const all_diffs = [];
 
 if (process.argv && (process.argv.length > 2)) {
-
-   for (let cnt=2;cnt<process.argv.length;++cnt)
-      switch (process.argv[cnt]) {
-        case "-v":
-        case "--verify":  test_mode = "verify"; break;
-        case "-c":
-        case "--create": test_mode = "create"; break;
-        case "-k":
-        case "--key":
+   for (let cnt=2; cnt<process.argv.length; ++cnt) {
+ switch (process.argv[cnt]) {
+        case '-v':
+        case '--verify':  test_mode = 'verify'; break;
+        case '-c':
+        case '--create': test_mode = 'create'; break;
+        case '-k':
+        case '--key':
            keyid = process.argv[++cnt];
            theonlykey = true;
            if (!keyid || !examples_main[keyid]) {
@@ -44,20 +43,20 @@ if (process.argv && (process.argv.length > 2)) {
                process.exit();
            }
            break;
-        case "-o":
-        case "--opt":
+        case '-o':
+        case '--opt':
            theOnlyOption = process.argv[++cnt];
            theOnlyOptionId = parseInt(theOnlyOption);
-           if (isNaN(theOnlyOptionId) || (theOnlyOptionId<0) || !examples_main[keyid][theOnlyOptionId]) {
+           if (isNaN(theOnlyOptionId) || (theOnlyOptionId<0) || !examples_main[keyid][theOnlyOptionId])
               theOnlyOptionId = -100;
-           } else {
+            else {
               console.log('Select option', examples_main[keyid][theOnlyOptionId], 'for key', keyid);
               optid = theOnlyOptionId - 1;
-              theOnlyOption = "";
+              theOnlyOption = '';
            }
            break;
-        case "-m":
-        case "--more": {
+        case '-m':
+        case '--more': {
            const examples_more = JSON.parse(readFileSync(`${jsroot_path}/demo/examples_more.json`));
 
            for (const key in examples_more) {
@@ -68,8 +67,8 @@ if (process.argv && (process.argv.length > 2)) {
            }
            break;
         }
-        case "-i":
-        case "--ignore":
+        case '-i':
+        case '--ignore':
             process.env.NODE_TLS_REJECT_UNAUTHORIZED = 0;
             break;
 
@@ -84,6 +83,7 @@ if (process.argv && (process.argv.length > 2)) {
            process.exit();
       }
 }
+}
 
 function ProduceGlobalStyleCopy() {
    // copy style when painter is loaded
@@ -97,49 +97,51 @@ function ProduceFile(content, extension, subid) {
    if (!entry_name) entry_name = keyid;
 
    entry_name = entry_name.replace(/ /g, '_')
-                          .replace(/\+/g,'p').replace(/>/g,'more')
-                          .replace(/</g,'less').replace(/\|/g,'I')
-                          .replace(/\[/g,'L').replace(/\]/g,'J').replace(/\*/g,'star');
+                          .replace(/\+/g, 'p').replace(/>/g, 'more')
+                          .replace(/</g, 'less').replace(/\|/g, 'I')
+                          .replace(/\[/g, 'L').replace(/\]/g, 'J').replace(/\*/g, 'star');
 
    let use_name = entry_name;
    if (subid)
       use_name += '_' + subid;
 
-   if ((extension == '.svg') && content)
-      content = xml_formatter(content, {indentation: ' ', lineSeparator: '\n' });
+   if ((extension === '.svg') && content)
+      content = xml_formatter(content, { indentation: ' ', lineSeparator: '\n' });
 
    try {
       accessSync(keyid, fs_constants.W_OK);
-   } catch(err) {
+   } catch (err) {
       mkdirSync(keyid);
    }
 
-   let svgname = keyid + '/' + use_name + extension,
-       svg0 = null, result = 'MATCH', ispng = (extension == '.png'),
-       clen = content.length ?? content.byteLength;
+   const svgname = keyid + '/' + use_name + extension,
+         ispng = (extension === '.png'),
+         clen = content.length ?? content.byteLength;
+   let svg0 = null, result = 'MATCH';
 
    try {
      svg0 = readFileSync(svgname, ispng ? undefined : 'utf-8');
 
-     let match = (svg0 == content);
+     let match = (svg0 === content);
 
      if (ispng) {
         match = (svg0?.byteLength === clen);
 
         if (match) {
-           let view0 = new Int8Array(svg0),
-               view1 = new Int8Array(content);
-           for (let i = 0; i < clen; ++i)
-              if (view0[i] != view1[i]) {
+           const view0 = new Int8Array(svg0),
+                 view1 = new Int8Array(content);
+           for (let i = 0; i < clen; ++i) {
+              if (view0[i] !== view1[i]) {
                  match = false; break;
               }
+           }
         }
      }
 
      if (!match) result = 'DIFF';
-   } catch(e) {
+   } catch (e) {
      svg0 = null;
-     result = "NEW";
+     result = 'NEW';
    }
 
 //   // workaround to ignore alice variation, to let enable TGeo testings
@@ -150,20 +152,20 @@ function ProduceFile(content, extension, subid) {
 //   }
 
    switch (result) {
-      case "NEW": nnew++; break;
-      case "DIFF": ndiff++; break;
+      case 'NEW': nnew++; break;
+      case 'DIFF': ndiff++; break;
       default: nmatch++;
    }
 
-   let clen0 = svg0?.length ?? svg0?.byteLength ?? 0;
-   console.log(keyid, use_name, 'result', result, 'len='+clen, (clen0 && result=='DIFF' ? 'rel0='+(100*clen/clen0).toFixed(1)+'%' : ''));
+   const clen0 = svg0?.length ?? svg0?.byteLength ?? 0;
+   console.log(keyid, use_name, 'result', result, 'len='+clen, (clen0 && result === 'DIFF' ? 'rel0='+(100*clen/clen0).toFixed(1)+'%' : ''));
 
-   if (result === "DIFF") all_diffs.push(svgname);
+   if (result === 'DIFF') all_diffs.push(svgname);
 
-   if ((result === "NEW") || ((test_mode === 'create') && (result!=='MATCH'))) {
+   if ((result === 'NEW') || ((test_mode === 'create') && (result !== 'MATCH'))) {
       if (clen > 0)
          writeFileSync(svgname, content);
-      else if (result !== "NEW")
+      else if (result !== 'NEW')
          unlink(svgname);
    }
 
@@ -171,7 +173,6 @@ function ProduceFile(content, extension, subid) {
 }
 
 function ProduceSVG(object, option) {
-
    // use only for object reading
    if ((theOnlyOptionId >= 0) && theOnlyOptionId !== optid)
       return processNextOption();
@@ -179,7 +180,7 @@ function ProduceSVG(object, option) {
    if (entry.reset_funcs)
       object.fFunctions = create('TList');
 
-   let args = { format: 'svg', object, option, width: 1200, height: 800, use_canvas_size: !entry.large };
+   const args = { format: 'svg', object, option, width: 1200, height: 800, use_canvas_size: !entry.large };
 
    if (entry.aspng) {
       args.format = 'png';
@@ -193,26 +194,24 @@ function ProduceSVG(object, option) {
 }
 
 function ProcessURL(url) {
-
    readStyleFromURL(url);
 
-   let hpainter = new HierarchyPainter("testing", null);
+   const hpainter = new HierarchyPainter('testing', null);
 
    hpainter.setDisplay('batch');
 
    hpainter.createDisplay()
            .then(() => hpainter.startGUI(null, url))
            .then(() => {
-
-      let disp = hpainter.getDisplay();
-      if (disp.numFrames() == 0) {
+      const disp = hpainter.getDisplay();
+      if (disp.numFrames() === 0) {
          console.log(' Processing url: ', url);
          console.log('   !!! BATCH URL CREATES NO FRAME !!!', keyid, entry_name);
       }
       for (let n = 0; n < disp.numFrames(); ++n) {
-         let json = disp.makeJSON(n, 1);
+         const json = disp.makeJSON(n, 1);
          if (json) ProduceFile(json, '.json', n);
-         let svg = json ? "" : disp.makeSVG(n);
+         const svg = json ? '' : disp.makeSVG(n);
          if (svg) ProduceFile(svg, '.svg', n);
       }
 
@@ -222,42 +221,41 @@ function ProcessURL(url) {
 
 
 function processNextOption(reset_mathjax) {
-
    if (!keyid) {
-      if (all_diffs.length) console.log("ALL DIFFS", all_diffs);
+      if (all_diffs.length) console.log('ALL DIFFS', all_diffs);
       console.log('No more data to process');
-      console.log("SUMMARY: match", nmatch, "diff", ndiff, "new", nnew);
+      console.log('SUMMARY: match', nmatch, 'diff', ndiff, 'new', nnew);
       return;
    }
 
    // make timeout to avoid deep callstack
-   let curr_time = new Date().getTime();
+   const curr_time = new Date().getTime();
    if ((curr_time - last_time > 10000) && !reset_mathjax) {
       last_time = curr_time;
       return setTimeout(() => processNextOption(), 1);
    }
 
-   let opts = examples_main[keyid];
+   const opts = examples_main[keyid];
    if (!opts) return;
 
    if (!reset_mathjax) {
-      if ((itemid>=0) || (itemid==-2)) {
-         if (itemid==-2) itemid = -1; // special workaround for style entry, which is marked as itemid=-2
+      if ((itemid >= 0) || (itemid === -2)) {
+         if (itemid === -2) itemid = -1; // special workaround for style entry, which is marked as itemid=-2
          if (++itemid>=opts[optid].items.length) itemid = -1;
       }
 
       if (itemid < 0) { // first check that all items are processed
-         if (theOnlyOptionId == optid) {
+         if (theOnlyOptionId === optid) {
             keyid = null;
             return processNextOption();
          }
          if (++optid >= opts.length) {
             optid = -1;
             let found = false, next = null;
-            for (let key in examples_main) {
+            for (const key in examples_main) {
                // if (key === "TGeo") continue; // skip already here
                if (found) { next = key; break; }
-               if (key == keyid) found = true;
+               if (key === keyid) found = true;
             }
 
             keyid = next;
@@ -272,34 +270,35 @@ function processNextOption(reset_mathjax) {
    if ((theOnlyOptionId >= 0) && !entry.file && !entry.json && !entry.url) {
       let rid = optid;
       while (--rid >= 0) {
-         let sentry = opts[rid];
+         const sentry = opts[rid];
          if (sentry.file && sentry.item) {
             entry.file = sentry.file; entry.item = sentry.item; break;
          }
       }
    }
 
-   entry_name = "";
+   entry_name = '';
 
    // exclude some entries from the test
    if (entry.notest) return processNextOption();
 
-   if (((entry.latex === 'mathjax') || entry.reset_mathjax) && !reset_mathjax)
+   if (((entry.latex === 'mathjax') || entry.reset_mathjax) && !reset_mathjax) {
       return loadMathjax().then(mj => {
          mj.startup.defaultReady();
          console.log('Loading MathJax and doing extra reset!!!')
          processNextOption(true);
       });
+   }
 
-   let filename = "", itemname = "", jsonname = "", url = "", opt = "", opt2 = "",
-       filepath = "http://jsroot.gsi.de/files/";
+   let filename = '', itemname = '', jsonname = '', url = '', opt = '', opt2 = '';
+   const filepath = 'http://jsroot.gsi.de/files/';
 //       filepath = "https://root.cern.ch/js/files/";
 
    if (entry.file) {
        filename = entry.file;
-       if ((filename.indexOf("http:") < 0) &&
-           (filename.indexOf("https:") < 0) &&
-           (filename.indexOf("file:") < 0)) filename = filepath + filename;
+       if ((filename.indexOf('http:') < 0) &&
+           (filename.indexOf('https:') < 0) &&
+           (filename.indexOf('file:') < 0)) filename = filepath + filename;
    }
    if (entry.item)
       itemname = entry.item;
@@ -311,16 +310,15 @@ function processNextOption(reset_mathjax) {
 
    if (entry.json) {
       jsonname = entry.json;
-      if ((jsonname.indexOf("http:")<0) && (jsonname.indexOf("https:")<0)) jsonname = filepath + jsonname;
+      if ((jsonname.indexOf('http:')<0) && (jsonname.indexOf('https:')<0)) jsonname = filepath + jsonname;
    }
    if (entry.items) {
       if (itemid < 0) {
-         if ((itemid==-1) && entry.style) {
+         if ((itemid === -1) && entry.style) {
             itemid = -2;
             itemname = entry.style; // special case when style should be applied before objects drawing
-         } else {
+         } else
            itemid = 0;
-         }
       }
       if (itemid >= 0) {
          itemname = entry.items[itemid];
@@ -328,31 +326,31 @@ function processNextOption(reset_mathjax) {
       }
    }
 
-   if (entry.r3d) opt2 = (opt ? "," : "") + "r3d_" + entry.r3d;
+   if (entry.r3d) opt2 = (opt ? ',' : '') + 'r3d_' + entry.r3d;
 
    if (entry.url)
       url = entry.url.replace(/\$\$\$/g, filepath).replace(/inject=demo/g, `inject=${jsroot_path}/demo`);
    else if (entry.asurl) {
-      url = ((entry.asurl === "browser") ? "?" : "?nobrowser&");
-      url += jsonname ? "json=" + jsonname : "file=" + filename + "&item=" + itemname;
-      if (keyid === "TTree") {
-         if ((opt.indexOf(">>") < 0) && (opt.indexOf("dump") < 0) && (opt.indexOf("testio") < 0))
-            opt += ">>dump;num:10";
+      url = ((entry.asurl === 'browser') ? '?' : '?nobrowser&');
+      url += jsonname ? 'json=' + jsonname : 'file=' + filename + '&item=' + itemname;
+      if (keyid === 'TTree') {
+         if ((opt.indexOf('>>') < 0) && (opt.indexOf('dump') < 0) && (opt.indexOf('testio') < 0))
+            opt += '>>dump;num:10';
       }
-      url += "&opt=" + opt + opt2;
+      url += '&opt=' + opt + opt2;
    }
 
    // if ((opt=='inspect') || (opt=='count')) return processNextOption();
 
    if (itemid >= 0)
-      entry_name = (entry.name || keyid) + "_" + itemname + (opt ? "_" + opt : "");
+      entry_name = (entry.name || keyid) + '_' + itemname + (opt ? '_' + opt : '');
    else if ('name' in entry)
       entry_name = entry.name;
    else
       entry_name = opt || keyid;
 
    if (theOnlyOption) {
-      if (entry_name != theOnlyOption) return processNextOption();
+      if (entry_name !== theOnlyOption) return processNextOption();
       console.log('Select option', entry);
    }
 
@@ -383,7 +381,7 @@ function processNextOption(reset_mathjax) {
          testfile = file;
          return testfile.readObject(itemname);
       }).then(obj => {
-         if (itemid==-2) {
+         if (itemid === -2) {
             // special handling of style
             // Check that copy of gStyle exists
             ProduceGlobalStyleCopy();
@@ -401,9 +399,8 @@ function processNextOption(reset_mathjax) {
          testobj = obj;
          ProduceSVG(testobj, opt+opt2);
       });
-   } else {
+   } else
       ProduceSVG(testobj, opt+opt2);
-   }
 }
 
 processNextOption();
