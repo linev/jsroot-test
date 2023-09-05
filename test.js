@@ -5,7 +5,7 @@ import { createRootColors } from 'jsroot/colors';
 
 import { HierarchyPainter } from 'jsroot/hierarchy';
 
-import { testInteractivity } from 'jsroot/draw';
+import { testInteractivity } from 'jsroot/testing';
 
 import { loadMathjax } from 'jsroot/latex';
 
