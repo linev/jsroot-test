@@ -1,7 +1,5 @@
 import { gStyle, version_id, version_date, create, settings, constants, internals, httpRequest, openFile, makeImage, readStyleFromURL } from 'jsroot';
 
-console.log(`JSROOT version  ${version_id} ${version_date}`);
-
 import { createRootColors } from 'jsroot/colors';
 
 import { HierarchyPainter } from 'jsroot/hierarchy';
@@ -11,6 +9,8 @@ import { loadMathjax } from 'jsroot/latex';
 import { readFileSync, mkdirSync, accessSync, writeFileSync, unlink, constants as fs_constants } from 'fs';
 
 import xml_formatter from 'xml-formatter';
+
+console.log(`JSROOT version  ${version_id} ${version_date}`);
 
 let jsroot_path = './../jsroot'
 
@@ -57,19 +57,20 @@ if (process.argv && (process.argv.length > 2)) {
            }
            break;
         case "-m":
-        case "--more":
-           let examples_more = JSON.parse(readFileSync(`${jsroot_path}/demo/examples_more.json`));
+        case "--more": {
+           const examples_more = JSON.parse(readFileSync(`${jsroot_path}/demo/examples_more.json`));
 
-           for (let key in examples_more) {
+           for (const key in examples_more) {
               if (examples_main[key])
                  examples_main[key].push(...examples_more[key]);
               else
                  examples_main[key] = examples_more[key];
            }
            break;
+        }
         case "-i":
         case "--ignore":
-            process.env["NODE_TLS_REJECT_UNAUTHORIZED"] = 0;
+            process.env.NODE_TLS_REJECT_UNAUTHORIZED = 0;
             break;
 
         default:
@@ -96,15 +97,15 @@ function ProduceFile(content, extension, subid) {
    if (!entry_name) entry_name = keyid;
 
    entry_name = entry_name.replace(/ /g, '_')
-                          .replace(/\+/g,'p').replace(/\>/g,'more')
-                          .replace(/\</g,'less').replace(/\|/g,'I')
+                          .replace(/\+/g,'p').replace(/>/g,'more')
+                          .replace(/</g,'less').replace(/\|/g,'I')
                           .replace(/\[/g,'L').replace(/\]/g,'J').replace(/\*/g,'star');
 
    let use_name = entry_name;
    if (subid)
       use_name += '_' + subid;
 
-   if (extension == '.svg')
+   if ((extension == '.svg') && content)
       content = xml_formatter(content, {indentation: ' ', lineSeparator: '\n' });
 
    try {
@@ -155,7 +156,7 @@ function ProduceFile(content, extension, subid) {
    }
 
    let clen0 = svg0?.length ?? svg0?.byteLength ?? 0;
-   console.log(keyid, use_name, 'result', result, 'len='+clen, (clen0 && result=='DIFF' ? 'rel0='+(100.*clen/clen0).toFixed(1)+'\%' : ''));
+   console.log(keyid, use_name, 'result', result, 'len='+clen, (clen0 && result=='DIFF' ? 'rel0='+(100*clen/clen0).toFixed(1)+'%' : ''));
 
    if (result === "DIFF") all_diffs.push(svgname);
 
@@ -178,7 +179,7 @@ function ProduceSVG(object, option) {
    if (entry.reset_funcs)
       object.fFunctions = create('TList');
 
-   let args = { format: 'svg', object, option, width: 1200, height: 800, use_canvas_size: entry.large ? false : true };
+   let args = { format: 'svg', object, option, width: 1200, height: 800, use_canvas_size: !entry.large };
 
    if (entry.aspng) {
       args.format = 'png';
@@ -283,9 +284,9 @@ function processNextOption(reset_mathjax) {
    // exclude some entries from the test
    if (entry.notest) return processNextOption();
 
-   if (((entry.latex === "mathjax") || entry.reset_mathjax) && !reset_mathjax)
-      return loadMathjax().then(() => {
-         MathJax.startup.defaultReady();
+   if (((entry.latex === 'mathjax') || entry.reset_mathjax) && !reset_mathjax)
+      return loadMathjax().then(mj => {
+         mj.startup.defaultReady();
          console.log('Loading MathJax and doing extra reset!!!')
          processNextOption(true);
       });
@@ -348,7 +349,7 @@ function processNextOption(reset_mathjax) {
    else if ('name' in entry)
       entry_name = entry.name;
    else
-      entry_name = opt ? opt : keyid;
+      entry_name = opt || keyid;
 
    if (theOnlyOption) {
       if (entry_name != theOnlyOption) return processNextOption();
