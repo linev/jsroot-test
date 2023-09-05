@@ -5,6 +5,8 @@ import { createRootColors } from 'jsroot/colors';
 
 import { HierarchyPainter } from 'jsroot/hierarchy';
 
+import { testInteractivity } from 'jsroot/draw';
+
 import { loadMathjax } from 'jsroot/latex';
 
 import { readFileSync, mkdirSync, accessSync, writeFileSync, unlink, constants as fs_constants } from 'fs';
@@ -15,7 +17,7 @@ console.log(`JSROOT version  ${version_id} ${version_date}`);
 
 const jsroot_path = './../jsroot',
       examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`)),
-      filepath = 'https://jsroot.gsi.de/files/';
+      filepath = 'http://jsroot.gsi.de/files/';
 //       filepath = "https://root.cern.ch/js/files/";
 
 examples_main.TH1.push({ name: 'B_local', file: 'file://other/hsimple.root', item: 'hpx;1', opt: 'B,fill_green', title: 'draw histogram as bar chart' });
@@ -147,10 +149,10 @@ function produceFile(content, extension, subid) {
    }
 
 //   // workaround to ignore alice variation, to let enable TGeo testings
-// if ((result == "DIFF") && (keyid == "TGeo") && (entry_name == "alice") && (Math.abs(svg0.length - content.length) < 0.01*svg0.length)) {
+// if ((result === 'DIFF') && (keyid === 'TGeo') && (entry_name == 'alice') && (Math.abs(svg0.length - content.length) < 0.01*svg0.length)) {
 //      console.log('!! Ignore alice variation for now !!');
 //      content = svg0;
-//      result = "MATCH";
+//      result = 'MATCH';
 //   }
 
    switch (result) {
@@ -162,7 +164,8 @@ function produceFile(content, extension, subid) {
    const clen0 = svg0?.length ?? svg0?.byteLength ?? 0;
    console.log(keyid, use_name, 'result', result, 'len='+clen, (clen0 && result === 'DIFF' ? 'rel0='+(100*clen/clen0).toFixed(1)+'%' : ''));
 
-   if (result === 'DIFF') all_diffs.push(svgname);
+   if (result === 'DIFF')
+      all_diffs.push(svgname);
 
    if ((result === 'NEW') || ((test_mode === 'create') && (result !== 'MATCH'))) {
       if (clen > 0)
@@ -170,9 +173,6 @@ function produceFile(content, extension, subid) {
       else if (result !== 'NEW')
          unlink(svgname);
    }
-
-   if (subid === undefined)
-      processNextOption();
 }
 
 function produceSVG(object, option) {
@@ -194,7 +194,9 @@ function produceSVG(object, option) {
        if (entry.reset_funcs)
           object.fFunctions = create(clTList);
        produceFile(code, entry.aspng ? '.png' : '.svg');
-   });
+
+       return (keyid === 'TH1') && (optid < 10) ? testInteractivity(args) : true;
+   }).then(() => processNextOption());
 }
 
 function processURL(url) {
