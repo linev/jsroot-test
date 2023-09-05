@@ -3,7 +3,8 @@
 JavaScript ROOT testing with Node.js v12
 
 This is set of tests for basic JSROOT functionality, using Node.js.
-On the first place one checks generation of SVG files.
+On the first place one checks generation of SVG/PNG/JSON files.
+Optionally one also can enable interactivity testing
 
 
 ## Installing

@@ -20,6 +20,10 @@ const jsroot_path = './../jsroot',
       filepath = 'http://jsroot.gsi.de/files/';
 //       filepath = "https://root.cern.ch/js/files/";
 
+// uncomment to be able use https fwith jsroot.gsi.de server
+//  process.env.NODE_TLS_REJECT_UNAUTHORIZED = 0;
+
+
 examples_main.TH1.push({ name: 'B_local', file: 'file://other/hsimple.root', item: 'hpx;1', opt: 'B,fill_green', title: 'draw histogram as bar chart' });
 examples_main.TTree.push({ name: '2d_local', asurl: true, file: 'file://other/hsimple.root', item: 'ntuple', opt: 'px:py', title: 'Two-dimensional TTree::Draw' });
 
@@ -28,7 +32,8 @@ let init_style = null, init_palette = 57,
     keyid = 'TH1', theonlykey = false, optid = -1,
     theOnlyOption, theOnlyOptionId = -100, itemid = -1,
     entry, entry_name = '', testfile = null, testobj = null,
-    last_time = new Date().getTime();
+    last_time = new Date().getTime(),
+    test_interactive = false;
 const all_diffs = [];
 
 if (process.argv && (process.argv.length > 2)) {
@@ -72,8 +77,8 @@ if (process.argv && (process.argv.length > 2)) {
            break;
         }
         case '-i':
-        case '--ignore':
-            process.env.NODE_TLS_REJECT_UNAUTHORIZED = 0;
+        case '--interactive':
+            test_interactive = true;
             break;
 
         default:
@@ -83,7 +88,7 @@ if (process.argv && (process.argv.length > 2)) {
            console.log('   -k | --key keyname : select specific key (class name) like TH1 or TProfile for testing');
            console.log('   -o | --opt id : select specific option id (number or name), only when key is specified');
            console.log('   -m | --more : use more tests');
-           console.log('   -i | --ignore : ignore TLS checks');
+           console.log('   -i | --interactive : enable interactivity checks (except TGeo)');
            process.exit();
       }
    }
@@ -195,7 +200,7 @@ function produceSVG(object, option) {
           object.fFunctions = create(clTList);
        produceFile(code, entry.aspng ? '.png' : '.svg');
 
-       return (keyid === 'TH1') && (optid < 10) ? testInteractivity(args) : true;
+       return test_interactive && (keyid !== 'TGeo') ? testInteractivity(args) : true;
    }).then(() => processNextOption());
 }
 
