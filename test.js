@@ -1,4 +1,5 @@
-import { gStyle, version_id, version_date, create, settings, constants, internals, httpRequest, openFile, makeImage, readStyleFromURL } from 'jsroot';
+import { gStyle, version_id, version_date, create, settings, constants,
+         internals, httpRequest, openFile, makeImage, readStyleFromURL, clTList } from 'jsroot';
 
 import { createRootColors } from 'jsroot/colors';
 
@@ -13,7 +14,9 @@ import xml_formatter from 'xml-formatter';
 console.log(`JSROOT version  ${version_id} ${version_date}`);
 
 const jsroot_path = './../jsroot',
-      examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`));
+      examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`)),
+      filepath = 'https://jsroot.gsi.de/files/';
+//       filepath = "https://root.cern.ch/js/files/";
 
 examples_main.TH1.push({ name: 'B_local', file: 'file://other/hsimple.root', item: 'hpx;1', opt: 'B,fill_green', title: 'draw histogram as bar chart' });
 examples_main.TTree.push({ name: '2d_local', asurl: true, file: 'file://other/hsimple.root', item: 'ntuple', opt: 'px:py', title: 'Two-dimensional TTree::Draw' });
@@ -178,7 +181,7 @@ function produceSVG(object, option) {
       return processNextOption();
 
    if (entry.reset_funcs)
-      object.fFunctions = create('TList');
+      object.fFunctions = create(clTList);
 
    const args = { format: 'svg', object, option, width: 1200, height: 800, use_canvas_size: !entry.large };
 
@@ -188,8 +191,9 @@ function produceSVG(object, option) {
    }
 
    makeImage(args).then(code => {
+       if (entry.reset_funcs)
+          object.fFunctions = create(clTList);
        produceFile(code, entry.aspng ? '.png' : '.svg');
-       if (entry.reset_funcs) object.fFunctions = create('TList');
    });
 }
 
@@ -291,8 +295,6 @@ function processNextOption(reset_mathjax) {
    }
 
    let filename = '', itemname = '', jsonname = '', url = '', opt = '', opt2 = '';
-   const filepath = 'http://jsroot.gsi.de/files/';
-//       filepath = "https://root.cern.ch/js/files/";
 
    if (entry.file) {
        filename = entry.file;
