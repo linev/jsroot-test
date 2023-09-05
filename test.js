@@ -13,8 +13,7 @@ import xml_formatter from 'xml-formatter';
 console.log(`JSROOT version  ${version_id} ${version_date}`);
 
 const jsroot_path = './../jsroot',
-
- examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`));
+      examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`));
 
 examples_main.TH1.push({ name: 'B_local', file: 'file://other/hsimple.root', item: 'hpx;1', opt: 'B,fill_green', title: 'draw histogram as bar chart' });
 examples_main.TTree.push({ name: '2d_local', asurl: true, file: 'file://other/hsimple.root', item: 'ntuple', opt: 'px:py', title: 'Two-dimensional TTree::Draw' });
@@ -29,7 +28,7 @@ const all_diffs = [];
 
 if (process.argv && (process.argv.length > 2)) {
    for (let cnt=2; cnt<process.argv.length; ++cnt) {
- switch (process.argv[cnt]) {
+      switch (process.argv[cnt]) {
         case '-v':
         case '--verify':  test_mode = 'verify'; break;
         case '-c':
@@ -82,10 +81,10 @@ if (process.argv && (process.argv.length > 2)) {
            console.log('   -i | --ignore : ignore TLS checks');
            process.exit();
       }
-}
+   }
 }
 
-function ProduceGlobalStyleCopy() {
+function produceGlobalStyleCopy() {
    // copy style when painter is loaded
    if (!init_style && gStyle) {
       init_style = Object.assign({}, gStyle);
@@ -93,7 +92,7 @@ function ProduceGlobalStyleCopy() {
    }
 }
 
-function ProduceFile(content, extension, subid) {
+function produceFile(content, extension, subid) {
    if (!entry_name) entry_name = keyid;
 
    entry_name = entry_name.replace(/ /g, '_')
@@ -169,10 +168,11 @@ function ProduceFile(content, extension, subid) {
          unlink(svgname);
    }
 
-   if (subid === undefined) processNextOption();
+   if (subid === undefined)
+      processNextOption();
 }
 
-function ProduceSVG(object, option) {
+function produceSVG(object, option) {
    // use only for object reading
    if ((theOnlyOptionId >= 0) && theOnlyOptionId !== optid)
       return processNextOption();
@@ -188,12 +188,12 @@ function ProduceSVG(object, option) {
    }
 
    makeImage(args).then(code => {
-       ProduceFile(code, entry.aspng ? '.png' : '.svg');
+       produceFile(code, entry.aspng ? '.png' : '.svg');
        if (entry.reset_funcs) object.fFunctions = create('TList');
    });
 }
 
-function ProcessURL(url) {
+function processURL(url) {
    readStyleFromURL(url);
 
    const hpainter = new HierarchyPainter('testing', null);
@@ -210,9 +210,9 @@ function ProcessURL(url) {
       }
       for (let n = 0; n < disp.numFrames(); ++n) {
          const json = disp.makeJSON(n, 1);
-         if (json) ProduceFile(json, '.json', n);
+         if (json) produceFile(json, '.json', n);
          const svg = json ? '' : disp.makeSVG(n);
-         if (svg) ProduceFile(svg, '.svg', n);
+         if (svg) produceFile(svg, '.svg', n);
       }
 
       processNextOption();
@@ -241,7 +241,7 @@ function processNextOption(reset_mathjax) {
    if (!reset_mathjax) {
       if ((itemid >= 0) || (itemid === -2)) {
          if (itemid === -2) itemid = -1; // special workaround for style entry, which is marked as itemid=-2
-         if (++itemid>=opts[optid].items.length) itemid = -1;
+         if (++itemid >= opts[optid].items.length) itemid = -1;
       }
 
       if (itemid < 0) { // first check that all items are processed
@@ -354,7 +354,7 @@ function processNextOption(reset_mathjax) {
       console.log('Select option', entry);
    }
 
-   ProduceGlobalStyleCopy();
+   produceGlobalStyleCopy();
    if (!entry.style && init_style)
       Object.assign(gStyle, init_style);
 
@@ -369,12 +369,12 @@ function processNextOption(reset_mathjax) {
 
    if (url.length > 0) {
       testfile = testobj = null;
-      return ProcessURL(url);
+      return processURL(url);
    } else if (jsonname.length > 0) {
       testfile = testobj = null;
       httpRequest(jsonname, 'object').then(obj => {
          testobj = obj;
-         ProduceSVG(testobj, opt+opt2);
+         produceSVG(testobj, opt+opt2);
       });
    } else if (filename.length > 0) {
       openFile(filename).then(file => {
@@ -384,23 +384,23 @@ function processNextOption(reset_mathjax) {
          if (itemid === -2) {
             // special handling of style
             // Check that copy of gStyle exists
-            ProduceGlobalStyleCopy();
+            produceGlobalStyleCopy();
             // first create copy of existing style
             // then apply changes to the
             Object.assign(gStyle, obj);
             return processNextOption();
          } else {
             testobj = obj;
-            ProduceSVG(testobj, opt+opt2);
+            produceSVG(testobj, opt+opt2);
          }
       });
    } else if (itemname.length > 0) {
       testfile.readObject(itemname).then(obj => {
          testobj = obj;
-         ProduceSVG(testobj, opt+opt2);
+         produceSVG(testobj, opt+opt2);
       });
    } else
-      ProduceSVG(testobj, opt+opt2);
+      produceSVG(testobj, opt+opt2);
 }
 
 processNextOption();
