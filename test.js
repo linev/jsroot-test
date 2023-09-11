@@ -81,6 +81,12 @@ if (process.argv && (process.argv.length > 2)) {
             test_interactive = true;
             break;
 
+        case '-ni':
+        case '--not-interactive':
+            test_interactive = 0;
+            break;
+
+
         default:
            console.log('Usage: node test.js [options]');
            console.log('   -v | --verify : check stored content against current JSROOT version');
@@ -200,7 +206,11 @@ function produceSVG(object, option) {
           object.fFunctions = create(clTList);
        produceFile(code, entry.aspng ? '.png' : '.svg');
 
-       return test_interactive && (keyid !== 'TGeo') ? testInteractivity(args) : true;
+       let do_testing = (entry.interactive !== false) &&
+                        ((entry.interactive && test_interactive !== 0) ||
+                         (test_interactive && (keyid !== 'TGeo')));
+
+       return do_testing ? testInteractivity(args) : true;
    }).then(() => processNextOption());
 }
 
