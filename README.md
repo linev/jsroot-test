@@ -1,6 +1,6 @@
 # jsroot-test
 
-JavaScript ROOT testing with Node.js v12
+JavaScript ROOT testing with Node.js
 
 This is set of tests for basic JSROOT functionality, using Node.js.
 On the first place one checks generation of SVG/PNG/JSON files.
@@ -41,6 +41,10 @@ Run tests and overwrite test SVG files:
 Run more tests:
 
     [shell] node test.js --create --more
+
+Run with interactivity tests:
+
+    [shell] node test.js --create --more --interactive --key TH2
 
 Run with `xvfb` to get reproducible results on different platforms:
 
