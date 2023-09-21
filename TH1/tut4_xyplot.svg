@@ -17,18 +17,6 @@
      <path d="M0,0v379M0,374H0M0,365H0M0,356H0M0,347H0M0,339H0M0,330H0M0,321H0M0,312H0M0,304H0M0,295H0M0,286H0M0,277H0M0,268H0M0,260H0M0,251H0M0,242H0M0,233H0M0,225H0M0,216H0M0,207H0M0,198H0M0,190H0M0,181H0M0,172H0M0,163H0M0,154H0M0,146H0M0,137H0M0,128H0M0,119H0M0,111H0M0,102H0M0,93H0M0,84H0M0,75H0M0,67H0M0,58H0M0,49H0M0,40H0M0,32H0M0,23H0M0,14H0M0,5H0" style="stroke: white; stroke-width: 1;"></path>
     </g>
    </g>
-   <g>
-    <g font-family="Arial" font-size="10" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="end" transform="translate(376) rotate(-90)">
-      Y axis
-     </text>
-    </g>
-    <g font-family="Arial" font-size="10" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="end" transform="translate(558,225)">
-      X axis
-     </text>
-    </g>
-   </g>
   </g>
   <g transform="translate(301,2)" font-family="Arial" font-size="22" space="preserve">
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(49,15)">
@@ -58,6 +46,11 @@
     </text>
    </g>
   </g>
+  <g font-family="Arial" font-size="13" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="end" transform="translate(446,47) rotate(-90)">
+    Y axis
+   </text>
+  </g>
   <g transform="translate(70,237)">
    <path d="M0,0h558M8,-10V0M27,-5V0M46,-5V0M66,-5V0M85,-10V0M105,-5V0M124,-5V0M143,-5V0M163,-10V0M182,-5V0M202,-5V0M221,-5V0M240,-10V0M260,-5V0M279,-5V0M298,-5V0M318,-10V0M337,-5V0M357,-5V0M376,-5V0M395,-10V0M415,-5V0M434,-5V0M453,-5V0M473,-10V0M492,-5V0M512,-5V0M531,-5V0M550,-10V0" style="stroke: black; stroke-width: 1;"></path>
    <g font-family="Arial" font-size="19" space="preserve" font-weight="bold" fill="black" text-anchor="middle">
@@ -86,6 +79,11 @@
      4
     </text>
    </g>
+  </g>
+  <g font-family="Arial" font-size="13" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="end" transform="translate(628,272)">
+    X axis
+   </text>
   </g>
  </g>
 </svg>

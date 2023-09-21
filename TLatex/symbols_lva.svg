@@ -83,88 +83,86 @@
     <path d="M0,0v378M40,0v378M79,0v378M119,0v378M159,0v378M199,0v378M238,0v378M278,0v378M318,0v378M357,0v378M397,0v378" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
     <path d="M0,378h397M0,340h397M0,302h397M0,265h397M0,227h397M0,189h397M0,151h397M0,113h397M0,76h397M0,38h397M0,0h397" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
    </g>
-   <g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" dy=".8em" transform="translate(79,38)">
-      K_{S}
-     </text>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" dy=".8em" transform="translate(119,38)">
-      K^{*0}
-     </text>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" dy=".8em" transform="translate(79,76)">
-      K_{S}... K^{*0}... #frac{2s}{πα^{2}}#frac{dσ}{dcosθ} (e^{+}e^{-} → f{f} ) =| #frac{1}{1 - Δα} |^{2} (1+cos^{2}θ)
-     </text>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(79,151)">
-      K_{S}
-     </text>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(119,151)">
-      K^{*0}
-     </text>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(79,189)">
-      K_{S}... K^{*0}... #frac{2s}{πα^{2}}#frac{dσ}{dcosθ} (e^{+}e^{-} → f{f} ) =| #frac{1}{1 - Δα} |^{2} (1+cos^{2}θ)
-     </text>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(79,227)">
-      K_{S}
-     </text>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(119,227)">
-      K^{*0}
-     </text>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(79,265)">
-      K_{S}... K^{*0}... #frac{2s}{πα^{2}}#frac{dσ}{dcosθ} (e^{+}e^{-} → f{f} ) =| #frac{1}{1 - Δα} |^{2} (1+cos^{2}θ)
-     </text>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(79,302)">
-      K_{S}
-     </text>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(119,302)">
-      K^{*0}
-     </text>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(79,340)">
-      K_{S}... K^{*0}... #frac{2s}{πα^{2}}#frac{dσ}{dcosθ} (e^{+}e^{-} → f{f} ) =| #frac{1}{1 - Δα} |^{2} (1+cos^{2}θ)
-     </text>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold" font-style="oblique">
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(40,76)">
-      13
-     </text>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold" font-style="oblique">
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(40,170)">
-      12
-     </text>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold" font-style="oblique">
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(40,246)">
-      11
-     </text>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold" font-style="oblique">
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(40,310)">
-      10
-     </text>
-    </g>
-   </g>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="start" dy=".8em" transform="translate(129,85)">
+    K_{S}
+   </text>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="start" dy=".8em" transform="translate(169,85)">
+    K^{*0}
+   </text>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="start" dy=".8em" transform="translate(129,123)">
+    K_{S}... K^{*0}... #frac{2s}{πα^{2}}#frac{dσ}{dcosθ} (e^{+}e^{-} → f{f} ) =| #frac{1}{1 - Δα} |^{2} (1+cos^{2}θ)
+   </text>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(129,198)">
+    K_{S}
+   </text>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(169,198)">
+    K^{*0}
+   </text>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(129,236)">
+    K_{S}... K^{*0}... #frac{2s}{πα^{2}}#frac{dσ}{dcosθ} (e^{+}e^{-} → f{f} ) =| #frac{1}{1 - Δα} |^{2} (1+cos^{2}θ)
+   </text>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="start" transform="translate(129,274)">
+    K_{S}
+   </text>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="start" transform="translate(169,274)">
+    K^{*0}
+   </text>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="start" transform="translate(129,312)">
+    K_{S}... K^{*0}... #frac{2s}{πα^{2}}#frac{dσ}{dcosθ} (e^{+}e^{-} → f{f} ) =| #frac{1}{1 - Δα} |^{2} (1+cos^{2}θ)
+   </text>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="start" transform="translate(129,349)">
+    K_{S}
+   </text>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="start" transform="translate(169,349)">
+    K^{*0}
+   </text>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="start" transform="translate(129,387)">
+    K_{S}... K^{*0}... #frac{2s}{πα^{2}}#frac{dσ}{dcosθ} (e^{+}e^{-} → f{f} ) =| #frac{1}{1 - Δα} |^{2} (1+cos^{2}θ)
+   </text>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold" font-style="oblique">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(89,123)">
+    13
+   </text>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold" font-style="oblique">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(89,217)">
+    12
+   </text>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold" font-style="oblique">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(89,293)">
+    11
+   </text>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold" font-style="oblique">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(89,357)">
+    10
+   </text>
   </g>
  </g>
 </svg>

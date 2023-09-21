@@ -191,17 +191,15 @@
      <path d="M1,298l494,290h-494v-290Z" style="fill: white;"></path>
     </g>
    </svg>
-   <g>
-    <g font-family="Arial" font-size="23" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(54,-17)">
-      A double slit experiment
-     </text>
-    </g>
-   </g>
   </g>
   <g transform="translate(250,4)" font-family="Arial" font-size="37" space="preserve">
    <text fill="black" text-anchor="middle" dy=".8em" transform="translate(252)">
     ray_source
+   </text>
+  </g>
+  <g font-family="Arial" font-size="33" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="start" transform="translate(53,55)">
+    A double slit experiment
    </text>
   </g>
   <g>

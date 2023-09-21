@@ -81,34 +81,32 @@
      </g>
     </g>
    </g>
-   <g>
-    <g font-family="Arial" font-size="15" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(446,34)">
-      23 knots
-     </text>
-    </g>
-    <g font-family="Arial" font-size="15" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(223,-11)">
-      quintic spline
-     </text>
-    </g>
-    <g font-family="Arial" font-size="15" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(430,-11)">
-      third spline
-     </text>
-    </g>
-   </g>
   </g>
   <g transform="translate(257,2)" font-family="Arial" font-size="18" space="preserve">
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(92,14)">
     sin(x)*sin(x/10)
    </text>
   </g>
+  <g font-family="Arial" font-size="19" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(517,82)">
+    23 knots
+   </text>
+  </g>
   <g>
    <path d="M237,40H282" style="stroke: #ff0000; stroke-width: 2;"></path>
   </g>
+  <g font-family="Arial" font-size="19" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(293,36)">
+    quintic spline
+   </text>
+  </g>
   <g>
    <path d="M444,40H489" style="stroke: #00ff00; stroke-width: 2;"></path>
+  </g>
+  <g font-family="Arial" font-size="19" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(500,36)">
+    third spline
+   </text>
   </g>
  </g>
 </svg>

@@ -83,476 +83,474 @@
     <path d="M0,0v378M40,0v378M79,0v378M119,0v378M159,0v378M199,0v378M238,0v378M278,0v378M318,0v378M357,0v378M397,0v378" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
     <path d="M0,378h397M0,340h397M0,302h397M0,265h397M0,227h397M0,189h397M0,151h397M0,113h397M0,76h397M0,38h397M0,0h397" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
    </g>
-   <g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <g transform="translate(79,47)">
-      <text fill="black" font-size="9">
-       K
-      </text>
-      <text fill="black" font-size="5" transform="translate(6,2)">
-       S
-      </text>
-     </g>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <g transform="translate(119,48)">
-      <text fill="black" font-size="9">
-       K
-      </text>
-      <text fill="black" font-size="5" transform="translate(6,-5)">
-       *0
-      </text>
-     </g>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <g transform="translate(79,90)">
-      <text fill="black" font-size="9">
-       K
-      </text>
-      <text fill="black" font-size="5" transform="translate(6,2)">
-       S
-      </text>
-      <text fill="black" font-size="9" x="9">
-       ... K
-      </text>
-      <text fill="black" font-size="5" transform="translate(25,-5)">
-       *0
-      </text>
-      <text fill="black" font-size="9" x="31">
-       ...
-      </text>
-      <g transform="translate(43)">
-       <text fill="black" font-size="9" transform="translate(2,-5)">
-        2s
-       </text>
-       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-3h13"></path>
-       <g transform="translate(0,7)">
-        <text fill="black" font-size="9">
-         πα
-        </text>
-        <text fill="black" font-size="5" transform="translate(11,-5)">
-         2
-        </text>
-       </g>
-      </g>
-      <g transform="translate(57)">
-       <text fill="black" font-size="9" transform="translate(7,-5)">
-        dσ
-       </text>
-       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-3h24"></path>
-       <text fill="black" font-size="9" transform="translate(0,5)">
-        dcosθ
-       </text>
-      </g>
-      <text fill="black" font-size="9" x="86">
-       (e
-      </text>
-      <text fill="black" font-size="5" transform="translate(94,-5)">
-       +
-      </text>
-      <text fill="black" font-size="9" x="97">
-       e
-      </text>
-      <text fill="black" font-size="5" transform="translate(102,-5)">
-       -
-      </text>
-      <text fill="black" font-size="9" x="108">
-       → f
-      </text>
-      <g transform="translate(123)">
-       <text fill="black" font-size="9" text-decoration="overline">
-        f
-       </text>
-      </g>
-      <text fill="black" font-size="9" x="130">
-       ) =
-      </text>
-      <g transform="translate(141)">
-       <path style="stroke: black; stroke-width: 1; fill: none;" d="M2,-14v21"></path>
-       <g transform="translate(4)">
-        <g transform="translate(4)">
-         <text fill="black" font-size="9" transform="translate(10,-5)">
-          1
-         </text>
-         <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-3h24"></path>
-         <text fill="black" font-size="9" transform="translate(0,5)">
-          1 - Δα
-         </text>
-        </g>
-       </g>
-       <path style="stroke: black; stroke-width: 1; fill: none;" d="M39,-14v21"></path>
-      </g>
-      <text fill="black" font-size="5" transform="translate(182,-5)">
-       2
-      </text>
-      <text fill="black" font-size="9" x="189">
-       (1+cos
-      </text>
-      <text fill="black" font-size="5" transform="translate(217,-5)">
-       2
-      </text>
-      <text fill="black" font-size="9" x="220">
-       θ)
-      </text>
-     </g>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <g transform="translate(79,154)">
-      <text fill="black" font-size="9">
-       K
-      </text>
-      <text fill="black" font-size="5" transform="translate(6,2)">
-       S
-      </text>
-     </g>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <g transform="translate(119,155)">
-      <text fill="black" font-size="9">
-       K
-      </text>
-      <text fill="black" font-size="5" transform="translate(6,-5)">
-       *0
-      </text>
-     </g>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <g transform="translate(79,191)">
-      <text fill="black" font-size="9">
-       K
-      </text>
-      <text fill="black" font-size="5" transform="translate(6,2)">
-       S
-      </text>
-      <text fill="black" font-size="9" x="9">
-       ... K
-      </text>
-      <text fill="black" font-size="5" transform="translate(25,-5)">
-       *0
-      </text>
-      <text fill="black" font-size="9" x="31">
-       ...
-      </text>
-      <g transform="translate(43)">
-       <text fill="black" font-size="9" transform="translate(2,-5)">
-        2s
-       </text>
-       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-3h13"></path>
-       <g transform="translate(0,7)">
-        <text fill="black" font-size="9">
-         πα
-        </text>
-        <text fill="black" font-size="5" transform="translate(11,-5)">
-         2
-        </text>
-       </g>
-      </g>
-      <g transform="translate(57)">
-       <text fill="black" font-size="9" transform="translate(7,-5)">
-        dσ
-       </text>
-       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-3h24"></path>
-       <text fill="black" font-size="9" transform="translate(0,5)">
-        dcosθ
-       </text>
-      </g>
-      <text fill="black" font-size="9" x="86">
-       (e
-      </text>
-      <text fill="black" font-size="5" transform="translate(94,-5)">
-       +
-      </text>
-      <text fill="black" font-size="9" x="97">
-       e
-      </text>
-      <text fill="black" font-size="5" transform="translate(102,-5)">
-       -
-      </text>
-      <text fill="black" font-size="9" x="108">
-       → f
-      </text>
-      <g transform="translate(123)">
-       <text fill="black" font-size="9" text-decoration="overline">
-        f
-       </text>
-      </g>
-      <text fill="black" font-size="9" x="130">
-       ) =
-      </text>
-      <g transform="translate(141)">
-       <path style="stroke: black; stroke-width: 1; fill: none;" d="M2,-14v21"></path>
-       <g transform="translate(4)">
-        <g transform="translate(4)">
-         <text fill="black" font-size="9" transform="translate(10,-5)">
-          1
-         </text>
-         <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-3h24"></path>
-         <text fill="black" font-size="9" transform="translate(0,5)">
-          1 - Δα
-         </text>
-        </g>
-       </g>
-       <path style="stroke: black; stroke-width: 1; fill: none;" d="M39,-14v21"></path>
-      </g>
-      <text fill="black" font-size="5" transform="translate(182,-5)">
-       2
-      </text>
-      <text fill="black" font-size="9" x="189">
-       (1+cos
-      </text>
-      <text fill="black" font-size="5" transform="translate(217,-5)">
-       2
-      </text>
-      <text fill="black" font-size="9" x="220">
-       θ)
-      </text>
-     </g>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <g transform="translate(79,227)">
-      <text fill="black" font-size="9">
-       K
-      </text>
-      <text fill="black" font-size="5" transform="translate(6,2)">
-       S
-      </text>
-     </g>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <g transform="translate(119,227)">
-      <text fill="black" font-size="9">
-       K
-      </text>
-      <text fill="black" font-size="5" transform="translate(6,-5)">
-       *0
-      </text>
-     </g>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <g transform="translate(79,265)">
-      <text fill="black" font-size="9">
-       K
-      </text>
-      <text fill="black" font-size="5" transform="translate(6,2)">
-       S
-      </text>
-      <text fill="black" font-size="9" x="9">
-       ... K
-      </text>
-      <text fill="black" font-size="5" transform="translate(25,-5)">
-       *0
-      </text>
-      <text fill="black" font-size="9" x="31">
-       ...
-      </text>
-      <g transform="translate(43)">
-       <text fill="black" font-size="9" transform="translate(2,-5)">
-        2s
-       </text>
-       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-3h13"></path>
-       <g transform="translate(0,7)">
-        <text fill="black" font-size="9">
-         πα
-        </text>
-        <text fill="black" font-size="5" transform="translate(11,-5)">
-         2
-        </text>
-       </g>
-      </g>
-      <g transform="translate(57)">
-       <text fill="black" font-size="9" transform="translate(7,-5)">
-        dσ
-       </text>
-       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-3h24"></path>
-       <text fill="black" font-size="9" transform="translate(0,5)">
-        dcosθ
-       </text>
-      </g>
-      <text fill="black" font-size="9" x="86">
-       (e
-      </text>
-      <text fill="black" font-size="5" transform="translate(94,-5)">
-       +
-      </text>
-      <text fill="black" font-size="9" x="97">
-       e
-      </text>
-      <text fill="black" font-size="5" transform="translate(102,-5)">
-       -
-      </text>
-      <text fill="black" font-size="9" x="108">
-       → f
-      </text>
-      <g transform="translate(123)">
-       <text fill="black" font-size="9" text-decoration="overline">
-        f
-       </text>
-      </g>
-      <text fill="black" font-size="9" x="130">
-       ) =
-      </text>
-      <g transform="translate(141)">
-       <path style="stroke: black; stroke-width: 1; fill: none;" d="M2,-14v21"></path>
-       <g transform="translate(4)">
-        <g transform="translate(4)">
-         <text fill="black" font-size="9" transform="translate(10,-5)">
-          1
-         </text>
-         <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-3h24"></path>
-         <text fill="black" font-size="9" transform="translate(0,5)">
-          1 - Δα
-         </text>
-        </g>
-       </g>
-       <path style="stroke: black; stroke-width: 1; fill: none;" d="M39,-14v21"></path>
-      </g>
-      <text fill="black" font-size="5" transform="translate(182,-5)">
-       2
-      </text>
-      <text fill="black" font-size="9" x="189">
-       (1+cos
-      </text>
-      <text fill="black" font-size="5" transform="translate(217,-5)">
-       2
-      </text>
-      <text fill="black" font-size="9" x="220">
-       θ)
-      </text>
-     </g>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <g transform="translate(79,299)">
-      <text fill="black" font-size="9">
-       K
-      </text>
-      <text fill="black" font-size="5" transform="translate(6,2)">
-       S
-      </text>
-     </g>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <g transform="translate(119,300)">
-      <text fill="black" font-size="9">
-       K
-      </text>
-      <text fill="black" font-size="5" transform="translate(6,-5)">
-       *0
-      </text>
-     </g>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <g transform="translate(79,331)">
-      <text fill="black" font-size="9">
-       K
-      </text>
-      <text fill="black" font-size="5" transform="translate(6,2)">
-       S
-      </text>
-      <text fill="black" font-size="9" x="9">
-       ... K
-      </text>
-      <text fill="black" font-size="5" transform="translate(25,-5)">
-       *0
-      </text>
-      <text fill="black" font-size="9" x="31">
-       ...
-      </text>
-      <g transform="translate(43)">
-       <text fill="black" font-size="9" transform="translate(2,-5)">
-        2s
-       </text>
-       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-3h13"></path>
-       <g transform="translate(0,7)">
-        <text fill="black" font-size="9">
-         πα
-        </text>
-        <text fill="black" font-size="5" transform="translate(11,-5)">
-         2
-        </text>
-       </g>
-      </g>
-      <g transform="translate(57)">
-       <text fill="black" font-size="9" transform="translate(7,-5)">
-        dσ
-       </text>
-       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-3h24"></path>
-       <text fill="black" font-size="9" transform="translate(0,5)">
-        dcosθ
-       </text>
-      </g>
-      <text fill="black" font-size="9" x="86">
-       (e
-      </text>
-      <text fill="black" font-size="5" transform="translate(94,-5)">
-       +
-      </text>
-      <text fill="black" font-size="9" x="97">
-       e
-      </text>
-      <text fill="black" font-size="5" transform="translate(102,-5)">
-       -
-      </text>
-      <text fill="black" font-size="9" x="108">
-       → f
-      </text>
-      <g transform="translate(123)">
-       <text fill="black" font-size="9" text-decoration="overline">
-        f
-       </text>
-      </g>
-      <text fill="black" font-size="9" x="130">
-       ) =
-      </text>
-      <g transform="translate(141)">
-       <path style="stroke: black; stroke-width: 1; fill: none;" d="M2,-14v21"></path>
-       <g transform="translate(4)">
-        <g transform="translate(4)">
-         <text fill="black" font-size="9" transform="translate(10,-5)">
-          1
-         </text>
-         <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-3h24"></path>
-         <text fill="black" font-size="9" transform="translate(0,5)">
-          1 - Δα
-         </text>
-        </g>
-       </g>
-       <path style="stroke: black; stroke-width: 1; fill: none;" d="M39,-14v21"></path>
-      </g>
-      <text fill="black" font-size="5" transform="translate(182,-5)">
-       2
-      </text>
-      <text fill="black" font-size="9" x="189">
-       (1+cos
-      </text>
-      <text fill="black" font-size="5" transform="translate(217,-5)">
-       2
-      </text>
-      <text fill="black" font-size="9" x="220">
-       θ)
-      </text>
-     </g>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold" font-style="oblique">
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(40,76)">
-      13
-     </text>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold" font-style="oblique">
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(40,170)">
-      12
-     </text>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold" font-style="oblique">
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(40,246)">
-      11
-     </text>
-    </g>
-    <g font-family="Arial" font-size="9" space="preserve" font-weight="bold" font-style="oblique">
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(40,310)">
-      10
-     </text>
-    </g>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <g transform="translate(129,96)">
+    <text fill="black" font-size="11">
+     K
+    </text>
+    <text fill="black" font-size="7" transform="translate(8,2)">
+     S
+    </text>
    </g>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <g transform="translate(169,97)">
+    <text fill="black" font-size="11">
+     K
+    </text>
+    <text fill="black" font-size="7" transform="translate(8,-6)">
+     *0
+    </text>
+   </g>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <g transform="translate(129,140)">
+    <text fill="black" font-size="11">
+     K
+    </text>
+    <text fill="black" font-size="7" transform="translate(8,2)">
+     S
+    </text>
+    <text fill="black" font-size="11" x="12">
+     ... K
+    </text>
+    <text fill="black" font-size="7" transform="translate(32,-6)">
+     *0
+    </text>
+    <text fill="black" font-size="11" x="39">
+     ...
+    </text>
+    <g transform="translate(52)">
+     <text fill="black" font-size="11" transform="translate(3,-6)">
+      2s
+     </text>
+     <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4h17"></path>
+     <g transform="translate(0,8)">
+      <text fill="black" font-size="11">
+       πα
+      </text>
+      <text fill="black" font-size="7" transform="translate(14,-6)">
+       2
+      </text>
+     </g>
+    </g>
+    <g transform="translate(70)">
+     <text fill="black" font-size="11" transform="translate(9,-6)">
+      dσ
+     </text>
+     <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4h30"></path>
+     <text fill="black" font-size="11" transform="translate(0,7)">
+      dcosθ
+     </text>
+    </g>
+    <text fill="black" font-size="11" x="105">
+     (e
+    </text>
+    <text fill="black" font-size="7" transform="translate(115,-6)">
+     +
+    </text>
+    <text fill="black" font-size="11" x="119">
+     e
+    </text>
+    <text fill="black" font-size="7" transform="translate(125,-6)">
+     -
+    </text>
+    <text fill="black" font-size="11" x="131">
+     → f
+    </text>
+    <g transform="translate(149)">
+     <text fill="black" font-size="11" text-decoration="overline">
+      f
+     </text>
+    </g>
+    <text fill="black" font-size="11" x="157">
+     ) =
+    </text>
+    <g transform="translate(171)">
+     <path style="stroke: black; stroke-width: 1; fill: none;" d="M2,-17v26"></path>
+     <g transform="translate(4)">
+      <g transform="translate(4)">
+       <text fill="black" font-size="11" transform="translate(12,-6)">
+        1
+       </text>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4h29"></path>
+       <text fill="black" font-size="11" transform="translate(0,7)">
+        1 - Δα
+       </text>
+      </g>
+     </g>
+     <path style="stroke: black; stroke-width: 1; fill: none;" d="M44,-17v26"></path>
+    </g>
+    <text fill="black" font-size="7" transform="translate(217,-6)">
+     2
+    </text>
+    <text fill="black" font-size="11" x="225">
+     (1+cos
+    </text>
+    <text fill="black" font-size="7" transform="translate(259,-6)">
+     2
+    </text>
+    <text fill="black" font-size="11" x="263">
+     θ)
+    </text>
+   </g>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <g transform="translate(129,201)">
+    <text fill="black" font-size="11">
+     K
+    </text>
+    <text fill="black" font-size="7" transform="translate(8,2)">
+     S
+    </text>
+   </g>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <g transform="translate(169,203)">
+    <text fill="black" font-size="11">
+     K
+    </text>
+    <text fill="black" font-size="7" transform="translate(8,-6)">
+     *0
+    </text>
+   </g>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <g transform="translate(129,239)">
+    <text fill="black" font-size="11">
+     K
+    </text>
+    <text fill="black" font-size="7" transform="translate(8,2)">
+     S
+    </text>
+    <text fill="black" font-size="11" x="12">
+     ... K
+    </text>
+    <text fill="black" font-size="7" transform="translate(32,-6)">
+     *0
+    </text>
+    <text fill="black" font-size="11" x="39">
+     ...
+    </text>
+    <g transform="translate(52)">
+     <text fill="black" font-size="11" transform="translate(3,-6)">
+      2s
+     </text>
+     <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4h17"></path>
+     <g transform="translate(0,8)">
+      <text fill="black" font-size="11">
+       πα
+      </text>
+      <text fill="black" font-size="7" transform="translate(14,-6)">
+       2
+      </text>
+     </g>
+    </g>
+    <g transform="translate(70)">
+     <text fill="black" font-size="11" transform="translate(9,-6)">
+      dσ
+     </text>
+     <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4h30"></path>
+     <text fill="black" font-size="11" transform="translate(0,7)">
+      dcosθ
+     </text>
+    </g>
+    <text fill="black" font-size="11" x="105">
+     (e
+    </text>
+    <text fill="black" font-size="7" transform="translate(115,-6)">
+     +
+    </text>
+    <text fill="black" font-size="11" x="119">
+     e
+    </text>
+    <text fill="black" font-size="7" transform="translate(125,-6)">
+     -
+    </text>
+    <text fill="black" font-size="11" x="131">
+     → f
+    </text>
+    <g transform="translate(149)">
+     <text fill="black" font-size="11" text-decoration="overline">
+      f
+     </text>
+    </g>
+    <text fill="black" font-size="11" x="157">
+     ) =
+    </text>
+    <g transform="translate(171)">
+     <path style="stroke: black; stroke-width: 1; fill: none;" d="M2,-17v26"></path>
+     <g transform="translate(4)">
+      <g transform="translate(4)">
+       <text fill="black" font-size="11" transform="translate(12,-6)">
+        1
+       </text>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4h29"></path>
+       <text fill="black" font-size="11" transform="translate(0,7)">
+        1 - Δα
+       </text>
+      </g>
+     </g>
+     <path style="stroke: black; stroke-width: 1; fill: none;" d="M44,-17v26"></path>
+    </g>
+    <text fill="black" font-size="7" transform="translate(217,-6)">
+     2
+    </text>
+    <text fill="black" font-size="11" x="225">
+     (1+cos
+    </text>
+    <text fill="black" font-size="7" transform="translate(259,-6)">
+     2
+    </text>
+    <text fill="black" font-size="11" x="263">
+     θ)
+    </text>
+   </g>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <g transform="translate(129,274)">
+    <text fill="black" font-size="11">
+     K
+    </text>
+    <text fill="black" font-size="7" transform="translate(8,2)">
+     S
+    </text>
+   </g>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <g transform="translate(169,274)">
+    <text fill="black" font-size="11">
+     K
+    </text>
+    <text fill="black" font-size="7" transform="translate(8,-6)">
+     *0
+    </text>
+   </g>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <g transform="translate(129,312)">
+    <text fill="black" font-size="11">
+     K
+    </text>
+    <text fill="black" font-size="7" transform="translate(8,2)">
+     S
+    </text>
+    <text fill="black" font-size="11" x="12">
+     ... K
+    </text>
+    <text fill="black" font-size="7" transform="translate(32,-6)">
+     *0
+    </text>
+    <text fill="black" font-size="11" x="39">
+     ...
+    </text>
+    <g transform="translate(52)">
+     <text fill="black" font-size="11" transform="translate(3,-6)">
+      2s
+     </text>
+     <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4h17"></path>
+     <g transform="translate(0,8)">
+      <text fill="black" font-size="11">
+       πα
+      </text>
+      <text fill="black" font-size="7" transform="translate(14,-6)">
+       2
+      </text>
+     </g>
+    </g>
+    <g transform="translate(70)">
+     <text fill="black" font-size="11" transform="translate(9,-6)">
+      dσ
+     </text>
+     <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4h30"></path>
+     <text fill="black" font-size="11" transform="translate(0,7)">
+      dcosθ
+     </text>
+    </g>
+    <text fill="black" font-size="11" x="105">
+     (e
+    </text>
+    <text fill="black" font-size="7" transform="translate(115,-6)">
+     +
+    </text>
+    <text fill="black" font-size="11" x="119">
+     e
+    </text>
+    <text fill="black" font-size="7" transform="translate(125,-6)">
+     -
+    </text>
+    <text fill="black" font-size="11" x="131">
+     → f
+    </text>
+    <g transform="translate(149)">
+     <text fill="black" font-size="11" text-decoration="overline">
+      f
+     </text>
+    </g>
+    <text fill="black" font-size="11" x="157">
+     ) =
+    </text>
+    <g transform="translate(171)">
+     <path style="stroke: black; stroke-width: 1; fill: none;" d="M2,-17v26"></path>
+     <g transform="translate(4)">
+      <g transform="translate(4)">
+       <text fill="black" font-size="11" transform="translate(12,-6)">
+        1
+       </text>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4h29"></path>
+       <text fill="black" font-size="11" transform="translate(0,7)">
+        1 - Δα
+       </text>
+      </g>
+     </g>
+     <path style="stroke: black; stroke-width: 1; fill: none;" d="M44,-17v26"></path>
+    </g>
+    <text fill="black" font-size="7" transform="translate(217,-6)">
+     2
+    </text>
+    <text fill="black" font-size="11" x="225">
+     (1+cos
+    </text>
+    <text fill="black" font-size="7" transform="translate(259,-6)">
+     2
+    </text>
+    <text fill="black" font-size="11" x="263">
+     θ)
+    </text>
+   </g>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <g transform="translate(129,345)">
+    <text fill="black" font-size="11">
+     K
+    </text>
+    <text fill="black" font-size="7" transform="translate(8,2)">
+     S
+    </text>
+   </g>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <g transform="translate(169,346)">
+    <text fill="black" font-size="11">
+     K
+    </text>
+    <text fill="black" font-size="7" transform="translate(8,-6)">
+     *0
+    </text>
+   </g>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold">
+   <g transform="translate(129,376)">
+    <text fill="black" font-size="11">
+     K
+    </text>
+    <text fill="black" font-size="7" transform="translate(8,2)">
+     S
+    </text>
+    <text fill="black" font-size="11" x="12">
+     ... K
+    </text>
+    <text fill="black" font-size="7" transform="translate(32,-6)">
+     *0
+    </text>
+    <text fill="black" font-size="11" x="39">
+     ...
+    </text>
+    <g transform="translate(52)">
+     <text fill="black" font-size="11" transform="translate(3,-6)">
+      2s
+     </text>
+     <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4h17"></path>
+     <g transform="translate(0,8)">
+      <text fill="black" font-size="11">
+       πα
+      </text>
+      <text fill="black" font-size="7" transform="translate(14,-6)">
+       2
+      </text>
+     </g>
+    </g>
+    <g transform="translate(70)">
+     <text fill="black" font-size="11" transform="translate(9,-6)">
+      dσ
+     </text>
+     <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4h30"></path>
+     <text fill="black" font-size="11" transform="translate(0,7)">
+      dcosθ
+     </text>
+    </g>
+    <text fill="black" font-size="11" x="105">
+     (e
+    </text>
+    <text fill="black" font-size="7" transform="translate(115,-6)">
+     +
+    </text>
+    <text fill="black" font-size="11" x="119">
+     e
+    </text>
+    <text fill="black" font-size="7" transform="translate(125,-6)">
+     -
+    </text>
+    <text fill="black" font-size="11" x="131">
+     → f
+    </text>
+    <g transform="translate(149)">
+     <text fill="black" font-size="11" text-decoration="overline">
+      f
+     </text>
+    </g>
+    <text fill="black" font-size="11" x="157">
+     ) =
+    </text>
+    <g transform="translate(171)">
+     <path style="stroke: black; stroke-width: 1; fill: none;" d="M2,-17v26"></path>
+     <g transform="translate(4)">
+      <g transform="translate(4)">
+       <text fill="black" font-size="11" transform="translate(12,-6)">
+        1
+       </text>
+       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-4h29"></path>
+       <text fill="black" font-size="11" transform="translate(0,7)">
+        1 - Δα
+       </text>
+      </g>
+     </g>
+     <path style="stroke: black; stroke-width: 1; fill: none;" d="M44,-17v26"></path>
+    </g>
+    <text fill="black" font-size="7" transform="translate(217,-6)">
+     2
+    </text>
+    <text fill="black" font-size="11" x="225">
+     (1+cos
+    </text>
+    <text fill="black" font-size="7" transform="translate(259,-6)">
+     2
+    </text>
+    <text fill="black" font-size="11" x="263">
+     θ)
+    </text>
+   </g>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold" font-style="oblique">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(89,123)">
+    13
+   </text>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold" font-style="oblique">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(89,217)">
+    12
+   </text>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold" font-style="oblique">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(89,293)">
+    11
+   </text>
+  </g>
+  <g font-family="Arial" font-size="11" space="preserve" font-weight="bold" font-style="oblique">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(89,357)">
+    10
+   </text>
   </g>
  </g>
 </svg>

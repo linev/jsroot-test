@@ -85,22 +85,6 @@
      </g>
     </g>
    </g>
-   <g>
-    <g font-family="Arial" font-size="29" space="preserve" font-weight="bold">
-     <g transform="translate(240,81)">
-      <text fill="black" font-size="29">
-       NSignal =    50083 ± 1236
-      </text>
-     </g>
-    </g>
-    <g font-family="Arial" font-size="29" space="preserve" font-weight="bold">
-     <g transform="translate(240,137)">
-      <text fill="black" font-size="29">
-       Nbackgr =   998896 ± 1574
-      </text>
-     </g>
-    </g>
-   </g>
   </g>
   <g transform="translate(936,52)" font-family="Arial" font-size="22" space="preserve" fill="black">
    <path d="M0,0H240V128H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
@@ -131,6 +115,20 @@
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(420,22)">
     Exponential Bkg + CrystalBall function
    </text>
+  </g>
+  <g font-family="Arial" font-size="36" space="preserve" font-weight="bold">
+   <g transform="translate(360,161)">
+    <text fill="black" font-size="36">
+     NSignal =    50083 ± 1236
+    </text>
+   </g>
+  </g>
+  <g font-family="Arial" font-size="36" space="preserve" font-weight="bold">
+   <g transform="translate(360,217)">
+    <text fill="black" font-size="36">
+     Nbackgr =   998896 ± 1574
+    </text>
+   </g>
   </g>
  </g>
 </svg>

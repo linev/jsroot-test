@@ -114,92 +114,90 @@
     <path d="M60,0v539M228,0v539M396,0v539" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
     <path d="M0,539h558M0,443h558M0,348h558M0,252h558M0,157h558M0,61h558" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
    </g>
-   <g>
-    <g font-family="Arial" font-size="24" space="preserve" font-weight="bold">
-     <g transform="translate(251,38)">
-      <text fill="magenta" font-size="24">
-       ← t → bH
-      </text>
-      <text fill="magenta" font-size="14" transform="translate(111,-13)">
-       +
-      </text>
-      <text fill="magenta" font-size="24" x="120">
-       , H
-      </text>
-      <text fill="magenta" font-size="14" transform="translate(151,-13)">
-       +
-      </text>
-      <text fill="magenta" font-size="24" x="170">
-       → τν
-      </text>
-     </g>
+  </g>
+  <g font-family="Arial" font-size="30" space="preserve" font-weight="bold">
+   <g transform="translate(321,105)">
+    <text fill="magenta" font-size="30">
+     ← t → bH
+    </text>
+    <text fill="magenta" font-size="18" transform="translate(139,-16)">
+     +
+    </text>
+    <text fill="magenta" font-size="30" x="150">
+     , H
+    </text>
+    <text fill="magenta" font-size="18" transform="translate(189,-16)">
+     +
+    </text>
+    <text fill="magenta" font-size="30" x="212">
+     → τν
+    </text>
+   </g>
+  </g>
+  <g font-family="Arial" font-size="30" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="start" transform="translate(540,346)">
+    ATLAS
+   </text>
+  </g>
+  <g font-family="Arial" font-size="18" space="preserve" font-weight="bold">
+   <g transform="translate(526,378)">
+    <g>
+     <path style="stroke: black; stroke-width: 2; fill: none;" d="M0,5a3,3,0,0,0,6,0v-25a3,3,0,1,1,6,0"></path>
     </g>
-    <g font-family="Arial" font-size="24" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(469,279)">
-      ATLAS
-     </text>
-    </g>
-    <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
-     <g transform="translate(456,311)">
-      <g>
-       <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,4a2,2,0,0,0,4,0v-20a2,2,0,1,1,4,0"></path>
-      </g>
-      <text fill="black" font-size="14" x="14">
-       Ldt = 300 fb
-      </text>
-      <text fill="black" font-size="8" transform="translate(92,-7)">
-       -1
-      </text>
-     </g>
-    </g>
-    <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(465,342)">
-      Maximal mixing
-     </text>
-    </g>
-    <g font-family="Arial" font-size="14" space="preserve" font-weight="bold">
-     <text fill="black" text-anchor="start" transform="translate(512,412)">
-      LEP 2000
-     </text>
-    </g>
-    <g font-family="Arial" font-size="24" space="preserve" font-weight="bold">
-     <g transform="translate(321,231)">
-      <text fill="red" font-size="24">
-       gb → tH
-      </text>
-      <text fill="red" font-size="14" transform="translate(93,-13)">
-       +
-      </text>
-      <text fill="red" font-size="24" x="102">
-       , H
-      </text>
-      <text fill="red" font-size="14" transform="translate(133,-13)">
-       +
-      </text>
-      <text fill="red" font-size="24" x="152">
-       → τν
-      </text>
-     </g>
-    </g>
-    <g font-family="Arial" font-size="24" space="preserve" font-weight="bold">
-     <g transform="translate(289,519)">
-      <text fill="blue" font-size="24">
-       gb → tH
-      </text>
-      <text fill="blue" font-size="14" transform="translate(93,-13)">
-       +
-      </text>
-      <text fill="blue" font-size="24" x="102">
-       , H
-      </text>
-      <text fill="blue" font-size="14" transform="translate(133,-13)">
-       +
-      </text>
-      <text fill="blue" font-size="24" x="152">
-       → tb
-      </text>
-     </g>
-    </g>
+    <text fill="black" font-size="18" x="18">
+     Ldt = 300 fb
+    </text>
+    <text fill="black" font-size="11" transform="translate(119,-9)">
+     -1
+    </text>
+   </g>
+  </g>
+  <g font-family="Arial" font-size="18" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="start" transform="translate(535,409)">
+    Maximal mixing
+   </text>
+  </g>
+  <g font-family="Arial" font-size="18" space="preserve" font-weight="bold">
+   <text fill="black" text-anchor="start" transform="translate(582,479)">
+    LEP 2000
+   </text>
+  </g>
+  <g font-family="Arial" font-size="30" space="preserve" font-weight="bold">
+   <g transform="translate(391,298)">
+    <text fill="red" font-size="30">
+     gb → tH
+    </text>
+    <text fill="red" font-size="18" transform="translate(116,-16)">
+     +
+    </text>
+    <text fill="red" font-size="30" x="127">
+     , H
+    </text>
+    <text fill="red" font-size="18" transform="translate(166,-16)">
+     +
+    </text>
+    <text fill="red" font-size="30" x="189">
+     → τν
+    </text>
+   </g>
+  </g>
+  <g font-family="Arial" font-size="30" space="preserve" font-weight="bold">
+   <g transform="translate(359,587)">
+    <text fill="blue" font-size="30">
+     gb → tH
+    </text>
+    <text fill="blue" font-size="18" transform="translate(116,-16)">
+     +
+    </text>
+    <text fill="blue" font-size="30" x="127">
+     , H
+    </text>
+    <text fill="blue" font-size="18" transform="translate(166,-16)">
+     +
+    </text>
+    <text fill="blue" font-size="30" x="189">
+     → tb
+    </text>
    </g>
   </g>
  </g>

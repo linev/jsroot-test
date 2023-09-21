@@ -253,43 +253,6 @@
        </g>
       </g>
      </g>
-     <g>
-      <g font-family="Arial" font-size="15" space="preserve">
-       <text fill="black" text-anchor="start" transform="translate(274,156)">
-        50%
-       </text>
-      </g>
-      <g font-family="Arial" font-size="15" space="preserve">
-       <text fill="black" text-anchor="start" transform="translate(191,249)">
-        24.65%
-       </text>
-      </g>
-      <g font-family="Arial" font-size="15" space="preserve">
-       <text fill="black" text-anchor="start" transform="translate(328,249)">
-        24.65%
-       </text>
-      </g>
-      <g font-family="Arial" font-size="15" space="preserve">
-       <text fill="black" text-anchor="start" transform="translate(126,227) rotate(-90)">
-        -2.703
-       </text>
-      </g>
-      <g font-family="Arial" font-size="15" space="preserve">
-       <text fill="black" text-anchor="start" transform="translate(421,227) rotate(-90)">
-        2.704
-       </text>
-      </g>
-      <g font-family="Arial" font-size="15" space="preserve">
-       <text fill="black" text-anchor="start" transform="translate(237,227) rotate(-90)">
-        -0.676
-       </text>
-      </g>
-      <g font-family="Arial" font-size="15" space="preserve">
-       <text fill="black" text-anchor="start" transform="translate(310,227) rotate(-90)">
-        0.676
-       </text>
-      </g>
-     </g>
     </g>
     <g transform="translate(68,2)" font-family="Arial" font-size="19" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(274)">
@@ -332,6 +295,41 @@
     </g>
     <g>
      <path d="M379,335V107" style="stroke: #00ff00; stroke-width: 2;"></path>
+    </g>
+    <g font-family="Arial" font-size="19" space="preserve">
+     <text fill="black" text-anchor="start" transform="translate(342,193)">
+      50%
+     </text>
+    </g>
+    <g font-family="Arial" font-size="19" space="preserve">
+     <text fill="black" text-anchor="start" transform="translate(260,286)">
+      24.65%
+     </text>
+    </g>
+    <g font-family="Arial" font-size="19" space="preserve">
+     <text fill="black" text-anchor="start" transform="translate(397,286)">
+      24.65%
+     </text>
+    </g>
+    <g font-family="Arial" font-size="19" space="preserve">
+     <text fill="black" text-anchor="start" transform="translate(194,264) rotate(-90)">
+      -2.703
+     </text>
+    </g>
+    <g font-family="Arial" font-size="19" space="preserve">
+     <text fill="black" text-anchor="start" transform="translate(490,264) rotate(-90)">
+      2.704
+     </text>
+    </g>
+    <g font-family="Arial" font-size="19" space="preserve">
+     <text fill="black" text-anchor="start" transform="translate(305,264) rotate(-90)">
+      -0.676
+     </text>
+    </g>
+    <g font-family="Arial" font-size="19" space="preserve">
+     <text fill="black" text-anchor="start" transform="translate(379,264) rotate(-90)">
+      0.676
+     </text>
     </g>
    </g>
   </svg>
