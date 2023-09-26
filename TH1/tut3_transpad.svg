@@ -15,25 +15,25 @@
       <g transform="translate(0,379)">
        <path d="M0,0h558M0,-14V0M19,-7V0M37,-7V0M56,-7V0M74,-7V0M93,-14V0M112,-7V0M130,-7V0M149,-7V0M167,-7V0M186,-14V0M205,-7V0M223,-7V0M242,-7V0M260,-7V0M279,-14V0M298,-7V0M316,-7V0M335,-7V0M353,-7V0M372,-14V0M391,-7V0M409,-7V0M428,-7V0M446,-7V0M465,-14V0M484,-7V0M502,-7V0M521,-7V0M539,-7V0M558,-14V0" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="17" space="preserve" fill="black" text-anchor="middle">
-        <text dy=".8em">
+        <text dy=".8em" transform="translate(0,3)">
          -3
         </text>
-        <text dy=".8em" transform="translate(93)">
+        <text dy=".8em" transform="translate(93,3)">
          -2
         </text>
-        <text dy=".8em" transform="translate(186)">
+        <text dy=".8em" transform="translate(186,3)">
          -1
         </text>
-        <text dy=".8em" transform="translate(279)">
+        <text dy=".8em" transform="translate(279,3)">
          0
         </text>
-        <text dy=".8em" transform="translate(372)">
+        <text dy=".8em" transform="translate(372,3)">
          1
         </text>
-        <text dy=".8em" transform="translate(465)">
+        <text dy=".8em" transform="translate(465,3)">
          2
         </text>
-        <text dy=".8em" transform="translate(558)">
+        <text dy=".8em" transform="translate(558,3)">
          3
         </text>
        </g>
@@ -41,22 +41,22 @@
       <g>
        <path d="M0,0v379M21,379H0M11,365H0M11,352H0M11,338H0M11,325H0M21,311H0M11,297H0M11,284H0M11,270H0M11,256H0M21,243H0M11,229H0M11,216H0M11,202H0M11,188H0M21,175H0M11,161H0M11,147H0M11,134H0M11,120H0M21,107H0M11,93H0M11,79H0M11,66H0M11,52H0M21,38H0M11,25H0M11,11H0" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="17" space="preserve" fill="black" text-anchor="end">
-        <text dy=".4em" transform="translate(-2,379)">
+        <text dy=".4em" transform="translate(-3,379)">
          0
         </text>
-        <text dy=".4em" transform="translate(-2,311)">
+        <text dy=".4em" transform="translate(-3,311)">
          10
         </text>
-        <text dy=".4em" transform="translate(-2,243)">
+        <text dy=".4em" transform="translate(-3,243)">
          20
         </text>
-        <text dy=".4em" transform="translate(-2,175)">
+        <text dy=".4em" transform="translate(-3,175)">
          30
         </text>
-        <text dy=".4em" transform="translate(-2,107)">
+        <text dy=".4em" transform="translate(-3,107)">
          40
         </text>
-        <text dy=".4em" transform="translate(-2,38)">
+        <text dy=".4em" transform="translate(-3,38)">
          50
         </text>
        </g>
@@ -134,37 +134,37 @@
     <g transform="translate(628,47)">
      <path d="M0,0v380M0,380H-19M0,378H-5M0,376H-5M0,374H-5M0,372H-5M0,371H-10M0,369H-5M0,367H-5M0,365H-5M0,363H-5M0,361H-10M0,359H-5M0,357H-5M0,355H-5M0,353H-5M0,352H-10M0,350H-5M0,348H-5M0,346H-5M0,344H-5M0,342H-19M0,340H-5M0,338H-5M0,336H-5M0,334H-5M0,333H-10M0,331H-5M0,329H-5M0,327H-5M0,325H-5M0,323H-10M0,321H-5M0,319H-5M0,317H-5M0,315H-5M0,314H-10M0,312H-5M0,310H-5M0,308H-5M0,306H-5M0,304H-19M0,302H-5M0,300H-5M0,298H-5M0,296H-5M0,295H-10M0,293H-5M0,291H-5M0,289H-5M0,287H-5M0,285H-10M0,283H-5M0,281H-5M0,279H-5M0,277H-5M0,276H-10M0,274H-5M0,272H-5M0,270H-5M0,268H-5M0,266H-19M0,264H-5M0,262H-5M0,260H-5M0,258H-5M0,257H-10M0,255H-5M0,253H-5M0,251H-5M0,249H-5M0,247H-10M0,245H-5M0,243H-5M0,241H-5M0,239H-5M0,238H-10M0,236H-5M0,234H-5M0,232H-5M0,230H-5M0,228H-19M0,226H-5M0,224H-5M0,222H-5M0,220H-5M0,218H-10M0,217H-5M0,215H-5M0,213H-5M0,211H-5M0,209H-10M0,207H-5M0,205H-5M0,203H-5M0,201H-5M0,200H-10M0,198H-5M0,196H-5M0,194H-5M0,192H-5M0,190H-19M0,188H-5M0,186H-5M0,184H-5M0,182H-5M0,181H-10M0,179H-5M0,177H-5M0,175H-5M0,173H-5M0,171H-10M0,169H-5M0,167H-5M0,165H-5M0,163H-5M0,162H-10M0,160H-5M0,158H-5M0,156H-5M0,154H-5M0,152H-19M0,150H-5M0,148H-5M0,146H-5M0,144H-5M0,143H-10M0,141H-5M0,139H-5M0,137H-5M0,135H-5M0,133H-10M0,131H-5M0,129H-5M0,127H-5M0,125H-5M0,123H-10M0,122H-5M0,120H-5M0,118H-5M0,116H-5M0,114H-19M0,112H-5M0,110H-5M0,108H-5M0,106H-5M0,105H-10M0,103H-5M0,101H-5M0,99H-5M0,97H-5M0,95H-10M0,93H-5M0,91H-5M0,89H-5M0,87H-5M0,85H-10M0,84H-5M0,82H-5M0,80H-5M0,78H-5M0,76H-19M0,74H-5M0,72H-5M0,70H-5M0,68H-5M0,67H-10M0,65H-5M0,63H-5M0,61H-5M0,59H-5M0,57H-10M0,55H-5M0,53H-5M0,51H-5M0,49H-5M0,48H-10M0,46H-5M0,44H-5M0,42H-5M0,40H-5M0,38H-19M0,36H-5M0,34H-5M0,32H-5M0,30H-5M0,28H-10M0,27H-5M0,25H-5M0,23H-5M0,21H-5M0,19H-10M0,17H-5M0,15H-5M0,13H-5M0,11H-5M0,10H-10M0,8H-5M0,6H-5M0,4H-5M0,2H-5M0,0H-19" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="19" space="preserve" font-weight="bold" fill="#ff0000" text-anchor="start">
-      <text dy=".4em" transform="translate(2,380)">
+      <text dy=".4em" transform="translate(3,380)">
        0
       </text>
-      <text dy=".4em" transform="translate(2,342)">
+      <text dy=".4em" transform="translate(3,342)">
        200
       </text>
-      <text dy=".4em" transform="translate(2,304)">
+      <text dy=".4em" transform="translate(3,304)">
        400
       </text>
-      <text dy=".4em" transform="translate(2,266)">
+      <text dy=".4em" transform="translate(3,266)">
        600
       </text>
-      <text dy=".4em" transform="translate(2,228)">
+      <text dy=".4em" transform="translate(3,228)">
        800
       </text>
-      <text dy=".4em" transform="translate(2,190)">
+      <text dy=".4em" transform="translate(3,190)">
        1000
       </text>
-      <text dy=".4em" transform="translate(2,152)">
+      <text dy=".4em" transform="translate(3,152)">
        1200
       </text>
-      <text dy=".4em" transform="translate(2,114)">
+      <text dy=".4em" transform="translate(3,114)">
        1400
       </text>
-      <text dy=".4em" transform="translate(2,76)">
+      <text dy=".4em" transform="translate(3,76)">
        1600
       </text>
-      <text dy=".4em" transform="translate(2,38)">
+      <text dy=".4em" transform="translate(3,38)">
        1800
       </text>
-      <text dy=".4em" transform="translate(2)">
+      <text dy=".4em" transform="translate(3)">
        2000
       </text>
      </g>
