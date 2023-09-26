@@ -16,25 +16,25 @@
       <g transform="translate(0,379)">
        <path d="M0,0h558M13,-7V0M27,-7V0M42,-7V0M57,-14V0M72,-7V0M87,-7V0M101,-7V0M116,-7V0M131,-14V0M146,-7V0M161,-7V0M175,-7V0M190,-7V0M205,-14V0M220,-7V0M235,-7V0M249,-7V0M264,-7V0M279,-14V0M294,-7V0M309,-7V0M323,-7V0M338,-7V0M353,-14V0M368,-7V0M383,-7V0M397,-7V0M412,-7V0M427,-14V0M442,-7V0M457,-7V0M471,-7V0M486,-7V0M501,-14V0M516,-7V0M531,-7V0M545,-7V0" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="17" space="preserve" fill="black" text-anchor="middle">
-        <text dy=".8em" transform="translate(57)">
+        <text dy=".8em" transform="translate(57,3)">
          -3
         </text>
-        <text dy=".8em" transform="translate(131)">
+        <text dy=".8em" transform="translate(131,3)">
          -2
         </text>
-        <text dy=".8em" transform="translate(205)">
+        <text dy=".8em" transform="translate(205,3)">
          -1
         </text>
-        <text dy=".8em" transform="translate(279)">
+        <text dy=".8em" transform="translate(279,3)">
          0
         </text>
-        <text dy=".8em" transform="translate(353)">
+        <text dy=".8em" transform="translate(353,3)">
          1
         </text>
-        <text dy=".8em" transform="translate(427)">
+        <text dy=".8em" transform="translate(427,3)">
          2
         </text>
-        <text dy=".8em" transform="translate(501)">
+        <text dy=".8em" transform="translate(501,3)">
          3
         </text>
        </g>
@@ -42,19 +42,19 @@
       <g>
        <path d="M0,0v379M11,363H0M21,347H0M11,332H0M11,316H0M11,300H0M11,284H0M21,268H0M11,253H0M11,237H0M11,221H0M11,205H0M21,190H0M11,174H0M11,158H0M11,142H0M11,126H0M21,111H0M11,95H0M11,79H0M11,63H0M11,47H0M21,32H0M11,16H0" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="17" space="preserve" fill="black" text-anchor="end">
-        <text dy=".4em" transform="translate(-2,347)">
+        <text dy=".4em" transform="translate(-3,347)">
          -1
         </text>
-        <text dy=".4em" transform="translate(-2,268)">
+        <text dy=".4em" transform="translate(-3,268)">
          -0.5
         </text>
-        <text dy=".4em" transform="translate(-2,190)">
+        <text dy=".4em" transform="translate(-3,190)">
          0
         </text>
-        <text dy=".4em" transform="translate(-2,111)">
+        <text dy=".4em" transform="translate(-3,111)">
          0.5
         </text>
-        <text dy=".4em" transform="translate(-2,32)">
+        <text dy=".4em" transform="translate(-3,32)">
          1
         </text>
        </g>
@@ -82,25 +82,25 @@
       <g>
        <path d="M0,0h558M13,0V7M27,0V7M42,0V7M57,0V14M72,0V7M87,0V7M101,0V7M116,0V7M131,0V14M146,0V7M161,0V7M175,0V7M190,0V7M205,0V14M220,0V7M235,0V7M249,0V7M264,0V7M279,0V14M294,0V7M309,0V7M323,0V7M338,0V7M353,0V14M368,0V7M383,0V7M397,0V7M412,0V7M427,0V14M442,0V7M457,0V7M471,0V7M486,0V7M501,0V14M516,0V7M531,0V7M545,0V7" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="17" space="preserve" fill="black" text-anchor="middle">
-        <text transform="translate(57,-2)">
+        <text transform="translate(57,-5)">
          -3
         </text>
-        <text transform="translate(131,-2)">
+        <text transform="translate(131,-5)">
          -2
         </text>
-        <text transform="translate(205,-2)">
+        <text transform="translate(205,-5)">
          -1
         </text>
-        <text transform="translate(279,-2)">
+        <text transform="translate(279,-5)">
          0
         </text>
-        <text transform="translate(353,-2)">
+        <text transform="translate(353,-5)">
          1
         </text>
-        <text transform="translate(427,-2)">
+        <text transform="translate(427,-5)">
          2
         </text>
-        <text transform="translate(501,-2)">
+        <text transform="translate(501,-5)">
          3
         </text>
        </g>
@@ -108,19 +108,19 @@
       <g transform="translate(558)">
        <path d="M0,0v379M0,363H-11M0,347H-21M0,332H-11M0,316H-11M0,300H-11M0,284H-11M0,268H-21M0,253H-11M0,237H-11M0,221H-11M0,205H-11M0,190H-21M0,174H-11M0,158H-11M0,142H-11M0,126H-11M0,111H-21M0,95H-11M0,79H-11M0,63H-11M0,47H-11M0,32H-21M0,16H-11" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="17" space="preserve" fill="black" text-anchor="start">
-        <text dy=".4em" transform="translate(2,347)">
+        <text dy=".4em" transform="translate(3,347)">
          -0.10
         </text>
-        <text dy=".4em" transform="translate(2,268)">
+        <text dy=".4em" transform="translate(3,268)">
          -0.05
         </text>
-        <text dy=".4em" transform="translate(2,190)">
+        <text dy=".4em" transform="translate(3,190)">
          0
         </text>
-        <text dy=".4em" transform="translate(2,111)">
+        <text dy=".4em" transform="translate(3,111)">
          0.05
         </text>
-        <text dy=".4em" transform="translate(2,32)">
+        <text dy=".4em" transform="translate(3,32)">
          0.10
         </text>
        </g>

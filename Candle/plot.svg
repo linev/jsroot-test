@@ -21,19 +21,19 @@
     <g transform="translate(0,380)">
      <path d="M0,0h558M0,-14V0M47,-7V0M90,-7V0M138,-14V0M183,-7V0M231,-7V0M277,-14V0M324,-7V0M371,-7V0M417,-14V0M465,-7V0M511,-7V0M558,-14V0" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="17" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em">
+      <text dy=".8em" transform="translate(0,3)">
        01/10
       </text>
-      <text dy=".8em" transform="translate(138)">
+      <text dy=".8em" transform="translate(138,3)">
        04/10
       </text>
-      <text dy=".8em" transform="translate(277)">
+      <text dy=".8em" transform="translate(277,3)">
        07/10
       </text>
-      <text dy=".8em" transform="translate(417)">
+      <text dy=".8em" transform="translate(417,3)">
        10/10
       </text>
-      <text dy=".8em" transform="translate(558)">
+      <text dy=".8em" transform="translate(558,3)">
        01/11
       </text>
      </g>
@@ -46,37 +46,37 @@
     <g>
      <path d="M0,0v380M21,380H0M11,372H0M11,365H0M11,357H0M11,350H0M21,342H0M11,334H0M11,327H0M11,319H0M11,312H0M21,304H0M11,296H0M11,289H0M11,281H0M11,274H0M21,266H0M11,258H0M11,251H0M11,243H0M11,236H0M21,228H0M11,220H0M11,213H0M11,205H0M11,198H0M21,190H0M11,182H0M11,175H0M11,167H0M11,160H0M21,152H0M11,144H0M11,137H0M11,129H0M11,122H0M21,114H0M11,106H0M11,99H0M11,91H0M11,84H0M21,76H0M11,68H0M11,61H0M11,53H0M11,46H0M21,38H0M11,30H0M11,23H0M11,15H0M11,8H0M21,0H0" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="17" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-2,380)">
+      <text dy=".4em" transform="translate(-3,380)">
        0
       </text>
-      <text dy=".4em" transform="translate(-2,342)">
+      <text dy=".4em" transform="translate(-3,342)">
        100
       </text>
-      <text dy=".4em" transform="translate(-2,304)">
+      <text dy=".4em" transform="translate(-3,304)">
        200
       </text>
-      <text dy=".4em" transform="translate(-2,266)">
+      <text dy=".4em" transform="translate(-3,266)">
        300
       </text>
-      <text dy=".4em" transform="translate(-2,228)">
+      <text dy=".4em" transform="translate(-3,228)">
        400
       </text>
-      <text dy=".4em" transform="translate(-2,190)">
+      <text dy=".4em" transform="translate(-3,190)">
        500
       </text>
-      <text dy=".4em" transform="translate(-2,152)">
+      <text dy=".4em" transform="translate(-3,152)">
        600
       </text>
-      <text dy=".4em" transform="translate(-2,114)">
+      <text dy=".4em" transform="translate(-3,114)">
        700
       </text>
-      <text dy=".4em" transform="translate(-2,76)">
+      <text dy=".4em" transform="translate(-3,76)">
        800
       </text>
-      <text dy=".4em" transform="translate(-2,38)">
+      <text dy=".4em" transform="translate(-3,38)">
        900
       </text>
-      <text dy=".4em" transform="translate(-2)">
+      <text dy=".4em" transform="translate(-3)">
        1000
       </text>
      </g>
