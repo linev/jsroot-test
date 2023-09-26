@@ -33,14 +33,9 @@
       <g>
        <path d="M0,0v379M8,379H0M8,372H0M8,367H0M8,362H0M8,357H0M15,353H0M8,328H0M8,313H0M8,302H0M8,294H0M8,287H0M8,281H0M8,276H0M8,272H0M15,268H0M8,242H0M8,227H0M8,217H0M8,208H0M8,202H0M8,196H0M8,191H0M8,187H0M15,183H0M8,157H0M8,142H0M8,131H0M8,123H0M8,116H0M8,111H0M8,106H0M8,101H0M15,97H0M8,72H0M8,57H0M8,46H0M8,38H0M8,31H0M8,25H0M8,20H0M8,16H0M15,12H0" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="17" space="preserve">
-        <g transform="translate(-27,360)">
-         <text fill="black" font-size="17">
-          10
-         </text>
-         <text fill="black" font-size="10" transform="translate(18,-9)">
-          0
-         </text>
-        </g>
+        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-3,353)">
+         1
+        </text>
         <g transform="translate(-26,275)">
          <text fill="black" font-size="17">
           10
@@ -138,13 +133,13 @@
          3.05
         </text>
         <text dy=".8em" transform="translate(196,3)">
-         3.10
+         3.1
         </text>
         <text dy=".8em" transform="translate(261,3)">
          3.15
         </text>
         <text dy=".8em" transform="translate(327,3)">
-         3.20
+         3.2
         </text>
         <text dy=".8em" transform="translate(392,3)">
          3.25

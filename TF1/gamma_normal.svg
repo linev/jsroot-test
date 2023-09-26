@@ -102,14 +102,9 @@
           -1
          </text>
         </g>
-        <g transform="translate(-21,28)">
-         <text fill="black" font-size="13">
-          10
-         </text>
-         <text fill="black" font-size="8" transform="translate(14,-7)">
-          0
-         </text>
-        </g>
+        <text fill="black" text-anchor="end" dy=".4em" transform="translate(-3,22)">
+         1
+        </text>
        </g>
       </g>
       <path d="M0,0v298M47,0v298M94,0v298M141,0v298M188,0v298M235,0v298M281,0v298M328,0v298M375,0v298M422,0v298M469,0v298" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
