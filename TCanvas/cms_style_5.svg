@@ -8,10 +8,10 @@
      <path d="M0,0H960V488H0Z" style="fill: none; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="960" height="488" viewBox="0 0 960 488">
       <g>
-       <path d="M-120,330h24v4h24v19h24v-3h24v16h24v2h24v13h24v2h24v3h24v3h24v13h24v1h24v-19h24v6h24v5h24v-5h24v6h24v14h24v13h24v12h24v5h24v3h24v6h24v13h24v-9h48v5h24v-1h24v3h24v2h24v4h24v3h24v-4h24v4h24v6h24v-3h24v4h24v-4h24v1h24v5h24v-4h24v4h72v5h24v-4h24v2h24v-2h24v4h24v-3h24L1080,491H-120Z" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: #cc000080;"></path>
+       <path d="M-120,330h24v4h24v19h24v-3h24v16h24v2h24v13h24v2h24v3h24v3h24v13h24v1h24v-19h24v6h24v5h24v-5h24v6h24v14h24v13h24v12h24v5h24v3h24v6h24v13h24v-9h48v5h24v-1h24v3h24v2h24v4h24v3h24v-4h24v4h24v6h24v-3h24v4h24v-4h24v1h24v5h24v-4h24v4h72v5h24v-4h24v2h24v-2h24v4h24v-3h24" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: none;"></path>
       </g>
       <g>
-       <path d="M-120,330h24v4h24v19h24v-3h24v16h24v2h24v13h24v2h24v5h24v4h24v17h24v9h24v-11h24v13h24v12h24v-3h24v2h24v5h48v7h24v1h24v1h24v4h24v13h24v-9h48v5h24v-1h24v3h24v2h24v4h24v3h24v-4h24v4h24v6h24v-3h24v4h24v-4h24v1h24v5h24v-4h24v4h72v5h24v-4h24v2h24v-2h24v4h24v-3h24L1080,491H-120Z" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: #0066cce5;"></path>
+       <path d="M-120,330h24v4h24v19h24v-3h24v16h24v2h24v13h24v2h24v5h24v4h24v17h24v9h24v-11h24v13h24v12h24v-3h24v2h24v5h48v7h24v1h24v1h24v4h24v13h24v-9h48v5h24v-1h24v3h24v2h24v4h24v3h24v-4h24v4h24v6h24v-3h24v4h24v-4h24v1h24v5h24v-4h24v4h72v5h24v-4h24v2h24v-2h24v4h24v-3h24" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: none;"></path>
       </g>
       <g>
        <path d="M-120,325h24M-108,318v13M-96,341h24M-84,335v12M-72,334h24M-60,328v12M-48,352h24M-36,347v11M-24,372h24M-12,366v11M0,374h24M12,369v11M24,367h24M36,361v11M48,384h24M60,379v10M72,398h24M84,393v10M96,392h24M108,387v10M120,393h24M132,388v10M144,401h24M156,396v10M168,395h24M180,390v10M192,379h24M204,373v11M216,384h24M228,379v11M240,384h24M252,379v10M264,401h24M276,396v10M288,416h24M300,412v8M312,428h24M324,424v7M336,430h24M348,426v8M360,450h24M372,447v6M384,449h24M396,446v7M408,447h24M420,444v6M432,452h24M444,449v6M456,453h24M468,450v6M480,457h24M492,454v6M504,459h24M516,456v6M528,460h24M540,458v5M552,462h24M564,459v6M576,464h24M588,461v5M600,467h24M612,465v4M624,463h24M636,460v5M648,470h24M660,468v4M672,471h24M684,469v4M696,471h24M708,469v4M720,470h24M732,467v5M744,472h24M756,470v4M768,475h24M780,474v3M792,476h24M804,474v3M816,475h24M828,473v3M840,478h24M852,476v4M864,479h24M876,477v3M888,480h24M900,479v3M912,479h24M924,477v3M936,480h24M948,479v3M960,483h24M972,482v2M984,480h24M996,479v3M1008,479h24M1020,478v3M1032,482h24M1044,481v2M1056,483h24M1068,482v2" style="stroke: black; stroke-width: 1;"></path>
@@ -140,11 +140,11 @@
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(87,52)">
       Data
      </text>
-     <path d="M10,70v25h67v-25z" style="fill: #0066cce5; stroke: black; stroke-width: 1;"></path>
+     <path d="M10,70v25h67v-25z" style="stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(87,83)">
       Background
      </text>
-     <path d="M10,102v25h67v-25z" style="fill: #cc000080; stroke: black; stroke-width: 1;"></path>
+     <path d="M10,102v25h67v-25z" style="stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(87,115)">
       Signal
      </text>
@@ -158,7 +158,7 @@
      <path d="M0,0H960V164H0Z" style="fill: none; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="960" height="164" viewBox="0 0 960 164">
       <g>
-       <path d="M-120,79h24v7h24v-16h24v14h24v2h48v-15h24v11h24v8h24v-8h24v-17h24v-3h24v8h24v-39h24v-20h24v9h24v19h24v12h24v17h24v-9h24v35h24v-3h24v-14h24v-27h24v32h24v10h24v-6h24v5h24v-3h24v-2h24v-1h24v-31h24v45h24v-10h24v-32h24v11h24v-12h24v43h24v-3h24v-40h24v50h24v-20h24v13h24v-7h24v-55h24v80h24v-47h24v15h24v-24h24v49h24" style="stroke-linejoin: miter; stroke: #0066cc; stroke-width: 2; fill: none;"></path>
+       <path d="M-120,79h24v7h24v-16h24v14h24v2h48v-15h24v11h24v8h24v-8h24v-17h24v-3h24v8h24v-39h24v-20h24v9h24v19h24v12h24v17h24v-9h24v35h24v-3h24v-14h24v-27h24v32h24v10h24v-6h24v5h24v-3h24v-2h24v-1h24v-31h24v45h24v-10h24v-32h24v11h24v-12h24v43h24v-3h24v-40h24v50h24v-20h24v13h24v-7h24v-55h24v80h24v-47h24v15h24v-24h24v49h24" style="stroke-linejoin: miter; stroke: #0066cd; stroke-width: 2; fill: none;"></path>
       </g>
       <g>
        <path d="M-120,79h24M-108,75v9M-96,86h24M-84,81v9M-72,70h24M-60,65v11M-48,84h24M-36,79v10M-24,86h24M-12,81v10M0,86h24M12,81v10M24,71h24M36,65v12M48,82h24M60,77v11M72,91h24M84,86v10M96,85h24M108,79v11M120,74h24M132,67v13M144,80h24M156,73v13M168,91h24M180,86v10M192,72h24M204,66v13M216,72h24M228,66v13M240,77h24M252,71v12M264,86h24M276,80v12M288,88h24M300,82v13M312,88h24M324,81v14M336,75h24M348,66v17M360,99h24M372,92v14M384,94h24M396,86v15M408,77h24M420,68v19M432,50h24M444,35v30M456,82h24M468,72v20M480,92h24M492,83v18M504,86h24M516,75v21M528,91h24M540,81v20M552,88h24M564,78v21M576,86h24M588,75v22M600,85h24M612,73v24M624,54h24M636,37v34M648,99h24M660,88v21M672,89h24M684,76v26M696,57h24M708,37v40M720,68h24M732,51v33M744,56h24M756,35v41M768,99h24M780,87v24M792,96h24M804,83v26M816,56h24M828,33v45M840,106h24M852,94v24M864,86h24M876,69v35M888,99h24M900,83v32M912,92h24M924,76v33M936,37h24M948,1v73M960,117h24M972,104v26M984,70h24M996,44v51M1008,85h24M1020,66v38M1032,61h24M1044,29v63M1056,110h24M1068,95v30" style="stroke: black; stroke-width: 1;"></path>
@@ -236,7 +236,7 @@
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(38,33)">
       Bkg
      </text>
-     <path d="M94,33H122" style="stroke: #0066cc; stroke-width: 2;"></path>
+     <path d="M94,33H122" style="stroke: #0066cd; stroke-width: 2;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(127,33)">
       Bkg+Signal
      </text>

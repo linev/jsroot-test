@@ -8,10 +8,10 @@
      <path d="M0,0H996V488H0Z" style="fill: none; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="996" height="488" viewBox="0 0 996 488">
       <g>
-       <path d="M-124,330h24v4h25v19h25v-3h25v16h25v2h25v13h25v2h25v3h25v3h25v13h24v1h25v-19h25v6h25v5h25v-5h25v6h25v14h25v13h25v12h25v5h24v3h25v6h25v13h25v-9h50v5h25v-1h25v3h25v2h25v4h24v3h25v-4h25v4h25v6h25v-3h25v4h25v-4h25v1h25v5h25v-4h24v4h75v5h25v-4h25v2h25v-2h25v4h25v-3h25L1121,491H-124Z" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: #cc000080;"></path>
+       <path d="M-124,330h24v4h25v19h25v-3h25v16h25v2h25v13h25v2h25v3h25v3h25v13h24v1h25v-19h25v6h25v5h25v-5h25v6h25v14h25v13h25v12h25v5h24v3h25v6h25v13h25v-9h50v5h25v-1h25v3h25v2h25v4h24v3h25v-4h25v4h25v6h25v-3h25v4h25v-4h25v1h25v5h25v-4h24v4h75v5h25v-4h25v2h25v-2h25v4h25v-3h25" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: none;"></path>
       </g>
       <g>
-       <path d="M-124,330h24v4h25v19h25v-3h25v16h25v2h25v13h25v2h25v5h25v4h25v17h24v9h25v-11h25v13h25v12h25v-3h25v2h25v5h50v7h25v1h24v1h25v4h25v13h25v-9h50v5h25v-1h25v3h25v2h25v4h24v3h25v-4h25v4h25v6h25v-3h25v4h25v-4h25v1h25v5h25v-4h24v4h75v5h25v-4h25v2h25v-2h25v4h25v-3h25L1121,491H-124Z" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: #0066cce5;"></path>
+       <path d="M-124,330h24v4h25v19h25v-3h25v16h25v2h25v13h25v2h25v5h25v4h25v17h24v9h25v-11h25v13h25v12h25v-3h25v2h25v5h50v7h25v1h24v1h25v4h25v13h25v-9h50v5h25v-1h25v3h25v2h25v4h24v3h25v-4h25v4h25v6h25v-3h25v4h25v-4h25v1h25v5h25v-4h24v4h75v5h25v-4h25v2h25v-2h25v4h25v-3h25" style="stroke-linejoin: miter; stroke: black; stroke-width: 1; fill: none;"></path>
       </g>
       <g>
        <path d="M-124,325h24M-112,318v13M-100,341h26M-87,335v12M-75,334h26M-62,328v12M-50,352h26M-37,347v11M-25,372h26M-12,366v11M0,374h26M13,369v11M25,367h26M38,361v11M50,384h26M63,379v10M75,398h26M88,393v10M100,392h26M113,387v10M125,393h24M137,388v10M149,401h26M162,396v10M174,395h26M187,390v10M199,379h26M212,373v11M224,384h26M237,379v11M249,384h26M262,379v10M274,401h26M287,396v10M299,416h26M312,412v8M324,428h26M337,424v7M349,430h26M362,426v8M374,450h24M386,447v6M398,449h26M411,446v7M423,447h26M436,444v6M448,452h26M461,449v6M473,453h26M486,450v6M498,457h26M511,454v6M523,459h26M536,456v6M548,460h26M561,458v5M573,462h26M586,459v6M598,464h26M611,461v5M623,467h24M635,465v4M647,463h26M660,460v5M672,470h26M685,468v4M697,471h26M710,469v4M722,471h26M735,469v4M747,470h26M760,467v5M772,472h26M785,470v4M797,475h26M810,474v3M822,476h26M835,474v3M847,475h26M860,473v3M872,478h24M884,476v4M896,479h26M909,477v3M921,480h26M934,479v3M946,479h26M959,477v3M971,480h26M984,479v3M996,483h26M1009,482v2M1021,480h26M1034,479v3M1046,479h26M1059,478v3M1071,482h26M1084,481v2M1096,483h26M1109,482v2" style="stroke: black; stroke-width: 1;"></path>
@@ -140,11 +140,11 @@
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(87,52)">
       Data
      </text>
-     <path d="M10,70v25h67v-25z" style="fill: #0066cce5; stroke: black; stroke-width: 1;"></path>
+     <path d="M10,70v25h67v-25z" style="stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(87,83)">
       Background
      </text>
-     <path d="M10,102v25h67v-25z" style="fill: #cc000080; stroke: black; stroke-width: 1;"></path>
+     <path d="M10,102v25h67v-25z" style="stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(87,115)">
       Signal
      </text>
@@ -158,7 +158,7 @@
      <path d="M0,0H996V164H0Z" style="fill: none; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="996" height="164" viewBox="0 0 996 164">
       <g>
-       <path d="M-124,79h24v7h25v-16h25v14h25v2h50v-15h25v11h25v8h25v-8h25v-17h24v-3h25v8h25v-39h25v-20h25v9h25v19h25v12h25v17h25v-9h25v35h24v-3h25v-14h25v-27h25v32h25v10h25v-6h25v5h25v-3h25v-2h25v-1h24v-31h25v45h25v-10h25v-32h25v11h25v-12h25v43h25v-3h25v-40h25v50h24v-20h25v13h25v-7h25v-55h25v80h25v-47h25v15h25v-24h25v49h25" style="stroke-linejoin: miter; stroke: #0066cc; stroke-width: 2; fill: none;"></path>
+       <path d="M-124,79h24v7h25v-16h25v14h25v2h50v-15h25v11h25v8h25v-8h25v-17h24v-3h25v8h25v-39h25v-20h25v9h25v19h25v12h25v17h25v-9h25v35h24v-3h25v-14h25v-27h25v32h25v10h25v-6h25v5h25v-3h25v-2h25v-1h24v-31h25v45h25v-10h25v-32h25v11h25v-12h25v43h25v-3h25v-40h25v50h24v-20h25v13h25v-7h25v-55h25v80h25v-47h25v15h25v-24h25v49h25" style="stroke-linejoin: miter; stroke: #0066cd; stroke-width: 2; fill: none;"></path>
       </g>
       <g>
        <path d="M-124,79h24M-112,75v9M-100,86h26M-87,81v9M-75,70h26M-62,65v11M-50,84h26M-37,79v10M-25,86h26M-12,81v10M0,86h26M13,81v10M25,71h26M38,65v12M50,82h26M63,77v11M75,91h26M88,86v10M100,85h26M113,79v11M125,74h24M137,67v13M149,80h26M162,73v13M174,91h26M187,86v10M199,72h26M212,66v13M224,72h26M237,66v13M249,77h26M262,71v12M274,86h26M287,80v12M299,88h26M312,82v13M324,88h26M337,81v14M349,75h26M362,66v17M374,99h24M386,92v14M398,94h26M411,86v15M423,77h26M436,68v19M448,50h26M461,35v30M473,82h26M486,72v20M498,92h26M511,83v18M523,86h26M536,75v21M548,91h26M561,81v20M573,88h26M586,78v21M598,86h26M611,75v22M623,85h24M635,73v24M647,54h26M660,37v34M672,99h26M685,88v21M697,89h26M710,76v26M722,57h26M735,37v40M747,68h26M760,51v33M772,56h26M785,35v41M797,99h26M810,87v24M822,96h26M835,83v26M847,56h26M860,33v45M872,106h24M884,94v24M896,86h26M909,69v35M921,99h26M934,83v32M946,92h26M959,76v33M971,37h26M984,1v73M996,117h26M1009,104v26M1021,70h26M1034,44v51M1046,85h26M1059,66v38M1071,61h26M1084,29v63M1096,110h26M1109,95v30" style="stroke: black; stroke-width: 1;"></path>
@@ -236,7 +236,7 @@
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(38,33)">
       Bkg
      </text>
-     <path d="M94,33H122" style="stroke: #0066cc; stroke-width: 2;"></path>
+     <path d="M94,33H122" style="stroke: #0066cd; stroke-width: 2;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(127,33)">
       Bkg+Signal
      </text>
