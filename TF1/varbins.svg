@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
+ <g>
+  <g transform="translate(120,80)">
+   <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
+    <g>
+     <path d="M0,640h6v-2h1v-41h1v-111h1v-148h1v-137h1v-99h1v-55h1v-17h1v12h2v31h2v42h1v47h2v49h3v47h2v45h3v41h3v37h3v33h4v29h4v26h5v22h5v20h5v17h6v15h7v12h8v12h8v9h9v8h10v8h11v6h13v5h13v5h16v4h16v3h19v3h20v3h23v2h24v2h28v2h30v2h34v1h37v1h41v1h46v1h50v1h55v1h129v1h158v1h91" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: none;"></path>
+    </g>
+    <g>
+     <path d="M0,640C0.2,640,0.6,640,1,640S1.6,640,2,640S2.6,640,3,640S3.6,640,4,640S4.6,640,5,640S5.7,640.48,6,640S6.2,646.16,6.5,637.59S7.1,627.52,7.5,597.17S8.1,537.72,8.5,485.81S9.1,394.63,9.5,337.64S10.1,247.96,10.5,200.87S11.1,132.91,11.5,102.2S12.1,61.65,12.5,47.31S13,31.52,13.5,30.49S14.3,33.68,15,42.15S16.3,58.31,17,72.82S17.9,96.86,18.5,114.69S19.2,142.77,20,161.95S21.5,191.38,22.5,210.59S24,239.6,25,258.01S26.4,285.51,27.5,302.64S29.3,328.05,30.5,343.67S32.2,366.71,33.5,380.74S35.5,401.36,37,413.84S39.3,432.11,41,443.11S43.6,459.19,45.5,468.83S48.5,482.9,50.5,491.32S53.4,503.59,55.5,510.91S58.6,521.57,61,527.93S64.7,537.18,67.5,542.69S71.9,550.71,75,555.48S79.7,562.41,83,566.54S87.9,572.54,91.5,576.11S97,581.31,101,584.39S107,588.88,111.5,591.56S118.5,595.44,123.5,597.76S131,601.12,136.5,603.13S144.9,606.04,151,607.78S160.3,610.31,167,611.82S177.1,614.01,184.5,615.32S195.8,617.22,204,618.36S216.5,620.02,225.5,621.01S239.1,622.45,249,623.31S264,624.57,275,625.32S291.8,626.41,304,627.07S322.5,628.02,336,628.6S356.6,629.43,371.5,629.93S394,630.66,410.5,631.1S435.7,631.74,454,632.13S481.9,632.69,502,633.03S532.4,633.52,554.5,633.82S588,634.25,612.5,634.51S649.8,634.89,677,635.12S718.4,635.46,748.5,635.66S794.3,635.96,827.5,636.14S897.1,636.48,914.5,636.56" style="fill: none; stroke: red; stroke-width: 2;"></path>
+    </g>
+   </svg>
+   <g>
+    <g transform="translate(0,640)">
+     <path d="M0,0h960M24,-12V0M48,-12V0M72,-12V0M96,-24V0M120,-12V0M144,-12V0M168,-12V0M192,-24V0M216,-12V0M240,-12V0M264,-12V0M288,-24V0M312,-12V0M336,-12V0M360,-12V0M384,-24V0M408,-12V0M432,-12V0M456,-12V0M480,-24V0M504,-12V0M528,-12V0M552,-12V0M576,-24V0M600,-12V0M624,-12V0M648,-12V0M672,-24V0M696,-12V0M720,-12V0M744,-12V0M768,-24V0M792,-12V0M816,-12V0M840,-12V0M864,-24V0M888,-12V0M912,-12V0M936,-12V0M960,-24V0" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="middle">
+      <text dy=".8em" transform="translate(96,5)">
+       20
+      </text>
+      <text dy=".8em" transform="translate(192,5)">
+       40
+      </text>
+      <text dy=".8em" transform="translate(288,5)">
+       60
+      </text>
+      <text dy=".8em" transform="translate(384,5)">
+       80
+      </text>
+      <text dy=".8em" transform="translate(480,5)">
+       100
+      </text>
+      <text dy=".8em" transform="translate(576,5)">
+       120
+      </text>
+      <text dy=".8em" transform="translate(672,5)">
+       140
+      </text>
+      <text dy=".8em" transform="translate(768,5)">
+       160
+      </text>
+      <text dy=".8em" transform="translate(864,5)">
+       180
+      </text>
+      <text dy=".8em" transform="translate(960,5)">
+       200
+      </text>
+     </g>
+    </g>
+    <g>
+     <path d="M0,0v640M36,640H0M18,626H0M18,611H0M18,597H0M18,583H0M36,569H0M18,554H0M18,540H0M18,526H0M18,512H0M36,497H0M18,483H0M18,469H0M18,455H0M18,440H0M36,426H0M18,412H0M18,398H0M18,383H0M18,369H0M36,355H0M18,341H0M18,326H0M18,312H0M18,298H0M36,284H0M18,269H0M18,255H0M18,241H0M18,227H0M36,212H0M18,198H0M18,184H0M18,170H0M18,155H0M36,141H0M18,127H0M18,113H0M18,98H0M18,84H0M36,70H0M18,56H0M18,41H0M18,27H0M18,13H0" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
+      <text dy=".4em" transform="translate(-6,640)">
+       0
+      </text>
+      <text dy=".4em" transform="translate(-6,569)">
+       0.1
+      </text>
+      <text dy=".4em" transform="translate(-6,497)">
+       0.2
+      </text>
+      <text dy=".4em" transform="translate(-6,426)">
+       0.3
+      </text>
+      <text dy=".4em" transform="translate(-6,355)">
+       0.4
+      </text>
+      <text dy=".4em" transform="translate(-6,284)">
+       0.5
+      </text>
+      <text dy=".4em" transform="translate(-6,212)">
+       0.6
+      </text>
+      <text dy=".4em" transform="translate(-6,141)">
+       0.7
+      </text>
+      <text dy=".4em" transform="translate(-6,70)">
+       0.8
+      </text>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
+    h_novosibirsk
+   </text>
+  </g>
+  <g transform="translate(936,52)" font-family="Arial" font-size="25" space="preserve" fill="black">
+   <path d="M0,0H240V128H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <text text-anchor="middle" dy=".4em" transform="translate(120,16)">
+    h_novosibirsk
+   </text>
+   <text text-anchor="start" dy=".4em" transform="translate(12,48)">
+    Entries
+   </text>
+   <text text-anchor="end" dy=".4em" transform="translate(228,48)">
+    100
+   </text>
+   <text text-anchor="start" dy=".4em" transform="translate(12,80)">
+    Mean
+   </text>
+   <text text-anchor="end" dy=".4em" transform="translate(228,80)">
+    7.036
+   </text>
+   <text text-anchor="start" dy=".4em" transform="translate(12,112)">
+    Std Dev
+   </text>
+   <text text-anchor="end" dy=".4em" transform="translate(228,112)">
+    12.28
+   </text>
+   <path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path>
+  </g>
+ </g>
+</svg>
