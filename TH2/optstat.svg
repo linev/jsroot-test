@@ -100,7 +100,7 @@
    </text>
   </g>
   <g transform="translate(936,52)" font-family="Arial" font-size="16" space="preserve" fill="black">
-   <path d="M0,0H240V384H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0H240V448H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <text text-anchor="middle" dy=".4em" transform="translate(120,16)">
     hpxpy
    </text>
@@ -152,34 +152,46 @@
    <text text-anchor="end" dy=".4em" transform="translate(228,272)">
     -0.001842
    </text>
-   <text text-anchor="middle" dy=".4em" transform="translate(40,304)">
-    0
+   <text text-anchor="start" dy=".4em" transform="translate(12,304)">
+    Kurtosis x
    </text>
-   <text text-anchor="middle" dy=".4em" transform="translate(120,304)">
-    3
+   <text text-anchor="end" dy=".4em" transform="translate(228,304)">
+    0.006675
    </text>
-   <text text-anchor="middle" dy=".4em" transform="translate(200,304)">
-    3
+   <text text-anchor="start" dy=".4em" transform="translate(12,336)">
+    Kurtosis y
    </text>
-   <text text-anchor="middle" dy=".4em" transform="translate(40,336)">
-    1
-   </text>
-   <text text-anchor="middle" dy=".4em" transform="translate(120,336)">
-    24994
-   </text>
-   <text text-anchor="middle" dy=".4em" transform="translate(200,336)">
-    0
+   <text text-anchor="end" dy=".4em" transform="translate(228,336)">
+    0.01190
    </text>
    <text text-anchor="middle" dy=".4em" transform="translate(40,368)">
     0
    </text>
    <text text-anchor="middle" dy=".4em" transform="translate(120,368)">
-    2
+    3
    </text>
    <text text-anchor="middle" dy=".4em" transform="translate(200,368)">
+    3
+   </text>
+   <text text-anchor="middle" dy=".4em" transform="translate(40,400)">
+    1
+   </text>
+   <text text-anchor="middle" dy=".4em" transform="translate(120,400)">
+    24994
+   </text>
+   <text text-anchor="middle" dy=".4em" transform="translate(200,400)">
     0
    </text>
-   <path d="M0,32h240M0,288h240M0,320h240M0,352h240M80,288V384M160,288V384" style="stroke: black; stroke-width: 1;"></path>
+   <text text-anchor="middle" dy=".4em" transform="translate(40,432)">
+    0
+   </text>
+   <text text-anchor="middle" dy=".4em" transform="translate(120,432)">
+    2
+   </text>
+   <text text-anchor="middle" dy=".4em" transform="translate(200,432)">
+    0
+   </text>
+   <path d="M0,32h240M0,352h240M0,384h240M0,416h240M80,352V448M160,352V448" style="stroke: black; stroke-width: 1;"></path>
   </g>
  </g>
 </svg>
