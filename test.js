@@ -348,7 +348,9 @@ function processNextOption(reset_mathjax) {
    if (entry.r3d) opt2 = (opt ? ',' : '') + 'r3d_' + entry.r3d;
 
    if (entry.url)
-      url = entry.url.replace(/\$\$\$/g, filepath).replace(/inject=demo/g, `inject=${jsroot_path}/demo`);
+      url = entry.url.replace(/\$\$\$/g, filepath)
+                     .replace(/file=demo/g, `file=${jsroot_path}/demo`)
+                     .replace(/inject=demo/g, `inject=${jsroot_path}/demo`);
    else if (entry.asurl) {
       url = ((entry.asurl === 'browser') ? '?' : '?nobrowser&');
       url += jsonname ? 'json=' + jsonname : 'file=' + filename + '&item=' + itemname;
