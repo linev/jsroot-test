@@ -108,71 +108,77 @@
     </g>
    </g>
   </g>
-  <g transform="translate(744,52)" font-family="Arial" font-size="26" space="preserve">
-   <path d="M0,0H432V256H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <g transform="translate(22,26) scale(0.988)">
-    <text fill="black" font-size="27">
-     χ^2 / ndf
+  <g transform="translate(744,52)" font-family="Arial" font-size="14" space="preserve">
+   <path d="M0,0H432V160H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <g transform="translate(22,16) scale(0.874)">
+    <text fill="black" font-size="17">
+     χ
+    </text>
+    <text fill="black" font-size="10" transform="translate(9,-9)">
+     2
+    </text>
+    <text fill="black" font-size="17" x="22">
+     / ndf
     </text>
    </g>
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(410,16)">
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(410,10)">
     20.03 / 30
    </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,48)">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,30)">
     Prob
    </text>
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(410,48)">
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(410,30)">
     0.9157
    </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,80)">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,50)">
     Bkg0
    </text>
-   <g transform="translate(233,90) scale(0.988)">
-    <text fill="black" font-size="27" x="11">
+   <g transform="translate(311,55) scale(0.874)">
+    <text fill="black" font-size="17" x="7">
      -1.723 ± 3.178
     </text>
    </g>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,112)">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,70)">
     Bkg1
    </text>
-   <g transform="translate(254,122) scale(0.988)">
-    <text fill="black" font-size="27" x="11">
+   <g transform="translate(323,75) scale(0.874)">
+    <text fill="black" font-size="17" x="7">
      55.72 ± 8.54
     </text>
    </g>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,144)">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,90)">
     Bkg2
    </text>
-   <g transform="translate(248,154) scale(0.988)">
-    <text fill="black" font-size="27" x="11">
+   <g transform="translate(320,95) scale(0.874)">
+    <text fill="black" font-size="17" x="7">
      -19.41 ± 4.10
     </text>
    </g>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,176)">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,110)">
     Gauss scale
    </text>
-   <g transform="translate(242,186) scale(0.988)">
-    <text fill="black" font-size="27" x="11">
+   <g transform="translate(316,115) scale(0.874)">
+    <text fill="black" font-size="17" x="7">
      8.415 ± 1.290
     </text>
    </g>
-   <g transform="translate(22,218) scale(0.988)">
-    <text fill="black" font-size="27">
+   <g transform="translate(22,135) scale(0.874)">
+    <text fill="black" font-size="17">
      Gauss σ
     </text>
    </g>
-   <g transform="translate(183,218) scale(0.988)">
-    <text fill="black" font-size="27" x="11">
+   <g transform="translate(284,135) scale(0.874)">
+    <text fill="black" font-size="17" x="7">
      0.07243 ± 0.01162
     </text>
    </g>
-   <g transform="translate(22,250) scale(0.988)">
-    <text fill="black" font-size="27">
+   <g transform="translate(22,155) scale(0.874)">
+    <text fill="black" font-size="17">
      Gauss μ
     </text>
    </g>
-   <g transform="translate(211,250) scale(0.988)">
-    <text fill="black" font-size="27" x="11">
+   <g transform="translate(299,155) scale(0.874)">
+    <text fill="black" font-size="17" x="7">
      0.9845 ± 0.0104
     </text>
    </g>
