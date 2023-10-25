@@ -27,7 +27,7 @@ const jsroot_path = './../jsroot',
 examples_main.TH1.push({ name: 'B_local', file: 'file://other/hsimple.root', item: 'hpx;1', opt: 'B,fill_green', title: 'draw histogram as bar chart' });
 examples_main.TTree.push({ name: '2d_local', asurl: true, file: 'file://other/hsimple.root', item: 'ntuple', opt: 'px:py', title: 'Two-dimensional TTree::Draw' });
 
-let init_style = null, init_palette = 57,
+let init_style = null, init_curve = false, init_palette = 57,
     test_mode = 'verify', nmatch = 0, ndiff = 0, nnew = 0,
     keyid = 'TH1', theonlykey = false, optid = -1,
     theOnlyOption, theOnlyOptionId = -100, itemid = -1,
@@ -105,7 +105,9 @@ function produceGlobalStyleCopy() {
    if (!init_style && gStyle) {
       init_style = Object.assign({}, gStyle);
       init_palette = settings.Palette;
+      init_curve = settings.FuncAsCurve;
    }
+
 }
 
 function produceFile(content, extension, subid) {
@@ -380,6 +382,7 @@ function processNextOption(reset_mathjax) {
       Object.assign(gStyle, init_style);
 
    settings.Palette = init_palette;
+   settings.FuncAsCurve = init_curve;
 
    // ensure default options
    createRootColors(); // ensure default colors
