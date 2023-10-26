@@ -1,699 +1,439 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
- <path d="M0,0H1200V800H0Z" style="fill: #ffff9a;"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 576 384" preserveAspectRatio="none" x="12" y="8" width="576" height="384">
-   <path d="M0,0H576V384H0Z" style="fill: #ffffcd;"></path>
+   <path d="M0,0H576V384H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(58,38)">
-     <path d="M0,0H461V307H0Z" style="fill: #ffffcd; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H461V307H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="461" height="307" viewBox="0 0 461 307">
       <g>
-       <path d="M0,274h5v-7h2v-17h2v12h3v6h2v-14h2v11h2v1h3v1h2v-10h2v2h3v1h2v-6h2v-8h3v6h2v3h2v-4h2v-3h3v-1h2v2h2v-4h3v3h2v-9h2v5h3v2h2v-3h2v-2h3v-10h2v3h2v3h2v-7h3v10h2v4h2v-13h3v4h4v-8h3v-4h2v4h2v-4h3v4h2v-4h2v2h2v-7h3v5h2v-6h2v-2h3v8h2v-8h2v-9h3v8h2v-8h2v-6h2v8h3v-7h2v-8h2v-2h3v-5h2v-11h2v-8h3v-11h2v-8h2v-22h3v-30h2v-38h2v-26h2v15h3v37h2v29h2v24h3v13h2v12h2v10h3v3h2v8h7v-2h2v10h2v1h5v2h2v-4h3v3h4v-2h3v-1h2v3h2v-9h2v3h3v1h4v-2h3v7h2v-8h2v-2h3v-1h2v2h2v2h3v-4h6v-1h3v-1h2v-2h2v2h3v1h2v-5h2v2h3v-2h2v1h2v1h2v-5h3v5h2v-4h2v-4h3v4h7v-5h2v2h5v1h2v-3h2v1h2v-4h3v3h2v-4h5v1h2v-3h2v4h3v-1h4v-3h2v-2h3v4h2v-7h2v5h3v-5h2v2h2v1h5v-2h5v-4h2v2h4v2h3v-2h4v-3h3v-4h2v5h2v-5h3v3h2v1h2v-4h2v1h3v-1h7v4h2v-3h2v-2h3v1h4v1h3v-1h2v-4h2v1h2v-2h3v3h2v-3h2v-1h5v-2h5v-1h2v1h2v-2h5v3h2v-3h5v-1h2v1h2v-2h3v3h2v-3h5v-1h2v2h2v-3h2v1h3v-4h7v1h2" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: none;"></path>
+       <path d="M0,307h55v-6h5v6h32v-6h5v6h9v-11h9v-11h5v5h4v-22h5v22h5v-5h4v-11h5v-6h9v-27h5v11h4v-55h5v60h5v-55h4v6h5v-17h4v6h5v-50h5v-33h4v50h5v5h4v-72h5v-82h5v110h4v-33h5v-61h9v122h5v-45h4v-27h5v83h5v5h4v6h5v11h4v-83h5v61h5v11h4v33h5v-55h4v33h5v49h5v22h4v6h5v-17h4v-16h5v55h9v-11h10v5h4v22h5v-11h4v17h5v-6h9v-5h5v11h14v-6h4v6h74" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: none;"></path>
       </g>
       <g>
-       <path d="M1,268l3,-1h2l2,-1l3,-1l2,-1l2,-1l2,-1l3,-1l2,-1l2,-1l3,-1l2,-1l2,-1l3,-1l2,-1l2,-1l2,-1l3,-1l2,-1l2,-1l3,-1l2,-1l2,-1l3,-1l2,-1l2,-1l3,-1l2,-1l2,-1l2,-1l3,-1l2,-1l2,-2l3,-1l2,-1l2,-1l3,-1l2,-1l2,-2l3,-1l2,-1l2,-1l2,-2l3,-1l2,-2l2,-1l3,-2l2,-1l2,-2l3,-2l2,-2l2,-2l2,-3l3,-3l2,-3l2,-3l3,-5l2,-5l2,-6l3,-8l2,-9l2,-13l3,-17l2,-22l2,-31l2,-38l3,-9l2,34l2,34l3,24l2,18l2,13l3,9l2,7l2,5l2,4l3,3l2,2l2,1l3,1l2,1h2l3,1h2h2h3h2l2,-1h2h3l2,-1h2h3l2,-1h2l3,-1h2l2,-1h3l2,-1l2,-1h2l3,-1h2l2,-1h3l2,-1l2,-1h3l2,-1h2l2,-1h3l2,-1l2,-1h3l2,-1h2l3,-1h2l2,-1l3,-1h2l2,-1h2l3,-1h2l2,-1l3,-1h2l2,-1h3l2,-1h2l2,-1h3l2,-1h2l3,-1h2l2,-1l3,-1h2l2,-1h3l2,-1h2l2,-1h3l2,-1h2l3,-1h2l2,-1h3l2,-1h2l2,-1h3l2,-1h2h3l2,-1h2l3,-1h2l2,-1h3l2,-1h2l2,-1h3l2,-1h2h3l2,-1h2l3,-1h2l2,-1h3l2,-1h2h2l3,-1h2l2,-1h3l2,-1h2h3l2,-1h2l2,-1h3l2,-1h2h3l2,-1" style="fill: none; stroke: #660000; stroke-width: 2;"></path>
+       <path d="M3,307h4h5h4h5h5h4h5h4h5h5h4h5h5l4,-1h5h4h5l5,-1h4l5,-1l4,-1l5,-2l5,-1l4,-2l5,-3l4,-3l5,-3l5,-4l4,-5l5,-6l5,-7l4,-7l5,-8l4,-9l5,-10l5,-10l4,-11l5,-11l4,-12l5,-12l5,-11l4,-12l5,-10l4,-10l5,-8l5,-7l4,-6l5,-4l5,-2h4l5,1l4,4l5,5l5,7l4,8l5,9l4,11l5,11l5,11l4,12l5,12l4,11l5,11l5,11l4,10l5,9l4,8l5,8l5,6l4,6l5,5l5,5l4,3l5,4l4,2l5,2l5,2l4,1l5,1l4,1l5,1l5,1h4h5h4l5,1h5h4h5h5h4h5h4h5h5h4h5h4h5" style="fill: none; stroke: red; stroke-width: 2;"></path>
       </g>
      </svg>
      <g>
       <g transform="translate(0,307)">
-       <path d="M0,0h461M0,-12V0M15,-6V0M31,-6V0M46,-6V0M61,-6V0M77,-12V0M92,-6V0M108,-6V0M123,-6V0M138,-6V0M154,-12V0M169,-6V0M184,-6V0M200,-6V0M215,-6V0M231,-12V0M246,-6V0M261,-6V0M277,-6V0M292,-6V0M307,-12V0M323,-6V0M338,-6V0M353,-6V0M369,-6V0M384,-12V0M400,-6V0M415,-6V0M430,-6V0M446,-6V0M461,-12V0" style="stroke: black; stroke-width: 1;"></path>
+       <path d="M0,0h461M0,-12V0M9,-6V0M18,-6V0M28,-6V0M37,-6V0M46,-12V0M55,-6V0M65,-6V0M74,-6V0M83,-6V0M92,-12V0M101,-6V0M111,-6V0M120,-6V0M129,-6V0M138,-12V0M148,-6V0M157,-6V0M166,-6V0M175,-6V0M184,-12V0M194,-6V0M203,-6V0M212,-6V0M221,-6V0M231,-12V0M240,-6V0M249,-6V0M258,-6V0M267,-6V0M277,-12V0M286,-6V0M295,-6V0M304,-6V0M313,-6V0M323,-12V0M332,-6V0M341,-6V0M350,-6V0M360,-6V0M369,-12V0M378,-6V0M387,-6V0M396,-6V0M406,-6V0M415,-12V0M424,-6V0M433,-6V0M443,-6V0M452,-6V0M461,-12V0" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="middle">
         <text dy=".8em" transform="translate(0,3)">
-         0
+         -5
         </text>
-        <text dy=".8em" transform="translate(77,3)">
-         0.5
+        <text dy=".8em" transform="translate(46,3)">
+         -4
         </text>
-        <text dy=".8em" transform="translate(154,3)">
-         1
+        <text dy=".8em" transform="translate(92,3)">
+         -3
+        </text>
+        <text dy=".8em" transform="translate(138,3)">
+         -2
+        </text>
+        <text dy=".8em" transform="translate(184,3)">
+         -1
         </text>
         <text dy=".8em" transform="translate(231,3)">
-         1.5
+         0
         </text>
-        <text dy=".8em" transform="translate(307,3)">
+        <text dy=".8em" transform="translate(277,3)">
+         1
+        </text>
+        <text dy=".8em" transform="translate(323,3)">
          2
         </text>
-        <text dy=".8em" transform="translate(384,3)">
-         2.5
+        <text dy=".8em" transform="translate(369,3)">
+         3
+        </text>
+        <text dy=".8em" transform="translate(415,3)">
+         4
         </text>
         <text dy=".8em" transform="translate(461,3)">
-         3
+         5
         </text>
        </g>
       </g>
       <g>
-       <path d="M0,0v307M9,296H0M9,282H0M9,272H0M9,263H0M9,256H0M9,249H0M9,244H0M17,239H0M9,205H0M9,186H0M9,172H0M9,161H0M9,153H0M9,145H0M9,139H0M9,133H0M17,128H0M9,95H0M9,75H0M9,62H0M9,51H0M9,42H0M9,35H0M9,28H0M9,23H0M17,18H0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="13" space="preserve">
-        <g transform="translate(-21,245)">
-         <text fill="black" font-size="13">
-          10
-         </text>
-         <text fill="black" font-size="8" transform="translate(14,-7)">
-          2
-         </text>
-        </g>
-        <g transform="translate(-21,134)">
-         <text fill="black" font-size="13">
-          10
-         </text>
-         <text fill="black" font-size="8" transform="translate(14,-7)">
-          3
-         </text>
-        </g>
-        <g transform="translate(-21,24)">
-         <text fill="black" font-size="13">
-          10
-         </text>
-         <text fill="black" font-size="8" transform="translate(14,-7)">
-          4
-         </text>
-        </g>
+       <path d="M0,0v307M17,307H0M9,296H0M9,285H0M9,274H0M9,263H0M17,252H0M9,241H0M9,230H0M9,219H0M9,208H0M17,197H0M9,186H0M9,175H0M9,164H0M9,153H0M17,142H0M9,130H0M9,119H0M9,108H0M9,97H0M17,86H0M9,75H0M9,64H0M9,53H0M9,42H0M17,31H0M9,20H0M9,9H0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-3,307)">
+         0
+        </text>
+        <text dy=".4em" transform="translate(-3,252)">
+         10
+        </text>
+        <text dy=".4em" transform="translate(-3,197)">
+         20
+        </text>
+        <text dy=".4em" transform="translate(-3,142)">
+         30
+        </text>
+        <text dy=".4em" transform="translate(-3,86)">
+         40
+        </text>
+        <text dy=".4em" transform="translate(-3,31)">
+         50
+        </text>
        </g>
       </g>
-      <path d="M0,0v307M77,0v307M154,0v307M231,0v307M307,0v307M384,0v307M461,0v307" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-      <path d="M0,296h461M0,282h461M0,272h461M0,263h461M0,256h461M0,249h461M0,244h461M0,239h461M0,205h461M0,186h461M0,172h461M0,161h461M0,153h461M0,145h461M0,139h461M0,133h461M0,128h461M0,95h461M0,75h461M0,62h461M0,51h461M0,42h461M0,35h461M0,28h461M0,23h461M0,18h461" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
      </g>
     </g>
-    <g transform="translate(357,154)" font-family="Arial" font-size="11" space="preserve">
-     <path d="M0,0H207V169H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(104,8)">
-      Minuit
+    <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231)">
+      Chi2 Fit
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,23)">
+    </g>
+    <g transform="translate(449,25)" font-family="Arial" font-size="12" space="preserve" fill="black">
+     <path d="M0,0H115V61H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text text-anchor="middle" dy=".4em" transform="translate(58,8)">
+      h1_Minuit2
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(6,23)">
       Entries
      </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(197,23)">
-      100000
+     <text text-anchor="end" dy=".4em" transform="translate(109,23)">
+      1000
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,38)">
+     <text text-anchor="start" dy=".4em" transform="translate(6,38)">
       Mean
      </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(197,38)">
-      1.777
+     <text text-anchor="end" dy=".4em" transform="translate(109,38)">
+      0.02680
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,54)">
+     <text text-anchor="start" dy=".4em" transform="translate(6,53)">
       Std Dev
      </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(197,54)">
-      0.7752
+     <text text-anchor="end" dy=".4em" transform="translate(109,53)">
+      1.038
      </text>
-     <g transform="translate(10,74) scale(0.873)">
-      <text fill="black" font-size="13">
-       χ
-      </text>
-      <text fill="black" font-size="8" transform="translate(7,-7)">
-       2
-      </text>
-      <text fill="black" font-size="13" x="16">
-       / ndf
-      </text>
-     </g>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(197,69)">
-      205.3 / 194
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,85)">
-      p0
-     </text>
-     <g transform="translate(131,89) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       51.36 ± 2.01
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,100)">
-      p1
-     </text>
-     <g transform="translate(131,104) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       55.78 ± 4.81
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,115)">
-      p2
-     </text>
-     <g transform="translate(131,119) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       74.21 ± 1.87
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,131)">
-      p3
-     </text>
-     <g transform="translate(137,135) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       427.3 ± 2.9
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,146)">
-      p4
-     </text>
-     <g transform="translate(99,150) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       0.03586 ± 0.00035
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,161)">
-      p5
-     </text>
-     <g transform="translate(122,165) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       1.000 ± 1.6e-4
-      </text>
-     </g>
-     <path d="M0,15h207" style="stroke: black; stroke-width: 1;"></path>
-    </g>
-    <g transform="translate(259,77)" font-family="Arial" font-size="21" space="preserve" font-weight="bold">
-     <path d="M3,3v38h248v-38z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-     <path d="M0,0H248V38H0Z" style="fill: #cdcd9a; stroke: black; stroke-width: 1;"></path>
-     <text fill="#660000" text-anchor="middle" dy=".4em" transform="translate(124,19)">
-      Minuit CPU= 0.19 s
-     </text>
-    </g>
-    <g transform="translate(174,2)" font-family="Arial" font-size="17" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(114,11)">
-      Minuit fit bench
-     </text>
+     <path d="M0,15h115" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
   <svg viewBox="0 0 576 384" preserveAspectRatio="none" x="612" y="8" width="576" height="384">
-   <path d="M0,0H576V384H0Z" style="fill: #ffffcd;"></path>
+   <path d="M0,0H576V384H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(58,38)">
-     <path d="M0,0H461V307H0Z" style="fill: #ffffcd; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H461V307H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="461" height="307" viewBox="0 0 461 307">
       <g>
-       <path d="M0,274h5v-8h2v-16h2v13h3v5h2v-14h2v11h2v1h3v1h2v-11h2v3h3v2h2v-9h2v-5h3v5h2v3h2v-4h2v-3h3v-1h2v2h2v-4h3v2h2v-7h2v4h3v2h2v-3h2v-2h3v-9h2v1h2v5h2v-7h3v8h2v6h2v-14h3v3h2v1h2v-8h3v-4h2v4h2v-4h3v4h2v-4h2v2h2v-7h3v5h2v-6h2v-2h3v8h2v-8h2v-9h3v9h2v-9h2v-6h2v9h3v-8h2v-8h2v-2h3v-5h2v-11h2v-8h3v-11h2v-8h2v-22h3v-30h2v-38h2v-26h2v15h3v37h2v29h2v24h3v13h2v12h2v11h3v2h2v9h2v-2h2v1h3v-2h2v10h2v1h5v2h2v-4h3v3h4v-2h3v-1h2v2h2v-8h2v3h3v1h2v-1h2v-1h3v7h2v-8h2v-2h3v-1h2v2h2v1h3v-2h2v-1h4v-1h3v-1h2v-2h2v2h3v1h2v-5h2v2h3v-2h2v2h4v-5h3v5h2v-4h2v-4h3v4h7v-4h2v1h7v-2h2v1h2v-5h3v4h2v-4h7v-2h2v4h3v-1h2v-1h2v-2h2v-2h3v4h2v-7h2v5h3v-5h2v2h2v1h3v1h2v-3h5v-3h2v1h4v2h3v-2h4v-3h3v-4h2v5h2v-5h3v3h2v1h2v-4h2v1h3v-1h7v4h2v-2h2v-3h3v1h9v-4h2v1h2v-2h3v3h2v-4h5v1h2v-3h5v-1h2v1h2v-2h5v3h2v-3h5v-1h2v1h2v-2h3v3h2v-3h5v-2h2v3h2v-3h2v1h3v-3h2v-1h5v1h2" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: none;"></path>
+       <path d="M0,307h55v-6h5v6h32v-6h5v6h9v-11h9v-11h5v5h4v-22h5v22h5v-5h4v-11h5v-6h9v-27h5v11h4v-55h5v60h5v-55h4v6h5v-17h4v6h5v-50h5v-33h4v50h5v5h4v-72h5v-82h5v110h4v-33h5v-61h9v122h5v-45h4v-27h5v83h5v5h4v6h5v11h4v-83h5v61h5v11h4v33h5v-55h4v33h5v49h5v22h4v6h5v-17h4v-16h5v55h9v-11h10v5h4v22h5v-11h4v17h5v-6h9v-5h5v11h14v-6h4v6h74" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: none;"></path>
       </g>
       <g>
-       <path d="M1,268l3,-1h2l2,-1l3,-1l2,-1l2,-1l2,-1l3,-1l2,-1l2,-1l3,-1l2,-1l2,-1l3,-1l2,-1l2,-1l2,-1l3,-1l2,-1l2,-1l3,-1l2,-1l2,-1l3,-1l2,-1l2,-1l3,-1l2,-1l2,-1l2,-1l3,-1l2,-1l2,-2l3,-1l2,-1l2,-1l3,-1l2,-1l2,-2l3,-1l2,-1l2,-1l2,-2l3,-1l2,-2l2,-1l3,-2l2,-1l2,-2l3,-2l2,-2l2,-2l2,-3l3,-3l2,-3l2,-3l3,-5l2,-5l2,-6l3,-8l2,-9l2,-13l3,-17l2,-22l2,-31l2,-38l3,-9l2,34l2,34l3,24l2,18l2,13l3,9l2,7l2,5l2,4l3,3l2,2l2,1l3,1l2,1h2l3,1h2h2h3h2h2l2,-1h3l2,-1h2h3l2,-1h2l3,-1h2l2,-1h3l2,-1l2,-1h2l3,-1h2l2,-1h3l2,-1l2,-1h3l2,-1h2l2,-1h3l2,-1l2,-1h3l2,-1h2l3,-1h2l2,-1l3,-1h2l2,-1h2l3,-1h2l2,-1l3,-1h2l2,-1h3l2,-1h2l2,-1h3l2,-1h2l3,-1h2l2,-1h3l2,-1l2,-1h3l2,-1h2l2,-1h3l2,-1h2l3,-1h2l2,-1h3l2,-1h2l2,-1h3l2,-1h2h3l2,-1h2l3,-1h2l2,-1h3l2,-1h2l2,-1h3l2,-1h2h3l2,-1h2l3,-1h2l2,-1h3l2,-1h2h2l3,-1h2l2,-1h3l2,-1h2h3l2,-1h2l2,-1h3l2,-1h2h3l2,-1" style="fill: none; stroke: #660000; stroke-width: 2;"></path>
+       <path d="M3,307h4h5h4h5h5h4h5h4h5h5h4h5h5l4,-1h5h4h5l5,-1h4l5,-1l4,-1l5,-2l5,-1l4,-2l5,-3l4,-3l5,-3l5,-4l4,-5l5,-6l5,-7l4,-7l5,-8l4,-9l5,-10l5,-10l4,-11l5,-11l4,-12l5,-12l5,-11l4,-12l5,-10l4,-10l5,-8l5,-7l4,-6l5,-4l5,-2h4l5,1l4,4l5,5l5,7l4,8l5,9l4,11l5,11l5,11l4,12l5,12l4,11l5,11l5,11l4,10l5,9l4,8l5,8l5,6l4,6l5,5l5,5l4,3l5,4l4,2l5,2l5,2l4,1l5,1l4,1l5,1l5,1h4h5h4l5,1h5h4h5h5h4h5h4h5h5h4h5h4h5" style="fill: none; stroke: red; stroke-width: 2;"></path>
       </g>
      </svg>
      <g>
       <g transform="translate(0,307)">
-       <path d="M0,0h461M0,-12V0M15,-6V0M31,-6V0M46,-6V0M61,-6V0M77,-12V0M92,-6V0M108,-6V0M123,-6V0M138,-6V0M154,-12V0M169,-6V0M184,-6V0M200,-6V0M215,-6V0M231,-12V0M246,-6V0M261,-6V0M277,-6V0M292,-6V0M307,-12V0M323,-6V0M338,-6V0M353,-6V0M369,-6V0M384,-12V0M400,-6V0M415,-6V0M430,-6V0M446,-6V0M461,-12V0" style="stroke: black; stroke-width: 1;"></path>
+       <path d="M0,0h461M0,-12V0M9,-6V0M18,-6V0M28,-6V0M37,-6V0M46,-12V0M55,-6V0M65,-6V0M74,-6V0M83,-6V0M92,-12V0M101,-6V0M111,-6V0M120,-6V0M129,-6V0M138,-12V0M148,-6V0M157,-6V0M166,-6V0M175,-6V0M184,-12V0M194,-6V0M203,-6V0M212,-6V0M221,-6V0M231,-12V0M240,-6V0M249,-6V0M258,-6V0M267,-6V0M277,-12V0M286,-6V0M295,-6V0M304,-6V0M313,-6V0M323,-12V0M332,-6V0M341,-6V0M350,-6V0M360,-6V0M369,-12V0M378,-6V0M387,-6V0M396,-6V0M406,-6V0M415,-12V0M424,-6V0M433,-6V0M443,-6V0M452,-6V0M461,-12V0" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="middle">
         <text dy=".8em" transform="translate(0,3)">
-         0
+         -5
         </text>
-        <text dy=".8em" transform="translate(77,3)">
-         0.5
+        <text dy=".8em" transform="translate(46,3)">
+         -4
         </text>
-        <text dy=".8em" transform="translate(154,3)">
-         1
+        <text dy=".8em" transform="translate(92,3)">
+         -3
+        </text>
+        <text dy=".8em" transform="translate(138,3)">
+         -2
+        </text>
+        <text dy=".8em" transform="translate(184,3)">
+         -1
         </text>
         <text dy=".8em" transform="translate(231,3)">
-         1.5
+         0
         </text>
-        <text dy=".8em" transform="translate(307,3)">
+        <text dy=".8em" transform="translate(277,3)">
+         1
+        </text>
+        <text dy=".8em" transform="translate(323,3)">
          2
         </text>
-        <text dy=".8em" transform="translate(384,3)">
-         2.5
+        <text dy=".8em" transform="translate(369,3)">
+         3
+        </text>
+        <text dy=".8em" transform="translate(415,3)">
+         4
         </text>
         <text dy=".8em" transform="translate(461,3)">
-         3
+         5
         </text>
        </g>
       </g>
       <g>
-       <path d="M0,0v307M9,296H0M9,282H0M9,272H0M9,263H0M9,256H0M9,249H0M9,244H0M17,239H0M9,205H0M9,186H0M9,172H0M9,161H0M9,153H0M9,145H0M9,139H0M9,133H0M17,128H0M9,95H0M9,75H0M9,62H0M9,51H0M9,42H0M9,35H0M9,28H0M9,23H0M17,18H0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="13" space="preserve">
-        <g transform="translate(-21,245)">
-         <text fill="black" font-size="13">
-          10
-         </text>
-         <text fill="black" font-size="8" transform="translate(14,-7)">
-          2
-         </text>
-        </g>
-        <g transform="translate(-21,134)">
-         <text fill="black" font-size="13">
-          10
-         </text>
-         <text fill="black" font-size="8" transform="translate(14,-7)">
-          3
-         </text>
-        </g>
-        <g transform="translate(-21,24)">
-         <text fill="black" font-size="13">
-          10
-         </text>
-         <text fill="black" font-size="8" transform="translate(14,-7)">
-          4
-         </text>
-        </g>
+       <path d="M0,0v307M17,307H0M9,296H0M9,285H0M9,274H0M9,263H0M17,252H0M9,241H0M9,230H0M9,219H0M9,208H0M17,197H0M9,186H0M9,175H0M9,164H0M9,153H0M17,142H0M9,130H0M9,119H0M9,108H0M9,97H0M17,86H0M9,75H0M9,64H0M9,53H0M9,42H0M17,31H0M9,20H0M9,9H0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-3,307)">
+         0
+        </text>
+        <text dy=".4em" transform="translate(-3,252)">
+         10
+        </text>
+        <text dy=".4em" transform="translate(-3,197)">
+         20
+        </text>
+        <text dy=".4em" transform="translate(-3,142)">
+         30
+        </text>
+        <text dy=".4em" transform="translate(-3,86)">
+         40
+        </text>
+        <text dy=".4em" transform="translate(-3,31)">
+         50
+        </text>
        </g>
       </g>
-      <path d="M0,0v307M77,0v307M154,0v307M231,0v307M307,0v307M384,0v307M461,0v307" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-      <path d="M0,296h461M0,282h461M0,272h461M0,263h461M0,256h461M0,249h461M0,244h461M0,239h461M0,205h461M0,186h461M0,172h461M0,161h461M0,153h461M0,145h461M0,139h461M0,133h461M0,128h461M0,95h461M0,75h461M0,62h461M0,51h461M0,42h461M0,35h461M0,28h461M0,23h461M0,18h461" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
      </g>
     </g>
-    <g transform="translate(357,154)" font-family="Arial" font-size="11" space="preserve">
-     <path d="M0,0H207V169H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(104,8)">
-      Fumili
+    <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231)">
+      Chi2 Fit with Minos Error
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,23)">
+    </g>
+    <g transform="translate(449,25)" font-family="Arial" font-size="12" space="preserve" fill="black">
+     <path d="M0,0H115V61H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text text-anchor="middle" dy=".4em" transform="translate(58,8)">
+      h2_Minuit2
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(6,23)">
       Entries
      </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(197,23)">
-      100000
+     <text text-anchor="end" dy=".4em" transform="translate(109,23)">
+      1000
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,38)">
+     <text text-anchor="start" dy=".4em" transform="translate(6,38)">
       Mean
      </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(197,38)">
-      1.777
+     <text text-anchor="end" dy=".4em" transform="translate(109,38)">
+      0.02680
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,54)">
+     <text text-anchor="start" dy=".4em" transform="translate(6,53)">
       Std Dev
      </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(197,54)">
-      0.7752
+     <text text-anchor="end" dy=".4em" transform="translate(109,53)">
+      1.038
      </text>
-     <g transform="translate(10,74) scale(0.873)">
-      <text fill="black" font-size="13">
-       χ
-      </text>
-      <text fill="black" font-size="8" transform="translate(7,-7)">
-       2
-      </text>
-      <text fill="black" font-size="13" x="16">
-       / ndf
-      </text>
-     </g>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(197,69)">
-      206.3 / 194
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,85)">
-      p0
-     </text>
-     <g transform="translate(131,89) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       51.43 ± 2.01
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,100)">
-      p1
-     </text>
-     <g transform="translate(131,104) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       55.54 ± 4.81
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,115)">
-      p2
-     </text>
-     <g transform="translate(131,119) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       74.30 ± 1.87
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,131)">
-      p3
-     </text>
-     <g transform="translate(137,135) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       427.4 ± 2.9
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,146)">
-      p4
-     </text>
-     <g transform="translate(99,150) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       0.03586 ± 0.00036
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,161)">
-      p5
-     </text>
-     <g transform="translate(122,165) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       1.000 ± 1.6e-4
-      </text>
-     </g>
-     <path d="M0,15h207" style="stroke: black; stroke-width: 1;"></path>
-    </g>
-    <g transform="translate(259,77)" font-family="Arial" font-size="21" space="preserve" font-weight="bold">
-     <path d="M3,3v38h248v-38z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-     <path d="M0,0H248V38H0Z" style="fill: #cdcd9a; stroke: black; stroke-width: 1;"></path>
-     <text fill="#660000" text-anchor="middle" dy=".4em" transform="translate(124,19)">
-      Fumili CPU= 0.08 s
-     </text>
-    </g>
-    <g transform="translate(174,2)" font-family="Arial" font-size="17" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(114,11)">
-      Fumili fit bench
-     </text>
+     <path d="M0,15h115" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
   <svg viewBox="0 0 576 384" preserveAspectRatio="none" x="12" y="408" width="576" height="384">
-   <path d="M0,0H576V384H0Z" style="fill: #ffffcd;"></path>
+   <path d="M0,0H576V384H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(58,38)">
-     <path d="M0,0H461V307H0Z" style="fill: #ffffcd; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H461V307H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="461" height="307" viewBox="0 0 461 307">
       <g>
-       <path d="M0,274h5v-7h2v-17h2v12h3v6h2v-14h2v11h2v1h3v1h2v-10h2v2h3v1h2v-6h2v-8h3v6h2v3h2v-4h2v-3h3v-1h2v2h2v-4h3v3h2v-9h2v5h3v2h2v-3h2v-2h3v-10h2v3h2v3h2v-7h3v10h2v4h2v-13h3v4h4v-8h3v-4h2v4h2v-4h3v4h2v-4h2v2h2v-7h3v5h2v-6h2v-2h3v8h2v-8h2v-9h3v8h2v-8h2v-6h2v8h3v-7h2v-8h2v-2h3v-5h2v-11h2v-8h3v-11h2v-8h2v-22h3v-30h2v-38h2v-26h2v15h3v37h2v29h2v24h3v13h2v12h2v10h3v3h2v8h2v-1h2v1h3v-2h2v10h2v2h3v-2h2v3h2v-4h3v3h4v-2h5v1h2v-8h2v2h3v2h2v-1h2v-1h3v7h2v-8h2v-3h5v2h2v2h3v-4h4v1h2v-2h3v-1h2v-2h2v2h3v1h2v-5h2v2h3v-2h2v1h2v1h2v-4h3v4h2v-4h2v-4h3v4h7v-5h2v2h5v1h2v-3h2v1h2v-4h3v3h2v-4h7v-2h2v4h3v-2h2v1h2v-3h2v-2h3v4h2v-7h2v5h3v-5h2v2h2v1h5v-2h5v-4h2v2h4v2h3v-2h4v-3h3v-4h2v5h2v-5h3v3h2v1h2v-4h2v1h3v-1h7v5h2v-4h2v-2h3v1h4v1h3v-1h2v-4h2v1h2v-2h3v3h2v-3h2v-1h5v-2h5v-1h2v1h2v-2h5v3h2v-3h5v-1h2v1h2v-2h3v3h2v-3h5v-1h2v2h2v-3h2v1h3v-4h7v1h2" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: none;"></path>
+       <path d="M0,307h55v-6h5v6h32v-6h5v6h9v-11h9v-11h5v5h4v-22h5v22h5v-5h4v-11h5v-6h9v-27h5v11h4v-55h5v60h5v-55h4v6h5v-17h4v6h5v-50h5v-33h4v50h5v5h4v-72h5v-82h5v110h4v-33h5v-61h9v122h5v-45h4v-27h5v83h5v5h4v6h5v11h4v-83h5v61h5v11h4v33h5v-55h4v33h5v49h5v22h4v6h5v-17h4v-16h5v55h9v-11h10v5h4v22h5v-11h4v17h5v-6h9v-5h5v11h14v-6h4v6h74" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: none;"></path>
       </g>
       <g>
-       <path d="M1,268l3,-1h2l2,-1l3,-1l2,-1l2,-1l2,-1l3,-1l2,-1l2,-1l3,-1l2,-1l2,-1l3,-1l2,-1l2,-1l2,-1l3,-1l2,-1l2,-1l3,-1l2,-1l2,-1l3,-1l2,-1l2,-1l3,-1l2,-1l2,-1l2,-1l3,-1l2,-1l2,-2l3,-1l2,-1l2,-1l3,-1l2,-1l2,-2l3,-1l2,-1l2,-1l2,-2l3,-1l2,-2l2,-1l3,-2l2,-1l2,-2l3,-2l2,-2l2,-2l2,-3l3,-3l2,-3l2,-3l3,-5l2,-5l2,-6l3,-8l2,-9l2,-13l3,-17l2,-22l2,-31l2,-38l3,-9l2,34l2,34l3,24l2,18l2,13l3,9l2,7l2,5l2,4l3,3l2,2l2,1l3,1l2,1h2l3,1h2h2h3h2l2,-1h2h3l2,-1h2h3l2,-1h2l3,-1h2l2,-1h3l2,-1l2,-1h2l3,-1h2l2,-1h3l2,-1l2,-1h3l2,-1h2l2,-1h3l2,-1l2,-1h3l2,-1h2l3,-1h2l2,-1l3,-1h2l2,-1h2l3,-1h2l2,-1l3,-1h2l2,-1h3l2,-1h2l2,-1h3l2,-1h2l3,-1h2l2,-1l3,-1h2l2,-1h3l2,-1h2l2,-1h3l2,-1h2l3,-1h2l2,-1h3l2,-1h2l2,-1h3l2,-1h2h3l2,-1h2l3,-1h2l2,-1h3l2,-1h2l2,-1h3l2,-1h2h3l2,-1h2l3,-1h2l2,-1h3l2,-1h2h2l3,-1h2l2,-1h3l2,-1h2h3l2,-1h2l2,-1h3l2,-1h2h3l2,-1" style="fill: none; stroke: #660000; stroke-width: 2;"></path>
+       <path d="M3,307h4h5h4h5h5h4h5h4h5h5h4h5h5l4,-1h5h4h5l5,-1h4l5,-1l4,-1l5,-2l5,-1l4,-2l5,-3l4,-3l5,-3l5,-4l4,-5l5,-6l5,-6l4,-8l5,-8l4,-9l5,-10l5,-10l4,-11l5,-11l4,-12l5,-12l5,-11l4,-12l5,-10l4,-10l5,-8l5,-7l4,-6l5,-4l5,-2h4l5,1l4,4l5,5l5,7l4,8l5,9l4,11l5,11l5,11l4,12l5,12l4,11l5,11l5,11l4,10l5,9l4,8l5,8l5,6l4,6l5,5l5,5l4,3l5,4l4,2l5,2l5,2l4,1l5,1l4,1l5,1l5,1h4h5h4l5,1h5h4h5h5h4h5h4h5h5h4h5h4h5" style="fill: none; stroke: red; stroke-width: 2;"></path>
       </g>
      </svg>
      <g>
       <g transform="translate(0,307)">
-       <path d="M0,0h461M0,-12V0M15,-6V0M31,-6V0M46,-6V0M61,-6V0M77,-12V0M92,-6V0M108,-6V0M123,-6V0M138,-6V0M154,-12V0M169,-6V0M184,-6V0M200,-6V0M215,-6V0M231,-12V0M246,-6V0M261,-6V0M277,-6V0M292,-6V0M307,-12V0M323,-6V0M338,-6V0M353,-6V0M369,-6V0M384,-12V0M400,-6V0M415,-6V0M430,-6V0M446,-6V0M461,-12V0" style="stroke: black; stroke-width: 1;"></path>
+       <path d="M0,0h461M0,-12V0M9,-6V0M18,-6V0M28,-6V0M37,-6V0M46,-12V0M55,-6V0M65,-6V0M74,-6V0M83,-6V0M92,-12V0M101,-6V0M111,-6V0M120,-6V0M129,-6V0M138,-12V0M148,-6V0M157,-6V0M166,-6V0M175,-6V0M184,-12V0M194,-6V0M203,-6V0M212,-6V0M221,-6V0M231,-12V0M240,-6V0M249,-6V0M258,-6V0M267,-6V0M277,-12V0M286,-6V0M295,-6V0M304,-6V0M313,-6V0M323,-12V0M332,-6V0M341,-6V0M350,-6V0M360,-6V0M369,-12V0M378,-6V0M387,-6V0M396,-6V0M406,-6V0M415,-12V0M424,-6V0M433,-6V0M443,-6V0M452,-6V0M461,-12V0" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="middle">
         <text dy=".8em" transform="translate(0,3)">
-         0
+         -5
         </text>
-        <text dy=".8em" transform="translate(77,3)">
-         0.5
+        <text dy=".8em" transform="translate(46,3)">
+         -4
         </text>
-        <text dy=".8em" transform="translate(154,3)">
-         1
+        <text dy=".8em" transform="translate(92,3)">
+         -3
+        </text>
+        <text dy=".8em" transform="translate(138,3)">
+         -2
+        </text>
+        <text dy=".8em" transform="translate(184,3)">
+         -1
         </text>
         <text dy=".8em" transform="translate(231,3)">
-         1.5
+         0
         </text>
-        <text dy=".8em" transform="translate(307,3)">
+        <text dy=".8em" transform="translate(277,3)">
+         1
+        </text>
+        <text dy=".8em" transform="translate(323,3)">
          2
         </text>
-        <text dy=".8em" transform="translate(384,3)">
-         2.5
+        <text dy=".8em" transform="translate(369,3)">
+         3
+        </text>
+        <text dy=".8em" transform="translate(415,3)">
+         4
         </text>
         <text dy=".8em" transform="translate(461,3)">
-         3
+         5
         </text>
        </g>
       </g>
       <g>
-       <path d="M0,0v307M9,296H0M9,282H0M9,272H0M9,263H0M9,256H0M9,249H0M9,244H0M17,239H0M9,205H0M9,186H0M9,172H0M9,161H0M9,153H0M9,145H0M9,139H0M9,133H0M17,128H0M9,95H0M9,75H0M9,62H0M9,51H0M9,42H0M9,35H0M9,28H0M9,23H0M17,18H0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="13" space="preserve">
-        <g transform="translate(-21,245)">
-         <text fill="black" font-size="13">
-          10
-         </text>
-         <text fill="black" font-size="8" transform="translate(14,-7)">
-          2
-         </text>
-        </g>
-        <g transform="translate(-21,134)">
-         <text fill="black" font-size="13">
-          10
-         </text>
-         <text fill="black" font-size="8" transform="translate(14,-7)">
-          3
-         </text>
-        </g>
-        <g transform="translate(-21,24)">
-         <text fill="black" font-size="13">
-          10
-         </text>
-         <text fill="black" font-size="8" transform="translate(14,-7)">
-          4
-         </text>
-        </g>
+       <path d="M0,0v307M17,307H0M9,296H0M9,285H0M9,274H0M9,263H0M17,252H0M9,241H0M9,230H0M9,219H0M9,208H0M17,197H0M9,186H0M9,175H0M9,164H0M9,153H0M17,142H0M9,130H0M9,119H0M9,108H0M9,97H0M17,86H0M9,75H0M9,64H0M9,53H0M9,42H0M17,31H0M9,20H0M9,9H0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-3,307)">
+         0
+        </text>
+        <text dy=".4em" transform="translate(-3,252)">
+         10
+        </text>
+        <text dy=".4em" transform="translate(-3,197)">
+         20
+        </text>
+        <text dy=".4em" transform="translate(-3,142)">
+         30
+        </text>
+        <text dy=".4em" transform="translate(-3,86)">
+         40
+        </text>
+        <text dy=".4em" transform="translate(-3,31)">
+         50
+        </text>
        </g>
       </g>
-      <path d="M0,0v307M77,0v307M154,0v307M231,0v307M307,0v307M384,0v307M461,0v307" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-      <path d="M0,296h461M0,282h461M0,272h461M0,263h461M0,256h461M0,249h461M0,244h461M0,239h461M0,205h461M0,186h461M0,172h461M0,161h461M0,153h461M0,145h461M0,139h461M0,133h461M0,128h461M0,95h461M0,75h461M0,62h461M0,51h461M0,42h461M0,35h461M0,28h461M0,23h461M0,18h461" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
      </g>
     </g>
-    <g transform="translate(357,154)" font-family="Arial" font-size="11" space="preserve">
-     <path d="M0,0H207V169H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(104,8)">
-      Minuit2
+    <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231)">
+      Chi2 Fit with Integral and Minos
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,23)">
+    </g>
+    <g transform="translate(449,25)" font-family="Arial" font-size="12" space="preserve" fill="black">
+     <path d="M0,0H115V61H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text text-anchor="middle" dy=".4em" transform="translate(58,8)">
+      h3_Minuit2
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(6,23)">
       Entries
      </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(197,23)">
-      100000
+     <text text-anchor="end" dy=".4em" transform="translate(109,23)">
+      1000
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,38)">
+     <text text-anchor="start" dy=".4em" transform="translate(6,38)">
       Mean
      </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(197,38)">
-      1.777
+     <text text-anchor="end" dy=".4em" transform="translate(109,38)">
+      0.02680
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,54)">
+     <text text-anchor="start" dy=".4em" transform="translate(6,53)">
       Std Dev
      </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(197,54)">
-      0.7752
+     <text text-anchor="end" dy=".4em" transform="translate(109,53)">
+      1.038
      </text>
-     <g transform="translate(10,74) scale(0.873)">
-      <text fill="black" font-size="13">
-       χ
-      </text>
-      <text fill="black" font-size="8" transform="translate(7,-7)">
-       2
-      </text>
-      <text fill="black" font-size="13" x="16">
-       / ndf
-      </text>
-     </g>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(197,69)">
-      205.3 / 194
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,85)">
-      p0
-     </text>
-     <g transform="translate(131,89) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       51.36 ± 2.01
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,100)">
-      p1
-     </text>
-     <g transform="translate(131,104) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       55.82 ± 4.81
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,115)">
-      p2
-     </text>
-     <g transform="translate(131,119) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       74.20 ± 1.87
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,131)">
-      p3
-     </text>
-     <g transform="translate(137,135) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       427.3 ± 2.9
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,146)">
-      p4
-     </text>
-     <g transform="translate(99,150) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       0.03586 ± 0.00035
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,161)">
-      p5
-     </text>
-     <g transform="translate(122,165) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       1.000 ± 1.6e-4
-      </text>
-     </g>
-     <path d="M0,15h207" style="stroke: black; stroke-width: 1;"></path>
-    </g>
-    <g transform="translate(259,77)" font-family="Arial" font-size="20" space="preserve" font-weight="bold">
-     <path d="M3,3v38h248v-38z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-     <path d="M0,0H248V38H0Z" style="fill: #cdcd9a; stroke: black; stroke-width: 1;"></path>
-     <text fill="#660000" text-anchor="middle" dy=".4em" transform="translate(124,19)">
-      Minuit2 CPU= 0.07 s
-     </text>
-    </g>
-    <g transform="translate(166,2)" font-family="Arial" font-size="17" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(122,11)">
-      Minuit2 fit bench
-     </text>
+     <path d="M0,15h115" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
   <svg viewBox="0 0 576 384" preserveAspectRatio="none" x="612" y="408" width="576" height="384">
-   <path d="M0,0H576V384H0Z" style="fill: #ffffcd;"></path>
+   <path d="M0,0H576V384H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(58,38)">
-     <path d="M0,0H461V307H0Z" style="fill: #ffffcd; stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0H461V307H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="461" height="307" viewBox="0 0 461 307">
       <g>
-       <path d="M0,274h5v-8h2v-16h2v13h3v5h2v-14h2v11h2v1h3v2h2v-12h2v3h3v2h2v-8h2v-7h3v6h2v3h2v-4h2v-3h3v-1h2v2h2v-5h3v3h2v-7h2v4h3v2h2v-3h2v-3h3v-8h2v2h2v3h2v-7h3v10h2v4h2v-14h3v5h4v-8h3v-3h2v2h2v-3h3v4h2v-4h2v2h2v-7h3v5h2v-6h2v-2h3v8h2v-8h2v-9h3v8h2v-8h2v-6h2v8h3v-7h2v-8h2v-2h3v-5h2v-11h2v-8h3v-11h2v-8h2v-22h3v-30h2v-38h2v-26h2v15h3v37h2v29h2v24h3v13h2v12h2v10h3v3h2v8h7v-2h2v10h2v2h3v-1h2v1h2v-3h3v3h4v-2h5v1h2v-8h2v2h3v2h2v-1h2v-1h3v7h2v-8h2v-2h3v-1h2v2h2v1h3v-3h4v1h2v-2h3v-1h2v-2h2v2h3v1h2v-5h2v2h3v-2h2v2h4v-4h3v4h2v-4h2v-4h3v4h7v-4h2v1h7v-2h2v1h2v-5h3v4h2v-4h7v-2h2v4h3v-1h2v-1h2v-2h2v-2h3v4h2v-7h2v5h3v-5h2v3h5v1h2v-3h5v-3h2v1h4v3h3v-3h2v1h2v-4h3v-4h2v5h2v-5h3v3h2v1h2v-4h2v1h3v-1h7v4h2v-2h2v-3h3v1h9v-4h2v1h2v-2h3v3h2v-4h5v1h2v-3h5v-1h2v1h2v-2h5v3h2v-3h5v-1h2v1h2v-2h3v3h2v-3h5v-1h2v2h2v-3h2v1h3v-3h2v-1h5v1h2" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: none;"></path>
+       <path d="M0,307h55v-6h5v6h32v-6h5v6h9v-11h9v-11h5v5h4v-22h5v22h5v-5h4v-11h5v-6h9v-27h5v11h4v-55h5v60h5v-55h4v6h5v-17h4v6h5v-50h5v-33h4v50h5v5h4v-72h5v-82h5v110h4v-33h5v-61h9v122h5v-45h4v-27h5v83h5v5h4v6h5v11h4v-83h5v61h5v11h4v33h5v-55h4v33h5v49h5v22h4v6h5v-17h4v-16h5v55h9v-11h10v5h4v22h5v-11h4v17h5v-6h9v-5h5v11h14v-6h4v6h74" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: none;"></path>
       </g>
       <g>
-       <path d="M1,268l3,-1h2l2,-1l3,-1l2,-1l2,-1l2,-1l3,-1l2,-1l2,-1l3,-1l2,-1l2,-1l3,-1l2,-1l2,-1l2,-1l3,-1l2,-1l2,-1l3,-1l2,-1l2,-1l3,-1l2,-1l2,-1l3,-1l2,-1l2,-1l2,-1l3,-1l2,-1l2,-2l3,-1l2,-1l2,-1l3,-1l2,-1l2,-2l3,-1l2,-1l2,-1l2,-2l3,-1l2,-2l2,-1l3,-2l2,-1l2,-2l3,-2l2,-2l2,-2l2,-3l3,-3l2,-3l2,-3l3,-5l2,-5l2,-6l3,-8l2,-9l2,-13l3,-17l2,-22l2,-31l2,-38l3,-9l2,34l2,34l3,24l2,18l2,13l3,9l2,7l2,5l2,4l3,3l2,2l2,1l3,1l2,1h2l3,1h2h2h3h2h2l2,-1h3l2,-1h2h3l2,-1h2l3,-1h2l2,-1h3l2,-1l2,-1h2l3,-1h2l2,-1h3l2,-1l2,-1h3l2,-1h2l2,-1h3l2,-1l2,-1h3l2,-1h2l3,-1h2l2,-1l3,-1h2l2,-1h2l3,-1h2l2,-1l3,-1h2l2,-1h3l2,-1h2l2,-1h3l2,-1h2l3,-1h2l2,-1h3l2,-1l2,-1h3l2,-1h2l2,-1h3l2,-1h2l3,-1h2l2,-1h3l2,-1h2l2,-1h3l2,-1h2h3l2,-1h2l3,-1h2l2,-1h3l2,-1h2l2,-1h3l2,-1h2h3l2,-1h2l3,-1h2l2,-1h3l2,-1h2h2l3,-1h2l2,-1h3l2,-1h2h3l2,-1h2l2,-1h3l2,-1h2h3l2,-1" style="fill: none; stroke: #660000; stroke-width: 2;"></path>
+       <path d="M3,307h4h5h4h5h5h4h5h4h5h5h4h5h5l4,-1h5h4h5l5,-1l4,-1h5l4,-2l5,-1l5,-2l4,-2l5,-2l4,-3l5,-4l5,-4l4,-6l5,-6l5,-6l4,-8l5,-8l4,-10l5,-10l5,-11l4,-11l5,-12l4,-13l5,-12l5,-12l4,-12l5,-11l4,-11l5,-9l5,-7l4,-7l5,-4l5,-2l4,-1l5,1l4,4l5,5l5,7l4,8l5,10l4,11l5,11l5,12l4,12l5,13l4,12l5,12l5,11l4,11l5,9l4,9l5,9l5,7l4,6l5,6l5,5l4,4l5,3l4,3l5,2l5,2l4,2l5,1l4,1l5,1h5l4,1h5h4l5,1h5h4h5h5h4h5h4h5h5h4h5h4h5" style="fill: none; stroke: red; stroke-width: 2;"></path>
       </g>
      </svg>
      <g>
       <g transform="translate(0,307)">
-       <path d="M0,0h461M0,-12V0M15,-6V0M31,-6V0M46,-6V0M61,-6V0M77,-12V0M92,-6V0M108,-6V0M123,-6V0M138,-6V0M154,-12V0M169,-6V0M184,-6V0M200,-6V0M215,-6V0M231,-12V0M246,-6V0M261,-6V0M277,-6V0M292,-6V0M307,-12V0M323,-6V0M338,-6V0M353,-6V0M369,-6V0M384,-12V0M400,-6V0M415,-6V0M430,-6V0M446,-6V0M461,-12V0" style="stroke: black; stroke-width: 1;"></path>
+       <path d="M0,0h461M0,-12V0M9,-6V0M18,-6V0M28,-6V0M37,-6V0M46,-12V0M55,-6V0M65,-6V0M74,-6V0M83,-6V0M92,-12V0M101,-6V0M111,-6V0M120,-6V0M129,-6V0M138,-12V0M148,-6V0M157,-6V0M166,-6V0M175,-6V0M184,-12V0M194,-6V0M203,-6V0M212,-6V0M221,-6V0M231,-12V0M240,-6V0M249,-6V0M258,-6V0M267,-6V0M277,-12V0M286,-6V0M295,-6V0M304,-6V0M313,-6V0M323,-12V0M332,-6V0M341,-6V0M350,-6V0M360,-6V0M369,-12V0M378,-6V0M387,-6V0M396,-6V0M406,-6V0M415,-12V0M424,-6V0M433,-6V0M443,-6V0M452,-6V0M461,-12V0" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="middle">
         <text dy=".8em" transform="translate(0,3)">
-         0
+         -5
         </text>
-        <text dy=".8em" transform="translate(77,3)">
-         0.5
+        <text dy=".8em" transform="translate(46,3)">
+         -4
         </text>
-        <text dy=".8em" transform="translate(154,3)">
-         1
+        <text dy=".8em" transform="translate(92,3)">
+         -3
+        </text>
+        <text dy=".8em" transform="translate(138,3)">
+         -2
+        </text>
+        <text dy=".8em" transform="translate(184,3)">
+         -1
         </text>
         <text dy=".8em" transform="translate(231,3)">
-         1.5
+         0
         </text>
-        <text dy=".8em" transform="translate(307,3)">
+        <text dy=".8em" transform="translate(277,3)">
+         1
+        </text>
+        <text dy=".8em" transform="translate(323,3)">
          2
         </text>
-        <text dy=".8em" transform="translate(384,3)">
-         2.5
+        <text dy=".8em" transform="translate(369,3)">
+         3
+        </text>
+        <text dy=".8em" transform="translate(415,3)">
+         4
         </text>
         <text dy=".8em" transform="translate(461,3)">
-         3
+         5
         </text>
        </g>
       </g>
       <g>
-       <path d="M0,0v307M9,296H0M9,282H0M9,272H0M9,263H0M9,256H0M9,249H0M9,244H0M17,239H0M9,205H0M9,186H0M9,172H0M9,161H0M9,153H0M9,145H0M9,139H0M9,133H0M17,128H0M9,95H0M9,75H0M9,62H0M9,51H0M9,42H0M9,35H0M9,28H0M9,23H0M17,18H0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="13" space="preserve">
-        <g transform="translate(-21,245)">
-         <text fill="black" font-size="13">
-          10
-         </text>
-         <text fill="black" font-size="8" transform="translate(14,-7)">
-          2
-         </text>
-        </g>
-        <g transform="translate(-21,134)">
-         <text fill="black" font-size="13">
-          10
-         </text>
-         <text fill="black" font-size="8" transform="translate(14,-7)">
-          3
-         </text>
-        </g>
-        <g transform="translate(-21,24)">
-         <text fill="black" font-size="13">
-          10
-         </text>
-         <text fill="black" font-size="8" transform="translate(14,-7)">
-          4
-         </text>
-        </g>
+       <path d="M0,0v307M17,307H0M9,296H0M9,285H0M9,274H0M9,263H0M17,252H0M9,241H0M9,230H0M9,219H0M9,208H0M17,197H0M9,186H0M9,175H0M9,164H0M9,153H0M17,142H0M9,130H0M9,119H0M9,108H0M9,97H0M17,86H0M9,75H0M9,64H0M9,53H0M9,42H0M17,31H0M9,20H0M9,9H0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-3,307)">
+         0
+        </text>
+        <text dy=".4em" transform="translate(-3,252)">
+         10
+        </text>
+        <text dy=".4em" transform="translate(-3,197)">
+         20
+        </text>
+        <text dy=".4em" transform="translate(-3,142)">
+         30
+        </text>
+        <text dy=".4em" transform="translate(-3,86)">
+         40
+        </text>
+        <text dy=".4em" transform="translate(-3,31)">
+         50
+        </text>
        </g>
       </g>
-      <path d="M0,0v307M77,0v307M154,0v307M231,0v307M307,0v307M384,0v307M461,0v307" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-      <path d="M0,296h461M0,282h461M0,272h461M0,263h461M0,256h461M0,249h461M0,244h461M0,239h461M0,205h461M0,186h461M0,172h461M0,161h461M0,153h461M0,145h461M0,139h461M0,133h461M0,128h461M0,95h461M0,75h461M0,62h461M0,51h461M0,42h461M0,35h461M0,28h461M0,23h461M0,18h461" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
      </g>
     </g>
-    <g transform="translate(357,154)" font-family="Arial" font-size="11" space="preserve">
-     <path d="M0,0H207V169H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(104,8)">
-      Fumili2
+    <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231)">
+      Likelihood Fit with Minos Error
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,23)">
+    </g>
+    <g transform="translate(449,25)" font-family="Arial" font-size="12" space="preserve" fill="black">
+     <path d="M0,0H115V61H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text text-anchor="middle" dy=".4em" transform="translate(58,8)">
+      h4_Minuit2
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(6,23)">
       Entries
      </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(197,23)">
-      100000
+     <text text-anchor="end" dy=".4em" transform="translate(109,23)">
+      1000
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,38)">
+     <text text-anchor="start" dy=".4em" transform="translate(6,38)">
       Mean
      </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(197,38)">
-      1.777
+     <text text-anchor="end" dy=".4em" transform="translate(109,38)">
+      0.02680
      </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,54)">
+     <text text-anchor="start" dy=".4em" transform="translate(6,53)">
       Std Dev
      </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(197,54)">
-      0.7752
+     <text text-anchor="end" dy=".4em" transform="translate(109,53)">
+      1.038
      </text>
-     <g transform="translate(10,74) scale(0.873)">
-      <text fill="black" font-size="13">
-       χ
-      </text>
-      <text fill="black" font-size="8" transform="translate(7,-7)">
-       2
-      </text>
-      <text fill="black" font-size="13" x="16">
-       / ndf
-      </text>
-     </g>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(197,69)">
-      207.5 / 194
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,85)">
-      p0
-     </text>
-     <g transform="translate(131,89) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       51.43 ± 2.01
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,100)">
-      p1
-     </text>
-     <g transform="translate(131,104) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       55.54 ± 4.81
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,115)">
-      p2
-     </text>
-     <g transform="translate(131,119) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       74.30 ± 1.87
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,131)">
-      p3
-     </text>
-     <g transform="translate(137,135) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       427.4 ± 2.9
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,146)">
-      p4
-     </text>
-     <g transform="translate(99,150) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       0.03586 ± 0.00035
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(10,161)">
-      p5
-     </text>
-     <g transform="translate(122,165) scale(0.873)">
-      <text fill="black" font-size="13" x="5">
-       1.000 ± 1.6e-4
-      </text>
-     </g>
-     <path d="M0,15h207" style="stroke: black; stroke-width: 1;"></path>
-    </g>
-    <g transform="translate(259,77)" font-family="Arial" font-size="20" space="preserve" font-weight="bold">
-     <path d="M3,3v38h248v-38z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-     <path d="M0,0H248V38H0Z" style="fill: #cdcd9a; stroke: black; stroke-width: 1;"></path>
-     <text fill="#660000" text-anchor="middle" dy=".4em" transform="translate(124,19)">
-      Fumili2 CPU= 0.06 s
-     </text>
-    </g>
-    <g transform="translate(166,2)" font-family="Arial" font-size="17" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(122,11)">
-      Fumili2 fit bench
-     </text>
+     <path d="M0,15h115" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
