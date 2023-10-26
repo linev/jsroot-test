@@ -121,69 +121,69 @@
     drawing 'px:py' from ntuple
    </text>
   </g>
-  <g transform="translate(936,52)" font-family="Arial" font-size="16" space="preserve" fill="black">
-   <path d="M0,0H240V180H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <text text-anchor="middle" dy=".4em" transform="translate(120,10)">
+  <g transform="translate(936,52)" font-family="Arial" font-size="18" space="preserve" fill="black">
+   <path d="M0,0H240V288H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <text text-anchor="middle" dy=".4em" transform="translate(120,16)">
     hist
    </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,30)">
+   <text text-anchor="start" dy=".4em" transform="translate(12,48)">
     Entries
    </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,30)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,48)">
     25000
    </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,50)">
+   <text text-anchor="start" dy=".4em" transform="translate(12,80)">
     Mean x
    </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,50)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,80)">
     0.002997
    </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,70)">
+   <text text-anchor="start" dy=".4em" transform="translate(12,112)">
     Mean y
    </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,70)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,112)">
     0.009597
    </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,90)">
+   <text text-anchor="start" dy=".4em" transform="translate(12,144)">
     Std Dev x
    </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,90)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,144)">
     1.005
    </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,110)">
+   <text text-anchor="start" dy=".4em" transform="translate(12,176)">
     Std Dev y
    </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,110)">
+   <text text-anchor="end" dy=".4em" transform="translate(228,176)">
     0.9988
    </text>
-   <text text-anchor="middle" dy=".4em" transform="translate(40,130)">
+   <text text-anchor="middle" dy=".4em" transform="translate(40,208)">
     0
    </text>
-   <text text-anchor="middle" dy=".4em" transform="translate(120,130)">
+   <text text-anchor="middle" dy=".4em" transform="translate(120,208)">
     0
    </text>
-   <text text-anchor="middle" dy=".4em" transform="translate(200,130)">
+   <text text-anchor="middle" dy=".4em" transform="translate(200,208)">
     0
    </text>
-   <text text-anchor="middle" dy=".4em" transform="translate(40,150)">
+   <text text-anchor="middle" dy=".4em" transform="translate(40,240)">
     0
    </text>
-   <text text-anchor="middle" dy=".4em" transform="translate(120,150)">
+   <text text-anchor="middle" dy=".4em" transform="translate(120,240)">
     25000
    </text>
-   <text text-anchor="middle" dy=".4em" transform="translate(200,150)">
+   <text text-anchor="middle" dy=".4em" transform="translate(200,240)">
     0
    </text>
-   <text text-anchor="middle" dy=".4em" transform="translate(40,170)">
+   <text text-anchor="middle" dy=".4em" transform="translate(40,272)">
     0
    </text>
-   <text text-anchor="middle" dy=".4em" transform="translate(120,170)">
+   <text text-anchor="middle" dy=".4em" transform="translate(120,272)">
     0
    </text>
-   <text text-anchor="middle" dy=".4em" transform="translate(200,170)">
+   <text text-anchor="middle" dy=".4em" transform="translate(200,272)">
     0
    </text>
-   <path d="M0,20h240M0,120h240M0,140h240M0,160h240M80,120V180M160,120V180" style="stroke: black; stroke-width: 1;"></path>
+   <path d="M0,32h240M0,192h240M0,224h240M0,256h240M80,192V288M160,192V288" style="stroke: black; stroke-width: 1;"></path>
   </g>
  </g>
 </svg>

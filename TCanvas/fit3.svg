@@ -108,77 +108,77 @@
     </g>
    </g>
   </g>
-  <g transform="translate(744,52)" font-family="Arial" font-size="14" space="preserve">
-   <path d="M0,0H432V160H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <g transform="translate(22,16) scale(0.874)">
-    <text fill="black" font-size="17">
+  <g transform="translate(744,52)" font-family="Arial" font-size="23" space="preserve">
+   <path d="M0,0H432V256H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <g transform="translate(22,26) scale(0.888)">
+    <text fill="black" font-size="27">
      χ
     </text>
-    <text fill="black" font-size="10" transform="translate(9,-9)">
+    <text fill="black" font-size="16" transform="translate(14,-14)">
      2
     </text>
-    <text fill="black" font-size="17" x="22">
+    <text fill="black" font-size="27" x="34">
      / ndf
     </text>
    </g>
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(410,10)">
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(410,16)">
     20.03 / 30
    </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,30)">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,48)">
     Prob
    </text>
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(410,30)">
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(410,48)">
     0.9157
    </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,50)">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,80)">
     Bkg0
    </text>
-   <g transform="translate(311,55) scale(0.874)">
-    <text fill="black" font-size="17" x="7">
+   <g transform="translate(251,89) scale(0.888)">
+    <text fill="black" font-size="27" x="11">
      -1.723 ± 3.178
     </text>
    </g>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,70)">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,112)">
     Bkg1
    </text>
-   <g transform="translate(323,75) scale(0.874)">
-    <text fill="black" font-size="17" x="7">
+   <g transform="translate(270,121) scale(0.888)">
+    <text fill="black" font-size="27" x="11">
      55.72 ± 8.54
     </text>
    </g>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,90)">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,144)">
     Bkg2
    </text>
-   <g transform="translate(320,95) scale(0.874)">
-    <text fill="black" font-size="17" x="7">
+   <g transform="translate(265,153) scale(0.888)">
+    <text fill="black" font-size="27" x="11">
      -19.41 ± 4.10
     </text>
    </g>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,110)">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,176)">
     Gauss scale
    </text>
-   <g transform="translate(316,115) scale(0.874)">
-    <text fill="black" font-size="17" x="7">
+   <g transform="translate(259,185) scale(0.888)">
+    <text fill="black" font-size="27" x="11">
      8.415 ± 1.290
     </text>
    </g>
-   <g transform="translate(22,135) scale(0.874)">
-    <text fill="black" font-size="17">
+   <g transform="translate(22,217) scale(0.888)">
+    <text fill="black" font-size="27">
      Gauss σ
     </text>
    </g>
-   <g transform="translate(284,135) scale(0.874)">
-    <text fill="black" font-size="17" x="7">
+   <g transform="translate(206,217) scale(0.888)">
+    <text fill="black" font-size="27" x="11">
      0.07243 ± 0.01162
     </text>
    </g>
-   <g transform="translate(22,155) scale(0.874)">
-    <text fill="black" font-size="17">
+   <g transform="translate(22,249) scale(0.888)">
+    <text fill="black" font-size="27">
      Gauss μ
     </text>
    </g>
-   <g transform="translate(299,155) scale(0.874)">
-    <text fill="black" font-size="17" x="7">
+   <g transform="translate(232,249) scale(0.888)">
+    <text fill="black" font-size="27" x="11">
      0.9845 ± 0.0104
     </text>
    </g>

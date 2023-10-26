@@ -135,42 +135,42 @@
       core
      </text>
     </g>
-    <g transform="translate(449,154)" font-family="Arial" font-size="7" space="preserve">
-     <path d="M0,0H115V163H0Z" style="fill: #ffffff; stroke: #000000; stroke-width: 1;"></path>
-     <text fill="#000000" text-anchor="middle" dy=".4em" transform="translate(58,5)">
+    <g transform="translate(357,154)" font-family="Arial" font-size="6" space="preserve">
+     <path d="M0,0H207V154H0Z" style="fill: #ffffff; stroke: #000000; stroke-width: 1;"></path>
+     <text fill="#000000" text-anchor="middle" dy=".4em" transform="translate(104,5)">
       h1
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,14)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,14)">
       Entries
      </text>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,14)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,14)">
       1000000
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,24)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,23)">
       Mean x
      </text>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,24)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,23)">
       6.098
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,34)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,32)">
       Mean y
      </text>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,34)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,32)">
       6.441
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,43)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,41)">
       Std Dev x
      </text>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,43)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,41)">
       1.951
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,53)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,50)">
       Std Dev y
      </text>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,53)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,50)">
       2.292
      </text>
-     <g transform="translate(6,65) scale(0.911)">
+     <g transform="translate(10,62) scale(0.860)">
       <text fill="#000000" font-size="8">
        χ
       </text>
@@ -181,90 +181,90 @@
        / ndf
       </text>
      </g>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,62)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,59)">
       2614 / 2478
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,72)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,68)">
       p0
      </text>
-     <g transform="translate(71,75) scale(0.911)">
+     <g transform="translate(161,70) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        534.1 ± 2.2
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,82)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,77)">
       p1
      </text>
-     <g transform="translate(63,84) scale(0.911)">
+     <g transform="translate(153,79) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        6.000 ± 0.006
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,91)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,86)">
       p2
      </text>
-     <g transform="translate(63,94) scale(0.911)">
+     <g transform="translate(153,89) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        1.987 ± 0.004
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,101)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,95)">
       p3
      </text>
-     <g transform="translate(63,103) scale(0.911)">
+     <g transform="translate(153,98) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        7.030 ± 0.026
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,110)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,104)">
       p4
      </text>
-     <g transform="translate(63,113) scale(0.911)">
+     <g transform="translate(153,107) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        2.997 ± 0.014
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,120)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,113)">
       p5
      </text>
-     <g transform="translate(67,122) scale(0.911)">
+     <g transform="translate(157,116) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        519.3 ± 50.1
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,129)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,122)">
       p6
      </text>
-     <g transform="translate(67,132) scale(0.911)">
+     <g transform="translate(157,125) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        11.55 ± 0.46
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,139)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,131)">
       p7
      </text>
-     <g transform="translate(63,142) scale(0.911)">
+     <g transform="translate(153,134) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        2.729 ± 0.246
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,149)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,140)">
       p8
      </text>
-     <g transform="translate(67,151) scale(0.911)">
+     <g transform="translate(157,143) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        11.20 ± 0.23
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,158)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,149)">
       p9
      </text>
-     <g transform="translate(63,161) scale(0.911)">
+     <g transform="translate(153,152) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        2.084 ± 0.098
       </text>
      </g>
-     <path d="M0,10h115" style="stroke: #000000; stroke-width: 1;"></path>
+     <path d="M0,9h207" style="stroke: #000000; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -279,42 +279,42 @@
       core
      </text>
     </g>
-    <g transform="translate(449,154)" font-family="Arial" font-size="7" space="preserve">
-     <path d="M0,0H115V163H0Z" style="fill: #ffffff; stroke: #000000; stroke-width: 1;"></path>
-     <text fill="#000000" text-anchor="middle" dy=".4em" transform="translate(58,5)">
+    <g transform="translate(357,154)" font-family="Arial" font-size="6" space="preserve">
+     <path d="M0,0H207V154H0Z" style="fill: #ffffff; stroke: #000000; stroke-width: 1;"></path>
+     <text fill="#000000" text-anchor="middle" dy=".4em" transform="translate(104,5)">
       h1
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,14)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,14)">
       Entries
      </text>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,14)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,14)">
       1000000
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,24)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,23)">
       Mean x
      </text>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,24)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,23)">
       6.098
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,34)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,32)">
       Mean y
      </text>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,34)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,32)">
       6.441
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,43)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,41)">
       Std Dev x
      </text>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,43)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,41)">
       1.951
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,53)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,50)">
       Std Dev y
      </text>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,53)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,50)">
       2.292
      </text>
-     <g transform="translate(6,65) scale(0.911)">
+     <g transform="translate(10,62) scale(0.860)">
       <text fill="#000000" font-size="8">
        χ
       </text>
@@ -325,90 +325,90 @@
        / ndf
       </text>
      </g>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,62)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,59)">
       2614 / 2478
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,72)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,68)">
       p0
      </text>
-     <g transform="translate(71,75) scale(0.911)">
+     <g transform="translate(161,70) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        534.1 ± 2.2
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,82)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,77)">
       p1
      </text>
-     <g transform="translate(63,84) scale(0.911)">
+     <g transform="translate(153,79) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        6.000 ± 0.006
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,91)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,86)">
       p2
      </text>
-     <g transform="translate(63,94) scale(0.911)">
+     <g transform="translate(153,89) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        1.987 ± 0.004
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,101)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,95)">
       p3
      </text>
-     <g transform="translate(63,103) scale(0.911)">
+     <g transform="translate(153,98) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        7.030 ± 0.026
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,110)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,104)">
       p4
      </text>
-     <g transform="translate(63,113) scale(0.911)">
+     <g transform="translate(153,107) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        2.997 ± 0.014
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,120)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,113)">
       p5
      </text>
-     <g transform="translate(67,122) scale(0.911)">
+     <g transform="translate(157,116) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        519.3 ± 50.1
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,129)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,122)">
       p6
      </text>
-     <g transform="translate(67,132) scale(0.911)">
+     <g transform="translate(157,125) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        11.55 ± 0.46
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,139)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,131)">
       p7
      </text>
-     <g transform="translate(63,142) scale(0.911)">
+     <g transform="translate(153,134) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        2.729 ± 0.246
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,149)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,140)">
       p8
      </text>
-     <g transform="translate(67,151) scale(0.911)">
+     <g transform="translate(157,143) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        11.20 ± 0.23
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,158)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,149)">
       p9
      </text>
-     <g transform="translate(63,161) scale(0.911)">
+     <g transform="translate(153,152) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        2.084 ± 0.098
       </text>
      </g>
-     <path d="M0,10h115" style="stroke: #000000; stroke-width: 1;"></path>
+     <path d="M0,9h207" style="stroke: #000000; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -532,42 +532,42 @@
       tails
      </text>
     </g>
-    <g transform="translate(449,154)" font-family="Arial" font-size="7" space="preserve">
-     <path d="M0,0H115V163H0Z" style="fill: #ffffff; stroke: #000000; stroke-width: 1;"></path>
-     <text fill="#000000" text-anchor="middle" dy=".4em" transform="translate(58,5)">
+    <g transform="translate(357,154)" font-family="Arial" font-size="6" space="preserve">
+     <path d="M0,0H207V154H0Z" style="fill: #ffffff; stroke: #000000; stroke-width: 1;"></path>
+     <text fill="#000000" text-anchor="middle" dy=".4em" transform="translate(104,5)">
       h2
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,14)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,14)">
       Entries
      </text>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,14)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,14)">
       1000000
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,24)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,23)">
       Mean x
      </text>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,24)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,23)">
       10.32
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,34)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,32)">
       Mean y
      </text>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,34)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,32)">
       10.07
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,43)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,41)">
       Std Dev x
      </text>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,43)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,41)">
       3.423
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,53)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,50)">
       Std Dev y
      </text>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,53)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,50)">
       2.432
      </text>
-     <g transform="translate(6,65) scale(0.911)">
+     <g transform="translate(10,62) scale(0.860)">
       <text fill="#000000" font-size="8">
        χ
       </text>
@@ -578,90 +578,90 @@
        / ndf
       </text>
      </g>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,62)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,59)">
       2220 / 2231
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,72)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,68)">
       p0
      </text>
-     <g transform="translate(71,75) scale(0.911)">
+     <g transform="translate(161,70) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        530.9 ± 1.6
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,82)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,77)">
       p1
      </text>
-     <g transform="translate(63,84) scale(0.911)">
+     <g transform="translate(153,79) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        6.012 ± 0.006
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,91)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,86)">
       p2
      </text>
-     <g transform="translate(63,94) scale(0.911)">
+     <g transform="translate(153,89) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        1.994 ± 0.006
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,101)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,95)">
       p3
      </text>
-     <g transform="translate(63,103) scale(0.911)">
+     <g transform="translate(153,98) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        6.986 ± 0.018
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,110)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,104)">
       p4
      </text>
-     <g transform="translate(63,113) scale(0.911)">
+     <g transform="translate(153,107) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        2.988 ± 0.011
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,120)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,113)">
       p5
      </text>
-     <g transform="translate(71,122) scale(0.911)">
+     <g transform="translate(161,116) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        532.7 ± 1.2
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,129)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,122)">
       p6
      </text>
-     <g transform="translate(68,132) scale(0.911)">
+     <g transform="translate(157,125) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        11.99 ± 0.01
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,139)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,131)">
       p7
      </text>
-     <g transform="translate(63,142) scale(0.911)">
+     <g transform="translate(153,134) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        2.995 ± 0.006
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,149)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,140)">
       p8
      </text>
-     <g transform="translate(61,151) scale(0.911)">
+     <g transform="translate(151,143) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        11.00 ± 3.4e-3
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,158)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,149)">
       p9
      </text>
-     <g transform="translate(63,161) scale(0.911)">
+     <g transform="translate(153,152) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        1.989 ± 0.002
       </text>
      </g>
-     <path d="M0,10h115" style="stroke: #000000; stroke-width: 1;"></path>
+     <path d="M0,9h207" style="stroke: #000000; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -676,42 +676,42 @@
       tails
      </text>
     </g>
-    <g transform="translate(449,154)" font-family="Arial" font-size="7" space="preserve">
-     <path d="M0,0H115V163H0Z" style="fill: #ffffff; stroke: #000000; stroke-width: 1;"></path>
-     <text fill="#000000" text-anchor="middle" dy=".4em" transform="translate(58,5)">
+    <g transform="translate(357,154)" font-family="Arial" font-size="6" space="preserve">
+     <path d="M0,0H207V154H0Z" style="fill: #ffffff; stroke: #000000; stroke-width: 1;"></path>
+     <text fill="#000000" text-anchor="middle" dy=".4em" transform="translate(104,5)">
       h2
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,14)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,14)">
       Entries
      </text>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,14)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,14)">
       1000000
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,24)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,23)">
       Mean x
      </text>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,24)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,23)">
       10.32
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,34)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,32)">
       Mean y
      </text>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,34)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,32)">
       10.07
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,43)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,41)">
       Std Dev x
      </text>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,43)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,41)">
       3.423
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,53)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,50)">
       Std Dev y
      </text>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,53)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,50)">
       2.432
      </text>
-     <g transform="translate(6,65) scale(0.911)">
+     <g transform="translate(10,62) scale(0.860)">
       <text fill="#000000" font-size="8">
        χ
       </text>
@@ -722,90 +722,90 @@
        / ndf
       </text>
      </g>
-     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(109,62)">
+     <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(197,59)">
       2220 / 2231
      </text>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,72)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,68)">
       p0
      </text>
-     <g transform="translate(71,75) scale(0.911)">
+     <g transform="translate(161,70) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        530.9 ± 1.6
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,82)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,77)">
       p1
      </text>
-     <g transform="translate(63,84) scale(0.911)">
+     <g transform="translate(153,79) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        6.012 ± 0.006
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,91)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,86)">
       p2
      </text>
-     <g transform="translate(63,94) scale(0.911)">
+     <g transform="translate(153,89) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        1.994 ± 0.006
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,101)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,95)">
       p3
      </text>
-     <g transform="translate(63,103) scale(0.911)">
+     <g transform="translate(153,98) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        6.986 ± 0.018
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,110)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,104)">
       p4
      </text>
-     <g transform="translate(63,113) scale(0.911)">
+     <g transform="translate(153,107) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        2.988 ± 0.011
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,120)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,113)">
       p5
      </text>
-     <g transform="translate(71,122) scale(0.911)">
+     <g transform="translate(161,116) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        532.7 ± 1.2
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,129)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,122)">
       p6
      </text>
-     <g transform="translate(68,132) scale(0.911)">
+     <g transform="translate(157,125) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        11.99 ± 0.01
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,139)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,131)">
       p7
      </text>
-     <g transform="translate(63,142) scale(0.911)">
+     <g transform="translate(153,134) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        2.995 ± 0.006
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,149)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,140)">
       p8
      </text>
-     <g transform="translate(61,151) scale(0.911)">
+     <g transform="translate(151,143) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        11.00 ± 3.4e-3
       </text>
      </g>
-     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(6,158)">
+     <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,149)">
       p9
      </text>
-     <g transform="translate(63,161) scale(0.911)">
+     <g transform="translate(153,152) scale(0.860)">
       <text fill="#000000" font-size="8" x="3">
        1.989 ± 0.002
       </text>
      </g>
-     <path d="M0,10h115" style="stroke: #000000; stroke-width: 1;"></path>
+     <path d="M0,9h207" style="stroke: #000000; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
