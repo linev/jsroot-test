@@ -88,67 +88,67 @@
     </g>
    </g>
   </g>
-  <g transform="translate(671,46)" font-family="Arial" font-size="10" space="preserve">
-   <path d="M0,0H431V115H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,7)">
+  <g transform="translate(671,46)" font-family="Arial" font-size="17" space="preserve">
+   <path d="M0,0H431V184H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,12)">
     Entries
    </text>
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(409,7)">
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(409,12)">
     10000
    </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,22)">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,35)">
     Mean
    </text>
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(409,22)">
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(409,35)">
     -0.4938
    </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,36)">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,58)">
     Std Dev
    </text>
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(409,36)">
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(409,58)">
     0.7973
    </text>
-   <g transform="translate(22,55) scale(0.910)">
-    <text fill="black" font-size="12">
+   <g transform="translate(22,88) scale(0.902)">
+    <text fill="black" font-size="19">
      χ
     </text>
-    <text fill="black" font-size="7" transform="translate(6,-6)">
+    <text fill="black" font-size="11" transform="translate(10,-10)">
      2
     </text>
-    <text fill="black" font-size="12" x="15">
+    <text fill="black" font-size="19" x="24">
      / ndf
     </text>
    </g>
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(409,50)">
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(409,81)">
     60.68 / 58
    </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,65)">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,104)">
     Prob
    </text>
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(409,65)">
+   <text fill="black" text-anchor="end" dy=".4em" transform="translate(409,104)">
     0.3793
    </text>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,79)">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,127)">
     Constant
    </text>
-   <g transform="translate(352,83) scale(0.910)">
-    <text fill="black" font-size="12" x="5">
+   <g transform="translate(319,133) scale(0.902)">
+    <text fill="black" font-size="19" x="8">
      501.9 ± 6.2
     </text>
    </g>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,93)">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,150)">
     Mean
    </text>
-   <g transform="translate(324,97) scale(0.910)">
-    <text fill="black" font-size="12" x="5">
+   <g transform="translate(276,156) scale(0.902)">
+    <text fill="black" font-size="19" x="8">
      -0.4919 ± 0.0079
     </text>
    </g>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,108)">
+   <text fill="black" text-anchor="start" dy=".4em" transform="translate(22,173)">
     Sigma
    </text>
-   <g transform="translate(327,112) scale(0.910)">
-    <text fill="black" font-size="12" x="5">
+   <g transform="translate(281,179) scale(0.902)">
+    <text fill="black" font-size="19" x="8">
      0.7902 ± 0.0056
     </text>
    </g>
