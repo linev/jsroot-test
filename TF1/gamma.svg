@@ -89,7 +89,7 @@
      </g>
     </g>
     <g transform="translate(38)" font-family="Times New Roman" font-size="14" space="preserve" font-weight="bold">
-     <path d="M3,3v32h192v-32z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+     <path d="M192,3h3v32h-192v-3h189z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H192V32H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(96,16)">
       ROOT::Math::tgamma(x)
@@ -177,7 +177,7 @@
      </g>
     </g>
     <g transform="translate(38)" font-family="Times New Roman" font-size="14" space="preserve" font-weight="bold">
-     <path d="M3,3v32h192v-32z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+     <path d="M192,3h3v32h-192v-3h189z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H192V32H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(96,16)">
       ROOT::Math::lgamma(x)
@@ -192,7 +192,7 @@
    </g>
    <g>
     <g transform="translate(38)" font-family="Times New Roman" font-size="14" space="preserve" font-weight="bold">
-     <path d="M3,3v32h192v-32z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+     <path d="M192,3h3v32h-192v-3h189z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H192V32H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(96,16)">
       ROOT::Math::beta(x, y)
@@ -295,7 +295,7 @@
      </g>
     </g>
     <g transform="translate(38)" font-family="Times New Roman" font-size="17" space="preserve" font-weight="bold">
-     <path d="M3,3v32h192v-32z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+     <path d="M192,3h3v32h-192v-3h189z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H192V32H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(96,16)">
       erf(x) and erfc(x)

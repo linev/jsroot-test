@@ -11,7 +11,7 @@
    <path d="M0,0H698V390H0Z" style="fill: white;"></path>
    <g>
     <g transform="translate(7,4)" font-family="Arial" font-size="19" space="preserve" font-weight="bold" text-anchor="start">
-     <path d="M4,4v382h684v-382z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+     <path d="M684,4h4v382h-684v-4h680z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H684V382H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
      <text fill="red" dy=".4em" transform="translate(34,12)">
       TGeoPgon - pgon class

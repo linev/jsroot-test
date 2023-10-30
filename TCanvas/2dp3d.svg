@@ -388,7 +388,7 @@
      </g>
     </g>
     <g transform="translate(14,26)" font-family="Arial" font-size="9" space="preserve" font-weight="bold" fill="black" text-anchor="start">
-     <path d="M4,4v70h292v-70z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+     <path d="M292,4h4v70h-292v-4h288z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H292V70H0Z" style="fill: #deba87; stroke: black; stroke-width: 1;"></path>
      <text dy=".4em" transform="translate(15,12)">
       You can interactively rotate this view in 2 ways:

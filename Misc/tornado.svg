@@ -5,7 +5,7 @@
  </g>
  <g>
   <g transform="translate(384,7)" font-family="Arial" font-size="15" space="preserve" font-weight="bold" fill="black" text-anchor="middle">
-   <path d="M4,4v38h279v-38z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M279,4h4v38h-279v-4h275z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H279V38H0Z" style="fill: #dfbb88; stroke: black; stroke-width: 1;"></path>
    <text dy=".4em" transform="translate(140,10)">
     ROOT example: tornado.C

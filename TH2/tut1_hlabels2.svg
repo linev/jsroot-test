@@ -846,7 +846,7 @@
    </text>
   </g>
   <g transform="translate(359,11)" font-family="Arial" font-size="9" space="preserve" font-weight="bold" fill="black" text-anchor="start">
-   <path d="M4,4v75h227v-75z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M227,4h4v75h-227v-4h223z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H227V75H0Z" style="fill: #e6e6e6; stroke: black; stroke-width: 1;"></path>
    <text dy=".4em" transform="translate(11,9)">
     Use the axis Context Menu LabelsOption

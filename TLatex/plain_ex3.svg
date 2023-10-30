@@ -2,7 +2,7 @@
  <path d="M0,0H496V272H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(50,27)" font-family="Arial" font-size="2" space="preserve" font-weight="bold" fill="black" text-anchor="middle">
-   <path d="M4,4v218h397v-218z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M397,4h4v218h-397v-4h393z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H397V218H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
    <text dy=".4em" transform="translate(199,36)">
     #frac{2s}{#pi#alpha^{2}}  #frac{d#sigma}{dcos#theta} (e^{+}e^{-} #rightarrow f#bar{f} ) = #left| #frac{1}{1 - #Delta#alpha} #right|^{2} (1+cos^{2}#theta)

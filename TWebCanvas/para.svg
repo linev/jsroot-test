@@ -67,7 +67,7 @@
    </g>
   </g>
   <g transform="translate(60)" font-family="Arial" font-size="33" space="preserve" font-weight="bold">
-   <path d="M4,4v40h360v-40z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M360,4h4v40h-360v-4h356z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H360V40H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(180,20)">
     x:y:index

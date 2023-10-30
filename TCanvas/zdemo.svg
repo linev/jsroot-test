@@ -2,7 +2,7 @@
  <path d="M0,0H796V572H0Z" style="fill: #aba6bf;"></path>
  <g>
   <g transform="translate(32,16)" font-family="Times New Roman" font-size="16" space="preserve" font-weight="bold" font-style="italic">
-   <path d="M3,3v38h732v-38z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M732,3h3v38h-732v-3h729z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H732V38H0Z" style="fill: #e5e5e5; stroke: black; stroke-width: 1;"></path>
    <text fill="#946970" text-anchor="middle" dy=".4em" transform="translate(366,19)">
     Z-scaling of       Direct Photon Productions in pp Collisions at RHIC Energies

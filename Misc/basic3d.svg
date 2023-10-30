@@ -10,7 +10,7 @@
    </g>
   </svg>
   <g transform="translate(70,14)" font-family="Arial" font-size="22" space="preserve" font-weight="bold" text-anchor="middle">
-   <path d="M4,4v57h558v-57z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M558,4h4v57h-558v-4h554z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H558V57H0Z" style="fill: #b3a697; stroke: black; stroke-width: 1;"></path>
    <text fill="black" dy=".4em" transform="translate(279,14)">
     Examples of 3-D primitives

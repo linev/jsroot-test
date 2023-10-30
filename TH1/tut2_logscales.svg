@@ -73,7 +73,7 @@
      </text>
     </g>
     <g transform="translate(85,138)" font-family="Arial" font-size="9" space="preserve" fill="black" text-anchor="start">
-     <path d="M4,4v71h157v-71z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+     <path d="M157,4h4v71h-157v-4h153z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H157V71H0Z" style="fill: #dfbb88; stroke: black; stroke-width: 1;"></path>
      <text dy=".4em" transform="translate(8,18)">
       Log scale along Y axis.
@@ -226,7 +226,7 @@
      </text>
     </g>
     <g transform="translate(59,160)" font-family="Arial" font-size="8" space="preserve" fill="black" text-anchor="start">
-     <path d="M4,4v60h144v-60z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+     <path d="M144,4h4v60h-144v-4h140z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H144V60H0Z" style="fill: #dfbb88; stroke: black; stroke-width: 1;"></path>
      <text dy=".4em" transform="translate(7,10)">
       Log scale along X and Y axis.
@@ -403,7 +403,7 @@
      </text>
     </g>
     <g transform="translate(97,194)" font-family="Arial" font-size="11" space="preserve" fill="black" text-anchor="start">
-     <path d="M4,4v88h347v-88z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+     <path d="M347,4h4v88h-347v-4h343z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H347V88H0Z" style="fill: #dfbb88; stroke: black; stroke-width: 1;"></path>
      <text dy=".4em" transform="translate(17,15)">
       Log scale along X and Y axis.
@@ -418,14 +418,14 @@
    </g>
   </svg>
   <g transform="translate(70,17)" font-family="Arial" font-size="26" space="preserve">
-   <path d="M3,3v35h558v-35z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M558,3h3v35h-558v-3h555z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H558V35H0Z" style="fill: #b3b3b3; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(279,18)">
     Various options on LOG scales plots
    </text>
   </g>
   <g transform="translate(70,341)" font-family="Arial" font-size="13" space="preserve">
-   <path d="M4,4v52h558v-52z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M558,4h4v52h-558v-4h554z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H558V52H0Z" style="fill: #dfbb88; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(28,26)">
     When more Log labels are requested, the overlapping labels are removed
