@@ -162,7 +162,7 @@
      <path d="M0,15h207" style="stroke: black; stroke-width: 1;"></path>
     </g>
     <g transform="translate(259,77)" font-family="Arial" font-size="21" space="preserve" font-weight="bold">
-     <path d="M3,3v38h248v-38z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+     <path d="M248,3h3v38h-248v-3h245z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H248V38H0Z" style="fill: #cdcd9a; stroke: black; stroke-width: 1;"></path>
      <text fill="#660000" text-anchor="middle" dy=".4em" transform="translate(124,19)">
       Minuit CPU= 0.19 s
@@ -336,7 +336,7 @@
      <path d="M0,15h207" style="stroke: black; stroke-width: 1;"></path>
     </g>
     <g transform="translate(259,77)" font-family="Arial" font-size="21" space="preserve" font-weight="bold">
-     <path d="M3,3v38h248v-38z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+     <path d="M248,3h3v38h-248v-3h245z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H248V38H0Z" style="fill: #cdcd9a; stroke: black; stroke-width: 1;"></path>
      <text fill="#660000" text-anchor="middle" dy=".4em" transform="translate(124,19)">
       Fumili CPU= 0.08 s
@@ -510,7 +510,7 @@
      <path d="M0,15h207" style="stroke: black; stroke-width: 1;"></path>
     </g>
     <g transform="translate(259,77)" font-family="Arial" font-size="20" space="preserve" font-weight="bold">
-     <path d="M3,3v38h248v-38z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+     <path d="M248,3h3v38h-248v-3h245z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H248V38H0Z" style="fill: #cdcd9a; stroke: black; stroke-width: 1;"></path>
      <text fill="#660000" text-anchor="middle" dy=".4em" transform="translate(124,19)">
       Minuit2 CPU= 0.07 s
@@ -684,7 +684,7 @@
      <path d="M0,15h207" style="stroke: black; stroke-width: 1;"></path>
     </g>
     <g transform="translate(259,77)" font-family="Arial" font-size="20" space="preserve" font-weight="bold">
-     <path d="M3,3v38h248v-38z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+     <path d="M248,3h3v38h-248v-3h245z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H248V38H0Z" style="fill: #cdcd9a; stroke: black; stroke-width: 1;"></path>
      <text fill="#660000" text-anchor="middle" dy=".4em" transform="translate(124,19)">
       Fumili2 CPU= 0.06 s

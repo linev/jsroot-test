@@ -2,7 +2,7 @@
  <path d="M0,0H1267V753H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(51,15)" font-family="Arial" font-size="49" space="preserve" font-weight="bold">
-   <path d="M3,3v90h1166v-90z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M1166,3h3v90h-1166v-3h1163z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H1166V90H0Z" style="fill: #829e8c; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(583,45)">
     "glbox" and "glbox1" options for TH3.

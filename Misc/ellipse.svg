@@ -8,7 +8,7 @@
  <path d="M0,0H698V474H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(70,24)" font-family="Arial" font-size="44" space="preserve" font-weight="bold">
-   <path d="M3,3v71h558v-71z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M558,3h3v71h-558v-3h555z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H558V71H0Z" style="fill: #deba87; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(279,36)">
     Examples of Ellipses

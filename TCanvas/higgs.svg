@@ -338,7 +338,7 @@
    </g>
   </g>
   <g transform="translate(71,66)" font-family="Arial" font-size="15" space="preserve">
-   <path d="M4,4v82h161v-82z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M161,4h4v82h-161v-4h157z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H161V82H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(81,10)">
     CMS Preliminary

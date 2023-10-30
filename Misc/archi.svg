@@ -2,7 +2,7 @@
  <path d="M0,0H748V904H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(146,17)" font-family="Arial" font-size="30" space="preserve" font-weight="bold">
-   <path d="M3,3v52h438v-52z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M438,3h3v52h-438v-3h435z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H438V52H0Z" style="fill: #cf5f61; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(219,26)">
     Dictionary Architecture
@@ -25,7 +25,7 @@
    </text>
   </g>
   <g transform="translate(55,94)" font-family="Arial" font-size="20" space="preserve" font-weight="bold">
-   <path d="M3,3v24h73v-24z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M73,3h3v24h-73v-3h70z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H73V24H0Z" style="fill: #886657; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(37,12)">
     DLLs
@@ -48,7 +48,7 @@
    </text>
   </g>
   <g transform="translate(237,94)" font-family="Arial" font-size="20" space="preserve" font-weight="bold">
-   <path d="M3,3v24h73v-24z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M73,3h3v24h-73v-3h70z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H73V24H0Z" style="fill: #886657; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(37,12)">
     C++
@@ -71,7 +71,7 @@
    </text>
   </g>
   <g transform="translate(420,94)" font-family="Arial" font-size="20" space="preserve" font-weight="bold">
-   <path d="M3,3v24h73v-24z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M73,3h3v24h-73v-3h70z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H73V24H0Z" style="fill: #886657; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(37,12)">
     ODL
@@ -94,7 +94,7 @@
    </text>
   </g>
   <g transform="translate(602,94)" font-family="Arial" font-size="20" space="preserve" font-weight="bold">
-   <path d="M3,3v24h73v-24z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M73,3h3v24h-73v-3h70z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H73V24H0Z" style="fill: #886657; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(37,12)">
     IDL
@@ -111,7 +111,7 @@
    </text>
   </g>
   <g transform="translate(321,362)" font-family="Arial" font-size="19" space="preserve" font-weight="bold" fill="black" text-anchor="middle">
-   <path d="M4,4v63h124v-63z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M124,4h4v63h-124v-4h120z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H124V63H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
    <text dy=".4em" transform="translate(62,16)">
     Dictionary
@@ -144,7 +144,7 @@
    </text>
   </g>
   <g transform="translate(584,362)" font-family="Arial" font-size="20" space="preserve" font-weight="bold" fill="black" text-anchor="middle">
-   <path d="M4,4v63h128v-63z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M128,4h4v63h-128v-4h124z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H128V63H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
    <text dy=".4em" transform="translate(64,16)">
     Dictionary
@@ -244,7 +244,7 @@
    </text>
   </g>
   <g transform="translate(55,598)" font-family="Arial" font-size="20" space="preserve" font-weight="bold">
-   <path d="M3,3v24h128v-24z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M128,3h3v24h-128v-3h125z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H128V24H0Z" style="fill: #886657; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(64,12)">
     HTML Files
@@ -267,7 +267,7 @@
    </text>
   </g>
   <g transform="translate(55,754)" font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-   <path d="M3,3v24h128v-24z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M128,3h3v24h-128v-3h125z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H128V24H0Z" style="fill: #886657; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(64,12)">
     Printed Docs
@@ -304,7 +304,7 @@
    <path d="M420,243L420,302M415,302l4,8l4,-8z" style="stroke: black; stroke-width: 6; fill: black;"></path>
   </g>
   <g transform="translate(383,598)" font-family="Arial" font-size="22" space="preserve" font-weight="bold">
-   <path d="M3,3v35h237v-35z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M237,3h3v35h-237v-3h234z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H237V35H0Z" style="fill: #886657; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(119,18)">
     Objects Data Base

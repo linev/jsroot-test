@@ -104,7 +104,7 @@
      <path d="M0,11h66" style="stroke: black; stroke-width: 1;"></path>
     </g>
     <g transform="translate(49,39)" font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <path d="M3,3v25h82v-25z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+     <path d="M82,3h3v25h-82v-3h79z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H82V25H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(41,13)">
       Default option
@@ -149,14 +149,14 @@
      <path d="M0,11h66" style="stroke: black; stroke-width: 1;"></path>
     </g>
     <g transform="translate(44,28)" font-family="Arial" font-size="10" space="preserve" font-weight="bold">
-     <path d="M3,3v16h83v-16z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+     <path d="M83,3h3v16h-83v-3h80z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H83V16H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(42,8)">
       option Lego1
      </text>
     </g>
     <g transform="translate(9,239)" font-family="Arial" font-size="13" space="preserve" font-weight="bold">
-     <path d="M3,3v19h196v-19z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+     <path d="M196,3h3v19h-196v-3h193z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H196V19H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(98,10)">
       Click on lego to rotate
@@ -275,14 +275,14 @@
      <path d="M0,19h131" style="stroke: black; stroke-width: 1;"></path>
     </g>
     <g transform="translate(459,149)" font-family="Arial" font-size="15" space="preserve" font-weight="bold">
-     <path d="M3,3v22h98v-22z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+     <path d="M98,3h3v22h-98v-3h95z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H98V22H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(49,11)">
       option e1p
      </text>
     </g>
     <g transform="translate(80,105)" font-family="Arial" font-size="9" space="preserve" font-weight="bold" text-anchor="middle">
-     <path d="M4,4v109h169v-109z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+     <path d="M169,4h4v109h-169v-4h165z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H169V109H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
      <text fill="blue" font-size="24" dy=".4em" transform="translate(85,14)">
       You can move
@@ -305,7 +305,7 @@
    </g>
   </svg>
   <g transform="translate(70,17)" font-family="Arial" font-size="19" space="preserve" font-style="oblique">
-   <path d="M3,3v35h558v-35z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M558,3h3v35h-558v-3h555z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H558V35H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(279,18)">
     Drawing options for one dimensional histograms

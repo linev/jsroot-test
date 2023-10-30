@@ -105,14 +105,14 @@
    </g>
   </g>
   <g transform="translate(7,2)" font-family="Arial" font-size="17" space="preserve" font-weight="bold">
-   <path d="M-2,2v22h157v-22z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M0,22v-20h-2v22h157v-2z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H157V22H0Z" style="fill: #ffcc66; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(79,11)">
     cut1 &lt; 2.85714
    </text>
   </g>
   <g transform="translate(502,4)" font-family="Courier New" font-size="8" space="preserve" font-weight="bold">
-   <path d="M4,4v99h183v-99z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M183,4h4v99h-183v-4h179z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H183V99H0Z" style="fill: #ccffff; stroke: black; stroke-width: 1;"></path>
    <text fill="blue" text-anchor="start" dy=".4em" transform="translate(9,6)">
     Model-1 at step 8
@@ -163,7 +163,7 @@
    </g>
   </g>
   <g transform="translate(502,108)" font-family="Courier New" font-size="7" space="preserve" font-weight="bold">
-   <path d="M4,4v85h183v-85z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M183,4h4v85h-183v-4h179z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H183V85H0Z" style="fill: #ccffff; stroke: black; stroke-width: 1;"></path>
    <text fill="blue" text-anchor="start" dy=".4em" transform="translate(9,5)">
     Model-2 at step 8
@@ -209,7 +209,7 @@
    </g>
   </g>
   <g transform="translate(502,211)" font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-   <path d="M4,4v80h183v-80z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
+   <path d="M183,4h4v80h-183v-4h179z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H183V80H0Z" style="fill: #d4cf87; stroke: black; stroke-width: 1;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(5,7)">
     ---- Fit legenda ----
