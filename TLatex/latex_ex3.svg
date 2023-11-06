@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 272" preserveAspectRatio="none" width="496" height="272">
  <path d="M0,0H496V272H0Z" style="fill: white;"></path>
  <g>
-  <g transform="translate(50,27)" font-family="Arial" font-size="12" space="preserve" font-weight="bold">
+  <g transform="translate(50,27)" font-family="Arial" font-size="11" space="preserve" font-weight="bold">
    <path d="M397,4h4v218h-397v-4h393z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H397V218H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
-   <g transform="translate(67,40) scale(0.201)">
+   <g transform="translate(80,39) scale(0.181)">
     <g>
      <text fill="black" font-size="61" transform="translate(15,-36)">
       2s
@@ -79,7 +79,7 @@
      θ)
     </text>
    </g>
-   <g transform="translate(42,113) scale(0.201)">
+   <g transform="translate(58,113) scale(0.181)">
     <text fill="black" font-size="61">
      + 4 Re
     </text>
@@ -168,7 +168,7 @@
      <path style="stroke: black; stroke-width: 6; fill: none;" d="M1327,-95a12,12,0,0,1,12,12v49a12,12,0,0,0,12,12a12,12,0,0,0,-12,12v49a12,12,0,0,1,-12,12"></path>
     </g>
    </g>
-   <g transform="translate(9,186) scale(0.201)">
+   <g transform="translate(28,186) scale(0.181)">
     <text fill="black" font-size="61">
      + 16
     </text>

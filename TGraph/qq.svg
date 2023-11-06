@@ -95,7 +95,7 @@
      </text>
      <path d="M0,11h67" style="stroke: black; stroke-width: 1;"></path>
     </g>
-    <g transform="translate(88,1)" font-family="Arial" font-size="13" space="preserve">
+    <g transform="translate(88,1)" font-family="Arial" font-size="11" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(80,9)">
       Unweighted Histogram
      </text>
@@ -193,7 +193,7 @@
      </text>
      <path d="M0,11h67" style="stroke: black; stroke-width: 1;"></path>
     </g>
-    <g transform="translate(96,1)" font-family="Arial" font-size="13" space="preserve">
+    <g transform="translate(96,1)" font-family="Arial" font-size="11" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(72,9)">
       Weighted Histogram
      </text>
@@ -272,7 +272,7 @@
       <path d="M0,205h268M0,174h268M0,142h268M0,111h268M0,79h268M0,47h268M0,16h268" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
      </g>
     </g>
-    <g transform="translate(92,1)" font-family="Arial" font-size="12" space="preserve">
+    <g transform="translate(92,1)" font-family="Arial" font-size="11" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(76,8)">
       Normalized Residuals
      </text>
@@ -365,7 +365,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(53,1)" font-family="Arial" font-size="11" space="preserve">
+    <g transform="translate(53,1)" font-family="Arial" font-size="10" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(115,9)">
       Q-Q plot of Normalized Residuals
      </text>

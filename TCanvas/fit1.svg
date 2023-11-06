@@ -111,7 +111,7 @@
    </text>
    <path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path>
   </g>
-  <g transform="translate(720,200)" font-family="Arial" font-size="12" space="preserve" font-weight="bold" fill="black" text-anchor="start">
+  <g transform="translate(720,200)" font-family="Arial" font-size="10" space="preserve" font-weight="bold" fill="black" text-anchor="start">
    <path d="M360,4h4v280h-360v-4h356z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H360V280H0Z" style="fill: #dfbb88; stroke: black; stroke-width: 1;"></path>
    <text dy=".4em" transform="translate(18,11)">
@@ -148,7 +148,7 @@
     h1f-&gt;Fit("sqroot");
    </text>
   </g>
-  <g transform="translate(371,4)" font-family="Arial" font-size="36" space="preserve">
+  <g transform="translate(371,4)" font-family="Arial" font-size="35" space="preserve">
    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(229,22)">
     Test random numbers
    </text>

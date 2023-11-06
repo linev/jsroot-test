@@ -106,7 +106,7 @@
      </text>
      <path d="M0,11h117" style="stroke: black; stroke-width: 1;"></path>
     </g>
-    <g transform="translate(228,1)" font-family="Arial" font-size="13" space="preserve">
+    <g transform="translate(228,1)" font-family="Arial" font-size="12" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(66,9)">
       Normal histogram
      </text>
@@ -209,7 +209,7 @@
      </text>
      <path d="M0,11h117" style="stroke: black; stroke-width: 1;"></path>
     </g>
-    <g transform="translate(190,1)" font-family="Arial" font-size="12" space="preserve">
+    <g transform="translate(190,1)" font-family="Arial" font-size="10" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(103,9)">
       Nearest Neighbour of order 3
      </text>
@@ -321,7 +321,7 @@
      </text>
      <path d="M0,11h117" style="stroke: black; stroke-width: 1;"></path>
     </g>
-    <g transform="translate(187,1)" font-family="Arial" font-size="12" space="preserve">
+    <g transform="translate(187,1)" font-family="Arial" font-size="10" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(107,9)">
       Nearest Neighbour of order 16
      </text>

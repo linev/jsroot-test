@@ -247,7 +247,7 @@
      </text>
      <path d="M0,9h66" style="stroke: black; stroke-width: 1;"></path>
     </g>
-    <g transform="translate(66,1)" font-family="Arial" font-size="10" space="preserve">
+    <g transform="translate(66,1)" font-family="Arial" font-size="9" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(99,11)">
       Fitted value of par[0]=Constant
      </text>
@@ -363,7 +363,7 @@
      </text>
      <path d="M0,9h66" style="stroke: black; stroke-width: 1;"></path>
     </g>
-    <g transform="translate(66,1)" font-family="Arial" font-size="12" space="preserve">
+    <g transform="translate(66,1)" font-family="Arial" font-size="10" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(99,11)">
       Fitted value of par[1]=Mean
      </text>
@@ -467,7 +467,7 @@
      </text>
      <path d="M0,9h66" style="stroke: black; stroke-width: 1;"></path>
     </g>
-    <g transform="translate(66,1)" font-family="Arial" font-size="11" space="preserve">
+    <g transform="translate(66,1)" font-family="Arial" font-size="10" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(99,11)">
       Fitted value of par[2]=Sigma
      </text>

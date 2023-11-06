@@ -110,7 +110,7 @@
       Default option
      </text>
     </g>
-    <g transform="translate(82,1)" font-family="Arial" font-size="10" space="preserve">
+    <g transform="translate(82,1)" font-family="Arial" font-size="9" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(83,8)">
       This is the px distribution
      </text>
@@ -162,7 +162,7 @@
       Click on lego to rotate
      </text>
     </g>
-    <g transform="translate(82,1)" font-family="Arial" font-size="10" space="preserve">
+    <g transform="translate(82,1)" font-family="Arial" font-size="9" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(83,8)">
       This is the px distribution
      </text>
@@ -281,23 +281,25 @@
       option e1p
      </text>
     </g>
-    <g transform="translate(80,105)" font-family="Arial" font-size="9" space="preserve" font-weight="bold" text-anchor="middle">
+    <g transform="translate(80,105)" font-family="Arial" font-size="8" space="preserve" font-weight="bold" fill="black" text-anchor="middle">
      <path d="M169,4h4v109h-169v-4h165z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H169V109H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
-     <text fill="blue" font-size="24" dy=".4em" transform="translate(85,14)">
-      You can move
-     </text>
-     <text fill="black" dy=".4em" transform="translate(85,41)">
+     <g font-family="Arial" font-size="24" space="preserve" font-weight="bold">
+      <text fill="blue" text-anchor="middle" dy=".4em" transform="translate(85)">
+       You can move
+      </text>
+     </g>
+     <text dy=".4em" transform="translate(85,41)">
       Title and Stats pads
      </text>
-     <text fill="black" dy=".4em" transform="translate(85,68)">
+     <text dy=".4em" transform="translate(85,68)">
       X and Y axis
      </text>
-     <text fill="black" dy=".4em" transform="translate(85,95)">
+     <text dy=".4em" transform="translate(85,95)">
       You can modify bin contents
      </text>
     </g>
-    <g transform="translate(170,2)" font-family="Arial" font-size="19" space="preserve">
+    <g transform="translate(170,2)" font-family="Arial" font-size="17" space="preserve">
      <text fill="black" text-anchor="middle" dy=".4em" transform="translate(158,15)">
       This is the px distribution
      </text>

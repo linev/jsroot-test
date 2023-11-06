@@ -233,7 +233,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(38,1)" font-family="Arial" font-size="9" space="preserve">
+    <g transform="translate(38,1)" font-family="Arial" font-size="8" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151)">
       Throughput (fill,get) TH1/2/3/nF (real, 1M entries/sec)
      </text>
@@ -554,7 +554,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(38,1)" font-family="Arial" font-size="9" space="preserve">
+    <g transform="translate(38,1)" font-family="Arial" font-size="8" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151)">
       Throughput (fill,get) THnSparseF (real, 1M entries/sec)
      </text>
@@ -836,7 +836,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(38,1)" font-family="Arial" font-size="8" space="preserve">
+    <g transform="translate(38,1)" font-family="Arial" font-size="7" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151)">
       Relative speed improvement (real, 1M entries/sec): sparse/hist
      </text>
@@ -1113,7 +1113,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(38,1)" font-family="Arial" font-size="9" space="preserve">
+    <g transform="translate(38,1)" font-family="Arial" font-size="8" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151)">
       Throughput (fill,get) TH1/2/3/nF (CPU, 1M entries/sec)
      </text>
@@ -1434,7 +1434,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(38,1)" font-family="Arial" font-size="9" space="preserve">
+    <g transform="translate(38,1)" font-family="Arial" font-size="8" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151)">
       Throughput (fill,get) THnSparseF (CPU, 1M entries/sec)
      </text>
@@ -1713,7 +1713,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(38,1)" font-family="Arial" font-size="8" space="preserve">
+    <g transform="translate(38,1)" font-family="Arial" font-size="7" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(151)">
       Relative speed improvement (CPU, 1M entries/sec): sparse/hist
      </text>
