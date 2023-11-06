@@ -147,7 +147,7 @@
     </text>
    </g>
    <path d="M14,136H100" style="stroke: red; stroke-width: 2;"></path>
-   <path d="M57,122V152" style="stroke: red; stroke-width: 2;"></path>
+   <path d="M57,122V152M53,122h8M53,152h8" style="stroke: red; stroke-width: 2;"></path>
    <path d="M52,131v10h10v-10z" style="stroke: cyan; fill: cyan;"></path>
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(114,137)">
     Graph with error bars
