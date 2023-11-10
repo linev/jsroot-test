@@ -58,7 +58,7 @@
        <text fill="black" font-size="20">
         10
        </text>
-       <text fill="black" font-size="12" transform="translate(21,-10)">
+       <text fill="black" font-size="12" transform="translate(22,-10)">
         -3
        </text>
       </g>
@@ -66,7 +66,7 @@
        <text fill="black" font-size="20">
         10
        </text>
-       <text fill="black" font-size="12" transform="translate(21,-10)">
+       <text fill="black" font-size="12" transform="translate(22,-10)">
         -2
        </text>
       </g>
@@ -74,7 +74,7 @@
        <text fill="black" font-size="20">
         10
        </text>
-       <text fill="black" font-size="12" transform="translate(21,-10)">
+       <text fill="black" font-size="12" transform="translate(22,-10)">
         -1
        </text>
       </g>
@@ -135,15 +135,15 @@
     </g>
    </g>
   </g>
-  <g transform="translate(80,3)" font-family="Arial" font-size="20" space="preserve">
+  <g transform="translate(80,3)" font-family="Arial" font-size="19" space="preserve">
    <g transform="translate(46,22) scale(0.625)">
     <text fill="black" font-size="32">
      U projectile at 1.4 MeV/u on
     </text>
-    <text fill="black" font-size="19" transform="translate(409,-17)">
+    <text fill="black" font-size="19" transform="translate(410,-17)">
      40
     </text>
-    <text fill="black" font-size="32" x="430">
+    <text fill="black" font-size="32" x="431">
      Ar target with 1 mbar pressure.
     </text>
    </g>
