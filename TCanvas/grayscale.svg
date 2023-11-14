@@ -214,33 +214,33 @@
    <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(10,14)">
     ---- Fit legenda ----
    </text>
-   <path d="M10,33H70" style="stroke: magenta; stroke-width: 1; stroke-dasharray: 3,4,1,4;"></path>
-   <path d="M40,33h1" style="stroke: black; fill: none;"></path>
+   <path d="M10,33H70" style="stroke: #696969; stroke-width: 1; stroke-dasharray: 3,4,1,4;"></path>
+   <path d="M40,33h1" style="stroke: #000000; fill: none;"></path>
    <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(80,33)">
     Model-1 at step 3
    </text>
-   <path d="M10,53H70" style="stroke: #cc00cc; stroke-width: 1; stroke-dasharray: 20,5;"></path>
-   <path d="M40,53h1" style="stroke: black; fill: none;"></path>
+   <path d="M10,53H70" style="stroke: #545454; stroke-width: 1; stroke-dasharray: 20,5;"></path>
+   <path d="M40,53h1" style="stroke: #000000; fill: none;"></path>
    <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(80,53)">
     Model-1 at step 5
    </text>
-   <path d="M10,72H70" style="stroke: black; stroke-width: 2;"></path>
-   <path d="M40,72h1" style="stroke: black; fill: none;"></path>
+   <path d="M10,72H70" style="stroke: #000000; stroke-width: 2;"></path>
+   <path d="M40,72h1" style="stroke: #000000; fill: none;"></path>
    <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(80,72)">
     Model-1 at step 8
    </text>
-   <path d="M10,91H70" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
-   <path d="M40,91h1" style="stroke: black; fill: none;"></path>
+   <path d="M10,91H70" style="stroke: #000000; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+   <path d="M40,91h1" style="stroke: #000000; fill: none;"></path>
    <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(80,92)">
     Model-1 at step 8 (bkg)
    </text>
-   <path d="M10,111H70" style="stroke: red; stroke-width: 2;"></path>
-   <path d="M40,111h1" style="stroke: black; fill: none;"></path>
+   <path d="M10,111H70" style="stroke: #4c4c4c; stroke-width: 2;"></path>
+   <path d="M40,111h1" style="stroke: #000000; fill: none;"></path>
    <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(80,111)">
     Model-2 at step 8
    </text>
-   <path d="M10,130H70" style="stroke: red; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-   <path d="M40,130h1" style="stroke: black; fill: none;"></path>
+   <path d="M10,130H70" style="stroke: #4c4c4c; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+   <path d="M40,130h1" style="stroke: #000000; fill: none;"></path>
    <text fill="#000000" text-anchor="start" dy=".4em" transform="translate(80,131)">
     Model-2 at step 8 (bkg)
    </text>
