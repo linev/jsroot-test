@@ -107,8 +107,18 @@ function produceGlobalStyleCopy() {
       init_palette = settings.Palette;
       init_curve = settings.FuncAsCurve;
    }
-
 }
+
+function resetPdfFile(pdfFile) {
+   pdfFile = pdfFile.replace(/\/CreationDate \(D:(.*?)\)/, "/CreationDate (D:20231117000000+00'00')");
+   pdfFile = pdfFile.replace(
+     /(\/ID \[ (<[0-9a-fA-F]+> ){2}\])/,
+     '/ID [ <00000000000000000000000000000000> <00000000000000000000000000000000> ]'
+   );
+   pdfFile = pdfFile.replace(/(\/Producer \(jsPDF [1-9].[0-9].[0-9]\))/, '/Producer (jsPDF 1.0.0)');
+   return pdfFile;
+ }
+ 
 
 function produceFile(content, extension, subid) {
    if (!entry_name) entry_name = keyid;
@@ -156,6 +166,10 @@ function produceFile(content, extension, subid) {
         }
      } else if (ispdf) {
         match = (svg0?.byteLength === clen);
+        const pdf1 = resetPdfFile(svg0.toString()),
+              pdf2 = resetPdfFile(content.toString());
+        if (pdf1 !== pdf2) match = false;
+        content = Buffer.from(pdf2); // write reformated data
      }
 
      if (!match) result = 'DIFF';
