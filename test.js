@@ -133,11 +133,12 @@ function produceFile(content, extension, subid) {
 
    const svgname = keyid + '/' + use_name + extension,
          ispng = (extension === '.png'),
+         ispdf = (extension === '.pdf'),
          clen = content.length ?? content.byteLength;
    let svg0 = null, result = 'MATCH';
 
    try {
-     svg0 = readFileSync(svgname, ispng ? undefined : 'utf-8');
+     svg0 = readFileSync(svgname, ispng || ispdf ? undefined : 'utf-8');
 
      let match = (svg0 === content);
 
@@ -153,6 +154,8 @@ function produceFile(content, extension, subid) {
               }
            }
         }
+     } else if (ispdf) {
+        match = (svg0?.byteLength === clen);
      }
 
      if (!match) result = 'DIFF';
@@ -175,7 +178,7 @@ function produceFile(content, extension, subid) {
    }
 
    const clen0 = svg0?.length ?? svg0?.byteLength ?? 0;
-   console.log(keyid, use_name, 'result', result, 'len='+clen, (clen0 && result === 'DIFF' ? 'rel0='+(100*clen/clen0).toFixed(1)+'%' : ''));
+   console.log(keyid, use_name + (ispng || ispdf ? extension : ''), 'result', result, 'len='+clen, (clen0 && result === 'DIFF' ? 'rel0='+(100*clen/clen0).toFixed(1)+'%' : ''));
 
    if (result === 'DIFF')
       all_diffs.push(svgname);
@@ -207,7 +210,14 @@ function produceSVG(object, option) {
        if (entry.reset_funcs)
           object.fFunctions = create(clTList);
        produceFile(code, entry.aspng ? '.png' : '.svg');
+       if (!entry.pdf) return true;
 
+       args.format = 'pdf';
+       args.as_buffer = true;
+       return makeImage(args).then(code => {
+          produceFile(code, '.pdf');
+       });
+   }).then(() => {
        let do_testing = (entry.interactive !== false) &&
                         ((entry.interactive && test_interactive !== 0) ||
                          (test_interactive && (keyid !== 'TGeo')));
