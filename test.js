@@ -118,7 +118,7 @@ function resetPdfFile(pdfFile) {
    pdfFile = pdfFile.replace(/(\/Producer \(jsPDF [1-9].[0-9].[0-9]\))/, '/Producer (jsPDF 1.0.0)');
    return pdfFile;
  }
- 
+
 
 function produceFile(content, extension, subid) {
    if (!entry_name) entry_name = keyid;
@@ -224,13 +224,14 @@ function produceSVG(object, option) {
        if (entry.reset_funcs)
           object.fFunctions = create(clTList);
        produceFile(code, entry.aspng ? '.png' : '.svg');
-       if (!entry.pdf) return true;
+
+       /*if (!entry.pdf) return true;
 
        args.format = 'pdf';
        args.as_buffer = true;
        return makeImage(args).then(code => {
           produceFile(code, '.pdf');
-       });
+       }); */
    }).then(() => {
        let do_testing = (entry.interactive !== false) &&
                         ((entry.interactive && test_interactive !== 0) ||
