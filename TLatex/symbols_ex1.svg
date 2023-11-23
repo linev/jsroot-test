@@ -18,7 +18,7 @@
   </g>
   <g font-family="Arial" font-size="18" space="preserve" font-weight="bold">
    <text fill="black" text-anchor="start" dy=".4em" transform="translate(50,458)">
-    4)   F(t) = #sum_{i=-∞}^{∞}A(i)cos[#frac{i}{t+i}]
+    4)   F(t) = ∑_{i=-∞}^{∞}A(i)cos[#frac{i}{t+i}]
    </text>
   </g>
  </g>
