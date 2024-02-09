@@ -1,4 +1,4 @@
-import { gStyle, version_id, version_date, create, settings, constants,
+import { gStyle, version_id, version_date, create, settings, constants, setHPainter,
          internals, httpRequest, openFile, makeImage, readStyleFromURL, clTList } from 'jsroot';
 
 import { createRootColors } from 'jsroot/colors';
@@ -246,6 +246,8 @@ function processURL(url) {
 
    const hpainter = new HierarchyPainter('testing', null);
 
+   setHPainter(hpainter);
+
    hpainter.setDisplay('batch');
 
    hpainter.createDisplay()
@@ -262,6 +264,8 @@ function processURL(url) {
          const svg = json ? '' : disp.makeSVG(n);
          if (svg) produceFile(svg, '.svg', n);
       }
+
+      setHPainter(null);
 
       processNextOption();
    });
