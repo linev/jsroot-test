@@ -5,10 +5,10 @@
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
-     <path d="M0,462h10v66h9v-78h10v-50h9v-39h10v16h10v-15h9v56h10v-45h9v16h10v-58h10v23h9v-4h10v-79h9v-5h10v-22h10v81h9v-96h10v5h9v28h10v-36h10v21h9v-73h10v27h9v-11h10v-79h10v10h9v11h10v25h9v10h10v-58h10v28h9v-19h10v3h9v36h10v-1h10v-46h9v-8h10v-5h9v3h10v21h10v-10h9v-59h10v16h9v-15h10v30h10v11h9v56h10v-40h9v-81h10v43h10v28h9v15h10v32h9v-8h20v-11h19v31h9v-3h10v-14h10v-71h9v68h10v68h9v-40h10v22h10v-27h9v8h10v53h9v-51h10v68h10v-55h9v71h10v-27h9v17h10v27h10v-2h9v-38h10v32h9v-10h10v64h10v-32h9v76h10v-44h9v50h10v-35h10v85h9v-79h10v64h9v43h10v-11h10v34h9v-9h10v2h9v61h10v-25h10v30h19v82h9v-6h10" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: none;"></path>
+     <path d="M0,462h10v66h9v-78h10v-49h9v-40h10v17h10v-15h9v55h10v-45h9v16h10v-58h10v24h9v-4h10v-79h9v-5h10v-22h10v81h9v-96h10v5h9v28h10v-36h10v21h9v-73h10v27h9v-11h10v-78h10v10h9v10h10v25h9v10h10v-58h10v28h9v-19h10v4h9v35h10v-1h10v-46h9v-8h10v-5h9v3h10v21h10v-10h9v-59h10v16h9v-15h10v31h10v10h9v56h10v-40h9v-81h10v43h10v28h9v15h10v32h9v-8h20v-10h9v-1h10v31h9v-3h10v-14h10v-71h9v68h10v68h9v-40h10v22h10v-27h9v8h10v53h9v-51h10v68h10v-55h9v71h10v-27h9v17h10v27h10v-2h9v-38h10v32h9v-10h10v63h10v-31h9v76h10v-44h9v50h10v-36h10v85h9v-78h10v64h9v42h10v-11h10v34h9v-9h10v2h9v61h10v-24h10v30h19v81h9v-6h10" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: none;"></path>
     </g>
     <g>
-     <path d="M5,400l10,-6l9,-7l10,-6l9,-7l10,-6l10,-7l9,-6l10,-7l9,-7l10,-7l10,-6l9,-7l10,-7l9,-7l10,-7l10,-7l9,-7l10,-7l9,-7l10,-7l10,-7l9,-7l10,-8l9,-7l10,-7l10,-7l9,-8l10,-7l9,-7l10,-8l10,-7l9,-7l10,-8l9,-7l10,-8l10,-7l9,-8l10,-7l9,-8l10,-8l10,-7l9,-8l10,-8l9,-7l10,-8l10,-8l9,-8l10,-8l9,-7l10,-2l10,3l9,4l10,5l9,5l10,6l10,6l9,7l10,7l9,8l10,8l10,9l9,9l10,10l9,10l10,11l10,10l9,12l10,11l9,12l10,12l10,12l9,13l10,12l9,13l10,13l10,12l9,13l10,13l9,12l10,13l10,12l9,12l10,12l9,11l10,12l10,10l9,11l10,10l9,10l10,9l10,9l9,8l10,8l9,8l10,6l10,7l9,6l10,5l9,5" style="fill: none; stroke: red; stroke-width: 2;"></path>
+     <path d="M5,401l10,-7l9,-6l10,-7l9,-6l10,-7l10,-6l9,-7l10,-7l9,-6l10,-7l10,-7l9,-7l10,-6l9,-7l10,-7l10,-7l9,-7l10,-7l9,-7l10,-7l10,-7l9,-8l10,-7l9,-7l10,-7l10,-7l9,-8l10,-7l9,-7l10,-8l10,-7l9,-7l10,-8l9,-7l10,-8l10,-7l9,-8l10,-7l9,-8l10,-7l10,-8l9,-8l10,-7l9,-8l10,-8l10,-8l9,-8l10,-7l9,-8l10,-2l10,4l9,4l10,4l9,5l10,6l10,6l9,7l10,7l9,8l10,8l10,9l9,9l10,10l9,10l10,11l10,11l9,11l10,11l9,12l10,12l10,12l9,13l10,12l9,13l10,13l10,12l9,13l10,13l9,12l10,12l10,13l9,12l10,11l9,12l10,11l10,11l9,10l10,11l9,9l10,9l10,9l9,9l10,8l9,7l10,7l10,6l9,6l10,6l9,4" style="fill: none; stroke: red; stroke-width: 2;"></path>
     </g>
    </svg>
    <g>
@@ -51,30 +51,30 @@
      </g>
     </g>
     <g>
-     <path d="M0,0v640M18,639H0M36,618H0M18,597H0M18,576H0M18,555H0M36,534H0M18,514H0M18,493H0M18,472H0M36,451H0M18,430H0M18,409H0M18,388H0M36,367H0M18,347H0M18,326H0M18,305H0M36,284H0M18,263H0M18,242H0M18,221H0M36,200H0M18,179H0M18,159H0M18,138H0M36,117H0M18,96H0M18,75H0M18,54H0M36,33H0M18,12H0" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0v640M18,639H0M36,618H0M18,597H0M18,576H0M18,556H0M36,535H0M18,514H0M18,493H0M18,472H0M36,451H0M18,431H0M18,410H0M18,389H0M36,368H0M18,347H0M18,326H0M18,306H0M36,285H0M18,264H0M18,243H0M18,222H0M36,201H0M18,180H0M18,160H0M18,139H0M36,118H0M18,97H0M18,76H0M18,55H0M36,35H0M18,14H0" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
       <text dy=".4em" transform="translate(-6,618)">
        3800
       </text>
-      <text dy=".4em" transform="translate(-6,534)">
+      <text dy=".4em" transform="translate(-6,535)">
        4000
       </text>
       <text dy=".4em" transform="translate(-6,451)">
        4200
       </text>
-      <text dy=".4em" transform="translate(-6,367)">
+      <text dy=".4em" transform="translate(-6,368)">
        4400
       </text>
-      <text dy=".4em" transform="translate(-6,284)">
+      <text dy=".4em" transform="translate(-6,285)">
        4600
       </text>
-      <text dy=".4em" transform="translate(-6,200)">
+      <text dy=".4em" transform="translate(-6,201)">
        4800
       </text>
-      <text dy=".4em" transform="translate(-6,117)">
+      <text dy=".4em" transform="translate(-6,118)">
        5000
       </text>
-      <text dy=".4em" transform="translate(-6,33)">
+      <text dy=".4em" transform="translate(-6,35)">
        5200
       </text>
      </g>

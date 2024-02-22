@@ -5,7 +5,7 @@
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
-     <path d="M5,372h10l9,2l10,3l9,3l10,5l10,5l9,5l10,7l9,7l10,7l10,8l9,8l10,9l9,8l10,7l10,8l9,6l10,6l9,4l10,3h10l9,-1l10,-4l9,-7l10,-9l10,-13l9,-15l10,-19l9,-21l10,-23l10,-26l9,-43l10,-43l9,-41l10,-39l10,-36l9,-32l10,-27l9,-23l10,-16l10,-11l9,-4l10,3l9,9l10,15l10,20l9,25l10,29l9,33l10,35l10,37l9,37l10,38l9,37l10,35l10,34l9,32l10,30l9,27l10,24l10,22l9,20l10,11l9,7l10,5l10,4l9,2l10,2l9,1l10,1h10h9l10,-1h9h10h10l9,1h10l9,1l10,1l10,1l9,2l10,2l9,2l10,2l10,2l9,3l10,2l9,3l10,3l10,3l9,3l10,3l9,1l10,-3l10,-2l9,-3l10,-2l9,-3" style="fill: none; stroke: blue; stroke-width: 6;"></path>
+     <path d="M5,372l10,1l9,1l10,3l9,3l10,5l10,5l9,5l10,7l9,7l10,7l10,8l9,8l10,9l9,8l10,7l10,8l9,6l10,6l9,4l10,3h10l9,-1l10,-4l9,-7l10,-9l10,-13l9,-15l10,-19l9,-21l10,-23l10,-26l9,-43l10,-43l9,-41l10,-39l10,-36l9,-32l10,-27l9,-23l10,-16l10,-11l9,-4l10,3l9,9l10,15l10,20l9,25l10,29l9,33l10,35l10,37l9,37l10,38l9,37l10,35l10,34l9,32l10,30l9,27l10,24l10,22l9,20l10,11l9,7l10,5l10,4l9,2l10,2l9,1l10,1h10h9l10,-1h9h10h10l9,1h10l9,1l10,1l10,1l9,2l10,2l9,2l10,2l10,2l9,3l10,2l9,3l10,3l10,3l9,3l10,3l9,1l10,-3l10,-2l9,-3l10,-2l9,-3" style="fill: none; stroke: blue; stroke-width: 6;"></path>
     </g>
    </svg>
    <g>
@@ -48,7 +48,7 @@
      </g>
     </g>
     <g transform="translate(960)">
-     <path d="M0,0v640M0,640H-36M0,627H-18M0,613H-18M0,600H-18M0,586H-18M0,573H-36M0,559H-18M0,546H-18M0,533H-18M0,519H-18M0,506H-36M0,492H-18M0,479H-18M0,465H-18M0,452H-18M0,439H-36M0,425H-18M0,412H-18M0,398H-18M0,385H-18M0,371H-36M0,358H-18M0,345H-18M0,331H-18M0,318H-18M0,304H-36M0,291H-18M0,278H-18M0,264H-18M0,251H-18M0,237H-36M0,224H-18M0,210H-18M0,197H-18M0,184H-18M0,170H-36M0,157H-18M0,143H-18M0,130H-18M0,116H-18M0,103H-36M0,90H-18M0,76H-18M0,63H-18M0,49H-18M0,36H-36M0,22H-18M0,9H-18" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0v640M0,640H-36M0,627H-18M0,613H-18M0,600H-18M0,586H-18M0,573H-36M0,559H-18M0,546H-18M0,533H-18M0,519H-18M0,506H-36M0,492H-18M0,479H-18M0,465H-18M0,452H-18M0,439H-36M0,425H-18M0,412H-18M0,398H-18M0,385H-18M0,372H-36M0,358H-18M0,345H-18M0,331H-18M0,318H-18M0,304H-36M0,291H-18M0,278H-18M0,264H-18M0,251H-18M0,237H-36M0,224H-18M0,210H-18M0,197H-18M0,184H-18M0,170H-36M0,157H-18M0,143H-18M0,130H-18M0,116H-18M0,103H-36M0,90H-18M0,76H-18M0,63H-18M0,49H-18M0,36H-36M0,22H-18M0,9H-18" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="start">
       <text dy=".4em" transform="translate(6,640)">
        0
@@ -62,7 +62,7 @@
       <text dy=".4em" transform="translate(6,439)">
        15
       </text>
-      <text dy=".4em" transform="translate(6,371)">
+      <text dy=".4em" transform="translate(6,372)">
        20
       </text>
       <text dy=".4em" transform="translate(6,304)">
