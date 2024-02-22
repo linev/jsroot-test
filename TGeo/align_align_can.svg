@@ -17,12 +17,12 @@
       Ideal / Aligned geometry
      </text>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="blue" text-anchor="start" dy=".4em" transform="translate(34,38)">
+      <text fill="blue" text-anchor="start" dy=".4em" transform="translate(34,46)">
        -- Create physical nodes for the objects you want to align
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="blue" text-anchor="start" dy=".4em" transform="translate(34,76)">
+      <text fill="blue" text-anchor="start" dy=".4em" transform="translate(34,84)">
        -- You must start from a valid CLOSED geometry
       </text>
      </g>
@@ -30,7 +30,7 @@
       TGeoPhysicalNode *node = gGeoManager-&gt;MakePhysicalNode(const char *path)
      </text>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,153)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,161)">
        + creates a physical node represented by path, e.g. TOP_1/A_2/B_3
       </text>
      </g>
@@ -38,17 +38,17 @@
       node-&gt;Align(TGeoMatrix *newmat, TGeoShape *newshape, Bool_t check=kFALSE)
      </text>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,229)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,237)">
        + newmat = new matrix to replace final node LOCAL matrix
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,267)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,275)">
        + newshape = new shape to replace final node shape
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,306)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,314)">
        + check = optional check if the new aligned node is overlapping
       </text>
      </g>

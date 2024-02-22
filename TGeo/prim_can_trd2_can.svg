@@ -35,27 +35,27 @@
       Execute: trd2(iaxis, ndiv, start, step) to divide this.
      </text>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,206)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,214)">
        ----- IAXIS can be only 3 (Z)
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,235)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,243)">
        ----- NDIV must be a positive integer
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,264)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,272)">
        ----- START must be a valid axis offset within shape range on divided axis
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,294)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,302)">
        ----- STEP is the division step. START+NDIV*STEP must be in range also
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,323)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,331)">
        ----- If START and STEP are omitted, all range of the axis will be divided
       </text>
      </g>

@@ -44,27 +44,27 @@
       Execute: pgon(iaxis, ndiv, start, step) to divide this.
      </text>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,239)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,247)">
        ----- IAXIS can be 2 or 3 (Phi, Z)
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,263)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,271)">
        ----- NDIV must be a positive integer
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,287)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,295)">
        ----- START must be a valid axis offset within shape range on divided axis
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,310)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,318)">
        ----- STEP is the division step. START+NDIV*STEP must be in range also
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,334)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,342)">
        ----- If START and STEP are omitted, all range of the axis will be divided
       </text>
      </g>

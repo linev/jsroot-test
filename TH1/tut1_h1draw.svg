@@ -285,7 +285,7 @@
      <path d="M169,4h4v109h-169v-4h165z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
      <path d="M0,0H169V109H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="24" space="preserve" font-weight="bold">
-      <text fill="blue" text-anchor="middle" dy=".4em" transform="translate(85)">
+      <text fill="blue" text-anchor="middle" dy=".4em" transform="translate(85,12)">
        You can move
       </text>
      </g>
