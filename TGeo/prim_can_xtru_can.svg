@@ -23,61 +23,61 @@
       fNz       =     4         =&gt;  number of Z sections
      </text>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,84)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,89)">
        ----- Any Z section is an arbitrary polygone
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,110)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,115)">
        ----- The shape can have an arbitrary number of Z sections, as for pcon/pgon
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,135)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,140)">
        ----- Create with:    TGeoXtru *xtru = new TGeoXtru(nz);
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,161)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,166)">
        ----- Define the blueprint polygon :
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <g transform="translate(34,192)">
+      <g transform="translate(34,197)">
        <text fill="red" font-size="16">
         -----                 Double_t x[8] = {-30,-30,30,30,15,15,-15,-15};
        </text>
       </g>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <g transform="translate(34,217)">
+      <g transform="translate(34,222)">
        <text fill="red" font-size="16">
         -----                 Double_t y[8] = {-30,30,30,-30,-30,15,15,-30};
        </text>
       </g>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,237)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,242)">
        -----                 xtru-&gt;DefinePolygon(8,x,y);
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,263)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,267)">
        ----- Define translations/scales of the blueprint for Z sections :
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,288)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,293)">
        -----                 xtru-&gt;DefineSection(i, Zsection, x0, y0, scale);
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,314)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,318)">
        ----- Sections have to be defined in increasing Z order
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,339)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,344)">
        ----- 2 sections can be defined at same Z (not for first/last sections)
       </text>
      </g>

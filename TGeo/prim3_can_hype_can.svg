@@ -32,32 +32,32 @@
       fDz       = 40.00         =&gt;  half-length on Z axis
      </text>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,184)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,191)">
        ----- A hyperboloid is described by the equation:
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,214)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,220)">
        -----    r^2 - (tan(stereo)*z)^2 = rmin^2;   where: r = x*x + y*y
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,243)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,250)">
        ----- Create with:    TGeoHype *hype = new TGeoHype(rin, stin, rout, stout, dz);
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,272)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,279)">
        -----      rin &lt; rout; rout &gt; 0
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,302)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,309)">
        -----      rin = 0; stin &gt; 0 =&gt; inner surface conical
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,331)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,338)">
        -----      stin/stout = 0 =&gt; corresponding surface cyllindrical
       </text>
      </g>

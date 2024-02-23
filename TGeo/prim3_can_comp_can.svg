@@ -17,22 +17,22 @@
       TGeoCompositeShape - composite shape class
      </text>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="blue" text-anchor="start" dy=".4em" transform="translate(34,46)">
+      <text fill="blue" text-anchor="start" dy=".4em" transform="translate(34,57)">
        ----- Define the shape components and don't forget to name them
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="blue" text-anchor="start" dy=".4em" transform="translate(34,84)">
+      <text fill="blue" text-anchor="start" dy=".4em" transform="translate(34,96)">
        ----- Define geometrical transformations that apply to shape components
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="blue" text-anchor="start" dy=".4em" transform="translate(34,123)">
+      <text fill="blue" text-anchor="start" dy=".4em" transform="translate(34,134)">
        ----- Name all transformations and register them
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="blue" text-anchor="start" dy=".4em" transform="translate(34,161)">
+      <text fill="blue" text-anchor="start" dy=".4em" transform="translate(34,172)">
        ----- Define the composite shape based on a Boolean expression
       </text>
      </g>
@@ -40,17 +40,17 @@
       TGeoCompositeShape("someName", "expression")
      </text>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="blue" text-anchor="start" dy=".4em" transform="translate(34,237)">
+      <text fill="blue" text-anchor="start" dy=".4em" transform="translate(34,248)">
        ----- Expression is made of &lt;shapeName:transfName&gt; components related by Boolean operators
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="blue" text-anchor="start" dy=".4em" transform="translate(34,275)">
+      <text fill="blue" text-anchor="start" dy=".4em" transform="translate(34,287)">
        ----- Boolean operators can be: (+) union, (-) subtraction and (*) intersection
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="blue" text-anchor="start" dy=".4em" transform="translate(34,314)">
+      <text fill="blue" text-anchor="start" dy=".4em" transform="translate(34,325)">
        ----- Use paranthesys in the expression to force precedence
       </text>
      </g>

@@ -38,27 +38,27 @@
       Execute: para(iaxis, ndiv, start, step) to divide this.
      </text>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,226)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,232)">
        ----- IAXIS can be 1, 2 or 3 (X, Y, Z)
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,254)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,259)">
        ----- NDIV must be a positive integer
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,281)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,287)">
        ----- START must be a valid axis offset within shape range on divided axis
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,308)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,314)">
        ----- STEP is the division step. START+NDIV*STEP must be in range also
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,335)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,341)">
        ----- If START and STEP are omitted, all range of the axis will be divided
       </text>
      </g>

@@ -26,37 +26,37 @@
       fDz       = 50.00         =&gt;  half-length on Z axis
      </text>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,135)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,143)">
        ----- A paraboloid is described by the equation:
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,167)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,175)">
        -----    z = a*r*r + b;   where: r = x*x + y*y
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,199)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,207)">
        ----- Create with:    TGeoParaboloid *parab = new TGeoParaboloid(rlo, rhi, dz);
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,231)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,239)">
        -----    dz:  half-length in Z (range from -dz to +dz
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,263)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,271)">
        -----    rlo: radius at z=-dz given by: -dz = a*rlo*rlo + b
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,295)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,302)">
        -----    rhi: radius at z=+dz given by:  dz = a*rhi*rhi + b
       </text>
      </g>
      <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,326)">
+      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,334)">
        -----      rlo != rhi; both &gt;= 0
       </text>
      </g>
