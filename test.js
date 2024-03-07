@@ -23,6 +23,10 @@ const jsroot_path = './../jsroot',
 // uncomment to be able use https fwith jsroot.gsi.de server
 //  process.env.NODE_TLS_REJECT_UNAUTHORIZED = 0;
 
+// reduse size of small pad for batch mode
+settings.SmallPad.width = 40;
+settings.SmallPad.height = 40;
+
 
 examples_main.TH1.push({ name: 'B_local', file: 'file://other/hsimple.root', item: 'hpx;1', opt: 'B,fill_green', title: 'draw histogram as bar chart' });
 examples_main.TTree.push({ name: '2d_local', asurl: true, file: 'file://other/hsimple.root', item: 'ntuple', opt: 'px:py', title: 'Two-dimensional TTree::Draw' });
