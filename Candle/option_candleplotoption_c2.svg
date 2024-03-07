@@ -6,17 +6,110 @@
    <g>
     <g transform="translate(18,13)">
      <path d="M0,0H147V106H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <g>
+      <g transform="translate(0,106)">
+       <path d="M0,0h147M0,-4V0M4,-2V0M8,-2V0M12,-2V0M16,-2V0M20,-4V0M25,-2V0M29,-2V0M33,-2V0M37,-2V0M41,-4V0M45,-2V0M49,-2V0M53,-2V0M57,-2V0M61,-4V0M65,-2V0M69,-2V0M74,-2V0M78,-2V0M82,-4V0M86,-2V0M90,-2V0M94,-2V0M98,-2V0M102,-4V0M106,-2V0M110,-2V0M114,-2V0M118,-2V0M123,-4V0M127,-2V0M131,-2V0M135,-2V0M139,-2V0M143,-4V0M147,-2V0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="middle">
+        <text dy=".8em" transform="translate(0,1)">
+         0
+        </text>
+        <text dy=".8em" transform="translate(20,1)">
+         50
+        </text>
+        <text dy=".8em" transform="translate(41,1)">
+         100
+        </text>
+        <text dy=".8em" transform="translate(61,1)">
+         150
+        </text>
+        <text dy=".8em" transform="translate(82,1)">
+         200
+        </text>
+        <text dy=".8em" transform="translate(102,1)">
+         250
+        </text>
+        <text dy=".8em" transform="translate(123,1)">
+         300
+        </text>
+        <text dy=".8em" transform="translate(143,1)">
+         350
+        </text>
+       </g>
+       <g font-family="Arial" font-size="5" space="preserve" transform="translate(147,8)">
+        <text fill="black" text-anchor="end" dy=".4em">
+         Deg
+        </text>
+       </g>
+      </g>
+      <g>
+       <path d="M0,0v106M6,106H0M6,88H0M6,71H0M6,53H0M6,35H0M6,18H0M6,0H0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-1,106)">
+         -1.5
+        </text>
+        <text dy=".4em" transform="translate(-1,88)">
+         -1
+        </text>
+        <text dy=".4em" transform="translate(-1,71)">
+         -0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,53)">
+         0
+        </text>
+        <text dy=".4em" transform="translate(-1,35)">
+         0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,18)">
+         1
+        </text>
+        <text dy=".4em" transform="translate(-1)">
+         1.5
+        </text>
+       </g>
+      </g>
+     </g>
     </g>
     <g transform="translate(18,1)" font-family="Arial" font-size="7" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(74)">
       candlex(0)
      </text>
     </g>
-    <g transform="translate(144,9)" font-family="Arial" font-size="8" space="preserve">
-     <path d="M0,0H37V21H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(0,11)">
+    <g transform="translate(144,9)" font-family="Arial" font-size="3" space="preserve" fill="black">
+     <path d="M0,0H37V32H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text text-anchor="middle" dy=".4em" transform="translate(19,3)">
       h1_copy
      </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,8)">
+      Entries
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,8)">
+      3600
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,13)">
+      Mean x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,13)">
+      175.0
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,19)">
+      Mean y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,19)">
+      0.001895
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,24)">
+      Std Dev x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,24)">
+      103.9
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,29)">
+      Std Dev y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,29)">
+      0.7269
+     </text>
+     <path d="M0,5h37" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -30,17 +123,110 @@
        <path d="M1,45v9h6v-9zM9,34v11h6v-11zM18,24v9h5v-9zM26,16v9h6v-9zM34,14v9h6v-9zM42,14v9h6v-9zM50,20v8h6v-8zM58,28v10h6v-10zM67,39v10h5v-10zM75,50v12h6v-12zM83,63v10h6v-10zM91,73v10h6v-10zM99,79v10h6v-10zM107,84v8h6v-8zM116,81v10h5v-10zM124,76v10h6v-10zM132,69v10h6v-10zM140,57v10h6v-10z" style="stroke: #00009a; stroke-width: 1; fill: none;"></path>
       </g>
      </svg>
+     <g>
+      <g transform="translate(0,106)">
+       <path d="M0,0h147M0,-4V0M4,-2V0M8,-2V0M12,-2V0M16,-2V0M20,-4V0M25,-2V0M29,-2V0M33,-2V0M37,-2V0M41,-4V0M45,-2V0M49,-2V0M53,-2V0M57,-2V0M61,-4V0M65,-2V0M69,-2V0M74,-2V0M78,-2V0M82,-4V0M86,-2V0M90,-2V0M94,-2V0M98,-2V0M102,-4V0M106,-2V0M110,-2V0M114,-2V0M118,-2V0M123,-4V0M127,-2V0M131,-2V0M135,-2V0M139,-2V0M143,-4V0M147,-2V0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="middle">
+        <text dy=".8em" transform="translate(0,1)">
+         0
+        </text>
+        <text dy=".8em" transform="translate(20,1)">
+         50
+        </text>
+        <text dy=".8em" transform="translate(41,1)">
+         100
+        </text>
+        <text dy=".8em" transform="translate(61,1)">
+         150
+        </text>
+        <text dy=".8em" transform="translate(82,1)">
+         200
+        </text>
+        <text dy=".8em" transform="translate(102,1)">
+         250
+        </text>
+        <text dy=".8em" transform="translate(123,1)">
+         300
+        </text>
+        <text dy=".8em" transform="translate(143,1)">
+         350
+        </text>
+       </g>
+       <g font-family="Arial" font-size="5" space="preserve" transform="translate(147,8)">
+        <text fill="black" text-anchor="end" dy=".4em">
+         Deg
+        </text>
+       </g>
+      </g>
+      <g>
+       <path d="M0,0v106M6,106H0M6,88H0M6,71H0M6,53H0M6,35H0M6,18H0M6,0H0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-1,106)">
+         -1.5
+        </text>
+        <text dy=".4em" transform="translate(-1,88)">
+         -1
+        </text>
+        <text dy=".4em" transform="translate(-1,71)">
+         -0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,53)">
+         0
+        </text>
+        <text dy=".4em" transform="translate(-1,35)">
+         0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,18)">
+         1
+        </text>
+        <text dy=".4em" transform="translate(-1)">
+         1.5
+        </text>
+       </g>
+      </g>
+     </g>
     </g>
     <g transform="translate(18,1)" font-family="Arial" font-size="7" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(74)">
       candlex(1)
      </text>
     </g>
-    <g transform="translate(144,9)" font-family="Arial" font-size="8" space="preserve">
-     <path d="M0,0H37V21H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(0,11)">
+    <g transform="translate(144,9)" font-family="Arial" font-size="3" space="preserve" fill="black">
+     <path d="M0,0H37V32H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text text-anchor="middle" dy=".4em" transform="translate(19,3)">
       h1_copy
      </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,8)">
+      Entries
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,8)">
+      3600
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,13)">
+      Mean x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,13)">
+      175.0
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,19)">
+      Mean y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,19)">
+      0.001895
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,24)">
+      Std Dev x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,24)">
+      103.9
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,29)">
+      Std Dev y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,29)">
+      0.7269
+     </text>
+     <path d="M0,5h37" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -55,17 +241,110 @@
        <path d="M1,50h6M9,40h6M18,29h5M26,21h6M34,19h6M42,19h6M50,24h6M58,33h6M67,44h5M75,57h6M83,67h6M91,78h6M99,84h6M107,88h6M116,86h5M124,82h6M132,74h6M140,62h6" style="stroke: #00009a; stroke-width: 1; fill: none;"></path>
       </g>
      </svg>
+     <g>
+      <g transform="translate(0,106)">
+       <path d="M0,0h147M0,-4V0M4,-2V0M8,-2V0M12,-2V0M16,-2V0M20,-4V0M25,-2V0M29,-2V0M33,-2V0M37,-2V0M41,-4V0M45,-2V0M49,-2V0M53,-2V0M57,-2V0M61,-4V0M65,-2V0M69,-2V0M74,-2V0M78,-2V0M82,-4V0M86,-2V0M90,-2V0M94,-2V0M98,-2V0M102,-4V0M106,-2V0M110,-2V0M114,-2V0M118,-2V0M123,-4V0M127,-2V0M131,-2V0M135,-2V0M139,-2V0M143,-4V0M147,-2V0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="middle">
+        <text dy=".8em" transform="translate(0,1)">
+         0
+        </text>
+        <text dy=".8em" transform="translate(20,1)">
+         50
+        </text>
+        <text dy=".8em" transform="translate(41,1)">
+         100
+        </text>
+        <text dy=".8em" transform="translate(61,1)">
+         150
+        </text>
+        <text dy=".8em" transform="translate(82,1)">
+         200
+        </text>
+        <text dy=".8em" transform="translate(102,1)">
+         250
+        </text>
+        <text dy=".8em" transform="translate(123,1)">
+         300
+        </text>
+        <text dy=".8em" transform="translate(143,1)">
+         350
+        </text>
+       </g>
+       <g font-family="Arial" font-size="5" space="preserve" transform="translate(147,8)">
+        <text fill="black" text-anchor="end" dy=".4em">
+         Deg
+        </text>
+       </g>
+      </g>
+      <g>
+       <path d="M0,0v106M6,106H0M6,88H0M6,71H0M6,53H0M6,35H0M6,18H0M6,0H0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-1,106)">
+         -1.5
+        </text>
+        <text dy=".4em" transform="translate(-1,88)">
+         -1
+        </text>
+        <text dy=".4em" transform="translate(-1,71)">
+         -0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,53)">
+         0
+        </text>
+        <text dy=".4em" transform="translate(-1,35)">
+         0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,18)">
+         1
+        </text>
+        <text dy=".4em" transform="translate(-1)">
+         1.5
+        </text>
+       </g>
+      </g>
+     </g>
     </g>
     <g transform="translate(18,1)" font-family="Arial" font-size="7" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(74)">
       candlex(11)
      </text>
     </g>
-    <g transform="translate(144,9)" font-family="Arial" font-size="8" space="preserve">
-     <path d="M0,0H37V21H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(0,11)">
+    <g transform="translate(144,9)" font-family="Arial" font-size="3" space="preserve" fill="black">
+     <path d="M0,0H37V32H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text text-anchor="middle" dy=".4em" transform="translate(19,3)">
       h1_copy
      </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,8)">
+      Entries
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,8)">
+      3600
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,13)">
+      Mean x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,13)">
+      175.0
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,19)">
+      Mean y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,19)">
+      0.001895
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,24)">
+      Std Dev x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,24)">
+      103.9
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,29)">
+      Std Dev y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,29)">
+      0.7269
+     </text>
+     <path d="M0,5h37" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -80,17 +359,110 @@
        <path d="M2,50h4M10,40h4M19,29h4M27,21h4M35,19h4M43,19h4M51,24h4M59,33h4M68,44h4M76,57h4M84,67h4M92,78h4M100,84h4M108,88h4M117,86h4M125,82h4M133,74h4M141,62h4" style="stroke: #00009a; stroke-width: 1; fill: none;"></path>
       </g>
      </svg>
+     <g>
+      <g transform="translate(0,106)">
+       <path d="M0,0h147M0,-4V0M4,-2V0M8,-2V0M12,-2V0M16,-2V0M20,-4V0M25,-2V0M29,-2V0M33,-2V0M37,-2V0M41,-4V0M45,-2V0M49,-2V0M53,-2V0M57,-2V0M61,-4V0M65,-2V0M69,-2V0M74,-2V0M78,-2V0M82,-4V0M86,-2V0M90,-2V0M94,-2V0M98,-2V0M102,-4V0M106,-2V0M110,-2V0M114,-2V0M118,-2V0M123,-4V0M127,-2V0M131,-2V0M135,-2V0M139,-2V0M143,-4V0M147,-2V0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="middle">
+        <text dy=".8em" transform="translate(0,1)">
+         0
+        </text>
+        <text dy=".8em" transform="translate(20,1)">
+         50
+        </text>
+        <text dy=".8em" transform="translate(41,1)">
+         100
+        </text>
+        <text dy=".8em" transform="translate(61,1)">
+         150
+        </text>
+        <text dy=".8em" transform="translate(82,1)">
+         200
+        </text>
+        <text dy=".8em" transform="translate(102,1)">
+         250
+        </text>
+        <text dy=".8em" transform="translate(123,1)">
+         300
+        </text>
+        <text dy=".8em" transform="translate(143,1)">
+         350
+        </text>
+       </g>
+       <g font-family="Arial" font-size="5" space="preserve" transform="translate(147,8)">
+        <text fill="black" text-anchor="end" dy=".4em">
+         Deg
+        </text>
+       </g>
+      </g>
+      <g>
+       <path d="M0,0v106M6,106H0M6,88H0M6,71H0M6,53H0M6,35H0M6,18H0M6,0H0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-1,106)">
+         -1.5
+        </text>
+        <text dy=".4em" transform="translate(-1,88)">
+         -1
+        </text>
+        <text dy=".4em" transform="translate(-1,71)">
+         -0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,53)">
+         0
+        </text>
+        <text dy=".4em" transform="translate(-1,35)">
+         0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,18)">
+         1
+        </text>
+        <text dy=".4em" transform="translate(-1)">
+         1.5
+        </text>
+       </g>
+      </g>
+     </g>
     </g>
     <g transform="translate(18,1)" font-family="Arial" font-size="7" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(74)">
       candlex(21)
      </text>
     </g>
-    <g transform="translate(144,9)" font-family="Arial" font-size="8" space="preserve">
-     <path d="M0,0H37V21H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(0,11)">
+    <g transform="translate(144,9)" font-family="Arial" font-size="3" space="preserve" fill="black">
+     <path d="M0,0H37V32H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text text-anchor="middle" dy=".4em" transform="translate(19,3)">
       h1_copy
      </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,8)">
+      Entries
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,8)">
+      3600
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,13)">
+      Mean x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,13)">
+      175.0
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,19)">
+      Mean y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,19)">
+      0.001895
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,24)">
+      Std Dev x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,24)">
+      103.9
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,29)">
+      Std Dev y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,29)">
+      0.7269
+     </text>
+     <path d="M0,5h37" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -105,17 +477,110 @@
        <path d="M0,50a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM8,40a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM17,29a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM25,21a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM33,19a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM41,19a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM49,24a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM57,33a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM66,44a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM74,57a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM82,67a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM90,78a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM98,84a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM106,88a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM115,86a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM123,82a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM131,74a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM139,62a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: #00009a; fill: none;"></path>
       </g>
      </svg>
+     <g>
+      <g transform="translate(0,106)">
+       <path d="M0,0h147M0,-4V0M4,-2V0M8,-2V0M12,-2V0M16,-2V0M20,-4V0M25,-2V0M29,-2V0M33,-2V0M37,-2V0M41,-4V0M45,-2V0M49,-2V0M53,-2V0M57,-2V0M61,-4V0M65,-2V0M69,-2V0M74,-2V0M78,-2V0M82,-4V0M86,-2V0M90,-2V0M94,-2V0M98,-2V0M102,-4V0M106,-2V0M110,-2V0M114,-2V0M118,-2V0M123,-4V0M127,-2V0M131,-2V0M135,-2V0M139,-2V0M143,-4V0M147,-2V0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="middle">
+        <text dy=".8em" transform="translate(0,1)">
+         0
+        </text>
+        <text dy=".8em" transform="translate(20,1)">
+         50
+        </text>
+        <text dy=".8em" transform="translate(41,1)">
+         100
+        </text>
+        <text dy=".8em" transform="translate(61,1)">
+         150
+        </text>
+        <text dy=".8em" transform="translate(82,1)">
+         200
+        </text>
+        <text dy=".8em" transform="translate(102,1)">
+         250
+        </text>
+        <text dy=".8em" transform="translate(123,1)">
+         300
+        </text>
+        <text dy=".8em" transform="translate(143,1)">
+         350
+        </text>
+       </g>
+       <g font-family="Arial" font-size="5" space="preserve" transform="translate(147,8)">
+        <text fill="black" text-anchor="end" dy=".4em">
+         Deg
+        </text>
+       </g>
+      </g>
+      <g>
+       <path d="M0,0v106M6,106H0M6,88H0M6,71H0M6,53H0M6,35H0M6,18H0M6,0H0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-1,106)">
+         -1.5
+        </text>
+        <text dy=".4em" transform="translate(-1,88)">
+         -1
+        </text>
+        <text dy=".4em" transform="translate(-1,71)">
+         -0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,53)">
+         0
+        </text>
+        <text dy=".4em" transform="translate(-1,35)">
+         0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,18)">
+         1
+        </text>
+        <text dy=".4em" transform="translate(-1)">
+         1.5
+        </text>
+       </g>
+      </g>
+     </g>
     </g>
     <g transform="translate(18,1)" font-family="Arial" font-size="7" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(74)">
       candlex(31)
      </text>
     </g>
-    <g transform="translate(144,9)" font-family="Arial" font-size="8" space="preserve">
-     <path d="M0,0H37V21H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(0,11)">
+    <g transform="translate(144,9)" font-family="Arial" font-size="3" space="preserve" fill="black">
+     <path d="M0,0H37V32H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text text-anchor="middle" dy=".4em" transform="translate(19,3)">
       h1_copy
      </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,8)">
+      Entries
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,8)">
+      3600
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,13)">
+      Mean x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,13)">
+      175.0
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,19)">
+      Mean y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,19)">
+      0.001895
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,24)">
+      Std Dev x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,24)">
+      103.9
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,29)">
+      Std Dev y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,29)">
+      0.7269
+     </text>
+     <path d="M0,5h37" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -129,17 +594,110 @@
        <path d="M0,50a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM8,40a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM17,29a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM25,21a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM33,19a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM41,19a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM49,24a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM57,33a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM66,44a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM74,57a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM82,67a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM90,78a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM98,84a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM106,88a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM115,86a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM123,82a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM131,74a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM139,62a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: #00009a; fill: none;"></path>
       </g>
      </svg>
+     <g>
+      <g transform="translate(0,106)">
+       <path d="M0,0h147M0,-4V0M4,-2V0M8,-2V0M12,-2V0M16,-2V0M20,-4V0M25,-2V0M29,-2V0M33,-2V0M37,-2V0M41,-4V0M45,-2V0M49,-2V0M53,-2V0M57,-2V0M61,-4V0M65,-2V0M69,-2V0M74,-2V0M78,-2V0M82,-4V0M86,-2V0M90,-2V0M94,-2V0M98,-2V0M102,-4V0M106,-2V0M110,-2V0M114,-2V0M118,-2V0M123,-4V0M127,-2V0M131,-2V0M135,-2V0M139,-2V0M143,-4V0M147,-2V0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="middle">
+        <text dy=".8em" transform="translate(0,1)">
+         0
+        </text>
+        <text dy=".8em" transform="translate(20,1)">
+         50
+        </text>
+        <text dy=".8em" transform="translate(41,1)">
+         100
+        </text>
+        <text dy=".8em" transform="translate(61,1)">
+         150
+        </text>
+        <text dy=".8em" transform="translate(82,1)">
+         200
+        </text>
+        <text dy=".8em" transform="translate(102,1)">
+         250
+        </text>
+        <text dy=".8em" transform="translate(123,1)">
+         300
+        </text>
+        <text dy=".8em" transform="translate(143,1)">
+         350
+        </text>
+       </g>
+       <g font-family="Arial" font-size="5" space="preserve" transform="translate(147,8)">
+        <text fill="black" text-anchor="end" dy=".4em">
+         Deg
+        </text>
+       </g>
+      </g>
+      <g>
+       <path d="M0,0v106M6,106H0M6,88H0M6,71H0M6,53H0M6,35H0M6,18H0M6,0H0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-1,106)">
+         -1.5
+        </text>
+        <text dy=".4em" transform="translate(-1,88)">
+         -1
+        </text>
+        <text dy=".4em" transform="translate(-1,71)">
+         -0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,53)">
+         0
+        </text>
+        <text dy=".4em" transform="translate(-1,35)">
+         0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,18)">
+         1
+        </text>
+        <text dy=".4em" transform="translate(-1)">
+         1.5
+        </text>
+       </g>
+      </g>
+     </g>
     </g>
     <g transform="translate(18,1)" font-family="Arial" font-size="7" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(74)">
       candlex(30)
      </text>
     </g>
-    <g transform="translate(144,9)" font-family="Arial" font-size="8" space="preserve">
-     <path d="M0,0H37V21H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(0,11)">
+    <g transform="translate(144,9)" font-family="Arial" font-size="3" space="preserve" fill="black">
+     <path d="M0,0H37V32H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text text-anchor="middle" dy=".4em" transform="translate(19,3)">
       h1_copy
      </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,8)">
+      Entries
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,8)">
+      3600
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,13)">
+      Mean x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,13)">
+      175.0
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,19)">
+      Mean y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,19)">
+      0.001895
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,24)">
+      Std Dev x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,24)">
+      103.9
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,29)">
+      Std Dev y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,29)">
+      0.7269
+     </text>
+     <path d="M0,5h37" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -155,17 +713,110 @@
        <path d="M1,50h6M9,39h6M18,28h5M26,21h6M34,19h6M42,19h6M50,24h6M58,33h6M67,43h5M75,56h6M83,68h6M91,78h6M99,84h6M107,88h6M116,86h5M124,81h6M132,73h6M140,62h6" style="stroke: #00009a; stroke-width: 1; stroke-dasharray: 3,3; fill: none;"></path>
       </g>
      </svg>
+     <g>
+      <g transform="translate(0,106)">
+       <path d="M0,0h147M0,-4V0M4,-2V0M8,-2V0M12,-2V0M16,-2V0M20,-4V0M25,-2V0M29,-2V0M33,-2V0M37,-2V0M41,-4V0M45,-2V0M49,-2V0M53,-2V0M57,-2V0M61,-4V0M65,-2V0M69,-2V0M74,-2V0M78,-2V0M82,-4V0M86,-2V0M90,-2V0M94,-2V0M98,-2V0M102,-4V0M106,-2V0M110,-2V0M114,-2V0M118,-2V0M123,-4V0M127,-2V0M131,-2V0M135,-2V0M139,-2V0M143,-4V0M147,-2V0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="middle">
+        <text dy=".8em" transform="translate(0,1)">
+         0
+        </text>
+        <text dy=".8em" transform="translate(20,1)">
+         50
+        </text>
+        <text dy=".8em" transform="translate(41,1)">
+         100
+        </text>
+        <text dy=".8em" transform="translate(61,1)">
+         150
+        </text>
+        <text dy=".8em" transform="translate(82,1)">
+         200
+        </text>
+        <text dy=".8em" transform="translate(102,1)">
+         250
+        </text>
+        <text dy=".8em" transform="translate(123,1)">
+         300
+        </text>
+        <text dy=".8em" transform="translate(143,1)">
+         350
+        </text>
+       </g>
+       <g font-family="Arial" font-size="5" space="preserve" transform="translate(147,8)">
+        <text fill="black" text-anchor="end" dy=".4em">
+         Deg
+        </text>
+       </g>
+      </g>
+      <g>
+       <path d="M0,0v106M6,106H0M6,88H0M6,71H0M6,53H0M6,35H0M6,18H0M6,0H0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-1,106)">
+         -1.5
+        </text>
+        <text dy=".4em" transform="translate(-1,88)">
+         -1
+        </text>
+        <text dy=".4em" transform="translate(-1,71)">
+         -0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,53)">
+         0
+        </text>
+        <text dy=".4em" transform="translate(-1,35)">
+         0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,18)">
+         1
+        </text>
+        <text dy=".4em" transform="translate(-1)">
+         1.5
+        </text>
+       </g>
+      </g>
+     </g>
     </g>
     <g transform="translate(18,1)" font-family="Arial" font-size="7" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(74)">
       candlex(111)
      </text>
     </g>
-    <g transform="translate(144,9)" font-family="Arial" font-size="8" space="preserve">
-     <path d="M0,0H37V21H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(0,11)">
+    <g transform="translate(144,9)" font-family="Arial" font-size="3" space="preserve" fill="black">
+     <path d="M0,0H37V32H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text text-anchor="middle" dy=".4em" transform="translate(19,3)">
       h1_copy
      </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,8)">
+      Entries
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,8)">
+      3600
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,13)">
+      Mean x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,13)">
+      175.0
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,19)">
+      Mean y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,19)">
+      0.001895
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,24)">
+      Std Dev x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,24)">
+      103.9
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,29)">
+      Std Dev y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,29)">
+      0.7269
+     </text>
+     <path d="M0,5h37" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -181,17 +832,110 @@
        <path d="M0,50a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM8,39a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM17,28a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM25,21a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM33,19a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM41,19a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM49,24a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM57,33a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM66,43a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM74,56a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM82,68a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM90,78a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM98,84a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM106,88a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM115,86a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM123,81a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM131,73a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM139,62a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: #00009a; fill: none;"></path>
       </g>
      </svg>
+     <g>
+      <g transform="translate(0,106)">
+       <path d="M0,0h147M0,-4V0M4,-2V0M8,-2V0M12,-2V0M16,-2V0M20,-4V0M25,-2V0M29,-2V0M33,-2V0M37,-2V0M41,-4V0M45,-2V0M49,-2V0M53,-2V0M57,-2V0M61,-4V0M65,-2V0M69,-2V0M74,-2V0M78,-2V0M82,-4V0M86,-2V0M90,-2V0M94,-2V0M98,-2V0M102,-4V0M106,-2V0M110,-2V0M114,-2V0M118,-2V0M123,-4V0M127,-2V0M131,-2V0M135,-2V0M139,-2V0M143,-4V0M147,-2V0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="middle">
+        <text dy=".8em" transform="translate(0,1)">
+         0
+        </text>
+        <text dy=".8em" transform="translate(20,1)">
+         50
+        </text>
+        <text dy=".8em" transform="translate(41,1)">
+         100
+        </text>
+        <text dy=".8em" transform="translate(61,1)">
+         150
+        </text>
+        <text dy=".8em" transform="translate(82,1)">
+         200
+        </text>
+        <text dy=".8em" transform="translate(102,1)">
+         250
+        </text>
+        <text dy=".8em" transform="translate(123,1)">
+         300
+        </text>
+        <text dy=".8em" transform="translate(143,1)">
+         350
+        </text>
+       </g>
+       <g font-family="Arial" font-size="5" space="preserve" transform="translate(147,8)">
+        <text fill="black" text-anchor="end" dy=".4em">
+         Deg
+        </text>
+       </g>
+      </g>
+      <g>
+       <path d="M0,0v106M6,106H0M6,88H0M6,71H0M6,53H0M6,35H0M6,18H0M6,0H0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-1,106)">
+         -1.5
+        </text>
+        <text dy=".4em" transform="translate(-1,88)">
+         -1
+        </text>
+        <text dy=".4em" transform="translate(-1,71)">
+         -0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,53)">
+         0
+        </text>
+        <text dy=".4em" transform="translate(-1,35)">
+         0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,18)">
+         1
+        </text>
+        <text dy=".4em" transform="translate(-1)">
+         1.5
+        </text>
+       </g>
+      </g>
+     </g>
     </g>
     <g transform="translate(18,1)" font-family="Arial" font-size="7" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(74)">
       candlex(311)
      </text>
     </g>
-    <g transform="translate(144,9)" font-family="Arial" font-size="8" space="preserve">
-     <path d="M0,0H37V21H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(0,11)">
+    <g transform="translate(144,9)" font-family="Arial" font-size="3" space="preserve" fill="black">
+     <path d="M0,0H37V32H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text text-anchor="middle" dy=".4em" transform="translate(19,3)">
       h1_copy
      </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,8)">
+      Entries
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,8)">
+      3600
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,13)">
+      Mean x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,13)">
+      175.0
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,19)">
+      Mean y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,19)">
+      0.001895
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,24)">
+      Std Dev x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,24)">
+      103.9
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,29)">
+      Std Dev y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,29)">
+      0.7269
+     </text>
+     <path d="M0,5h37" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -206,17 +950,110 @@
        <path d="M0,50a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM8,39a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM17,28a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM25,21a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM33,19a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM41,19a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM49,24a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM57,33a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM66,43a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM74,56a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM82,68a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM90,78a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM98,84a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM106,88a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM115,86a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM123,81a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM131,73a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM139,62a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: #00009a; fill: none;"></path>
       </g>
      </svg>
+     <g>
+      <g transform="translate(0,106)">
+       <path d="M0,0h147M0,-4V0M4,-2V0M8,-2V0M12,-2V0M16,-2V0M20,-4V0M25,-2V0M29,-2V0M33,-2V0M37,-2V0M41,-4V0M45,-2V0M49,-2V0M53,-2V0M57,-2V0M61,-4V0M65,-2V0M69,-2V0M74,-2V0M78,-2V0M82,-4V0M86,-2V0M90,-2V0M94,-2V0M98,-2V0M102,-4V0M106,-2V0M110,-2V0M114,-2V0M118,-2V0M123,-4V0M127,-2V0M131,-2V0M135,-2V0M139,-2V0M143,-4V0M147,-2V0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="middle">
+        <text dy=".8em" transform="translate(0,1)">
+         0
+        </text>
+        <text dy=".8em" transform="translate(20,1)">
+         50
+        </text>
+        <text dy=".8em" transform="translate(41,1)">
+         100
+        </text>
+        <text dy=".8em" transform="translate(61,1)">
+         150
+        </text>
+        <text dy=".8em" transform="translate(82,1)">
+         200
+        </text>
+        <text dy=".8em" transform="translate(102,1)">
+         250
+        </text>
+        <text dy=".8em" transform="translate(123,1)">
+         300
+        </text>
+        <text dy=".8em" transform="translate(143,1)">
+         350
+        </text>
+       </g>
+       <g font-family="Arial" font-size="5" space="preserve" transform="translate(147,8)">
+        <text fill="black" text-anchor="end" dy=".4em">
+         Deg
+        </text>
+       </g>
+      </g>
+      <g>
+       <path d="M0,0v106M6,106H0M6,88H0M6,71H0M6,53H0M6,35H0M6,18H0M6,0H0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-1,106)">
+         -1.5
+        </text>
+        <text dy=".4em" transform="translate(-1,88)">
+         -1
+        </text>
+        <text dy=".4em" transform="translate(-1,71)">
+         -0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,53)">
+         0
+        </text>
+        <text dy=".4em" transform="translate(-1,35)">
+         0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,18)">
+         1
+        </text>
+        <text dy=".4em" transform="translate(-1)">
+         1.5
+        </text>
+       </g>
+      </g>
+     </g>
     </g>
     <g transform="translate(18,1)" font-family="Arial" font-size="7" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(74)">
       candlex(301)
      </text>
     </g>
-    <g transform="translate(144,9)" font-family="Arial" font-size="8" space="preserve">
-     <path d="M0,0H37V21H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(0,11)">
+    <g transform="translate(144,9)" font-family="Arial" font-size="3" space="preserve" fill="black">
+     <path d="M0,0H37V32H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text text-anchor="middle" dy=".4em" transform="translate(19,3)">
       h1_copy
      </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,8)">
+      Entries
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,8)">
+      3600
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,13)">
+      Mean x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,13)">
+      175.0
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,19)">
+      Mean y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,19)">
+      0.001895
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,24)">
+      Std Dev x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,24)">
+      103.9
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,29)">
+      Std Dev y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,29)">
+      0.7269
+     </text>
+     <path d="M0,5h37" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -232,17 +1069,110 @@
        <path d="M1,50h6M4,45v-11M4,54v21M9,39h6M12,34v-10M12,45v16M18,28h5M21,24v-17M21,33v13M26,21h6M29,16v-12M29,25v10M34,19h6M37,14v-13M37,23v14M42,19h6M45,14v-14M45,23v13M50,24h6M53,20v-11M53,28v19M58,33h6M61,28v-12M61,38v18M67,43h5M70,39v-21M70,49v12M75,56h6M78,50v-15M78,62v15M83,68h6M86,63v-14M86,73v13M91,78h6M94,73v-13M94,83v13M99,84h6M102,79v-10M102,89v11M107,88h6M110,84v-13M110,92v11M116,86h5M119,81v-17M119,91v14M124,81h6M127,76v-13M127,86v15M132,73h6M135,69v-18M135,79v12M140,62h6M143,57v-18M143,67v17" style="stroke: #00009a; stroke-width: 1; stroke-dasharray: 3,3; fill: none;"></path>
       </g>
      </svg>
+     <g>
+      <g transform="translate(0,106)">
+       <path d="M0,0h147M0,-4V0M4,-2V0M8,-2V0M12,-2V0M16,-2V0M20,-4V0M25,-2V0M29,-2V0M33,-2V0M37,-2V0M41,-4V0M45,-2V0M49,-2V0M53,-2V0M57,-2V0M61,-4V0M65,-2V0M69,-2V0M74,-2V0M78,-2V0M82,-4V0M86,-2V0M90,-2V0M94,-2V0M98,-2V0M102,-4V0M106,-2V0M110,-2V0M114,-2V0M118,-2V0M123,-4V0M127,-2V0M131,-2V0M135,-2V0M139,-2V0M143,-4V0M147,-2V0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="middle">
+        <text dy=".8em" transform="translate(0,1)">
+         0
+        </text>
+        <text dy=".8em" transform="translate(20,1)">
+         50
+        </text>
+        <text dy=".8em" transform="translate(41,1)">
+         100
+        </text>
+        <text dy=".8em" transform="translate(61,1)">
+         150
+        </text>
+        <text dy=".8em" transform="translate(82,1)">
+         200
+        </text>
+        <text dy=".8em" transform="translate(102,1)">
+         250
+        </text>
+        <text dy=".8em" transform="translate(123,1)">
+         300
+        </text>
+        <text dy=".8em" transform="translate(143,1)">
+         350
+        </text>
+       </g>
+       <g font-family="Arial" font-size="5" space="preserve" transform="translate(147,8)">
+        <text fill="black" text-anchor="end" dy=".4em">
+         Deg
+        </text>
+       </g>
+      </g>
+      <g>
+       <path d="M0,0v106M6,106H0M6,88H0M6,71H0M6,53H0M6,35H0M6,18H0M6,0H0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-1,106)">
+         -1.5
+        </text>
+        <text dy=".4em" transform="translate(-1,88)">
+         -1
+        </text>
+        <text dy=".4em" transform="translate(-1,71)">
+         -0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,53)">
+         0
+        </text>
+        <text dy=".4em" transform="translate(-1,35)">
+         0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,18)">
+         1
+        </text>
+        <text dy=".4em" transform="translate(-1)">
+         1.5
+        </text>
+       </g>
+      </g>
+     </g>
     </g>
     <g transform="translate(18,1)" font-family="Arial" font-size="7" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(74)">
       candlex(1111)
      </text>
     </g>
-    <g transform="translate(144,9)" font-family="Arial" font-size="8" space="preserve">
-     <path d="M0,0H37V21H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(0,11)">
+    <g transform="translate(144,9)" font-family="Arial" font-size="3" space="preserve" fill="black">
+     <path d="M0,0H37V32H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text text-anchor="middle" dy=".4em" transform="translate(19,3)">
       h1_copy
      </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,8)">
+      Entries
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,8)">
+      3600
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,13)">
+      Mean x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,13)">
+      175.0
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,19)">
+      Mean y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,19)">
+      0.001895
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,24)">
+      Std Dev x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,24)">
+      103.9
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,29)">
+      Std Dev y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,29)">
+      0.7269
+     </text>
+     <path d="M0,5h37" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -258,17 +1188,110 @@
        <path d="M0,50a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM8,39a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM17,28a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM25,21a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM33,19a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM41,19a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM49,24a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM57,33a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM66,43a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM74,56a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM82,68a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM90,78a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM98,84a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM106,88a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM115,86a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM123,81a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM131,73a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM139,62a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: #00009a; fill: none;"></path>
       </g>
      </svg>
+     <g>
+      <g transform="translate(0,106)">
+       <path d="M0,0h147M0,-4V0M4,-2V0M8,-2V0M12,-2V0M16,-2V0M20,-4V0M25,-2V0M29,-2V0M33,-2V0M37,-2V0M41,-4V0M45,-2V0M49,-2V0M53,-2V0M57,-2V0M61,-4V0M65,-2V0M69,-2V0M74,-2V0M78,-2V0M82,-4V0M86,-2V0M90,-2V0M94,-2V0M98,-2V0M102,-4V0M106,-2V0M110,-2V0M114,-2V0M118,-2V0M123,-4V0M127,-2V0M131,-2V0M135,-2V0M139,-2V0M143,-4V0M147,-2V0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="middle">
+        <text dy=".8em" transform="translate(0,1)">
+         0
+        </text>
+        <text dy=".8em" transform="translate(20,1)">
+         50
+        </text>
+        <text dy=".8em" transform="translate(41,1)">
+         100
+        </text>
+        <text dy=".8em" transform="translate(61,1)">
+         150
+        </text>
+        <text dy=".8em" transform="translate(82,1)">
+         200
+        </text>
+        <text dy=".8em" transform="translate(102,1)">
+         250
+        </text>
+        <text dy=".8em" transform="translate(123,1)">
+         300
+        </text>
+        <text dy=".8em" transform="translate(143,1)">
+         350
+        </text>
+       </g>
+       <g font-family="Arial" font-size="5" space="preserve" transform="translate(147,8)">
+        <text fill="black" text-anchor="end" dy=".4em">
+         Deg
+        </text>
+       </g>
+      </g>
+      <g>
+       <path d="M0,0v106M6,106H0M6,88H0M6,71H0M6,53H0M6,35H0M6,18H0M6,0H0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-1,106)">
+         -1.5
+        </text>
+        <text dy=".4em" transform="translate(-1,88)">
+         -1
+        </text>
+        <text dy=".4em" transform="translate(-1,71)">
+         -0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,53)">
+         0
+        </text>
+        <text dy=".4em" transform="translate(-1,35)">
+         0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,18)">
+         1
+        </text>
+        <text dy=".4em" transform="translate(-1)">
+         1.5
+        </text>
+       </g>
+      </g>
+     </g>
     </g>
     <g transform="translate(18,1)" font-family="Arial" font-size="7" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(74)">
       candlex(2321)
      </text>
     </g>
-    <g transform="translate(144,9)" font-family="Arial" font-size="8" space="preserve">
-     <path d="M0,0H37V21H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(0,11)">
+    <g transform="translate(144,9)" font-family="Arial" font-size="3" space="preserve" fill="black">
+     <path d="M0,0H37V32H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text text-anchor="middle" dy=".4em" transform="translate(19,3)">
       h1_copy
      </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,8)">
+      Entries
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,8)">
+      3600
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,13)">
+      Mean x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,13)">
+      175.0
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,19)">
+      Mean y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,19)">
+      0.001895
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,24)">
+      Std Dev x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,24)">
+      103.9
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,29)">
+      Std Dev y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,29)">
+      0.7269
+     </text>
+     <path d="M0,5h37" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -284,17 +1307,110 @@
        <path d="M1,50h6M9,39h6M18,28h5M26,21h6M34,19h6M42,19h6M50,24h6M58,33h6M67,43h5M75,56h6M83,68h6M91,78h6M99,84h6M107,88h6M116,86h5M124,81h6M132,73h6M140,62h6" style="stroke: #00009a; stroke-width: 1; stroke-dasharray: 3,3; fill: none;"></path>
       </g>
      </svg>
+     <g>
+      <g transform="translate(0,106)">
+       <path d="M0,0h147M0,-4V0M4,-2V0M8,-2V0M12,-2V0M16,-2V0M20,-4V0M25,-2V0M29,-2V0M33,-2V0M37,-2V0M41,-4V0M45,-2V0M49,-2V0M53,-2V0M57,-2V0M61,-4V0M65,-2V0M69,-2V0M74,-2V0M78,-2V0M82,-4V0M86,-2V0M90,-2V0M94,-2V0M98,-2V0M102,-4V0M106,-2V0M110,-2V0M114,-2V0M118,-2V0M123,-4V0M127,-2V0M131,-2V0M135,-2V0M139,-2V0M143,-4V0M147,-2V0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="middle">
+        <text dy=".8em" transform="translate(0,1)">
+         0
+        </text>
+        <text dy=".8em" transform="translate(20,1)">
+         50
+        </text>
+        <text dy=".8em" transform="translate(41,1)">
+         100
+        </text>
+        <text dy=".8em" transform="translate(61,1)">
+         150
+        </text>
+        <text dy=".8em" transform="translate(82,1)">
+         200
+        </text>
+        <text dy=".8em" transform="translate(102,1)">
+         250
+        </text>
+        <text dy=".8em" transform="translate(123,1)">
+         300
+        </text>
+        <text dy=".8em" transform="translate(143,1)">
+         350
+        </text>
+       </g>
+       <g font-family="Arial" font-size="5" space="preserve" transform="translate(147,8)">
+        <text fill="black" text-anchor="end" dy=".4em">
+         Deg
+        </text>
+       </g>
+      </g>
+      <g>
+       <path d="M0,0v106M6,106H0M6,88H0M6,71H0M6,53H0M6,35H0M6,18H0M6,0H0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-1,106)">
+         -1.5
+        </text>
+        <text dy=".4em" transform="translate(-1,88)">
+         -1
+        </text>
+        <text dy=".4em" transform="translate(-1,71)">
+         -0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,53)">
+         0
+        </text>
+        <text dy=".4em" transform="translate(-1,35)">
+         0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,18)">
+         1
+        </text>
+        <text dy=".4em" transform="translate(-1)">
+         1.5
+        </text>
+       </g>
+      </g>
+     </g>
     </g>
     <g transform="translate(18,1)" font-family="Arial" font-size="7" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(74)">
       candlex(12111)
      </text>
     </g>
-    <g transform="translate(144,9)" font-family="Arial" font-size="8" space="preserve">
-     <path d="M0,0H37V21H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(0,11)">
+    <g transform="translate(144,9)" font-family="Arial" font-size="3" space="preserve" fill="black">
+     <path d="M0,0H37V32H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text text-anchor="middle" dy=".4em" transform="translate(19,3)">
       h1_copy
      </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,8)">
+      Entries
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,8)">
+      3600
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,13)">
+      Mean x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,13)">
+      175.0
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,19)">
+      Mean y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,19)">
+      0.001895
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,24)">
+      Std Dev x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,24)">
+      103.9
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,29)">
+      Std Dev y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,29)">
+      0.7269
+     </text>
+     <path d="M0,5h37" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -311,17 +1427,110 @@
        <path d="M0,71l8,8m0,-8l-8,8M0,66l8,8m0,-8l-8,8M17,3l8,8m0,-8l-8,8M49,43l8,8m0,-8l-8,8M49,40l8,8m0,-8l-8,8M49,40l8,8m0,-8l-8,8M49,39l8,8m0,-8l-8,8M57,52l8,8m0,-8l-8,8M66,15l8,8m0,-8l-8,8M106,67l8,8m0,-8l-8,8M115,62l8,8m0,-8l-8,8M115,60l8,8m0,-8l-8,8M131,48l8,8m0,-8l-8,8M131,47l8,8m0,-8l-8,8M139,80l8,8m0,-8l-8,8M139,35l8,8m0,-8l-8,8" style="stroke: #00009a; fill: none;"></path>
       </g>
      </svg>
+     <g>
+      <g transform="translate(0,106)">
+       <path d="M0,0h147M0,-4V0M4,-2V0M8,-2V0M12,-2V0M16,-2V0M20,-4V0M25,-2V0M29,-2V0M33,-2V0M37,-2V0M41,-4V0M45,-2V0M49,-2V0M53,-2V0M57,-2V0M61,-4V0M65,-2V0M69,-2V0M74,-2V0M78,-2V0M82,-4V0M86,-2V0M90,-2V0M94,-2V0M98,-2V0M102,-4V0M106,-2V0M110,-2V0M114,-2V0M118,-2V0M123,-4V0M127,-2V0M131,-2V0M135,-2V0M139,-2V0M143,-4V0M147,-2V0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="middle">
+        <text dy=".8em" transform="translate(0,1)">
+         0
+        </text>
+        <text dy=".8em" transform="translate(20,1)">
+         50
+        </text>
+        <text dy=".8em" transform="translate(41,1)">
+         100
+        </text>
+        <text dy=".8em" transform="translate(61,1)">
+         150
+        </text>
+        <text dy=".8em" transform="translate(82,1)">
+         200
+        </text>
+        <text dy=".8em" transform="translate(102,1)">
+         250
+        </text>
+        <text dy=".8em" transform="translate(123,1)">
+         300
+        </text>
+        <text dy=".8em" transform="translate(143,1)">
+         350
+        </text>
+       </g>
+       <g font-family="Arial" font-size="5" space="preserve" transform="translate(147,8)">
+        <text fill="black" text-anchor="end" dy=".4em">
+         Deg
+        </text>
+       </g>
+      </g>
+      <g>
+       <path d="M0,0v106M6,106H0M6,88H0M6,71H0M6,53H0M6,35H0M6,18H0M6,0H0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-1,106)">
+         -1.5
+        </text>
+        <text dy=".4em" transform="translate(-1,88)">
+         -1
+        </text>
+        <text dy=".4em" transform="translate(-1,71)">
+         -0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,53)">
+         0
+        </text>
+        <text dy=".4em" transform="translate(-1,35)">
+         0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,18)">
+         1
+        </text>
+        <text dy=".4em" transform="translate(-1)">
+         1.5
+        </text>
+       </g>
+      </g>
+     </g>
     </g>
     <g transform="translate(18,1)" font-family="Arial" font-size="7" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(74)">
       candlex(112111)
      </text>
     </g>
-    <g transform="translate(144,9)" font-family="Arial" font-size="8" space="preserve">
-     <path d="M0,0H37V21H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(0,11)">
+    <g transform="translate(144,9)" font-family="Arial" font-size="3" space="preserve" fill="black">
+     <path d="M0,0H37V32H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text text-anchor="middle" dy=".4em" transform="translate(19,3)">
       h1_copy
      </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,8)">
+      Entries
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,8)">
+      3600
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,13)">
+      Mean x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,13)">
+      175.0
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,19)">
+      Mean y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,19)">
+      0.001895
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,24)">
+      Std Dev x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,24)">
+      103.9
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,29)">
+      Std Dev y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,29)">
+      0.7269
+     </text>
+     <path d="M0,5h37" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -338,17 +1547,110 @@
        <path d="M0,71l8,8m0,-8l-8,8M0,66l8,8m0,-8l-8,8M0,63l8,8m0,-8l-8,8M0,62l8,8m0,-8l-8,8M0,60l8,8m0,-8l-8,8M0,60l8,8m0,-8l-8,8M0,60l8,8m0,-8l-8,8M0,60l8,8m0,-8l-8,8M0,60l8,8m0,-8l-8,8M0,59l8,8m0,-8l-8,8M0,59l8,8m0,-8l-8,8M0,58l8,8m0,-8l-8,8M0,58l8,8m0,-8l-8,8M0,58l8,8m0,-8l-8,8M0,57l8,8m0,-8l-8,8M0,57l8,8m0,-8l-8,8M0,57l8,8m0,-8l-8,8M0,57l8,8m0,-8l-8,8M0,57l8,8m0,-8l-8,8M0,57l8,8m0,-8l-8,8M0,56l8,8m0,-8l-8,8M0,56l8,8m0,-8l-8,8M0,56l8,8m0,-8l-8,8M0,56l8,8m0,-8l-8,8M0,56l8,8m0,-8l-8,8M0,56l8,8m0,-8l-8,8M0,55l8,8m0,-8l-8,8M0,55l8,8m0,-8l-8,8M0,55l8,8m0,-8l-8,8M0,54l8,8m0,-8l-8,8M0,54l8,8m0,-8l-8,8M0,54l8,8m0,-8l-8,8M0,54l8,8m0,-8l-8,8M0,53l8,8m0,-8l-8,8M0,53l8,8m0,-8l-8,8M0,52l8,8m0,-8l-8,8M0,52l8,8m0,-8l-8,8M0,52l8,8m0,-8l-8,8M0,52l8,8m0,-8l-8,8M0,52l8,8m0,-8l-8,8M0,51l8,8m0,-8l-8,8M0,51l8,8m0,-8l-8,8M0,51l8,8m0,-8l-8,8M0,51l8,8m0,-8l-8,8M0,51l8,8m0,-8l-8,8M0,51l8,8m0,-8l-8,8M0,51l8,8m0,-8l-8,8M0,50l8,8m0,-8l-8,8M0,50l8,8m0,-8l-8,8M0,50l8,8m0,-8l-8,8M0,50l8,8m0,-8l-8,8M0,50l8,8m0,-8l-8,8M0,50l8,8m0,-8l-8,8M0,50l8,8m0,-8l-8,8M0,50l8,8m0,-8l-8,8M0,50l8,8m0,-8l-8,8M0,50l8,8m0,-8l-8,8M0,49l8,8m0,-8l-8,8M0,49l8,8m0,-8l-8,8M0,49l8,8m0,-8l-8,8M0,49l8,8m0,-8l-8,8M0,49l8,8m0,-8l-8,8M0,49l8,8m0,-8l-8,8M0,49l8,8m0,-8l-8,8M0,49l8,8m0,-8l-8,8M0,49l8,8m0,-8l-8,8M0,49l8,8m0,-8l-8,8M0,49l8,8m0,-8l-8,8M0,48l8,8m0,-8l-8,8M0,48l8,8m0,-8l-8,8M0,49l8,8m0,-8l-8,8M0,48l8,8m0,-8l-8,8M0,48l8,8m0,-8l-8,8M0,48l8,8m0,-8l-8,8M0,48l8,8m0,-8l-8,8M0,48l8,8m0,-8l-8,8M0,48l8,8m0,-8l-8,8M0,47l8,8m0,-8l-8,8M0,47l8,8m0,-8l-8,8M0,47l8,8m0,-8l-8,8M0,47l8,8m0,-8l-8,8M0,47l8,8m0,-8l-8,8M0,47l8,8m0,-8l-8,8M0,47l8,8m0,-8l-8,8M0,47l8,8m0,-8l-8,8M0,47l8,8m0,-8l-8,8M0,47l8,8m0,-8l-8,8M0,47l8,8m0,-8l-8,8M0,47l8,8m0,-8l-8,8M0,47l8,8m0,-8l-8,8M0,47l8,8m0,-8l-8,8M0,46l8,8m0,-8l-8,8M0,46l8,8m0,-8l-8,8M0,46l8,8m0,-8l-8,8M0,46l8,8m0,-8l-8,8M0,46l8,8m0,-8l-8,8M0,46l8,8m0,-8l-8,8M0,46l8,8m0,-8l-8,8M0,46l8,8m0,-8l-8,8M0,46l8,8m0,-8l-8,8M0,46l8,8m0,-8l-8,8M0,46l8,8m0,-8l-8,8M0,46l8,8m0,-8l-8,8M0,45l8,8m0,-8l-8,8M0,45l8,8m0,-8l-8,8M0,45l8,8m0,-8l-8,8M0,45l8,8m0,-8l-8,8M0,45l8,8m0,-8l-8,8M0,45l8,8m0,-8l-8,8M0,45l8,8m0,-8l-8,8M0,45l8,8m0,-8l-8,8M0,45l8,8m0,-8l-8,8M0,45l8,8m0,-8l-8,8M0,45l8,8m0,-8l-8,8M0,44l8,8m0,-8l-8,8M0,44l8,8m0,-8l-8,8M0,44l8,8m0,-8l-8,8M0,44l8,8m0,-8l-8,8M0,44l8,8m0,-8l-8,8M0,44l8,8m0,-8l-8,8M0,44l8,8m0,-8l-8,8M0,44l8,8m0,-8l-8,8M0,43l8,8m0,-8l-8,8M0,44l8,8m0,-8l-8,8M0,44l8,8m0,-8l-8,8M0,43l8,8m0,-8l-8,8M0,43l8,8m0,-8l-8,8M0,43l8,8m0,-8l-8,8M0,43l8,8m0,-8l-8,8M0,43l8,8m0,-8l-8,8M0,43l8,8m0,-8l-8,8M0,43l8,8m0,-8l-8,8M0,43l8,8m0,-8l-8,8M0,43l8,8m0,-8l-8,8M0,43l8,8m0,-8l-8,8M0,42l8,8m0,-8l-8,8M0,42l8,8m0,-8l-8,8M0,42l8,8m0,-8l-8,8M0,42l8,8m0,-8l-8,8M0,42l8,8m0,-8l-8,8M0,42l8,8m0,-8l-8,8M0,42l8,8m0,-8l-8,8M0,42l8,8m0,-8l-8,8M0,42l8,8m0,-8l-8,8M0,41l8,8m0,-8l-8,8M0,42l8,8m0,-8l-8,8M0,41l8,8m0,-8l-8,8M0,41l8,8m0,-8l-8,8M0,41l8,8m0,-8l-8,8M0,41l8,8m0,-8l-8,8M0,41l8,8m0,-8l-8,8M0,41l8,8m0,-8l-8,8M0,41l8,8m0,-8l-8,8M0,40l8,8m0,-8l-8,8M0,40l8,8m0,-8l-8,8M0,40l8,8m0,-8l-8,8M0,40l8,8m0,-8l-8,8M0,40l8,8m0,-8l-8,8M0,40l8,8m0,-8l-8,8M0,40l8,8m0,-8l-8,8M0,40l8,8m0,-8l-8,8M0,40l8,8m0,-8l-8,8M0,40l8,8m0,-8l-8,8M0,40l8,8m0,-8l-8,8M0,40l8,8m0,-8l-8,8M0,40l8,8m0,-8l-8,8M0,40l8,8m0,-8l-8,8M0,39l8,8m0,-8l-8,8M0,39l8,8m0,-8l-8,8M0,39l8,8m0,-8l-8,8M0,39l8,8m0,-8l-8,8M0,38l8,8m0,-8l-8,8M0,39l8,8m0,-8l-8,8M0,38l8,8m0,-8l-8,8M0,38l8,8m0,-8l-8,8M0,38l8,8m0,-8l-8,8M0,38l8,8m0,-8l-8,8M0,38l8,8m0,-8l-8,8M0,38l8,8m0,-8l-8,8M0,37l8,8m0,-8l-8,8M0,36l8,8m0,-8l-8,8M0,36l8,8m0,-8l-8,8M0,36l8,8m0,-8l-8,8M0,36l8,8m0,-8l-8,8M0,35l8,8m0,-8l-8,8M0,35l8,8m0,-8l-8,8M0,35l8,8m0,-8l-8,8M0,35l8,8m0,-8l-8,8M0,34l8,8m0,-8l-8,8M0,34l8,8m0,-8l-8,8M0,33l8,8m0,-8l-8,8M0,33l8,8m0,-8l-8,8M0,33l8,8m0,-8l-8,8M0,33l8,8m0,-8l-8,8M0,33l8,8m0,-8l-8,8M0,31l8,8m0,-8l-8,8M0,31l8,8m0,-8l-8,8M0,30l8,8m0,-8l-8,8M0,30l8,8m0,-8l-8,8M0,31l8,8m0,-8l-8,8M8,57l8,8m0,-8l-8,8M8,52l8,8m0,-8l-8,8M8,51l8,8m0,-8l-8,8M8,48l8,8m0,-8l-8,8M8,48l8,8m0,-8l-8,8M8,47l8,8m0,-8l-8,8M8,47l8,8m0,-8l-8,8M8,47l8,8m0,-8l-8,8M8,47l8,8m0,-8l-8,8M8,47l8,8m0,-8l-8,8M8,47l8,8m0,-8l-8,8M8,47l8,8m0,-8l-8,8M8,46l8,8m0,-8l-8,8M8,46l8,8m0,-8l-8,8M8,46l8,8m0,-8l-8,8M8,46l8,8m0,-8l-8,8M8,46l8,8m0,-8l-8,8M8,46l8,8m0,-8l-8,8M8,46l8,8m0,-8l-8,8M8,45l8,8m0,-8l-8,8M8,45l8,8m0,-8l-8,8M8,44l8,8m0,-8l-8,8M8,44l8,8m0,-8l-8,8M8,44l8,8m0,-8l-8,8M8,44l8,8m0,-8l-8,8M8,44l8,8m0,-8l-8,8M8,44l8,8m0,-8l-8,8M8,44l8,8m0,-8l-8,8M8,44l8,8m0,-8l-8,8M8,44l8,8m0,-8l-8,8M8,43l8,8m0,-8l-8,8M8,43l8,8m0,-8l-8,8M8,43l8,8m0,-8l-8,8M8,43l8,8m0,-8l-8,8M8,43l8,8m0,-8l-8,8M8,43l8,8m0,-8l-8,8M8,43l8,8m0,-8l-8,8M8,42l8,8m0,-8l-8,8M8,42l8,8m0,-8l-8,8M8,42l8,8m0,-8l-8,8M8,42l8,8m0,-8l-8,8M8,42l8,8m0,-8l-8,8M8,42l8,8m0,-8l-8,8M8,42l8,8m0,-8l-8,8M8,42l8,8m0,-8l-8,8M8,42l8,8m0,-8l-8,8M8,42l8,8m0,-8l-8,8M8,42l8,8m0,-8l-8,8M8,42l8,8m0,-8l-8,8M8,41l8,8m0,-8l-8,8M8,41l8,8m0,-8l-8,8M8,41l8,8m0,-8l-8,8M8,41l8,8m0,-8l-8,8M8,41l8,8m0,-8l-8,8M8,41l8,8m0,-8l-8,8M8,40l8,8m0,-8l-8,8M8,40l8,8m0,-8l-8,8M8,40l8,8m0,-8l-8,8M8,40l8,8m0,-8l-8,8M8,40l8,8m0,-8l-8,8M8,40l8,8m0,-8l-8,8M8,40l8,8m0,-8l-8,8M8,40l8,8m0,-8l-8,8M8,39l8,8m0,-8l-8,8M8,39l8,8m0,-8l-8,8M8,39l8,8m0,-8l-8,8M8,39l8,8m0,-8l-8,8M8,39l8,8m0,-8l-8,8M8,39l8,8m0,-8l-8,8M8,39l8,8m0,-8l-8,8M8,39l8,8m0,-8l-8,8M8,39l8,8m0,-8l-8,8M8,39l8,8m0,-8l-8,8M8,38l8,8m0,-8l-8,8M8,38l8,8m0,-8l-8,8M8,39l8,8m0,-8l-8,8M8,38l8,8m0,-8l-8,8M8,38l8,8m0,-8l-8,8M8,38l8,8m0,-8l-8,8M8,38l8,8m0,-8l-8,8M8,38l8,8m0,-8l-8,8M8,38l8,8m0,-8l-8,8M8,38l8,8m0,-8l-8,8M8,37l8,8m0,-8l-8,8M8,37l8,8m0,-8l-8,8M8,38l8,8m0,-8l-8,8M8,38l8,8m0,-8l-8,8M8,37l8,8m0,-8l-8,8M8,37l8,8m0,-8l-8,8M8,37l8,8m0,-8l-8,8M8,37l8,8m0,-8l-8,8M8,37l8,8m0,-8l-8,8M8,37l8,8m0,-8l-8,8M8,36l8,8m0,-8l-8,8M8,36l8,8m0,-8l-8,8M8,36l8,8m0,-8l-8,8M8,36l8,8m0,-8l-8,8M8,37l8,8m0,-8l-8,8M8,36l8,8m0,-8l-8,8M8,36l8,8m0,-8l-8,8M8,36l8,8m0,-8l-8,8M8,36l8,8m0,-8l-8,8M8,36l8,8m0,-8l-8,8M8,35l8,8m0,-8l-8,8M8,35l8,8m0,-8l-8,8M8,35l8,8m0,-8l-8,8M8,35l8,8m0,-8l-8,8M8,35l8,8m0,-8l-8,8M8,35l8,8m0,-8l-8,8M8,35l8,8m0,-8l-8,8M8,35l8,8m0,-8l-8,8M8,35l8,8m0,-8l-8,8M8,35l8,8m0,-8l-8,8M8,34l8,8m0,-8l-8,8M8,34l8,8m0,-8l-8,8M8,34l8,8m0,-8l-8,8M8,34l8,8m0,-8l-8,8M8,34l8,8m0,-8l-8,8M8,34l8,8m0,-8l-8,8M8,34l8,8m0,-8l-8,8M8,34l8,8m0,-8l-8,8M8,34l8,8m0,-8l-8,8M8,34l8,8m0,-8l-8,8M8,33l8,8m0,-8l-8,8M8,33l8,8m0,-8l-8,8M8,33l8,8m0,-8l-8,8M8,33l8,8m0,-8l-8,8M8,32l8,8m0,-8l-8,8M8,32l8,8m0,-8l-8,8M8,32l8,8m0,-8l-8,8M8,32l8,8m0,-8l-8,8M8,32l8,8m0,-8l-8,8M8,31l8,8m0,-8l-8,8M8,31l8,8m0,-8l-8,8M8,32l8,8m0,-8l-8,8M8,31l8,8m0,-8l-8,8M8,31l8,8m0,-8l-8,8M8,31l8,8m0,-8l-8,8M8,31l8,8m0,-8l-8,8M8,31l8,8m0,-8l-8,8M8,31l8,8m0,-8l-8,8M8,31l8,8m0,-8l-8,8M8,31l8,8m0,-8l-8,8M8,31l8,8m0,-8l-8,8M8,30l8,8m0,-8l-8,8M8,30l8,8m0,-8l-8,8M8,31l8,8m0,-8l-8,8M8,30l8,8m0,-8l-8,8M8,30l8,8m0,-8l-8,8M8,30l8,8m0,-8l-8,8M8,30l8,8m0,-8l-8,8M8,30l8,8m0,-8l-8,8M8,30l8,8m0,-8l-8,8M8,30l8,8m0,-8l-8,8M8,30l8,8m0,-8l-8,8M8,29l8,8m0,-8l-8,8M8,30l8,8m0,-8l-8,8M8,29l8,8m0,-8l-8,8M8,29l8,8m0,-8l-8,8M8,29l8,8m0,-8l-8,8M8,29l8,8m0,-8l-8,8M8,29l8,8m0,-8l-8,8M8,28l8,8m0,-8l-8,8M8,28l8,8m0,-8l-8,8M8,28l8,8m0,-8l-8,8M8,28l8,8m0,-8l-8,8M8,27l8,8m0,-8l-8,8M8,27l8,8m0,-8l-8,8M8,27l8,8m0,-8l-8,8M8,26l8,8m0,-8l-8,8M8,26l8,8m0,-8l-8,8M8,26l8,8m0,-8l-8,8M8,26l8,8m0,-8l-8,8M8,26l8,8m0,-8l-8,8M8,26l8,8m0,-8l-8,8M8,26l8,8m0,-8l-8,8M8,25l8,8m0,-8l-8,8M8,25l8,8m0,-8l-8,8M8,25l8,8m0,-8l-8,8M8,25l8,8m0,-8l-8,8M8,25l8,8m0,-8l-8,8M8,25l8,8m0,-8l-8,8M8,24l8,8m0,-8l-8,8M8,24l8,8m0,-8l-8,8M8,25l8,8m0,-8l-8,8M8,25l8,8m0,-8l-8,8M8,24l8,8m0,-8l-8,8M8,24l8,8m0,-8l-8,8M8,24l8,8m0,-8l-8,8M8,24l8,8m0,-8l-8,8M8,24l8,8m0,-8l-8,8M8,23l8,8m0,-8l-8,8M8,23l8,8m0,-8l-8,8M8,22l8,8m0,-8l-8,8M8,22l8,8m0,-8l-8,8M8,21l8,8m0,-8l-8,8M8,21l8,8m0,-8l-8,8M8,20l8,8m0,-8l-8,8M8,20l8,8m0,-8l-8,8M8,20l8,8m0,-8l-8,8M17,41l8,8m0,-8l-8,8M17,41l8,8m0,-8l-8,8M17,39l8,8m0,-8l-8,8M17,38l8,8m0,-8l-8,8M17,37l8,8m0,-8l-8,8M17,36l8,8m0,-8l-8,8M17,36l8,8m0,-8l-8,8M17,36l8,8m0,-8l-8,8M17,35l8,8m0,-8l-8,8M17,35l8,8m0,-8l-8,8M17,35l8,8m0,-8l-8,8M17,35l8,8m0,-8l-8,8M17,34l8,8m0,-8l-8,8M17,34l8,8m0,-8l-8,8M17,34l8,8m0,-8l-8,8M17,34l8,8m0,-8l-8,8M17,34l8,8m0,-8l-8,8M17,33l8,8m0,-8l-8,8M17,33l8,8m0,-8l-8,8M17,33l8,8m0,-8l-8,8M17,33l8,8m0,-8l-8,8M17,32l8,8m0,-8l-8,8M17,33l8,8m0,-8l-8,8M17,33l8,8m0,-8l-8,8M17,33l8,8m0,-8l-8,8M17,33l8,8m0,-8l-8,8M17,32l8,8m0,-8l-8,8M17,32l8,8m0,-8l-8,8M17,32l8,8m0,-8l-8,8M17,32l8,8m0,-8l-8,8M17,32l8,8m0,-8l-8,8M17,31l8,8m0,-8l-8,8M17,32l8,8m0,-8l-8,8M17,31l8,8m0,-8l-8,8M17,31l8,8m0,-8l-8,8M17,31l8,8m0,-8l-8,8M17,31l8,8m0,-8l-8,8M17,31l8,8m0,-8l-8,8M17,31l8,8m0,-8l-8,8M17,31l8,8m0,-8l-8,8M17,30l8,8m0,-8l-8,8M17,30l8,8m0,-8l-8,8M17,30l8,8m0,-8l-8,8M17,30l8,8m0,-8l-8,8M17,30l8,8m0,-8l-8,8M17,30l8,8m0,-8l-8,8M17,30l8,8m0,-8l-8,8M17,30l8,8m0,-8l-8,8M17,29l8,8m0,-8l-8,8M17,29l8,8m0,-8l-8,8M17,30l8,8m0,-8l-8,8M17,30l8,8m0,-8l-8,8M17,30l8,8m0,-8l-8,8M17,30l8,8m0,-8l-8,8M17,29l8,8m0,-8l-8,8M17,29l8,8m0,-8l-8,8M17,29l8,8m0,-8l-8,8M17,29l8,8m0,-8l-8,8M17,29l8,8m0,-8l-8,8M17,29l8,8m0,-8l-8,8M17,29l8,8m0,-8l-8,8M17,28l8,8m0,-8l-8,8M17,28l8,8m0,-8l-8,8M17,28l8,8m0,-8l-8,8M17,28l8,8m0,-8l-8,8M17,28l8,8m0,-8l-8,8M17,28l8,8m0,-8l-8,8M17,28l8,8m0,-8l-8,8M17,28l8,8m0,-8l-8,8M17,28l8,8m0,-8l-8,8M17,28l8,8m0,-8l-8,8M17,27l8,8m0,-8l-8,8M17,27l8,8m0,-8l-8,8M17,27l8,8m0,-8l-8,8M17,27l8,8m0,-8l-8,8M17,27l8,8m0,-8l-8,8M17,26l8,8m0,-8l-8,8M17,26l8,8m0,-8l-8,8M17,26l8,8m0,-8l-8,8M17,26l8,8m0,-8l-8,8M17,26l8,8m0,-8l-8,8M17,26l8,8m0,-8l-8,8M17,26l8,8m0,-8l-8,8M17,26l8,8m0,-8l-8,8M17,26l8,8m0,-8l-8,8M17,25l8,8m0,-8l-8,8M17,25l8,8m0,-8l-8,8M17,26l8,8m0,-8l-8,8M17,26l8,8m0,-8l-8,8M17,25l8,8m0,-8l-8,8M17,25l8,8m0,-8l-8,8M17,25l8,8m0,-8l-8,8M17,25l8,8m0,-8l-8,8M17,25l8,8m0,-8l-8,8M17,25l8,8m0,-8l-8,8M17,25l8,8m0,-8l-8,8M17,25l8,8m0,-8l-8,8M17,25l8,8m0,-8l-8,8M17,25l8,8m0,-8l-8,8M17,25l8,8m0,-8l-8,8M17,25l8,8m0,-8l-8,8M17,25l8,8m0,-8l-8,8M17,25l8,8m0,-8l-8,8M17,24l8,8m0,-8l-8,8M17,25l8,8m0,-8l-8,8M17,24l8,8m0,-8l-8,8M17,24l8,8m0,-8l-8,8M17,24l8,8m0,-8l-8,8M17,24l8,8m0,-8l-8,8M17,24l8,8m0,-8l-8,8M17,24l8,8m0,-8l-8,8M17,24l8,8m0,-8l-8,8M17,24l8,8m0,-8l-8,8M17,24l8,8m0,-8l-8,8M17,24l8,8m0,-8l-8,8M17,24l8,8m0,-8l-8,8M17,24l8,8m0,-8l-8,8M17,24l8,8m0,-8l-8,8M17,24l8,8m0,-8l-8,8M17,24l8,8m0,-8l-8,8M17,23l8,8m0,-8l-8,8M17,23l8,8m0,-8l-8,8M17,23l8,8m0,-8l-8,8M17,23l8,8m0,-8l-8,8M17,23l8,8m0,-8l-8,8M17,23l8,8m0,-8l-8,8M17,23l8,8m0,-8l-8,8M17,23l8,8m0,-8l-8,8M17,23l8,8m0,-8l-8,8M17,22l8,8m0,-8l-8,8M17,22l8,8m0,-8l-8,8M17,22l8,8m0,-8l-8,8M17,22l8,8m0,-8l-8,8M17,22l8,8m0,-8l-8,8M17,22l8,8m0,-8l-8,8M17,22l8,8m0,-8l-8,8M17,22l8,8m0,-8l-8,8M17,22l8,8m0,-8l-8,8M17,21l8,8m0,-8l-8,8M17,21l8,8m0,-8l-8,8M17,22l8,8m0,-8l-8,8M17,21l8,8m0,-8l-8,8M17,21l8,8m0,-8l-8,8M17,21l8,8m0,-8l-8,8M17,21l8,8m0,-8l-8,8M17,21l8,8m0,-8l-8,8M17,20l8,8m0,-8l-8,8M17,20l8,8m0,-8l-8,8M17,21l8,8m0,-8l-8,8M17,20l8,8m0,-8l-8,8M17,20l8,8m0,-8l-8,8M17,20l8,8m0,-8l-8,8M17,20l8,8m0,-8l-8,8M17,20l8,8m0,-8l-8,8M17,19l8,8m0,-8l-8,8M17,19l8,8m0,-8l-8,8M17,19l8,8m0,-8l-8,8M17,19l8,8m0,-8l-8,8M17,19l8,8m0,-8l-8,8M17,19l8,8m0,-8l-8,8M17,19l8,8m0,-8l-8,8M17,18l8,8m0,-8l-8,8M17,18l8,8m0,-8l-8,8M17,18l8,8m0,-8l-8,8M17,18l8,8m0,-8l-8,8M17,18l8,8m0,-8l-8,8M17,18l8,8m0,-8l-8,8M17,17l8,8m0,-8l-8,8M17,17l8,8m0,-8l-8,8M17,16l8,8m0,-8l-8,8M17,16l8,8m0,-8l-8,8M17,16l8,8m0,-8l-8,8M17,16l8,8m0,-8l-8,8M17,16l8,8m0,-8l-8,8M17,16l8,8m0,-8l-8,8M17,16l8,8m0,-8l-8,8M17,15l8,8m0,-8l-8,8M17,15l8,8m0,-8l-8,8M17,15l8,8m0,-8l-8,8M17,15l8,8m0,-8l-8,8M17,15l8,8m0,-8l-8,8M17,15l8,8m0,-8l-8,8M17,14l8,8m0,-8l-8,8M17,14l8,8m0,-8l-8,8M17,13l8,8m0,-8l-8,8M17,13l8,8m0,-8l-8,8M17,13l8,8m0,-8l-8,8M17,13l8,8m0,-8l-8,8M17,12l8,8m0,-8l-8,8M17,12l8,8m0,-8l-8,8M17,12l8,8m0,-8l-8,8M17,11l8,8m0,-8l-8,8M17,11l8,8m0,-8l-8,8M17,11l8,8m0,-8l-8,8M17,11l8,8m0,-8l-8,8M17,9l8,8m0,-8l-8,8M17,9l8,8m0,-8l-8,8M17,8l8,8m0,-8l-8,8M17,7l8,8m0,-8l-8,8M17,3l8,8m0,-8l-8,8M25,31l8,8m0,-8l-8,8M25,29l8,8m0,-8l-8,8M25,28l8,8m0,-8l-8,8M25,28l8,8m0,-8l-8,8M25,28l8,8m0,-8l-8,8M25,27l8,8m0,-8l-8,8M25,27l8,8m0,-8l-8,8M25,27l8,8m0,-8l-8,8M25,27l8,8m0,-8l-8,8M25,27l8,8m0,-8l-8,8M25,27l8,8m0,-8l-8,8M25,27l8,8m0,-8l-8,8M25,27l8,8m0,-8l-8,8M25,27l8,8m0,-8l-8,8M25,26l8,8m0,-8l-8,8M25,26l8,8m0,-8l-8,8M25,26l8,8m0,-8l-8,8M25,26l8,8m0,-8l-8,8M25,25l8,8m0,-8l-8,8M25,25l8,8m0,-8l-8,8M25,25l8,8m0,-8l-8,8M25,25l8,8m0,-8l-8,8M25,24l8,8m0,-8l-8,8M25,24l8,8m0,-8l-8,8M25,24l8,8m0,-8l-8,8M25,24l8,8m0,-8l-8,8M25,24l8,8m0,-8l-8,8M25,23l8,8m0,-8l-8,8M25,24l8,8m0,-8l-8,8M25,24l8,8m0,-8l-8,8M25,23l8,8m0,-8l-8,8M25,23l8,8m0,-8l-8,8M25,23l8,8m0,-8l-8,8M25,23l8,8m0,-8l-8,8M25,23l8,8m0,-8l-8,8M25,23l8,8m0,-8l-8,8M25,23l8,8m0,-8l-8,8M25,23l8,8m0,-8l-8,8M25,23l8,8m0,-8l-8,8M25,23l8,8m0,-8l-8,8M25,23l8,8m0,-8l-8,8M25,22l8,8m0,-8l-8,8M25,22l8,8m0,-8l-8,8M25,22l8,8m0,-8l-8,8M25,22l8,8m0,-8l-8,8M25,22l8,8m0,-8l-8,8M25,22l8,8m0,-8l-8,8M25,22l8,8m0,-8l-8,8M25,21l8,8m0,-8l-8,8M25,21l8,8m0,-8l-8,8M25,21l8,8m0,-8l-8,8M25,21l8,8m0,-8l-8,8M25,21l8,8m0,-8l-8,8M25,21l8,8m0,-8l-8,8M25,21l8,8m0,-8l-8,8M25,21l8,8m0,-8l-8,8M25,21l8,8m0,-8l-8,8M25,21l8,8m0,-8l-8,8M25,21l8,8m0,-8l-8,8M25,20l8,8m0,-8l-8,8M25,20l8,8m0,-8l-8,8M25,20l8,8m0,-8l-8,8M25,20l8,8m0,-8l-8,8M25,20l8,8m0,-8l-8,8M25,20l8,8m0,-8l-8,8M25,20l8,8m0,-8l-8,8M25,20l8,8m0,-8l-8,8M25,20l8,8m0,-8l-8,8M25,20l8,8m0,-8l-8,8M25,20l8,8m0,-8l-8,8M25,20l8,8m0,-8l-8,8M25,19l8,8m0,-8l-8,8M25,20l8,8m0,-8l-8,8M25,20l8,8m0,-8l-8,8M25,19l8,8m0,-8l-8,8M25,20l8,8m0,-8l-8,8M25,19l8,8m0,-8l-8,8M25,19l8,8m0,-8l-8,8M25,19l8,8m0,-8l-8,8M25,19l8,8m0,-8l-8,8M25,19l8,8m0,-8l-8,8M25,18l8,8m0,-8l-8,8M25,19l8,8m0,-8l-8,8M25,18l8,8m0,-8l-8,8M25,18l8,8m0,-8l-8,8M25,18l8,8m0,-8l-8,8M25,18l8,8m0,-8l-8,8M25,18l8,8m0,-8l-8,8M25,18l8,8m0,-8l-8,8M25,18l8,8m0,-8l-8,8M25,18l8,8m0,-8l-8,8M25,18l8,8m0,-8l-8,8M25,18l8,8m0,-8l-8,8M25,18l8,8m0,-8l-8,8M25,18l8,8m0,-8l-8,8M25,18l8,8m0,-8l-8,8M25,18l8,8m0,-8l-8,8M25,17l8,8m0,-8l-8,8M25,17l8,8m0,-8l-8,8M25,17l8,8m0,-8l-8,8M25,17l8,8m0,-8l-8,8M25,17l8,8m0,-8l-8,8M25,17l8,8m0,-8l-8,8M25,17l8,8m0,-8l-8,8M25,17l8,8m0,-8l-8,8M25,17l8,8m0,-8l-8,8M25,17l8,8m0,-8l-8,8M25,17l8,8m0,-8l-8,8M25,17l8,8m0,-8l-8,8M25,16l8,8m0,-8l-8,8M25,16l8,8m0,-8l-8,8M25,16l8,8m0,-8l-8,8M25,16l8,8m0,-8l-8,8M25,16l8,8m0,-8l-8,8M25,16l8,8m0,-8l-8,8M25,16l8,8m0,-8l-8,8M25,16l8,8m0,-8l-8,8M25,16l8,8m0,-8l-8,8M25,16l8,8m0,-8l-8,8M25,16l8,8m0,-8l-8,8M25,16l8,8m0,-8l-8,8M25,16l8,8m0,-8l-8,8M25,16l8,8m0,-8l-8,8M25,16l8,8m0,-8l-8,8M25,16l8,8m0,-8l-8,8M25,15l8,8m0,-8l-8,8M25,15l8,8m0,-8l-8,8M25,15l8,8m0,-8l-8,8M25,15l8,8m0,-8l-8,8M25,15l8,8m0,-8l-8,8M25,15l8,8m0,-8l-8,8M25,15l8,8m0,-8l-8,8M25,14l8,8m0,-8l-8,8M25,15l8,8m0,-8l-8,8M25,14l8,8m0,-8l-8,8M25,14l8,8m0,-8l-8,8M25,14l8,8m0,-8l-8,8M25,14l8,8m0,-8l-8,8M25,14l8,8m0,-8l-8,8M25,14l8,8m0,-8l-8,8M25,13l8,8m0,-8l-8,8M25,13l8,8m0,-8l-8,8M25,13l8,8m0,-8l-8,8M25,13l8,8m0,-8l-8,8M25,13l8,8m0,-8l-8,8M25,13l8,8m0,-8l-8,8M25,12l8,8m0,-8l-8,8M25,12l8,8m0,-8l-8,8M25,12l8,8m0,-8l-8,8M25,12l8,8m0,-8l-8,8M25,12l8,8m0,-8l-8,8M25,12l8,8m0,-8l-8,8M25,12l8,8m0,-8l-8,8M25,12l8,8m0,-8l-8,8M25,12l8,8m0,-8l-8,8M25,12l8,8m0,-8l-8,8M25,11l8,8m0,-8l-8,8M25,11l8,8m0,-8l-8,8M25,11l8,8m0,-8l-8,8M25,11l8,8m0,-8l-8,8M25,11l8,8m0,-8l-8,8M25,11l8,8m0,-8l-8,8M25,11l8,8m0,-8l-8,8M25,11l8,8m0,-8l-8,8M25,10l8,8m0,-8l-8,8M25,10l8,8m0,-8l-8,8M25,10l8,8m0,-8l-8,8M25,10l8,8m0,-8l-8,8M25,10l8,8m0,-8l-8,8M25,9l8,8m0,-8l-8,8M25,9l8,8m0,-8l-8,8M25,9l8,8m0,-8l-8,8M25,9l8,8m0,-8l-8,8M25,9l8,8m0,-8l-8,8M25,9l8,8m0,-8l-8,8M25,9l8,8m0,-8l-8,8M25,9l8,8m0,-8l-8,8M25,8l8,8m0,-8l-8,8M25,7l8,8m0,-8l-8,8M25,7l8,8m0,-8l-8,8M25,7l8,8m0,-8l-8,8M25,6l8,8m0,-8l-8,8M25,7l8,8m0,-8l-8,8M25,7l8,8m0,-8l-8,8M25,6l8,8m0,-8l-8,8M25,6l8,8m0,-8l-8,8M25,6l8,8m0,-8l-8,8M25,6l8,8m0,-8l-8,8M25,6l8,8m0,-8l-8,8M25,5l8,8m0,-8l-8,8M25,5l8,8m0,-8l-8,8M25,5l8,8m0,-8l-8,8M25,5l8,8m0,-8l-8,8M25,4l8,8m0,-8l-8,8M25,4l8,8m0,-8l-8,8M25,4l8,8m0,-8l-8,8M25,4l8,8m0,-8l-8,8M25,4l8,8m0,-8l-8,8M25,3l8,8m0,-8l-8,8M25,0l8,8m0,-8l-8,8M33,33l8,8m0,-8l-8,8M33,32l8,8m0,-8l-8,8M33,29l8,8m0,-8l-8,8M33,28l8,8m0,-8l-8,8M33,27l8,8m0,-8l-8,8M33,26l8,8m0,-8l-8,8M33,26l8,8m0,-8l-8,8M33,26l8,8m0,-8l-8,8M33,26l8,8m0,-8l-8,8M33,25l8,8m0,-8l-8,8M33,25l8,8m0,-8l-8,8M33,25l8,8m0,-8l-8,8M33,25l8,8m0,-8l-8,8M33,25l8,8m0,-8l-8,8M33,25l8,8m0,-8l-8,8M33,25l8,8m0,-8l-8,8M33,24l8,8m0,-8l-8,8M33,25l8,8m0,-8l-8,8M33,24l8,8m0,-8l-8,8M33,24l8,8m0,-8l-8,8M33,24l8,8m0,-8l-8,8M33,24l8,8m0,-8l-8,8M33,24l8,8m0,-8l-8,8M33,24l8,8m0,-8l-8,8M33,23l8,8m0,-8l-8,8M33,23l8,8m0,-8l-8,8M33,23l8,8m0,-8l-8,8M33,23l8,8m0,-8l-8,8M33,22l8,8m0,-8l-8,8M33,22l8,8m0,-8l-8,8M33,22l8,8m0,-8l-8,8M33,22l8,8m0,-8l-8,8M33,22l8,8m0,-8l-8,8M33,22l8,8m0,-8l-8,8M33,22l8,8m0,-8l-8,8M33,22l8,8m0,-8l-8,8M33,22l8,8m0,-8l-8,8M33,22l8,8m0,-8l-8,8M33,21l8,8m0,-8l-8,8M33,21l8,8m0,-8l-8,8M33,21l8,8m0,-8l-8,8M33,21l8,8m0,-8l-8,8M33,21l8,8m0,-8l-8,8M33,21l8,8m0,-8l-8,8M33,21l8,8m0,-8l-8,8M33,21l8,8m0,-8l-8,8M33,20l8,8m0,-8l-8,8M33,20l8,8m0,-8l-8,8M33,19l8,8m0,-8l-8,8M33,19l8,8m0,-8l-8,8M33,20l8,8m0,-8l-8,8M33,19l8,8m0,-8l-8,8M33,19l8,8m0,-8l-8,8M33,19l8,8m0,-8l-8,8M33,19l8,8m0,-8l-8,8M33,19l8,8m0,-8l-8,8M33,19l8,8m0,-8l-8,8M33,19l8,8m0,-8l-8,8M33,19l8,8m0,-8l-8,8M33,18l8,8m0,-8l-8,8M33,18l8,8m0,-8l-8,8M33,18l8,8m0,-8l-8,8M33,18l8,8m0,-8l-8,8M33,18l8,8m0,-8l-8,8M33,18l8,8m0,-8l-8,8M33,18l8,8m0,-8l-8,8M33,18l8,8m0,-8l-8,8M33,18l8,8m0,-8l-8,8M33,18l8,8m0,-8l-8,8M33,18l8,8m0,-8l-8,8M33,18l8,8m0,-8l-8,8M33,18l8,8m0,-8l-8,8M33,18l8,8m0,-8l-8,8M33,18l8,8m0,-8l-8,8M33,17l8,8m0,-8l-8,8M33,17l8,8m0,-8l-8,8M33,17l8,8m0,-8l-8,8M33,17l8,8m0,-8l-8,8M33,17l8,8m0,-8l-8,8M33,17l8,8m0,-8l-8,8M33,17l8,8m0,-8l-8,8M33,17l8,8m0,-8l-8,8M33,16l8,8m0,-8l-8,8M33,16l8,8m0,-8l-8,8M33,16l8,8m0,-8l-8,8M33,16l8,8m0,-8l-8,8M33,16l8,8m0,-8l-8,8M33,16l8,8m0,-8l-8,8M33,16l8,8m0,-8l-8,8M33,16l8,8m0,-8l-8,8M33,16l8,8m0,-8l-8,8M33,16l8,8m0,-8l-8,8M33,16l8,8m0,-8l-8,8M33,16l8,8m0,-8l-8,8M33,15l8,8m0,-8l-8,8M33,16l8,8m0,-8l-8,8M33,15l8,8m0,-8l-8,8M33,15l8,8m0,-8l-8,8M33,15l8,8m0,-8l-8,8M33,15l8,8m0,-8l-8,8M33,15l8,8m0,-8l-8,8M33,15l8,8m0,-8l-8,8M33,15l8,8m0,-8l-8,8M33,15l8,8m0,-8l-8,8M33,15l8,8m0,-8l-8,8M33,14l8,8m0,-8l-8,8M33,14l8,8m0,-8l-8,8M33,14l8,8m0,-8l-8,8M33,14l8,8m0,-8l-8,8M33,14l8,8m0,-8l-8,8M33,13l8,8m0,-8l-8,8M33,13l8,8m0,-8l-8,8M33,14l8,8m0,-8l-8,8M33,14l8,8m0,-8l-8,8M33,13l8,8m0,-8l-8,8M33,13l8,8m0,-8l-8,8M33,13l8,8m0,-8l-8,8M33,13l8,8m0,-8l-8,8M33,13l8,8m0,-8l-8,8M33,13l8,8m0,-8l-8,8M33,13l8,8m0,-8l-8,8M33,13l8,8m0,-8l-8,8M33,13l8,8m0,-8l-8,8M33,12l8,8m0,-8l-8,8M33,13l8,8m0,-8l-8,8M33,13l8,8m0,-8l-8,8M33,12l8,8m0,-8l-8,8M33,12l8,8m0,-8l-8,8M33,12l8,8m0,-8l-8,8M33,12l8,8m0,-8l-8,8M33,12l8,8m0,-8l-8,8M33,12l8,8m0,-8l-8,8M33,12l8,8m0,-8l-8,8M33,12l8,8m0,-8l-8,8M33,12l8,8m0,-8l-8,8M33,12l8,8m0,-8l-8,8M33,11l8,8m0,-8l-8,8M33,11l8,8m0,-8l-8,8M33,11l8,8m0,-8l-8,8M33,11l8,8m0,-8l-8,8M33,11l8,8m0,-8l-8,8M33,11l8,8m0,-8l-8,8M33,11l8,8m0,-8l-8,8M33,11l8,8m0,-8l-8,8M33,10l8,8m0,-8l-8,8M33,10l8,8m0,-8l-8,8M33,10l8,8m0,-8l-8,8M33,10l8,8m0,-8l-8,8M33,10l8,8m0,-8l-8,8M33,9l8,8m0,-8l-8,8M33,9l8,8m0,-8l-8,8M33,10l8,8m0,-8l-8,8M33,9l8,8m0,-8l-8,8M33,9l8,8m0,-8l-8,8M33,9l8,8m0,-8l-8,8M33,9l8,8m0,-8l-8,8M33,9l8,8m0,-8l-8,8M33,9l8,8m0,-8l-8,8M33,9l8,8m0,-8l-8,8M33,8l8,8m0,-8l-8,8M33,8l8,8m0,-8l-8,8M33,8l8,8m0,-8l-8,8M33,9l8,8m0,-8l-8,8M33,9l8,8m0,-8l-8,8M33,8l8,8m0,-8l-8,8M33,8l8,8m0,-8l-8,8M33,8l8,8m0,-8l-8,8M33,8l8,8m0,-8l-8,8M33,8l8,8m0,-8l-8,8M33,7l8,8m0,-8l-8,8M33,7l8,8m0,-8l-8,8M33,7l8,8m0,-8l-8,8M33,7l8,8m0,-8l-8,8M33,6l8,8m0,-8l-8,8M33,6l8,8m0,-8l-8,8M33,6l8,8m0,-8l-8,8M33,6l8,8m0,-8l-8,8M33,5l8,8m0,-8l-8,8M33,5l8,8m0,-8l-8,8M33,4l8,8m0,-8l-8,8M33,3l8,8m0,-8l-8,8M33,4l8,8m0,-8l-8,8M33,4l8,8m0,-8l-8,8M33,3l8,8m0,-8l-8,8M33,3l8,8m0,-8l-8,8M33,3l8,8m0,-8l-8,8M33,2l8,8m0,-8l-8,8M33,1l8,8m0,-8l-8,8M33,2l8,8m0,-8l-8,8M33,2l8,8m0,-8l-8,8M33,-1l8,8m0,-8l-8,8M33,-1l8,8m0,-8l-8,8M33,-1l8,8m0,-8l-8,8M33,-1l8,8m0,-8l-8,8M33,-2l8,8m0,-8l-8,8M33,-2l8,8m0,-8l-8,8M33,-2l8,8m0,-8l-8,8M33,-2l8,8m0,-8l-8,8M33,-3l8,8m0,-8l-8,8M41,32l8,8m0,-8l-8,8M41,31l8,8m0,-8l-8,8M41,30l8,8m0,-8l-8,8M41,30l8,8m0,-8l-8,8M41,29l8,8m0,-8l-8,8M41,28l8,8m0,-8l-8,8M41,28l8,8m0,-8l-8,8M41,28l8,8m0,-8l-8,8M41,28l8,8m0,-8l-8,8M41,28l8,8m0,-8l-8,8M41,27l8,8m0,-8l-8,8M41,27l8,8m0,-8l-8,8M41,26l8,8m0,-8l-8,8M41,26l8,8m0,-8l-8,8M41,26l8,8m0,-8l-8,8M41,26l8,8m0,-8l-8,8M41,25l8,8m0,-8l-8,8M41,25l8,8m0,-8l-8,8M41,25l8,8m0,-8l-8,8M41,24l8,8m0,-8l-8,8M41,24l8,8m0,-8l-8,8M41,24l8,8m0,-8l-8,8M41,24l8,8m0,-8l-8,8M41,24l8,8m0,-8l-8,8M41,23l8,8m0,-8l-8,8M41,23l8,8m0,-8l-8,8M41,23l8,8m0,-8l-8,8M41,23l8,8m0,-8l-8,8M41,23l8,8m0,-8l-8,8M41,23l8,8m0,-8l-8,8M41,23l8,8m0,-8l-8,8M41,23l8,8m0,-8l-8,8M41,23l8,8m0,-8l-8,8M41,22l8,8m0,-8l-8,8M41,22l8,8m0,-8l-8,8M41,22l8,8m0,-8l-8,8M41,21l8,8m0,-8l-8,8M41,21l8,8m0,-8l-8,8M41,21l8,8m0,-8l-8,8M41,21l8,8m0,-8l-8,8M41,21l8,8m0,-8l-8,8M41,21l8,8m0,-8l-8,8M41,21l8,8m0,-8l-8,8M41,20l8,8m0,-8l-8,8M41,20l8,8m0,-8l-8,8M41,20l8,8m0,-8l-8,8M41,20l8,8m0,-8l-8,8M41,20l8,8m0,-8l-8,8M41,20l8,8m0,-8l-8,8M41,20l8,8m0,-8l-8,8M41,20l8,8m0,-8l-8,8M41,19l8,8m0,-8l-8,8M41,19l8,8m0,-8l-8,8M41,19l8,8m0,-8l-8,8M41,19l8,8m0,-8l-8,8M41,19l8,8m0,-8l-8,8M41,19l8,8m0,-8l-8,8M41,19l8,8m0,-8l-8,8M41,19l8,8m0,-8l-8,8M41,19l8,8m0,-8l-8,8M41,19l8,8m0,-8l-8,8M41,18l8,8m0,-8l-8,8M41,18l8,8m0,-8l-8,8M41,18l8,8m0,-8l-8,8M41,18l8,8m0,-8l-8,8M41,18l8,8m0,-8l-8,8M41,18l8,8m0,-8l-8,8M41,18l8,8m0,-8l-8,8M41,18l8,8m0,-8l-8,8M41,18l8,8m0,-8l-8,8M41,18l8,8m0,-8l-8,8M41,18l8,8m0,-8l-8,8M41,18l8,8m0,-8l-8,8M41,18l8,8m0,-8l-8,8M41,17l8,8m0,-8l-8,8M41,18l8,8m0,-8l-8,8M41,18l8,8m0,-8l-8,8M41,17l8,8m0,-8l-8,8M41,17l8,8m0,-8l-8,8M41,17l8,8m0,-8l-8,8M41,17l8,8m0,-8l-8,8M41,17l8,8m0,-8l-8,8M41,17l8,8m0,-8l-8,8M41,17l8,8m0,-8l-8,8M41,17l8,8m0,-8l-8,8M41,16l8,8m0,-8l-8,8M41,16l8,8m0,-8l-8,8M41,16l8,8m0,-8l-8,8M41,16l8,8m0,-8l-8,8M41,16l8,8m0,-8l-8,8M41,16l8,8m0,-8l-8,8M41,16l8,8m0,-8l-8,8M41,16l8,8m0,-8l-8,8M41,16l8,8m0,-8l-8,8M41,16l8,8m0,-8l-8,8M41,16l8,8m0,-8l-8,8M41,16l8,8m0,-8l-8,8M41,15l8,8m0,-8l-8,8M41,16l8,8m0,-8l-8,8M41,15l8,8m0,-8l-8,8M41,15l8,8m0,-8l-8,8M41,15l8,8m0,-8l-8,8M41,15l8,8m0,-8l-8,8M41,15l8,8m0,-8l-8,8M41,14l8,8m0,-8l-8,8M41,15l8,8m0,-8l-8,8M41,14l8,8m0,-8l-8,8M41,14l8,8m0,-8l-8,8M41,14l8,8m0,-8l-8,8M41,14l8,8m0,-8l-8,8M41,14l8,8m0,-8l-8,8M41,14l8,8m0,-8l-8,8M41,14l8,8m0,-8l-8,8M41,14l8,8m0,-8l-8,8M41,14l8,8m0,-8l-8,8M41,14l8,8m0,-8l-8,8M41,13l8,8m0,-8l-8,8M41,13l8,8m0,-8l-8,8M41,13l8,8m0,-8l-8,8M41,14l8,8m0,-8l-8,8M41,13l8,8m0,-8l-8,8M41,13l8,8m0,-8l-8,8M41,13l8,8m0,-8l-8,8M41,13l8,8m0,-8l-8,8M41,13l8,8m0,-8l-8,8M41,13l8,8m0,-8l-8,8M41,13l8,8m0,-8l-8,8M41,13l8,8m0,-8l-8,8M41,12l8,8m0,-8l-8,8M41,12l8,8m0,-8l-8,8M41,12l8,8m0,-8l-8,8M41,12l8,8m0,-8l-8,8M41,12l8,8m0,-8l-8,8M41,12l8,8m0,-8l-8,8M41,12l8,8m0,-8l-8,8M41,12l8,8m0,-8l-8,8M41,12l8,8m0,-8l-8,8M41,12l8,8m0,-8l-8,8M41,12l8,8m0,-8l-8,8M41,11l8,8m0,-8l-8,8M41,11l8,8m0,-8l-8,8M41,11l8,8m0,-8l-8,8M41,11l8,8m0,-8l-8,8M41,11l8,8m0,-8l-8,8M41,11l8,8m0,-8l-8,8M41,11l8,8m0,-8l-8,8M41,11l8,8m0,-8l-8,8M41,10l8,8m0,-8l-8,8M41,10l8,8m0,-8l-8,8M41,10l8,8m0,-8l-8,8M41,10l8,8m0,-8l-8,8M41,10l8,8m0,-8l-8,8M41,10l8,8m0,-8l-8,8M41,10l8,8m0,-8l-8,8M41,10l8,8m0,-8l-8,8M41,10l8,8m0,-8l-8,8M41,10l8,8m0,-8l-8,8M41,10l8,8m0,-8l-8,8M41,9l8,8m0,-8l-8,8M41,9l8,8m0,-8l-8,8M41,9l8,8m0,-8l-8,8M41,9l8,8m0,-8l-8,8M41,8l8,8m0,-8l-8,8M41,8l8,8m0,-8l-8,8M41,8l8,8m0,-8l-8,8M41,8l8,8m0,-8l-8,8M41,8l8,8m0,-8l-8,8M41,8l8,8m0,-8l-8,8M41,7l8,8m0,-8l-8,8M41,7l8,8m0,-8l-8,8M41,7l8,8m0,-8l-8,8M41,7l8,8m0,-8l-8,8M41,7l8,8m0,-8l-8,8M41,7l8,8m0,-8l-8,8M41,6l8,8m0,-8l-8,8M41,6l8,8m0,-8l-8,8M41,6l8,8m0,-8l-8,8M41,6l8,8m0,-8l-8,8M41,6l8,8m0,-8l-8,8M41,5l8,8m0,-8l-8,8M41,5l8,8m0,-8l-8,8M41,5l8,8m0,-8l-8,8M41,5l8,8m0,-8l-8,8M41,5l8,8m0,-8l-8,8M41,5l8,8m0,-8l-8,8M41,4l8,8m0,-8l-8,8M41,4l8,8m0,-8l-8,8M41,4l8,8m0,-8l-8,8M41,4l8,8m0,-8l-8,8M41,4l8,8m0,-8l-8,8M41,4l8,8m0,-8l-8,8M41,3l8,8m0,-8l-8,8M41,3l8,8m0,-8l-8,8M41,2l8,8m0,-8l-8,8M41,1l8,8m0,-8l-8,8M41,0l8,8m0,-8l-8,8M41,-2l8,8m0,-8l-8,8M41,-3l8,8m0,-8l-8,8M41,-3l8,8m0,-8l-8,8M41,-4l8,8m0,-8l-8,8M49,43l8,8m0,-8l-8,8M49,40l8,8m0,-8l-8,8M49,40l8,8m0,-8l-8,8M49,39l8,8m0,-8l-8,8M49,35l8,8m0,-8l-8,8M49,34l8,8m0,-8l-8,8M49,33l8,8m0,-8l-8,8M49,33l8,8m0,-8l-8,8M49,33l8,8m0,-8l-8,8M49,33l8,8m0,-8l-8,8M49,32l8,8m0,-8l-8,8M49,32l8,8m0,-8l-8,8M49,32l8,8m0,-8l-8,8M49,31l8,8m0,-8l-8,8M49,30l8,8m0,-8l-8,8M49,30l8,8m0,-8l-8,8M49,30l8,8m0,-8l-8,8M49,30l8,8m0,-8l-8,8M49,30l8,8m0,-8l-8,8M49,29l8,8m0,-8l-8,8M49,29l8,8m0,-8l-8,8M49,29l8,8m0,-8l-8,8M49,28l8,8m0,-8l-8,8M49,28l8,8m0,-8l-8,8M49,27l8,8m0,-8l-8,8M49,27l8,8m0,-8l-8,8M49,27l8,8m0,-8l-8,8M49,27l8,8m0,-8l-8,8M49,27l8,8m0,-8l-8,8M49,27l8,8m0,-8l-8,8M49,27l8,8m0,-8l-8,8M49,27l8,8m0,-8l-8,8M49,27l8,8m0,-8l-8,8M49,26l8,8m0,-8l-8,8M49,26l8,8m0,-8l-8,8M49,26l8,8m0,-8l-8,8M49,26l8,8m0,-8l-8,8M49,26l8,8m0,-8l-8,8M49,26l8,8m0,-8l-8,8M49,26l8,8m0,-8l-8,8M49,26l8,8m0,-8l-8,8M49,25l8,8m0,-8l-8,8M49,25l8,8m0,-8l-8,8M49,25l8,8m0,-8l-8,8M49,25l8,8m0,-8l-8,8M49,25l8,8m0,-8l-8,8M49,25l8,8m0,-8l-8,8M49,25l8,8m0,-8l-8,8M49,24l8,8m0,-8l-8,8M49,24l8,8m0,-8l-8,8M49,24l8,8m0,-8l-8,8M49,24l8,8m0,-8l-8,8M49,24l8,8m0,-8l-8,8M49,24l8,8m0,-8l-8,8M49,24l8,8m0,-8l-8,8M49,24l8,8m0,-8l-8,8M49,24l8,8m0,-8l-8,8M49,24l8,8m0,-8l-8,8M49,24l8,8m0,-8l-8,8M49,24l8,8m0,-8l-8,8M49,23l8,8m0,-8l-8,8M49,23l8,8m0,-8l-8,8M49,23l8,8m0,-8l-8,8M49,23l8,8m0,-8l-8,8M49,23l8,8m0,-8l-8,8M49,23l8,8m0,-8l-8,8M49,23l8,8m0,-8l-8,8M49,23l8,8m0,-8l-8,8M49,23l8,8m0,-8l-8,8M49,23l8,8m0,-8l-8,8M49,23l8,8m0,-8l-8,8M49,23l8,8m0,-8l-8,8M49,22l8,8m0,-8l-8,8M49,22l8,8m0,-8l-8,8M49,22l8,8m0,-8l-8,8M49,22l8,8m0,-8l-8,8M49,22l8,8m0,-8l-8,8M49,22l8,8m0,-8l-8,8M49,22l8,8m0,-8l-8,8M49,22l8,8m0,-8l-8,8M49,21l8,8m0,-8l-8,8M49,21l8,8m0,-8l-8,8M49,21l8,8m0,-8l-8,8M49,21l8,8m0,-8l-8,8M49,21l8,8m0,-8l-8,8M49,21l8,8m0,-8l-8,8M49,20l8,8m0,-8l-8,8M49,21l8,8m0,-8l-8,8M49,21l8,8m0,-8l-8,8M49,21l8,8m0,-8l-8,8M49,21l8,8m0,-8l-8,8M49,21l8,8m0,-8l-8,8M49,21l8,8m0,-8l-8,8M49,21l8,8m0,-8l-8,8M49,20l8,8m0,-8l-8,8M49,20l8,8m0,-8l-8,8M49,20l8,8m0,-8l-8,8M49,20l8,8m0,-8l-8,8M49,20l8,8m0,-8l-8,8M49,20l8,8m0,-8l-8,8M49,20l8,8m0,-8l-8,8M49,20l8,8m0,-8l-8,8M49,20l8,8m0,-8l-8,8M49,20l8,8m0,-8l-8,8M49,20l8,8m0,-8l-8,8M49,20l8,8m0,-8l-8,8M49,19l8,8m0,-8l-8,8M49,20l8,8m0,-8l-8,8M49,19l8,8m0,-8l-8,8M49,20l8,8m0,-8l-8,8M49,19l8,8m0,-8l-8,8M49,19l8,8m0,-8l-8,8M49,19l8,8m0,-8l-8,8M49,19l8,8m0,-8l-8,8M49,19l8,8m0,-8l-8,8M49,19l8,8m0,-8l-8,8M49,18l8,8m0,-8l-8,8M49,18l8,8m0,-8l-8,8M49,19l8,8m0,-8l-8,8M49,19l8,8m0,-8l-8,8M49,18l8,8m0,-8l-8,8M49,18l8,8m0,-8l-8,8M49,18l8,8m0,-8l-8,8M49,18l8,8m0,-8l-8,8M49,18l8,8m0,-8l-8,8M49,18l8,8m0,-8l-8,8M49,18l8,8m0,-8l-8,8M49,18l8,8m0,-8l-8,8M49,18l8,8m0,-8l-8,8M49,17l8,8m0,-8l-8,8M49,17l8,8m0,-8l-8,8M49,17l8,8m0,-8l-8,8M49,17l8,8m0,-8l-8,8M49,17l8,8m0,-8l-8,8M49,17l8,8m0,-8l-8,8M49,17l8,8m0,-8l-8,8M49,17l8,8m0,-8l-8,8M49,17l8,8m0,-8l-8,8M49,17l8,8m0,-8l-8,8M49,17l8,8m0,-8l-8,8M49,16l8,8m0,-8l-8,8M49,16l8,8m0,-8l-8,8M49,16l8,8m0,-8l-8,8M49,16l8,8m0,-8l-8,8M49,16l8,8m0,-8l-8,8M49,16l8,8m0,-8l-8,8M49,16l8,8m0,-8l-8,8M49,16l8,8m0,-8l-8,8M49,16l8,8m0,-8l-8,8M49,16l8,8m0,-8l-8,8M49,16l8,8m0,-8l-8,8M49,15l8,8m0,-8l-8,8M49,16l8,8m0,-8l-8,8M49,15l8,8m0,-8l-8,8M49,15l8,8m0,-8l-8,8M49,15l8,8m0,-8l-8,8M49,15l8,8m0,-8l-8,8M49,15l8,8m0,-8l-8,8M49,15l8,8m0,-8l-8,8M49,15l8,8m0,-8l-8,8M49,15l8,8m0,-8l-8,8M49,15l8,8m0,-8l-8,8M49,14l8,8m0,-8l-8,8M49,14l8,8m0,-8l-8,8M49,14l8,8m0,-8l-8,8M49,14l8,8m0,-8l-8,8M49,14l8,8m0,-8l-8,8M49,14l8,8m0,-8l-8,8M49,14l8,8m0,-8l-8,8M49,13l8,8m0,-8l-8,8M49,13l8,8m0,-8l-8,8M49,13l8,8m0,-8l-8,8M49,13l8,8m0,-8l-8,8M49,13l8,8m0,-8l-8,8M49,13l8,8m0,-8l-8,8M49,13l8,8m0,-8l-8,8M49,12l8,8m0,-8l-8,8M49,12l8,8m0,-8l-8,8M49,12l8,8m0,-8l-8,8M49,12l8,8m0,-8l-8,8M49,12l8,8m0,-8l-8,8M49,12l8,8m0,-8l-8,8M49,12l8,8m0,-8l-8,8M49,11l8,8m0,-8l-8,8M49,11l8,8m0,-8l-8,8M49,11l8,8m0,-8l-8,8M49,10l8,8m0,-8l-8,8M49,10l8,8m0,-8l-8,8M49,10l8,8m0,-8l-8,8M49,10l8,8m0,-8l-8,8M49,9l8,8m0,-8l-8,8M49,9l8,8m0,-8l-8,8M49,8l8,8m0,-8l-8,8M49,7l8,8m0,-8l-8,8M49,7l8,8m0,-8l-8,8M49,7l8,8m0,-8l-8,8M49,6l8,8m0,-8l-8,8M49,6l8,8m0,-8l-8,8M49,6l8,8m0,-8l-8,8M49,5l8,8m0,-8l-8,8M57,52l8,8m0,-8l-8,8M57,47l8,8m0,-8l-8,8M57,47l8,8m0,-8l-8,8M57,44l8,8m0,-8l-8,8M57,43l8,8m0,-8l-8,8M57,42l8,8m0,-8l-8,8M57,42l8,8m0,-8l-8,8M57,42l8,8m0,-8l-8,8M57,41l8,8m0,-8l-8,8M57,41l8,8m0,-8l-8,8M57,40l8,8m0,-8l-8,8M57,40l8,8m0,-8l-8,8M57,40l8,8m0,-8l-8,8M57,40l8,8m0,-8l-8,8M57,40l8,8m0,-8l-8,8M57,39l8,8m0,-8l-8,8M57,39l8,8m0,-8l-8,8M57,38l8,8m0,-8l-8,8M57,38l8,8m0,-8l-8,8M57,38l8,8m0,-8l-8,8M57,37l8,8m0,-8l-8,8M57,38l8,8m0,-8l-8,8M57,38l8,8m0,-8l-8,8M57,37l8,8m0,-8l-8,8M57,37l8,8m0,-8l-8,8M57,37l8,8m0,-8l-8,8M57,37l8,8m0,-8l-8,8M57,36l8,8m0,-8l-8,8M57,37l8,8m0,-8l-8,8M57,37l8,8m0,-8l-8,8M57,36l8,8m0,-8l-8,8M57,36l8,8m0,-8l-8,8M57,36l8,8m0,-8l-8,8M57,36l8,8m0,-8l-8,8M57,35l8,8m0,-8l-8,8M57,36l8,8m0,-8l-8,8M57,35l8,8m0,-8l-8,8M57,35l8,8m0,-8l-8,8M57,35l8,8m0,-8l-8,8M57,35l8,8m0,-8l-8,8M57,35l8,8m0,-8l-8,8M57,35l8,8m0,-8l-8,8M57,35l8,8m0,-8l-8,8M57,35l8,8m0,-8l-8,8M57,35l8,8m0,-8l-8,8M57,35l8,8m0,-8l-8,8M57,34l8,8m0,-8l-8,8M57,34l8,8m0,-8l-8,8M57,34l8,8m0,-8l-8,8M57,34l8,8m0,-8l-8,8M57,34l8,8m0,-8l-8,8M57,34l8,8m0,-8l-8,8M57,34l8,8m0,-8l-8,8M57,33l8,8m0,-8l-8,8M57,33l8,8m0,-8l-8,8M57,33l8,8m0,-8l-8,8M57,33l8,8m0,-8l-8,8M57,33l8,8m0,-8l-8,8M57,33l8,8m0,-8l-8,8M57,32l8,8m0,-8l-8,8M57,32l8,8m0,-8l-8,8M57,32l8,8m0,-8l-8,8M57,32l8,8m0,-8l-8,8M57,32l8,8m0,-8l-8,8M57,32l8,8m0,-8l-8,8M57,31l8,8m0,-8l-8,8M57,32l8,8m0,-8l-8,8M57,31l8,8m0,-8l-8,8M57,31l8,8m0,-8l-8,8M57,31l8,8m0,-8l-8,8M57,31l8,8m0,-8l-8,8M57,31l8,8m0,-8l-8,8M57,31l8,8m0,-8l-8,8M57,31l8,8m0,-8l-8,8M57,31l8,8m0,-8l-8,8M57,31l8,8m0,-8l-8,8M57,30l8,8m0,-8l-8,8M57,31l8,8m0,-8l-8,8M57,31l8,8m0,-8l-8,8M57,30l8,8m0,-8l-8,8M57,30l8,8m0,-8l-8,8M57,30l8,8m0,-8l-8,8M57,30l8,8m0,-8l-8,8M57,30l8,8m0,-8l-8,8M57,30l8,8m0,-8l-8,8M57,30l8,8m0,-8l-8,8M57,29l8,8m0,-8l-8,8M57,29l8,8m0,-8l-8,8M57,29l8,8m0,-8l-8,8M57,29l8,8m0,-8l-8,8M57,29l8,8m0,-8l-8,8M57,29l8,8m0,-8l-8,8M57,29l8,8m0,-8l-8,8M57,29l8,8m0,-8l-8,8M57,29l8,8m0,-8l-8,8M57,29l8,8m0,-8l-8,8M57,29l8,8m0,-8l-8,8M57,29l8,8m0,-8l-8,8M57,29l8,8m0,-8l-8,8M57,29l8,8m0,-8l-8,8M57,28l8,8m0,-8l-8,8M57,28l8,8m0,-8l-8,8M57,28l8,8m0,-8l-8,8M57,28l8,8m0,-8l-8,8M57,28l8,8m0,-8l-8,8M57,28l8,8m0,-8l-8,8M57,28l8,8m0,-8l-8,8M57,28l8,8m0,-8l-8,8M57,28l8,8m0,-8l-8,8M57,28l8,8m0,-8l-8,8M57,28l8,8m0,-8l-8,8M57,28l8,8m0,-8l-8,8M57,28l8,8m0,-8l-8,8M57,28l8,8m0,-8l-8,8M57,27l8,8m0,-8l-8,8M57,27l8,8m0,-8l-8,8M57,27l8,8m0,-8l-8,8M57,27l8,8m0,-8l-8,8M57,27l8,8m0,-8l-8,8M57,27l8,8m0,-8l-8,8M57,27l8,8m0,-8l-8,8M57,27l8,8m0,-8l-8,8M57,27l8,8m0,-8l-8,8M57,26l8,8m0,-8l-8,8M57,26l8,8m0,-8l-8,8M57,26l8,8m0,-8l-8,8M57,26l8,8m0,-8l-8,8M57,26l8,8m0,-8l-8,8M57,26l8,8m0,-8l-8,8M57,26l8,8m0,-8l-8,8M57,26l8,8m0,-8l-8,8M57,26l8,8m0,-8l-8,8M57,26l8,8m0,-8l-8,8M57,26l8,8m0,-8l-8,8M57,26l8,8m0,-8l-8,8M57,26l8,8m0,-8l-8,8M57,26l8,8m0,-8l-8,8M57,26l8,8m0,-8l-8,8M57,26l8,8m0,-8l-8,8M57,26l8,8m0,-8l-8,8M57,25l8,8m0,-8l-8,8M57,25l8,8m0,-8l-8,8M57,25l8,8m0,-8l-8,8M57,25l8,8m0,-8l-8,8M57,25l8,8m0,-8l-8,8M57,25l8,8m0,-8l-8,8M57,25l8,8m0,-8l-8,8M57,25l8,8m0,-8l-8,8M57,25l8,8m0,-8l-8,8M57,24l8,8m0,-8l-8,8M57,24l8,8m0,-8l-8,8M57,24l8,8m0,-8l-8,8M57,24l8,8m0,-8l-8,8M57,24l8,8m0,-8l-8,8M57,23l8,8m0,-8l-8,8M57,23l8,8m0,-8l-8,8M57,23l8,8m0,-8l-8,8M57,23l8,8m0,-8l-8,8M57,23l8,8m0,-8l-8,8M57,23l8,8m0,-8l-8,8M57,22l8,8m0,-8l-8,8M57,22l8,8m0,-8l-8,8M57,22l8,8m0,-8l-8,8M57,22l8,8m0,-8l-8,8M57,22l8,8m0,-8l-8,8M57,22l8,8m0,-8l-8,8M57,22l8,8m0,-8l-8,8M57,21l8,8m0,-8l-8,8M57,21l8,8m0,-8l-8,8M57,21l8,8m0,-8l-8,8M57,21l8,8m0,-8l-8,8M57,21l8,8m0,-8l-8,8M57,21l8,8m0,-8l-8,8M57,21l8,8m0,-8l-8,8M57,20l8,8m0,-8l-8,8M57,20l8,8m0,-8l-8,8M57,20l8,8m0,-8l-8,8M57,19l8,8m0,-8l-8,8M57,19l8,8m0,-8l-8,8M57,19l8,8m0,-8l-8,8M57,18l8,8m0,-8l-8,8M57,18l8,8m0,-8l-8,8M57,18l8,8m0,-8l-8,8M57,18l8,8m0,-8l-8,8M57,17l8,8m0,-8l-8,8M57,17l8,8m0,-8l-8,8M57,17l8,8m0,-8l-8,8M57,16l8,8m0,-8l-8,8M57,15l8,8m0,-8l-8,8M57,15l8,8m0,-8l-8,8M57,15l8,8m0,-8l-8,8M57,15l8,8m0,-8l-8,8M57,14l8,8m0,-8l-8,8M57,14l8,8m0,-8l-8,8M57,13l8,8m0,-8l-8,8M57,13l8,8m0,-8l-8,8M57,13l8,8m0,-8l-8,8M57,13l8,8m0,-8l-8,8M57,13l8,8m0,-8l-8,8M57,12l8,8m0,-8l-8,8M66,57l8,8m0,-8l-8,8M66,56l8,8m0,-8l-8,8M66,55l8,8m0,-8l-8,8M66,53l8,8m0,-8l-8,8M66,53l8,8m0,-8l-8,8M66,52l8,8m0,-8l-8,8M66,52l8,8m0,-8l-8,8M66,52l8,8m0,-8l-8,8M66,52l8,8m0,-8l-8,8M66,52l8,8m0,-8l-8,8M66,51l8,8m0,-8l-8,8M66,51l8,8m0,-8l-8,8M66,51l8,8m0,-8l-8,8M66,51l8,8m0,-8l-8,8M66,50l8,8m0,-8l-8,8M66,50l8,8m0,-8l-8,8M66,50l8,8m0,-8l-8,8M66,50l8,8m0,-8l-8,8M66,50l8,8m0,-8l-8,8M66,50l8,8m0,-8l-8,8M66,49l8,8m0,-8l-8,8M66,49l8,8m0,-8l-8,8M66,49l8,8m0,-8l-8,8M66,49l8,8m0,-8l-8,8M66,49l8,8m0,-8l-8,8M66,48l8,8m0,-8l-8,8M66,48l8,8m0,-8l-8,8M66,48l8,8m0,-8l-8,8M66,48l8,8m0,-8l-8,8M66,48l8,8m0,-8l-8,8M66,48l8,8m0,-8l-8,8M66,48l8,8m0,-8l-8,8M66,47l8,8m0,-8l-8,8M66,47l8,8m0,-8l-8,8M66,48l8,8m0,-8l-8,8M66,47l8,8m0,-8l-8,8M66,47l8,8m0,-8l-8,8M66,47l8,8m0,-8l-8,8M66,47l8,8m0,-8l-8,8M66,47l8,8m0,-8l-8,8M66,46l8,8m0,-8l-8,8M66,46l8,8m0,-8l-8,8M66,46l8,8m0,-8l-8,8M66,46l8,8m0,-8l-8,8M66,46l8,8m0,-8l-8,8M66,46l8,8m0,-8l-8,8M66,46l8,8m0,-8l-8,8M66,45l8,8m0,-8l-8,8M66,45l8,8m0,-8l-8,8M66,45l8,8m0,-8l-8,8M66,45l8,8m0,-8l-8,8M66,45l8,8m0,-8l-8,8M66,45l8,8m0,-8l-8,8M66,45l8,8m0,-8l-8,8M66,45l8,8m0,-8l-8,8M66,45l8,8m0,-8l-8,8M66,44l8,8m0,-8l-8,8M66,44l8,8m0,-8l-8,8M66,44l8,8m0,-8l-8,8M66,44l8,8m0,-8l-8,8M66,44l8,8m0,-8l-8,8M66,44l8,8m0,-8l-8,8M66,44l8,8m0,-8l-8,8M66,43l8,8m0,-8l-8,8M66,43l8,8m0,-8l-8,8M66,43l8,8m0,-8l-8,8M66,43l8,8m0,-8l-8,8M66,43l8,8m0,-8l-8,8M66,43l8,8m0,-8l-8,8M66,42l8,8m0,-8l-8,8M66,42l8,8m0,-8l-8,8M66,42l8,8m0,-8l-8,8M66,42l8,8m0,-8l-8,8M66,42l8,8m0,-8l-8,8M66,42l8,8m0,-8l-8,8M66,42l8,8m0,-8l-8,8M66,42l8,8m0,-8l-8,8M66,42l8,8m0,-8l-8,8M66,42l8,8m0,-8l-8,8M66,42l8,8m0,-8l-8,8M66,42l8,8m0,-8l-8,8M66,42l8,8m0,-8l-8,8M66,41l8,8m0,-8l-8,8M66,41l8,8m0,-8l-8,8M66,41l8,8m0,-8l-8,8M66,41l8,8m0,-8l-8,8M66,41l8,8m0,-8l-8,8M66,41l8,8m0,-8l-8,8M66,41l8,8m0,-8l-8,8M66,41l8,8m0,-8l-8,8M66,40l8,8m0,-8l-8,8M66,41l8,8m0,-8l-8,8M66,40l8,8m0,-8l-8,8M66,40l8,8m0,-8l-8,8M66,40l8,8m0,-8l-8,8M66,40l8,8m0,-8l-8,8M66,40l8,8m0,-8l-8,8M66,40l8,8m0,-8l-8,8M66,40l8,8m0,-8l-8,8M66,40l8,8m0,-8l-8,8M66,40l8,8m0,-8l-8,8M66,40l8,8m0,-8l-8,8M66,40l8,8m0,-8l-8,8M66,40l8,8m0,-8l-8,8M66,40l8,8m0,-8l-8,8M66,40l8,8m0,-8l-8,8M66,40l8,8m0,-8l-8,8M66,39l8,8m0,-8l-8,8M66,39l8,8m0,-8l-8,8M66,39l8,8m0,-8l-8,8M66,39l8,8m0,-8l-8,8M66,39l8,8m0,-8l-8,8M66,39l8,8m0,-8l-8,8M66,39l8,8m0,-8l-8,8M66,39l8,8m0,-8l-8,8M66,39l8,8m0,-8l-8,8M66,38l8,8m0,-8l-8,8M66,38l8,8m0,-8l-8,8M66,38l8,8m0,-8l-8,8M66,38l8,8m0,-8l-8,8M66,38l8,8m0,-8l-8,8M66,37l8,8m0,-8l-8,8M66,38l8,8m0,-8l-8,8M66,38l8,8m0,-8l-8,8M66,37l8,8m0,-8l-8,8M66,37l8,8m0,-8l-8,8M66,37l8,8m0,-8l-8,8M66,37l8,8m0,-8l-8,8M66,37l8,8m0,-8l-8,8M66,37l8,8m0,-8l-8,8M66,36l8,8m0,-8l-8,8M66,36l8,8m0,-8l-8,8M66,36l8,8m0,-8l-8,8M66,36l8,8m0,-8l-8,8M66,36l8,8m0,-8l-8,8M66,36l8,8m0,-8l-8,8M66,36l8,8m0,-8l-8,8M66,36l8,8m0,-8l-8,8M66,35l8,8m0,-8l-8,8M66,36l8,8m0,-8l-8,8M66,35l8,8m0,-8l-8,8M66,35l8,8m0,-8l-8,8M66,35l8,8m0,-8l-8,8M66,35l8,8m0,-8l-8,8M66,35l8,8m0,-8l-8,8M66,35l8,8m0,-8l-8,8M66,35l8,8m0,-8l-8,8M66,35l8,8m0,-8l-8,8M66,35l8,8m0,-8l-8,8M66,35l8,8m0,-8l-8,8M66,35l8,8m0,-8l-8,8M66,34l8,8m0,-8l-8,8M66,34l8,8m0,-8l-8,8M66,34l8,8m0,-8l-8,8M66,34l8,8m0,-8l-8,8M66,34l8,8m0,-8l-8,8M66,34l8,8m0,-8l-8,8M66,34l8,8m0,-8l-8,8M66,34l8,8m0,-8l-8,8M66,34l8,8m0,-8l-8,8M66,34l8,8m0,-8l-8,8M66,34l8,8m0,-8l-8,8M66,34l8,8m0,-8l-8,8M66,33l8,8m0,-8l-8,8M66,33l8,8m0,-8l-8,8M66,32l8,8m0,-8l-8,8M66,32l8,8m0,-8l-8,8M66,32l8,8m0,-8l-8,8M66,31l8,8m0,-8l-8,8M66,31l8,8m0,-8l-8,8M66,31l8,8m0,-8l-8,8M66,31l8,8m0,-8l-8,8M66,31l8,8m0,-8l-8,8M66,30l8,8m0,-8l-8,8M66,30l8,8m0,-8l-8,8M66,30l8,8m0,-8l-8,8M66,30l8,8m0,-8l-8,8M66,30l8,8m0,-8l-8,8M66,29l8,8m0,-8l-8,8M66,29l8,8m0,-8l-8,8M66,29l8,8m0,-8l-8,8M66,28l8,8m0,-8l-8,8M66,28l8,8m0,-8l-8,8M66,28l8,8m0,-8l-8,8M66,28l8,8m0,-8l-8,8M66,27l8,8m0,-8l-8,8M66,27l8,8m0,-8l-8,8M66,26l8,8m0,-8l-8,8M66,26l8,8m0,-8l-8,8M66,25l8,8m0,-8l-8,8M66,25l8,8m0,-8l-8,8M66,24l8,8m0,-8l-8,8M66,25l8,8m0,-8l-8,8M66,24l8,8m0,-8l-8,8M66,24l8,8m0,-8l-8,8M66,24l8,8m0,-8l-8,8M66,24l8,8m0,-8l-8,8M66,23l8,8m0,-8l-8,8M66,22l8,8m0,-8l-8,8M66,15l8,8m0,-8l-8,8M74,73l8,8m0,-8l-8,8M74,70l8,8m0,-8l-8,8M74,70l8,8m0,-8l-8,8M74,69l8,8m0,-8l-8,8M74,68l8,8m0,-8l-8,8M74,67l8,8m0,-8l-8,8M74,67l8,8m0,-8l-8,8M74,66l8,8m0,-8l-8,8M74,66l8,8m0,-8l-8,8M74,66l8,8m0,-8l-8,8M74,65l8,8m0,-8l-8,8M74,65l8,8m0,-8l-8,8M74,65l8,8m0,-8l-8,8M74,65l8,8m0,-8l-8,8M74,65l8,8m0,-8l-8,8M74,63l8,8m0,-8l-8,8M74,63l8,8m0,-8l-8,8M74,62l8,8m0,-8l-8,8M74,62l8,8m0,-8l-8,8M74,62l8,8m0,-8l-8,8M74,62l8,8m0,-8l-8,8M74,62l8,8m0,-8l-8,8M74,62l8,8m0,-8l-8,8M74,62l8,8m0,-8l-8,8M74,60l8,8m0,-8l-8,8M74,61l8,8m0,-8l-8,8M74,61l8,8m0,-8l-8,8M74,60l8,8m0,-8l-8,8M74,60l8,8m0,-8l-8,8M74,60l8,8m0,-8l-8,8M74,60l8,8m0,-8l-8,8M74,60l8,8m0,-8l-8,8M74,60l8,8m0,-8l-8,8M74,59l8,8m0,-8l-8,8M74,59l8,8m0,-8l-8,8M74,59l8,8m0,-8l-8,8M74,59l8,8m0,-8l-8,8M74,59l8,8m0,-8l-8,8M74,59l8,8m0,-8l-8,8M74,59l8,8m0,-8l-8,8M74,59l8,8m0,-8l-8,8M74,59l8,8m0,-8l-8,8M74,59l8,8m0,-8l-8,8M74,59l8,8m0,-8l-8,8M74,58l8,8m0,-8l-8,8M74,58l8,8m0,-8l-8,8M74,58l8,8m0,-8l-8,8M74,58l8,8m0,-8l-8,8M74,58l8,8m0,-8l-8,8M74,58l8,8m0,-8l-8,8M74,58l8,8m0,-8l-8,8M74,57l8,8m0,-8l-8,8M74,57l8,8m0,-8l-8,8M74,57l8,8m0,-8l-8,8M74,57l8,8m0,-8l-8,8M74,57l8,8m0,-8l-8,8M74,57l8,8m0,-8l-8,8M74,57l8,8m0,-8l-8,8M74,57l8,8m0,-8l-8,8M74,57l8,8m0,-8l-8,8M74,56l8,8m0,-8l-8,8M74,56l8,8m0,-8l-8,8M74,57l8,8m0,-8l-8,8M74,56l8,8m0,-8l-8,8M74,57l8,8m0,-8l-8,8M74,56l8,8m0,-8l-8,8M74,56l8,8m0,-8l-8,8M74,56l8,8m0,-8l-8,8M74,56l8,8m0,-8l-8,8M74,56l8,8m0,-8l-8,8M74,56l8,8m0,-8l-8,8M74,56l8,8m0,-8l-8,8M74,55l8,8m0,-8l-8,8M74,56l8,8m0,-8l-8,8M74,56l8,8m0,-8l-8,8M74,55l8,8m0,-8l-8,8M74,55l8,8m0,-8l-8,8M74,55l8,8m0,-8l-8,8M74,55l8,8m0,-8l-8,8M74,55l8,8m0,-8l-8,8M74,54l8,8m0,-8l-8,8M74,55l8,8m0,-8l-8,8M74,54l8,8m0,-8l-8,8M74,55l8,8m0,-8l-8,8M74,55l8,8m0,-8l-8,8M74,55l8,8m0,-8l-8,8M74,54l8,8m0,-8l-8,8M74,54l8,8m0,-8l-8,8M74,54l8,8m0,-8l-8,8M74,54l8,8m0,-8l-8,8M74,54l8,8m0,-8l-8,8M74,54l8,8m0,-8l-8,8M74,54l8,8m0,-8l-8,8M74,54l8,8m0,-8l-8,8M74,53l8,8m0,-8l-8,8M74,53l8,8m0,-8l-8,8M74,53l8,8m0,-8l-8,8M74,53l8,8m0,-8l-8,8M74,53l8,8m0,-8l-8,8M74,53l8,8m0,-8l-8,8M74,53l8,8m0,-8l-8,8M74,53l8,8m0,-8l-8,8M74,52l8,8m0,-8l-8,8M74,52l8,8m0,-8l-8,8M74,52l8,8m0,-8l-8,8M74,52l8,8m0,-8l-8,8M74,52l8,8m0,-8l-8,8M74,51l8,8m0,-8l-8,8M74,52l8,8m0,-8l-8,8M74,51l8,8m0,-8l-8,8M74,51l8,8m0,-8l-8,8M74,51l8,8m0,-8l-8,8M74,51l8,8m0,-8l-8,8M74,51l8,8m0,-8l-8,8M74,51l8,8m0,-8l-8,8M74,51l8,8m0,-8l-8,8M74,50l8,8m0,-8l-8,8M74,50l8,8m0,-8l-8,8M74,50l8,8m0,-8l-8,8M74,50l8,8m0,-8l-8,8M74,50l8,8m0,-8l-8,8M74,50l8,8m0,-8l-8,8M74,50l8,8m0,-8l-8,8M74,50l8,8m0,-8l-8,8M74,50l8,8m0,-8l-8,8M74,49l8,8m0,-8l-8,8M74,50l8,8m0,-8l-8,8M74,49l8,8m0,-8l-8,8M74,49l8,8m0,-8l-8,8M74,49l8,8m0,-8l-8,8M74,49l8,8m0,-8l-8,8M74,48l8,8m0,-8l-8,8M74,48l8,8m0,-8l-8,8M74,48l8,8m0,-8l-8,8M74,48l8,8m0,-8l-8,8M74,48l8,8m0,-8l-8,8M74,48l8,8m0,-8l-8,8M74,48l8,8m0,-8l-8,8M74,48l8,8m0,-8l-8,8M74,47l8,8m0,-8l-8,8M74,47l8,8m0,-8l-8,8M74,47l8,8m0,-8l-8,8M74,47l8,8m0,-8l-8,8M74,47l8,8m0,-8l-8,8M74,47l8,8m0,-8l-8,8M74,47l8,8m0,-8l-8,8M74,47l8,8m0,-8l-8,8M74,47l8,8m0,-8l-8,8M74,46l8,8m0,-8l-8,8M74,46l8,8m0,-8l-8,8M74,47l8,8m0,-8l-8,8M74,46l8,8m0,-8l-8,8M74,46l8,8m0,-8l-8,8M74,46l8,8m0,-8l-8,8M74,46l8,8m0,-8l-8,8M74,46l8,8m0,-8l-8,8M74,46l8,8m0,-8l-8,8M74,46l8,8m0,-8l-8,8M74,46l8,8m0,-8l-8,8M74,45l8,8m0,-8l-8,8M74,45l8,8m0,-8l-8,8M74,45l8,8m0,-8l-8,8M74,45l8,8m0,-8l-8,8M74,44l8,8m0,-8l-8,8M74,45l8,8m0,-8l-8,8M74,44l8,8m0,-8l-8,8M74,44l8,8m0,-8l-8,8M74,44l8,8m0,-8l-8,8M74,44l8,8m0,-8l-8,8M74,44l8,8m0,-8l-8,8M74,44l8,8m0,-8l-8,8M74,43l8,8m0,-8l-8,8M74,43l8,8m0,-8l-8,8M74,43l8,8m0,-8l-8,8M74,43l8,8m0,-8l-8,8M74,43l8,8m0,-8l-8,8M74,42l8,8m0,-8l-8,8M74,42l8,8m0,-8l-8,8M74,41l8,8m0,-8l-8,8M74,41l8,8m0,-8l-8,8M74,41l8,8m0,-8l-8,8M74,41l8,8m0,-8l-8,8M74,41l8,8m0,-8l-8,8M74,41l8,8m0,-8l-8,8M74,41l8,8m0,-8l-8,8M74,41l8,8m0,-8l-8,8M74,41l8,8m0,-8l-8,8M74,41l8,8m0,-8l-8,8M74,40l8,8m0,-8l-8,8M74,40l8,8m0,-8l-8,8M74,39l8,8m0,-8l-8,8M74,38l8,8m0,-8l-8,8M74,38l8,8m0,-8l-8,8M74,38l8,8m0,-8l-8,8M74,37l8,8m0,-8l-8,8M74,35l8,8m0,-8l-8,8M74,34l8,8m0,-8l-8,8M74,33l8,8m0,-8l-8,8M74,33l8,8m0,-8l-8,8M74,32l8,8m0,-8l-8,8M82,81l8,8m0,-8l-8,8M82,81l8,8m0,-8l-8,8M82,80l8,8m0,-8l-8,8M82,80l8,8m0,-8l-8,8M82,79l8,8m0,-8l-8,8M82,78l8,8m0,-8l-8,8M82,77l8,8m0,-8l-8,8M82,77l8,8m0,-8l-8,8M82,76l8,8m0,-8l-8,8M82,76l8,8m0,-8l-8,8M82,75l8,8m0,-8l-8,8M82,75l8,8m0,-8l-8,8M82,75l8,8m0,-8l-8,8M82,75l8,8m0,-8l-8,8M82,74l8,8m0,-8l-8,8M82,73l8,8m0,-8l-8,8M82,73l8,8m0,-8l-8,8M82,73l8,8m0,-8l-8,8M82,73l8,8m0,-8l-8,8M82,73l8,8m0,-8l-8,8M82,72l8,8m0,-8l-8,8M82,72l8,8m0,-8l-8,8M82,73l8,8m0,-8l-8,8M82,73l8,8m0,-8l-8,8M82,72l8,8m0,-8l-8,8M82,72l8,8m0,-8l-8,8M82,72l8,8m0,-8l-8,8M82,72l8,8m0,-8l-8,8M82,72l8,8m0,-8l-8,8M82,72l8,8m0,-8l-8,8M82,72l8,8m0,-8l-8,8M82,71l8,8m0,-8l-8,8M82,71l8,8m0,-8l-8,8M82,71l8,8m0,-8l-8,8M82,71l8,8m0,-8l-8,8M82,70l8,8m0,-8l-8,8M82,71l8,8m0,-8l-8,8M82,70l8,8m0,-8l-8,8M82,70l8,8m0,-8l-8,8M82,70l8,8m0,-8l-8,8M82,70l8,8m0,-8l-8,8M82,70l8,8m0,-8l-8,8M82,70l8,8m0,-8l-8,8M82,70l8,8m0,-8l-8,8M82,70l8,8m0,-8l-8,8M82,69l8,8m0,-8l-8,8M82,69l8,8m0,-8l-8,8M82,69l8,8m0,-8l-8,8M82,69l8,8m0,-8l-8,8M82,69l8,8m0,-8l-8,8M82,69l8,8m0,-8l-8,8M82,69l8,8m0,-8l-8,8M82,68l8,8m0,-8l-8,8M82,68l8,8m0,-8l-8,8M82,68l8,8m0,-8l-8,8M82,68l8,8m0,-8l-8,8M82,68l8,8m0,-8l-8,8M82,68l8,8m0,-8l-8,8M82,68l8,8m0,-8l-8,8M82,68l8,8m0,-8l-8,8M82,68l8,8m0,-8l-8,8M82,68l8,8m0,-8l-8,8M82,68l8,8m0,-8l-8,8M82,67l8,8m0,-8l-8,8M82,67l8,8m0,-8l-8,8M82,68l8,8m0,-8l-8,8M82,67l8,8m0,-8l-8,8M82,67l8,8m0,-8l-8,8M82,67l8,8m0,-8l-8,8M82,66l8,8m0,-8l-8,8M82,67l8,8m0,-8l-8,8M82,67l8,8m0,-8l-8,8M82,66l8,8m0,-8l-8,8M82,66l8,8m0,-8l-8,8M82,66l8,8m0,-8l-8,8M82,66l8,8m0,-8l-8,8M82,66l8,8m0,-8l-8,8M82,66l8,8m0,-8l-8,8M82,66l8,8m0,-8l-8,8M82,66l8,8m0,-8l-8,8M82,65l8,8m0,-8l-8,8M82,65l8,8m0,-8l-8,8M82,65l8,8m0,-8l-8,8M82,65l8,8m0,-8l-8,8M82,65l8,8m0,-8l-8,8M82,65l8,8m0,-8l-8,8M82,64l8,8m0,-8l-8,8M82,64l8,8m0,-8l-8,8M82,64l8,8m0,-8l-8,8M82,64l8,8m0,-8l-8,8M82,64l8,8m0,-8l-8,8M82,64l8,8m0,-8l-8,8M82,64l8,8m0,-8l-8,8M82,64l8,8m0,-8l-8,8M82,64l8,8m0,-8l-8,8M82,64l8,8m0,-8l-8,8M82,64l8,8m0,-8l-8,8M82,64l8,8m0,-8l-8,8M82,64l8,8m0,-8l-8,8M82,64l8,8m0,-8l-8,8M82,63l8,8m0,-8l-8,8M82,63l8,8m0,-8l-8,8M82,63l8,8m0,-8l-8,8M82,63l8,8m0,-8l-8,8M82,63l8,8m0,-8l-8,8M82,63l8,8m0,-8l-8,8M82,63l8,8m0,-8l-8,8M82,63l8,8m0,-8l-8,8M82,63l8,8m0,-8l-8,8M82,63l8,8m0,-8l-8,8M82,62l8,8m0,-8l-8,8M82,62l8,8m0,-8l-8,8M82,62l8,8m0,-8l-8,8M82,62l8,8m0,-8l-8,8M82,62l8,8m0,-8l-8,8M82,62l8,8m0,-8l-8,8M82,62l8,8m0,-8l-8,8M82,62l8,8m0,-8l-8,8M82,62l8,8m0,-8l-8,8M82,62l8,8m0,-8l-8,8M82,62l8,8m0,-8l-8,8M82,62l8,8m0,-8l-8,8M82,61l8,8m0,-8l-8,8M82,62l8,8m0,-8l-8,8M82,61l8,8m0,-8l-8,8M82,61l8,8m0,-8l-8,8M82,61l8,8m0,-8l-8,8M82,61l8,8m0,-8l-8,8M82,61l8,8m0,-8l-8,8M82,61l8,8m0,-8l-8,8M82,61l8,8m0,-8l-8,8M82,61l8,8m0,-8l-8,8M82,60l8,8m0,-8l-8,8M82,60l8,8m0,-8l-8,8M82,60l8,8m0,-8l-8,8M82,61l8,8m0,-8l-8,8M82,60l8,8m0,-8l-8,8M82,60l8,8m0,-8l-8,8M82,60l8,8m0,-8l-8,8M82,60l8,8m0,-8l-8,8M82,60l8,8m0,-8l-8,8M82,60l8,8m0,-8l-8,8M82,60l8,8m0,-8l-8,8M82,60l8,8m0,-8l-8,8M82,60l8,8m0,-8l-8,8M82,59l8,8m0,-8l-8,8M82,59l8,8m0,-8l-8,8M82,59l8,8m0,-8l-8,8M82,59l8,8m0,-8l-8,8M82,59l8,8m0,-8l-8,8M82,58l8,8m0,-8l-8,8M82,59l8,8m0,-8l-8,8M82,58l8,8m0,-8l-8,8M82,58l8,8m0,-8l-8,8M82,58l8,8m0,-8l-8,8M82,58l8,8m0,-8l-8,8M82,58l8,8m0,-8l-8,8M82,57l8,8m0,-8l-8,8M82,57l8,8m0,-8l-8,8M82,57l8,8m0,-8l-8,8M82,57l8,8m0,-8l-8,8M82,57l8,8m0,-8l-8,8M82,57l8,8m0,-8l-8,8M82,57l8,8m0,-8l-8,8M82,57l8,8m0,-8l-8,8M82,56l8,8m0,-8l-8,8M82,56l8,8m0,-8l-8,8M82,56l8,8m0,-8l-8,8M82,56l8,8m0,-8l-8,8M82,55l8,8m0,-8l-8,8M82,55l8,8m0,-8l-8,8M82,56l8,8m0,-8l-8,8M82,56l8,8m0,-8l-8,8M82,55l8,8m0,-8l-8,8M82,55l8,8m0,-8l-8,8M82,55l8,8m0,-8l-8,8M82,54l8,8m0,-8l-8,8M82,54l8,8m0,-8l-8,8M82,54l8,8m0,-8l-8,8M82,54l8,8m0,-8l-8,8M82,54l8,8m0,-8l-8,8M82,54l8,8m0,-8l-8,8M82,53l8,8m0,-8l-8,8M82,53l8,8m0,-8l-8,8M82,52l8,8m0,-8l-8,8M82,52l8,8m0,-8l-8,8M82,52l8,8m0,-8l-8,8M82,52l8,8m0,-8l-8,8M82,51l8,8m0,-8l-8,8M82,51l8,8m0,-8l-8,8M82,51l8,8m0,-8l-8,8M82,50l8,8m0,-8l-8,8M82,50l8,8m0,-8l-8,8M82,50l8,8m0,-8l-8,8M82,49l8,8m0,-8l-8,8M82,48l8,8m0,-8l-8,8M82,47l8,8m0,-8l-8,8M82,46l8,8m0,-8l-8,8M82,45l8,8m0,-8l-8,8M82,45l8,8m0,-8l-8,8M90,92l8,8m0,-8l-8,8M90,91l8,8m0,-8l-8,8M90,91l8,8m0,-8l-8,8M90,90l8,8m0,-8l-8,8M90,88l8,8m0,-8l-8,8M90,88l8,8m0,-8l-8,8M90,87l8,8m0,-8l-8,8M90,87l8,8m0,-8l-8,8M90,87l8,8m0,-8l-8,8M90,87l8,8m0,-8l-8,8M90,86l8,8m0,-8l-8,8M90,86l8,8m0,-8l-8,8M90,86l8,8m0,-8l-8,8M90,85l8,8m0,-8l-8,8M90,85l8,8m0,-8l-8,8M90,85l8,8m0,-8l-8,8M90,85l8,8m0,-8l-8,8M90,85l8,8m0,-8l-8,8M90,84l8,8m0,-8l-8,8M90,84l8,8m0,-8l-8,8M90,84l8,8m0,-8l-8,8M90,84l8,8m0,-8l-8,8M90,84l8,8m0,-8l-8,8M90,83l8,8m0,-8l-8,8M90,83l8,8m0,-8l-8,8M90,83l8,8m0,-8l-8,8M90,82l8,8m0,-8l-8,8M90,82l8,8m0,-8l-8,8M90,82l8,8m0,-8l-8,8M90,82l8,8m0,-8l-8,8M90,82l8,8m0,-8l-8,8M90,82l8,8m0,-8l-8,8M90,81l8,8m0,-8l-8,8M90,81l8,8m0,-8l-8,8M90,81l8,8m0,-8l-8,8M90,81l8,8m0,-8l-8,8M90,80l8,8m0,-8l-8,8M90,80l8,8m0,-8l-8,8M90,80l8,8m0,-8l-8,8M90,80l8,8m0,-8l-8,8M90,79l8,8m0,-8l-8,8M90,79l8,8m0,-8l-8,8M90,79l8,8m0,-8l-8,8M90,79l8,8m0,-8l-8,8M90,79l8,8m0,-8l-8,8M90,79l8,8m0,-8l-8,8M90,79l8,8m0,-8l-8,8M90,79l8,8m0,-8l-8,8M90,79l8,8m0,-8l-8,8M90,79l8,8m0,-8l-8,8M90,79l8,8m0,-8l-8,8M90,79l8,8m0,-8l-8,8M90,79l8,8m0,-8l-8,8M90,78l8,8m0,-8l-8,8M90,78l8,8m0,-8l-8,8M90,78l8,8m0,-8l-8,8M90,78l8,8m0,-8l-8,8M90,78l8,8m0,-8l-8,8M90,78l8,8m0,-8l-8,8M90,78l8,8m0,-8l-8,8M90,78l8,8m0,-8l-8,8M90,78l8,8m0,-8l-8,8M90,78l8,8m0,-8l-8,8M90,77l8,8m0,-8l-8,8M90,77l8,8m0,-8l-8,8M90,77l8,8m0,-8l-8,8M90,77l8,8m0,-8l-8,8M90,77l8,8m0,-8l-8,8M90,77l8,8m0,-8l-8,8M90,77l8,8m0,-8l-8,8M90,77l8,8m0,-8l-8,8M90,77l8,8m0,-8l-8,8M90,77l8,8m0,-8l-8,8M90,76l8,8m0,-8l-8,8M90,76l8,8m0,-8l-8,8M90,76l8,8m0,-8l-8,8M90,76l8,8m0,-8l-8,8M90,76l8,8m0,-8l-8,8M90,76l8,8m0,-8l-8,8M90,76l8,8m0,-8l-8,8M90,76l8,8m0,-8l-8,8M90,76l8,8m0,-8l-8,8M90,75l8,8m0,-8l-8,8M90,75l8,8m0,-8l-8,8M90,75l8,8m0,-8l-8,8M90,75l8,8m0,-8l-8,8M90,75l8,8m0,-8l-8,8M90,75l8,8m0,-8l-8,8M90,75l8,8m0,-8l-8,8M90,75l8,8m0,-8l-8,8M90,75l8,8m0,-8l-8,8M90,75l8,8m0,-8l-8,8M90,75l8,8m0,-8l-8,8M90,75l8,8m0,-8l-8,8M90,74l8,8m0,-8l-8,8M90,75l8,8m0,-8l-8,8M90,75l8,8m0,-8l-8,8M90,74l8,8m0,-8l-8,8M90,74l8,8m0,-8l-8,8M90,74l8,8m0,-8l-8,8M90,74l8,8m0,-8l-8,8M90,74l8,8m0,-8l-8,8M90,74l8,8m0,-8l-8,8M90,74l8,8m0,-8l-8,8M90,74l8,8m0,-8l-8,8M90,73l8,8m0,-8l-8,8M90,73l8,8m0,-8l-8,8M90,73l8,8m0,-8l-8,8M90,73l8,8m0,-8l-8,8M90,73l8,8m0,-8l-8,8M90,73l8,8m0,-8l-8,8M90,73l8,8m0,-8l-8,8M90,73l8,8m0,-8l-8,8M90,73l8,8m0,-8l-8,8M90,72l8,8m0,-8l-8,8M90,72l8,8m0,-8l-8,8M90,72l8,8m0,-8l-8,8M90,72l8,8m0,-8l-8,8M90,72l8,8m0,-8l-8,8M90,72l8,8m0,-8l-8,8M90,71l8,8m0,-8l-8,8M90,71l8,8m0,-8l-8,8M90,71l8,8m0,-8l-8,8M90,71l8,8m0,-8l-8,8M90,71l8,8m0,-8l-8,8M90,71l8,8m0,-8l-8,8M90,71l8,8m0,-8l-8,8M90,71l8,8m0,-8l-8,8M90,71l8,8m0,-8l-8,8M90,71l8,8m0,-8l-8,8M90,71l8,8m0,-8l-8,8M90,71l8,8m0,-8l-8,8M90,71l8,8m0,-8l-8,8M90,71l8,8m0,-8l-8,8M90,71l8,8m0,-8l-8,8M90,71l8,8m0,-8l-8,8M90,70l8,8m0,-8l-8,8M90,70l8,8m0,-8l-8,8M90,70l8,8m0,-8l-8,8M90,70l8,8m0,-8l-8,8M90,70l8,8m0,-8l-8,8M90,70l8,8m0,-8l-8,8M90,70l8,8m0,-8l-8,8M90,70l8,8m0,-8l-8,8M90,70l8,8m0,-8l-8,8M90,69l8,8m0,-8l-8,8M90,69l8,8m0,-8l-8,8M90,69l8,8m0,-8l-8,8M90,69l8,8m0,-8l-8,8M90,69l8,8m0,-8l-8,8M90,69l8,8m0,-8l-8,8M90,69l8,8m0,-8l-8,8M90,69l8,8m0,-8l-8,8M90,69l8,8m0,-8l-8,8M90,69l8,8m0,-8l-8,8M90,68l8,8m0,-8l-8,8M90,69l8,8m0,-8l-8,8M90,69l8,8m0,-8l-8,8M90,68l8,8m0,-8l-8,8M90,68l8,8m0,-8l-8,8M90,68l8,8m0,-8l-8,8M90,68l8,8m0,-8l-8,8M90,68l8,8m0,-8l-8,8M90,68l8,8m0,-8l-8,8M90,68l8,8m0,-8l-8,8M90,68l8,8m0,-8l-8,8M90,68l8,8m0,-8l-8,8M90,68l8,8m0,-8l-8,8M90,67l8,8m0,-8l-8,8M90,67l8,8m0,-8l-8,8M90,66l8,8m0,-8l-8,8M90,66l8,8m0,-8l-8,8M90,66l8,8m0,-8l-8,8M90,66l8,8m0,-8l-8,8M90,66l8,8m0,-8l-8,8M90,65l8,8m0,-8l-8,8M90,65l8,8m0,-8l-8,8M90,65l8,8m0,-8l-8,8M90,65l8,8m0,-8l-8,8M90,65l8,8m0,-8l-8,8M90,64l8,8m0,-8l-8,8M90,64l8,8m0,-8l-8,8M90,64l8,8m0,-8l-8,8M90,63l8,8m0,-8l-8,8M90,63l8,8m0,-8l-8,8M90,62l8,8m0,-8l-8,8M90,62l8,8m0,-8l-8,8M90,61l8,8m0,-8l-8,8M90,61l8,8m0,-8l-8,8M90,60l8,8m0,-8l-8,8M90,60l8,8m0,-8l-8,8M90,60l8,8m0,-8l-8,8M90,60l8,8m0,-8l-8,8M90,59l8,8m0,-8l-8,8M90,59l8,8m0,-8l-8,8M90,58l8,8m0,-8l-8,8M90,58l8,8m0,-8l-8,8M90,57l8,8m0,-8l-8,8M90,57l8,8m0,-8l-8,8M90,56l8,8m0,-8l-8,8M98,96l8,8m0,-8l-8,8M98,96l8,8m0,-8l-8,8M98,94l8,8m0,-8l-8,8M98,94l8,8m0,-8l-8,8M98,94l8,8m0,-8l-8,8M98,93l8,8m0,-8l-8,8M98,93l8,8m0,-8l-8,8M98,93l8,8m0,-8l-8,8M98,92l8,8m0,-8l-8,8M98,92l8,8m0,-8l-8,8M98,92l8,8m0,-8l-8,8M98,92l8,8m0,-8l-8,8M98,91l8,8m0,-8l-8,8M98,91l8,8m0,-8l-8,8M98,92l8,8m0,-8l-8,8M98,91l8,8m0,-8l-8,8M98,91l8,8m0,-8l-8,8M98,91l8,8m0,-8l-8,8M98,91l8,8m0,-8l-8,8M98,91l8,8m0,-8l-8,8M98,91l8,8m0,-8l-8,8M98,91l8,8m0,-8l-8,8M98,90l8,8m0,-8l-8,8M98,90l8,8m0,-8l-8,8M98,89l8,8m0,-8l-8,8M98,89l8,8m0,-8l-8,8M98,89l8,8m0,-8l-8,8M98,89l8,8m0,-8l-8,8M98,88l8,8m0,-8l-8,8M98,87l8,8m0,-8l-8,8M98,87l8,8m0,-8l-8,8M98,87l8,8m0,-8l-8,8M98,87l8,8m0,-8l-8,8M98,87l8,8m0,-8l-8,8M98,87l8,8m0,-8l-8,8M98,87l8,8m0,-8l-8,8M98,87l8,8m0,-8l-8,8M98,87l8,8m0,-8l-8,8M98,86l8,8m0,-8l-8,8M98,86l8,8m0,-8l-8,8M98,86l8,8m0,-8l-8,8M98,86l8,8m0,-8l-8,8M98,86l8,8m0,-8l-8,8M98,85l8,8m0,-8l-8,8M98,85l8,8m0,-8l-8,8M98,85l8,8m0,-8l-8,8M98,85l8,8m0,-8l-8,8M98,85l8,8m0,-8l-8,8M98,85l8,8m0,-8l-8,8M98,85l8,8m0,-8l-8,8M98,85l8,8m0,-8l-8,8M98,85l8,8m0,-8l-8,8M98,85l8,8m0,-8l-8,8M98,85l8,8m0,-8l-8,8M98,85l8,8m0,-8l-8,8M98,85l8,8m0,-8l-8,8M98,85l8,8m0,-8l-8,8M98,84l8,8m0,-8l-8,8M98,84l8,8m0,-8l-8,8M98,84l8,8m0,-8l-8,8M98,84l8,8m0,-8l-8,8M98,84l8,8m0,-8l-8,8M98,84l8,8m0,-8l-8,8M98,83l8,8m0,-8l-8,8M98,83l8,8m0,-8l-8,8M98,83l8,8m0,-8l-8,8M98,83l8,8m0,-8l-8,8M98,83l8,8m0,-8l-8,8M98,83l8,8m0,-8l-8,8M98,83l8,8m0,-8l-8,8M98,83l8,8m0,-8l-8,8M98,83l8,8m0,-8l-8,8M98,83l8,8m0,-8l-8,8M98,82l8,8m0,-8l-8,8M98,82l8,8m0,-8l-8,8M98,82l8,8m0,-8l-8,8M98,82l8,8m0,-8l-8,8M98,82l8,8m0,-8l-8,8M98,82l8,8m0,-8l-8,8M98,82l8,8m0,-8l-8,8M98,82l8,8m0,-8l-8,8M98,82l8,8m0,-8l-8,8M98,82l8,8m0,-8l-8,8M98,82l8,8m0,-8l-8,8M98,81l8,8m0,-8l-8,8M98,81l8,8m0,-8l-8,8M98,81l8,8m0,-8l-8,8M98,81l8,8m0,-8l-8,8M98,81l8,8m0,-8l-8,8M98,81l8,8m0,-8l-8,8M98,81l8,8m0,-8l-8,8M98,81l8,8m0,-8l-8,8M98,81l8,8m0,-8l-8,8M98,80l8,8m0,-8l-8,8M98,80l8,8m0,-8l-8,8M98,80l8,8m0,-8l-8,8M98,80l8,8m0,-8l-8,8M98,80l8,8m0,-8l-8,8M98,80l8,8m0,-8l-8,8M98,80l8,8m0,-8l-8,8M98,80l8,8m0,-8l-8,8M98,80l8,8m0,-8l-8,8M98,80l8,8m0,-8l-8,8M98,80l8,8m0,-8l-8,8M98,80l8,8m0,-8l-8,8M98,80l8,8m0,-8l-8,8M98,80l8,8m0,-8l-8,8M98,80l8,8m0,-8l-8,8M98,79l8,8m0,-8l-8,8M98,79l8,8m0,-8l-8,8M98,79l8,8m0,-8l-8,8M98,79l8,8m0,-8l-8,8M98,79l8,8m0,-8l-8,8M98,78l8,8m0,-8l-8,8M98,78l8,8m0,-8l-8,8M98,79l8,8m0,-8l-8,8M98,78l8,8m0,-8l-8,8M98,78l8,8m0,-8l-8,8M98,78l8,8m0,-8l-8,8M98,78l8,8m0,-8l-8,8M98,78l8,8m0,-8l-8,8M98,78l8,8m0,-8l-8,8M98,77l8,8m0,-8l-8,8M98,78l8,8m0,-8l-8,8M98,78l8,8m0,-8l-8,8M98,77l8,8m0,-8l-8,8M98,77l8,8m0,-8l-8,8M98,77l8,8m0,-8l-8,8M98,77l8,8m0,-8l-8,8M98,77l8,8m0,-8l-8,8M98,77l8,8m0,-8l-8,8M98,76l8,8m0,-8l-8,8M98,76l8,8m0,-8l-8,8M98,76l8,8m0,-8l-8,8M98,76l8,8m0,-8l-8,8M98,76l8,8m0,-8l-8,8M98,76l8,8m0,-8l-8,8M98,76l8,8m0,-8l-8,8M98,76l8,8m0,-8l-8,8M98,76l8,8m0,-8l-8,8M98,76l8,8m0,-8l-8,8M98,75l8,8m0,-8l-8,8M98,75l8,8m0,-8l-8,8M98,75l8,8m0,-8l-8,8M98,75l8,8m0,-8l-8,8M98,75l8,8m0,-8l-8,8M98,75l8,8m0,-8l-8,8M98,75l8,8m0,-8l-8,8M98,75l8,8m0,-8l-8,8M98,75l8,8m0,-8l-8,8M98,75l8,8m0,-8l-8,8M98,75l8,8m0,-8l-8,8M98,75l8,8m0,-8l-8,8M98,75l8,8m0,-8l-8,8M98,75l8,8m0,-8l-8,8M98,75l8,8m0,-8l-8,8M98,75l8,8m0,-8l-8,8M98,75l8,8m0,-8l-8,8M98,74l8,8m0,-8l-8,8M98,74l8,8m0,-8l-8,8M98,74l8,8m0,-8l-8,8M98,74l8,8m0,-8l-8,8M98,74l8,8m0,-8l-8,8M98,74l8,8m0,-8l-8,8M98,74l8,8m0,-8l-8,8M98,74l8,8m0,-8l-8,8M98,73l8,8m0,-8l-8,8M98,73l8,8m0,-8l-8,8M98,73l8,8m0,-8l-8,8M98,73l8,8m0,-8l-8,8M98,73l8,8m0,-8l-8,8M98,72l8,8m0,-8l-8,8M98,72l8,8m0,-8l-8,8M98,72l8,8m0,-8l-8,8M98,71l8,8m0,-8l-8,8M98,72l8,8m0,-8l-8,8M98,71l8,8m0,-8l-8,8M98,71l8,8m0,-8l-8,8M98,71l8,8m0,-8l-8,8M98,71l8,8m0,-8l-8,8M98,70l8,8m0,-8l-8,8M98,70l8,8m0,-8l-8,8M98,70l8,8m0,-8l-8,8M98,70l8,8m0,-8l-8,8M98,69l8,8m0,-8l-8,8M98,69l8,8m0,-8l-8,8M98,69l8,8m0,-8l-8,8M98,69l8,8m0,-8l-8,8M98,69l8,8m0,-8l-8,8M98,69l8,8m0,-8l-8,8M98,68l8,8m0,-8l-8,8M98,68l8,8m0,-8l-8,8M98,68l8,8m0,-8l-8,8M98,67l8,8m0,-8l-8,8M98,67l8,8m0,-8l-8,8M98,67l8,8m0,-8l-8,8M98,66l8,8m0,-8l-8,8M98,66l8,8m0,-8l-8,8M98,66l8,8m0,-8l-8,8M98,65l8,8m0,-8l-8,8M106,99l8,8m0,-8l-8,8M106,98l8,8m0,-8l-8,8M106,98l8,8m0,-8l-8,8M106,97l8,8m0,-8l-8,8M106,97l8,8m0,-8l-8,8M106,97l8,8m0,-8l-8,8M106,97l8,8m0,-8l-8,8M106,96l8,8m0,-8l-8,8M106,97l8,8m0,-8l-8,8M106,96l8,8m0,-8l-8,8M106,96l8,8m0,-8l-8,8M106,95l8,8m0,-8l-8,8M106,95l8,8m0,-8l-8,8M106,95l8,8m0,-8l-8,8M106,95l8,8m0,-8l-8,8M106,94l8,8m0,-8l-8,8M106,94l8,8m0,-8l-8,8M106,94l8,8m0,-8l-8,8M106,93l8,8m0,-8l-8,8M106,93l8,8m0,-8l-8,8M106,93l8,8m0,-8l-8,8M106,93l8,8m0,-8l-8,8M106,93l8,8m0,-8l-8,8M106,93l8,8m0,-8l-8,8M106,93l8,8m0,-8l-8,8M106,93l8,8m0,-8l-8,8M106,92l8,8m0,-8l-8,8M106,92l8,8m0,-8l-8,8M106,92l8,8m0,-8l-8,8M106,92l8,8m0,-8l-8,8M106,91l8,8m0,-8l-8,8M106,91l8,8m0,-8l-8,8M106,91l8,8m0,-8l-8,8M106,91l8,8m0,-8l-8,8M106,91l8,8m0,-8l-8,8M106,91l8,8m0,-8l-8,8M106,91l8,8m0,-8l-8,8M106,90l8,8m0,-8l-8,8M106,91l8,8m0,-8l-8,8M106,90l8,8m0,-8l-8,8M106,90l8,8m0,-8l-8,8M106,89l8,8m0,-8l-8,8M106,90l8,8m0,-8l-8,8M106,90l8,8m0,-8l-8,8M106,89l8,8m0,-8l-8,8M106,89l8,8m0,-8l-8,8M106,89l8,8m0,-8l-8,8M106,88l8,8m0,-8l-8,8M106,88l8,8m0,-8l-8,8M106,89l8,8m0,-8l-8,8M106,88l8,8m0,-8l-8,8M106,88l8,8m0,-8l-8,8M106,88l8,8m0,-8l-8,8M106,88l8,8m0,-8l-8,8M106,88l8,8m0,-8l-8,8M106,88l8,8m0,-8l-8,8M106,88l8,8m0,-8l-8,8M106,87l8,8m0,-8l-8,8M106,88l8,8m0,-8l-8,8M106,87l8,8m0,-8l-8,8M106,87l8,8m0,-8l-8,8M106,87l8,8m0,-8l-8,8M106,87l8,8m0,-8l-8,8M106,87l8,8m0,-8l-8,8M106,87l8,8m0,-8l-8,8M106,87l8,8m0,-8l-8,8M106,87l8,8m0,-8l-8,8M106,87l8,8m0,-8l-8,8M106,87l8,8m0,-8l-8,8M106,87l8,8m0,-8l-8,8M106,87l8,8m0,-8l-8,8M106,87l8,8m0,-8l-8,8M106,87l8,8m0,-8l-8,8M106,86l8,8m0,-8l-8,8M106,86l8,8m0,-8l-8,8M106,86l8,8m0,-8l-8,8M106,86l8,8m0,-8l-8,8M106,86l8,8m0,-8l-8,8M106,86l8,8m0,-8l-8,8M106,86l8,8m0,-8l-8,8M106,86l8,8m0,-8l-8,8M106,86l8,8m0,-8l-8,8M106,86l8,8m0,-8l-8,8M106,86l8,8m0,-8l-8,8M106,85l8,8m0,-8l-8,8M106,85l8,8m0,-8l-8,8M106,86l8,8m0,-8l-8,8M106,85l8,8m0,-8l-8,8M106,85l8,8m0,-8l-8,8M106,85l8,8m0,-8l-8,8M106,85l8,8m0,-8l-8,8M106,85l8,8m0,-8l-8,8M106,85l8,8m0,-8l-8,8M106,84l8,8m0,-8l-8,8M106,84l8,8m0,-8l-8,8M106,85l8,8m0,-8l-8,8M106,84l8,8m0,-8l-8,8M106,84l8,8m0,-8l-8,8M106,84l8,8m0,-8l-8,8M106,84l8,8m0,-8l-8,8M106,84l8,8m0,-8l-8,8M106,84l8,8m0,-8l-8,8M106,83l8,8m0,-8l-8,8M106,83l8,8m0,-8l-8,8M106,83l8,8m0,-8l-8,8M106,83l8,8m0,-8l-8,8M106,84l8,8m0,-8l-8,8M106,83l8,8m0,-8l-8,8M106,83l8,8m0,-8l-8,8M106,83l8,8m0,-8l-8,8M106,83l8,8m0,-8l-8,8M106,83l8,8m0,-8l-8,8M106,83l8,8m0,-8l-8,8M106,83l8,8m0,-8l-8,8M106,83l8,8m0,-8l-8,8M106,83l8,8m0,-8l-8,8M106,82l8,8m0,-8l-8,8M106,82l8,8m0,-8l-8,8M106,83l8,8m0,-8l-8,8M106,82l8,8m0,-8l-8,8M106,82l8,8m0,-8l-8,8M106,82l8,8m0,-8l-8,8M106,82l8,8m0,-8l-8,8M106,82l8,8m0,-8l-8,8M106,82l8,8m0,-8l-8,8M106,82l8,8m0,-8l-8,8M106,82l8,8m0,-8l-8,8M106,82l8,8m0,-8l-8,8M106,82l8,8m0,-8l-8,8M106,82l8,8m0,-8l-8,8M106,82l8,8m0,-8l-8,8M106,82l8,8m0,-8l-8,8M106,82l8,8m0,-8l-8,8M106,82l8,8m0,-8l-8,8M106,82l8,8m0,-8l-8,8M106,82l8,8m0,-8l-8,8M106,82l8,8m0,-8l-8,8M106,81l8,8m0,-8l-8,8M106,81l8,8m0,-8l-8,8M106,81l8,8m0,-8l-8,8M106,81l8,8m0,-8l-8,8M106,81l8,8m0,-8l-8,8M106,81l8,8m0,-8l-8,8M106,81l8,8m0,-8l-8,8M106,81l8,8m0,-8l-8,8M106,80l8,8m0,-8l-8,8M106,80l8,8m0,-8l-8,8M106,80l8,8m0,-8l-8,8M106,80l8,8m0,-8l-8,8M106,80l8,8m0,-8l-8,8M106,80l8,8m0,-8l-8,8M106,80l8,8m0,-8l-8,8M106,80l8,8m0,-8l-8,8M106,79l8,8m0,-8l-8,8M106,79l8,8m0,-8l-8,8M106,80l8,8m0,-8l-8,8M106,79l8,8m0,-8l-8,8M106,79l8,8m0,-8l-8,8M106,79l8,8m0,-8l-8,8M106,79l8,8m0,-8l-8,8M106,78l8,8m0,-8l-8,8M106,78l8,8m0,-8l-8,8M106,78l8,8m0,-8l-8,8M106,78l8,8m0,-8l-8,8M106,78l8,8m0,-8l-8,8M106,77l8,8m0,-8l-8,8M106,77l8,8m0,-8l-8,8M106,77l8,8m0,-8l-8,8M106,77l8,8m0,-8l-8,8M106,76l8,8m0,-8l-8,8M106,76l8,8m0,-8l-8,8M106,76l8,8m0,-8l-8,8M106,76l8,8m0,-8l-8,8M106,75l8,8m0,-8l-8,8M106,75l8,8m0,-8l-8,8M106,75l8,8m0,-8l-8,8M106,75l8,8m0,-8l-8,8M106,74l8,8m0,-8l-8,8M106,74l8,8m0,-8l-8,8M106,73l8,8m0,-8l-8,8M106,73l8,8m0,-8l-8,8M106,72l8,8m0,-8l-8,8M106,72l8,8m0,-8l-8,8M106,72l8,8m0,-8l-8,8M106,71l8,8m0,-8l-8,8M106,71l8,8m0,-8l-8,8M106,71l8,8m0,-8l-8,8M106,71l8,8m0,-8l-8,8M106,70l8,8m0,-8l-8,8M106,70l8,8m0,-8l-8,8M106,70l8,8m0,-8l-8,8M106,70l8,8m0,-8l-8,8M106,70l8,8m0,-8l-8,8M106,69l8,8m0,-8l-8,8M106,69l8,8m0,-8l-8,8M106,69l8,8m0,-8l-8,8M106,69l8,8m0,-8l-8,8M106,68l8,8m0,-8l-8,8M106,67l8,8m0,-8l-8,8M115,101l8,8m0,-8l-8,8M115,96l8,8m0,-8l-8,8M115,96l8,8m0,-8l-8,8M115,96l8,8m0,-8l-8,8M115,95l8,8m0,-8l-8,8M115,94l8,8m0,-8l-8,8M115,94l8,8m0,-8l-8,8M115,94l8,8m0,-8l-8,8M115,93l8,8m0,-8l-8,8M115,93l8,8m0,-8l-8,8M115,93l8,8m0,-8l-8,8M115,93l8,8m0,-8l-8,8M115,92l8,8m0,-8l-8,8M115,92l8,8m0,-8l-8,8M115,92l8,8m0,-8l-8,8M115,92l8,8m0,-8l-8,8M115,92l8,8m0,-8l-8,8M115,91l8,8m0,-8l-8,8M115,91l8,8m0,-8l-8,8M115,91l8,8m0,-8l-8,8M115,91l8,8m0,-8l-8,8M115,90l8,8m0,-8l-8,8M115,91l8,8m0,-8l-8,8M115,91l8,8m0,-8l-8,8M115,91l8,8m0,-8l-8,8M115,90l8,8m0,-8l-8,8M115,90l8,8m0,-8l-8,8M115,90l8,8m0,-8l-8,8M115,90l8,8m0,-8l-8,8M115,89l8,8m0,-8l-8,8M115,89l8,8m0,-8l-8,8M115,89l8,8m0,-8l-8,8M115,88l8,8m0,-8l-8,8M115,88l8,8m0,-8l-8,8M115,88l8,8m0,-8l-8,8M115,88l8,8m0,-8l-8,8M115,88l8,8m0,-8l-8,8M115,88l8,8m0,-8l-8,8M115,88l8,8m0,-8l-8,8M115,88l8,8m0,-8l-8,8M115,88l8,8m0,-8l-8,8M115,87l8,8m0,-8l-8,8M115,87l8,8m0,-8l-8,8M115,87l8,8m0,-8l-8,8M115,87l8,8m0,-8l-8,8M115,87l8,8m0,-8l-8,8M115,87l8,8m0,-8l-8,8M115,87l8,8m0,-8l-8,8M115,87l8,8m0,-8l-8,8M115,87l8,8m0,-8l-8,8M115,87l8,8m0,-8l-8,8M115,87l8,8m0,-8l-8,8M115,87l8,8m0,-8l-8,8M115,87l8,8m0,-8l-8,8M115,87l8,8m0,-8l-8,8M115,87l8,8m0,-8l-8,8M115,86l8,8m0,-8l-8,8M115,86l8,8m0,-8l-8,8M115,86l8,8m0,-8l-8,8M115,86l8,8m0,-8l-8,8M115,86l8,8m0,-8l-8,8M115,86l8,8m0,-8l-8,8M115,86l8,8m0,-8l-8,8M115,86l8,8m0,-8l-8,8M115,86l8,8m0,-8l-8,8M115,85l8,8m0,-8l-8,8M115,85l8,8m0,-8l-8,8M115,85l8,8m0,-8l-8,8M115,85l8,8m0,-8l-8,8M115,85l8,8m0,-8l-8,8M115,85l8,8m0,-8l-8,8M115,85l8,8m0,-8l-8,8M115,85l8,8m0,-8l-8,8M115,84l8,8m0,-8l-8,8M115,85l8,8m0,-8l-8,8M115,85l8,8m0,-8l-8,8M115,84l8,8m0,-8l-8,8M115,84l8,8m0,-8l-8,8M115,84l8,8m0,-8l-8,8M115,84l8,8m0,-8l-8,8M115,84l8,8m0,-8l-8,8M115,84l8,8m0,-8l-8,8M115,84l8,8m0,-8l-8,8M115,83l8,8m0,-8l-8,8M115,83l8,8m0,-8l-8,8M115,84l8,8m0,-8l-8,8M115,83l8,8m0,-8l-8,8M115,83l8,8m0,-8l-8,8M115,83l8,8m0,-8l-8,8M115,83l8,8m0,-8l-8,8M115,83l8,8m0,-8l-8,8M115,83l8,8m0,-8l-8,8M115,82l8,8m0,-8l-8,8M115,82l8,8m0,-8l-8,8M115,82l8,8m0,-8l-8,8M115,83l8,8m0,-8l-8,8M115,82l8,8m0,-8l-8,8M115,82l8,8m0,-8l-8,8M115,82l8,8m0,-8l-8,8M115,82l8,8m0,-8l-8,8M115,82l8,8m0,-8l-8,8M115,82l8,8m0,-8l-8,8M115,82l8,8m0,-8l-8,8M115,82l8,8m0,-8l-8,8M115,82l8,8m0,-8l-8,8M115,82l8,8m0,-8l-8,8M115,82l8,8m0,-8l-8,8M115,82l8,8m0,-8l-8,8M115,82l8,8m0,-8l-8,8M115,81l8,8m0,-8l-8,8M115,81l8,8m0,-8l-8,8M115,81l8,8m0,-8l-8,8M115,81l8,8m0,-8l-8,8M115,81l8,8m0,-8l-8,8M115,81l8,8m0,-8l-8,8M115,81l8,8m0,-8l-8,8M115,81l8,8m0,-8l-8,8M115,81l8,8m0,-8l-8,8M115,81l8,8m0,-8l-8,8M115,81l8,8m0,-8l-8,8M115,81l8,8m0,-8l-8,8M115,80l8,8m0,-8l-8,8M115,80l8,8m0,-8l-8,8M115,80l8,8m0,-8l-8,8M115,80l8,8m0,-8l-8,8M115,80l8,8m0,-8l-8,8M115,80l8,8m0,-8l-8,8M115,79l8,8m0,-8l-8,8M115,79l8,8m0,-8l-8,8M115,79l8,8m0,-8l-8,8M115,79l8,8m0,-8l-8,8M115,79l8,8m0,-8l-8,8M115,79l8,8m0,-8l-8,8M115,79l8,8m0,-8l-8,8M115,79l8,8m0,-8l-8,8M115,79l8,8m0,-8l-8,8M115,78l8,8m0,-8l-8,8M115,78l8,8m0,-8l-8,8M115,78l8,8m0,-8l-8,8M115,78l8,8m0,-8l-8,8M115,78l8,8m0,-8l-8,8M115,78l8,8m0,-8l-8,8M115,78l8,8m0,-8l-8,8M115,78l8,8m0,-8l-8,8M115,78l8,8m0,-8l-8,8M115,78l8,8m0,-8l-8,8M115,77l8,8m0,-8l-8,8M115,77l8,8m0,-8l-8,8M115,77l8,8m0,-8l-8,8M115,77l8,8m0,-8l-8,8M115,78l8,8m0,-8l-8,8M115,77l8,8m0,-8l-8,8M115,77l8,8m0,-8l-8,8M115,77l8,8m0,-8l-8,8M115,78l8,8m0,-8l-8,8M115,77l8,8m0,-8l-8,8M115,77l8,8m0,-8l-8,8M115,77l8,8m0,-8l-8,8M115,77l8,8m0,-8l-8,8M115,77l8,8m0,-8l-8,8M115,76l8,8m0,-8l-8,8M115,76l8,8m0,-8l-8,8M115,76l8,8m0,-8l-8,8M115,76l8,8m0,-8l-8,8M115,76l8,8m0,-8l-8,8M115,76l8,8m0,-8l-8,8M115,76l8,8m0,-8l-8,8M115,75l8,8m0,-8l-8,8M115,75l8,8m0,-8l-8,8M115,75l8,8m0,-8l-8,8M115,74l8,8m0,-8l-8,8M115,75l8,8m0,-8l-8,8M115,74l8,8m0,-8l-8,8M115,74l8,8m0,-8l-8,8M115,74l8,8m0,-8l-8,8M115,74l8,8m0,-8l-8,8M115,74l8,8m0,-8l-8,8M115,73l8,8m0,-8l-8,8M115,73l8,8m0,-8l-8,8M115,73l8,8m0,-8l-8,8M115,73l8,8m0,-8l-8,8M115,73l8,8m0,-8l-8,8M115,73l8,8m0,-8l-8,8M115,72l8,8m0,-8l-8,8M115,72l8,8m0,-8l-8,8M115,72l8,8m0,-8l-8,8M115,72l8,8m0,-8l-8,8M115,72l8,8m0,-8l-8,8M115,70l8,8m0,-8l-8,8M115,70l8,8m0,-8l-8,8M115,70l8,8m0,-8l-8,8M115,69l8,8m0,-8l-8,8M115,69l8,8m0,-8l-8,8M115,69l8,8m0,-8l-8,8M115,69l8,8m0,-8l-8,8M115,68l8,8m0,-8l-8,8M115,67l8,8m0,-8l-8,8M115,62l8,8m0,-8l-8,8M115,60l8,8m0,-8l-8,8M123,97l8,8m0,-8l-8,8M123,96l8,8m0,-8l-8,8M123,95l8,8m0,-8l-8,8M123,94l8,8m0,-8l-8,8M123,93l8,8m0,-8l-8,8M123,92l8,8m0,-8l-8,8M123,92l8,8m0,-8l-8,8M123,92l8,8m0,-8l-8,8M123,91l8,8m0,-8l-8,8M123,91l8,8m0,-8l-8,8M123,91l8,8m0,-8l-8,8M123,90l8,8m0,-8l-8,8M123,89l8,8m0,-8l-8,8M123,89l8,8m0,-8l-8,8M123,88l8,8m0,-8l-8,8M123,87l8,8m0,-8l-8,8M123,87l8,8m0,-8l-8,8M123,87l8,8m0,-8l-8,8M123,87l8,8m0,-8l-8,8M123,87l8,8m0,-8l-8,8M123,87l8,8m0,-8l-8,8M123,86l8,8m0,-8l-8,8M123,86l8,8m0,-8l-8,8M123,86l8,8m0,-8l-8,8M123,86l8,8m0,-8l-8,8M123,85l8,8m0,-8l-8,8M123,86l8,8m0,-8l-8,8M123,85l8,8m0,-8l-8,8M123,85l8,8m0,-8l-8,8M123,85l8,8m0,-8l-8,8M123,85l8,8m0,-8l-8,8M123,84l8,8m0,-8l-8,8M123,85l8,8m0,-8l-8,8M123,85l8,8m0,-8l-8,8M123,85l8,8m0,-8l-8,8M123,85l8,8m0,-8l-8,8M123,84l8,8m0,-8l-8,8M123,84l8,8m0,-8l-8,8M123,84l8,8m0,-8l-8,8M123,83l8,8m0,-8l-8,8M123,83l8,8m0,-8l-8,8M123,84l8,8m0,-8l-8,8M123,83l8,8m0,-8l-8,8M123,84l8,8m0,-8l-8,8M123,83l8,8m0,-8l-8,8M123,83l8,8m0,-8l-8,8M123,83l8,8m0,-8l-8,8M123,82l8,8m0,-8l-8,8M123,82l8,8m0,-8l-8,8M123,82l8,8m0,-8l-8,8M123,82l8,8m0,-8l-8,8M123,82l8,8m0,-8l-8,8M123,82l8,8m0,-8l-8,8M123,82l8,8m0,-8l-8,8M123,82l8,8m0,-8l-8,8M123,82l8,8m0,-8l-8,8M123,82l8,8m0,-8l-8,8M123,82l8,8m0,-8l-8,8M123,82l8,8m0,-8l-8,8M123,81l8,8m0,-8l-8,8M123,81l8,8m0,-8l-8,8M123,81l8,8m0,-8l-8,8M123,81l8,8m0,-8l-8,8M123,81l8,8m0,-8l-8,8M123,81l8,8m0,-8l-8,8M123,81l8,8m0,-8l-8,8M123,81l8,8m0,-8l-8,8M123,81l8,8m0,-8l-8,8M123,80l8,8m0,-8l-8,8M123,80l8,8m0,-8l-8,8M123,80l8,8m0,-8l-8,8M123,80l8,8m0,-8l-8,8M123,80l8,8m0,-8l-8,8M123,80l8,8m0,-8l-8,8M123,80l8,8m0,-8l-8,8M123,80l8,8m0,-8l-8,8M123,80l8,8m0,-8l-8,8M123,79l8,8m0,-8l-8,8M123,80l8,8m0,-8l-8,8M123,80l8,8m0,-8l-8,8M123,79l8,8m0,-8l-8,8M123,79l8,8m0,-8l-8,8M123,79l8,8m0,-8l-8,8M123,79l8,8m0,-8l-8,8M123,79l8,8m0,-8l-8,8M123,79l8,8m0,-8l-8,8M123,79l8,8m0,-8l-8,8M123,79l8,8m0,-8l-8,8M123,79l8,8m0,-8l-8,8M123,79l8,8m0,-8l-8,8M123,79l8,8m0,-8l-8,8M123,79l8,8m0,-8l-8,8M123,79l8,8m0,-8l-8,8M123,78l8,8m0,-8l-8,8M123,78l8,8m0,-8l-8,8M123,78l8,8m0,-8l-8,8M123,78l8,8m0,-8l-8,8M123,78l8,8m0,-8l-8,8M123,78l8,8m0,-8l-8,8M123,78l8,8m0,-8l-8,8M123,77l8,8m0,-8l-8,8M123,78l8,8m0,-8l-8,8M123,77l8,8m0,-8l-8,8M123,77l8,8m0,-8l-8,8M123,77l8,8m0,-8l-8,8M123,77l8,8m0,-8l-8,8M123,77l8,8m0,-8l-8,8M123,77l8,8m0,-8l-8,8M123,77l8,8m0,-8l-8,8M123,77l8,8m0,-8l-8,8M123,76l8,8m0,-8l-8,8M123,76l8,8m0,-8l-8,8M123,76l8,8m0,-8l-8,8M123,76l8,8m0,-8l-8,8M123,76l8,8m0,-8l-8,8M123,76l8,8m0,-8l-8,8M123,76l8,8m0,-8l-8,8M123,76l8,8m0,-8l-8,8M123,76l8,8m0,-8l-8,8M123,76l8,8m0,-8l-8,8M123,76l8,8m0,-8l-8,8M123,76l8,8m0,-8l-8,8M123,76l8,8m0,-8l-8,8M123,75l8,8m0,-8l-8,8M123,75l8,8m0,-8l-8,8M123,75l8,8m0,-8l-8,8M123,74l8,8m0,-8l-8,8M123,74l8,8m0,-8l-8,8M123,74l8,8m0,-8l-8,8M123,74l8,8m0,-8l-8,8M123,74l8,8m0,-8l-8,8M123,74l8,8m0,-8l-8,8M123,74l8,8m0,-8l-8,8M123,74l8,8m0,-8l-8,8M123,73l8,8m0,-8l-8,8M123,74l8,8m0,-8l-8,8M123,73l8,8m0,-8l-8,8M123,73l8,8m0,-8l-8,8M123,73l8,8m0,-8l-8,8M123,73l8,8m0,-8l-8,8M123,73l8,8m0,-8l-8,8M123,73l8,8m0,-8l-8,8M123,73l8,8m0,-8l-8,8M123,73l8,8m0,-8l-8,8M123,73l8,8m0,-8l-8,8M123,72l8,8m0,-8l-8,8M123,72l8,8m0,-8l-8,8M123,72l8,8m0,-8l-8,8M123,72l8,8m0,-8l-8,8M123,72l8,8m0,-8l-8,8M123,72l8,8m0,-8l-8,8M123,72l8,8m0,-8l-8,8M123,72l8,8m0,-8l-8,8M123,72l8,8m0,-8l-8,8M123,72l8,8m0,-8l-8,8M123,72l8,8m0,-8l-8,8M123,72l8,8m0,-8l-8,8M123,72l8,8m0,-8l-8,8M123,71l8,8m0,-8l-8,8M123,71l8,8m0,-8l-8,8M123,71l8,8m0,-8l-8,8M123,72l8,8m0,-8l-8,8M123,71l8,8m0,-8l-8,8M123,71l8,8m0,-8l-8,8M123,71l8,8m0,-8l-8,8M123,71l8,8m0,-8l-8,8M123,71l8,8m0,-8l-8,8M123,70l8,8m0,-8l-8,8M123,70l8,8m0,-8l-8,8M123,70l8,8m0,-8l-8,8M123,70l8,8m0,-8l-8,8M123,69l8,8m0,-8l-8,8M123,69l8,8m0,-8l-8,8M123,69l8,8m0,-8l-8,8M123,69l8,8m0,-8l-8,8M123,68l8,8m0,-8l-8,8M123,68l8,8m0,-8l-8,8M123,68l8,8m0,-8l-8,8M123,68l8,8m0,-8l-8,8M123,68l8,8m0,-8l-8,8M123,67l8,8m0,-8l-8,8M123,67l8,8m0,-8l-8,8M123,68l8,8m0,-8l-8,8M123,68l8,8m0,-8l-8,8M123,67l8,8m0,-8l-8,8M123,67l8,8m0,-8l-8,8M123,66l8,8m0,-8l-8,8M123,66l8,8m0,-8l-8,8M123,65l8,8m0,-8l-8,8M123,65l8,8m0,-8l-8,8M123,65l8,8m0,-8l-8,8M123,64l8,8m0,-8l-8,8M123,63l8,8m0,-8l-8,8M123,63l8,8m0,-8l-8,8M123,62l8,8m0,-8l-8,8M123,62l8,8m0,-8l-8,8M123,61l8,8m0,-8l-8,8M123,60l8,8m0,-8l-8,8M123,59l8,8m0,-8l-8,8M123,59l8,8m0,-8l-8,8M131,87l8,8m0,-8l-8,8M131,85l8,8m0,-8l-8,8M131,84l8,8m0,-8l-8,8M131,84l8,8m0,-8l-8,8M131,82l8,8m0,-8l-8,8M131,82l8,8m0,-8l-8,8M131,82l8,8m0,-8l-8,8M131,81l8,8m0,-8l-8,8M131,81l8,8m0,-8l-8,8M131,81l8,8m0,-8l-8,8M131,81l8,8m0,-8l-8,8M131,81l8,8m0,-8l-8,8M131,80l8,8m0,-8l-8,8M131,80l8,8m0,-8l-8,8M131,79l8,8m0,-8l-8,8M131,80l8,8m0,-8l-8,8M131,79l8,8m0,-8l-8,8M131,79l8,8m0,-8l-8,8M131,79l8,8m0,-8l-8,8M131,79l8,8m0,-8l-8,8M131,79l8,8m0,-8l-8,8M131,79l8,8m0,-8l-8,8M131,78l8,8m0,-8l-8,8M131,78l8,8m0,-8l-8,8M131,78l8,8m0,-8l-8,8M131,78l8,8m0,-8l-8,8M131,78l8,8m0,-8l-8,8M131,78l8,8m0,-8l-8,8M131,78l8,8m0,-8l-8,8M131,77l8,8m0,-8l-8,8M131,77l8,8m0,-8l-8,8M131,77l8,8m0,-8l-8,8M131,77l8,8m0,-8l-8,8M131,77l8,8m0,-8l-8,8M131,77l8,8m0,-8l-8,8M131,77l8,8m0,-8l-8,8M131,76l8,8m0,-8l-8,8M131,76l8,8m0,-8l-8,8M131,76l8,8m0,-8l-8,8M131,76l8,8m0,-8l-8,8M131,76l8,8m0,-8l-8,8M131,76l8,8m0,-8l-8,8M131,76l8,8m0,-8l-8,8M131,75l8,8m0,-8l-8,8M131,75l8,8m0,-8l-8,8M131,75l8,8m0,-8l-8,8M131,75l8,8m0,-8l-8,8M131,75l8,8m0,-8l-8,8M131,75l8,8m0,-8l-8,8M131,75l8,8m0,-8l-8,8M131,74l8,8m0,-8l-8,8M131,74l8,8m0,-8l-8,8M131,74l8,8m0,-8l-8,8M131,74l8,8m0,-8l-8,8M131,74l8,8m0,-8l-8,8M131,74l8,8m0,-8l-8,8M131,74l8,8m0,-8l-8,8M131,74l8,8m0,-8l-8,8M131,74l8,8m0,-8l-8,8M131,74l8,8m0,-8l-8,8M131,74l8,8m0,-8l-8,8M131,73l8,8m0,-8l-8,8M131,73l8,8m0,-8l-8,8M131,74l8,8m0,-8l-8,8M131,73l8,8m0,-8l-8,8M131,73l8,8m0,-8l-8,8M131,73l8,8m0,-8l-8,8M131,73l8,8m0,-8l-8,8M131,73l8,8m0,-8l-8,8M131,73l8,8m0,-8l-8,8M131,72l8,8m0,-8l-8,8M131,73l8,8m0,-8l-8,8M131,73l8,8m0,-8l-8,8M131,72l8,8m0,-8l-8,8M131,72l8,8m0,-8l-8,8M131,72l8,8m0,-8l-8,8M131,72l8,8m0,-8l-8,8M131,72l8,8m0,-8l-8,8M131,72l8,8m0,-8l-8,8M131,72l8,8m0,-8l-8,8M131,72l8,8m0,-8l-8,8M131,72l8,8m0,-8l-8,8M131,72l8,8m0,-8l-8,8M131,71l8,8m0,-8l-8,8M131,72l8,8m0,-8l-8,8M131,72l8,8m0,-8l-8,8M131,71l8,8m0,-8l-8,8M131,71l8,8m0,-8l-8,8M131,71l8,8m0,-8l-8,8M131,71l8,8m0,-8l-8,8M131,71l8,8m0,-8l-8,8M131,71l8,8m0,-8l-8,8M131,71l8,8m0,-8l-8,8M131,71l8,8m0,-8l-8,8M131,70l8,8m0,-8l-8,8M131,70l8,8m0,-8l-8,8M131,70l8,8m0,-8l-8,8M131,71l8,8m0,-8l-8,8M131,70l8,8m0,-8l-8,8M131,70l8,8m0,-8l-8,8M131,70l8,8m0,-8l-8,8M131,70l8,8m0,-8l-8,8M131,70l8,8m0,-8l-8,8M131,70l8,8m0,-8l-8,8M131,69l8,8m0,-8l-8,8M131,69l8,8m0,-8l-8,8M131,69l8,8m0,-8l-8,8M131,69l8,8m0,-8l-8,8M131,68l8,8m0,-8l-8,8M131,69l8,8m0,-8l-8,8M131,69l8,8m0,-8l-8,8M131,68l8,8m0,-8l-8,8M131,68l8,8m0,-8l-8,8M131,68l8,8m0,-8l-8,8M131,68l8,8m0,-8l-8,8M131,68l8,8m0,-8l-8,8M131,68l8,8m0,-8l-8,8M131,68l8,8m0,-8l-8,8M131,68l8,8m0,-8l-8,8M131,68l8,8m0,-8l-8,8M131,68l8,8m0,-8l-8,8M131,68l8,8m0,-8l-8,8M131,68l8,8m0,-8l-8,8M131,68l8,8m0,-8l-8,8M131,68l8,8m0,-8l-8,8M131,68l8,8m0,-8l-8,8M131,68l8,8m0,-8l-8,8M131,68l8,8m0,-8l-8,8M131,67l8,8m0,-8l-8,8M131,68l8,8m0,-8l-8,8M131,67l8,8m0,-8l-8,8M131,68l8,8m0,-8l-8,8M131,67l8,8m0,-8l-8,8M131,67l8,8m0,-8l-8,8M131,67l8,8m0,-8l-8,8M131,66l8,8m0,-8l-8,8M131,66l8,8m0,-8l-8,8M131,67l8,8m0,-8l-8,8M131,66l8,8m0,-8l-8,8M131,66l8,8m0,-8l-8,8M131,66l8,8m0,-8l-8,8M131,66l8,8m0,-8l-8,8M131,66l8,8m0,-8l-8,8M131,66l8,8m0,-8l-8,8M131,66l8,8m0,-8l-8,8M131,65l8,8m0,-8l-8,8M131,65l8,8m0,-8l-8,8M131,65l8,8m0,-8l-8,8M131,65l8,8m0,-8l-8,8M131,65l8,8m0,-8l-8,8M131,65l8,8m0,-8l-8,8M131,64l8,8m0,-8l-8,8M131,64l8,8m0,-8l-8,8M131,64l8,8m0,-8l-8,8M131,64l8,8m0,-8l-8,8M131,64l8,8m0,-8l-8,8M131,64l8,8m0,-8l-8,8M131,64l8,8m0,-8l-8,8M131,64l8,8m0,-8l-8,8M131,64l8,8m0,-8l-8,8M131,64l8,8m0,-8l-8,8M131,64l8,8m0,-8l-8,8M131,63l8,8m0,-8l-8,8M131,63l8,8m0,-8l-8,8M131,63l8,8m0,-8l-8,8M131,62l8,8m0,-8l-8,8M131,61l8,8m0,-8l-8,8M131,61l8,8m0,-8l-8,8M131,62l8,8m0,-8l-8,8M131,61l8,8m0,-8l-8,8M131,61l8,8m0,-8l-8,8M131,61l8,8m0,-8l-8,8M131,61l8,8m0,-8l-8,8M131,61l8,8m0,-8l-8,8M131,60l8,8m0,-8l-8,8M131,60l8,8m0,-8l-8,8M131,60l8,8m0,-8l-8,8M131,60l8,8m0,-8l-8,8M131,60l8,8m0,-8l-8,8M131,59l8,8m0,-8l-8,8M131,59l8,8m0,-8l-8,8M131,59l8,8m0,-8l-8,8M131,58l8,8m0,-8l-8,8M131,58l8,8m0,-8l-8,8M131,58l8,8m0,-8l-8,8M131,58l8,8m0,-8l-8,8M131,58l8,8m0,-8l-8,8M131,57l8,8m0,-8l-8,8M131,57l8,8m0,-8l-8,8M131,57l8,8m0,-8l-8,8M131,56l8,8m0,-8l-8,8M131,56l8,8m0,-8l-8,8M131,56l8,8m0,-8l-8,8M131,56l8,8m0,-8l-8,8M131,55l8,8m0,-8l-8,8M131,55l8,8m0,-8l-8,8M131,54l8,8m0,-8l-8,8M131,52l8,8m0,-8l-8,8M131,48l8,8m0,-8l-8,8M131,47l8,8m0,-8l-8,8M139,80l8,8m0,-8l-8,8M139,76l8,8m0,-8l-8,8M139,73l8,8m0,-8l-8,8M139,73l8,8m0,-8l-8,8M139,72l8,8m0,-8l-8,8M139,72l8,8m0,-8l-8,8M139,72l8,8m0,-8l-8,8M139,71l8,8m0,-8l-8,8M139,70l8,8m0,-8l-8,8M139,71l8,8m0,-8l-8,8M139,70l8,8m0,-8l-8,8M139,69l8,8m0,-8l-8,8M139,69l8,8m0,-8l-8,8M139,68l8,8m0,-8l-8,8M139,68l8,8m0,-8l-8,8M139,68l8,8m0,-8l-8,8M139,67l8,8m0,-8l-8,8M139,67l8,8m0,-8l-8,8M139,67l8,8m0,-8l-8,8M139,67l8,8m0,-8l-8,8M139,67l8,8m0,-8l-8,8M139,67l8,8m0,-8l-8,8M139,66l8,8m0,-8l-8,8M139,66l8,8m0,-8l-8,8M139,66l8,8m0,-8l-8,8M139,66l8,8m0,-8l-8,8M139,66l8,8m0,-8l-8,8M139,65l8,8m0,-8l-8,8M139,66l8,8m0,-8l-8,8M139,66l8,8m0,-8l-8,8M139,66l8,8m0,-8l-8,8M139,65l8,8m0,-8l-8,8M139,65l8,8m0,-8l-8,8M139,65l8,8m0,-8l-8,8M139,65l8,8m0,-8l-8,8M139,64l8,8m0,-8l-8,8M139,64l8,8m0,-8l-8,8M139,64l8,8m0,-8l-8,8M139,65l8,8m0,-8l-8,8M139,64l8,8m0,-8l-8,8M139,64l8,8m0,-8l-8,8M139,64l8,8m0,-8l-8,8M139,64l8,8m0,-8l-8,8M139,64l8,8m0,-8l-8,8M139,64l8,8m0,-8l-8,8M139,64l8,8m0,-8l-8,8M139,63l8,8m0,-8l-8,8M139,63l8,8m0,-8l-8,8M139,63l8,8m0,-8l-8,8M139,63l8,8m0,-8l-8,8M139,63l8,8m0,-8l-8,8M139,63l8,8m0,-8l-8,8M139,63l8,8m0,-8l-8,8M139,63l8,8m0,-8l-8,8M139,63l8,8m0,-8l-8,8M139,63l8,8m0,-8l-8,8M139,62l8,8m0,-8l-8,8M139,62l8,8m0,-8l-8,8M139,62l8,8m0,-8l-8,8M139,62l8,8m0,-8l-8,8M139,62l8,8m0,-8l-8,8M139,62l8,8m0,-8l-8,8M139,62l8,8m0,-8l-8,8M139,62l8,8m0,-8l-8,8M139,62l8,8m0,-8l-8,8M139,62l8,8m0,-8l-8,8M139,61l8,8m0,-8l-8,8M139,61l8,8m0,-8l-8,8M139,61l8,8m0,-8l-8,8M139,61l8,8m0,-8l-8,8M139,61l8,8m0,-8l-8,8M139,61l8,8m0,-8l-8,8M139,61l8,8m0,-8l-8,8M139,60l8,8m0,-8l-8,8M139,61l8,8m0,-8l-8,8M139,61l8,8m0,-8l-8,8M139,60l8,8m0,-8l-8,8M139,60l8,8m0,-8l-8,8M139,60l8,8m0,-8l-8,8M139,60l8,8m0,-8l-8,8M139,60l8,8m0,-8l-8,8M139,60l8,8m0,-8l-8,8M139,60l8,8m0,-8l-8,8M139,60l8,8m0,-8l-8,8M139,60l8,8m0,-8l-8,8M139,60l8,8m0,-8l-8,8M139,60l8,8m0,-8l-8,8M139,59l8,8m0,-8l-8,8M139,60l8,8m0,-8l-8,8M139,59l8,8m0,-8l-8,8M139,59l8,8m0,-8l-8,8M139,59l8,8m0,-8l-8,8M139,59l8,8m0,-8l-8,8M139,59l8,8m0,-8l-8,8M139,59l8,8m0,-8l-8,8M139,59l8,8m0,-8l-8,8M139,58l8,8m0,-8l-8,8M139,58l8,8m0,-8l-8,8M139,58l8,8m0,-8l-8,8M139,58l8,8m0,-8l-8,8M139,58l8,8m0,-8l-8,8M139,58l8,8m0,-8l-8,8M139,58l8,8m0,-8l-8,8M139,58l8,8m0,-8l-8,8M139,58l8,8m0,-8l-8,8M139,58l8,8m0,-8l-8,8M139,57l8,8m0,-8l-8,8M139,57l8,8m0,-8l-8,8M139,57l8,8m0,-8l-8,8M139,57l8,8m0,-8l-8,8M139,57l8,8m0,-8l-8,8M139,57l8,8m0,-8l-8,8M139,57l8,8m0,-8l-8,8M139,56l8,8m0,-8l-8,8M139,57l8,8m0,-8l-8,8M139,56l8,8m0,-8l-8,8M139,56l8,8m0,-8l-8,8M139,56l8,8m0,-8l-8,8M139,56l8,8m0,-8l-8,8M139,56l8,8m0,-8l-8,8M139,56l8,8m0,-8l-8,8M139,56l8,8m0,-8l-8,8M139,56l8,8m0,-8l-8,8M139,56l8,8m0,-8l-8,8M139,56l8,8m0,-8l-8,8M139,56l8,8m0,-8l-8,8M139,55l8,8m0,-8l-8,8M139,56l8,8m0,-8l-8,8M139,55l8,8m0,-8l-8,8M139,56l8,8m0,-8l-8,8M139,55l8,8m0,-8l-8,8M139,55l8,8m0,-8l-8,8M139,55l8,8m0,-8l-8,8M139,55l8,8m0,-8l-8,8M139,55l8,8m0,-8l-8,8M139,54l8,8m0,-8l-8,8M139,54l8,8m0,-8l-8,8M139,54l8,8m0,-8l-8,8M139,54l8,8m0,-8l-8,8M139,53l8,8m0,-8l-8,8M139,53l8,8m0,-8l-8,8M139,53l8,8m0,-8l-8,8M139,53l8,8m0,-8l-8,8M139,53l8,8m0,-8l-8,8M139,53l8,8m0,-8l-8,8M139,53l8,8m0,-8l-8,8M139,53l8,8m0,-8l-8,8M139,53l8,8m0,-8l-8,8M139,53l8,8m0,-8l-8,8M139,53l8,8m0,-8l-8,8M139,53l8,8m0,-8l-8,8M139,52l8,8m0,-8l-8,8M139,53l8,8m0,-8l-8,8M139,52l8,8m0,-8l-8,8M139,52l8,8m0,-8l-8,8M139,52l8,8m0,-8l-8,8M139,52l8,8m0,-8l-8,8M139,52l8,8m0,-8l-8,8M139,52l8,8m0,-8l-8,8M139,51l8,8m0,-8l-8,8M139,51l8,8m0,-8l-8,8M139,51l8,8m0,-8l-8,8M139,51l8,8m0,-8l-8,8M139,51l8,8m0,-8l-8,8M139,51l8,8m0,-8l-8,8M139,51l8,8m0,-8l-8,8M139,51l8,8m0,-8l-8,8M139,51l8,8m0,-8l-8,8M139,51l8,8m0,-8l-8,8M139,50l8,8m0,-8l-8,8M139,50l8,8m0,-8l-8,8M139,50l8,8m0,-8l-8,8M139,49l8,8m0,-8l-8,8M139,49l8,8m0,-8l-8,8M139,49l8,8m0,-8l-8,8M139,49l8,8m0,-8l-8,8M139,49l8,8m0,-8l-8,8M139,49l8,8m0,-8l-8,8M139,48l8,8m0,-8l-8,8M139,48l8,8m0,-8l-8,8M139,48l8,8m0,-8l-8,8M139,48l8,8m0,-8l-8,8M139,48l8,8m0,-8l-8,8M139,47l8,8m0,-8l-8,8M139,47l8,8m0,-8l-8,8M139,47l8,8m0,-8l-8,8M139,46l8,8m0,-8l-8,8M139,45l8,8m0,-8l-8,8M139,46l8,8m0,-8l-8,8M139,45l8,8m0,-8l-8,8M139,45l8,8m0,-8l-8,8M139,45l8,8m0,-8l-8,8M139,45l8,8m0,-8l-8,8M139,44l8,8m0,-8l-8,8M139,44l8,8m0,-8l-8,8M139,43l8,8m0,-8l-8,8M139,43l8,8m0,-8l-8,8M139,39l8,8m0,-8l-8,8M139,38l8,8m0,-8l-8,8M139,35l8,8m0,-8l-8,8" style="stroke: #00009a; fill: none;"></path>
       </g>
      </svg>
+     <g>
+      <g transform="translate(0,106)">
+       <path d="M0,0h147M0,-4V0M4,-2V0M8,-2V0M12,-2V0M16,-2V0M20,-4V0M25,-2V0M29,-2V0M33,-2V0M37,-2V0M41,-4V0M45,-2V0M49,-2V0M53,-2V0M57,-2V0M61,-4V0M65,-2V0M69,-2V0M74,-2V0M78,-2V0M82,-4V0M86,-2V0M90,-2V0M94,-2V0M98,-2V0M102,-4V0M106,-2V0M110,-2V0M114,-2V0M118,-2V0M123,-4V0M127,-2V0M131,-2V0M135,-2V0M139,-2V0M143,-4V0M147,-2V0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="middle">
+        <text dy=".8em" transform="translate(0,1)">
+         0
+        </text>
+        <text dy=".8em" transform="translate(20,1)">
+         50
+        </text>
+        <text dy=".8em" transform="translate(41,1)">
+         100
+        </text>
+        <text dy=".8em" transform="translate(61,1)">
+         150
+        </text>
+        <text dy=".8em" transform="translate(82,1)">
+         200
+        </text>
+        <text dy=".8em" transform="translate(102,1)">
+         250
+        </text>
+        <text dy=".8em" transform="translate(123,1)">
+         300
+        </text>
+        <text dy=".8em" transform="translate(143,1)">
+         350
+        </text>
+       </g>
+       <g font-family="Arial" font-size="5" space="preserve" transform="translate(147,8)">
+        <text fill="black" text-anchor="end" dy=".4em">
+         Deg
+        </text>
+       </g>
+      </g>
+      <g>
+       <path d="M0,0v106M6,106H0M6,88H0M6,71H0M6,53H0M6,35H0M6,18H0M6,0H0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-1,106)">
+         -1.5
+        </text>
+        <text dy=".4em" transform="translate(-1,88)">
+         -1
+        </text>
+        <text dy=".4em" transform="translate(-1,71)">
+         -0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,53)">
+         0
+        </text>
+        <text dy=".4em" transform="translate(-1,35)">
+         0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,18)">
+         1
+        </text>
+        <text dy=".4em" transform="translate(-1)">
+         1.5
+        </text>
+       </g>
+      </g>
+     </g>
     </g>
     <g transform="translate(18,1)" font-family="Arial" font-size="7" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(74)">
       candlex(212111)
      </text>
     </g>
-    <g transform="translate(144,9)" font-family="Arial" font-size="8" space="preserve">
-     <path d="M0,0H37V21H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(0,11)">
+    <g transform="translate(144,9)" font-family="Arial" font-size="3" space="preserve" fill="black">
+     <path d="M0,0H37V32H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text text-anchor="middle" dy=".4em" transform="translate(19,3)">
       h1_copy
      </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,8)">
+      Entries
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,8)">
+      3600
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,13)">
+      Mean x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,13)">
+      175.0
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,19)">
+      Mean y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,19)">
+      0.001895
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,24)">
+      Std Dev x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,24)">
+      103.9
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,29)">
+      Std Dev y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,29)">
+      0.7269
+     </text>
+     <path d="M0,5h37" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
@@ -365,17 +1667,110 @@
        <path d="M3,75h1M3,70h1M2,67h1M5,66h1M1,64h1m4,0h1M2,64h1m3,0h1M4,64h1M3,63h1M2,63h1M3,62h1m1,0h1M5,62h1M2,61h1M2,61h1M2,61h1m1,0h1M2,61h1M3,60h1m2,1h1M5,60h1M1,60h1h1M2,60h1m3,0h1M2,59h1M3,58h1m0,1h1M2,58h1m1,0h1h1M2,58h1h1M3,57h1M6,56h1M4,56h1M2,56h1m1,0h1m1,0h1M2,55h1h1h1M2,55h1m2,0h1M5,55h1M5,55h1M2,54h1m3,0h1M3,54h1m1,0h1M3,54h1h1h1M5,54h1M4,54h1M2,53h1h1m2,0h1M5,53h1h1M6,53h1M2,53h1m3,0h1M5,53h1h1M4,53h1M3,52h1M2,52h1m3,0h1M5,53h1M4,52h1h1M2,52h1m2,0h1M3,52h1m1,0h1M3,52h1M3,51h1m2,0h1M5,51h1h1M4,51h1h1M2,51h1m3,0h1M3,51h1M3,51h1m1,0h1M2,51h1M2,51h1M5,50h1M3,50h1m2,0h1M3,50h1m1,0h1M4,50h1h1M3,50h1M3,50h1M2,50h1M2,50h1M1,50h1M2,49h1M2,49h1m1,0h1m1,0h1M3,49h1h1M4,49h1M4,49h1M2,49h1M2,49h1M3,48h1m1,0h1M3,48h1M2,48h1M2,48h1m3,0h1M1,48h1m2,0h1M1,48h1h1M2,48h1h1M5,47h1M3,47h1M3,47h1M3,47h1M2,47h1M2,47h1M2,47h1m1,0h1M2,47h1M2,47h1m1,0h1M4,47h1M6,46h1M3,46h1h1h1M2,46h1M2,46h1m1,0h1M4,46h1M6,45h1M5,45h1m1,0h1M3,45h1h1M3,45h1M2,45h1h1M4,44h1M4,44h1h1M3,44h1M3,44h1M2,44h1m1,0h1M4,44h1m1,0h1M5,44h1M3,44h1m1,0h1M5,43h1M2,43h1m2,0h1M5,43h1M4,43h1m1,0h1M5,43h1M5,43h1M4,42h1M1,42h1m3,0h1M7,41h1M7,41h1M4,41h1h1M6,40h1M5,40h1M4,40h1M3,40h1M6,39h1M6,39h1M5,39h1h1M5,38h1h1M2,37h1m3,0h1M1,37h1m2,0h1h1M5,35h1M5,36h1M6,35h1M4,35h1M2,35h1m8,26h1M11,56h1M10,55h1m2,-3h1M9,52h1m4,-1h1m-5,0h1m3,0h1m-3,0h1m-2,0h1m-2,0h1h1m1,-1h1m-1,0h1m-4,0h1m-1,0h1m-1,0h1m1,0h1m-3,0h1m0,-1h1m2,0h1M13,48h1M9,48h1h1m-1,0h1m3,0h1m-5,0h1h1h1m-3,0h1m1,-1h1h1m-4,0h1h1m-1,0h1m2,0h1m-3,0h1m-3,0h1m1,0h1m1,-1h1m-5,0h1h1h1m-3,0h1m2,0h1m-1,0h1m-1,0h1M10,45h1m3,1h1M11,45h1m1,0h1m-3,0h1h1h1m-1,0h1M12,44h1m-3,0h1h1m2,0h1m-2,0h1h1m-1,0h1m-5,0h1m3,-1h1m-2,0h1h1m-3,0h1m-2,0h1m-2,0h1m3,0h1m-2,0h1m-2,0h1h1M10,42h1m2,0h1m-3,1h1m1,-1h1m-3,0h1m-1,0h1m2,0h1m-2,0h1h1M12,41h1m0,1h1m-4,0h1m3,-1h1m-4,1h1M11,41h1m1,0h1m-4,0h1m-1,0h1m2,0h1m-3,0h1m2,-1h1m-4,0h1m1,0h1m-2,1h1m0,-1h1m-3,0h1m-1,0h1m-2,0h1m-1,0h1M9,40h1h1M10,39h1m1,0h1m1,0h1m-4,0h1h1m-1,0h1m-1,0h1m-3,0h1m-1,0h1m0,-1h1m1,0h1m-3,0h1m-2,0h1m-1,0h1m3,0h1M9,38h1m2,0h1M9,38h1h1m-1,0h1m0,-1h1m1,0h1m-3,0h1M11,36h1m-1,0h1m-2,0h1m-1,0h1m-1,0h1m1,-1h1m-3,0h1m-1,1h1m1,0h1M12,35h1m1,0h1m-4,0h1h1h1m-4,0h1m-1,0h1m1,0h1m-1,0h1m1,0h1M13,34h1m1,0h1m-5,0h1h1m-2,0h1m-2,0h1h1h1m-1,0h1h1M11,33h1m-1,0h1m-2,0h1m1,0h1m-1,0h1m1,0h1M13,32h1m-3,0h1m1,0h1M13,31h1m-4,0h1m2,0h1M13,30h1m-2,1h1m1,0h1M13,30h1m-1,0h1m-2,0h1M9,30h1m3,0h1m1,-1h1m-1,0h1m-4,0h1h1h1m-2,0h1m-2,0h1m-2,0h1m2,-1h1m-1,0h1m-2,0h1h1m-2,0h1h1m-5,0h1m3,-1h1M9,27h1m2,-1h1h1M13,25h1m-1,0h1m0,-1h1m-3,0h1m-3,0h1m8,21h1h1M19,43h1m2,-1h1M18,41h1m5,0h1M19,40h1m3,0h1m-4,0h1M20,39h1m-2,0h1h1m1,-1h1h1m-5,0h1m-2,0h1m-1,0h1m2,-1h1m-4,0h1m1,0h1m2,0h1m-2,0h1m-5,0h1m-1,0h1h1m4,-1h1m-6,0h1h1m1,0h1m-5,0h1m2,0h1h1M19,35h1h1m-1,0h1m3,0h1m-4,0h1m-3,0h1m1,0h1m1,-1h1m-6,0h1m1,0h1h1m-4,0h1m3,0h1m-1,0h1m-1,0h1m-5,0h1m5,-1h1m-5,0h1m2,0h1m-5,1h1m1,-1h1h1m-1,0h1m-2,0h1m-3,0h1h1m2,0h1m-1,0h1m-1,0h1m0,-1h1m-6,0h1m3,0h1m-2,0h1m1,0h1m-4,0h1m-2,0h1m-3,0h1m4,0h1m-2,0h1M21,31h1h1m-4,0h1m2,0h1m-3,0h1m2,-1h1m-4,0h1m-1,0h1m2,0h1m-2,0h1h1m-3,0h1h1m-4,0h1m3,-1h1m-4,1h1M20,29h1m1,0h1m-5,0h1h1m2,0h1m-3,0h1m2,0h1m-4,0h1m1,0h1m-2,0h1h1m-3,0h1m-1,0h1m-2,0h1m-1,0h1M18,28h1m0,1h1M19,28h1m1,0h1m2,0h1m-5,0h1h1m-1,0h1m-1,0h1m-3,0h1m-2,0h1m1,0h1m2,0h1m-5,0h1m-1,0h1m-1,0h1m3,-1h1m-6,1h1m2,0h1M18,27h1m-1,0h1h1m-1,0h1m2,0h1m-3,0h1m-1,0h1m-1,0h1M19,26h1m-1,0h1m-1,0h1m1,0h1m-3,0h1m-2,0h1m2,0h1m-1,0h1m1,0h1m-5,0h1m1,0h1h1M19,25h1m-1,0h1m1,0h1m-1,0h1m1,0h1m-1,0h1h1M20,24h1h1m-2,0h1m-2,0h1h1h1M21,23h1m1,0h1m-4,0h1m-1,0h1m-2,0h1m1,0h1m-1,0h1m2,-1h1m-3,0h1m-3,0h1m1,0h1h1m-5,0h1m2,-1h1m-1,0h1M21,20h1m1,0h1m-2,0h1m-1,0h1m-2,0h1m-4,0h1m3,0h1m1,0h1M24,19h1m-5,0h1m1,0h1h1M22,18h1m-2,0h1m-2,0h1m2,-1h1m-1,0h1m-2,0h1m1,0h1M22,16h1h1m-5,0h1m3,-1h1m-6,0h1m2,0h1h1M22,13h1m-1,0h1m1,-1h1M21,11h1M19,7h1m8,28h1M28,33h1M27,32h1m2,0h1M26,31h1m4,0h1m-5,0h1m3,0h1m-3,0h1m-2,0h1m-2,0h1h1m1,0h1M30,30h1m-4,0h1m-1,0h1m-1,0h1m1,0h1M27,29h1h1m2,0h1m-2,0h1m-5,0h1m0,-1h1m-1,0h1m3,0h1m-5,0h1m0,-1h1m0,1h1M27,27h1m1,0h1h1m-4,0h1h1m-1,0h1m2,0h1m-3,0h1m-3,0h1m1,0h1m1,0h1m-5,0h1m0,-1h1h1m-3,0h1m2,0h1m-1,0h1m-1,0h1m-4,0h1m3,-1h1m-4,0h1m1,0h1m-3,0h1h1h1m-1,0h1m-2,0h1M27,24h1m0,1h1m2,0h1M30,24h1h1m-1,0h1m-5,0h1m3,0h1m-2,0h1h1m-3,0h1m-2,0h1m-2,0h1m3,0h1m-2,0h1M29,23h1m0,1h1M27,23h1m2,0h1m-3,1h1m1,-1h1m-3,0h1m-1,0h1m2,0h1m-2,0h1h1M29,22h1h1m-4,0h1m3,0h1m-4,0h1m-1,0h1m1,0h1m-4,0h1m-1,0h1m2,0h1m-3,0h1m2,0h1m-4,0h1m1,0h1m-2,0h1m0,-1h1m-3,0h1m-1,0h1m-2,0h1m-1,0h1m-2,0h1h1m-1,0h1m1,0h1m1,0h1M28,20h1m0,1h1M29,20h1m-1,0h1m-3,0h1m-1,0h1h1m1,0h1m-3,0h1m-2,0h1m-1,0h1m3,0h1m-6,0h1m2,0h1m-4,0h1h1m-1,0h1h1m1,-1h1m-3,0h1m-1,0h1m-1,0h1m-2,0h1m-1,0h1m-1,0h1m1,-1h1m-3,0h1m-1,1h1m1,0h1M29,18h1m1,0h1m-4,0h1h1m0,-1h1m-4,0h1m-1,0h1m1,0h1m-1,0h1m1,0h1M30,16h1m1,1h1M28,16h1h1m-2,0h1m-2,0h1h1h1m-1,0h1h1M28,15h1m-1,0h1m-2,0h1m1,0h1m-1,0h1m1,0h1m-2,0h1m-3,0h1m1,-1h1m-1,0h1m-4,0h1m2,0h1m-1,0h1m-2,0h1m1,0h1m-2,0h1M30,13h1m-2,0h1m-4,0h1m3,0h1m1,0h1M32,12h1M29,11h1h1h1M30,10h1m-2,1h1m-2,0h1m2,-1h1m-1,0h1m-2,0h1h1m-2,0h1M31,9h1M27,9h1m3,0h1M26,9h1M29,8h1h1M30,8h1M30,8h1h1M29,7h1M27,4h1m8,33h1M36,36h1M35,33h1m2,-1h1M34,31h1m4,-1h1m-5,0h1m3,0h1m-3,0h1M36,29h1m-2,0h1h1m1,0h1m-1,0h1m-4,0h1m-1,0h1M35,28h1m1,0h1m-3,0h1h1m2,0h1m-2,0h1m-5,0h1h1M35,27h1m3,0h1m-5,0h1h1m0,-1h1m-3,0h1m1,0h1h1m-4,0h1h1m-1,0h1m2,0h1m-3,0h1m-3,0h1m1,-1h1m1,0h1m-5,0h1h1h1m-3,0h1m2,-1h1m-1,1h1M38,24h1m-4,0h1m3,0h1m-4,0h1m1,-1h1m-3,0h1h1h1m-1,0h1m-2,0h1M35,22h1m0,1h1m2,-1h1m-2,0h1h1m-1,0h1m-5,0h1m3,0h1m-2,0h1h1m-3,0h1m-2,0h1m-2,0h1m3,0h1m-2,0h1m-2,0h1h1m-4,0h1m2,-1h1m-3,0h1m1,0h1m-3,0h1m-1,0h1m2,0h1m-2,0h1h1M37,20h1h1m-4,0h1m3,0h1m-4,0h1m-1,0h1m1,0h1m-4,0h1m-1,0h1m2,0h1m-3,0h1m2,0h1M36,19h1m1,1h1M37,19h1h1m-3,0h1m-1,0h1m-2,0h1m-1,0h1m-2,0h1h1M35,18h1m1,0h1m1,0h1m-4,0h1h1m-1,0h1m-1,0h1m-3,0h1m-1,0h1m0,-1h1m1,0h1m-3,0h1m-2,0h1m-1,0h1m3,0h1m-6,0h1m2,0h1m-4,0h1m0,-1h1m-1,0h1h1m1,0h1m-3,0h1m-1,0h1m-1,0h1m-2,0h1m-1,0h1m-1,0h1m1,0h1m-3,0h1m-1,0h1m1,0h1m-1,0h1m1,-1h1m-4,0h1m0,1h1m0,-1h1m-4,0h1m-1,0h1m1,0h1M37,14h1m1,0h1m-2,0h1m1,0h1M36,13h1m0,1h1m-2,0h1M35,13h1h1h1m-1,0h1h1m-3,0h1m-1,0h1m-2,0h1m1,0h1m-1,0h1m1,0h1m-2,0h1m-3,0h1m1,-1h1m-1,0h1m-4,0h1m2,0h1m-1,0h1M37,11h1m1,0h1m-2,0h1m-1,0h1M37,10h1m-4,0h1m3,0h1m1,0h1M40,9h1M37,9h1M38,8h1h1M38,7h1M37,8h1M36,7h1m2,0h1M39,7h1M38,6h1h1M38,6h1M39,5h1M35,3h1m3,0h1M34,3h1m2,0h1M38,2h1M38,2h1M38,2h1h1M37,1h1m6,35h1M44,35h1M43,34h1m2,0h1M42,33h1m4,-1h1m-5,0h1m3,0h1m-3,0h1m-2,0h1M43,31h1h1m1,-1h1m-1,0h1m-4,0h1m-1,0h1M43,29h1m1,0h1m-3,0h1m0,-1h1m2,0h1m-2,0h1m-5,0h1h1M43,27h1m3,0h1m-5,0h1h1h1m-3,0h1m1,0h1h1m-4,0h1m0,-1h1m-1,0h1m2,0h1M45,25h1m-3,0h1m1,0h1m1,0h1m-5,0h1h1h1M43,24h1m2,0h1m-1,0h1m-1,0h1m-4,0h1m3,0h1m-4,0h1m1,-1h1m-3,0h1h1h1m-1,0h1m-2,0h1m-3,0h1h1m2,-1h1m-2,0h1m0,1h1M47,22h1m-5,0h1m3,0h1m-2,0h1h1m-3,0h1m-2,0h1m-2,0h1m3,0h1m-2,0h1m-2,0h1h1M43,21h1m2,0h1m-3,0h1m1,0h1m-3,0h1m-1,0h1m2,0h1m-2,0h1h1m-3,0h1h1m-4,0h1m3,-1h1m-4,0h1m-1,0h1m1,0h1m-4,0h1m-1,0h1m2,0h1m-3,0h1m2,0h1M44,19h1m1,1h1m-2,0h1h1m-3,0h1M44,19h1m-2,0h1m-1,0h1m-2,0h1h1M43,18h1m1,0h1m1,0h1m-4,0h1h1m-1,0h1m-1,0h1m-3,0h1m-1,0h1h1m1,0h1m-3,0h1M43,17h1m-1,0h1m3,1h1m-6,0h1m2,-1h1m-4,0h1h1m-1,0h1h1m1,0h1M44,16h1m-1,0h1m-1,0h1m-2,1h1m-1,0h1M43,16h1m1,0h1m-3,0h1m-1,0h1m1,0h1m-1,0h1m1,0h1m-4,0h1h1m0,-1h1m-4,1h1M43,15h1m1,0h1m-1,0h1m1,0h1m-2,0h1m1,0h1M44,14h1h1m-2,0h1m-2,0h1h1h1m-1,0h1h1m-3,0h1m-1,0h1M43,13h1m1,0h1m-1,0h1m1,0h1m-2,0h1M44,12h1m1,0h1m-1,0h1m-4,0h1m2,-1h1m-1,0h1m-2,0h1m1,0h1m-2,0h1m-1,0h1m-2,0h1M42,10h1m3,0h1m1,0h1m-1,0h1m-4,0h1M46,9h1h1M46,9h1M45,9h1M44,9h1m2,0h1M47,8h1M46,8h1h1M46,8h1h1M43,8h1M47,7h1M42,6h1m2,0h1M46,5h1M46,4h1M46,2h1M47,1h1M45,1h1M43,0h1m8,47h1M52,44h1m-2,0h1m2,-1h1M50,39h1m4,-1h1M51,37h1m3,0h1m-3,0h1M52,36h1m-2,0h1h1m1,0h1M54,35h1M51,34h1m-1,0h1m-1,0h1m1,0h1m-3,0h1m0,-1h1m2,0h1m-2,0h1M50,32h1h1M51,31h1m3,0h1m-5,0h1h1h1m-3,0h1m1,0h1h1M51,30h1h1m-1,0h1m2,0h1m-3,0h1m-3,0h1m1,0h1m1,0h1m-5,0h1m0,-1h1h1m-3,0h1m2,0h1m-1,0h1m-1,0h1m-4,0h1m3,0h1M52,28h1m1,0h1m-3,0h1h1h1m-1,0h1m-2,0h1m-3,0h1h1m2,0h1m-2,0h1m0,-1h1m-1,0h1m-5,0h1m3,0h1m-2,0h1h1m-3,0h1m-2,0h1m-2,0h1m3,0h1m-2,0h1m-2,0h1m0,-1h1m-4,0h1m2,0h1m-3,0h1m1,0h1m-3,0h1m-1,0h1m2,0h1M54,25h1h1m-3,0h1h1m-4,0h1m3,0h1m-4,0h1M52,24h1m1,1h1m-4,0h1M51,24h1m2,0h1m-3,1h1m2,-1h1m-4,0h1m1,0h1m-2,0h1h1m-3,0h1m-1,0h1m-2,0h1m-1,0h1m-2,0h1h1m-1,0h1m1,0h1m1,-1h1m-4,0h1h1m-1,1h1M53,23h1m-3,0h1m-1,0h1h1m1,0h1m-3,0h1M51,22h1m-1,0h1m3,0h1m-6,1h1m2,-1h1m-4,0h1h1m-1,0h1h1m1,0h1m-3,0h1m-1,0h1m-1,0h1M51,21h1m-1,1h1M51,21h1m1,0h1m-3,0h1m-1,0h1m1,0h1m-1,0h1m1,0h1m-4,0h1h1m0,-1h1m-4,0h1m-1,0h1m1,0h1m-1,0h1m1,0h1m-2,0h1m1,0h1M52,19h1m0,1h1m-2,0h1M51,19h1m0,1h1m0,-1h1m-1,0h1h1m-3,0h1m-1,0h1m-2,0h1m1,0h1m-1,0h1m1,0h1M54,18h1m-3,0h1m1,0h1m-1,0h1m-4,0h1m2,0h1m-1,0h1M53,17h1m1,0h1m-2,0h1m-1,0h1m-2,0h1m-4,0h1m3,0h1m1,-1h1m-1,0h1m-4,0h1h1h1m-2,0h1m-2,0h1m-2,0h1m2,-1h1M55,14h1m-2,0h1h1m-2,0h1m0,-1h1m-5,0h1m3,0h1M50,12h1m2,-1h1h1m-1,0h1m-1,0h1m0,-1h1m-3,0h1M51,9h1m8,47h1M60,51h1m-2,0h1m2,-3h1M58,46h1m4,1h1M59,46h1m3,0h1m-3,0h1M60,45h1M59,44h1h1m1,0h1m-1,0h1m-4,0h1M59,43h1m-1,0h1m1,-1h1m-3,0h1h1m2,0h1m-2,0h1m-5,0h1h1M59,41h1m3,0h1m-5,0h1m0,-1h1m0,1h1M59,40h1m1,0h1h1m-4,0h1m0,-1h1m-1,0h1m2,0h1m-3,1h1M59,39h1m1,0h1m1,0h1m-5,0h1h1h1m-3,0h1m2,0h1m-1,0h1M62,38h1m-4,0h1m3,0h1m-4,0h1m1,0h1m-3,0h1m0,-1h1h1m-1,0h1m-2,0h1M59,36h1m0,1h1m2,0h1M62,36h1h1m-1,0h1m-5,0h1m3,0h1m-2,0h1m0,-1h1m-3,1h1M60,35h1m-2,0h1m3,0h1m-2,0h1m-2,0h1h1m-4,0h1m2,0h1m-3,0h1m1,-1h1m-3,1h1M60,34h1m2,0h1m-2,0h1h1m-3,0h1h1m-4,0h1m3,0h1M60,33h1m-1,0h1m1,0h1m-4,0h1m-1,0h1m2,0h1m-3,0h1m2,0h1m-4,0h1m1,0h1m-2,0h1h1m-3,0h1m-1,0h1M59,32h1m-1,0h1m-2,0h1h1m-1,0h1m1,0h1m1,0h1m-4,0h1h1m-1,0h1m-1,0h1m-3,0h1m-1,0h1h1m1,-1h1m-3,0h1m-2,0h1m-1,0h1m3,0h1m-6,0h1m2,0h1m-4,0h1h1m-1,0h1m0,-1h1m1,0h1m-3,0h1m-1,0h1m-1,0h1m-2,0h1m-1,0h1m-1,0h1m1,0h1m-3,0h1m-1,0h1m1,0h1m-1,0h1m1,0h1m-4,0h1h1m0,-1h1m-4,1h1m-1,0h1m1,-1h1m-1,0h1m1,0h1m-2,0h1m1,0h1m-5,0h1m0,-1h1m-2,0h1m-2,0h1h1h1M61,27h1m0,1h1M60,27h1m-1,0h1m-2,0h1m1,0h1M61,26h1m1,0h1m-2,0h1m-3,0h1m1,0h1M62,25h1m-4,0h1m2,0h1m-1,0h1m-2,0h1m1,0h1m-2,0h1m-1,0h1m-2,0h1M58,24h1m3,0h1m1,0h1M64,23h1m-4,0h1h1m0,-1h1m-2,0h1m-2,0h1m-2,0h1m2,-1h1m-1,0h1m-2,0h1m0,-1h1M62,19h1h1m-5,0h1m3,0h1M58,18h1m2,0h1m0,-1h1m-1,0h1m-1,0h1h1m-3,0h1m-3,0h1m8,44h1m0,-1h1M68,59h1m2,-2h1m-5,0h1m5,-1h1m-6,0h1m3,0h1m-4,0h1m-1,0h1M68,55h1h1m1,0h1m0,-1h1m-5,0h1m-2,0h1m-1,0h1m2,0h1m-4,0h1m1,-1h1m2,0h1m-2,0h1m-5,0h1m-1,0h1h1m4,-1h1m-6,0h1h1m1,0h1m-5,0h1m2,0h1h1M68,51h1m0,1h1M69,51h1m3,0h1m-4,0h1m-3,0h1m1,0h1m1,-1h1m-6,0h1m1,0h1h1m-4,0h1m3,0h1m-1,0h1m-1,0h1M67,49h1m5,0h1m-5,0h1m2,0h1m-5,0h1m1,-1h1m0,1h1m-1,0h1m-2,0h1M68,48h1h1m2,0h1m-1,0h1m-1,0h1h1M68,47h1m3,0h1m-2,0h1m1,0h1m-4,0h1M69,46h1m-3,0h1m4,0h1m-2,0h1m-2,0h1h1m-4,0h1m2,0h1m-3,0h1m2,0h1m-4,0h1m-1,0h1m2,0h1m-2,0h1h1M70,45h1h1m-4,0h1m3,0h1m-4,0h1m-1,0h1m1,0h1m-5,0h1m0,-1h1m2,0h1m-3,0h1m2,0h1m-4,0h1m1,0h1m-2,0h1h1m-3,0h1m-1,0h1m-2,0h1m-1,0h1m-2,0h1h1M68,43h1m1,1h1m2,0h1M69,43h1h1m-1,0h1m-1,0h1m-3,0h1m-2,0h1m1,-1h1m2,0h1m-5,1h1M68,42h1m-1,0h1m3,0h1m-6,0h1m2,0h1m-4,0h1m-1,0h1h1M68,41h1m2,0h1m-3,0h1m-1,0h1M69,40h1m-2,1h1m-1,0h1M68,40h1m1,0h1m-3,0h1m-2,0h1m2,0h1m-1,0h1m1,0h1M68,39h1m1,1h1m0,-1h1m-4,1h1M68,39h1m1,0h1m-1,0h1m1,0h1m-1,0h1h1m-5,0h1h1m-2,0h1M68,38h1m0,1h1m0,-1h1m-1,0h1m1,0h1m-4,0h1m-1,0h1m-2,0h1m1,0h1m-1,0h1m2,0h1m-3,0h1M69,37h1m1,0h1m0,-1h1m-5,0h1m2,-1h1m-1,0h1m-2,0h1m1,0h1m-2,0h1m-1,0h1M70,34h1m-4,0h1m3,0h1m1,0h1m-1,0h1M69,33h1m1,0h1h1M71,32h1m-2,0h1m-2,0h1m2,0h1M72,31h1m-2,0h1m1,-1h1m-3,0h1m0,-1h1m-5,0h1m3,0h1M67,28h1m2,0h1h1m-1,0h1m-1,0h1m1,0h1M70,26h1M68,19h1m8,58h1M77,74h1m-2,0h1m2,-1h1M75,72h1m4,-1h1M76,70h1m3,0h1m-3,0h1M77,69h1m-2,1h1h1m1,-1h1m-1,0h1m-4,0h1M76,67h1m-1,0h1m1,-1h1m-3,0h1h1m2,0h1m-2,0h1m-5,0h1h1M76,65h1m3,-1h1m-5,0h1h1h1m-3,0h1m1,0h1h1M76,63h1m0,1h1M77,63h1m2,0h1m-3,0h1m-3,0h1m1,0h1m1,0h1m-5,0h1h1h1m-3,0h1m2,-1h1m-1,0h1m-1,0h1m-4,0h1m3,0h1m-4,0h1m1,0h1M77,61h1h1h1m-1,0h1m-2,0h1m-3,0h1h1m2,0h1m-2,0h1h1M80,60h1m-5,0h1m3,1h1m-2,0h1m0,-1h1m-3,0h1m-2,0h1m-2,0h1m3,0h1m-2,0h1m-2,0h1h1M76,59h1m2,0h1m-3,0h1m1,0h1m-3,0h1m-1,0h1m2,0h1M79,58h1m0,1h1M78,58h1h1m-4,1h1m3,-1h1m-4,0h1m-1,0h1m1,0h1m-4,0h1m-1,0h1m2,0h1m-3,0h1m2,0h1M77,57h1m1,0h1m-2,0h1h1m-3,0h1m-1,0h1m-2,0h1m-1,0h1M75,56h1h1m-1,0h1m1,0h1m1,0h1M77,55h1h1m-1,0h1m-1,0h1m-3,0h1m-1,0h1h1m1,-1h1m-3,1h1M76,54h1m-1,0h1m3,0h1m-6,0h1m2,0h1m-4,0h1h1m-1,0h1h1m1,-1h1m-3,1h1M77,53h1m-1,0h1m-2,0h1m-1,0h1M76,52h1m1,0h1m-3,0h1m-1,0h1m1,0h1m-1,0h1m1,0h1m-4,0h1h1m0,-1h1m-4,1h1M76,51h1m1,0h1m-1,0h1m1,0h1m-2,0h1m1,0h1M77,50h1h1m-2,0h1m-2,0h1h1h1m-1,0h1h1m-3,0h1m-1,0h1m-2,0h1m1,-1h1m-1,0h1m1,0h1m-2,0h1m-3,0h1m1,0h1M79,48h1m-4,0h1m2,0h1m-1,0h1M78,47h1m1,1h1M79,47h1m-1,0h1m-2,0h1m-4,0h1m3,0h1m1,-1h1m-1,0h1M78,45h1h1h1m-2,0h1m-2,0h1m-2,0h1m2,0h1m-1,0h1m-2,0h1h1M79,44h1h1M76,43h1m3,-1h1M75,41h1m2,0h1h1M79,39h1M79,38h1m0,-1h1m-3,0h1M76,36h1m8,49h1m-1,0h1M84,84h1m2,0h1M83,83h1m4,-1h1M84,81h1m3,0h1M86,80h1m-2,0h1M84,79h1h1m1,0h1m-1,0h1M84,78h1m-1,0h1m-1,0h1m1,-1h1m-3,0h1h1m2,0h1m-2,0h1m-5,0h1h1m-1,0h1m3,-1h1m-5,0h1h1h1m-3,0h1m1,0h1h1M84,75h1h1m-1,0h1m2,-1h1m-3,0h1m-3,0h1m1,0h1m1,0h1m-5,0h1h1h1m-3,0h1m2,0h1M87,73h1m-1,0h1m-4,0h1m3,0h1m-4,0h1m1,0h1m-3,0h1m0,-1h1h1m-1,0h1m-2,0h1m-3,0h1h1m2,0h1m-2,0h1h1m-1,0h1m-5,0h1m3,0h1m-2,0h1m0,-1h1m-3,0h1m-2,0h1m-2,0h1m3,-1h1m-2,1h1M86,70h1m0,1h1M84,70h1m2,0h1m-3,0h1m1,0h1m-3,0h1m-1,0h1m2,0h1M87,69h1h1m-3,0h1h1m-4,0h1m3,0h1M85,68h1m-1,0h1m1,0h1m-4,0h1m-1,0h1m2,0h1m-3,0h1m2,0h1m-4,0h1m1,0h1m-2,0h1h1m-3,0h1m-1,0h1M84,67h1m-1,0h1m-2,0h1h1m-1,0h1m1,0h1m1,0h1M85,66h1h1m-1,1h1M86,66h1m-3,0h1m-1,0h1h1m1,0h1m-3,0h1m-2,0h1m-1,0h1m3,0h1m-6,0h1m2,0h1m-4,0h1h1m-1,0h1m0,-1h1m1,0h1m-3,0h1m-1,0h1m-1,0h1m-2,0h1m-1,0h1m-1,0h1m1,-1h1m-3,0h1m-1,0h1m1,1h1m-1,0h1m1,0h1M85,64h1h1h1m-4,0h1m-1,0h1m1,0h1m-1,0h1m1,-1h1m-2,0h1m1,0h1m-5,0h1h1m-2,0h1M84,62h1m0,1h1m0,-1h1m-1,0h1h1m-3,0h1M85,61h1m-2,0h1m1,0h1m-1,0h1m1,0h1m-2,0h1m-3,0h1m1,0h1M87,60h1m-4,0h1m2,0h1m-1,0h1m-2,0h1m1,0h1m-2,0h1m-1,0h1M86,59h1m-4,0h1m3,0h1m1,-1h1m-1,0h1m-4,0h1h1h1m-2,0h1M86,57h1m-2,0h1m2,-1h1M88,55h1m-2,1h1h1M87,55h1m0,-1h1m-5,1h1m3,-1h1m-6,0h1m2,-1h1h1M87,52h1m-1,0h1m0,-2h1M86,49h1m-3,0h1m8,47h1M93,95h1M92,94h1m2,0h1M91,92h1m4,0h1M92,91h1m3,0h1m-3,0h1M93,90h1m-2,0h1h1m1,0h1M95,89h1m-4,0h1m-1,0h1m-1,0h1m1,0h1m-3,0h1m0,-1h1m2,0h1m-2,0h1m-5,0h1h1M92,87h1m3,0h1M92,86h1h1h1m-3,0h1m1,0h1h1M92,85h1h1m-1,0h1m2,0h1M94,84h1m-3,0h1m1,0h1m1,0h1m-5,0h1m0,-1h1h1m-3,0h1m2,0h1m-1,0h1m-1,0h1m-4,0h1m3,0h1m-4,0h1m1,0h1m-3,0h1m0,-1h1m0,1h1M95,82h1m-2,0h1m-3,0h1h1m2,0h1m-2,0h1h1m-1,0h1m-5,0h1m3,-1h1m-2,0h1h1m-3,0h1m-2,0h1m-2,0h1m3,0h1m-2,0h1m-2,0h1h1M92,80h1m2,0h1m-3,0h1m1,0h1m-3,0h1m-1,0h1m2,0h1m-2,0h1h1M94,79h1h1m-4,0h1m3,0h1m-4,0h1m-1,0h1m1,0h1m-4,0h1m-1,0h1m2,0h1m-3,0h1m2,0h1M93,78h1m1,1h1m-2,0h1m0,-1h1m-3,0h1m-1,0h1m-2,0h1m-1,0h1m-2,0h1h1m-1,0h1m1,-1h1m1,0h1m-4,0h1h1m-1,0h1m-1,0h1m-3,0h1m-1,0h1h1m1,-1h1m-3,0h1m-2,0h1m-1,0h1m3,0h1m-6,0h1m2,0h1m-4,0h1m0,-1h1m-1,0h1h1m1,0h1m-3,0h1m-1,0h1m-1,0h1m-2,0h1m-1,0h1m-1,0h1m1,0h1m-3,0h1m-1,0h1m1,0h1m-1,0h1m1,-1h1m-4,0h1m0,1h1m0,-1h1m-4,0h1m-1,0h1m1,0h1m-1,0h1m1,-1h1m-2,0h1m1,0h1m-5,0h1h1m-2,0h1m-2,0h1h1h1m-1,0h1h1m-3,0h1m-1,0h1M92,72h1m1,0h1m-1,0h1m1,0h1m-2,0h1m-3,0h1m1,0h1m-1,0h1m-4,0h1m2,-1h1m-1,0h1m-2,0h1m1,-1h1m-2,0h1m-1,0h1m-2,0h1m-4,0h1m3,-1h1m1,0h1m-1,0h1m-4,0h1h1m0,-1h1m-2,0h1m-2,0h1M93,67h1m2,0h1M96,66h1m-2,0h1m0,-1h1m-2,0h1m0,-1h1m-5,1h1m3,0h1M91,64h1m2,-1h1h1M95,62h1m-1,0h1m0,-1h1m-3,0h1M92,60h1m8,40h1m-1,0h1m-2,-2h1m2,0h1m-5,0h1m4,-1h1m-5,0h1m3,0h1m-3,-1h1m-2,0h1m-2,0h1h1m1,0h1m-1,-1h1m-4,1h1m-1,-1h1m-1,0h1m1,0h1m-3,0h1m0,-1h1m2,1h1m-2,0h1M99,94h1h1m-1,0h1m3,-1h1m-5,0h1m0,-1h1m0,1h1m-3,-2h1m1,1h1m0,-1h1m-4,0h1h1m-1,0h1m2,0h1m-3,0h1m-3,0h1m1,-1h1m1,0h1m-5,0h1m0,-1h1h1m-3,0h1m2,0h1m-1,0h1m-1,0h1m-4,0h1m3,0h1m-4,0h1m1,0h1m-3,0h1m0,-1h1m0,1h1m-1,0h1m-2,0h1m-3,-1h1h1m2,0h1m-2,0h1h1m-1,0h1m-5,0h1m3,-1h1m-2,0h1h1m-3,0h1m-2,0h1m-2,0h1m3,0h1m-2,0h1m-2,0h1h1m-4,-1h1m2,0h1m-3,0h1m1,0h1m-3,0h1m-1,0h1m2,0h1m-2,0h1h1m-3,0h1h1m-4,-1h1m3,0h1m-4,0h1m-1,0h1m1,0h1m-4,0h1m-1,0h1m2,0h1m-3,0h1m2,0h1m-4,-1h1m1,0h1m-2,0h1h1m-3,0h1m-1,0h1m-2,0h1m-1,0h1m-2,0h1h1m-1,0h1m1,-1h1m1,0h1m-4,0h1h1m-1,0h1m-1,0h1m-3,0h1m-1,0h1m0,-1h1m1,0h1m-3,1h1m-2,-1h1m-1,0h1m3,0h1m-6,0h1m2,0h1m-4,0h1m0,-1h1m-1,0h1h1m1,0h1m-3,0h1m-1,0h1m-1,0h1m-2,0h1m-1,0h1m-1,-1h1m1,0h1m-3,0h1m-1,0h1m1,1h1m-1,-1h1m1,0h1m-4,0h1h1h1m-4,-1h1m-1,0h1m1,0h1m-1,0h1m1,0h1m-2,0h1m1,0h1m-5,0h1h1m-2,0h1m-2,0h1h1h1m-1,0h1h1m-3,0h1m-1,0h1m-2,-1h1m1,0h1m-1,0h1m1,0h1m-2,0h1m-3,0h1m1,0h1m-1,-1h1m-4,0h1m2,0h1m-1,0h1m-2,0h1m1,0h1m-2,0h1m-1,-1h1m-2,0h1M99,75h1m3,1h1m1,-1h1m-1,0h1m-4,0h1h1m0,-1h1m-2,0h1m-2,0h1m-2,0h1m2,-1h1m-1,0h1m-2,0h1h1m-2,0h1m0,-1h1m-5,0h1m3,0h1M99,71h1m2,0h1h1m-1,0h1m-1,-1h1h1m-3,0h1m-3,-1h1m8,34h1m-1,-1h1m-2,0h1m2,-1h1m-5,0h1m4,0h1m-5,-1h1m3,1h1m-3,0h1m-2,-1h1m-2,0h1h1m1,-1h1m-1,0h1m-4,0h1m-1,-1h1m-1,0h1m1,0h1m-3,-1h1h1m2,0h1m-2,0h1m-5,0h1h1m-1,0h1m3,-1h1m-5,0h1h1h1m-3,-1h1m1,0h1h1m-4,0h1h1m-1,0h1m2,0h1m-3,0h1m-3,0h1m1,0h1m1,-1h1m-5,0h1m0,-1h1h1m-3,0h1m2,0h1m-1,0h1m-1,0h1m-4,-1h1m3,0h1m-4,0h1m1,0h1m-3,1h1m0,-1h1h1m-1,0h1m-2,0h1m-3,0h1m0,-1h1m2,0h1m-2,0h1h1m-1,0h1m-5,0h1m3,0h1m-2,0h1h1m-3,0h1m-2,0h1m-2,0h1m3,0h1m-2,0h1m-2,0h1h1m-4,-1h1m2,0h1m-3,0h1m1,0h1m-3,0h1m-1,0h1m2,0h1m-2,0h1h1m-3,-1h1m0,1h1m-4,0h1m3,-1h1m-4,1h1m-1,-1h1m1,0h1m-4,0h1m-1,0h1m2,0h1m-3,0h1m2,-1h1m-4,0h1m1,0h1m-2,0h1h1m-3,0h1m-1,0h1m-2,0h1m-1,0h1m-2,-1h1m0,1h1m-1,-1h1m1,0h1m1,0h1m-4,0h1h1m-1,0h1m-1,0h1m-3,0h1m-1,0h1h1m1,0h1m-3,0h1m-2,-1h1m-1,0h1m3,0h1m-6,1h1m2,0h1m-4,0h1m0,-1h1m-1,0h1h1m1,0h1m-3,0h1m-1,0h1m-1,0h1m-2,0h1m-1,0h1m-1,0h1m1,0h1m-3,0h1m-1,0h1m1,0h1m-1,0h1m1,-1h1m-4,0h1h1h1m-4,0h1m-1,0h1m1,0h1m-1,0h1m1,0h1m-2,-1h1m1,0h1m-5,0h1h1m-2,0h1m-2,0h1h1h1m-1,0h1h1m-3,-1h1m-1,0h1m-2,-1h1m1,1h1m-1,0h1m1,0h1m-2,-1h1m-3,0h1m1,0h1m-1,-1h1m-4,0h1m2,0h1m-1,0h1m-2,-1h1m1,0h1m-2,0h1m-1,0h1m-2,-1h1m-4,0h1m3,0h1m1,0h1m-1,-1h1m-4,0h1m0,-1h1h1m-2,-1h1m-2,1h1m-2,-1h1m2,-1h1m-1,0h1m-2,0h1h1m-2,-1h1h1m-5,0h1m3,0h1m-6,0h1m2,-1h1h1m-1,-1h1m-1,1h1m0,-1h1m-3,-1h1m6,34h1m0,-5h1m-2,0h1m2,0h1m-5,-1h1m5,0h1m-6,-1h1m3,0h1m-4,-1h1m-1,0h1m-2,0h1h1m1,-1h1h1m-5,0h1m-2,0h1m-1,0h1m2,-1h1m-4,0h1m1,0h1m2,0h1m-2,0h1m-5,0h1m-1,0h1h1m4,-1h1m-6,0h1h1m1,0h1m-5,-1h1m2,0h1h1m-4,-1h1h1m-1,0h1m3,0h1m-4,0h1m-3,0h1m1,0h1m1,0h1m-6,0h1m1,-1h1h1m-4,0h1m3,0h1m-1,0h1m-1,0h1m-5,0h1m5,0h1m-5,0h1m2,0h1m-5,0h1m1,-1h1m0,1h1m-1,0h1m-2,0h1m-3,-1h1h1m2,0h1m-1,0h1m-1,0h1h1m-6,0h1m3,0h1m-2,0h1m1,-1h1m-4,0h1m-2,0h1m-3,0h1m4,0h1m-2,0h1m-2,0h1h1m-4,-1h1m2,0h1m-3,1h1m2,-1h1m-4,0h1m-1,0h1m2,0h1m-2,0h1h1m-3,-1h1h1m-4,1h1m3,-1h1m-4,1h1m-1,-1h1m1,0h1m-5,0h1h1m2,0h1m-3,-1h1m2,0h1m-4,0h1m1,0h1m-2,1h1m0,-1h1m-3,0h1m-1,0h1m-2,0h1m-1,0h1m-2,0h1h1m-1,0h1m1,0h1m2,0h1m-5,0h1h1m-1,-1h1m-1,0h1m-3,0h1m-2,0h1m1,0h1m2,0h1m-5,0h1m-1,0h1m-1,0h1m3,0h1m-6,0h1m2,0h1m-4,-1h1m-1,0h1h1m-1,0h1m2,0h1m-3,0h1m-1,-1h1m-1,0h1m-2,0h1m-1,0h1m-1,0h1m1,0h1m-3,0h1m-2,0h1m2,0h1m-1,0h1m1,0h1m-5,-1h1m1,0h1h1m-4,0h1m-1,0h1m1,0h1m-1,0h1m1,0h1m-1,-1h1m0,1h1m-5,-1h1h1m-2,1h1m-2,-1h1m0,1h1h1m-1,0h1m1,-1h1m-4,0h1m-1,0h1m-2,0h1m1,0h1m-1,-1h1m2,0h1m-3,0h1m-3,0h1m1,0h1h1m-5,0h1m2,-1h1m-1,0h1m-2,0h1m1,0h1m-2,0h1m-1,-1h1m-2,0h1m-4,0h1m3,0h1m1,0h1m-1,0h1m-5,-1h1m1,0h1h1m-2,0h1m-2,0h1m-2,0h1m2,-1h1m-1,0h1m-2,0h1m1,0h1m-3,-2h1h1m-5,0h1m3,-1h1m-6,0h1m2,0h1h1m-1,-1h1m-1,-1h1m1,-5h1m-4,-2h1m6,37h1m-1,-1h1m-2,-1h1m2,-1h1m-5,-1h1m4,-1h1m-5,0h1m3,0h1m-3,-1h1m-2,0h1m-2,0h1m0,-1h1m1,0h1m-1,-1h1m-4,-1h1m-1,-1h1m-1,0h1m1,0h1m-3,0h1h1m2,0h1m-2,-1h1m-5,0h1h1m-1,0h1m3,-1h1m-5,0h1h1h1m-3,0h1m1,0h1h1m-4,-1h1m0,1h1m-1,-1h1m2,1h1m-3,-1h1m-3,0h1m1,0h1m1,-1h1m-5,0h1h1h1m-3,0h1m2,0h1m-1,0h1m-1,0h1m-4,-1h1m3,0h1m-4,0h1m1,0h1m-3,0h1h1h1m-1,0h1m-2,0h1m-3,0h1h1m2,-1h1m-2,0h1h1m-1,0h1m-5,0h1m3,0h1m-2,0h1h1m-3,0h1m-2,-1h1m-2,0h1m3,0h1m-2,0h1m-2,0h1h1m-4,0h1m2,0h1m-3,0h1m1,-1h1m-3,1h1m-1,-1h1m2,0h1m-2,0h1h1m-3,0h1h1m-4,0h1m3,0h1m-4,0h1m-1,0h1m1,-1h1m-4,1h1m-1,-1h1m2,0h1m-3,1h1m2,-1h1m-4,0h1m1,0h1m-2,0h1h1m-3,0h1m-1,0h1m-2,-1h1m-1,0h1m-2,0h1h1m-1,0h1m1,0h1m1,0h1m-4,0h1h1m-1,-1h1m-1,0h1m-3,0h1m-1,0h1h1m1,0h1m-3,0h1m-2,0h1m-1,0h1m3,0h1m-6,0h1m2,0h1m-4,0h1h1m-1,-1h1h1m1,0h1m-3,-1h1m-1,0h1m-1,0h1m-2,0h1m-1,0h1m-1,0h1m1,0h1m-3,-1h1m-1,1h1m1,0h1m-1,-1h1m1,0h1m-4,0h1h1h1m-4,0h1m-1,0h1m1,0h1m-1,0h1m1,0h1m-2,0h1m1,-1h1m-5,0h1h1m-2,0h1m-2,0h1h1h1m-1,0h1h1m-3,0h1m-1,0h1m-2,-1h1m1,1h1m-1,0h1m1,0h1m-2,-1h1m-3,0h1m1,0h1m-1,0h1m-4,0h1m2,-1h1m-1,0h1m-2,0h1m1,0h1m-2,-1h1m-1,0h1m-2,0h1m-4,0h1m3,-1h1m1,0h1m-1,0h1m-4,0h1h1h1m-2,-1h1m-2,1h1m-2,0h1m2,-1h1m-1,0h1m-2,-1h1h1m-2,-1h1h1m-5,0h1m3,-1h1m-6,-1h1m2,0h1m0,-1h1m-1,0h1m-1,-1h1m0,-1h1m-3,0h1m-3,-1h1m8,28h1m-1,-2h1m-2,-1h1m2,0h1m-5,-2h1m4,0h1m-5,0h1m3,-1h1m-3,0h1m-2,0h1m-2,0h1h1m1,-1h1m-1,0h1m-4,0h1m-1,0h1m-1,-1h1m1,0h1m-3,0h1h1m2,0h1m-2,0h1m-5,-1h1h1m-1,0h1m3,0h1m-5,0h1h1h1m-3,-1h1m1,0h1h1m-4,0h1h1m-1,0h1m2,0h1m-3,-1h1m-3,0h1m1,0h1m1,0h1m-5,0h1h1h1m-3,-1h1m2,0h1m-1,0h1m-1,0h1m-4,0h1m3,0h1m-4,0h1m1,0h1m-3,-1h1h1h1m-1,0h1m-2,0h1m-3,0h1h1m2,0h1m-2,0h1h1m-1,-1h1m-5,0h1m3,1h1m-2,0h1m0,-1h1m-3,0h1m-2,0h1m-2,0h1m3,-1h1m-2,1h1m-2,-1h1m0,1h1m-4,-1h1m2,0h1m-3,0h1m1,0h1m-3,0h1m-1,0h1m2,0h1m-2,0h1h1m-3,0h1m0,-1h1m-4,1h1m3,-1h1m-4,0h1m-1,0h1m1,0h1m-4,0h1m-1,0h1m2,0h1m-3,0h1m2,0h1m-4,-1h1m1,0h1m-2,0h1h1m-3,0h1m-1,0h1m-2,0h1m-1,0h1m-2,0h1h1m-1,-1h1m1,0h1m1,0h1m-4,0h1m0,-1h1m-1,1h1m-1,0h1m-3,-1h1m-1,0h1h1m1,0h1m-3,0h1m-2,0h1m-1,0h1m3,0h1m-6,0h1m2,0h1m-4,0h1h1m-1,0h1h1m1,0h1m-3,0h1m-1,-1h1m-1,1h1m-2,0h1m-1,0h1m-1,-1h1m1,0h1m-3,0h1m-1,0h1m1,0h1m-1,0h1m1,0h1m-4,-1h1m0,1h1m0,-1h1m-4,0h1m-1,0h1m1,0h1m-1,0h1m1,-1h1m-2,0h1m1,0h1m-5,0h1h1m-2,0h1m-2,-1h1m0,1h1m0,-1h1m-1,0h1h1m-3,0h1m-1,0h1m-2,0h1m1,0h1m-1,0h1m1,0h1m-2,-1h1m-3,0h1m1,0h1m-1,-1h1m-4,-1h1m2,0h1m-1,0h1m-2,0h1m1,0h1m-2,0h1m-1,0h1m-2,0h1m-4,-1h1m3,0h1m1,0h1m-1,0h1m-4,0h1m0,-1h1h1m-2,0h1m-2,-1h1m-2,0h1m2,0h1m-1,-1h1m-2,1h1m0,-1h1m-2,0h1m0,-1h1m-5,0h1m3,0h1m-6,0h1m2,0h1m0,-1h1m-1,0h1m-1,0h1m0,-3h1m-3,-3h1m-3,-2h1m8,33h1m-1,-4h1m-2,-3h1m2,0h1m-5,-1h1m4,0h1m-5,0h1m3,-1h1m-3,-1h1m-2,0h1m-2,0h1m0,-1h1m1,0h1m-1,-1h1m-4,0h1m-1,0h1m-1,-1h1m1,0h1m-3,0h1h1m2,0h1m-2,0h1m-5,0h1h1m-1,-1h1m3,0h1m-5,0h1m0,-1h1m0,1h1m-3,-1h1m1,1h1m0,-1h1m-4,0h1h1m-1,0h1m2,-1h1m-3,0h1m-3,0h1m1,1h1m1,-1h1m-5,0h1h1h1m-3,0h1m2,0h1m-1,0h1m-1,-1h1m-4,0h1m3,0h1m-4,0h1m1,0h1m-3,0h1h1h1m-1,0h1m-2,0h1m-3,-1h1h1m2,0h1m-2,0h1h1m-1,0h1m-5,-1h1m3,0h1m-2,1h1m0,-1h1m-3,0h1m-2,0h1m-2,0h1m3,0h1m-2,0h1m-2,0h1h1m-4,-1h1m2,0h1m-3,1h1m1,-1h1m-3,0h1m-1,0h1m2,0h1m-2,0h1h1m-3,0h1h1m-4,0h1m3,0h1m-4,0h1m-1,-1h1m1,0h1m-4,0h1m-1,0h1m2,0h1m-3,0h1m2,0h1m-4,0h1m1,0h1m-2,-1h1h1m-3,0h1m-1,0h1m-2,0h1m-1,0h1m-2,0h1h1m-1,0h1m1,0h1m1,-1h1m-4,0h1h1m-1,0h1m-1,0h1m-3,0h1m-1,0h1m0,-1h1m1,0h1m-3,0h1m-2,0h1m-1,0h1m3,0h1m-6,0h1m2,0h1m-4,0h1h1m-1,0h1h1m1,-1h1m-3,1h1m-1,-1h1m-1,1h1m-2,0h1m-1,-1h1m-1,0h1m1,0h1m-3,0h1m-1,0h1m1,0h1m-1,-1h1m1,0h1m-4,0h1h1m0,-1h1m-4,1h1m-1,-1h1m1,0h1m-1,0h1m1,0h1m-2,0h1m1,0h1m-5,0h1h1m-2,0h1m-2,-1h1m0,1h1m0,-1h1m-1,0h1h1m-3,0h1m-1,0h1m-2,0h1m1,-1h1m-1,0h1m1,0h1m-2,0h1m-3,0h1m1,0h1m-1,0h1m-4,0h1m2,0h1m-1,-1h1m-2,0h1m1,0h1m-2,0h1m-1,0h1m-2,0h1m-4,-1h1m3,0h1m1,0h1m-1,0h1m-4,-1h1h1h1m-2,0h1m-2,0h1m-2,0h1m2,-1h1m-1,0h1m-2,-1h1h1m-2,0h1m0,-1h1m-5,0h1m3,0h1m-6,-1h1m2,0h1h1m-1,-1h1m-1,0h1m0,-4h1m-3,-1h1m-3,-3h1" style="stroke: #00009a; fill: none;"></path>
       </g>
      </svg>
+     <g>
+      <g transform="translate(0,106)">
+       <path d="M0,0h147M0,-4V0M4,-2V0M8,-2V0M12,-2V0M16,-2V0M20,-4V0M25,-2V0M29,-2V0M33,-2V0M37,-2V0M41,-4V0M45,-2V0M49,-2V0M53,-2V0M57,-2V0M61,-4V0M65,-2V0M69,-2V0M74,-2V0M78,-2V0M82,-4V0M86,-2V0M90,-2V0M94,-2V0M98,-2V0M102,-4V0M106,-2V0M110,-2V0M114,-2V0M118,-2V0M123,-4V0M127,-2V0M131,-2V0M135,-2V0M139,-2V0M143,-4V0M147,-2V0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="middle">
+        <text dy=".8em" transform="translate(0,1)">
+         0
+        </text>
+        <text dy=".8em" transform="translate(20,1)">
+         50
+        </text>
+        <text dy=".8em" transform="translate(41,1)">
+         100
+        </text>
+        <text dy=".8em" transform="translate(61,1)">
+         150
+        </text>
+        <text dy=".8em" transform="translate(82,1)">
+         200
+        </text>
+        <text dy=".8em" transform="translate(102,1)">
+         250
+        </text>
+        <text dy=".8em" transform="translate(123,1)">
+         300
+        </text>
+        <text dy=".8em" transform="translate(143,1)">
+         350
+        </text>
+       </g>
+       <g font-family="Arial" font-size="5" space="preserve" transform="translate(147,8)">
+        <text fill="black" text-anchor="end" dy=".4em">
+         Deg
+        </text>
+       </g>
+      </g>
+      <g>
+       <path d="M0,0v106M6,106H0M6,88H0M6,71H0M6,53H0M6,35H0M6,18H0M6,0H0" style="stroke: black; stroke-width: 1;"></path>
+       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="end">
+        <text dy=".4em" transform="translate(-1,106)">
+         -1.5
+        </text>
+        <text dy=".4em" transform="translate(-1,88)">
+         -1
+        </text>
+        <text dy=".4em" transform="translate(-1,71)">
+         -0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,53)">
+         0
+        </text>
+        <text dy=".4em" transform="translate(-1,35)">
+         0.5
+        </text>
+        <text dy=".4em" transform="translate(-1,18)">
+         1
+        </text>
+        <text dy=".4em" transform="translate(-1)">
+         1.5
+        </text>
+       </g>
+      </g>
+     </g>
     </g>
     <g transform="translate(18,1)" font-family="Arial" font-size="7" space="preserve">
      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(74)">
       candlex(312111)
      </text>
     </g>
-    <g transform="translate(144,9)" font-family="Arial" font-size="8" space="preserve">
-     <path d="M0,0H37V21H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(0,11)">
+    <g transform="translate(144,9)" font-family="Arial" font-size="3" space="preserve" fill="black">
+     <path d="M0,0H37V32H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+     <text text-anchor="middle" dy=".4em" transform="translate(19,3)">
       h1_copy
      </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,8)">
+      Entries
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,8)">
+      3600
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,13)">
+      Mean x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,13)">
+      175.0
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,19)">
+      Mean y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,19)">
+      0.001895
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,24)">
+      Std Dev x
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,24)">
+      103.9
+     </text>
+     <text text-anchor="start" dy=".4em" transform="translate(2,29)">
+      Std Dev y
+     </text>
+     <text text-anchor="end" dy=".4em" transform="translate(35,29)">
+      0.7269
+     </text>
+     <path d="M0,5h37" style="stroke: black; stroke-width: 1;"></path>
     </g>
    </g>
   </svg>
