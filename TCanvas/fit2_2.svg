@@ -160,10 +160,10 @@
      <path d="M0,0H941V307H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="941" height="307" viewBox="0 0 941 307">
       <g>
-       <path d="M71,284h24M83,282v3M94,285h24M106,284v2M118,279h24M130,278v1M141,269h24M153,268v2M165,260h24M177,260v1M188,251h24M200,250v1M212,241h24M224,240v1M235,233h24M247,233v1M259,223h24M271,222v1M282,214h24M294,213v1M306,205h24M318,205v1M329,194h24M341,193v2M353,184h24M365,184v1M376,174h24M388,173v2M400,167h24M412,166v1M423,157h24M435,156v2M447,148h24M459,148v1M471,139h24M483,138v1M494,129h24M506,128v1M518,121h24M530,120v1M541,110h24M553,110v1M565,102h24M577,101v1M588,92h24M600,92v1M612,82h24M624,81v2M635,73h24M647,73v1M659,63h24M671,62v2M682,53h24M694,53v1M706,45h24M718,45v1M729,36h24M741,35v2M753,27h24M765,26v1M776,21h24M788,20v1M800,18h24M812,17v1M823,17h24M835,17v1M847,15h24M859,15v1M870,17h24M882,16v1" style="stroke: #00009a; stroke-width: 1;"></path>
+       <path d="M71,287h24M83,285v3M94,288h24M106,287v1M118,282h24M130,282v1M141,274h24M153,273v1M165,266h24M177,266v1M188,258h24M200,257v1M212,249h24M224,248v1M235,242h24M247,242v1M259,233h24M271,232v1M282,225h24M294,225v1M306,218h24M318,217v1M329,208h24M341,207v1M353,199h24M365,199v1M376,190h24M388,190v1M400,184h24M412,183v1M423,175h24M435,175v1M447,168h24M459,167v1M471,159h24M483,159v1M494,150h24M506,150v1M518,143h24M530,143v1M541,134h24M553,134v1M565,127h24M577,126v1M588,118h24M600,118v1M612,109h24M624,109v1M635,102h24M647,101v1M659,93h24M671,92v1M682,84h24M694,84v1M706,77h24M718,77v1M729,69h24M741,68v1M753,61h24M765,60v1M776,55h24M788,55v1M800,53h24M812,52v1M823,52h24M835,52v1M847,50h24M859,50v1M870,52h24M882,51v2" style="stroke: #00009a; stroke-width: 1;"></path>
       </g>
       <g>
-       <path d="M5,321l9,-4l10,-3l9,-4l10,-4l9,-3l9,-4l10,-3l9,-4l10,-3l9,-4l10,-3l9,-4l9,-3l10,-4l9,-3l10,-4l9,-3l9,-4l10,-3l9,-4l10,-3l9,-4l9,-3l10,-4l9,-4l10,-3l9,-4l9,-3l10,-4l9,-3l10,-4l9,-3l10,-4l9,-3l9,-4l10,-3l9,-4l10,-3l9,-4l9,-3l10,-4l9,-3l10,-4l9,-4l9,-3l10,-4l9,-3l10,-4l9,-3l10,-4l9,-3l9,-4l10,-3l9,-4l10,-3l9,-4l9,-3l10,-4l9,-3l10,-4l9,-3l9,-4l10,-3l9,-4l10,-4l9,-3l9,-4l10,-3l9,-4l10,-3l9,-4l10,-3l9,-4l9,-3l10,-4l9,-3l10,-4l9,-3l9,-4l10,-3l9,-4l10,-3l9,-4l9,-3l10,-4l9,-4l10,-3l9,-4l9,-3l10,-4l9,-3l10,-4l9,-3l10,-4l9,-3l9,-4l10,-3l9,-4l10,-3" style="fill: none; stroke: red; stroke-width: 2;"></path>
+       <path d="M5,319l9,-3l10,-3l9,-3l10,-3l9,-4l9,-3l10,-3l9,-3l10,-3l9,-3l10,-3l9,-3l9,-3l10,-3l9,-4l10,-3l9,-3l9,-3l10,-3l9,-3l10,-3l9,-3l9,-3l10,-3l9,-3l10,-4l9,-3l9,-3l10,-3l9,-3l10,-3l9,-3l10,-3l9,-3l9,-3l10,-4l9,-3l10,-3l9,-3l9,-3l10,-3l9,-3l10,-3l9,-3l9,-3l10,-4l9,-3l10,-3l9,-3l10,-3l9,-3l9,-3l10,-3l9,-3l10,-3l9,-4l9,-3l10,-3l9,-3l10,-3l9,-3l9,-3l10,-3l9,-3l10,-3l9,-3l9,-4l10,-3l9,-3l10,-3l9,-3l10,-3l9,-3l9,-3l10,-3l9,-3l10,-4l9,-3l9,-3l10,-3l9,-3l10,-3l9,-3l9,-3l10,-3l9,-3l10,-4l9,-3l9,-3l10,-3l9,-3l10,-3l9,-3l10,-3l9,-3l9,-3l10,-4l9,-3l10,-3" style="fill: none; stroke: red; stroke-width: 2;"></path>
       </g>
      </svg>
      <g>
@@ -206,37 +206,40 @@
        </g>
       </g>
       <g>
-       <path d="M0,0v307M35,307H0M18,300H0M18,294H0M18,287H0M18,281H0M35,274H0M18,268H0M18,261H0M18,255H0M18,248H0M35,242H0M18,235H0M18,229H0M18,222H0M18,216H0M35,209H0M18,203H0M18,196H0M18,190H0M18,183H0M35,176H0M18,170H0M18,163H0M18,157H0M18,150H0M35,144H0M18,137H0M18,131H0M18,124H0M18,118H0M35,111H0M18,105H0M18,98H0M18,92H0M18,85H0M35,79H0M18,72H0M18,66H0M18,59H0M18,53H0M35,46H0M18,39H0M18,33H0M18,26H0M18,20H0M35,13H0M18,7H0M18,0H0" style="stroke: black; stroke-width: 1;"></path>
+       <path d="M0,0v307M35,307H0M18,301H0M18,296H0M18,290H0M18,284H0M35,278H0M18,273H0M18,267H0M18,261H0M18,255H0M35,250H0M18,244H0M18,238H0M18,232H0M18,227H0M35,221H0M18,215H0M18,210H0M18,204H0M18,198H0M35,192H0M18,187H0M18,181H0M18,175H0M18,169H0M35,164H0M18,158H0M18,152H0M18,146H0M18,141H0M35,135H0M18,129H0M18,124H0M18,118H0M18,112H0M35,106H0M18,101H0M18,95H0M18,89H0M18,83H0M35,78H0M18,72H0M18,66H0M18,60H0M18,55H0M35,49H0M18,43H0M18,37H0M18,32H0M18,26H0M35,20H0M18,15H0M18,9H0M18,3H0" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="end">
         <text dy=".4em" transform="translate(-3,307)">
          0
         </text>
-        <text dy=".4em" transform="translate(-3,274)">
+        <text dy=".4em" transform="translate(-3,278)">
          1
         </text>
-        <text dy=".4em" transform="translate(-3,242)">
+        <text dy=".4em" transform="translate(-3,250)">
          2
         </text>
-        <text dy=".4em" transform="translate(-3,209)">
+        <text dy=".4em" transform="translate(-3,221)">
          3
         </text>
-        <text dy=".4em" transform="translate(-3,176)">
+        <text dy=".4em" transform="translate(-3,192)">
          4
         </text>
-        <text dy=".4em" transform="translate(-3,144)">
+        <text dy=".4em" transform="translate(-3,164)">
          5
         </text>
-        <text dy=".4em" transform="translate(-3,111)">
+        <text dy=".4em" transform="translate(-3,135)">
          6
         </text>
-        <text dy=".4em" transform="translate(-3,79)">
+        <text dy=".4em" transform="translate(-3,106)">
          7
         </text>
-        <text dy=".4em" transform="translate(-3,46)">
+        <text dy=".4em" transform="translate(-3,78)">
          8
         </text>
-        <text dy=".4em" transform="translate(-3,13)">
+        <text dy=".4em" transform="translate(-3,49)">
          9
+        </text>
+        <text dy=".4em" transform="translate(-3,20)">
+         10
         </text>
        </g>
       </g>
