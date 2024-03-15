@@ -5,9 +5,9 @@
    <path d="M0,0H477V298H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="477" height="298" viewBox="0 0 477 298">
     <g>
-     <path style="fill: #263ea8;" d="M68,248h-68v50l68,-199z"></path>
-     <path style="fill: #52ba92;" d="M341,50l-68,15l-205,134l68,-134l96,59z"></path>
-     <path style="fill: #f9f90f;" d="M68,248h341l68,-248z"></path>
+     <path d="M68,248h341l68,-248z" style="fill: #f9f90f;"></path>
+     <path d="M68,248h-68v50l68,-199z" style="fill: #263ea8;"></path>
+     <path d="M341,50l-68,15l-205,134l68,-134l96,59z" style="fill: #52ba92;"></path>
     </g>
    </svg>
    <g>
