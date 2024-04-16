@@ -281,6 +281,7 @@ function processNextOption(reset_mathjax) {
       if (all_diffs.length) console.log('ALL DIFFS', all_diffs);
       console.log('No more data to process');
       console.log('SUMMARY: match', nmatch, 'diff', ndiff, 'new', nnew);
+      if (ndiff > 0) console.error('Not all files match');
       return;
    }
 
