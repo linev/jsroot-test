@@ -274,14 +274,19 @@ function processURL(url) {
       processNextOption();
    });
 }
-
+function structuredLogger(level, message, details = {}) {
+   console.log(JSON.stringify({ level, message, ...details, timestamp: new Date().toISOString() }));
+}
 
 function processNextOption(reset_mathjax) {
    if (!keyid) {
       if (all_diffs.length) console.log('ALL DIFFS', all_diffs);
       console.log('No more data to process');
       console.log('SUMMARY: match', nmatch, 'diff', ndiff, 'new', nnew);
-      if (ndiff > 0) console.error('Not all files match');
+
+      if (ndiff > 0) {
+         structuredLogger('ERROR', 'Not all files match', { diffCount: ndiff });
+      }
       return;
    }
 
