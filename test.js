@@ -122,7 +122,27 @@ function resetPdfFile(pdfFile) {
    pdfFile = pdfFile.replace(/(\/Producer \(jsPDF [1-9].[0-9].[0-9]\))/, '/Producer (jsPDF 1.0.0)');
    return pdfFile;
  }
+// Adrians part--------------------------------------------------------------
+// Description: Helper functions to remove <image> tags from svg files
 
+// Function to remove <image> tags from SVG content
+function cleanSVG(svgContent) {
+   const regex = /<image[^>]*>(<\/image>)?/g; // Regex to match <image> tags
+   return svgContent.replace(regex, ''); // Remove all <image> tags
+}
+
+// Function to compare two SVG files, excluding <image> tags
+function compareSVGs(svgContent1, svgContent2) {
+    try {
+      const cleanedSvg1 = cleanSVG(svgContent1);
+      const cleanedSvg2 = cleanSVG(svgContent2);
+      return cleanedSvg1 === cleanedSvg2;
+    } catch (error) {
+        console.error("Error comparing SVG files:", error);
+        return false;
+    }
+}
+ //-----------------------------------------------------------Adrians part
 
 function produceFile(content, extension, subid) {
    if (!entry_name) entry_name = keyid;
@@ -136,9 +156,10 @@ function produceFile(content, extension, subid) {
    if (subid)
       use_name += '_' + subid;
 
+   
    if ((extension === '.svg') && content)
       content = xml_formatter(content, { indentation: ' ', lineSeparator: '\n' });
-
+   
    try {
       accessSync(keyid, fs_constants.W_OK);
    } catch (err) {
@@ -154,8 +175,10 @@ function produceFile(content, extension, subid) {
    try {
      svg0 = readFileSync(svgname, ispng || ispdf ? undefined : 'utf-8');
 
-     let match = (svg0 === content);
-
+     /*let match = (svg0 === content);*/
+     // Adrians part ---------------------------------------------------------------------
+     let match = extension === '.svg' ? compareSVGs(svg0, content) : (svg0 === content);
+      //-----------------------------------------------------------------------------Adrians part
      if (ispng) {
         match = (svg0?.byteLength === clen);
 
@@ -198,9 +221,12 @@ function produceFile(content, extension, subid) {
    const clen0 = svg0?.length ?? svg0?.byteLength ?? 0;
    console.log(keyid, use_name + (ispng || ispdf ? extension : ''), 'result', result, 'len='+clen, (clen0 && result === 'DIFF' ? 'rel0='+(100*clen/clen0).toFixed(1)+'%' : ''));
 
-   if (result === 'DIFF')
+   if (result === 'DIFF'){
       all_diffs.push(svgname);
-
+   //Adrians part------------------------------------------------------------------
+      console.log('Files differ:', svgname);
+   }
+   //-------------------------------------------------------------------Adrians part
    if ((result === 'NEW') || ((test_mode === 'create') && (result !== 'MATCH'))) {
       if (clen > 0)
          writeFileSync(svgname, content);
