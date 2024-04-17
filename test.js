@@ -286,6 +286,7 @@ function processNextOption(reset_mathjax) {
 
       if (ndiff > 0) {
          structuredLogger('ERROR', 'Not all files match', { diffCount: ndiff });
+      process.exit(1);
       }
       return;
    }
