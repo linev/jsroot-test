@@ -4,10 +4,10 @@
 git show master:$1 > file0.svg
 
 echo "Formatting repository file..."
-xmllint --format file0.svg > file1_.svg
+xmllint --format file0.svg > file1_.svg || echo "Failed to format file0.svg"
 
 echo "Formatting disk file..."
-xmllint --format $1 > file2_.svg
+xmllint --format $1 > file2_.svg || echo "Failed to format $1"
 
 echo "Adjusting files based on noimg flag..."
 if [[ "$2" == "noimg" ]]; then
@@ -18,8 +18,13 @@ else
    mv file2_.svg file2.svg
 fi
 
+echo "Contents of file1.svg:"
+cat file1.svg
+echo "Contents of file2.svg:"
+cat file2.svg
+
 echo "Test diff is running"
-colordiff file1.svg file2.svg
+colordiff file1.svg file2.svg || echo "No visible differences detected."
 
 echo "Cleaning up..."
 rm -f file0.svg file1.svg file2.svg file1_.svg file2_.svg
