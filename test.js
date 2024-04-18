@@ -127,7 +127,7 @@ function resetPdfFile(pdfFile) {
 
 // Function to remove <image> tags from SVG content
 function cleanSVG(svgContent) {
-   const regex = /<image[^>]*>(<\/image>)?/g; // Regex to match <image> tags
+   const regex = /\<image[^>]*\/?>/g; // Regex to match <image> tags
    return svgContent.replace(regex, ''); // Remove all <image> tags
 }
 
