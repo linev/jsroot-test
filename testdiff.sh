@@ -24,7 +24,7 @@ echo "Contents of file2.svg:"
 cat file2.svg
 
 echo "Test diff is running"
-colordiff file1.svg file2.svg || echo "No visible differences detected."
+colordiff file1.svg file2.svg || echo "Visible differences detected."
 
 echo "Cleaning up..."
 rm -f file0.svg file1.svg file2.svg file1_.svg file2_.svg
