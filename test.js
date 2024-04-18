@@ -199,7 +199,13 @@ function produceFile(content, extension, subid) {
         content = Buffer.from(pdf2); // write reformated data
      }
 
-     if (!match) result = 'DIFF';
+     if (!match) {
+      result = 'DIFF';
+      //Adrians part ------------------------------
+      console.log('content',content)
+      console.log('svg0', svg0)
+      //--------------------------------Adrians part
+      }
    } catch (e) {
      svg0 = null;
      result = 'NEW';
