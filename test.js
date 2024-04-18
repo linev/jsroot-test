@@ -177,7 +177,7 @@ function produceFile(content, extension, subid) {
 
      /*let match = (svg0 === content);*/
      // Adrians part ---------------------------------------------------------------------
-     let match = compareSVGs(svg0, content) || (svg0 === content);
+     let match = extension === '.svg' ? (svg0 === content) : compareSVGs(svg0, content);
       //-----------------------------------------------------------------------------Adrians part
      if (ispng) {
         match = (svg0?.byteLength === clen);
