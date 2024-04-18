@@ -14,7 +14,7 @@ else
    mv file1_.svg file1.svg
    mv file2_.svg file2.svg
 fi
-
+echo "Test diff is running"
 colordiff file1.svg file2.svg
 
 rm -f file0.svg file1.svg file2.svg file1_.svg file2_.svg
