@@ -3,10 +3,13 @@
 
 git show master:$1 > file0.svg
 
+echo "Formatting repository file..."
 xmllint --format file0.svg > file1_.svg
 
+echo "Formatting disk file..."
 xmllint --format $1 > file2_.svg
 
+echo "Adjusting files based on noimg flag..."
 if [[ "$2" == "noimg" ]]; then
    sed '/<image/d' file1_.svg > file1.svg
    sed '/<image/d' file2_.svg > file2.svg
@@ -14,7 +17,9 @@ else
    mv file1_.svg file1.svg
    mv file2_.svg file2.svg
 fi
+
 echo "Test diff is running"
 colordiff file1.svg file2.svg
 
+echo "Cleaning up..."
 rm -f file0.svg file1.svg file2.svg file1_.svg file2_.svg
