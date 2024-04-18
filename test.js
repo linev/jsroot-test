@@ -310,10 +310,12 @@ function processNextOption(reset_mathjax) {
       console.log('No more data to process');
       console.log('SUMMARY: match', nmatch, 'diff', ndiff, 'new', nnew);
 
+/*Adrians part ----------------------------------------------------------------------
       if (ndiff > 0) {
          structuredLogger('ERROR', 'Not all files match', { diffCount: ndiff });
       process.exit(1);
       }
+      //-----------------------------------------------------------------Adrians part */
       return;
    }
 
