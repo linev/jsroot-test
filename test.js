@@ -32,7 +32,7 @@ examples_main.TH1.push({ name: 'B_local', file: 'file://other/hsimple.root', ite
 examples_main.TTree.push({ name: '2d_local', asurl: true, file: 'file://other/hsimple.root', item: 'ntuple', opt: 'px:py', title: 'Two-dimensional TTree::Draw' });
 
 let init_style = null, init_curve = false, init_palette = 57,
-    test_mode = 'verify', nmatch = 0, ndiff = 0, nnew = 0, nspecial = 0 //added by Adrian
+    test_mode = 'verify', nmatch = 0, ndiff = 0, nnew = 0, nspecial = 0, //added by Adrian
     keyid = 'TH1', theonlykey = false, optid = -1,
     theOnlyOption, theOnlyOptionId = -100, itemid = -1,
     entry, entry_name = '', testfile = null, testobj = null,
