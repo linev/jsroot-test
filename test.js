@@ -158,10 +158,9 @@ function produceFile(content, extension, subid) {
    if (subid)
       use_name += '_' + subid;
 
-   
    if ((extension === '.svg') && content)
       content = xml_formatter(content, { indentation: ' ', lineSeparator: '\n' });
-   
+
    try {
       accessSync(keyid, fs_constants.W_OK);
    } catch (err) {
@@ -318,6 +317,7 @@ function processURL(url) {
       processNextOption();
    });
 }
+
 function structuredLogger(level, message, details = {}) {
    console.log(JSON.stringify({ level, message, ...details, timestamp: new Date().toISOString() }));
 }
