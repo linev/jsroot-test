@@ -32,17 +32,17 @@ examples_main.TH1.push({ name: 'B_local', file: 'file://other/hsimple.root', ite
 examples_main.TTree.push({ name: '2d_local', asurl: true, file: 'file://other/hsimple.root', item: 'ntuple', opt: 'px:py', title: 'Two-dimensional TTree::Draw' });
 
 let init_style = null, init_curve = false, init_palette = 57,
-    test_mode = 'verify', nmatch = 0, ndiff = 0, nnew = 0, nspecial = 0, //added by Adrian
+    test_mode = 'verify', nmatch = 0, ndiff = 0, nnew = 0, nspecial = 0, //added for special cases
     keyid = 'TH1', theonlykey = false, optid = -1,
     theOnlyOption, theOnlyOptionId = -100, itemid = -1,
     entry, entry_name = '', testfile = null, testobj = null,
     last_time = new Date().getTime(),
     test_interactive = false;
 const all_diffs = [];
-// Adrians part --------------------------------------------------------------------
+// Added for special cases --------------------------------------------------------------------
 // Description: List of special cases
 const all_special = [];
-//----------------------------------------------------------------------Adrians part
+//----------------------------------------------------------------------Added for sepcial cases
 
 if (process.argv && (process.argv.length > 2)) {
    for (let cnt=2; cnt<process.argv.length; ++cnt) {
@@ -126,9 +126,8 @@ function resetPdfFile(pdfFile) {
    pdfFile = pdfFile.replace(/(\/Producer \(jsPDF [1-9].[0-9].[0-9]\))/, '/Producer (jsPDF 1.0.0)');
    return pdfFile;
  }
-// Adrians part --------------------------------------------------------------------
-// Description: Helper functions to remove <image> tags from svg files
 
+// Description: Helper functions to remove <image> tags from svg files
 // Function to remove <image> tags from SVG content
 function cleanSVG(svgContent) {
    const regex = /\<image[^>]*\/?>/g; // Regex to match <image> tags
@@ -146,7 +145,6 @@ function compareSVGs(svgContent1, svgContent2) {
         return false;
     }
 }
-//----------------------------------------------------------------------Adrians part
 
 function produceFile(content, extension, subid) {
    if (!entry_name) entry_name = keyid;
@@ -179,11 +177,10 @@ function produceFile(content, extension, subid) {
    try {
      svg0 = readFileSync(svgname, ispng || ispdf ? undefined : 'utf-8');
 
-     /*let match = (svg0 === content);*/
-   // Adrians part --------------------------------------------------------------------
-   //Description: Use compareSVGs to find out if files match 
+   //let match = (svg0 === content); //Uncommnet for comparions without <image> handling
+   //Description: Comparison with <image> handling
      let match = compareSVGs(svg0, content);
-   //----------------------------------------------------------------------Adrians part
+
      if (ispng) {
         match = (svg0?.byteLength === clen);
 
@@ -205,12 +202,12 @@ function produceFile(content, extension, subid) {
      }
 
      if (!match) {
-      // Adrians part --------------------------------------------------------------------
+      // Added for special cases --------------------------------------------------------------------
       // Description: Special cases, which are excluded from the test results
       const specialCases =['TH1/optdate.svg','TH1/optdate2.svg','TH1/optdate3.svg','TH2/image.png','Candle/plot.svg','Candle/stack.svg','TCanvas/time.svg','TGeo/image.png','Misc/taxis.svg','RCanvas/raxis.svg']
       const isPresent = specialCases.includes(svgname)
       if(isPresent){result = 'SPECIAL'}
-      //----------------------------------------------------------------------Adrians part
+      //----------------------------------------------------------------------Added for sepcial cases
       else{
          result = 'DIFF';
       }
@@ -230,10 +227,10 @@ function produceFile(content, extension, subid) {
    switch (result) {
       case 'NEW': nnew++; break;
       case 'DIFF': ndiff++; break;
-   //Adrians part----------------------------------------------------------------------
-   // Description: Incraese special counter
+   //Added for special cases ---------------------------------------------------------------------
+   // Description: Increase special counter
       case 'SPECIAL': nspecial++;break;
-   //----------------------------------------------------------------------Adrians part
+   //----------------------------------------------------------------------Added for special cases
       default: nmatch++;
    }
 
@@ -243,11 +240,11 @@ function produceFile(content, extension, subid) {
    if (result === 'DIFF'){
       all_diffs.push(svgname);
    }
-   //Adrians part----------------------------------------------------------------------
+   //Added for special cases ---------------------------------------------------------------------
    if (result === 'SPECIAL'){
       all_special.push(svgname)
    }
-   //----------------------------------------------------------------------Adrians part
+   //----------------------------------------------------------------------Added for special cases
    if ((result === 'NEW') || ((test_mode === 'create') && (result !== 'MATCH'))) {
       if (clen > 0)
          writeFileSync(svgname, content);
@@ -328,20 +325,18 @@ function structuredLogger(level, message, details = {}) {
 function processNextOption(reset_mathjax) {
    if (!keyid) {
       if (all_diffs.length) console.log('ALL DIFFS', all_diffs);
-      //Adrians part----------------------------------------------------------------------
+      //Added for special cases ---------------------------------------------------------------------
       //Description: Display all special cases
       if (all_special.length) console.log('ALL SPECIAL', all_special);
-      //----------------------------------------------------------------------Adrians part
+      //----------------------------------------------------------------------Added for special cases
       console.log('No more data to process');
-      console.log('SUMMARY: match', nmatch, 'diff', ndiff, 'new', nnew, 'special', nspecial); // changed by Adrian
+      console.log('SUMMARY: match', nmatch, 'diff', ndiff, 'new', nnew, 'special', nspecial); // added for special cases
 
-      //Adrians part----------------------------------------------------------------------
-      // Description: If one file differs, the test fails
+      // Description: If one file pair differs, the test fails
       if (ndiff > 0) {
          structuredLogger('ERROR', 'Not all files match', { diffCount: ndiff });
       process.exit(1);
       }
-      //----------------------------------------------------------------------Adrians part
       return;
    }
 
