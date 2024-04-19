@@ -42,7 +42,7 @@ const all_diffs = [];
 // Added for special cases --------------------------------------------------------------------
 // Description: List of special cases
 const all_special = [];
-//----------------------------------------------------------------------Added for sepcial cases
+//----------------------------------------------------------------------Added for special cases
 
 if (process.argv && (process.argv.length > 2)) {
    for (let cnt=2; cnt<process.argv.length; ++cnt) {
@@ -207,7 +207,7 @@ function produceFile(content, extension, subid) {
       const specialCases =['TH1/optdate.svg','TH1/optdate2.svg','TH1/optdate3.svg','TH2/image.png','Candle/plot.svg','Candle/stack.svg','TCanvas/time.svg','TGeo/image.png','Misc/taxis.svg','RCanvas/raxis.svg']
       const isPresent = specialCases.includes(svgname)
       if(isPresent){result = 'SPECIAL'}
-      //----------------------------------------------------------------------Added for sepcial cases
+      //----------------------------------------------------------------------Added for special cases
       else{
          result = 'DIFF';
       }
