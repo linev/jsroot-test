@@ -207,7 +207,7 @@ function produceFile(content, extension, subid) {
      if (!match) {
       // Adrians part --------------------------------------------------------------------
       // Description: Special cases, which are excluded from the test results
-      const specialCases =['TH1/opdate.svg','TH1/optdate2.svg','TH1/optdate3.svg','TH2/image.png','Candle/plot.svg','Candle/stack.svg','TCanvas/time.svg','TGeo/image.png','Misc/taxis.svg','RCanvas/raxis.svg'] 
+      const specialCases =['TH1/optdate.svg','TH1/optdate2.svg','TH1/optdate3.svg','TH2/image.png','Candle/plot.svg','Candle/stack.svg','TCanvas/time.svg','TGeo/image.png','Misc/taxis.svg','RCanvas/raxis.svg']
       const isPresent = specialCases.includes(svgname)
       if(isPresent){result = 'SPECIAL'}
       //----------------------------------------------------------------------Adrians part
@@ -254,7 +254,7 @@ function produceFile(content, extension, subid) {
    }
    //Adrians part----------------------------------------------------------------------
    if (result === 'SPECIAL'){
-
+      all_special.push(svgname)
    }
    //----------------------------------------------------------------------Adrians part
    if ((result === 'NEW') || ((test_mode === 'create') && (result !== 'MATCH'))) {
@@ -337,8 +337,11 @@ function structuredLogger(level, message, details = {}) {
 function processNextOption(reset_mathjax) {
    if (!keyid) {
       if (all_diffs.length) console.log('ALL DIFFS', all_diffs);
+      //Adrians part----------------------------------------------------------------------
+      if (all_special.length) console.log('ALL SPECIAL', all_special);
+      //----------------------------------------------------------------------Adrians part
       console.log('No more data to process');
-      console.log('SUMMARY: match', nmatch, 'diff', ndiff, 'new', nnew);
+      console.log('SUMMARY: match', nmatch, 'diff', ndiff, 'new', nnew, 'special', nspecial); // changed bzy Adrian
 
       //Adrians part----------------------------------------------------------------------
       // Description: If one file differs, the test fails
