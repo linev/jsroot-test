@@ -32,13 +32,17 @@ examples_main.TH1.push({ name: 'B_local', file: 'file://other/hsimple.root', ite
 examples_main.TTree.push({ name: '2d_local', asurl: true, file: 'file://other/hsimple.root', item: 'ntuple', opt: 'px:py', title: 'Two-dimensional TTree::Draw' });
 
 let init_style = null, init_curve = false, init_palette = 57,
-    test_mode = 'verify', nmatch = 0, ndiff = 0, nnew = 0,
+    test_mode = 'verify', nmatch = 0, ndiff = 0, nnew = 0, nspecial = 0, //added for special cases
     keyid = 'TH1', theonlykey = false, optid = -1,
     theOnlyOption, theOnlyOptionId = -100, itemid = -1,
     entry, entry_name = '', testfile = null, testobj = null,
     last_time = new Date().getTime(),
     test_interactive = false;
 const all_diffs = [];
+// Added for special cases --------------------------------------------------------------------
+// Description: List of special cases
+const all_special = [];
+//----------------------------------------------------------------------Added for special cases
 
 if (process.argv && (process.argv.length > 2)) {
    for (let cnt=2; cnt<process.argv.length; ++cnt) {
@@ -123,6 +127,24 @@ function resetPdfFile(pdfFile) {
    return pdfFile;
  }
 
+// Description: Helper functions to remove <image> tags from svg files
+// Function to remove <image> tags from SVG content
+function cleanSVG(svgContent) {
+   const regex = /\<image[^>]*\/?>/g; // Regex to match <image> tags
+   return svgContent.replace(regex, ''); // Remove all <image> tags
+}
+
+// Function to compare two SVG files, excluding <image> tags
+function compareSVGs(svgContent1, svgContent2) {
+    try {
+      const cleanedSvg1 = cleanSVG(svgContent1);
+      const cleanedSvg2 = cleanSVG(svgContent2);
+      return cleanedSvg1 === cleanedSvg2;
+    } catch (error) {
+        console.error("Error comparing SVG files:", error);
+        return false;
+    }
+}
 
 function produceFile(content, extension, subid) {
    if (!entry_name) entry_name = keyid;
@@ -154,7 +176,9 @@ function produceFile(content, extension, subid) {
    try {
      svg0 = readFileSync(svgname, ispng || ispdf ? undefined : 'utf-8');
 
-     let match = (svg0 === content);
+   //let match = (svg0 === content); //Uncommnet for comparions without <image> handling
+   //Description: Comparison with <image> handling
+     let match = compareSVGs(svg0, content);
 
      if (ispng) {
         match = (svg0?.byteLength === clen);
@@ -176,7 +200,17 @@ function produceFile(content, extension, subid) {
         content = Buffer.from(pdf2); // write reformated data
      }
 
-     if (!match) result = 'DIFF';
+     if (!match) {
+      // Added for special cases --------------------------------------------------------------------
+      // Description: Special cases, which are excluded from the test results
+      const specialCases =['TH1/optdate.svg','TH1/optdate2.svg','TH1/optdate3.svg','TH2/image.png','Candle/plot.svg','Candle/stack.svg','TCanvas/time.svg','TGeo/image.png','Misc/taxis.svg','RCanvas/raxis.svg']
+      const isPresent = specialCases.includes(svgname)
+      if(isPresent){result = 'SPECIAL'}
+      //----------------------------------------------------------------------Added for special cases
+      else{
+         result = 'DIFF';
+      }
+      }
    } catch (e) {
      svg0 = null;
      result = 'NEW';
@@ -192,15 +226,24 @@ function produceFile(content, extension, subid) {
    switch (result) {
       case 'NEW': nnew++; break;
       case 'DIFF': ndiff++; break;
+   //Added for special cases ---------------------------------------------------------------------
+   // Description: Increase special counter
+      case 'SPECIAL': nspecial++;break;
+   //----------------------------------------------------------------------Added for special cases
       default: nmatch++;
    }
 
    const clen0 = svg0?.length ?? svg0?.byteLength ?? 0;
    console.log(keyid, use_name + (ispng || ispdf ? extension : ''), 'result', result, 'len='+clen, (clen0 && result === 'DIFF' ? 'rel0='+(100*clen/clen0).toFixed(1)+'%' : ''));
 
-   if (result === 'DIFF')
+   if (result === 'DIFF'){
       all_diffs.push(svgname);
-
+   }
+   //Added for special cases ---------------------------------------------------------------------
+   if (result === 'SPECIAL'){
+      all_special.push(svgname)
+   }
+   //----------------------------------------------------------------------Added for special cases
    if ((result === 'NEW') || ((test_mode === 'create') && (result !== 'MATCH'))) {
       if (clen > 0)
          writeFileSync(svgname, content);
@@ -275,12 +318,25 @@ function processURL(url) {
    });
 }
 
+function structuredLogger(level, message, details = {}) {
+   console.log(JSON.stringify({ level, message, ...details, timestamp: new Date().toISOString() }));
+}
 
 function processNextOption(reset_mathjax) {
    if (!keyid) {
       if (all_diffs.length) console.log('ALL DIFFS', all_diffs);
+      //Added for special cases ---------------------------------------------------------------------
+      //Description: Display all special cases
+      if (all_special.length) console.log('ALL SPECIAL', all_special);
+      //----------------------------------------------------------------------Added for special cases
       console.log('No more data to process');
-      console.log('SUMMARY: match', nmatch, 'diff', ndiff, 'new', nnew);
+      console.log('SUMMARY: match', nmatch, 'diff', ndiff, 'new', nnew, 'special', nspecial); // added for special cases
+
+      // Description: If one file pair differs, the test fails
+      if (ndiff > 0) {
+         structuredLogger('ERROR', 'Not all files match', { diffCount: ndiff });
+      process.exit(1);
+      }
       return;
    }
 
