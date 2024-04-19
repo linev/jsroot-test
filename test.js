@@ -214,11 +214,6 @@ function produceFile(content, extension, subid) {
       else{
          result = 'DIFF';
       }
-      // Adrians part --------------------------------------------------------------------
-      // Uncomment to see mitmatching files
-      //console.log('content',content)
-      //console.log('svg0', svg0)
-      //----------------------------------------------------------------------Adrians part
       }
    } catch (e) {
      svg0 = null;
@@ -247,10 +242,6 @@ function produceFile(content, extension, subid) {
 
    if (result === 'DIFF'){
       all_diffs.push(svgname);
-   //Adrians part----------------------------------------------------------------------
-   // Uncommnent to see, which files differ
-   //   console.log('Files differ:', svgname);
-   //----------------------------------------------------------------------Adrians part
    }
    //Adrians part----------------------------------------------------------------------
    if (result === 'SPECIAL'){
@@ -338,10 +329,11 @@ function processNextOption(reset_mathjax) {
    if (!keyid) {
       if (all_diffs.length) console.log('ALL DIFFS', all_diffs);
       //Adrians part----------------------------------------------------------------------
+      //Description: Display all special cases
       if (all_special.length) console.log('ALL SPECIAL', all_special);
       //----------------------------------------------------------------------Adrians part
       console.log('No more data to process');
-      console.log('SUMMARY: match', nmatch, 'diff', ndiff, 'new', nnew, 'special', nspecial); // changed bzy Adrian
+      console.log('SUMMARY: match', nmatch, 'diff', ndiff, 'new', nnew, 'special', nspecial); // changed by Adrian
 
       //Adrians part----------------------------------------------------------------------
       // Description: If one file differs, the test fails
