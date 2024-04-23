@@ -136,14 +136,14 @@ function cleanSVG(svgContent) {
 
 // Function to compare two SVG files, excluding <image> tags
 function compareSVGs(svgContent1, svgContent2) {
-    try {
+   try {
       const cleanedSvg1 = cleanSVG(svgContent1);
       const cleanedSvg2 = cleanSVG(svgContent2);
       return cleanedSvg1 === cleanedSvg2;
-    } catch (error) {
-        console.error("Error comparing SVG files:", error);
-        return false;
-    }
+   } catch (error) {
+      console.error('Error comparing SVG:', error);
+      return false;
+   }
 }
 
 function produceFile(content, extension, subid) {
@@ -178,7 +178,7 @@ function produceFile(content, extension, subid) {
 
    //let match = (svg0 === content); //Uncommnet for comparions without <image> handling
    //Description: Comparison with <image> handling
-     let match = compareSVGs(svg0, content);
+     let match = false;
 
      if (ispng) {
         match = (svg0?.byteLength === clen);
@@ -198,6 +198,8 @@ function produceFile(content, extension, subid) {
               pdf2 = resetPdfFile(content.toString());
         if (pdf1 !== pdf2) match = false;
         content = Buffer.from(pdf2); // write reformated data
+     } else {
+        match = compareSVGs(svg0, content);
      }
 
      if (!match) {
