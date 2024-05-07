@@ -93,11 +93,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(38,1)" font-family="Arial" font-size="14" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(153)">
-      CandleX scaled
-     </text>
-    </g>
     <g transform="translate(299,18)" font-family="Arial" font-size="6" space="preserve" fill="black">
      <path d="M0,0H77V66H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text text-anchor="middle" dy=".4em" transform="translate(39,6)">
@@ -134,6 +129,11 @@
       1.002
      </text>
      <path d="M0,11h77" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(38,1)" font-family="Arial" font-size="14" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(153)">
+      CandleX scaled
+     </text>
     </g>
    </g>
   </svg>
@@ -229,11 +229,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(38,1)" font-family="Arial" font-size="14" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(153)">
-      CandleY scaled
-     </text>
-    </g>
     <g transform="translate(299,18)" font-family="Arial" font-size="6" space="preserve" fill="black">
      <path d="M0,0H77V66H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text text-anchor="middle" dy=".4em" transform="translate(39,6)">
@@ -270,6 +265,11 @@
       1.002
      </text>
      <path d="M0,11h77" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(38,1)" font-family="Arial" font-size="14" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(153)">
+      CandleY scaled
+     </text>
     </g>
    </g>
   </svg>
@@ -365,11 +365,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(38,1)" font-family="Arial" font-size="14" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(153)">
-      ViolinX unscaled
-     </text>
-    </g>
     <g transform="translate(299,18)" font-family="Arial" font-size="6" space="preserve" fill="black">
      <path d="M0,0H77V66H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text text-anchor="middle" dy=".4em" transform="translate(39,6)">
@@ -406,6 +401,11 @@
       1.002
      </text>
      <path d="M0,11h77" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(38,1)" font-family="Arial" font-size="14" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(153)">
+      ViolinX unscaled
+     </text>
     </g>
    </g>
   </svg>
@@ -501,11 +501,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(38,1)" font-family="Arial" font-size="14" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(153)">
-      ViolinY unscaled
-     </text>
-    </g>
     <g transform="translate(299,18)" font-family="Arial" font-size="6" space="preserve" fill="black">
      <path d="M0,0H77V66H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text text-anchor="middle" dy=".4em" transform="translate(39,6)">
@@ -542,6 +537,11 @@
       1.002
      </text>
      <path d="M0,11h77" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(38,1)" font-family="Arial" font-size="14" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(153)">
+      ViolinY unscaled
+     </text>
     </g>
    </g>
   </svg>

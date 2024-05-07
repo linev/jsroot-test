@@ -93,11 +93,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231)">
-      Bias Histogram fit
-     </text>
-    </g>
     <g transform="translate(449,25)" font-family="Arial" font-size="11" space="preserve" fill="black">
      <path d="M0,0H115V61H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text text-anchor="middle" dy=".4em" transform="translate(58,8)">
@@ -122,6 +117,11 @@
       0.7804
      </text>
      <path d="M0,15h115" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231)">
+      Bias Histogram fit
+     </text>
     </g>
     <g transform="translate(449,25)" font-family="Arial" font-size="12" space="preserve" fill="black">
      <path d="M0,0H115V61H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
@@ -247,11 +247,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231)">
-      Bias Histogram fit
-     </text>
-    </g>
     <g transform="translate(449,25)" font-family="Arial" font-size="12" space="preserve" fill="black">
      <path d="M0,0H115V61H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text text-anchor="middle" dy=".4em" transform="translate(58,8)">
@@ -276,6 +271,11 @@
       1.134
      </text>
      <path d="M0,15h115" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231)">
+      Bias Histogram fit
+     </text>
     </g>
     <g transform="translate(449,25)" font-family="Arial" font-size="12" space="preserve" fill="black">
      <path d="M0,0H115V61H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
@@ -410,11 +410,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231)">
-      Bias Histogram fit
-     </text>
-    </g>
     <g transform="translate(449,25)" font-family="Arial" font-size="11" space="preserve" fill="black">
      <path d="M0,0H115V61H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text text-anchor="middle" dy=".4em" transform="translate(58,8)">
@@ -439,6 +434,11 @@
       0.8824
      </text>
      <path d="M0,15h115" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231)">
+      Bias Histogram fit
+     </text>
     </g>
     <g transform="translate(449,25)" font-family="Arial" font-size="12" space="preserve" fill="black">
      <path d="M0,0H115V61H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
@@ -558,19 +558,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
-     <g transform="translate(101,21) scale(0.868)">
-      <text fill="black" font-size="22">
-       χ
-      </text>
-      <text fill="black" font-size="13" transform="translate(13,-12)">
-       2
-      </text>
-      <text fill="black" font-size="22" x="29">
-       probability (Baker-Cousins)
-      </text>
-     </g>
-    </g>
     <g transform="translate(449,25)" font-family="Arial" font-size="11" space="preserve" fill="black">
      <path d="M0,0H115V61H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text text-anchor="middle" dy=".4em" transform="translate(58,8)">
@@ -595,6 +582,19 @@
       0.2502
      </text>
      <path d="M0,15h115" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
+     <g transform="translate(101,21) scale(0.868)">
+      <text fill="black" font-size="22">
+       χ
+      </text>
+      <text fill="black" font-size="13" transform="translate(13,-12)">
+       2
+      </text>
+      <text fill="black" font-size="22" x="29">
+       probability (Baker-Cousins)
+      </text>
+     </g>
     </g>
    </g>
   </svg>

@@ -92,11 +92,6 @@
     </g>
    </g>
   </g>
-  <g transform="translate(70,2)" font-family="Arial" font-size="24" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(279)">
-    Signal plus background
-   </text>
-  </g>
   <g transform="translate(370,52)" font-family="Arial" font-size="16" space="preserve">
    <path d="M0,0H251V171H0Z" style="fill: white;"></path>
    <g transform="translate(13,17) scale(0.902)">
@@ -167,6 +162,11 @@
      0.4438 ± 0.0464
     </text>
    </g>
+  </g>
+  <g transform="translate(70,2)" font-family="Arial" font-size="24" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(279)">
+    Signal plus background
+   </text>
   </g>
   <g font-family="Arial" font-size="21" space="preserve" font-weight="bold">
    <g transform="translate(126,93)">

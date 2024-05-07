@@ -95,11 +95,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231)">
-      h1
-     </text>
-    </g>
     <g transform="translate(449,25)" font-family="Arial" font-size="10" space="preserve" fill="black">
      <path d="M0,0H115V92H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text text-anchor="middle" dy=".4em" transform="translate(58,8)">
@@ -136,6 +131,11 @@
       0.9811
      </text>
      <path d="M0,15h115" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231)">
+      h1
+     </text>
     </g>
    </g>
   </svg>
@@ -227,11 +227,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231)">
-      h2
-     </text>
-    </g>
     <g transform="translate(449,25)" font-family="Arial" font-size="10" space="preserve" fill="black">
      <path d="M0,0H115V92H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text text-anchor="middle" dy=".4em" transform="translate(58,8)">
@@ -268,6 +263,11 @@
       0.9711
      </text>
      <path d="M0,15h115" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231)">
+      h2
+     </text>
     </g>
    </g>
   </svg>
@@ -361,11 +361,6 @@
       </g>
      </g>
     </g>
-    <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231)">
-      h3
-     </text>
-    </g>
     <g transform="translate(449,25)" font-family="Arial" font-size="10" space="preserve" fill="black">
      <path d="M0,0H115V92H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <text text-anchor="middle" dy=".4em" transform="translate(58,8)">
@@ -402,6 +397,11 @@
       1.081
      </text>
      <path d="M0,15h115" style="stroke: black; stroke-width: 1;"></path>
+    </g>
+    <g transform="translate(58,2)" font-family="Arial" font-size="19" space="preserve">
+     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(231)">
+      h3
+     </text>
     </g>
    </g>
   </svg>

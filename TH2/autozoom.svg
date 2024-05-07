@@ -91,11 +91,6 @@
     </g>
    </g>
   </g>
-  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
-    py vs px
-   </text>
-  </g>
   <g transform="translate(936,52)" font-family="Arial" font-size="20" space="preserve" fill="black">
    <path d="M0,0H240V192H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <text text-anchor="middle" dy=".4em" transform="translate(120,16)">
@@ -132,6 +127,11 @@
     0.9988
    </text>
    <path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path>
+  </g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
+   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
+    py vs px
+   </text>
   </g>
  </g>
 </svg>
