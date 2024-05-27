@@ -35,17 +35,14 @@ examples_main.TH1.push({ name: 'B_local', file: 'file://other/hsimple.root', ite
 examples_main.TTree.push({ name: '2d_local', asurl: true, file: 'file://other/hsimple.root', item: 'ntuple', opt: 'px:py', title: 'Two-dimensional TTree::Draw' });
 
 let init_style = null, init_curve = false, init_palette = 57,
-    test_mode = 'verify', nmatch = 0, ndiff = 0, nnew = 0, nspecial = 0, //added for special cases
+    test_mode = 'verify', nmatch = 0, ndiff = 0, nnew = 0, nspecial = 0,
     keyid = 'TH1', theonlykey = false, optid = -1, printdiff = false,
     theOnlyOption, theOnlyOptionId = -100, itemid = -1,
     entry, entry_name = '', testfile = null, testobj = null,
     last_time = new Date().getTime(),
     test_interactive = false;
-const all_diffs = [];
-// Added for special cases --------------------------------------------------------------------
-// Description: List of special cases
-const all_special = [];
-//----------------------------------------------------------------------Added for special cases
+
+const all_diffs = [], all_special = [];
 
 if (process.argv && (process.argv.length > 2)) {
    for (let cnt=2; cnt<process.argv.length; ++cnt) {
@@ -329,12 +326,12 @@ function processNextOption(reset_mathjax) {
       if (all_special.length)
          console.log('ALL SPECIAL', all_special);
       console.log('No more data to process');
-      console.log('SUMMARY: match', nmatch, 'diff', ndiff, 'new', nnew, 'special', nspecial); // added for special cases
+      console.log('SUMMARY: match', nmatch, 'diff', ndiff, 'new', nnew, 'special', nspecial);
 
       // Description: If one file pair differs, the test fails
       if (ndiff > 0) {
          structuredLogger('ERROR', 'Not all files match', { diffCount: ndiff });
-      process.exit(1);
+         process.exit(1);
       }
       return;
    }
