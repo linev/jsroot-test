@@ -11,14 +11,17 @@ import { loadMathjax } from 'jsroot/latex';
 
 import { readFileSync, mkdirSync, accessSync, writeFileSync, unlink, constants as fs_constants } from 'fs';
 
+import { exec } from 'node:child_process';
+
 import xml_formatter from 'xml-formatter';
 
 console.log(`JSROOT version  ${version_id} ${version_date}`);
 
 const jsroot_path = './../jsroot',
       examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`)),
-      filepath = 'http://jsroot.gsi.de/files/';
-//       filepath = "https://root.cern.ch/js/files/";
+      filepath = 'http://jsroot.gsi.de/files/',
+      // filepath = 'https://root.cern.ch/js/files/',
+      specialCases =['TH2/image.png','Candle/plot.svg','Candle/stack.svg','TCanvas/time.svg','TGeo/image.png','Misc/taxis.svg','RCanvas/raxis.svg'];
 
 // uncomment to be able use https fwith jsroot.gsi.de server
 //  process.env.NODE_TLS_REJECT_UNAUTHORIZED = 0;
@@ -33,7 +36,7 @@ examples_main.TTree.push({ name: '2d_local', asurl: true, file: 'file://other/hs
 
 let init_style = null, init_curve = false, init_palette = 57,
     test_mode = 'verify', nmatch = 0, ndiff = 0, nnew = 0, nspecial = 0, //added for special cases
-    keyid = 'TH1', theonlykey = false, optid = -1,
+    keyid = 'TH1', theonlykey = false, optid = -1, printdiff = false,
     theOnlyOption, theOnlyOptionId = -100, itemid = -1,
     entry, entry_name = '', testfile = null, testobj = null,
     last_time = new Date().getTime(),
@@ -47,63 +50,69 @@ const all_special = [];
 if (process.argv && (process.argv.length > 2)) {
    for (let cnt=2; cnt<process.argv.length; ++cnt) {
       switch (process.argv[cnt]) {
-        case '-v':
-        case '--verify':  test_mode = 'verify'; break;
-        case '-c':
-        case '--create': test_mode = 'create'; break;
-        case '-k':
-        case '--key':
-           keyid = process.argv[++cnt];
-           theonlykey = true;
-           if (!keyid || !examples_main[keyid]) {
+         case '-v':
+         case '--verify':
+            test_mode = 'verify';
+            break;
+         case '-c':
+         case '--create':
+            test_mode = 'create';
+            break;
+         case '-k':
+         case '--key':
+            keyid = process.argv[++cnt];
+            theonlykey = true;
+            if (!keyid || !examples_main[keyid]) {
                console.log('Key not found', keyid);
                process.exit();
-           }
-           break;
-        case '-o':
-        case '--opt':
-           theOnlyOption = process.argv[++cnt];
-           theOnlyOptionId = parseInt(theOnlyOption);
-           if (isNaN(theOnlyOptionId) || (theOnlyOptionId<0) || !examples_main[keyid][theOnlyOptionId])
-              theOnlyOptionId = -100;
+            }
+            break;
+         case '-o':
+         case '--opt':
+            theOnlyOption = process.argv[++cnt];
+            theOnlyOptionId = parseInt(theOnlyOption);
+            if (isNaN(theOnlyOptionId) || (theOnlyOptionId < 0) || !examples_main[keyid][theOnlyOptionId])
+               theOnlyOptionId = -100;
             else {
-              console.log('Select option', examples_main[keyid][theOnlyOptionId], 'for key', keyid);
-              optid = theOnlyOptionId - 1;
-              theOnlyOption = '';
-           }
-           break;
-        case '-m':
-        case '--more': {
-           const examples_more = JSON.parse(readFileSync(`${jsroot_path}/demo/examples_more.json`));
+               console.log('Select option', examples_main[keyid][theOnlyOptionId], 'for key', keyid);
+               optid = theOnlyOptionId - 1;
+               theOnlyOption = '';
+            }
+            break;
+         case '-m':
+         case '--more': {
+            const examples_more = JSON.parse(readFileSync(`${jsroot_path}/demo/examples_more.json`));
 
-           for (const key in examples_more) {
-              if (examples_main[key])
-                 examples_main[key].push(...examples_more[key]);
-              else
-                 examples_main[key] = examples_more[key];
-           }
-           break;
-        }
-        case '-i':
-        case '--interactive':
+            for (const key in examples_more) {
+               if (examples_main[key])
+                  examples_main[key].push(...examples_more[key]);
+               else
+                  examples_main[key] = examples_more[key];
+            }
+            break;
+         }
+         case '-i':
+         case '--interactive':
             test_interactive = true;
             break;
-
-        case '-ni':
-        case '--not-interactive':
+         case '-p':
+         case '--print':
+            printdiff = true;
+            break;
+         case '-ni':
+         case '--not-interactive':
             test_interactive = 0;
             break;
-
-
-        default:
-           console.log('Usage: node test.js [options]');
-           console.log('   -v | --verify : check stored content against current JSROOT version');
-           console.log('   -c | --create : perform checks and overwrite when results differ');
-           console.log('   -k | --key keyname : select specific key (class name) like TH1 or TProfile for testing');
-           console.log('   -o | --opt id : select specific option id (number or name), only when key is specified');
-           console.log('   -m | --more : use more tests');
-           console.log('   -i | --interactive : enable interactivity checks (except TGeo)');
-           process.exit();
+         default:
+            console.log('Usage: node test.js [options]');
+            console.log('   -v | --verify : check stored content against current JSROOT version');
+            console.log('   -c | --create : perform checks and overwrite when results differ');
+            console.log('   -k | --key keyname : select specific key (class name) like TH1 or TProfile for testing');
+            console.log('   -o | --opt id : select specific option id (number or name), only when key is specified');
+            console.log('   -m | --more : use more tests');
+            console.log('   -i | --interactive : enable interactivity checks (except TGeo)');
+            console.log('   -p | --print : print difference when files changes');
+            process.exit();
       }
    }
 }
@@ -176,8 +185,8 @@ function produceFile(content, extension, subid) {
    try {
      svg0 = readFileSync(svgname, ispng || ispdf ? undefined : 'utf-8');
 
-   //let match = (svg0 === content); //Uncommnet for comparions without <image> handling
-   //Description: Comparison with <image> handling
+     //let match = (svg0 === content); //Uncommnet for comparions without <image> handling
+     //Description: Comparison with <image> handling
      let match = false;
 
      if (ispng) {
@@ -202,12 +211,9 @@ function produceFile(content, extension, subid) {
         match = compareSVGs(svg0, content);
      }
 
-      if (!match) {
-        // Added for special cases --------------------------------------------------------------------
-        // Description: Special cases, which are excluded from the test results
-        const specialCases =['TH2/image.png','Candle/plot.svg','Candle/stack.svg','TCanvas/time.svg','TGeo/image.png','Misc/taxis.svg','RCanvas/raxis.svg']
+      if (!match)
         result = specialCases.includes(svgname) ? 'SPECIAL' : 'DIFF';
-      }
+
    } catch (e) {
      svg0 = null;
      result = 'NEW';
@@ -223,28 +229,25 @@ function produceFile(content, extension, subid) {
    switch (result) {
       case 'NEW': nnew++; break;
       case 'DIFF': ndiff++; break;
-   //Added for special cases ---------------------------------------------------------------------
-   // Description: Increase special counter
-      case 'SPECIAL': nspecial++;break;
-   //----------------------------------------------------------------------Added for special cases
+      case 'SPECIAL': nspecial++; break;
       default: nmatch++;
    }
 
    const clen0 = svg0?.length ?? svg0?.byteLength ?? 0;
    console.log(keyid, use_name + (ispng || ispdf ? extension : ''), 'result', result, 'len='+clen, (clen0 && result === 'DIFF' ? 'rel0='+(100*clen/clen0).toFixed(1)+'%' : ''));
 
-   if (result === 'DIFF'){
+   if (result === 'DIFF')
       all_diffs.push(svgname);
-   }
-   //Added for special cases ---------------------------------------------------------------------
-   if (result === 'SPECIAL'){
+   if (result === 'SPECIAL')
       all_special.push(svgname)
-   }
-   //----------------------------------------------------------------------Added for special cases
+
    if ((result === 'NEW') || ((test_mode === 'create') && (result !== 'MATCH'))) {
-      if (clen > 0)
+      if (clen > 0) {
          writeFileSync(svgname, content);
-      else if (result !== 'NEW')
+         if (printdiff && (result !== 'NEW'))
+            exec(`git diff ${svgname}`, (err, output) => { console.log(`Diff for ${svgname}\n`, output); })
+
+      } else if (result !== 'NEW')
          unlink(svgname);
    }
 }
@@ -321,11 +324,10 @@ function structuredLogger(level, message, details = {}) {
 
 function processNextOption(reset_mathjax) {
    if (!keyid) {
-      if (all_diffs.length) console.log('ALL DIFFS', all_diffs);
-      //Added for special cases ---------------------------------------------------------------------
-      //Description: Display all special cases
-      if (all_special.length) console.log('ALL SPECIAL', all_special);
-      //----------------------------------------------------------------------Added for special cases
+      if (all_diffs.length)
+         console.log('ALL DIFFS', all_diffs);
+      if (all_special.length)
+         console.log('ALL SPECIAL', all_special);
       console.log('No more data to process');
       console.log('SUMMARY: match', nmatch, 'diff', ndiff, 'new', nnew, 'special', nspecial); // added for special cases
 
