@@ -245,7 +245,7 @@ function produceFile(content, extension, subid) {
       if (clen > 0) {
          writeFileSync(svgname, content);
          if (printdiff && (result !== 'NEW'))
-            exec(`git diff ${svgname}`, (err, output) => { console.log(`Diff for ${svgname}\n`, output); })
+            exec(`git diff ${svgname}`, (err, output) => { console.log(output); })
 
       } else if (result !== 'NEW')
          unlink(svgname);
