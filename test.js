@@ -21,7 +21,7 @@ const jsroot_path = './../jsroot',
       examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`)),
       filepath = 'http://jsroot.gsi.de/files/',
       // filepath = 'https://root.cern.ch/js/files/',
-      specialCases =['TH2/image.png', 'TGeo/image.png', 'RCanvas/raxis.svg'];
+      specialCases = []; // place for special cases, now empty!
 
 // uncomment to be able use https fwith jsroot.gsi.de server
 //  process.env.NODE_TLS_REJECT_UNAUTHORIZED = 0;
@@ -210,7 +210,7 @@ function produceFile(content, extension, subid) {
      }
 
       if (!match)
-        result = specialCases.includes(svgname) ? 'SPECIAL' : 'DIFF';
+        result = ispng || specialCases.includes(svgname) ? 'SPECIAL' : 'DIFF';
 
    } catch (e) {
      svg0 = null;
