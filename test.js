@@ -120,6 +120,7 @@ function produceGlobalStyleCopy() {
       init_style = Object.assign({}, gStyle);
       init_palette = settings.Palette;
       init_curve = settings.FuncAsCurve;
+      init_TimeZone = settings.TimeZone;
    }
 }
 
@@ -468,6 +469,7 @@ function processNextOption(reset_mathjax) {
 
    settings.Palette = init_palette;
    settings.FuncAsCurve = init_curve;
+   settings.TimeZone = init_TimeZone;
 
    // ensure default options
    createRootColors(); // ensure default colors
