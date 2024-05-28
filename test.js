@@ -34,7 +34,7 @@ settings.SmallPad.height = 40;
 examples_main.TH1.push({ name: 'B_local', file: 'file://other/hsimple.root', item: 'hpx;1', opt: 'B,fill_green', title: 'draw histogram as bar chart' });
 examples_main.TTree.push({ name: '2d_local', asurl: true, file: 'file://other/hsimple.root', item: 'ntuple', opt: 'px:py', title: 'Two-dimensional TTree::Draw' });
 
-let init_style = null, init_curve = false, init_palette = 57,
+let init_style = null, init_curve = false, init_palette = 57, init_TimeZone = '',
     test_mode = 'verify', nmatch = 0, ndiff = 0, nnew = 0, nspecial = 0,
     keyid = 'TH1', theonlykey = false, optid = -1, printdiff = false,
     theOnlyOption, theOnlyOptionId = -100, itemid = -1,
@@ -389,7 +389,8 @@ function processNextOption(reset_mathjax) {
    entry_name = '';
 
    // exclude some entries from the test
-   if (entry.notest) return processNextOption();
+   if (entry.notest)
+      return processNextOption();
 
    if (((entry.latex === 'mathjax') || entry.reset_mathjax) && !reset_mathjax) {
       return loadMathjax().then(mj => {
@@ -398,6 +399,7 @@ function processNextOption(reset_mathjax) {
          processNextOption(true);
       });
    }
+
 
    let filename = '', itemname = '', jsonname = '', url = '', opt = '', opt2 = '';
 
@@ -469,7 +471,7 @@ function processNextOption(reset_mathjax) {
 
    settings.Palette = init_palette;
    settings.FuncAsCurve = init_curve;
-   settings.TimeZone = init_TimeZone;
+   settings.TimeZone = entry.timezone ?? init_TimeZone;
 
    // ensure default options
    createRootColors(); // ensure default colors
