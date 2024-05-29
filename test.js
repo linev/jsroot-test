@@ -21,7 +21,8 @@ const jsroot_path = './../jsroot',
       examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`)),
       filepath = 'http://jsroot.gsi.de/files/',
       // filepath = 'https://root.cern.ch/js/files/',
-      specialCases = []; // place for special cases, now empty!
+      // place for special cases
+      specialCases = [ 'TCanvas/time.svg' ];  // position of minor tick differs by one on time axis?
 
 // uncomment to be able use https fwith jsroot.gsi.de server
 //  process.env.NODE_TLS_REJECT_UNAUTHORIZED = 0;
