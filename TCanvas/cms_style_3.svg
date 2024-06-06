@@ -128,11 +128,11 @@
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(87,52)">
       Data
      </text>
-     <path d="M10,70v25h67v-25z" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M10,70v25h67v-25z" style="fill: none; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(87,83)">
       Background
      </text>
-     <path d="M10,102v25h67v-25z" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M10,102v25h67v-25z" style="fill: none; stroke: black; stroke-width: 1;"></path>
      <text fill="black" text-anchor="start" dy=".4em" transform="translate(87,115)">
       Signal
      </text>
