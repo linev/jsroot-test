@@ -84,7 +84,7 @@
      <path d="M100,280a9,9,0,1,0,18,0a9,9,0,1,0,-18,0z" style="stroke: #c5bc5e; fill: #c5bc5e;"></path>
      <path d="M219,154a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: #07a1cb; fill: #07a1cb;"></path>
      <path d="M112,237a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: #faed18; fill: #faed18;"></path>
-     <path d="M460,197a14,14,0,1,0,28,0a14,14,0,1,0,-28,0z" style="stroke: #23b2af; fill: #23b2af;"></path>
+     <path d="M460,197a14,14,0,1,0,28,0a14,14,0,1,0,-28,0z" style="stroke: #2eb7a4; fill: #2eb7a4;"></path>
      <path d="M443,50a14,14,0,1,0,28,0a14,14,0,1,0,-28,0z" style="stroke: #74bd81; fill: #74bd81;"></path>
      <path d="M382,246a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: #1285d4; fill: #1285d4;"></path>
      <path d="M356,129a14,14,0,1,0,28,0a14,14,0,1,0,-28,0z" style="stroke: #9ebe6e; fill: #9ebe6e;"></path>
@@ -201,9 +201,12 @@
    <path d="M0,13H31V26H0Z" style="fill: #faed18;"></path>
    <path d="M0,0H31V14H0Z" style="fill: #f9f90f;"></path>
    <g transform="translate(31)">
-    <path d="M0,0v378M0,366H-9M0,353H-9M0,340H-9M0,327H-9M0,315H-17M0,302H-9M0,289H-9M0,276H-9M0,264H-9M0,251H-17M0,238H-9M0,225H-9M0,213H-9M0,200H-9M0,187H-17M0,174H-9M0,162H-9M0,149H-9M0,136H-9M0,123H-17M0,111H-9M0,98H-9M0,85H-9M0,72H-9M0,60H-17M0,47H-9M0,34H-9M0,21H-9M0,9H-9" style="stroke: black; stroke-width: 1;"></path>
+    <path d="M0,0v378M0,378H-17M0,365H-9M0,353H-9M0,340H-9M0,327H-9M0,314H-17M0,302H-9M0,289H-9M0,276H-9M0,263H-9M0,251H-17M0,238H-9M0,225H-9M0,212H-9M0,200H-9M0,187H-17M0,174H-9M0,161H-9M0,149H-9M0,136H-9M0,123H-17M0,110H-9M0,98H-9M0,85H-9M0,72H-9M0,59H-17M0,47H-9M0,34H-9M0,21H-9M0,9H-9" style="stroke: black; stroke-width: 1;"></path>
     <g font-family="Arial" font-size="17" space="preserve" fill="black" text-anchor="start">
-     <text dy=".4em" transform="translate(3,315)">
+     <text dy=".4em" transform="translate(3,378)">
+      0
+     </text>
+     <text dy=".4em" transform="translate(3,314)">
       50
      </text>
      <text dy=".4em" transform="translate(3,251)">
@@ -215,7 +218,7 @@
      <text dy=".4em" transform="translate(3,123)">
       200
      </text>
-     <text dy=".4em" transform="translate(3,60)">
+     <text dy=".4em" transform="translate(3,59)">
       250
      </text>
     </g>
