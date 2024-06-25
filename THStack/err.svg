@@ -8,10 +8,10 @@
      <path d="M0,0H267V292H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="267" height="292" viewBox="0 0 267 292">
       <g>
-       <path d="M80,291h14M87,290v2M93,276h14M100,273v6M107,181h14M114,173v15M120,27h14M127,15v23M134,26h14M141,14v23M147,191h14M154,184v14M160,275h14M167,272v6M174,290h14M181,290v1M187,291h14M194,291v1" style="stroke: blue; stroke-width: 1;"></path>
+       <path d="M80,291h14M87,290v2M93,275h14M100,272v6M107,176h14M114,168v16M120,15h14M127,3v24M134,14h14M141,2v24M147,187h14M154,179v15M160,274h14M167,271v6M174,290h14M181,289v2M187,291h14M194,291v1" style="stroke: blue; stroke-width: 1;"></path>
       </g>
       <g>
-       <path d="M80,291h14M87,291v1M93,282h14M100,279v5M107,219h14M114,212v13M120,120h14M127,110v19M134,108h14M141,98v20M147,227h14M154,221v12M160,280h14M167,277v5M174,290h14M181,290v1M187,291h14M194,291v1" style="stroke: #cc00ff; stroke-width: 1;"></path>
+       <path d="M80,291h14M87,291v1M93,281h14M100,279v5M107,215h14M114,209v13M120,112h14M127,102v20M134,100h14M141,90v20M147,224h14M154,218v12M160,279h14M167,276v6M174,290h14M181,289v2M187,291h14M194,291v1" style="stroke: #cc00ff; stroke-width: 1;"></path>
       </g>
      </svg>
      <g>
@@ -54,24 +54,39 @@
        </g>
       </g>
       <g>
-       <path d="M0,0v292M8,292H0M4,282H0M4,271H0M4,261H0M4,250H0M8,240H0M4,230H0M4,219H0M4,209H0M4,198H0M8,188H0M4,178H0M4,167H0M4,157H0M4,146H0M8,136H0M4,126H0M4,115H0M4,105H0M4,94H0M8,84H0M4,74H0M4,63H0M4,53H0M4,42H0M8,32H0M4,22H0M4,11H0M4,1H0" style="stroke: black; stroke-width: 1;"></path>
+       <path d="M0,0v292M8,292H0M4,287H0M4,281H0M4,276H0M4,270H0M8,265H0M4,259H0M4,254H0M4,249H0M4,243H0M8,238H0M4,232H0M4,227H0M4,221H0M4,216H0M8,211H0M4,205H0M4,200H0M4,194H0M4,189H0M8,183H0M4,178H0M4,173H0M4,167H0M4,162H0M8,156H0M4,151H0M4,145H0M4,140H0M4,134H0M8,129H0M4,124H0M4,118H0M4,113H0M4,107H0M8,102H0M4,96H0M4,91H0M4,86H0M4,80H0M8,75H0M4,69H0M4,64H0M4,58H0M4,53H0M8,48H0M4,42H0M4,37H0M4,31H0M4,26H0M8,20H0M4,15H0M4,10H0M4,4H0" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="12" space="preserve" fill="black" text-anchor="end">
         <text dy=".4em" transform="translate(-2,292)">
          0
         </text>
-        <text dy=".4em" transform="translate(-2,240)">
+        <text dy=".4em" transform="translate(-2,265)">
+         50
+        </text>
+        <text dy=".4em" transform="translate(-2,238)">
          100
         </text>
-        <text dy=".4em" transform="translate(-2,188)">
+        <text dy=".4em" transform="translate(-2,211)">
+         150
+        </text>
+        <text dy=".4em" transform="translate(-2,183)">
          200
         </text>
-        <text dy=".4em" transform="translate(-2,136)">
+        <text dy=".4em" transform="translate(-2,156)">
+         250
+        </text>
+        <text dy=".4em" transform="translate(-2,129)">
          300
         </text>
-        <text dy=".4em" transform="translate(-2,84)">
+        <text dy=".4em" transform="translate(-2,102)">
+         350
+        </text>
+        <text dy=".4em" transform="translate(-2,75)">
          400
         </text>
-        <text dy=".4em" transform="translate(-2,32)">
+        <text dy=".4em" transform="translate(-2,48)">
+         450
+        </text>
+        <text dy=".4em" transform="translate(-2,20)">
          500
         </text>
        </g>
