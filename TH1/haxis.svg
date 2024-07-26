@@ -1,47 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1496 772" preserveAspectRatio="none" width="1496" height="772">
- <path d="M0,0H1496V772H0Z" style="fill: white;"></path>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 775" preserveAspectRatio="none" width="1500" height="775">
+ <path d="M0,0H1500V775H0Z" style="fill: white;"></path>
  <g>
-  <g transform="translate(224,154)">
-   <path d="M0,0H1122V579H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <svg x="0" y="0" overflow="hidden" width="1122" height="579" viewBox="0 0 1122 579">
+  <g transform="translate(225,155)">
+   <path d="M0,0H1125V581H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <svg x="0" y="0" overflow="hidden" width="1125" height="581" viewBox="0 0 1125 581">
     <g>
-     <path d="M391,550h85v-87h-85zM391,405h638v-86h-638zM391,261h85v-87h-85zM391,116h425v-87h-425z" style="fill: #ff0000;"></path>
+     <path d="M392,552h85v-87h-85zM392,407h639v-87h-639zM392,262h85v-88h-85zM392,116h426v-87h-426z" style="fill: #ff0000;"></path>
     </g>
     <g>
-     <path d="M391,550h-213v-87h213zM391,405h-298v-86h298zM391,261h-127v-87h127zM391,116h-42v-87h42z" style="fill: #00ff00;"></path>
+     <path d="M392,552h-213v-87h213zM392,407h-298v-87h298zM392,262h-128v-88h128zM392,116h-43v-87h43z" style="fill: #00ff00;"></path>
     </g>
     <g>
-     <path d="M264,495l8,12l-8,12l-8,-12zM731,350l8,12l-8,12l-8,-12zM349,206l8,12l-8,12l-8,-12zM774,61l8,12l-8,12l-8,-12z" style="stroke: #0000ff; fill: #0000ff;"></path>
+     <path d="M264,497l8,12l-8,12l-8,-12zM733,352l8,12l-8,12l-8,-12zM349,206l8,12l-8,12l-8,-12zM776,61l8,12l-8,12l-8,-12z" style="stroke: #0000ff; fill: #0000ff;"></path>
+    </g>
+    <g>
+     <path d="M989,465h85v87h-85z" style="fill: #ff00ff;"></path>
+    </g>
+    <g font-family="Arial" font-size="28" space="preserve" font-weight="bold">
+     <text fill="#ff00ff" text-anchor="middle" dy=".4em" transform="translate(712,508)">
+      Latex in swaped axes
+     </text>
     </g>
    </svg>
    <g>
     <g>
-     <path d="M0,0h1122M8,0V9M51,0V9M93,0V9M136,0V9M178,0V17M221,0V9M264,0V9M306,0V9M349,0V9M391,0V17M434,0V9M476,0V9M519,0V9M561,0V9M604,0V17M646,0V9M689,0V9M731,0V9M774,0V9M816,0V17M859,0V9M901,0V9M944,0V9M986,0V9M1029,0V17M1071,0V9M1114,0V9" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0h1125M9,0V9M51,0V9M94,0V9M136,0V9M179,0V17M222,0V9M264,0V9M307,0V9M349,0V9M392,0V17M435,0V9M477,0V9M520,0V9M563,0V9M605,0V17M648,0V9M690,0V9M733,0V9M776,0V9M818,0V17M861,0V9M903,0V9M946,0V9M989,0V9M1031,0V17M1074,0V9M1116,0V9" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="27" space="preserve" fill="black" text-anchor="middle">
-      <text transform="translate(178,-8)">
+      <text transform="translate(179,-8)">
        -5
       </text>
-      <text transform="translate(391,-8)">
+      <text transform="translate(392,-8)">
        0
       </text>
-      <text transform="translate(604,-8)">
+      <text transform="translate(605,-8)">
        5
       </text>
-      <text transform="translate(816,-8)">
+      <text transform="translate(818,-8)">
        10
       </text>
-      <text transform="translate(1029,-8)">
+      <text transform="translate(1031,-8)">
        15
       </text>
      </g>
     </g>
     <g>
-     <path d="M0,0v579M0,579H0M0,434H0M0,290H0M0,145H0M0,0H0" style="stroke: black; stroke-width: 1;"></path>
+     <path d="M0,0v581M0,581H0M0,436H0M0,291H0M0,145H0M0,0H0" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="35" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-17,507)">
+      <text dy=".4em" transform="translate(-17,509)">
        Category 1
       </text>
-      <text dy=".4em" transform="translate(-17,362)">
+      <text dy=".4em" transform="translate(-17,364)">
        Category 2
       </text>
       <text dy=".4em" transform="translate(-17,218)">
@@ -52,27 +60,27 @@
       </text>
      </g>
     </g>
-    <path d="M178,0v579M391,0v579M604,0v579M816,0v579M1029,0v579" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+    <path d="M179,0v581M392,0v581M605,0v581M818,0v581M1031,0v581" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
    </g>
   </g>
   <g font-family="Arial" font-size="56" space="preserve" font-weight="bold">
-   <text fill="#0000ff" text-anchor="middle" dy=".4em" transform="translate(785,31)">
+   <text fill="#0000ff" text-anchor="middle" dy=".4em" transform="translate(788,31)">
     Example of haxis with overlayed histograms
    </text>
   </g>
   <g>
-   <path d="M585,77L299,77L299,69L269,93L299,116L299,108L585,108L585,77Z" style="fill: #00ff00;"></path>
+   <path d="M587,77L300,77L300,70L270,93L300,116L300,109L587,109L587,77Z" style="fill: #00ff00;"></path>
   </g>
   <g font-family="Arial" font-size="21" space="preserve" font-weight="bold">
-   <text fill="white" text-anchor="end" dy=".4em" transform="translate(541,93)">
+   <text fill="white" text-anchor="end" dy=".4em" transform="translate(542,93)">
     Reduction
    </text>
   </g>
   <g>
-   <path d="M645,77L1272,77L1272,69L1302,93L1272,116L1272,108L645,108L645,77Z" style="fill: #ff0000;"></path>
+   <path d="M647,77L1275,77L1275,70L1305,93L1275,116L1275,109L647,109L647,77Z" style="fill: #ff0000;"></path>
   </g>
   <g font-family="Arial" font-size="21" space="preserve" font-weight="bold">
-   <text fill="white" text-anchor="start" dy=".4em" transform="translate(690,93)">
+   <text fill="white" text-anchor="start" dy=".4em" transform="translate(692,93)">
     Increase
    </text>
   </g>
