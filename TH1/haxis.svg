@@ -14,11 +14,11 @@
      <path d="M264,497l8,12l-8,12l-8,-12zM733,352l8,12l-8,12l-8,-12zM349,206l8,12l-8,12l-8,-12zM776,61l8,12l-8,12l-8,-12z" style="stroke: #0000ff; fill: #0000ff;"></path>
     </g>
     <g>
-     <path d="M989,465h85v87h-85z" style="fill: #ff00ff;"></path>
+     <path d="M648,465h341v87h-341z" style="stroke: #ff0000; stroke-width: 3; fill: #00ffff;"></path>
     </g>
     <g font-family="Arial" font-size="28" space="preserve" font-weight="bold">
-     <text fill="#ff00ff" text-anchor="middle" dy=".4em" transform="translate(712,508)">
-      Latex on swaped axes
+     <text fill="#ff00ff" text-anchor="middle" dy=".4em" transform="translate(818,508)">
+      Text inside frame
      </text>
     </g>
    </svg>
