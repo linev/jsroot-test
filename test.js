@@ -24,10 +24,10 @@ const jsroot_path = './../jsroot',
       // place for special cases
       specialCases = [ 'TCanvas/time.svg' ];  // position of minor tick differs by one on time axis?
 
-// uncomment to be able use https fwith jsroot.gsi.de server
+// uncomment to be able use https with jsroot.gsi.de server
 //  process.env.NODE_TLS_REJECT_UNAUTHORIZED = 0;
 
-// reduse size of small pad for batch mode
+// reduce size of small pad for batch mode
 settings.SmallPad.width = 40;
 settings.SmallPad.height = 40;
 
