@@ -4,7 +4,7 @@ import xml_formatter from 'xml-formatter';
 
 import { readFileSync, mkdirSync, accessSync, writeFileSync, unlink, constants as fs_constants } from 'fs';
 
-import { compressSVG } from 'jsroot';
+import { compressSVG, atob_func } from 'jsroot';
 
 
 const browser = await puppeteer.launch();
@@ -245,13 +245,13 @@ async function processURL(url) {
 
    const numframes = Number.parseInt(snumframes);
 
-   console.log('numframes', numframes)
-
    for (let n = 0; n < numframes; ++n) {
       const sub = await page.$(`#jsroot_batch_${n}`);
       const content = await page.evaluate(el => el.innerHTML, sub);
-
-      produceFile(content, entry.aspng ? '.png' : '.svg');
+      if (content.indexOf('json:') === 0)
+         produceFile(atob_func(content.slice(5)), '.json', n);
+      else
+         produceFile(content, entry.aspng ? '.png' : '.svg', n);
    }
 
    await page.close();
