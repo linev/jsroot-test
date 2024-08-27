@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 698 474" preserveAspectRatio="none" width="698" height="474">
+<svg xmlns="http://www.w3.org/2000/svg" width="698" height="474" viewBox="0 0 698 474" preserveAspectRatio="none">
  <path d="M0,0H698V474H0Z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 684 149" preserveAspectRatio="none" x="7" y="4" width="684" height="149">
@@ -8,109 +8,28 @@
      <path d="M0,0H547V119H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="547" height="119" viewBox="0 0 547 119">
       <g>
-       <path d="M82,117h6M85,115v4M115,117h6M118,115v4M126,117h6M129,115v4M137,115h6M140,112v6M142,115h6M145,112v6M148,113h6M151,109v7M153,115h6M156,112v6M159,101h6M162,95v12M164,107h6M167,102v10M170,103h6M173,97v12M175,103h6M178,97v12M181,95h6M184,88v14M186,105h6M189,99v11M191,89h6M194,81v15M197,72h6M200,63v19M202,89h6M205,81v15M208,58h6M211,47v22M213,85h6M216,76v17M219,79h6M222,69v19M224,60h6M227,49v22M230,58h6M233,47v22M235,68h6M238,58v21M241,52h6M244,41v23M246,46h6M249,34v24M252,46h6M255,34v24M257,52h6M260,41v23M263,32h6M266,19v26M268,26h6M271,12v28M274,40h6M277,27v26M279,36h6M282,23v26M284,54h6M287,43v23M290,20h6M293,6v28M295,20h6M298,6v28M301,42h6M304,30v25M306,52h6M309,41v23M312,64h6M315,54v21M317,68h6M320,58v21M323,76h6M326,67v19M328,70h6M331,61v19M334,76h6M337,67v19M339,85h6M342,76v17M345,99h6M348,92v13M350,111h6M353,107v8M356,95h6M359,88v14M361,95h6M364,88v14M366,89h6M369,81v15M372,101h6M375,95v12M377,117h6M380,115v4M383,107h6M386,102v10M388,107h6M391,102v10M394,113h6M397,109v7M399,115h6M402,112v6M405,115h6M408,112v6M410,117h6M413,115v4M416,117h6M419,115v4M421,113h6M424,109v7M438,117h6M441,115v4M459,115h6M462,112v6M492,117h6M495,115v4" style="stroke: #00009a; stroke-width: 1;"></path>
+       <path d="M82,117h6M85,115v4M115,117h6M118,115v4M126,117h6M129,115v4M137,115h6M140,112v6M142,115h6M145,112v6M148,113h6M151,109v7M153,115h6M156,112v6M159,101h6M162,95v12M164,107h6M167,102v10M170,103h6M173,97v12M175,103h6M178,97v12M181,95h6M184,88v14M186,105h6M189,99v11M191,89h6M194,81v15M197,72h6M200,63v19M202,89h6M205,81v15M208,58h6M211,47v22M213,85h6M216,76v17M219,79h6M222,69v19M224,60h6M227,49v22M230,58h6M233,47v22M235,68h6M238,58v21M241,52h6M244,41v23M246,46h6M249,34v24M252,46h6M255,34v24M257,52h6M260,41v23M263,32h6M266,19v26M268,26h6M271,12v28M274,40h6M277,27v26M279,36h6M282,23v26M284,54h6M287,43v23M290,20h6M293,6v28M295,20h6M298,6v28M301,42h6M304,30v25M306,52h6M309,41v23M312,64h6M315,54v21M317,68h6M320,58v21M323,76h6M326,67v19M328,70h6M331,61v19M334,76h6M337,67v19M339,85h6M342,76v17M345,99h6M348,92v13M350,111h6M353,107v8M356,95h6M359,88v14M361,95h6M364,88v14M366,89h6M369,81v15M372,101h6M375,95v12M377,117h6M380,115v4M383,107h6M386,102v10M388,107h6M391,102v10M394,113h6M397,109v7M399,115h6M402,112v6M405,115h6M408,112v6M410,117h6M413,115v4M416,117h6M419,115v4M421,113h6M424,109v7M438,117h6M441,115v4M459,115h6M462,112v6M492,117h6M495,115v4" style="stroke: rgb(0, 0, 154); stroke-width: 1;"></path>
       </g>
       <g>
-       <path d="M0,119h120v-1h6v-1h5v-1h6v-1h11v-1h5v-2h6v-5h5v-3h6v-1h11v-3h5v-6h5v-5h6v-3h5v-2h17v-6h5v-12h6v-6h5v-3h6v-5h5v-4h6v-2h5v-2h6v-5h5v-3h22v-1h5v1h6v6h5v10h6v11h5v6h6v3h5v3h6v3h5v6h6v8h5v3h16v1h6v5h5v4h6v2h5v2h6v3h5v3h6v1h5v1h17v1h5v1h115" style="stroke-linejoin: miter; stroke: #ff0000; stroke-width: 1; fill: none;"></path>
+       <path d="M0,119h120v-1h6v-1h5v-1h6v-1h11v-1h5v-2h6v-5h5v-3h6v-1h11v-3h5v-6h5v-5h6v-3h5v-2h17v-6h5v-12h6v-6h5v-3h6v-5h5v-4h6v-2h5v-2h6v-5h5v-3h22v-1h5v1h6v6h5v10h6v11h5v6h6v3h5v3h6v3h5v6h6v8h5v3h16v1h6v5h5v4h6v2h5v2h6v3h5v3h6v1h5v1h17v1h5v1h115" style="stroke-linejoin: miter; stroke: rgb(255, 0, 0); stroke-width: 1; fill: none;"></path>
       </g>
       <g>
-       <path d="M16,119h6M19,119v0M27,119h6M30,119v0M33,119h6M36,119v0M38,119h6M41,119v0M44,119h6M47,119v0M49,119h6M52,119v0M55,119h6M58,119v0M60,119h6M63,119v0M66,119h6M69,119v0M71,119h6M74,119v0M77,119h6M80,119v0M82,119h6M85,119v0M88,119h6M91,119v0M93,119h6M96,119v0M98,119h6M101,118v1M104,118h6M107,118v0M109,118h6M112,118v0M115,118h6M118,118v0M120,117h6M123,117v0M126,117h6M129,117v0M131,116h6M134,116v0M137,115h6M140,115v0M142,114h6M145,114v0M148,113h6M151,112v1M153,111h6M156,111v0M159,109h6M162,109v0M164,107h6M167,107v0M170,104h6M173,104v1M175,102h6M178,101v1M181,99h6M184,98v1M186,95h6M189,95v0M191,91h6M194,91v0M197,87h6M200,86v1M202,82h6M205,82v1M208,77h6M211,77v0M213,72h6M216,72v1M219,68h6M222,68v0M224,63h6M227,63v0M230,58h6M233,57v1M235,53h6M238,53v0M241,49h6M244,49v0M246,46h6M249,46v1M252,43h6M255,43v0M257,41h6M260,40v1M263,39h6M266,39v0M268,38h6M271,38v0M274,38h6M277,38v1M279,40h6M282,39v1M284,41h6M287,40v1M290,43h6M293,43v1M295,46h6M298,46v0M301,50h6M304,49v1M306,54h6M309,54v0M312,58h6M315,58v0M317,63h6M320,62v1M323,68h6M326,67v1M328,72h6M331,72v1M334,77h6M337,77v1M339,82h6M342,82v0M345,87h6M348,86v1M350,91h6M353,91v0M356,94h6M359,94v1M361,98h6M364,98v1M366,102h6M369,101v1M372,105h6M375,104v1M377,107h6M380,107v0M383,109h6M386,109v0M388,111h6M391,110v1M394,112h6M397,112v1M399,114h6M402,114v0M405,115h6M408,115v0M410,116h6M413,116v0M416,117h6M419,117v0M421,117h6M424,117v0M427,118h6M430,118v0M432,118h6M435,118v0M438,118h6M441,118v0M443,118h6M446,118v0M449,119h6M452,119v0M454,119h6M457,119v0M459,119h6M462,119v0M465,119h6M468,119v0M470,119h6M473,119v0M476,119h6M479,119v0M481,119h6M484,119v0M487,119h6M490,119v0M492,119h6M495,119v0M498,119h6M501,119v0M503,119h6M506,119v0M509,119h6M512,119v0M514,119h6M517,119v0M520,119h6M523,119v0M525,119h6M528,119v0" style="stroke: #00ff00; stroke-width: 1;"></path>
+       <path d="M16,119h6M19,119v0M27,119h6M30,119v0M33,119h6M36,119v0M38,119h6M41,119v0M44,119h6M47,119v0M49,119h6M52,119v0M55,119h6M58,119v0M60,119h6M63,119v0M66,119h6M69,119v0M71,119h6M74,119v0M77,119h6M80,119v0M82,119h6M85,119v0M88,119h6M91,119v0M93,119h6M96,119v0M98,119h6M101,118v1M104,118h6M107,118v0M109,118h6M112,118v0M115,118h6M118,118v0M120,117h6M123,117v0M126,117h6M129,117v0M131,116h6M134,116v0M137,115h6M140,115v0M142,114h6M145,114v0M148,113h6M151,112v1M153,111h6M156,111v0M159,109h6M162,109v0M164,107h6M167,107v0M170,104h6M173,104v1M175,102h6M178,101v1M181,99h6M184,98v1M186,95h6M189,95v0M191,91h6M194,91v0M197,87h6M200,86v1M202,82h6M205,82v1M208,77h6M211,77v0M213,72h6M216,72v1M219,68h6M222,68v0M224,63h6M227,63v0M230,58h6M233,57v1M235,53h6M238,53v0M241,49h6M244,49v0M246,46h6M249,46v1M252,43h6M255,43v0M257,41h6M260,40v1M263,39h6M266,39v0M268,38h6M271,38v0M274,38h6M277,38v1M279,40h6M282,39v1M284,41h6M287,40v1M290,43h6M293,43v1M295,46h6M298,46v0M301,50h6M304,49v1M306,54h6M309,54v0M312,58h6M315,58v0M317,63h6M320,62v1M323,68h6M326,67v1M328,72h6M331,72v1M334,77h6M337,77v1M339,82h6M342,82v0M345,87h6M348,86v1M350,91h6M353,91v0M356,94h6M359,94v1M361,98h6M364,98v1M366,102h6M369,101v1M372,105h6M375,104v1M377,107h6M380,107v0M383,109h6M386,109v0M388,111h6M391,110v1M394,112h6M397,112v1M399,114h6M402,114v0M405,115h6M408,115v0M410,116h6M413,116v0M416,117h6M419,117v0M421,117h6M424,117v0M427,118h6M430,118v0M432,118h6M435,118v0M438,118h6M441,118v0M443,118h6M446,118v0M449,119h6M452,119v0M454,119h6M457,119v0M459,119h6M462,119v0M465,119h6M468,119v0M470,119h6M473,119v0M476,119h6M479,119v0M481,119h6M484,119v0M487,119h6M490,119v0M492,119h6M495,119v0M498,119h6M501,119v0M503,119h6M506,119v0M509,119h6M512,119v0M514,119h6M517,119v0M520,119h6M523,119v0M525,119h6M528,119v0" style="stroke: rgb(0, 255, 0); stroke-width: 1;"></path>
       </g>
      </svg>
      <g>
       <g transform="translate(0,119)">
        <path d="M0,0h547M0,-4V0M11,-2V0M22,-2V0M33,-2V0M44,-2V0M55,-4V0M66,-2V0M77,-2V0M88,-2V0M98,-2V0M109,-4V0M120,-2V0M131,-2V0M142,-2V0M153,-2V0M164,-4V0M175,-2V0M186,-2V0M197,-2V0M208,-2V0M219,-4V0M230,-2V0M241,-2V0M252,-2V0M263,-2V0M274,-4V0M284,-2V0M295,-2V0M306,-2V0M317,-2V0M328,-4V0M339,-2V0M350,-2V0M361,-2V0M372,-2V0M383,-4V0M394,-2V0M405,-2V0M416,-2V0M427,-2V0M438,-4V0M449,-2V0M459,-2V0M470,-2V0M481,-2V0M492,-4V0M503,-2V0M514,-2V0M525,-2V0M536,-2V0M547,-4V0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="middle">
-        <text dy=".8em" transform="translate(0,1)">
-         -5
-        </text>
-        <text dy=".8em" transform="translate(55,1)">
-         -4
-        </text>
-        <text dy=".8em" transform="translate(109,1)">
-         -3
-        </text>
-        <text dy=".8em" transform="translate(164,1)">
-         -2
-        </text>
-        <text dy=".8em" transform="translate(219,1)">
-         -1
-        </text>
-        <text dy=".8em" transform="translate(274,1)">
-         0
-        </text>
-        <text dy=".8em" transform="translate(328,1)">
-         1
-        </text>
-        <text dy=".8em" transform="translate(383,1)">
-         2
-        </text>
-        <text dy=".8em" transform="translate(438,1)">
-         3
-        </text>
-        <text dy=".8em" transform="translate(492,1)">
-         4
-        </text>
-        <text dy=".8em" transform="translate(547,1)">
-         5
-        </text>
-       </g>
+       <g font-family="Arial" font-size="5" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,1)">-5</text><text dy=".8em" transform="translate(55,1)">-4</text><text dy=".8em" transform="translate(109,1)">-3</text><text dy=".8em" transform="translate(164,1)">-2</text><text dy=".8em" transform="translate(219,1)">-1</text><text dy=".8em" transform="translate(274,1)">0</text><text dy=".8em" transform="translate(328,1)">1</text><text dy=".8em" transform="translate(383,1)">2</text><text dy=".8em" transform="translate(438,1)">3</text><text dy=".8em" transform="translate(492,1)">4</text><text dy=".8em" transform="translate(547,1)">5</text></g>
       </g>
       <g>
        <path d="M0,0v119M16,119H0M8,115H0M8,111H0M8,107H0M8,103H0M16,99H0M8,95H0M8,91H0M8,87H0M8,83H0M16,79H0M8,74H0M8,70H0M8,66H0M8,62H0M16,58H0M8,54H0M8,50H0M8,46H0M8,42H0M16,38H0M8,34H0M8,30H0M8,26H0M8,22H0M16,18H0M8,14H0M8,10H0M8,6H0M8,2H0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="end">
-        <text dy=".4em" transform="translate(-1,119)">
-         0
-        </text>
-        <text dy=".4em" transform="translate(-1,99)">
-         10
-        </text>
-        <text dy=".4em" transform="translate(-1,79)">
-         20
-        </text>
-        <text dy=".4em" transform="translate(-1,58)">
-         30
-        </text>
-        <text dy=".4em" transform="translate(-1,38)">
-         40
-        </text>
-        <text dy=".4em" transform="translate(-1,18)">
-         50
-        </text>
-       </g>
+       <g font-family="Arial" font-size="5" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-1,119)">0</text><text dominant-baseline="middle" transform="translate(-1,99)">10</text><text dominant-baseline="middle" transform="translate(-1,79)">20</text><text dominant-baseline="middle" transform="translate(-1,58)">30</text><text dominant-baseline="middle" transform="translate(-1,38)">40</text><text dominant-baseline="middle" transform="translate(-1,18)">50</text></g>
       </g>
      </g>
     </g>
-    <g transform="translate(534,10)" font-family="Arial" font-size="5" space="preserve" fill="black">
-     <path d="M0,0H137V24H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text text-anchor="middle" dy=".4em" transform="translate(69,3)">
-      h1
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(7,9)">
-      Entries
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(130,9)">
-      1000
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(7,15)">
-      Mean
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(130,15)">
-      0.01124
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(7,21)">
-      Std Dev
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(130,21)">
-      1.005
-     </text>
-     <path d="M0,6h137" style="stroke: black; stroke-width: 1;"></path>
-    </g>
-    <g transform="translate(68,1)" font-family="Arial" font-size="7" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(274)">
-      h1
-     </text>
-    </g>
+    <g transform="translate(534,10)" font-family="Arial" font-size="5" xml:space="preserve" fill="black"><path d="M0,0H137V24H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(69,3)">h1</text><text text-anchor="start" dominant-baseline="middle" transform="translate(7,9)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(130,9)">1000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(7,15)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(130,15)">0.01124</text><text text-anchor="start" dominant-baseline="middle" transform="translate(7,21)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(130,21)">1.005</text><path d="M0,6h137" style="stroke: black; stroke-width: 1;"></path></g>
+    <g transform="translate(68,1)" font-family="Arial" font-size="7" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(274)">h1</text></g>
    </g>
   </svg>
   <svg viewBox="0 0 684 149" preserveAspectRatio="none" x="7" y="162" width="684" height="149">
@@ -120,106 +39,28 @@
      <path d="M0,0H547V119H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="547" height="119" viewBox="0 0 547 119">
       <g>
-       <path d="M55,117h6M58,115v4M66,111h6M69,107v8M71,113h6M74,109v7M77,96h6M80,89v14M82,90h6M85,82v16M88,76h6M91,66v19M93,74h6M96,64v19M98,51h6M101,39v24M104,69h6M107,59v21M109,49h6M112,37v24M115,45h6M118,32v25M120,55h6M123,44v23M126,20h6M129,6v28M131,32h6M134,19v27M137,39h6M140,26v25M142,39h6M145,26v25M148,32h6M151,19v27M153,53h6M156,41v24M159,72h6M162,62v19M164,57h6M167,46v22M170,74h6M173,64v19M175,49h6M178,37v24M181,76h6M184,66v19M186,82h6M189,73v18M191,65h6M194,55v21M197,76h6M200,66v19M202,90h6M205,82v16M208,76h6M211,66v19M213,74h6M216,64v19M219,90h6M222,82v16M224,86h6M227,78v16M230,82h6M233,73v18M235,98h6M238,92v13M241,90h6M244,82v16M246,96h6M249,89v14M252,102h6M255,97v11M257,102h6M260,97v11M263,100h6M266,94v13M268,94h6M271,87v14M274,102h6M277,97v11M279,105h6M282,99v11M284,107h6M287,102v10M290,107h6M293,102v10M295,109h6M298,104v9M301,113h6M304,109v7M306,109h6M309,104v9M312,111h6M315,107v8M317,107h6M320,102v10M323,107h6M326,102v10M328,107h6M331,102v10M334,109h6M337,104v9M339,113h6M342,109v7M345,107h6M348,102v10M350,111h6M353,107v8M356,111h6M359,107v8M361,113h6M364,109v7M372,109h6M375,104v9M377,111h6M380,107v8M383,117h6M386,115v4M388,117h6M391,115v4M394,109h6M397,104v9M399,115h6M402,112v6M405,115h6M408,112v6M410,113h6M413,109v7M416,115h6M419,112v6M421,113h6M424,109v7M427,113h6M430,109v7M432,115h6M435,112v6M438,117h6M441,115v4M443,115h6M446,112v6M449,117h6M452,115v4M454,115h6M457,112v6M459,111h6M462,107v8M465,111h6M468,107v8M476,117h6M479,115v4M481,115h6M484,112v6M487,113h6M490,109v7M492,113h6M495,109v7M503,117h6M506,115v4M509,117h6M512,115v4M514,111h6M517,107v8M520,117h6M523,115v4M525,117h6M528,115v4M542,117h6M545,115v4" style="stroke: #00009a; stroke-width: 1;"></path>
+       <path d="M55,117h6M58,115v4M66,111h6M69,107v8M71,113h6M74,109v7M77,96h6M80,89v14M82,90h6M85,82v16M88,76h6M91,66v19M93,74h6M96,64v19M98,51h6M101,39v24M104,69h6M107,59v21M109,49h6M112,37v24M115,45h6M118,32v25M120,55h6M123,44v23M126,20h6M129,6v28M131,32h6M134,19v27M137,39h6M140,26v25M142,39h6M145,26v25M148,32h6M151,19v27M153,53h6M156,41v24M159,72h6M162,62v19M164,57h6M167,46v22M170,74h6M173,64v19M175,49h6M178,37v24M181,76h6M184,66v19M186,82h6M189,73v18M191,65h6M194,55v21M197,76h6M200,66v19M202,90h6M205,82v16M208,76h6M211,66v19M213,74h6M216,64v19M219,90h6M222,82v16M224,86h6M227,78v16M230,82h6M233,73v18M235,98h6M238,92v13M241,90h6M244,82v16M246,96h6M249,89v14M252,102h6M255,97v11M257,102h6M260,97v11M263,100h6M266,94v13M268,94h6M271,87v14M274,102h6M277,97v11M279,105h6M282,99v11M284,107h6M287,102v10M290,107h6M293,102v10M295,109h6M298,104v9M301,113h6M304,109v7M306,109h6M309,104v9M312,111h6M315,107v8M317,107h6M320,102v10M323,107h6M326,102v10M328,107h6M331,102v10M334,109h6M337,104v9M339,113h6M342,109v7M345,107h6M348,102v10M350,111h6M353,107v8M356,111h6M359,107v8M361,113h6M364,109v7M372,109h6M375,104v9M377,111h6M380,107v8M383,117h6M386,115v4M388,117h6M391,115v4M394,109h6M397,104v9M399,115h6M402,112v6M405,115h6M408,112v6M410,113h6M413,109v7M416,115h6M419,112v6M421,113h6M424,109v7M427,113h6M430,109v7M432,115h6M435,112v6M438,117h6M441,115v4M443,115h6M446,112v6M449,117h6M452,115v4M454,115h6M457,112v6M459,111h6M462,107v8M465,111h6M468,107v8M476,117h6M479,115v4M481,115h6M484,112v6M487,113h6M490,109v7M492,113h6M495,109v7M503,117h6M506,115v4M509,117h6M512,115v4M514,111h6M517,107v8M520,117h6M523,115v4M525,117h6M528,115v4M542,117h6M545,115v4" style="stroke: rgb(0, 0, 154); stroke-width: 1;"></path>
       </g>
       <g>
-       <path d="M0,119h55v-1h5v-2h6v-3h5v-6h6v-9h5v-10h6v-9h5v-6h5v-8h6v-10h5v-6h6v-2h5v-6h6v-5h11v2h5v1h6v4h5v10h6v6h5v4h6v7h5v4h6v2h32v2h6v5h5v3h6v1h5v3h6v4h5v2h6v2h5v2h6v1h5v1h6v1h5v1h5v2h6v2h5v1h22v-2h17v2h11v1h5v1h16v1h6v2h5v1h33v-1h6v-1h11v1h5v1h6v1h5v-1h55v1h5v1h28v1h5v1h11" style="stroke-linejoin: miter; stroke: #ff0000; stroke-width: 1; fill: none;"></path>
+       <path d="M0,119h55v-1h5v-2h6v-3h5v-6h6v-9h5v-10h6v-9h5v-6h5v-8h6v-10h5v-6h6v-2h5v-6h6v-5h11v2h5v1h6v4h5v10h6v6h5v4h6v7h5v4h6v2h32v2h6v5h5v3h6v1h5v3h6v4h5v2h6v2h5v2h6v1h5v1h6v1h5v1h5v2h6v2h5v1h22v-2h17v2h11v1h5v1h16v1h6v2h5v1h33v-1h6v-1h11v1h5v1h6v1h5v-1h55v1h5v1h28v1h5v1h11" style="stroke-linejoin: miter; stroke: rgb(255, 0, 0); stroke-width: 1; fill: none;"></path>
       </g>
       <g>
-       <path d="M38,119h6M41,119v0M44,119h6M47,119v0M49,119h6M52,119v0M55,118h6M58,118v0M60,117h6M63,117v0M66,115h6M69,115v0M71,110h6M74,110v0M77,103h6M80,103v1M82,95h6M85,95v0M88,85h6M91,84v1M93,73h6M96,73v1M98,64h6M101,64v0M104,56h6M107,55v1M109,48h6M112,48v1M115,43h6M118,43v1M120,40h6M123,39v1M126,38h6M129,38v1M131,38h6M134,38v0M137,39h6M140,39v1M142,43h6M145,42v1M148,45h6M151,45v0M153,48h6M156,48v1M159,53h6M162,52v1M164,56h6M167,56v0M170,59h6M173,59v1M175,63h6M178,63v1M181,67h6M184,67v0M186,71h6M189,70v1M191,74h6M194,74v1M197,77h6M200,76v1M202,79h6M205,79v1M208,82h6M211,82v0M213,85h6M216,84v1M219,87h6M222,87v0M224,89h6M227,89v0M230,91h6M233,91v0M235,93h6M238,93v0M241,94h6M244,94v1M246,96h6M249,96v0M252,98h6M255,97v1M257,98h6M260,98v1M263,100h6M266,100v0M268,101h6M271,101v0M274,102h6M277,102v0M279,103h6M282,103v0M284,104h6M287,104v0M290,105h6M293,104v1M295,105h6M298,105v0M301,106h6M304,106v0M306,107h6M309,107v0M312,107h6M315,107v0M317,108h6M320,108v0M323,109h6M326,109v0M328,109h6M331,109v0M334,109h6M337,109v1M339,110h6M342,110v0M345,111h6M348,111v0M350,111h6M353,110v1M356,111h6M359,111v0M361,111h6M364,111v1M366,112h6M369,112v0M372,112h6M375,112v0M377,112h6M380,112v0M383,112h6M386,112v1M388,113h6M391,113v0M394,113h6M397,113v0M399,113h6M402,113v1M405,114h6M408,113v1M410,114h6M413,114v0M416,114h6M419,114v0M421,114h6M424,114v0M427,114h6M430,114v0M432,114h6M435,114v0M438,115h6M441,115v0M443,115h6M446,115v0M449,115h6M452,115v0M454,115h6M457,115v0M459,115h6M462,115v0M465,115h6M468,115v0M470,115h6M473,115v1M476,116h6M479,115v1M481,116h6M484,116v0M487,116h6M490,116v0M492,116h6M495,116v0M498,116h6M501,116v0M503,116h6M506,116v0M509,116h6M512,116v0M514,116h6M517,116v0M520,116h6M523,116v0M525,116h6M528,116v0M531,116h6M534,116v1M536,117h6M539,116v1M542,117h6M545,117v0" style="stroke: #00ff00; stroke-width: 1;"></path>
+       <path d="M38,119h6M41,119v0M44,119h6M47,119v0M49,119h6M52,119v0M55,118h6M58,118v0M60,117h6M63,117v0M66,115h6M69,115v0M71,110h6M74,110v0M77,103h6M80,103v1M82,95h6M85,95v0M88,85h6M91,84v1M93,73h6M96,73v1M98,64h6M101,64v0M104,56h6M107,55v1M109,48h6M112,48v1M115,43h6M118,43v1M120,40h6M123,39v1M126,38h6M129,38v1M131,38h6M134,38v0M137,39h6M140,39v1M142,43h6M145,42v1M148,45h6M151,45v0M153,48h6M156,48v1M159,53h6M162,52v1M164,56h6M167,56v0M170,59h6M173,59v1M175,63h6M178,63v1M181,67h6M184,67v0M186,71h6M189,70v1M191,74h6M194,74v1M197,77h6M200,76v1M202,79h6M205,79v1M208,82h6M211,82v0M213,85h6M216,84v1M219,87h6M222,87v0M224,89h6M227,89v0M230,91h6M233,91v0M235,93h6M238,93v0M241,94h6M244,94v1M246,96h6M249,96v0M252,98h6M255,97v1M257,98h6M260,98v1M263,100h6M266,100v0M268,101h6M271,101v0M274,102h6M277,102v0M279,103h6M282,103v0M284,104h6M287,104v0M290,105h6M293,104v1M295,105h6M298,105v0M301,106h6M304,106v0M306,107h6M309,107v0M312,107h6M315,107v0M317,108h6M320,108v0M323,109h6M326,109v0M328,109h6M331,109v0M334,109h6M337,109v1M339,110h6M342,110v0M345,111h6M348,111v0M350,111h6M353,110v1M356,111h6M359,111v0M361,111h6M364,111v1M366,112h6M369,112v0M372,112h6M375,112v0M377,112h6M380,112v0M383,112h6M386,112v1M388,113h6M391,113v0M394,113h6M397,113v0M399,113h6M402,113v1M405,114h6M408,113v1M410,114h6M413,114v0M416,114h6M419,114v0M421,114h6M424,114v0M427,114h6M430,114v0M432,114h6M435,114v0M438,115h6M441,115v0M443,115h6M446,115v0M449,115h6M452,115v0M454,115h6M457,115v0M459,115h6M462,115v0M465,115h6M468,115v0M470,115h6M473,115v1M476,116h6M479,115v1M481,116h6M484,116v0M487,116h6M490,116v0M492,116h6M495,116v0M498,116h6M501,116v0M503,116h6M506,116v0M509,116h6M512,116v0M514,116h6M517,116v0M520,116h6M523,116v0M525,116h6M528,116v0M531,116h6M534,116v1M536,117h6M539,116v1M542,117h6M545,117v0" style="stroke: rgb(0, 255, 0); stroke-width: 1;"></path>
       </g>
      </svg>
      <g>
       <g transform="translate(0,119)">
        <path d="M0,0h547M0,-2V0M14,-2V0M27,-4V0M41,-2V0M55,-2V0M68,-2V0M82,-4V0M96,-2V0M109,-2V0M123,-2V0M137,-4V0M150,-2V0M164,-2V0M178,-2V0M191,-4V0M205,-2V0M219,-2V0M232,-2V0M246,-4V0M260,-2V0M274,-2V0M287,-2V0M301,-4V0M315,-2V0M328,-2V0M342,-2V0M356,-4V0M369,-2V0M383,-2V0M397,-2V0M410,-4V0M424,-2V0M438,-2V0M451,-2V0M465,-4V0M479,-2V0M492,-2V0M506,-2V0M520,-4V0M533,-2V0M547,-2V0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="middle">
-        <text dy=".8em" transform="translate(27,1)">
-         -4
-        </text>
-        <text dy=".8em" transform="translate(82,1)">
-         -2
-        </text>
-        <text dy=".8em" transform="translate(137,1)">
-         0
-        </text>
-        <text dy=".8em" transform="translate(191,1)">
-         2
-        </text>
-        <text dy=".8em" transform="translate(246,1)">
-         4
-        </text>
-        <text dy=".8em" transform="translate(301,1)">
-         6
-        </text>
-        <text dy=".8em" transform="translate(356,1)">
-         8
-        </text>
-        <text dy=".8em" transform="translate(410,1)">
-         10
-        </text>
-        <text dy=".8em" transform="translate(465,1)">
-         12
-        </text>
-        <text dy=".8em" transform="translate(520,1)">
-         14
-        </text>
-       </g>
+       <g font-family="Arial" font-size="5" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(27,1)">-4</text><text dy=".8em" transform="translate(82,1)">-2</text><text dy=".8em" transform="translate(137,1)">0</text><text dy=".8em" transform="translate(191,1)">2</text><text dy=".8em" transform="translate(246,1)">4</text><text dy=".8em" transform="translate(301,1)">6</text><text dy=".8em" transform="translate(356,1)">8</text><text dy=".8em" transform="translate(410,1)">10</text><text dy=".8em" transform="translate(465,1)">12</text><text dy=".8em" transform="translate(520,1)">14</text></g>
       </g>
       <g>
        <path d="M0,0v119M16,119H0M8,115H0M8,111H0M8,107H0M8,102H0M16,98H0M8,94H0M8,90H0M8,86H0M8,82H0M16,78H0M8,74H0M8,69H0M8,65H0M8,61H0M16,57H0M8,53H0M8,49H0M8,45H0M8,41H0M16,36H0M8,32H0M8,28H0M8,24H0M8,20H0M16,16H0M8,12H0M8,8H0M8,3H0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="end">
-        <text dy=".4em" transform="translate(-1,119)">
-         0
-        </text>
-        <text dy=".4em" transform="translate(-1,98)">
-         10
-        </text>
-        <text dy=".4em" transform="translate(-1,78)">
-         20
-        </text>
-        <text dy=".4em" transform="translate(-1,57)">
-         30
-        </text>
-        <text dy=".4em" transform="translate(-1,36)">
-         40
-        </text>
-        <text dy=".4em" transform="translate(-1,16)">
-         50
-        </text>
-       </g>
+       <g font-family="Arial" font-size="5" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-1,119)">0</text><text dominant-baseline="middle" transform="translate(-1,98)">10</text><text dominant-baseline="middle" transform="translate(-1,78)">20</text><text dominant-baseline="middle" transform="translate(-1,57)">30</text><text dominant-baseline="middle" transform="translate(-1,36)">40</text><text dominant-baseline="middle" transform="translate(-1,16)">50</text></g>
       </g>
      </g>
     </g>
-    <g transform="translate(534,10)" font-family="Arial" font-size="5" space="preserve" fill="black">
-     <path d="M0,0H137V24H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text text-anchor="middle" dy=".4em" transform="translate(69,3)">
-      h1
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(7,9)">
-      Entries
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(130,9)">
-      1000
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(7,15)">
-      Mean
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(130,15)">
-      1.985
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(7,21)">
-      Std Dev
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(130,21)">
-      3.383
-     </text>
-     <path d="M0,6h137" style="stroke: black; stroke-width: 1;"></path>
-    </g>
-    <g transform="translate(68,1)" font-family="Arial" font-size="7" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(274)">
-      h1
-     </text>
-    </g>
+    <g transform="translate(534,10)" font-family="Arial" font-size="5" xml:space="preserve" fill="black"><path d="M0,0H137V24H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(69,3)">h1</text><text text-anchor="start" dominant-baseline="middle" transform="translate(7,9)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(130,9)">1000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(7,15)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(130,15)">1.985</text><text text-anchor="start" dominant-baseline="middle" transform="translate(7,21)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(130,21)">3.383</text><path d="M0,6h137" style="stroke: black; stroke-width: 1;"></path></g>
+    <g transform="translate(68,1)" font-family="Arial" font-size="7" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(274)">h1</text></g>
    </g>
   </svg>
   <svg viewBox="0 0 684 149" preserveAspectRatio="none" x="7" y="320" width="684" height="149">
@@ -229,112 +70,28 @@
      <path d="M0,0H547V119H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="547" height="119" viewBox="0 0 547 119">
       <g>
-       <path d="M0,117h6M3,115v4M22,117h6M25,115v4M27,117h6M30,115v4M44,117h6M47,115v4M71,117h6M74,115v4M82,113h6M85,110v7M93,117h6M96,115v4M98,117h6M101,115v4M104,117h6M107,115v4M109,113h6M112,110v7M115,111h6M118,108v7M120,113h6M123,110v7M126,113h6M129,110v7M131,113h6M134,110v7M137,115h6M140,113v5M148,115h6M151,113v5M153,113h6M156,110v7M159,115h6M162,113v5M164,115h6M167,113v5M186,113h6M189,110v7M191,115h6M194,113v5M197,113h6M200,110v7M202,117h6M205,115v4M208,117h6M211,115v4M213,117h6M216,115v4M219,115h6M222,113v5M224,117h6M227,115v4M230,115h6M233,113v5M235,113h6M238,110v7M241,110h6M244,105v9M246,110h6M249,105v9M252,111h6M255,108v7M257,113h6M260,110v7M263,115h6M266,113v5M268,106h6M271,101v10M274,102h6M277,96v12M279,115h6M282,113v5M284,108h6M287,103v9M290,113h6M293,110v7M295,115h6M298,113v5M301,110h6M304,105v9M306,113h6M309,110v7M312,106h6M315,101v10M317,106h6M320,101v10M323,100h6M326,94v12M328,111h6M331,108v7M334,104h6M337,99v10M339,106h6M342,101v10M345,113h6M348,110v7M350,104h6M353,99v10M356,95h6M359,88v13M361,100h6M364,94v12M366,102h6M369,96v12M372,106h6M375,101v10M377,106h6M380,101v10M383,98h6M386,92v13M388,91h6M391,84v14M394,85h6M397,77v16M399,104h6M402,99v10M405,85h6M408,77v16M410,87h6M413,79v16M416,91h6M419,84v14M421,85h6M424,77v16M427,85h6M430,77v16M432,87h6M435,79v16M438,81h6M441,73v17M443,85h6M446,77v16M449,85h6M452,77v16M454,63h6M457,52v21M459,66h6M462,56v20M465,78h6M468,69v17M470,78h6M473,69v17M476,80h6M479,71v17M481,68h6M484,58v20M487,53h6M490,42v22M492,53h6M495,42v22M498,46h6M501,34v23M503,63h6M506,52v21M509,44h6M512,32v24M514,64h6M517,54v21M520,57h6M523,46v22M525,42h6M528,30v24M531,40h6M534,28v24M536,27h6M539,14v26M542,19h6M545,6v27" style="stroke: #00009a; stroke-width: 1;"></path>
+       <path d="M0,117h6M3,115v4M22,117h6M25,115v4M27,117h6M30,115v4M44,117h6M47,115v4M71,117h6M74,115v4M82,113h6M85,110v7M93,117h6M96,115v4M98,117h6M101,115v4M104,117h6M107,115v4M109,113h6M112,110v7M115,111h6M118,108v7M120,113h6M123,110v7M126,113h6M129,110v7M131,113h6M134,110v7M137,115h6M140,113v5M148,115h6M151,113v5M153,113h6M156,110v7M159,115h6M162,113v5M164,115h6M167,113v5M186,113h6M189,110v7M191,115h6M194,113v5M197,113h6M200,110v7M202,117h6M205,115v4M208,117h6M211,115v4M213,117h6M216,115v4M219,115h6M222,113v5M224,117h6M227,115v4M230,115h6M233,113v5M235,113h6M238,110v7M241,110h6M244,105v9M246,110h6M249,105v9M252,111h6M255,108v7M257,113h6M260,110v7M263,115h6M266,113v5M268,106h6M271,101v10M274,102h6M277,96v12M279,115h6M282,113v5M284,108h6M287,103v9M290,113h6M293,110v7M295,115h6M298,113v5M301,110h6M304,105v9M306,113h6M309,110v7M312,106h6M315,101v10M317,106h6M320,101v10M323,100h6M326,94v12M328,111h6M331,108v7M334,104h6M337,99v10M339,106h6M342,101v10M345,113h6M348,110v7M350,104h6M353,99v10M356,95h6M359,88v13M361,100h6M364,94v12M366,102h6M369,96v12M372,106h6M375,101v10M377,106h6M380,101v10M383,98h6M386,92v13M388,91h6M391,84v14M394,85h6M397,77v16M399,104h6M402,99v10M405,85h6M408,77v16M410,87h6M413,79v16M416,91h6M419,84v14M421,85h6M424,77v16M427,85h6M430,77v16M432,87h6M435,79v16M438,81h6M441,73v17M443,85h6M446,77v16M449,85h6M452,77v16M454,63h6M457,52v21M459,66h6M462,56v20M465,78h6M468,69v17M470,78h6M473,69v17M476,80h6M479,71v17M481,68h6M484,58v20M487,53h6M490,42v22M492,53h6M495,42v22M498,46h6M501,34v23M503,63h6M506,52v21M509,44h6M512,32v24M514,64h6M517,54v21M520,57h6M523,46v22M525,42h6M528,30v24M531,40h6M534,28v24M536,27h6M539,14v26M542,19h6M545,6v27" style="stroke: rgb(0, 0, 154); stroke-width: 1;"></path>
       </g>
       <g>
-       <path d="M0,119h82v-1h6v-1h16v-1h5v-2h6v-1h16v1h6v1h27v1h6v2h5v1h6v-1h5v-2h5v-2h6v1h5v1h6v1h16v-1h6v-1h5v-2h6v-1h5v-1h17v-1h5v-4h6v-2h5v3h5v4h6v2h11v-1h5v-2h6v-3h5v-1h28v-1h5v-1h6v-1h5v-1h5v1h6v1h5v-1h6v-5h5v-7h6v-4h5v-1h11v1h11v-1h6v-1h22v-2h5v-3h5v-2h17v-3h5v-8h6v-10h5v-4h11v3h6v6h5v2h6v-7h5v-10h6v-9h5v-10h6v-9h5" style="stroke-linejoin: miter; stroke: #ff0000; stroke-width: 1; fill: none;"></path>
+       <path d="M0,119h82v-1h6v-1h16v-1h5v-2h6v-1h16v1h6v1h27v1h6v2h5v1h6v-1h5v-2h5v-2h6v1h5v1h6v1h16v-1h6v-1h5v-2h6v-1h5v-1h17v-1h5v-4h6v-2h5v3h5v4h6v2h11v-1h5v-2h6v-3h5v-1h28v-1h5v-1h6v-1h5v-1h5v1h6v1h5v-1h6v-5h5v-7h6v-4h5v-1h11v1h11v-1h6v-1h22v-2h5v-3h5v-2h17v-3h5v-8h6v-10h5v-4h11v3h6v6h5v2h6v-7h5v-10h6v-9h5v-10h6v-9h5" style="stroke-linejoin: miter; stroke: rgb(255, 0, 0); stroke-width: 1; fill: none;"></path>
       </g>
       <g>
-       <path d="M0,118h6M3,118v0M5,118h6M8,118v0M11,118h6M14,118v0M16,118h6M19,118v0M22,118h6M25,118v0M27,118h6M30,118v0M33,118h6M36,118v0M38,118h6M41,118v0M44,118h6M47,118v0M49,118h6M52,118v0M55,118h6M58,118v0M60,118h6M63,118v0M66,118h6M69,118v0M71,118h6M74,118v0M77,118h6M80,118v0M82,118h6M85,118v0M88,117h6M91,117v1M93,117h6M96,117v1M98,117h6M101,117v1M104,117h6M107,117v0M109,117h6M112,117v0M115,117h6M118,117v0M120,117h6M123,117v0M126,117h6M129,117v0M131,117h6M134,117v0M137,117h6M140,117v0M142,117h6M145,117v0M148,117h6M151,116v1M153,116h6M156,116v0M159,116h6M162,116v0M164,116h6M167,116v0M170,116h6M173,116v0M175,116h6M178,116v0M181,116h6M184,116v0M186,115h6M189,115v0M191,115h6M194,115v0M197,115h6M200,115v0M202,115h6M205,115v0M208,115h6M211,115v0M213,114h6M216,114v0M219,114h6M222,114v0M224,114h6M227,114v0M230,114h6M233,114v0M235,113h6M238,113v0M241,113h6M244,113v0M246,113h6M249,113v0M252,113h6M255,113v0M257,112h6M260,112v0M263,112h6M266,112v0M268,112h6M271,111v1M274,111h6M277,111v0M279,111h6M282,111v0M284,110h6M287,110v0M290,110h6M293,110v0M295,109h6M298,109v0M301,109h6M304,109v0M306,108h6M309,108v1M312,108h6M315,108v0M317,107h6M320,107v0M323,107h6M326,106v1M328,106h6M331,106v0M334,105h6M337,105v0M339,105h6M342,105v0M345,104h6M348,104v0M350,103h6M353,103v0M356,102h6M359,102v1M361,101h6M364,101v0M366,100h6M369,100v1M372,99h6M375,99v0M377,98h6M380,98v1M383,97h6M386,97v0M388,96h6M391,96v0M394,94h6M397,94v1M399,94h6M402,93v1M405,93h6M408,92v1M410,91h6M413,91v0M416,90h6M419,89v1M421,88h6M424,88v0M427,87h6M430,87v0M432,85h6M435,85v0M438,83h6M441,83v1M443,81h6M446,81v1M449,79h6M452,79v1M454,77h6M457,77v1M459,75h6M462,75v1M465,73h6M468,73v0M470,70h6M473,70v1M476,69h6M479,68v1M481,66h6M484,66v0M487,63h6M490,63v0M492,60h6M495,60v0M498,57h6M501,57v1M503,53h6M506,53v1M509,51h6M512,50v1M514,47h6M517,47v0M520,43h6M523,43v0M525,40h6M528,40v0M531,36h6M534,35v1M536,31h6M539,30v1M542,26h6M545,26v1" style="stroke: #00ff00; stroke-width: 1;"></path>
+       <path d="M0,118h6M3,118v0M5,118h6M8,118v0M11,118h6M14,118v0M16,118h6M19,118v0M22,118h6M25,118v0M27,118h6M30,118v0M33,118h6M36,118v0M38,118h6M41,118v0M44,118h6M47,118v0M49,118h6M52,118v0M55,118h6M58,118v0M60,118h6M63,118v0M66,118h6M69,118v0M71,118h6M74,118v0M77,118h6M80,118v0M82,118h6M85,118v0M88,117h6M91,117v1M93,117h6M96,117v1M98,117h6M101,117v1M104,117h6M107,117v0M109,117h6M112,117v0M115,117h6M118,117v0M120,117h6M123,117v0M126,117h6M129,117v0M131,117h6M134,117v0M137,117h6M140,117v0M142,117h6M145,117v0M148,117h6M151,116v1M153,116h6M156,116v0M159,116h6M162,116v0M164,116h6M167,116v0M170,116h6M173,116v0M175,116h6M178,116v0M181,116h6M184,116v0M186,115h6M189,115v0M191,115h6M194,115v0M197,115h6M200,115v0M202,115h6M205,115v0M208,115h6M211,115v0M213,114h6M216,114v0M219,114h6M222,114v0M224,114h6M227,114v0M230,114h6M233,114v0M235,113h6M238,113v0M241,113h6M244,113v0M246,113h6M249,113v0M252,113h6M255,113v0M257,112h6M260,112v0M263,112h6M266,112v0M268,112h6M271,111v1M274,111h6M277,111v0M279,111h6M282,111v0M284,110h6M287,110v0M290,110h6M293,110v0M295,109h6M298,109v0M301,109h6M304,109v0M306,108h6M309,108v1M312,108h6M315,108v0M317,107h6M320,107v0M323,107h6M326,106v1M328,106h6M331,106v0M334,105h6M337,105v0M339,105h6M342,105v0M345,104h6M348,104v0M350,103h6M353,103v0M356,102h6M359,102v1M361,101h6M364,101v0M366,100h6M369,100v1M372,99h6M375,99v0M377,98h6M380,98v1M383,97h6M386,97v0M388,96h6M391,96v0M394,94h6M397,94v1M399,94h6M402,93v1M405,93h6M408,92v1M410,91h6M413,91v0M416,90h6M419,89v1M421,88h6M424,88v0M427,87h6M430,87v0M432,85h6M435,85v0M438,83h6M441,83v1M443,81h6M446,81v1M449,79h6M452,79v1M454,77h6M457,77v1M459,75h6M462,75v1M465,73h6M468,73v0M470,70h6M473,70v1M476,69h6M479,68v1M481,66h6M484,66v0M487,63h6M490,63v0M492,60h6M495,60v0M498,57h6M501,57v1M503,53h6M506,53v1M509,51h6M512,50v1M514,47h6M517,47v0M520,43h6M523,43v0M525,40h6M528,40v0M531,36h6M534,35v1M536,31h6M539,30v1M542,26h6M545,26v1" style="stroke: rgb(0, 255, 0); stroke-width: 1;"></path>
       </g>
      </svg>
      <g>
       <g transform="translate(0,119)">
        <path d="M0,0h547M0,-4V0M11,-2V0M22,-2V0M33,-2V0M44,-2V0M55,-4V0M66,-2V0M77,-2V0M88,-2V0M98,-2V0M109,-4V0M120,-2V0M131,-2V0M142,-2V0M153,-2V0M164,-4V0M175,-2V0M186,-2V0M197,-2V0M208,-2V0M219,-4V0M230,-2V0M241,-2V0M252,-2V0M263,-2V0M274,-4V0M284,-2V0M295,-2V0M306,-2V0M317,-2V0M328,-4V0M339,-2V0M350,-2V0M361,-2V0M372,-2V0M383,-4V0M394,-2V0M405,-2V0M416,-2V0M427,-2V0M438,-4V0M449,-2V0M459,-2V0M470,-2V0M481,-2V0M492,-4V0M503,-2V0M514,-2V0M525,-2V0M536,-2V0M547,-4V0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="middle">
-        <text dy=".8em" transform="translate(0,1)">
-         -5
-        </text>
-        <text dy=".8em" transform="translate(55,1)">
-         -4.5
-        </text>
-        <text dy=".8em" transform="translate(109,1)">
-         -4
-        </text>
-        <text dy=".8em" transform="translate(164,1)">
-         -3.5
-        </text>
-        <text dy=".8em" transform="translate(219,1)">
-         -3
-        </text>
-        <text dy=".8em" transform="translate(274,1)">
-         -2.5
-        </text>
-        <text dy=".8em" transform="translate(328,1)">
-         -2
-        </text>
-        <text dy=".8em" transform="translate(383,1)">
-         -1.5
-        </text>
-        <text dy=".8em" transform="translate(438,1)">
-         -1
-        </text>
-        <text dy=".8em" transform="translate(492,1)">
-         -0.5
-        </text>
-        <text dy=".8em" transform="translate(547,1)">
-         0
-        </text>
-       </g>
+       <g font-family="Arial" font-size="5" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,1)">-5</text><text dy=".8em" transform="translate(55,1)">-4.5</text><text dy=".8em" transform="translate(109,1)">-4</text><text dy=".8em" transform="translate(164,1)">-3.5</text><text dy=".8em" transform="translate(219,1)">-3</text><text dy=".8em" transform="translate(274,1)">-2.5</text><text dy=".8em" transform="translate(328,1)">-2</text><text dy=".8em" transform="translate(383,1)">-1.5</text><text dy=".8em" transform="translate(438,1)">-1</text><text dy=".8em" transform="translate(492,1)">-0.5</text><text dy=".8em" transform="translate(547,1)">0</text></g>
       </g>
       <g>
        <path d="M0,0v119M16,119H0M8,115H0M8,111H0M8,108H0M8,104H0M16,100H0M8,96H0M8,93H0M8,89H0M8,85H0M16,81H0M8,78H0M8,74H0M8,70H0M8,66H0M16,63H0M8,59H0M8,55H0M8,51H0M8,48H0M16,44H0M8,40H0M8,36H0M8,33H0M8,29H0M16,25H0M8,21H0M8,17H0M8,14H0M8,10H0M16,6H0M8,2H0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="5" space="preserve" fill="black" text-anchor="end">
-        <text dy=".4em" transform="translate(-1,119)">
-         0
-        </text>
-        <text dy=".4em" transform="translate(-1,100)">
-         10
-        </text>
-        <text dy=".4em" transform="translate(-1,81)">
-         20
-        </text>
-        <text dy=".4em" transform="translate(-1,63)">
-         30
-        </text>
-        <text dy=".4em" transform="translate(-1,44)">
-         40
-        </text>
-        <text dy=".4em" transform="translate(-1,25)">
-         50
-        </text>
-        <text dy=".4em" transform="translate(-1,6)">
-         60
-        </text>
-       </g>
+       <g font-family="Arial" font-size="5" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-1,119)">0</text><text dominant-baseline="middle" transform="translate(-1,100)">10</text><text dominant-baseline="middle" transform="translate(-1,81)">20</text><text dominant-baseline="middle" transform="translate(-1,63)">30</text><text dominant-baseline="middle" transform="translate(-1,44)">40</text><text dominant-baseline="middle" transform="translate(-1,25)">50</text><text dominant-baseline="middle" transform="translate(-1,6)">60</text></g>
       </g>
      </g>
     </g>
-    <g transform="translate(534,10)" font-family="Arial" font-size="5" space="preserve" fill="black">
-     <path d="M0,0H137V24H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text text-anchor="middle" dy=".4em" transform="translate(69,3)">
-      h1
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(7,9)">
-      Entries
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(130,9)">
-      1000
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(7,15)">
-      Mean
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(130,15)">
-      -0.9859
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(7,21)">
-      Std Dev
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(130,21)">
-      0.9402
-     </text>
-     <path d="M0,6h137" style="stroke: black; stroke-width: 1;"></path>
-    </g>
-    <g transform="translate(68,1)" font-family="Arial" font-size="7" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(274)">
-      h1
-     </text>
-    </g>
+    <g transform="translate(534,10)" font-family="Arial" font-size="5" xml:space="preserve" fill="black"><path d="M0,0H137V24H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(69,3)">h1</text><text text-anchor="start" dominant-baseline="middle" transform="translate(7,9)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(130,9)">1000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(7,15)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(130,15)">-0.9859</text><text text-anchor="start" dominant-baseline="middle" transform="translate(7,21)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(130,21)">0.9402</text><path d="M0,6h137" style="stroke: black; stroke-width: 1;"></path></g>
+    <g transform="translate(68,1)" font-family="Arial" font-size="7" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(274)">h1</text></g>
    </g>
   </svg>
  </g>

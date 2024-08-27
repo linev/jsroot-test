@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 696 372" preserveAspectRatio="none" width="696" height="372">
+<svg xmlns="http://www.w3.org/2000/svg" width="696" height="372" viewBox="0 0 696 372" preserveAspectRatio="none">
  <path d="M0,0H696V372H0Z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 334 365" preserveAspectRatio="none" x="7" y="3" width="334" height="365">
@@ -16,82 +16,16 @@
      <g>
       <g transform="translate(0,292)">
        <path d="M0,0h267M0,-9V0M9,-5V0M18,-5V0M27,-5V0M36,-5V0M45,-9V0M53,-5V0M62,-5V0M71,-5V0M80,-5V0M89,-9V0M98,-5V0M107,-5V0M116,-5V0M125,-5V0M134,-9V0M142,-5V0M151,-5V0M160,-5V0M169,-5V0M178,-9V0M187,-5V0M196,-5V0M205,-5V0M214,-5V0M223,-9V0M231,-5V0M240,-5V0M249,-5V0M258,-5V0M267,-9V0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="12" space="preserve" fill="black" text-anchor="middle">
-        <text dy=".8em" transform="translate(0,2)">
-         -3
-        </text>
-        <text dy=".8em" transform="translate(45,2)">
-         -2
-        </text>
-        <text dy=".8em" transform="translate(89,2)">
-         -1
-        </text>
-        <text dy=".8em" transform="translate(134,2)">
-         0
-        </text>
-        <text dy=".8em" transform="translate(178,2)">
-         1
-        </text>
-        <text dy=".8em" transform="translate(223,2)">
-         2
-        </text>
-        <text dy=".8em" transform="translate(267,2)">
-         3
-        </text>
-       </g>
+       <g font-family="Arial" font-size="12" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,2)">-3</text><text dy=".8em" transform="translate(45,2)">-2</text><text dy=".8em" transform="translate(89,2)">-1</text><text dy=".8em" transform="translate(134,2)">0</text><text dy=".8em" transform="translate(178,2)">1</text><text dy=".8em" transform="translate(223,2)">2</text><text dy=".8em" transform="translate(267,2)">3</text></g>
       </g>
       <g>
        <path d="M0,0v292M4,288H0M4,276H0M4,265H0M8,254H0M4,243H0M4,232H0M4,221H0M4,210H0M8,199H0M4,188H0M4,177H0M4,166H0M4,155H0M8,144H0M4,133H0M4,122H0M4,111H0M4,100H0M8,89H0M4,77H0M4,66H0M4,55H0M4,44H0M8,33H0M4,22H0M4,11H0M4,0H0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="10" space="preserve" fill="black" text-anchor="end">
-        <text dy=".4em" transform="translate(-2,254)">
-         -1000
-        </text>
-        <text dy=".4em" transform="translate(-2,199)">
-         -500
-        </text>
-        <text dy=".4em" transform="translate(-2,144)">
-         0
-        </text>
-        <text dy=".4em" transform="translate(-2,89)">
-         500
-        </text>
-        <text dy=".4em" transform="translate(-2,33)">
-         1000
-        </text>
-       </g>
+       <g font-family="Arial" font-size="12" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-2,254)">-1000</text><text dominant-baseline="middle" transform="translate(-2,199)">-500</text><text dominant-baseline="middle" transform="translate(-2,144)">0</text><text dominant-baseline="middle" transform="translate(-2,89)">500</text><text dominant-baseline="middle" transform="translate(-2,33)">1000</text></g>
       </g>
      </g>
     </g>
-    <g transform="translate(261,24)" font-family="Arial" font-size="7" space="preserve" fill="black">
-     <path d="M0,0H67V58H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text text-anchor="middle" dy=".4em" transform="translate(34,7)">
-      hz1
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(3,22)">
-      Entries
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(64,22)">
-      10000
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(3,36)">
-      Mean
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(64,36)">
-      1124
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(3,51)">
-      Std Dev
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(64,51)">
-      1124
-     </text>
-     <path d="M0,15h67" style="stroke: black; stroke-width: 1;"></path>
-    </g>
-    <g transform="translate(70,2)" font-family="Arial" font-size="13" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(97,10)">
-      Bar-chart drawn from 0
-     </text>
-    </g>
+    <g transform="translate(261,24)" font-family="Arial" font-size="9" xml:space="preserve" fill="black"><path d="M0,0H67V58H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(34,7)">hz1</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,22)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(64,22)">10000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,36)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(64,36)">1124</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,51)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(64,51)">1124</text><path d="M0,15h67" style="stroke: black; stroke-width: 1;"></path></g>
+    <g transform="translate(70,2)" font-family="Arial" font-size="15" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(97,10)">Bar-chart drawn from 0</text></g>
    </g>
   </svg>
   <svg viewBox="0 0 334 365" preserveAspectRatio="none" x="355" y="3" width="334" height="365">
@@ -100,48 +34,8 @@
     <image width="305" height="322" href="data:image/png;base64,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"></image>
    </g>
    <g>
-    <g transform="translate(261,24)" font-family="Arial" font-size="5" space="preserve" fill="black">
-     <path d="M0,0H67V88H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text text-anchor="middle" dy=".4em" transform="translate(34,7)">
-      hz2
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(3,22)">
-      Entries
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(64,22)">
-      10000
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(3,37)">
-      Mean x
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(64,37)">
-      -2.366
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(3,51)">
-      Mean y
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(64,51)">
-      -0.01886
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(3,66)">
-      Std Dev x
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(64,66)">
-      2.160
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(3,81)">
-      Std Dev y
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(64,81)">
-      0.9823
-     </text>
-     <path d="M0,15h67" style="stroke: black; stroke-width: 1;"></path>
-    </g>
-    <g transform="translate(70,2)" font-family="Arial" font-size="13" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(98,10)">
-      Lego plot drawn from 0
-     </text>
-    </g>
+    <g transform="translate(261,24)" font-family="Arial" font-size="8" xml:space="preserve" fill="black"><path d="M0,0H67V88H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(34,7)">hz2</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,22)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(64,22)">10000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,37)">Mean x</text><text text-anchor="end" dominant-baseline="middle" transform="translate(64,37)">-2.366</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,51)">Mean y</text><text text-anchor="end" dominant-baseline="middle" transform="translate(64,51)">-0.01886</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,66)">Std Dev x</text><text text-anchor="end" dominant-baseline="middle" transform="translate(64,66)">2.160</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,81)">Std Dev y</text><text text-anchor="end" dominant-baseline="middle" transform="translate(64,81)">0.9823</text><path d="M0,15h67" style="stroke: black; stroke-width: 1;"></path></g>
+    <g transform="translate(70,2)" font-family="Arial" font-size="16" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(98,10)">Lego plot drawn from 0</text></g>
    </g>
   </svg>
  </g>

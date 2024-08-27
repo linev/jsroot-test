@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 698 474" preserveAspectRatio="none" width="698" height="474">
+<svg xmlns="http://www.w3.org/2000/svg" width="698" height="474" viewBox="0 0 698 474" preserveAspectRatio="none">
  <path d="M0,0H698V474H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(70,47)">
    <path d="M0,0H558V379H0Z" style="fill: white; stroke: white; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="558" height="379" viewBox="0 0 558 379">
     <g>
-     <path d="M356.5,364.96Q341,77.2,279,31.58C217,-14.04,0,115.81,46.5,136.86Q426.78,175.22,511.5,136.86" style="stroke: #ff0000; stroke-width: 1; fill: none;"></path>
+     <path d="M356.5,364.96Q341,77.2,279,31.58C217,-14.04,0,115.81,46.5,136.86Q426.78,175.22,511.5,136.86" style="stroke: rgb(255, 0, 0); stroke-width: 1; fill: none;"></path>
      <path d="M353,361l8,8m0,-8l-8,8m0,-4h8m-4,-4v8M275,28l8,8m0,-8l-8,8m0,-4h8m-4,-4v8M42,133l8,8m0,-8l-8,8m0,-4h8m-4,-4v8M508,133l8,8m0,-8l-8,8m0,-4h8m-4,-4v8" style="stroke: black; fill: none;"></path>
     </g>
    </svg>
@@ -18,72 +18,16 @@
     </g>
    </g>
   </g>
-  <g transform="translate(301,2)" font-family="Arial" font-size="20" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(49,15)">
-    XY plot
-   </text>
-  </g>
+  <g transform="translate(301,2)" font-family="Arial" font-size="25" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(49,15)">XY plot</text></g>
   <g transform="translate(465,47)">
    <path d="M0,0v380M0,380H-17M0,317H-17M0,253H-17M0,190H-17M0,127H-17M0,63H-17M0,0H-17" style="stroke: black; stroke-width: 1;"></path>
-   <g font-family="Arial" font-size="19" space="preserve" font-weight="bold" fill="black" text-anchor="start">
-    <text dy=".4em" transform="translate(3,380)">
-     -1080
-    </text>
-    <text dy=".4em" transform="translate(3,317)">
-     -720
-    </text>
-    <text dy=".4em" transform="translate(3,253)">
-     -360
-    </text>
-    <text dy=".4em" transform="translate(3,127)">
-     360
-    </text>
-    <text dy=".4em" transform="translate(3,63)">
-     720
-    </text>
-    <text dy=".4em" transform="translate(3)">
-     1080
-    </text>
-   </g>
+   <g font-family="Arial" font-size="19" xml:space="preserve" font-weight="bold" fill="black" text-anchor="start"><text dominant-baseline="middle" transform="translate(3,380)">-1080</text><text dominant-baseline="middle" transform="translate(3,317)">-720</text><text dominant-baseline="middle" transform="translate(3,253)">-360</text><text dominant-baseline="middle" transform="translate(3,127)">360</text><text dominant-baseline="middle" transform="translate(3,63)">720</text><text dominant-baseline="middle" transform="translate(3)">1080</text></g>
   </g>
-  <g font-family="Arial" font-size="13" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="end" transform="translate(446,47) rotate(-90)">
-    Y axis
-   </text>
-  </g>
+  <g font-family="Arial" font-size="13" xml:space="preserve" font-weight="bold"><text fill="black" text-anchor="end" transform="translate(446,47) rotate(-90)">Y axis</text></g>
   <g transform="translate(70,237)">
    <path d="M0,0h558M8,-11V0M27,-6V0M46,-6V0M66,-6V0M85,-11V0M105,-6V0M124,-6V0M143,-6V0M163,-11V0M182,-6V0M202,-6V0M221,-6V0M240,-11V0M260,-6V0M279,-6V0M298,-6V0M318,-11V0M337,-6V0M357,-6V0M376,-6V0M395,-11V0M415,-6V0M434,-6V0M453,-6V0M473,-11V0M492,-6V0M512,-6V0M531,-6V0M550,-11V0" style="stroke: black; stroke-width: 1;"></path>
-   <g font-family="Arial" font-size="19" space="preserve" font-weight="bold" fill="black" text-anchor="middle">
-    <text dy=".8em" transform="translate(8,3)">
-     -10
-    </text>
-    <text dy=".8em" transform="translate(85,3)">
-     -8
-    </text>
-    <text dy=".8em" transform="translate(163,3)">
-     -6
-    </text>
-    <text dy=".8em" transform="translate(240,3)">
-     -4
-    </text>
-    <text dy=".8em" transform="translate(318,3)">
-     -2
-    </text>
-    <text dy=".8em" transform="translate(395,3)">
-     0
-    </text>
-    <text dy=".8em" transform="translate(473,3)">
-     2
-    </text>
-    <text dy=".8em" transform="translate(550,3)">
-     4
-    </text>
-   </g>
+   <g font-family="Arial" font-size="19" xml:space="preserve" font-weight="bold" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(8,3)">-10</text><text dy=".8em" transform="translate(85,3)">-8</text><text dy=".8em" transform="translate(163,3)">-6</text><text dy=".8em" transform="translate(240,3)">-4</text><text dy=".8em" transform="translate(318,3)">-2</text><text dy=".8em" transform="translate(395,3)">0</text><text dy=".8em" transform="translate(473,3)">2</text><text dy=".8em" transform="translate(550,3)">4</text></g>
   </g>
-  <g font-family="Arial" font-size="13" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="end" transform="translate(628,272)">
-    X axis
-   </text>
-  </g>
+  <g font-family="Arial" font-size="13" xml:space="preserve" font-weight="bold"><text fill="black" text-anchor="end" transform="translate(628,272)">X axis</text></g>
  </g>
 </svg>

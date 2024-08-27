@@ -1,84 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none">
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(120,80)">
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
-     <path d="M0,637h10v3h28v-1h29v1h10v-4h19v2h10v-2h9v-5h10v-3h9v7h10v-19h10v7h9v-1h10v3h9v-12h10v-10h10v-11h9v-4h10v-13h9v-19h10v-13h10v-6h9v-2h10v-40h9v14h10v-49h10v-26h9v12h10v-42h9v-27h10v-52h10v-10h9v-25h10v-30h9v-32h10v-20h10v-32h9v-21h10v-53h9v-6h10v4h10v-24h9v-12h10v-12h9v-10h10v26h10v-19h9v-19h10v68h9v-34h10v29h10v54h9v50h10v-1h9v7h10v30h10v43h9v27h10v19h9v8h10v38h10v25h9v38h10v12h9v19h10v27h10v6h9v11h10v35h9v7h10v19h10v1h9v20h10v12h9v5h10v7h10v5h19v2h9v9h10v5h10v1h9v1h19v5h10v-3h10v2h9v-1h10v-1h9v3h20v-1h19v-1h9v2h10L960,643H0Z" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: #352a87;"></path>
+     <path d="M0,637h10v3h28v-1h29v1h10v-4h19v2h10v-2h9v-5h10v-3h9v7h10v-19h10v7h9v-1h10v3h9v-12h10v-10h10v-11h9v-4h10v-13h9v-19h10v-13h10v-6h9v-2h10v-40h9v14h10v-49h10v-26h9v12h10v-42h9v-27h10v-52h10v-10h9v-25h10v-30h9v-32h10v-20h10v-32h9v-21h10v-53h9v-6h10v4h10v-24h9v-12h10v-12h9v-10h10v26h10v-19h9v-19h10v68h9v-34h10v29h10v54h9v50h10v-1h9v7h10v30h10v43h9v27h10v19h9v8h10v38h10v25h9v38h10v12h9v19h10v27h10v6h9v11h10v35h9v7h10v19h10v1h9v20h10v12h9v5h10v7h10v5h19v2h9v9h10v5h10v1h9v1h19v5h10v-3h10v2h9v-1h10v-1h9v3h20v-1h19v-1h9v2h10L960,643H0Z" style="stroke-linejoin: miter; stroke: rgb(0, 0, 154); stroke-width: 1; fill: rgb(53, 42, 135);"></path>
     </g>
     <g>
-     <path d="M0,640h19v-1h10v1h38v-1h10v-2h9v3h10v-3h19v-2h10v-1h9v1h10v-3h10v-4h9v2h10v-11h9v-4h10v2h10v-10h9v-1h10v-14h9v2h10v-13h10v-25h9v-5h10v5h9v-37h10v1h10v-40h9v-5h10v-15h9v-39h10v-23h10v-28h9v-3h10v-25h9v-12h20v-37h9v-31h10v-22h9v28h10v-45h10v34h9v-34h10v-27h9v3h10v1h10v-2h9v30h10v-22h9v17h10v10h10v6h9v20h10v74h9v-10h10v22h10v-2h9v15h10v35h9v-2h10v40h10v19h9v20h10v22h9v11h10v30h10v38h9v-16h10v26h9v1h10v8h10v-3h9v23h10v-10h9v10h10v15h10v-5h9v2h10v6h9v1h10v-1h10v7h9v-1h10v4h9v-1h10v1h10v-1h9v2h10v-1h9v1h10v-2h10v2h9v1h29L960,643H0Z" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: #2db6a5;"></path>
+     <path d="M0,640h19v-1h10v1h38v-1h10v-2h9v3h10v-3h19v-2h10v-1h9v1h10v-3h10v-4h9v2h10v-11h9v-4h10v2h10v-10h9v-1h10v-14h9v2h10v-13h10v-25h9v-5h10v5h9v-37h10v1h10v-40h9v-5h10v-15h9v-39h10v-23h10v-28h9v-3h10v-25h9v-12h20v-37h9v-31h10v-22h9v28h10v-45h10v34h9v-34h10v-27h9v3h10v1h10v-2h9v30h10v-22h9v17h10v10h10v6h9v20h10v74h9v-10h10v22h10v-2h9v15h10v35h9v-2h10v40h10v19h9v20h10v22h9v11h10v30h10v38h9v-16h10v26h9v1h10v8h10v-3h9v23h10v-10h9v10h10v15h10v-5h9v2h10v6h9v1h10v-1h10v7h9v-1h10v4h9v-1h10v1h10v-1h9v2h10v-1h9v1h10v-2h10v2h9v1h29L960,643H0Z" style="stroke-linejoin: miter; stroke: rgb(0, 0, 154); stroke-width: 1; fill: rgb(45, 182, 165);"></path>
     </g>
     <g>
-     <path d="M0,640h38v-1h20v-1h9v2h10v-1h9v1h10v-3h10v-1h9v1h10v-2h19v2h10v-9h9v2h10v-1h9v-2h10v-14h10v1h9v-4h10v3h9v-21h10v2h10v-10h9v1h10v-7h9v-23h10v-12h10v10h9v-8h10v-9h9v-26h10v-41h10v15h9v-34h10v16h9v-31h10v-13h10v8h9v-41h10v3h9v-32h10v14h10v-22h9v5h10v-3h9v-1h10v-25h10v17h9v11h10v16h9v-15h10v-15h10v38h9v15h10v22h9v-2h10v30h10v-8h9v26h19v32h10v23h10v9h9v-4h10v23h9v17h10v13h10v1h9v17h10v-11h9v9h10v4h10v17h9v-4h10v11h9v6h10v-2h10v7h28v3h10v1h19v1h19v3h20v-1h19v1h19v1h19v-1h10v1h19L960,643H0Z" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: #f9f611;"></path>
+     <path d="M0,640h38v-1h20v-1h9v2h10v-1h9v1h10v-3h10v-1h9v1h10v-2h19v2h10v-9h9v2h10v-1h9v-2h10v-14h10v1h9v-4h10v3h9v-21h10v2h10v-10h9v1h10v-7h9v-23h10v-12h10v10h9v-8h10v-9h9v-26h10v-41h10v15h9v-34h10v16h9v-31h10v-13h10v8h9v-41h10v3h9v-32h10v14h10v-22h9v5h10v-3h9v-1h10v-25h10v17h9v11h10v16h9v-15h10v-15h10v38h9v15h10v22h9v-2h10v30h10v-8h9v26h19v32h10v23h10v9h9v-4h10v23h9v17h10v13h10v1h9v17h10v-11h9v9h10v4h10v17h9v-4h10v11h9v6h10v-2h10v7h28v3h10v1h19v1h19v3h20v-1h19v1h19v1h19v-1h10v1h19L960,643H0Z" style="stroke-linejoin: miter; stroke: rgb(0, 0, 154); stroke-width: 1; fill: rgb(249, 246, 17);"></path>
     </g>
    </svg>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960M0,-19V0M24,-10V0M48,-10V0M72,-10V0M96,-10V0M120,-19V0M144,-10V0M168,-10V0M192,-10V0M216,-10V0M240,-19V0M264,-10V0M288,-10V0M312,-10V0M336,-10V0M360,-19V0M384,-10V0M408,-10V0M432,-10V0M456,-10V0M480,-19V0M504,-10V0M528,-10V0M552,-10V0M576,-10V0M600,-19V0M624,-10V0M648,-10V0M672,-10V0M696,-10V0M720,-19V0M744,-10V0M768,-10V0M792,-10V0M816,-10V0M840,-19V0M864,-10V0M888,-10V0M912,-10V0M936,-10V0M960,-19V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(0,5)">
-       -4
-      </text>
-      <text dy=".8em" transform="translate(120,5)">
-       -3
-      </text>
-      <text dy=".8em" transform="translate(240,5)">
-       -2
-      </text>
-      <text dy=".8em" transform="translate(360,5)">
-       -1
-      </text>
-      <text dy=".8em" transform="translate(480,5)">
-       0
-      </text>
-      <text dy=".8em" transform="translate(600,5)">
-       1
-      </text>
-      <text dy=".8em" transform="translate(720,5)">
-       2
-      </text>
-      <text dy=".8em" transform="translate(840,5)">
-       3
-      </text>
-      <text dy=".8em" transform="translate(960,5)">
-       4
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,5)">-4</text><text dy=".8em" transform="translate(120,5)">-3</text><text dy=".8em" transform="translate(240,5)">-2</text><text dy=".8em" transform="translate(360,5)">-1</text><text dy=".8em" transform="translate(480,5)">0</text><text dy=".8em" transform="translate(600,5)">1</text><text dy=".8em" transform="translate(720,5)">2</text><text dy=".8em" transform="translate(840,5)">3</text><text dy=".8em" transform="translate(960,5)">4</text></g>
     </g>
     <g>
      <path d="M0,0v640M29,640H0M15,622H0M15,603H0M15,585H0M15,567H0M29,548H0M15,530H0M15,512H0M15,493H0M15,475H0M29,457H0M15,438H0M15,420H0M15,402H0M15,383H0M29,365H0M15,347H0M15,328H0M15,310H0M15,292H0M29,273H0M15,255H0M15,237H0M15,218H0M15,200H0M29,182H0M15,163H0M15,145H0M15,127H0M15,108H0M29,90H0M15,72H0M15,53H0M15,35H0M15,17H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-6,640)">
-       0
-      </text>
-      <text dy=".4em" transform="translate(-6,548)">
-       100
-      </text>
-      <text dy=".4em" transform="translate(-6,457)">
-       200
-      </text>
-      <text dy=".4em" transform="translate(-6,365)">
-       300
-      </text>
-      <text dy=".4em" transform="translate(-6,273)">
-       400
-      </text>
-      <text dy=".4em" transform="translate(-6,182)">
-       500
-      </text>
-      <text dy=".4em" transform="translate(-6,90)">
-       600
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-6,640)">0</text><text dominant-baseline="middle" transform="translate(-6,548)">100</text><text dominant-baseline="middle" transform="translate(-6,457)">200</text><text dominant-baseline="middle" transform="translate(-6,365)">300</text><text dominant-baseline="middle" transform="translate(-6,273)">400</text><text dominant-baseline="middle" transform="translate(-6,182)">500</text><text dominant-baseline="middle" transform="translate(-6,90)">600</text></g>
     </g>
    </g>
   </g>
-  <g transform="translate(120,4)" font-family="Arial" font-size="28" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
-    Stacked 1D histograms colored using kOcean palette
-   </text>
-  </g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="34" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">Stacked 1D histograms colored using kOcean palette</text></g>
  </g>
 </svg>

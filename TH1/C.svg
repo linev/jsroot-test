@@ -1,112 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none">
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(120,80)">
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
-     <path d="M5,640C6.89,640.14,10.7,640.28,14.5,640S20.2,638.59,24,638.59S29.7,639.72,33.5,640S39.1,640,43,640S49.1,640,53,640S58.7,640.42,62.5,640S68.2,638.45,72,637.88S77.7,637.32,81.5,637.17S87.1,637.6,91,637.17S97.1,635.2,101,635.06S106.7,637.03,110.5,636.47S116.2,633.5,120,632.23S125.7,630.68,129.5,630.11S135.1,630.68,139,629.41S145.1,624.74,149,623.76S154.7,625.87,158.5,624.46S164.2,619.09,168,616.69S173.7,615.56,177.5,612.45S183.1,602.43,187,601.15S193.1,608.08,197,606.1S202.7,592.96,206.5,591.27S212.2,599.88,216,597.62S221.7,587.73,225.5,579.97S231.1,563.16,235,558.78S241.1,558.92,245,558.07S250.7,562.45,254.5,554.54S260.2,526.85,264,518.52S269.7,516.26,273.5,512.87S279.1,507.08,283,501.57S289.1,498.04,293,485.32S298.7,448.03,302.5,438S308.2,440.83,312,435.18S317.7,417.24,321.5,409.75S327.1,407.49,331,397.74S337.1,371.19,341,361.02S346.7,359.89,350.5,346.89S356.2,313.13,360,296.04S365.7,268.49,369.5,261.43S375.1,268.64,379,260.73S385.1,235.02,389,221.88S394.7,214.25,398.5,195.04S404.2,133.31,408,125.82S413.7,161.99,417.5,157.61S423.1,105.62,427,103.93S433.1,150.69,437,149.13S442.7,112.26,446.5,96.16S452.2,70.73,456,68.62S461.7,77.23,465.5,85.57S471.1,112.55,475,110.29S481.1,90.23,485,74.27S490.7,24.83,494.5,30.48S500.2,87.54,504,102.52S509.7,102.38,513.5,105.34S519.1,114.24,523,117.35S529.1,110.29,533,120.88S538.7,157.04,542.5,170.32S548.2,181.48,552,187.27S557.7,191.93,561.5,199.28S567.1,215.95,571,224S577.1,234.45,581,239.54S586.7,240.24,590.5,249.42S596.2,269.48,600,285.45S605.7,317.93,609.5,329.23S615.1,335.17,619,341.95S625.1,346.33,629,363.14S634.7,414.7,638.5,426S644.2,415.12,648,419.64S653.7,437.86,657.5,448.6S663.1,465.41,667,473.32S673.1,480.8,677,488.15S682.7,501.99,686.5,510.04S692.2,520.21,696,528.41S701.7,546.77,705.5,551.01S711.1,545.5,715,549.6S721.1,565.98,725,571.49S730.7,572.9,734.5,577.14S740.2,589.01,744,592.68S749.7,592.54,753.5,595.5S759.1,603.56,763,607.51S769.1,615.42,773,615.28S778.7,606.1,782.5,606.8S788.2,615.42,792,618.81S797.7,621.92,801.5,623.76S807.1,627.15,811,627.99S817.1,627.29,821,627.99S826.7,630.96,830.5,631.52S836.2,629.55,840,630.82S845.7,637.17,849.5,637.88S855.1,634.77,859,634.35S865.1,634.91,869,635.76S874.7,638.02,878.5,638.59S884.2,638.59,888,638.59S893.7,638.3,897.5,638.59S903.1,639.72,907,640S913.1,640,917,640S922.7,640,926.5,640S932.2,640,936,640S941.7,640.14,945.5,640S953.11,639.51,955,639.29" style="fill: none; stroke: #00009a; stroke-width: 1;"></path>
+     <path d="M5,640C6.89,640.14,10.7,640.28,14.5,640S20.2,638.59,24,638.59S29.7,639.72,33.5,640S39.1,640,43,640S49.1,640,53,640S58.7,640.42,62.5,640S68.2,638.45,72,637.88S77.7,637.32,81.5,637.17S87.1,637.6,91,637.17S97.1,635.2,101,635.06S106.7,637.03,110.5,636.47S116.2,633.5,120,632.23S125.7,630.68,129.5,630.11S135.1,630.68,139,629.41S145.1,624.74,149,623.76S154.7,625.87,158.5,624.46S164.2,619.09,168,616.69S173.7,615.56,177.5,612.45S183.1,602.43,187,601.15S193.1,608.08,197,606.1S202.7,592.96,206.5,591.27S212.2,599.88,216,597.62S221.7,587.73,225.5,579.97S231.1,563.16,235,558.78S241.1,558.92,245,558.07S250.7,562.45,254.5,554.54S260.2,526.85,264,518.52S269.7,516.26,273.5,512.87S279.1,507.08,283,501.57S289.1,498.04,293,485.32S298.7,448.03,302.5,438S308.2,440.83,312,435.18S317.7,417.24,321.5,409.75S327.1,407.49,331,397.74S337.1,371.19,341,361.02S346.7,359.89,350.5,346.89S356.2,313.13,360,296.04S365.7,268.49,369.5,261.43S375.1,268.64,379,260.73S385.1,235.02,389,221.88S394.7,214.25,398.5,195.04S404.2,133.31,408,125.82S413.7,161.99,417.5,157.61S423.1,105.62,427,103.93S433.1,150.69,437,149.13S442.7,112.26,446.5,96.16S452.2,70.73,456,68.62S461.7,77.23,465.5,85.57S471.1,112.55,475,110.29S481.1,90.23,485,74.27S490.7,24.83,494.5,30.48S500.2,87.54,504,102.52S509.7,102.38,513.5,105.34S519.1,114.24,523,117.35S529.1,110.29,533,120.88S538.7,157.04,542.5,170.32S548.2,181.48,552,187.27S557.7,191.93,561.5,199.28S567.1,215.95,571,224S577.1,234.45,581,239.54S586.7,240.24,590.5,249.42S596.2,269.48,600,285.45S605.7,317.93,609.5,329.23S615.1,335.17,619,341.95S625.1,346.33,629,363.14S634.7,414.7,638.5,426S644.2,415.12,648,419.64S653.7,437.86,657.5,448.6S663.1,465.41,667,473.32S673.1,480.8,677,488.15S682.7,501.99,686.5,510.04S692.2,520.21,696,528.41S701.7,546.77,705.5,551.01S711.1,545.5,715,549.6S721.1,565.98,725,571.49S730.7,572.9,734.5,577.14S740.2,589.01,744,592.68S749.7,592.54,753.5,595.5S759.1,603.56,763,607.51S769.1,615.42,773,615.28S778.7,606.1,782.5,606.8S788.2,615.42,792,618.81S797.7,621.92,801.5,623.76S807.1,627.15,811,627.99S817.1,627.29,821,627.99S826.7,630.96,830.5,631.52S836.2,629.55,840,630.82S845.7,637.17,849.5,637.88S855.1,634.77,859,634.35S865.1,634.91,869,635.76S874.7,638.02,878.5,638.59S884.2,638.59,888,638.59S893.7,638.3,897.5,638.59S903.1,639.72,907,640S913.1,640,917,640S922.7,640,926.5,640S932.2,640,936,640S941.7,640.14,945.5,640S953.11,639.51,955,639.29" style="fill: none; stroke: rgb(0, 0, 154); stroke-width: 1;"></path>
     </g>
    </svg>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960M0,-19V0M24,-10V0M48,-10V0M72,-10V0M96,-10V0M120,-19V0M144,-10V0M168,-10V0M192,-10V0M216,-10V0M240,-19V0M264,-10V0M288,-10V0M312,-10V0M336,-10V0M360,-19V0M384,-10V0M408,-10V0M432,-10V0M456,-10V0M480,-19V0M504,-10V0M528,-10V0M552,-10V0M576,-10V0M600,-19V0M624,-10V0M648,-10V0M672,-10V0M696,-10V0M720,-19V0M744,-10V0M768,-10V0M792,-10V0M816,-10V0M840,-19V0M864,-10V0M888,-10V0M912,-10V0M936,-10V0M960,-19V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(0,5)">
-       -4
-      </text>
-      <text dy=".8em" transform="translate(120,5)">
-       -3
-      </text>
-      <text dy=".8em" transform="translate(240,5)">
-       -2
-      </text>
-      <text dy=".8em" transform="translate(360,5)">
-       -1
-      </text>
-      <text dy=".8em" transform="translate(480,5)">
-       0
-      </text>
-      <text dy=".8em" transform="translate(600,5)">
-       1
-      </text>
-      <text dy=".8em" transform="translate(720,5)">
-       2
-      </text>
-      <text dy=".8em" transform="translate(840,5)">
-       3
-      </text>
-      <text dy=".8em" transform="translate(960,5)">
-       4
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,5)">-4</text><text dy=".8em" transform="translate(120,5)">-3</text><text dy=".8em" transform="translate(240,5)">-2</text><text dy=".8em" transform="translate(360,5)">-1</text><text dy=".8em" transform="translate(480,5)">0</text><text dy=".8em" transform="translate(600,5)">1</text><text dy=".8em" transform="translate(720,5)">2</text><text dy=".8em" transform="translate(840,5)">3</text><text dy=".8em" transform="translate(960,5)">4</text></g>
     </g>
     <g>
      <path d="M0,0v640M29,640H0M15,626H0M15,612H0M15,598H0M15,583H0M29,569H0M15,555H0M15,541H0M15,527H0M15,513H0M29,499H0M15,485H0M15,470H0M15,456H0M15,442H0M29,428H0M15,414H0M15,400H0M15,386H0M15,372H0M29,357H0M15,343H0M15,329H0M15,315H0M15,301H0M29,287H0M15,273H0M15,259H0M15,244H0M15,230H0M29,216H0M15,202H0M15,188H0M15,174H0M15,160H0M29,146H0M15,131H0M15,117H0M15,103H0M15,89H0M29,75H0M15,61H0M15,47H0M15,33H0M15,18H0M29,4H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-6,640)">
-       0
-      </text>
-      <text dy=".4em" transform="translate(-6,569)">
-       100
-      </text>
-      <text dy=".4em" transform="translate(-6,499)">
-       200
-      </text>
-      <text dy=".4em" transform="translate(-6,428)">
-       300
-      </text>
-      <text dy=".4em" transform="translate(-6,357)">
-       400
-      </text>
-      <text dy=".4em" transform="translate(-6,287)">
-       500
-      </text>
-      <text dy=".4em" transform="translate(-6,216)">
-       600
-      </text>
-      <text dy=".4em" transform="translate(-6,146)">
-       700
-      </text>
-      <text dy=".4em" transform="translate(-6,75)">
-       800
-      </text>
-      <text dy=".4em" transform="translate(-6,4)">
-       900
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-6,640)">0</text><text dominant-baseline="middle" transform="translate(-6,569)">100</text><text dominant-baseline="middle" transform="translate(-6,499)">200</text><text dominant-baseline="middle" transform="translate(-6,428)">300</text><text dominant-baseline="middle" transform="translate(-6,357)">400</text><text dominant-baseline="middle" transform="translate(-6,287)">500</text><text dominant-baseline="middle" transform="translate(-6,216)">600</text><text dominant-baseline="middle" transform="translate(-6,146)">700</text><text dominant-baseline="middle" transform="translate(-6,75)">800</text><text dominant-baseline="middle" transform="translate(-6,4)">900</text></g>
     </g>
    </g>
   </g>
-  <g transform="translate(936,52)" font-family="Arial" font-size="25" space="preserve" fill="black">
-   <path d="M0,0H240V128H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <text text-anchor="middle" dy=".4em" transform="translate(120,16)">
-    hpx
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,48)">
-    Entries
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,48)">
-    25000
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,80)">
-    Mean
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,80)">
-    0.003163
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,112)">
-    Std Dev
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,112)">
-    1.004
-   </text>
-   <path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path>
-  </g>
-  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
-    This is the px distribution
-   </text>
-  </g>
+  <g transform="translate(936,52)" font-family="Arial" font-size="27" xml:space="preserve" fill="black"><path d="M0,0H240V128H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(120,16)">hpx</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,48)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,48)">25000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,80)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,80)">0.003163</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,112)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,112)">1.004</text><path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path></g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">This is the px distribution</text></g>
  </g>
 </svg>

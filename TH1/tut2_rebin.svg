@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 798 974" preserveAspectRatio="none" width="798" height="974">
+<svg xmlns="http://www.w3.org/2000/svg" width="798" height="974" viewBox="0 0 798 974" preserveAspectRatio="none">
  <path d="M0,0H798V974H0Z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 782 305" preserveAspectRatio="none" x="8" y="10" width="782" height="305">
@@ -8,97 +8,22 @@
      <path d="M0,0H626V244H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="626" height="244" viewBox="0 0 626 244">
       <g>
-       <path d="M0,237h6v7h25v-7h7v7h6v-7h6v7h6v-7h13v-7h6v7h6v-7h7v7h6v-7h6v-41h6v34h7v-20h6v14h12v-14h7v-7h6v-14h6v48h7v-75h6v34h6v7h6v-75h7v75h6v-82h6v48h6v-7h7v7h6v7h6v-48h6v20h7v-6h12v-21h6v-7h7v-13h6v-7h6v48h6v-48h7v-7h6v61h6v-54h6v-28h7v-47h6v75h6v13h7v-41h6v41h6v7h6v-61h7v13h6v-47h6v68h6v14h7v6h6v14h6v7h6v68h7v-75h6v21h6v34h6v-28h7v7h6v21h12v13h7v28h6v13h13v-41h6v21h6v-7h13v-20h6v20h6v34h6v14h7v-21h6v-13h6v7h6v6h7v21h6v-14h12v14h7v-7h12v-14h6v21h19v-7h6v7h7v-21h6" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: none;"></path>
+       <path d="M0,237h6v7h25v-7h7v7h6v-7h6v7h6v-7h13v-7h6v7h6v-7h7v7h6v-7h6v-41h6v34h7v-20h6v14h12v-14h7v-7h6v-14h6v48h7v-75h6v34h6v7h6v-75h7v75h6v-82h6v48h6v-7h7v7h6v7h6v-48h6v20h7v-6h12v-21h6v-7h7v-13h6v-7h6v48h6v-48h7v-7h6v61h6v-54h6v-28h7v-47h6v75h6v13h7v-41h6v41h6v7h6v-61h7v13h6v-47h6v68h6v14h7v6h6v14h6v7h6v68h7v-75h6v21h6v34h6v-28h7v7h6v21h12v13h7v28h6v13h13v-41h6v21h6v-7h13v-20h6v20h6v34h6v14h7v-21h6v-13h6v7h6v6h7v21h6v-14h12v14h7v-7h12v-14h6v21h19v-7h6v7h7v-21h6" style="stroke-linejoin: miter; stroke: rgb(0, 0, 154); stroke-width: 1; fill: none;"></path>
       </g>
      </svg>
      <g>
       <g transform="translate(0,244)">
        <path d="M0,0h626M0,-7V0M21,-4V0M42,-4V0M63,-4V0M83,-4V0M104,-7V0M125,-4V0M146,-4V0M167,-4V0M188,-4V0M209,-7V0M230,-4V0M250,-4V0M271,-4V0M292,-4V0M313,-7V0M334,-4V0M355,-4V0M376,-4V0M396,-4V0M417,-7V0M438,-4V0M459,-4V0M480,-4V0M501,-4V0M522,-7V0M543,-4V0M563,-4V0M584,-4V0M605,-4V0M626,-7V0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="11" space="preserve" fill="black" text-anchor="middle">
-        <text dy=".8em" transform="translate(0,2)">
-         -3
-        </text>
-        <text dy=".8em" transform="translate(104,2)">
-         -2
-        </text>
-        <text dy=".8em" transform="translate(209,2)">
-         -1
-        </text>
-        <text dy=".8em" transform="translate(313,2)">
-         0
-        </text>
-        <text dy=".8em" transform="translate(417,2)">
-         1
-        </text>
-        <text dy=".8em" transform="translate(522,2)">
-         2
-        </text>
-        <text dy=".8em" transform="translate(626,2)">
-         3
-        </text>
-       </g>
+       <g font-family="Arial" font-size="11" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,2)">-3</text><text dy=".8em" transform="translate(104,2)">-2</text><text dy=".8em" transform="translate(209,2)">-1</text><text dy=".8em" transform="translate(313,2)">0</text><text dy=".8em" transform="translate(417,2)">1</text><text dy=".8em" transform="translate(522,2)">2</text><text dy=".8em" transform="translate(626,2)">3</text></g>
       </g>
       <g>
        <path d="M0,0v244M19,244H0M10,237H0M10,230H0M10,223H0M10,217H0M19,210H0M10,203H0M10,196H0M10,189H0M10,182H0M19,176H0M10,169H0M10,162H0M10,155H0M10,148H0M19,141H0M10,135H0M10,128H0M10,121H0M10,114H0M19,107H0M10,100H0M10,94H0M10,87H0M10,80H0M19,73H0M10,66H0M10,59H0M10,53H0M10,46H0M19,39H0M10,32H0M10,25H0M10,18H0M10,12H0M19,5H0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="11" space="preserve" fill="black" text-anchor="end">
-        <text dy=".4em" transform="translate(-2,244)">
-         0
-        </text>
-        <text dy=".4em" transform="translate(-2,210)">
-         5
-        </text>
-        <text dy=".4em" transform="translate(-2,176)">
-         10
-        </text>
-        <text dy=".4em" transform="translate(-2,141)">
-         15
-        </text>
-        <text dy=".4em" transform="translate(-2,107)">
-         20
-        </text>
-        <text dy=".4em" transform="translate(-2,73)">
-         25
-        </text>
-        <text dy=".4em" transform="translate(-2,39)">
-         30
-        </text>
-        <text dy=".4em" transform="translate(-2,5)">
-         35
-        </text>
-       </g>
+       <g font-family="Arial" font-size="11" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-2,244)">0</text><text dominant-baseline="middle" transform="translate(-2,210)">5</text><text dominant-baseline="middle" transform="translate(-2,176)">10</text><text dominant-baseline="middle" transform="translate(-2,141)">15</text><text dominant-baseline="middle" transform="translate(-2,107)">20</text><text dominant-baseline="middle" transform="translate(-2,73)">25</text><text dominant-baseline="middle" transform="translate(-2,39)">30</text><text dominant-baseline="middle" transform="translate(-2,5)">35</text></g>
       </g>
      </g>
     </g>
-    <g transform="translate(610,20)" font-family="Arial" font-size="10" space="preserve" fill="black">
-     <path d="M0,0H156V49H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text text-anchor="middle" dy=".4em" transform="translate(78,6)">
-      h
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(8,18)">
-      Entries
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(148,18)">
-      1000
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(8,31)">
-      Mean
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(148,31)">
-      0.009204
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(8,43)">
-      Std Dev
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(148,43)">
-      0.9861
-     </text>
-     <path d="M0,12h156" style="stroke: black; stroke-width: 1;"></path>
-    </g>
-    <g transform="translate(78,2)" font-family="Arial" font-size="15" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(313)">
-      test rebin
-     </text>
-    </g>
+    <g transform="translate(610,20)" font-family="Arial" font-size="10" xml:space="preserve" fill="black"><path d="M0,0H156V49H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(78,6)">h</text><text text-anchor="start" dominant-baseline="middle" transform="translate(8,18)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(148,18)">1000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(8,31)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(148,31)">0.009204</text><text text-anchor="start" dominant-baseline="middle" transform="translate(8,43)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(148,43)">0.9861</text><path d="M0,12h156" style="stroke: black; stroke-width: 1;"></path></g>
+    <g transform="translate(78,2)" font-family="Arial" font-size="15" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(313)">test rebin</text></g>
    </g>
   </svg>
   <svg viewBox="0 0 782 305" preserveAspectRatio="none" x="8" y="335" width="782" height="305">
@@ -108,97 +33,22 @@
      <path d="M0,0H626V244H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="626" height="244" viewBox="0 0 626 244">
       <g>
-       <path d="M0,169h31v7h13v-7h12v48h7v-28h6v28h6v-48h6v37h4v4h3v-75h6v44h3v41h3v17h2v-20h1v24v-21h1v7h1v-4h1v14v-34h3v-7h2v-14h2v38h1v-17h1v17h1v10h1v-7h1v14h1v-41h2v21h1v-21h2v24h3v-14h3v-6h1v34h2v-21h1v-10h1v7h1v-7h1v3h1v4h1v13h1v-17v21h1v-21h1v24h1v-3h1v7h1v-24v10h2v3v-10h2v4h1v-7v-96h3v4h4v112v-3v3h1v-3h1v-21v14h1v3v-3h1v-7v17h1v-3v-10h2v-17v17h1v-21h1v31h1v-17v3h1v7h1v-24h2v-3h2v17v-7h1v10h1v24h1v-3v7v-4h1v-24v14h1v-4v11v-17h1v10v-7v-14h1v17v7h1v-10v17h1v-34v-27h1v20h1v-7h1v-20h2v27h1v14v17h1v-7v3v4h1v3v-7v14h1v-20v20v-27h1v3v4v10h1v-7v3v-6h1v-21h1v-3v24h1v-38v27h1v21v-27h1v3h1v-14v21h1v-10v23h1v-34v21h1v-24v14h1v10v17h1v-17v13h1v-13v7h1v-21v7h1v-7v4h1v10v-17h1v10v17h1v-20h1v6v-13h1v30v-58h1v28v3h1v21h1v-21v-14h1v7v14h1v-27v3h1v3h1v31v10v4h1v-14v-10v17h1v-24v4h1v-7v20v-3h1v10v-10v-4h1v4v-10v13h1v-10v14v-11h1v4v17h1v-7v3v-41h1v28v-7h1v3v-3h1v14v-31v14h1v13h1v7v-27v3h1v24v-20h1v13v7h1v7v-27h1v13v-13v6h1v-6v6h1v17v-30h1v10v10v-10h1v-14v11h1v-11v28v10h1v-27v-7h1v3v27v-10h1v4v-4v7h1v7v-17v3h1v7v-24v17h1v-10h1v7v3v-3h1v-14v-31v52h1v-4v7v-3h1v-24h1v7v30v-27h1v17v-10v-4h1v7v-17v14v7h1v-14v7v-4h1v-10v27h1v-37v31h1v-7v-4v4h1v13v14v-44h1v-7v17v17v-14h1v-13v20v7v7h1v-14v-3v-4h1v17v-6v-7v3h1v-13v3v14h1v3v-17v14h1v6v-3v-7h1v4h1v-11v-6v17h1v-11v11v-21h1v-10v-21v45h1v-28v35h1v-48v24h1v-7v10v-7h1v-7v7h1v17v7h1v-3v7h1v-14v14v-7v-4h1v-3v10v-17h1v17v-10v17h1v-17v20v-10h1v4v-14v-7v7h1v20v-13v-7v34h1v-27v-10v6h1v7v-13v13h1v4v13v-3v-31h1v17v-10v3h1v-10v-7v38v-10h1v-55v31h1v34v-55h1v10v4v10h1v4v-28h1v10v7h1v-7v14h1v7v7v10h1v-27v24v-35h1v38v3v4v-34h1v13v-6v30v-34h1v-7v31h1v-14v7v-13v3h1v17v3v-27v27h1v4v-24v7v13h1v-17v11v3h1v7v-27v10v10h1v-10v17v-14h1v14v3v-10v-7h1v14v-7v-20v10h1v7v17v-24v17v-31v17h1v24v-27v13v-20h1v17v-7v10v-23h1v27v-27v17v10v-10h1v10v-21v21v-10v10h1v-4v11v-4v-3v-10h1v10v-17v-10v3h1v3v-3h1v3v11v3v-27h1v3v27h1v-17v11v-7h1v-10v17v-24v37h1v-10v-14h1v7v-7v7h1v4v-11h1v-6v-4v27h1v-3v-20v20v-24h1v7v10v-10h1v3v-41v38h1v3v14v3v-17h1v17v-10h1v-3v-10v3v-7h1v34v-13v3v7v-10h1v-14v14v-28h1v28v3v-3h1v-7v-7v-24h1v38v-21v10h1v7v-10v7v-14h1v10v-10v21h1v-14v-3v-7h1v10h1v-3v23h1v-17v-13h1v-17v30v-17h1v-3v24v7v-24h1v13v21v-21h1v-3v20v-6h1v-14v10v7h1v3v-3v-27v24v6h1v14v-17v3v-17v-6h1v13v21v-21v14h1v-34v27v10v4v-11h1v-6v-7v-4v4v10h1v-10v3v4h1v13v-10v3v-17v7h1v14v-17h1v3v-20v7h1v17v10h1v-17v-7v17v3v7h1v-20v-4v17v-17h1v17v11v-24v7v3h1v-10v24v-4v-17v7v-10h1v24v-28v11v10v-27h1v30v-7v7v-3v-21h1v21v3v-7v-6v13h1v-10v-10v17v3v-3h1v-17v7v-17v27v-21h1v31v-20v-11h1v7v14v-10v6h1v-6v10v-31v21h1v3v-24v27h1v-3v-10v7v6h1v-23v13v-7v4h1v7v20v-20v-4h1v4v3h1v10v-17v-31v11h1v-4v41v7h1v-10v-10v-4h1v4v3v-3h1v-7v-21v24v4h1v-4v7v3h1v4v-14v-3h1v17v-10v-11v28h1v-38v24v-7h1v-20v20h1v7v-31h1v41v4v-41h1v17v3v-17v24h1v-10v-17v13h1v7h1v-3v-4v14h1v7v-21h1v-13v20h1v-10v14h1v-14v14v13h1v-27v-14v21h1v3v-27v20h1v7v-7v-30h1v10h1v-14h1v24h1v-20v-21h1v14h1v17h1v44v-10h1v-14v21v-10h1v-21v14v13h1v-17v7v-10h1v31v-28v14h1v-7v7h1v-3v3v10h1v-34v21v-7h1v-17v30h1v-27v21v-4h1v10v-13h1v10v-24v14h1v-7v-10h1v10h1v17v-17h2v14v-14h1v10v-24h1v4v24h1v6v4h1v-31v4h1v3v10v4h1v-4h1v7v7h1v-24h1v27h1v-13v-14v-10h1v30v-34h1v17v17h1v4v-17h1v-10v6v17h1v-34h1v11v-7h1v17h1v7h1v-21v14h2v-21v21h1v24v-24h1v3v14h1v3h1v-13h1v-17v10h1v-24v20h1v-3h2v3v-17h1v24h1v-7v17h1v-6h1v-52h1v17h1v4h1v-4h2v-13h1v-31h2v-14h2v28h2v-4h2v-13h2v-7h3v78h1v4h1v13v-17h1v4h1v13v-20h1v20h1v-10h1v-13h1v-14h1v17h1v10h1v-7h1v11h1v-14h1v27h1v-7h1v-10v7h1v-10h1v-4h1v7h1v-3h1v10h1v-3h1v6h1v-6h1v6v7h1v-7v7h2v-34v38h1v-7h1v-21v35h1v-11h1v-13h1v-11v17h1v-6h1v10h1v3h1v-37h3v-181h10v194h4v11h2v10h1v-4h1v11h2v-11h1v-3h1v3h2v-13h1v20h2v-7h3v-10h3v-78h8v75h3v13h3v-6h3v-38h10v38h6v-38h6v58h2v-3h2v-62h21v51h13v18h2v3h2v-7h2" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: none;"></path>
+       <path d="M0,169h31v7h13v-7h12v48h7v-28h6v28h6v-48h6v37h4v4h3v-75h6v44h3v41h3v17h2v-20h1v24v-21h1v7h1v-4h1v14v-34h3v-7h2v-14h2v38h1v-17h1v17h1v10h1v-7h1v14h1v-41h2v21h1v-21h2v24h3v-14h3v-6h1v34h2v-21h1v-10h1v7h1v-7h1v3h1v4h1v13h1v-17v21h1v-21h1v24h1v-3h1v7h1v-24v10h2v3v-10h2v4h1v-7v-96h3v4h4v112v-3v3h1v-3h1v-21v14h1v3v-3h1v-7v17h1v-3v-10h2v-17v17h1v-21h1v31h1v-17v3h1v7h1v-24h2v-3h2v17v-7h1v10h1v24h1v-3v7v-4h1v-24v14h1v-4v11v-17h1v10v-7v-14h1v17v7h1v-10v17h1v-34v-27h1v20h1v-7h1v-20h2v27h1v14v17h1v-7v3v4h1v3v-7v14h1v-20v20v-27h1v3v4v10h1v-7v3v-6h1v-21h1v-3v24h1v-38v27h1v21v-27h1v3h1v-14v21h1v-10v23h1v-34v21h1v-24v14h1v10v17h1v-17v13h1v-13v7h1v-21v7h1v-7v4h1v10v-17h1v10v17h1v-20h1v6v-13h1v30v-58h1v28v3h1v21h1v-21v-14h1v7v14h1v-27v3h1v3h1v31v10v4h1v-14v-10v17h1v-24v4h1v-7v20v-3h1v10v-10v-4h1v4v-10v13h1v-10v14v-11h1v4v17h1v-7v3v-41h1v28v-7h1v3v-3h1v14v-31v14h1v13h1v7v-27v3h1v24v-20h1v13v7h1v7v-27h1v13v-13v6h1v-6v6h1v17v-30h1v10v10v-10h1v-14v11h1v-11v28v10h1v-27v-7h1v3v27v-10h1v4v-4v7h1v7v-17v3h1v7v-24v17h1v-10h1v7v3v-3h1v-14v-31v52h1v-4v7v-3h1v-24h1v7v30v-27h1v17v-10v-4h1v7v-17v14v7h1v-14v7v-4h1v-10v27h1v-37v31h1v-7v-4v4h1v13v14v-44h1v-7v17v17v-14h1v-13v20v7v7h1v-14v-3v-4h1v17v-6v-7v3h1v-13v3v14h1v3v-17v14h1v6v-3v-7h1v4h1v-11v-6v17h1v-11v11v-21h1v-10v-21v45h1v-28v35h1v-48v24h1v-7v10v-7h1v-7v7h1v17v7h1v-3v7h1v-14v14v-7v-4h1v-3v10v-17h1v17v-10v17h1v-17v20v-10h1v4v-14v-7v7h1v20v-13v-7v34h1v-27v-10v6h1v7v-13v13h1v4v13v-3v-31h1v17v-10v3h1v-10v-7v38v-10h1v-55v31h1v34v-55h1v10v4v10h1v4v-28h1v10v7h1v-7v14h1v7v7v10h1v-27v24v-35h1v38v3v4v-34h1v13v-6v30v-34h1v-7v31h1v-14v7v-13v3h1v17v3v-27v27h1v4v-24v7v13h1v-17v11v3h1v7v-27v10v10h1v-10v17v-14h1v14v3v-10v-7h1v14v-7v-20v10h1v7v17v-24v17v-31v17h1v24v-27v13v-20h1v17v-7v10v-23h1v27v-27v17v10v-10h1v10v-21v21v-10v10h1v-4v11v-4v-3v-10h1v10v-17v-10v3h1v3v-3h1v3v11v3v-27h1v3v27h1v-17v11v-7h1v-10v17v-24v37h1v-10v-14h1v7v-7v7h1v4v-11h1v-6v-4v27h1v-3v-20v20v-24h1v7v10v-10h1v3v-41v38h1v3v14v3v-17h1v17v-10h1v-3v-10v3v-7h1v34v-13v3v7v-10h1v-14v14v-28h1v28v3v-3h1v-7v-7v-24h1v38v-21v10h1v7v-10v7v-14h1v10v-10v21h1v-14v-3v-7h1v10h1v-3v23h1v-17v-13h1v-17v30v-17h1v-3v24v7v-24h1v13v21v-21h1v-3v20v-6h1v-14v10v7h1v3v-3v-27v24v6h1v14v-17v3v-17v-6h1v13v21v-21v14h1v-34v27v10v4v-11h1v-6v-7v-4v4v10h1v-10v3v4h1v13v-10v3v-17v7h1v14v-17h1v3v-20v7h1v17v10h1v-17v-7v17v3v7h1v-20v-4v17v-17h1v17v11v-24v7v3h1v-10v24v-4v-17v7v-10h1v24v-28v11v10v-27h1v30v-7v7v-3v-21h1v21v3v-7v-6v13h1v-10v-10v17v3v-3h1v-17v7v-17v27v-21h1v31v-20v-11h1v7v14v-10v6h1v-6v10v-31v21h1v3v-24v27h1v-3v-10v7v6h1v-23v13v-7v4h1v7v20v-20v-4h1v4v3h1v10v-17v-31v11h1v-4v41v7h1v-10v-10v-4h1v4v3v-3h1v-7v-21v24v4h1v-4v7v3h1v4v-14v-3h1v17v-10v-11v28h1v-38v24v-7h1v-20v20h1v7v-31h1v41v4v-41h1v17v3v-17v24h1v-10v-17v13h1v7h1v-3v-4v14h1v7v-21h1v-13v20h1v-10v14h1v-14v14v13h1v-27v-14v21h1v3v-27v20h1v7v-7v-30h1v10h1v-14h1v24h1v-20v-21h1v14h1v17h1v44v-10h1v-14v21v-10h1v-21v14v13h1v-17v7v-10h1v31v-28v14h1v-7v7h1v-3v3v10h1v-34v21v-7h1v-17v30h1v-27v21v-4h1v10v-13h1v10v-24v14h1v-7v-10h1v10h1v17v-17h2v14v-14h1v10v-24h1v4v24h1v6v4h1v-31v4h1v3v10v4h1v-4h1v7v7h1v-24h1v27h1v-13v-14v-10h1v30v-34h1v17v17h1v4v-17h1v-10v6v17h1v-34h1v11v-7h1v17h1v7h1v-21v14h2v-21v21h1v24v-24h1v3v14h1v3h1v-13h1v-17v10h1v-24v20h1v-3h2v3v-17h1v24h1v-7v17h1v-6h1v-52h1v17h1v4h1v-4h2v-13h1v-31h2v-14h2v28h2v-4h2v-13h2v-7h3v78h1v4h1v13v-17h1v4h1v13v-20h1v20h1v-10h1v-13h1v-14h1v17h1v10h1v-7h1v11h1v-14h1v27h1v-7h1v-10v7h1v-10h1v-4h1v7h1v-3h1v10h1v-3h1v6h1v-6h1v6v7h1v-7v7h2v-34v38h1v-7h1v-21v35h1v-11h1v-13h1v-11v17h1v-6h1v10h1v3h1v-37h3v-181h10v194h4v11h2v10h1v-4h1v11h2v-11h1v-3h1v3h2v-13h1v20h2v-7h3v-10h3v-78h8v75h3v13h3v-6h3v-38h10v38h6v-38h6v58h2v-3h2v-62h21v51h13v18h2v3h2v-7h2" style="stroke-linejoin: miter; stroke: rgb(0, 0, 154); stroke-width: 1; fill: none;"></path>
       </g>
      </svg>
      <g>
       <g transform="translate(0,244)">
        <path d="M0,0h626M0,-7V0M21,-4V0M42,-4V0M63,-4V0M83,-4V0M104,-7V0M125,-4V0M146,-4V0M167,-4V0M188,-4V0M209,-7V0M230,-4V0M250,-4V0M271,-4V0M292,-4V0M313,-7V0M334,-4V0M355,-4V0M376,-4V0M396,-4V0M417,-7V0M438,-4V0M459,-4V0M480,-4V0M501,-4V0M522,-7V0M543,-4V0M563,-4V0M584,-4V0M605,-4V0M626,-7V0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="11" space="preserve" fill="black" text-anchor="middle">
-        <text dy=".8em" transform="translate(0,2)">
-         -3
-        </text>
-        <text dy=".8em" transform="translate(104,2)">
-         -2
-        </text>
-        <text dy=".8em" transform="translate(209,2)">
-         -1
-        </text>
-        <text dy=".8em" transform="translate(313,2)">
-         0
-        </text>
-        <text dy=".8em" transform="translate(417,2)">
-         1
-        </text>
-        <text dy=".8em" transform="translate(522,2)">
-         2
-        </text>
-        <text dy=".8em" transform="translate(626,2)">
-         3
-        </text>
-       </g>
+       <g font-family="Arial" font-size="11" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,2)">-3</text><text dy=".8em" transform="translate(104,2)">-2</text><text dy=".8em" transform="translate(209,2)">-1</text><text dy=".8em" transform="translate(313,2)">0</text><text dy=".8em" transform="translate(417,2)">1</text><text dy=".8em" transform="translate(522,2)">2</text><text dy=".8em" transform="translate(626,2)">3</text></g>
       </g>
       <g>
        <path d="M0,0v244M19,244H0M10,237H0M10,230H0M10,223H0M10,217H0M19,210H0M10,203H0M10,196H0M10,189H0M10,182H0M19,176H0M10,169H0M10,162H0M10,155H0M10,148H0M19,141H0M10,135H0M10,128H0M10,121H0M10,114H0M19,107H0M10,100H0M10,94H0M10,87H0M10,80H0M19,73H0M10,66H0M10,59H0M10,53H0M10,46H0M19,39H0M10,32H0M10,25H0M10,18H0M10,12H0M19,5H0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="11" space="preserve" fill="black" text-anchor="end">
-        <text dy=".4em" transform="translate(-2,244)">
-         0
-        </text>
-        <text dy=".4em" transform="translate(-2,210)">
-         10
-        </text>
-        <text dy=".4em" transform="translate(-2,176)">
-         20
-        </text>
-        <text dy=".4em" transform="translate(-2,141)">
-         30
-        </text>
-        <text dy=".4em" transform="translate(-2,107)">
-         40
-        </text>
-        <text dy=".4em" transform="translate(-2,73)">
-         50
-        </text>
-        <text dy=".4em" transform="translate(-2,39)">
-         60
-        </text>
-        <text dy=".4em" transform="translate(-2,5)">
-         70
-        </text>
-       </g>
+       <g font-family="Arial" font-size="11" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-2,244)">0</text><text dominant-baseline="middle" transform="translate(-2,210)">10</text><text dominant-baseline="middle" transform="translate(-2,176)">20</text><text dominant-baseline="middle" transform="translate(-2,141)">30</text><text dominant-baseline="middle" transform="translate(-2,107)">40</text><text dominant-baseline="middle" transform="translate(-2,73)">50</text><text dominant-baseline="middle" transform="translate(-2,39)">60</text><text dominant-baseline="middle" transform="translate(-2,5)">70</text></g>
       </g>
      </g>
     </g>
-    <g transform="translate(610,20)" font-family="Arial" font-size="10" space="preserve" fill="black">
-     <path d="M0,0H156V49H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text text-anchor="middle" dy=".4em" transform="translate(78,6)">
-      hnew
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(8,18)">
-      Entries
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(148,18)">
-      10000
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(8,31)">
-      Mean
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(148,31)">
-      0.005001
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(8,43)">
-      Std Dev
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(148,43)">
-      0.9930
-     </text>
-     <path d="M0,12h156" style="stroke: black; stroke-width: 1;"></path>
-    </g>
-    <g transform="translate(78,2)" font-family="Arial" font-size="15" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(313)">
-      rebinned
-     </text>
-    </g>
+    <g transform="translate(610,20)" font-family="Arial" font-size="10" xml:space="preserve" fill="black"><path d="M0,0H156V49H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(78,6)">hnew</text><text text-anchor="start" dominant-baseline="middle" transform="translate(8,18)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(148,18)">10000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(8,31)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(148,31)">0.005001</text><text text-anchor="start" dominant-baseline="middle" transform="translate(8,43)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(148,43)">0.9930</text><path d="M0,12h156" style="stroke: black; stroke-width: 1;"></path></g>
+    <g transform="translate(78,2)" font-family="Arial" font-size="15" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(313)">rebinned</text></g>
    </g>
   </svg>
   <svg viewBox="0 0 782 305" preserveAspectRatio="none" x="8" y="659" width="782" height="305">
@@ -208,100 +58,22 @@
      <path d="M0,0H626V244H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="626" height="244" viewBox="0 0 626 244">
       <g>
-       <path d="M0,126h44v34h19v17h9v-17h9v25h7v-84h9v118h4v-3h2v6h1v-9h2v-8h3v-51h4v37h2v22h2v9h2v-40h3v3h3v9h3v-17h3v33h3v-28h2v-2h2v19h3v3h2v20h2v-26h1v12h1v-14h3v-160h7v185v3h1v-23h1v9h1v-9h1v20h1v-20h2v-14h1v6h3v-6h2v-22h2v11h1v11h2v45h1v6h1v-23h2v-3v-14h1v26h1v-3h1v-65h1v6h2v-39h2v56h1v39h1v-8v11h1v3h1v-6v-25h1v17h1v-9h1v-36h1v5h1v31h1v-28h1v-5h1v14h1v2h1v-14h1v12h1v22h1v-3h1v-17h1v-11h1v9h1v-12h1v20h1v-11h1v8h1v-47h1v44h2v-28h1v12h1v-31h1v33h1v45h1v-28h1v-19h1v25h1v5v-11h1v-3h1v6v-3h1v25h1v-33h1v5h1v-2h1v-6v-3h1v28h1v-36h1v25h1v11v11h1v-28h1v-5h1v-6v25h1v-28h1v17h1v-22h1v14v17h1v-31h1v39h1v-6v14h1v-19h1v-6h1v-8h1v14v-14h1v-20h1v42h1v-19h1v16v-5h1v-6h1v-5v14h1v-12h1v6h1v-8v14h1v-9v14h1v-3h1v-33v31h1v-17v33h1v-19v5h1v-2v-12h1v6h1v14v-14h1v17v-6h1v-3v3h1v-22v14h1v-9h1v-50v34h1v-6h2v-3v-8h1v5h1v34h2v6v-14h1v14v-14h1v11h1v3v8h1v-14v-17h1v28v6h1v-25v8h1v-6v14h1v23v-39h1v5v-11h1v11v14h1v-64h1v36h1v-25v22h1v-33h1v19h2v28h1v-11h1v37v-20h1v-11v17h1v-14v14h1v-12v9h1v-3v25h1v-31v14h1v6v8h1v-30v16h1v-8v17h1v14v-20h1v11v-30h1v33v-11v-22h1v33v-14v-8h1v11v-11h1v3v14v-9h1v9v5h1v6v-11h1v-28h1v-3v3h1v22v-39h1v25h1v3v-3h1v-3v6h1v14v-17h1v-6v14h1v-14h1v-14v40h1v-20v-17h1v14h1v-36v28h1v17v2h1v-14v20h1v-22v-9h1v39v-22h1v-34h1v48v-8h1v-12v-14h1v6h1v11v-8h1v-3v14h1v-22h1v11h1v-6v39h1v-39h1v-14v-5h1v42v-23h1v28h1v-5v-6h1v11h1v9v-28v42h1v-14v-31h1v33v-5h1v-23v42v-19h1v-20v11h1v-5v5h1v17v-17v-2h1v8v-14h1v-11v8h1v23v-6h1v-11v25h1v-31v11h1v23v-25v2h1v28v-25v9h1v-17v3h1v22v3v-20h1v23v-17v8h1v-11v17h1v-25v14h1v-9v-11h1v20v-3h1v-14v11h1v-14h1v8v9h1v-23v3h1v31v-20h1v6v11h1v-45v-11h1v70h1v-19v-12h1v6v-8h1v-20v22h1v12h1v-3v-3h1v-11v5h1v3h1v-22v22h1v-19h1v44v-50h1v6v16h1v-25h1v23v-3h1v3h1v16v-39h1v14h1v3h1v11h1v-28h1v17h1v-31h1v-19h2v11h1v-39h2v75h1v20h1v-6v-17h1v17h1v-11v14h1v-8h1v5v3h1v11h1v-31v-8h1v14h1v8h1v3h1v-14v-3h1v-22h1v31h1v-14h2v11h1v-14h1v6h1v33h1v-45h1v17v11h1v3h1v11h1v-33h1v22h1v-11v-3h1v-17h1v45h1v-33h1v16h1v-33h1v11h1v14h1v-6h1v6h2v-17h1v37h1v-3h1v5h1v-25h1v-17h1v12h3v-6h2v22h1v-39h2v-11h2v-14h3v-73h4v31h4v-31h5v123h1v17h1v-14h2v9h1v8h2v-42h2v25h2v6h2v8h2v3h1v-6h2v-8h2v8h2v9h3v11h1v6h2v-26h1v3h1v31h2v-39h1v14h2v14h2v-207h13v170h4v26h3v11h3v-11h2v-9h3v17h3v-14h5v-76h11v79h6v-37h16v17h8v-8h23v47h15v14h4" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: none;"></path>
+       <path d="M0,126h44v34h19v17h9v-17h9v25h7v-84h9v118h4v-3h2v6h1v-9h2v-8h3v-51h4v37h2v22h2v9h2v-40h3v3h3v9h3v-17h3v33h3v-28h2v-2h2v19h3v3h2v20h2v-26h1v12h1v-14h3v-160h7v185v3h1v-23h1v9h1v-9h1v20h1v-20h2v-14h1v6h3v-6h2v-22h2v11h1v11h2v45h1v6h1v-23h2v-3v-14h1v26h1v-3h1v-65h1v6h2v-39h2v56h1v39h1v-8v11h1v3h1v-6v-25h1v17h1v-9h1v-36h1v5h1v31h1v-28h1v-5h1v14h1v2h1v-14h1v12h1v22h1v-3h1v-17h1v-11h1v9h1v-12h1v20h1v-11h1v8h1v-47h1v44h2v-28h1v12h1v-31h1v33h1v45h1v-28h1v-19h1v25h1v5v-11h1v-3h1v6v-3h1v25h1v-33h1v5h1v-2h1v-6v-3h1v28h1v-36h1v25h1v11v11h1v-28h1v-5h1v-6v25h1v-28h1v17h1v-22h1v14v17h1v-31h1v39h1v-6v14h1v-19h1v-6h1v-8h1v14v-14h1v-20h1v42h1v-19h1v16v-5h1v-6h1v-5v14h1v-12h1v6h1v-8v14h1v-9v14h1v-3h1v-33v31h1v-17v33h1v-19v5h1v-2v-12h1v6h1v14v-14h1v17v-6h1v-3v3h1v-22v14h1v-9h1v-50v34h1v-6h2v-3v-8h1v5h1v34h2v6v-14h1v14v-14h1v11h1v3v8h1v-14v-17h1v28v6h1v-25v8h1v-6v14h1v23v-39h1v5v-11h1v11v14h1v-64h1v36h1v-25v22h1v-33h1v19h2v28h1v-11h1v37v-20h1v-11v17h1v-14v14h1v-12v9h1v-3v25h1v-31v14h1v6v8h1v-30v16h1v-8v17h1v14v-20h1v11v-30h1v33v-11v-22h1v33v-14v-8h1v11v-11h1v3v14v-9h1v9v5h1v6v-11h1v-28h1v-3v3h1v22v-39h1v25h1v3v-3h1v-3v6h1v14v-17h1v-6v14h1v-14h1v-14v40h1v-20v-17h1v14h1v-36v28h1v17v2h1v-14v20h1v-22v-9h1v39v-22h1v-34h1v48v-8h1v-12v-14h1v6h1v11v-8h1v-3v14h1v-22h1v11h1v-6v39h1v-39h1v-14v-5h1v42v-23h1v28h1v-5v-6h1v11h1v9v-28v42h1v-14v-31h1v33v-5h1v-23v42v-19h1v-20v11h1v-5v5h1v17v-17v-2h1v8v-14h1v-11v8h1v23v-6h1v-11v25h1v-31v11h1v23v-25v2h1v28v-25v9h1v-17v3h1v22v3v-20h1v23v-17v8h1v-11v17h1v-25v14h1v-9v-11h1v20v-3h1v-14v11h1v-14h1v8v9h1v-23v3h1v31v-20h1v6v11h1v-45v-11h1v70h1v-19v-12h1v6v-8h1v-20v22h1v12h1v-3v-3h1v-11v5h1v3h1v-22v22h1v-19h1v44v-50h1v6v16h1v-25h1v23v-3h1v3h1v16v-39h1v14h1v3h1v11h1v-28h1v17h1v-31h1v-19h2v11h1v-39h2v75h1v20h1v-6v-17h1v17h1v-11v14h1v-8h1v5v3h1v11h1v-31v-8h1v14h1v8h1v3h1v-14v-3h1v-22h1v31h1v-14h2v11h1v-14h1v6h1v33h1v-45h1v17v11h1v3h1v11h1v-33h1v22h1v-11v-3h1v-17h1v45h1v-33h1v16h1v-33h1v11h1v14h1v-6h1v6h2v-17h1v37h1v-3h1v5h1v-25h1v-17h1v12h3v-6h2v22h1v-39h2v-11h2v-14h3v-73h4v31h4v-31h5v123h1v17h1v-14h2v9h1v8h2v-42h2v25h2v6h2v8h2v3h1v-6h2v-8h2v8h2v9h3v11h1v6h2v-26h1v3h1v31h2v-39h1v14h2v14h2v-207h13v170h4v26h3v11h3v-11h2v-9h3v17h3v-14h5v-76h11v79h6v-37h16v17h8v-8h23v47h15v14h4" style="stroke-linejoin: miter; stroke: rgb(0, 0, 154); stroke-width: 1; fill: none;"></path>
       </g>
      </svg>
      <g>
       <g transform="translate(0,244)">
        <path d="M0,0h626M0,-7V0M21,-4V0M42,-4V0M63,-4V0M83,-4V0M104,-7V0M125,-4V0M146,-4V0M167,-4V0M188,-4V0M209,-7V0M230,-4V0M250,-4V0M271,-4V0M292,-4V0M313,-7V0M334,-4V0M355,-4V0M376,-4V0M396,-4V0M417,-7V0M438,-4V0M459,-4V0M480,-4V0M501,-4V0M522,-7V0M543,-4V0M563,-4V0M584,-4V0M605,-4V0M626,-7V0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="11" space="preserve" fill="black" text-anchor="middle">
-        <text dy=".8em" transform="translate(0,2)">
-         -3
-        </text>
-        <text dy=".8em" transform="translate(104,2)">
-         -2
-        </text>
-        <text dy=".8em" transform="translate(209,2)">
-         -1
-        </text>
-        <text dy=".8em" transform="translate(313,2)">
-         0
-        </text>
-        <text dy=".8em" transform="translate(417,2)">
-         1
-        </text>
-        <text dy=".8em" transform="translate(522,2)">
-         2
-        </text>
-        <text dy=".8em" transform="translate(626,2)">
-         3
-        </text>
-       </g>
+       <g font-family="Arial" font-size="11" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,2)">-3</text><text dy=".8em" transform="translate(104,2)">-2</text><text dy=".8em" transform="translate(209,2)">-1</text><text dy=".8em" transform="translate(313,2)">0</text><text dy=".8em" transform="translate(417,2)">1</text><text dy=".8em" transform="translate(522,2)">2</text><text dy=".8em" transform="translate(626,2)">3</text></g>
       </g>
       <g>
        <path d="M0,0v244M19,244H0M10,238H0M10,233H0M10,227H0M10,222H0M19,216H0M10,210H0M10,205H0M10,199H0M10,194H0M19,188H0M10,182H0M10,177H0M10,171H0M10,166H0M19,160H0M10,154H0M10,149H0M10,143H0M10,138H0M19,132H0M10,126H0M10,121H0M10,115H0M10,110H0M19,104H0M10,98H0M10,93H0M10,87H0M10,82H0M19,76H0M10,70H0M10,65H0M10,59H0M10,54H0M19,48H0M10,42H0M10,37H0M10,31H0M10,26H0M19,20H0M10,14H0M10,9H0M10,3H0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="11" space="preserve" fill="black" text-anchor="end">
-        <text dy=".4em" transform="translate(-2,244)">
-         0
-        </text>
-        <text dy=".4em" transform="translate(-2,216)">
-         10
-        </text>
-        <text dy=".4em" transform="translate(-2,188)">
-         20
-        </text>
-        <text dy=".4em" transform="translate(-2,160)">
-         30
-        </text>
-        <text dy=".4em" transform="translate(-2,132)">
-         40
-        </text>
-        <text dy=".4em" transform="translate(-2,104)">
-         50
-        </text>
-        <text dy=".4em" transform="translate(-2,76)">
-         60
-        </text>
-        <text dy=".4em" transform="translate(-2,48)">
-         70
-        </text>
-        <text dy=".4em" transform="translate(-2,20)">
-         80
-        </text>
-       </g>
+       <g font-family="Arial" font-size="11" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-2,244)">0</text><text dominant-baseline="middle" transform="translate(-2,216)">10</text><text dominant-baseline="middle" transform="translate(-2,188)">20</text><text dominant-baseline="middle" transform="translate(-2,160)">30</text><text dominant-baseline="middle" transform="translate(-2,132)">40</text><text dominant-baseline="middle" transform="translate(-2,104)">50</text><text dominant-baseline="middle" transform="translate(-2,76)">60</text><text dominant-baseline="middle" transform="translate(-2,48)">70</text><text dominant-baseline="middle" transform="translate(-2,20)">80</text></g>
       </g>
      </g>
     </g>
-    <g transform="translate(610,20)" font-family="Arial" font-size="10" space="preserve" fill="black">
-     <path d="M0,0H156V49H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text text-anchor="middle" dy=".4em" transform="translate(78,6)">
-      hnew2
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(8,18)">
-      Entries
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(148,18)">
-      10000
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(8,31)">
-      Mean
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(148,31)">
-      0.005001
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(8,43)">
-      Std Dev
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(148,43)">
-      0.9930
-     </text>
-     <path d="M0,12h156" style="stroke: black; stroke-width: 1;"></path>
-    </g>
-    <g transform="translate(78,2)" font-family="Arial" font-size="15" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(313)">
-      rebinned
-     </text>
-    </g>
+    <g transform="translate(610,20)" font-family="Arial" font-size="10" xml:space="preserve" fill="black"><path d="M0,0H156V49H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(78,6)">hnew2</text><text text-anchor="start" dominant-baseline="middle" transform="translate(8,18)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(148,18)">10000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(8,31)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(148,31)">0.005001</text><text text-anchor="start" dominant-baseline="middle" transform="translate(8,43)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(148,43)">0.9930</text><path d="M0,12h156" style="stroke: black; stroke-width: 1;"></path></g>
+    <g transform="translate(78,2)" font-family="Arial" font-size="15" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(313)">rebinned</text></g>
    </g>
   </svg>
  </g>

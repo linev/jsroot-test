@@ -1,113 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none">
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(120,80)">
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
-     <path d="M19,638h10v3h-10zM67,637h10v3h-10zM77,636h9v4h-9zM86,636h10v4h-10zM96,633h10v5h-10zM106,635h9v4h-9zM115,630h10v6h-10zM125,628h9v6h-9zM134,627h10v6h-10zM144,621h10v8h-10zM154,622h9v7h-9zM163,614h10v8h-10zM173,609h9v10h-9zM182,597h10v11h-10zM192,602h10v11h-10zM202,587h9v13h-9zM211,594h10v11h-10zM221,576h9v13h-9zM230,554h10v16h-10zM240,553h10v16h-10zM250,550h9v16h-9zM259,514h10v18h-10zM269,508h9v19h-9zM278,497h10v20h-10zM288,480h10v22h-10zM298,433h9v24h-9zM307,430h10v25h-10zM317,405h9v26h-9zM326,393h10v26h-10zM336,357h10v28h-10zM346,343h9v28h-9zM355,292h10v31h-10zM365,258h9v33h-9zM374,257h10v33h-10zM384,219h10v34h-10zM394,193h9v35h-9zM403,124h10v38h-10zM413,156h9v36h-9zM422,103h10v38h-10zM432,147h10v37h-10zM442,95h9v39h-9zM451,68h10v40h-10zM461,85h9v39h-9zM470,109h10v38h-10zM480,74h10v39h-10zM490,30h9v42h-9zM499,101h10v39h-10zM509,104h9v39h-9zM518,116h10v38h-10zM528,119h10v38h-10zM538,168h9v36h-9zM547,185h10v35h-10zM557,197h9v35h-9zM566,221h10v34h-10zM576,236h10v34h-10zM586,246h9v33h-9zM595,282h10v31h-10zM605,325h9v30h-9zM614,338h10v29h-10zM624,359h10v28h-10zM634,421h9v25h-9zM643,415h10v25h-10zM653,444h9v23h-9zM662,468h10v22h-10zM672,483h10v21h-10zM682,505h9v20h-9zM691,523h10v19h-10zM701,546h9v17h-9zM710,545h10v16h-10zM720,567h10v14h-10zM730,573h9v14h-9zM739,589h10v12h-10zM749,592h9v11h-9zM758,604h10v10h-10zM768,612h10v9h-10zM778,603h9v11h-9zM787,616h10v8h-10zM797,621h9v8h-9zM806,626h10v6h-10zM816,626h10v6h-10zM826,629h9v6h-9zM835,629h10v6h-10zM845,637h9v3h-9zM854,633h10v4h-10zM864,634h10v5h-10zM874,638h9v3h-9zM883,638h10v3h-10zM893,638h9v3h-9zM950,639h10v2h-10z" style="fill: #c1b7ad;"></path>
+     <path d="M19,638h10v3h-10zM67,637h10v3h-10zM77,636h9v4h-9zM86,636h10v4h-10zM96,633h10v5h-10zM106,635h9v4h-9zM115,630h10v6h-10zM125,628h9v6h-9zM134,627h10v6h-10zM144,621h10v8h-10zM154,622h9v7h-9zM163,614h10v8h-10zM173,609h9v10h-9zM182,597h10v11h-10zM192,602h10v11h-10zM202,587h9v13h-9zM211,594h10v11h-10zM221,576h9v13h-9zM230,554h10v16h-10zM240,553h10v16h-10zM250,550h9v16h-9zM259,514h10v18h-10zM269,508h9v19h-9zM278,497h10v20h-10zM288,480h10v22h-10zM298,433h9v24h-9zM307,430h10v25h-10zM317,405h9v26h-9zM326,393h10v26h-10zM336,357h10v28h-10zM346,343h9v28h-9zM355,292h10v31h-10zM365,258h9v33h-9zM374,257h10v33h-10zM384,219h10v34h-10zM394,193h9v35h-9zM403,124h10v38h-10zM413,156h9v36h-9zM422,103h10v38h-10zM432,147h10v37h-10zM442,95h9v39h-9zM451,68h10v40h-10zM461,85h9v39h-9zM470,109h10v38h-10zM480,74h10v39h-10zM490,30h9v42h-9zM499,101h10v39h-10zM509,104h9v39h-9zM518,116h10v38h-10zM528,119h10v38h-10zM538,168h9v36h-9zM547,185h10v35h-10zM557,197h9v35h-9zM566,221h10v34h-10zM576,236h10v34h-10zM586,246h9v33h-9zM595,282h10v31h-10zM605,325h9v30h-9zM614,338h10v29h-10zM624,359h10v28h-10zM634,421h9v25h-9zM643,415h10v25h-10zM653,444h9v23h-9zM662,468h10v22h-10zM672,483h10v21h-10zM682,505h9v20h-9zM691,523h10v19h-10zM701,546h9v17h-9zM710,545h10v16h-10zM720,567h10v14h-10zM730,573h9v14h-9zM739,589h10v12h-10zM749,592h9v11h-9zM758,604h10v10h-10zM768,612h10v9h-10zM778,603h9v11h-9zM787,616h10v8h-10zM797,621h9v8h-9zM806,626h10v6h-10zM816,626h10v6h-10zM826,629h9v6h-9zM835,629h10v6h-10zM845,637h9v3h-9zM854,633h10v4h-10zM864,634h10v5h-10zM874,638h9v3h-9zM883,638h10v3h-10zM893,638h9v3h-9zM950,639h10v2h-10z" style="fill: rgb(193, 183, 173);"></path>
      <path d="M20,639a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM68,638a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM78,637a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM87,637a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM97,635a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM107,637a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM116,632a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM126,630a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM135,630a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM145,624a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM155,625a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM164,617a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM174,613a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM183,602a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM193,607a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM203,593a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM212,599a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM222,582a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM231,561a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM241,561a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM251,557a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM260,523a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM270,517a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM279,506a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM289,490a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM299,445a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM308,442a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM318,417a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM327,406a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM337,370a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM347,357a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM356,307a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM366,274a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM375,273a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM385,236a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM395,210a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM404,143a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM414,173a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM423,122a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM433,165a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM443,114a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM452,87a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM462,104a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM471,128a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM481,93a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM491,51a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM500,120a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM510,123a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM519,135a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM529,138a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM539,186a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM548,202a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM558,214a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM567,238a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM577,253a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM587,262a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM596,297a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM606,339a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM615,352a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM625,372a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM635,433a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM644,427a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM654,455a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM663,479a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM673,493a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM683,514a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM692,532a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM702,554a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM711,553a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM721,574a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM731,579a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM740,594a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM750,597a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM759,609a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM769,616a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM779,608a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM788,620a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM798,624a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM807,628a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM817,628a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM827,632a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM836,631a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM846,638a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM855,635a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM865,636a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM875,639a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM884,639a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM894,639a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM951,639a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: black; fill: black;"></path>
     </g>
    </svg>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960M0,-19V0M24,-10V0M48,-10V0M72,-10V0M96,-10V0M120,-19V0M144,-10V0M168,-10V0M192,-10V0M216,-10V0M240,-19V0M264,-10V0M288,-10V0M312,-10V0M336,-10V0M360,-19V0M384,-10V0M408,-10V0M432,-10V0M456,-10V0M480,-19V0M504,-10V0M528,-10V0M552,-10V0M576,-10V0M600,-19V0M624,-10V0M648,-10V0M672,-10V0M696,-10V0M720,-19V0M744,-10V0M768,-10V0M792,-10V0M816,-10V0M840,-19V0M864,-10V0M888,-10V0M912,-10V0M936,-10V0M960,-19V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(0,5)">
-       -4
-      </text>
-      <text dy=".8em" transform="translate(120,5)">
-       -3
-      </text>
-      <text dy=".8em" transform="translate(240,5)">
-       -2
-      </text>
-      <text dy=".8em" transform="translate(360,5)">
-       -1
-      </text>
-      <text dy=".8em" transform="translate(480,5)">
-       0
-      </text>
-      <text dy=".8em" transform="translate(600,5)">
-       1
-      </text>
-      <text dy=".8em" transform="translate(720,5)">
-       2
-      </text>
-      <text dy=".8em" transform="translate(840,5)">
-       3
-      </text>
-      <text dy=".8em" transform="translate(960,5)">
-       4
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,5)">-4</text><text dy=".8em" transform="translate(120,5)">-3</text><text dy=".8em" transform="translate(240,5)">-2</text><text dy=".8em" transform="translate(360,5)">-1</text><text dy=".8em" transform="translate(480,5)">0</text><text dy=".8em" transform="translate(600,5)">1</text><text dy=".8em" transform="translate(720,5)">2</text><text dy=".8em" transform="translate(840,5)">3</text><text dy=".8em" transform="translate(960,5)">4</text></g>
     </g>
     <g>
      <path d="M0,0v640M29,640H0M15,626H0M15,613H0M15,599H0M15,585H0M29,572H0M15,558H0M15,544H0M15,531H0M15,517H0M29,503H0M15,490H0M15,476H0M15,462H0M15,449H0M29,435H0M15,421H0M15,408H0M15,394H0M15,380H0M29,367H0M15,353H0M15,339H0M15,326H0M15,312H0M29,298H0M15,285H0M15,271H0M15,258H0M15,244H0M29,230H0M15,217H0M15,203H0M15,189H0M15,176H0M29,162H0M15,148H0M15,135H0M15,121H0M15,107H0M29,94H0M15,80H0M15,66H0M15,53H0M15,39H0M29,25H0M15,12H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-6,640)">
-       0
-      </text>
-      <text dy=".4em" transform="translate(-6,572)">
-       100
-      </text>
-      <text dy=".4em" transform="translate(-6,503)">
-       200
-      </text>
-      <text dy=".4em" transform="translate(-6,435)">
-       300
-      </text>
-      <text dy=".4em" transform="translate(-6,367)">
-       400
-      </text>
-      <text dy=".4em" transform="translate(-6,298)">
-       500
-      </text>
-      <text dy=".4em" transform="translate(-6,230)">
-       600
-      </text>
-      <text dy=".4em" transform="translate(-6,162)">
-       700
-      </text>
-      <text dy=".4em" transform="translate(-6,94)">
-       800
-      </text>
-      <text dy=".4em" transform="translate(-6,25)">
-       900
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-6,640)">0</text><text dominant-baseline="middle" transform="translate(-6,572)">100</text><text dominant-baseline="middle" transform="translate(-6,503)">200</text><text dominant-baseline="middle" transform="translate(-6,435)">300</text><text dominant-baseline="middle" transform="translate(-6,367)">400</text><text dominant-baseline="middle" transform="translate(-6,298)">500</text><text dominant-baseline="middle" transform="translate(-6,230)">600</text><text dominant-baseline="middle" transform="translate(-6,162)">700</text><text dominant-baseline="middle" transform="translate(-6,94)">800</text><text dominant-baseline="middle" transform="translate(-6,25)">900</text></g>
     </g>
    </g>
   </g>
-  <g transform="translate(936,52)" font-family="Arial" font-size="25" space="preserve" fill="black">
-   <path d="M0,0H240V128H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <text text-anchor="middle" dy=".4em" transform="translate(120,16)">
-    hpx
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,48)">
-    Entries
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,48)">
-    25000
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,80)">
-    Mean
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,80)">
-    0.003163
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,112)">
-    Std Dev
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,112)">
-    1.004
-   </text>
-   <path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path>
-  </g>
-  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
-    This is the px distribution
-   </text>
-  </g>
+  <g transform="translate(936,52)" font-family="Arial" font-size="27" xml:space="preserve" fill="black"><path d="M0,0H240V128H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(120,16)">hpx</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,48)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,48)">25000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,80)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,80)">0.003163</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,112)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,112)">1.004</text><path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path></g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">This is the px distribution</text></g>
  </g>
 </svg>

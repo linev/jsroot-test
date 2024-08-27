@@ -1,115 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none">
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(120,80)">
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
-     <path d="M0,407h69v-52h68v30h69v166h68v-186h69v34h68v77h69v-50h69v-396h68v581h69v-194h68v-104h69v56h68v17h69" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: none;"></path>
+     <path d="M0,407h69v-52h68v30h69v166h68v-186h69v34h68v77h69v-50h69v-396h68v581h69v-194h68v-104h69v56h68v17h69" style="stroke-linejoin: miter; stroke: rgb(0, 0, 154); stroke-width: 1; fill: none;"></path>
     </g>
    </svg>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960M0,-19V0M69,-19V0M137,-19V0M206,-19V0M274,-19V0M343,-19V0M411,-19V0M480,-19V0M549,-19V0M617,-19V0M686,-19V0M754,-19V0M823,-19V0M891,-19V0M960,-10V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="19" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(35,6)">
-       A12
-      </text>
-      <text dy=".8em" transform="translate(103,6)">
-       A13
-      </text>
-      <text dy=".8em" transform="translate(172,6)">
-       A14
-      </text>
-      <text dy=".8em" transform="translate(240,6)">
-       A15
-      </text>
-      <text dy=".8em" transform="translate(309,6)">
-       A16
-      </text>
-      <text dy=".8em" transform="translate(377,6)">
-       B11
-      </text>
-      <text dy=".8em" transform="translate(446,6)">
-       B12
-      </text>
-      <text dy=".8em" transform="translate(515,6)">
-       B13
-      </text>
-      <text dy=".8em" transform="translate(583,6)">
-       B14
-      </text>
-      <text dy=".8em" transform="translate(652,6)">
-       B15
-      </text>
-      <text dy=".8em" transform="translate(720,6)">
-       C10
-      </text>
-      <text dy=".8em" transform="translate(789,6)">
-       D4
-      </text>
-      <text dy=".8em" transform="translate(857,6)">
-       D5
-      </text>
-      <text dy=".8em" transform="translate(926,6)">
-       D6
-      </text>
-     </g>
-     <g font-family="Arial" font-size="28" space="preserve" transform="translate(960,45)">
-      <text fill="black" text-anchor="end" dy=".4em">
-       Cell
-      </text>
-     </g>
+     <g font-family="Arial" font-size="19" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(35,6)">A12</text><text dy=".8em" transform="translate(103,6)">A13</text><text dy=".8em" transform="translate(172,6)">A14</text><text dy=".8em" transform="translate(240,6)">A15</text><text dy=".8em" transform="translate(309,6)">A16</text><text dy=".8em" transform="translate(377,6)">B11</text><text dy=".8em" transform="translate(446,6)">B12</text><text dy=".8em" transform="translate(515,6)">B13</text><text dy=".8em" transform="translate(583,6)">B14</text><text dy=".8em" transform="translate(652,6)">B15</text><text dy=".8em" transform="translate(720,6)">C10</text><text dy=".8em" transform="translate(789,6)">D4</text><text dy=".8em" transform="translate(857,6)">D5</text><text dy=".8em" transform="translate(926,6)">D6</text></g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" transform="translate(960,45)"><text fill="black" text-anchor="end" dominant-baseline="middle">Cell</text></g>
     </g>
     <g>
      <path d="M0,0v640M15,633H0M29,618H0M15,603H0M15,589H0M15,574H0M29,559H0M15,544H0M15,529H0M15,514H0M29,499H0M15,484H0M15,469H0M15,454H0M29,439H0M15,424H0M15,410H0M15,395H0M29,380H0M15,365H0M15,350H0M15,335H0M29,320H0M15,305H0M15,290H0M15,275H0M29,260H0M15,245H0M15,231H0M15,216H0M29,201H0M15,186H0M15,171H0M15,156H0M29,141H0M15,126H0M15,111H0M15,96H0M29,81H0M15,66H0M15,52H0M15,37H0M29,22H0M15,7H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-6,618)">
-       -1
-      </text>
-      <text dy=".4em" transform="translate(-6,559)">
-       -0.8
-      </text>
-      <text dy=".4em" transform="translate(-6,499)">
-       -0.6
-      </text>
-      <text dy=".4em" transform="translate(-6,439)">
-       -0.4
-      </text>
-      <text dy=".4em" transform="translate(-6,380)">
-       -0.2
-      </text>
-      <text dy=".4em" transform="translate(-6,320)">
-       0
-      </text>
-      <text dy=".4em" transform="translate(-6,260)">
-       0.2
-      </text>
-      <text dy=".4em" transform="translate(-6,201)">
-       0.4
-      </text>
-      <text dy=".4em" transform="translate(-6,141)">
-       0.6
-      </text>
-      <text dy=".4em" transform="translate(-6,81)">
-       0.8
-      </text>
-      <text dy=".4em" transform="translate(-6,22)">
-       1
-      </text>
-     </g>
-     <g font-family="Arial" font-size="28" space="preserve" transform="translate(-67)">
-      <text fill="black" text-anchor="end" dy=".4em" transform="rotate(270)">
-       Asymetery
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-6,618)">-1</text><text dominant-baseline="middle" transform="translate(-6,559)">-0.8</text><text dominant-baseline="middle" transform="translate(-6,499)">-0.6</text><text dominant-baseline="middle" transform="translate(-6,439)">-0.4</text><text dominant-baseline="middle" transform="translate(-6,380)">-0.2</text><text dominant-baseline="middle" transform="translate(-6,320)">0</text><text dominant-baseline="middle" transform="translate(-6,260)">0.2</text><text dominant-baseline="middle" transform="translate(-6,201)">0.4</text><text dominant-baseline="middle" transform="translate(-6,141)">0.6</text><text dominant-baseline="middle" transform="translate(-6,81)">0.8</text><text dominant-baseline="middle" transform="translate(-6,22)">1</text></g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" transform="translate(-67)"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="rotate(270)">Asymetery</text></g>
     </g>
    </g>
   </g>
-  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
-    EnergyMeanAsyLo
-   </text>
-  </g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">EnergyMeanAsyLo</text></g>
  </g>
 </svg>

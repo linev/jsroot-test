@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 596 372" preserveAspectRatio="none" width="596" height="372">
+<svg xmlns="http://www.w3.org/2000/svg" width="596" height="372" viewBox="0 0 596 372" preserveAspectRatio="none">
  <path d="M0,0H596V372H0Z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 286 365" preserveAspectRatio="none" x="6" y="3" width="286" height="365">
@@ -14,88 +14,16 @@
      <g>
       <g transform="translate(0,292)">
        <path d="M0,0h229M0,-5V0M8,-5V0M17,-5V0M25,-9V0M34,-5V0M42,-5V0M51,-5V0M59,-5V0M68,-9V0M76,-5V0M85,-5V0M93,-5V0M102,-5V0M110,-9V0M119,-5V0M127,-5V0M136,-5V0M144,-5V0M153,-9V0M161,-5V0M170,-5V0M178,-5V0M187,-5V0M195,-9V0M204,-5V0M212,-5V0M221,-5V0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="10" space="preserve" fill="black" text-anchor="middle">
-        <text dy=".8em" transform="translate(25,2)">
-         -0.6
-        </text>
-        <text dy=".8em" transform="translate(68,2)">
-         -0.5
-        </text>
-        <text dy=".8em" transform="translate(110,2)">
-         -0.4
-        </text>
-        <text dy=".8em" transform="translate(153,2)">
-         -0.3
-        </text>
-        <text dy=".8em" transform="translate(195,2)">
-         -0.2
-        </text>
-       </g>
+       <g font-family="Arial" font-size="10" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(25,2)">-0.6</text><text dy=".8em" transform="translate(68,2)">-0.5</text><text dy=".8em" transform="translate(110,2)">-0.4</text><text dy=".8em" transform="translate(153,2)">-0.3</text><text dy=".8em" transform="translate(195,2)">-0.2</text></g>
       </g>
       <g>
        <path d="M0,0v292M4,289H0M4,282H0M7,276H0M4,269H0M4,263H0M4,256H0M4,250H0M7,243H0M4,236H0M4,230H0M4,223H0M4,217H0M7,210H0M4,203H0M4,197H0M4,190H0M4,184H0M7,177H0M4,171H0M4,164H0M4,157H0M4,151H0M7,144H0M4,138H0M4,131H0M4,125H0M4,118H0M7,111H0M4,105H0M4,98H0M4,92H0M4,85H0M7,78H0M4,72H0M4,65H0M4,59H0M4,52H0M7,46H0M4,39H0M4,32H0M4,26H0M4,19H0M7,13H0M4,6H0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="10" space="preserve" fill="black" text-anchor="end">
-        <text dy=".4em" transform="translate(-2,276)">
-         180
-        </text>
-        <text dy=".4em" transform="translate(-2,243)">
-         190
-        </text>
-        <text dy=".4em" transform="translate(-2,210)">
-         200
-        </text>
-        <text dy=".4em" transform="translate(-2,177)">
-         210
-        </text>
-        <text dy=".4em" transform="translate(-2,144)">
-         220
-        </text>
-        <text dy=".4em" transform="translate(-2,111)">
-         230
-        </text>
-        <text dy=".4em" transform="translate(-2,78)">
-         240
-        </text>
-        <text dy=".4em" transform="translate(-2,46)">
-         250
-        </text>
-        <text dy=".4em" transform="translate(-2,13)">
-         260
-        </text>
-       </g>
+       <g font-family="Arial" font-size="10" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-2,276)">180</text><text dominant-baseline="middle" transform="translate(-2,243)">190</text><text dominant-baseline="middle" transform="translate(-2,210)">200</text><text dominant-baseline="middle" transform="translate(-2,177)">210</text><text dominant-baseline="middle" transform="translate(-2,144)">220</text><text dominant-baseline="middle" transform="translate(-2,111)">230</text><text dominant-baseline="middle" transform="translate(-2,78)">240</text><text dominant-baseline="middle" transform="translate(-2,46)">250</text><text dominant-baseline="middle" transform="translate(-2,13)">260</text></g>
       </g>
      </g>
     </g>
-    <g transform="translate(223,24)" font-family="Arial" font-size="5" space="preserve" fill="black">
-     <path d="M0,0H57V58H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text text-anchor="middle" dy=".4em" transform="translate(29,7)">
-      he4
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(3,22)">
-      Entries
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(54,22)">
-      10000
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(3,36)">
-      Mean
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(54,36)">
-      -0.3823
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(3,51)">
-      Std Dev
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(54,51)">
-      0.1521
-     </text>
-     <path d="M0,15h57" style="stroke: black; stroke-width: 1;"></path>
-    </g>
-    <g transform="translate(43,2)" font-family="Arial" font-size="8" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(100,10)">
-      Distribution drawn with option E4
-     </text>
-    </g>
+    <g transform="translate(223,24)" font-family="Arial" font-size="7" xml:space="preserve" fill="black"><path d="M0,0H57V58H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(29,7)">he4</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,22)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(54,22)">10000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,36)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(54,36)">-0.3823</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,51)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(54,51)">0.1521</text><path d="M0,15h57" style="stroke: black; stroke-width: 1;"></path></g>
+    <g transform="translate(43,2)" font-family="Arial" font-size="11" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(100,10)">Distribution drawn with option E4</text></g>
    </g>
   </svg>
   <svg viewBox="0 0 286 365" preserveAspectRatio="none" x="304" y="3" width="286" height="365">
@@ -111,88 +39,16 @@
      <g>
       <g transform="translate(0,292)">
        <path d="M0,0h229M0,-5V0M8,-5V0M17,-5V0M25,-9V0M34,-5V0M42,-5V0M51,-5V0M59,-5V0M68,-9V0M76,-5V0M85,-5V0M93,-5V0M102,-5V0M110,-9V0M119,-5V0M127,-5V0M136,-5V0M144,-5V0M153,-9V0M161,-5V0M170,-5V0M178,-5V0M187,-5V0M195,-9V0M204,-5V0M212,-5V0M221,-5V0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="10" space="preserve" fill="black" text-anchor="middle">
-        <text dy=".8em" transform="translate(25,2)">
-         -0.6
-        </text>
-        <text dy=".8em" transform="translate(68,2)">
-         -0.5
-        </text>
-        <text dy=".8em" transform="translate(110,2)">
-         -0.4
-        </text>
-        <text dy=".8em" transform="translate(153,2)">
-         -0.3
-        </text>
-        <text dy=".8em" transform="translate(195,2)">
-         -0.2
-        </text>
-       </g>
+       <g font-family="Arial" font-size="10" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(25,2)">-0.6</text><text dy=".8em" transform="translate(68,2)">-0.5</text><text dy=".8em" transform="translate(110,2)">-0.4</text><text dy=".8em" transform="translate(153,2)">-0.3</text><text dy=".8em" transform="translate(195,2)">-0.2</text></g>
       </g>
       <g>
        <path d="M0,0v292M4,289H0M4,282H0M7,276H0M4,269H0M4,263H0M4,256H0M4,250H0M7,243H0M4,236H0M4,230H0M4,223H0M4,217H0M7,210H0M4,203H0M4,197H0M4,190H0M4,184H0M7,177H0M4,171H0M4,164H0M4,157H0M4,151H0M7,144H0M4,138H0M4,131H0M4,125H0M4,118H0M7,111H0M4,105H0M4,98H0M4,92H0M4,85H0M7,78H0M4,72H0M4,65H0M4,59H0M4,52H0M7,46H0M4,39H0M4,32H0M4,26H0M4,19H0M7,13H0M4,6H0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="10" space="preserve" fill="black" text-anchor="end">
-        <text dy=".4em" transform="translate(-2,276)">
-         180
-        </text>
-        <text dy=".4em" transform="translate(-2,243)">
-         190
-        </text>
-        <text dy=".4em" transform="translate(-2,210)">
-         200
-        </text>
-        <text dy=".4em" transform="translate(-2,177)">
-         210
-        </text>
-        <text dy=".4em" transform="translate(-2,144)">
-         220
-        </text>
-        <text dy=".4em" transform="translate(-2,111)">
-         230
-        </text>
-        <text dy=".4em" transform="translate(-2,78)">
-         240
-        </text>
-        <text dy=".4em" transform="translate(-2,46)">
-         250
-        </text>
-        <text dy=".4em" transform="translate(-2,13)">
-         260
-        </text>
-       </g>
+       <g font-family="Arial" font-size="10" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-2,276)">180</text><text dominant-baseline="middle" transform="translate(-2,243)">190</text><text dominant-baseline="middle" transform="translate(-2,210)">200</text><text dominant-baseline="middle" transform="translate(-2,177)">210</text><text dominant-baseline="middle" transform="translate(-2,144)">220</text><text dominant-baseline="middle" transform="translate(-2,111)">230</text><text dominant-baseline="middle" transform="translate(-2,78)">240</text><text dominant-baseline="middle" transform="translate(-2,46)">250</text><text dominant-baseline="middle" transform="translate(-2,13)">260</text></g>
       </g>
      </g>
     </g>
-    <g transform="translate(223,24)" font-family="Arial" font-size="5" space="preserve" fill="black">
-     <path d="M0,0H57V58H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text text-anchor="middle" dy=".4em" transform="translate(29,7)">
-      he4
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(3,22)">
-      Entries
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(54,22)">
-      10000
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(3,36)">
-      Mean
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(54,36)">
-      -0.3823
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(3,51)">
-      Std Dev
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(54,51)">
-      0.1521
-     </text>
-     <path d="M0,15h57" style="stroke: black; stroke-width: 1;"></path>
-    </g>
-    <g transform="translate(43,2)" font-family="Arial" font-size="10" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(100,10)">
-      Distribution drawn option E3
-     </text>
-    </g>
+    <g transform="translate(223,24)" font-family="Arial" font-size="7" xml:space="preserve" fill="black"><path d="M0,0H57V58H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(29,7)">he4</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,22)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(54,22)">10000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,36)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(54,36)">-0.3823</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,51)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(54,51)">0.1521</text><path d="M0,15h57" style="stroke: black; stroke-width: 1;"></path></g>
+    <g transform="translate(43,2)" font-family="Arial" font-size="13" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(100,10)">Distribution drawn option E3</text></g>
    </g>
   </svg>
  </g>

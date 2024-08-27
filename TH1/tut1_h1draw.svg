@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 698 874" preserveAspectRatio="none" width="698" height="874">
+<svg xmlns="http://www.w3.org/2000/svg" width="698" height="874" viewBox="0 0 698 874" preserveAspectRatio="none">
  <path d="M0,0H698V874H0Z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 328 262" preserveAspectRatio="none" x="21" y="70" width="328" height="262">
@@ -8,113 +8,23 @@
      <path d="M0,0H262V210H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="262" height="210" viewBox="0 0 262 210">
       <g>
-       <path d="M0,210h18v-1h8v1h3v-1h2v-1h6v-1h2v-2h6v-2h2v-2h3v-2h2v-3h3v1h3v-3h2v-7h3v-4h3v-3h2v-5h5v-7h3v-8h3v-8h2v-5h3v-11h2v-16h3v-1h3v-8h2v-19h6v-12h2v-16h3v-5h2v-1h6v-18h2v-10h3v-3h3v-3h2v-13h3v11h2v-12h3v4h3v-1h2v5h3v-8h2v21h3v-2h3v1h2v19h3v5h3v13h2v1h3v19h2v5h3v5h3v11h2v15h3v9h3v6h2v9h3v3h2v2h3v9h3v8h2v12h3v-1h3v7h2v4h3v2h2v3h3v3h3v3h2v-1h3v3h5v2h3v2h2v-1h3v1h3v1h7v-1h3v1h3v1h8v-1h2v1h8L262,213H0Z" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: #c08378;"></path>
+       <path d="M0,210h18v-1h8v1h3v-1h2v-1h6v-1h2v-2h6v-2h2v-2h3v-2h2v-3h3v1h3v-3h2v-7h3v-4h3v-3h2v-5h5v-7h3v-8h3v-8h2v-5h3v-11h2v-16h3v-1h3v-8h2v-19h6v-12h2v-16h3v-5h2v-1h6v-18h2v-10h3v-3h3v-3h2v-13h3v11h2v-12h3v4h3v-1h2v5h3v-8h2v21h3v-2h3v1h2v19h3v5h3v13h2v1h3v19h2v5h3v5h3v11h2v15h3v9h3v6h2v9h3v3h2v2h3v9h3v8h2v12h3v-1h3v7h2v4h3v2h2v3h3v3h3v3h2v-1h3v3h5v2h3v2h2v-1h3v1h3v1h7v-1h3v1h3v1h8v-1h2v1h8L262,213H0Z" style="stroke-linejoin: miter; stroke: rgb(0, 0, 154); stroke-width: 1; fill: rgb(192, 131, 120);"></path>
       </g>
      </svg>
      <g>
       <g transform="translate(0,210)">
        <path d="M0,0h262M0,-6V0M7,-3V0M13,-3V0M20,-3V0M26,-3V0M33,-6V0M39,-3V0M46,-3V0M52,-3V0M59,-3V0M66,-6V0M72,-3V0M79,-3V0M85,-3V0M92,-3V0M98,-6V0M105,-3V0M111,-3V0M118,-3V0M124,-3V0M131,-6V0M138,-3V0M144,-3V0M151,-3V0M157,-3V0M164,-6V0M170,-3V0M177,-3V0M183,-3V0M190,-3V0M197,-6V0M203,-3V0M210,-3V0M216,-3V0M223,-3V0M229,-6V0M236,-3V0M242,-3V0M249,-3V0M255,-3V0M262,-6V0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="9" space="preserve" fill="black" text-anchor="middle">
-        <text dy=".8em" transform="translate(0,2)">
-         -4
-        </text>
-        <text dy=".8em" transform="translate(33,2)">
-         -3
-        </text>
-        <text dy=".8em" transform="translate(66,2)">
-         -2
-        </text>
-        <text dy=".8em" transform="translate(98,2)">
-         -1
-        </text>
-        <text dy=".8em" transform="translate(131,2)">
-         0
-        </text>
-        <text dy=".8em" transform="translate(164,2)">
-         1
-        </text>
-        <text dy=".8em" transform="translate(197,2)">
-         2
-        </text>
-        <text dy=".8em" transform="translate(229,2)">
-         3
-        </text>
-        <text dy=".8em" transform="translate(262,2)">
-         4
-        </text>
-       </g>
+       <g font-family="Arial" font-size="9" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,2)">-4</text><text dy=".8em" transform="translate(33,2)">-3</text><text dy=".8em" transform="translate(66,2)">-2</text><text dy=".8em" transform="translate(98,2)">-1</text><text dy=".8em" transform="translate(131,2)">0</text><text dy=".8em" transform="translate(164,2)">1</text><text dy=".8em" transform="translate(197,2)">2</text><text dy=".8em" transform="translate(229,2)">3</text><text dy=".8em" transform="translate(262,2)">4</text></g>
       </g>
       <g>
        <path d="M0,0v210M8,210H0M4,205H0M4,200H0M4,195H0M4,190H0M8,185H0M4,180H0M4,175H0M4,171H0M4,166H0M8,161H0M4,156H0M4,151H0M4,146H0M4,141H0M8,136H0M4,131H0M4,126H0M4,121H0M4,116H0M8,111H0M4,106H0M4,101H0M4,97H0M4,92H0M8,87H0M4,82H0M4,77H0M4,72H0M4,67H0M8,62H0M4,57H0M4,52H0M4,47H0M4,42H0M8,37H0M4,32H0M4,28H0M4,23H0M4,18H0M8,13H0M4,8H0M4,3H0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="9" space="preserve" fill="black" text-anchor="end">
-        <text dy=".4em" transform="translate(-2,210)">
-         0
-        </text>
-        <text dy=".4em" transform="translate(-2,185)">
-         100
-        </text>
-        <text dy=".4em" transform="translate(-2,161)">
-         200
-        </text>
-        <text dy=".4em" transform="translate(-2,136)">
-         300
-        </text>
-        <text dy=".4em" transform="translate(-2,111)">
-         400
-        </text>
-        <text dy=".4em" transform="translate(-2,87)">
-         500
-        </text>
-        <text dy=".4em" transform="translate(-2,62)">
-         600
-        </text>
-        <text dy=".4em" transform="translate(-2,37)">
-         700
-        </text>
-        <text dy=".4em" transform="translate(-2,13)">
-         800
-        </text>
-       </g>
+       <g font-family="Arial" font-size="9" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-2,210)">0</text><text dominant-baseline="middle" transform="translate(-2,185)">100</text><text dominant-baseline="middle" transform="translate(-2,161)">200</text><text dominant-baseline="middle" transform="translate(-2,136)">300</text><text dominant-baseline="middle" transform="translate(-2,111)">400</text><text dominant-baseline="middle" transform="translate(-2,87)">500</text><text dominant-baseline="middle" transform="translate(-2,62)">600</text><text dominant-baseline="middle" transform="translate(-2,37)">700</text><text dominant-baseline="middle" transform="translate(-2,13)">800</text></g>
       </g>
      </g>
     </g>
-    <g transform="translate(256,17)" font-family="Arial" font-size="6" space="preserve" fill="black">
-     <path d="M0,0H66V42H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text text-anchor="middle" dy=".4em" transform="translate(33,5)">
-      hpx_copy
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(3,16)">
-      Entries
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(63,16)">
-      25000
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(3,26)">
-      Mean
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(63,26)">
-      -0.004011
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(3,37)">
-      Std Dev
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(63,37)">
-      0.9978
-     </text>
-     <path d="M0,11h66" style="stroke: black; stroke-width: 1;"></path>
-    </g>
-    <g transform="translate(49,39)" font-family="Arial" font-size="9" space="preserve" font-weight="bold">
-     <path d="M82,3h3v25h-82v-3h79z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-     <path d="M0,0H82V25H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(41,13)">
-      Default option
-     </text>
-    </g>
-    <g transform="translate(82,1)" font-family="Arial" font-size="9" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(83,8)">
-      This is the px distribution
-     </text>
-    </g>
+    <g transform="translate(256,17)" font-family="Arial" font-size="8" xml:space="preserve" fill="black"><path d="M0,0H66V42H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(33,5)">hpx_copy</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,16)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(63,16)">25000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,26)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(63,26)">-0.004011</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,37)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(63,37)">0.9978</text><path d="M0,11h66" style="stroke: black; stroke-width: 1;"></path></g>
+    <g transform="translate(49,39)" font-family="Arial" font-size="11" xml:space="preserve" font-weight="bold"><path d="M82,3h3v25h-82v-3h79z" style="fill: black; stroke: black; stroke-width: 1px;"></path><path d="M0,0H82V25H0Z" style="fill: rgb(243, 243, 243); stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(41,13)">Default option</text></g>
+    <g transform="translate(82,1)" font-family="Arial" font-size="12" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(83,8)">This is the px distribution</text></g>
    </g>
   </svg>
   <svg viewBox="0 0 328 262" preserveAspectRatio="none" x="356" y="70" width="328" height="262">
@@ -123,50 +33,10 @@
     <image width="298" height="232" href="data:image/png;base64,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"></image>
    </g>
    <g>
-    <g transform="translate(256,17)" font-family="Arial" font-size="6" space="preserve" fill="black">
-     <path d="M0,0H66V42H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text text-anchor="middle" dy=".4em" transform="translate(33,5)">
-      hpx_copy
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(3,16)">
-      Entries
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(63,16)">
-      25000
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(3,26)">
-      Mean
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(63,26)">
-      -0.004011
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(3,37)">
-      Std Dev
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(63,37)">
-      0.9978
-     </text>
-     <path d="M0,11h66" style="stroke: black; stroke-width: 1;"></path>
-    </g>
-    <g transform="translate(44,28)" font-family="Arial" font-size="10" space="preserve" font-weight="bold">
-     <path d="M83,3h3v16h-83v-3h80z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-     <path d="M0,0H83V16H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(42,8)">
-      option Lego1
-     </text>
-    </g>
-    <g transform="translate(9,239)" font-family="Arial" font-size="13" space="preserve" font-weight="bold">
-     <path d="M196,3h3v19h-196v-3h193z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-     <path d="M0,0H196V19H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(98,10)">
-      Click on lego to rotate
-     </text>
-    </g>
-    <g transform="translate(82,1)" font-family="Arial" font-size="9" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(83,8)">
-      This is the px distribution
-     </text>
-    </g>
+    <g transform="translate(256,17)" font-family="Arial" font-size="8" xml:space="preserve" fill="black"><path d="M0,0H66V42H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(33,5)">hpx_copy</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,16)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(63,16)">25000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,26)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(63,26)">-0.004011</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,37)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(63,37)">0.9978</text><path d="M0,11h66" style="stroke: black; stroke-width: 1;"></path></g>
+    <g transform="translate(44,28)" font-family="Arial" font-size="13" xml:space="preserve" font-weight="bold"><path d="M83,3h3v16h-83v-3h80z" style="fill: black; stroke: black; stroke-width: 1px;"></path><path d="M0,0H83V16H0Z" style="fill: rgb(243, 243, 243); stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(42,8)">option Lego1</text></g>
+    <g transform="translate(9,239)" font-family="Arial" font-size="16" xml:space="preserve" font-weight="bold"><path d="M196,3h3v19h-196v-3h193z" style="fill: black; stroke: black; stroke-width: 1px;"></path><path d="M0,0H196V19H0Z" style="fill: rgb(243, 243, 243); stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(98,10)">Click on lego to rotate</text></g>
+    <g transform="translate(82,1)" font-family="Arial" font-size="12" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(83,8)">This is the px distribution</text></g>
    </g>
   </svg>
   <svg viewBox="0 0 656 481" preserveAspectRatio="none" x="21" y="376" width="656" height="481">
@@ -176,142 +46,29 @@
      <path d="M0,0H525V385H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="525" height="385" viewBox="0 0 525 385">
       <g>
-       <path d="M0,382v6m0,-3h6m0,-3v6M0,384h6m-3,0v1m-3,0h6M5,382v6m0,-3h6m0,-3v6M5,384h6m-3,0v1m-3,0h6M11,382v6m0,-3h6m0,-3v6M11,384h6m-3,0v1m-3,0h6M16,382v6m0,-3h6m0,-3v6M16,384h6m-3,0v1m-3,0h6M26,382v6m0,-3h6m0,-3v6M26,384h6m-3,0v1m-3,0h6M32,381v6m0,-3h6m0,-3v6M32,384h6m-3,0v1m-3,0h6M37,380v6m0,-3h6m0,-3v6M37,382h6m-3,0v2m-3,0h6M42,380v6m0,-3h6m0,-3v6M42,382h6m-3,0v2m-3,0h6M47,380v6m0,-3h6m0,-3v6M47,382h6m-3,0v2m-3,0h6M52,381v6m0,-3h6m0,-3v6M52,384h6m-3,0v1m-3,0h6M58,379v6m0,-3h6m0,-3v6M58,381h6m-3,0v2m-3,0h6M63,378v6m0,-3h6m0,-3v6M63,379h6m-3,0v3m-3,0h6M68,379v6m0,-3h6m0,-3v6M68,380h6m-3,0v3m-3,0h6M74,377v6m0,-3h6m0,-3v6M74,378h6m-3,0v3m-3,0h6M79,373v6m0,-3h6m0,-3v6M79,374h6m-3,0v4m-3,0h6M84,372v6m0,-3h6m0,-3v6M84,373h6m-3,0v4m-3,0h6M89,370v6m0,-3h6m0,-3v6M89,371h6m-3,0v4m-3,0h6M95,367v6m0,-3h6m0,-3v6M95,367h6m-3,0v5m-3,0h6M100,362v6m0,-3h6m0,-3v6M100,362h6m-3,0v6m-3,0h6M105,358v6m0,-3h6m0,-3v6M105,358h6m-3,0v6m-3,0h6M110,358v6m0,-3h6m0,-3v6M110,358h6m-3,0v7m-3,0h6M115,354v6m0,-3h6m0,-3v6M115,354h6m-3,0v7m-3,0h6M121,342v6m0,-3h6m0,-3v6M121,341h6m-3,0v8m-3,0h6M126,334v6m0,-3h6m0,-3v6M126,332h6m-3,0v10m-3,0h6M131,328v6m0,-3h6m0,-3v6M131,326h6m-3,0v10m-3,0h6M137,320v6m0,-3h6m0,-3v6M137,318h6m-3,0v11m-3,0h6M142,320v6m0,-3h6m0,-3v6M142,317h6m-3,0v11m-3,0h6M147,308v6m0,-3h6m0,-3v6M147,305h6m-3,0v11m-3,0h6M152,294v6m0,-3h6m0,-3v6M152,291h6m-3,0v12m-3,0h6M158,280v6m0,-3h6m0,-3v6M158,276h6m-3,0v13m-3,0h6M163,271v6m0,-3h6m0,-3v6M163,267h6m-3,0v14m-3,0h6M168,251v6m0,-3h6m0,-3v6M168,246h6m-3,0v15m-3,0h6M173,223v6m0,-3h6m0,-3v6M173,217h6m-3,0v17m-3,0h6M179,220v6m0,-3h6m0,-3v6M179,215h6m-3,0v16m-3,0h6M184,206v6m0,-3h6m0,-3v6M184,201h6m-3,0v17m-3,0h6M189,173v6m0,-3h6m0,-3v6M189,167h6m-3,0v19m-3,0h6M194,173v6m0,-3h6m0,-3v6M194,167h6m-3,0v19m-3,0h6M200,151v6m0,-3h6m0,-3v6M200,144h6m-3,0v20m-3,0h6M205,123v6m0,-3h6m0,-3v6M205,116h6m-3,0v21m-3,0h6M210,114v6m0,-3h6m0,-3v6M210,106h6m-3,0v22m-3,0h6M215,113v6m0,-3h6m0,-3v6M215,105h6m-3,0v22m-3,0h6M221,113v6m0,-3h6m0,-3v6M221,106h6m-3,0v21m-3,0h6M226,81v6m0,-3h6m0,-3v6M226,73h6m-3,0v23m-3,0h6M231,64v6m0,-3h6m0,-3v6M231,55h6m-3,0v24m-3,0h6M236,57v6m0,-3h6m0,-3v6M236,49h6m-3,0v23m-3,0h6M242,53v6m0,-3h6m0,-3v6M242,44h6m-3,0v24m-3,0h6M247,30v6m0,-3h6m0,-3v6M247,21h6m-3,0v24m-3,0h6M252,48v6m0,-3h6m0,-3v6M252,39h6m-3,0v24m-3,0h6M257,28v6m0,-3h6m0,-3v6M257,18h6m-3,0v25m-3,0h6M263,34v6m0,-3h6m0,-3v6M263,25h6m-3,0v25m-3,0h6M268,33v6m0,-3h6m0,-3v6M268,23h6m-3,0v25m-3,0h6M273,42v6m0,-3h6m0,-3v6M273,33h6m-3,0v24m-3,0h6M278,29v6m0,-3h6m0,-3v6M278,19h6m-3,0v25m-3,0h6M284,64v6m0,-3h6m0,-3v6M284,56h6m-3,0v23m-3,0h6M289,62v6m0,-3h6m0,-3v6M289,53h6m-3,0v24m-3,0h6M294,63v6m0,-3h6m0,-3v6M294,54h6m-3,0v24m-3,0h6M299,98v6m0,-3h6m0,-3v6M299,90h6m-3,0v22m-3,0h6M305,106v6m0,-3h6m0,-3v6M305,98h6m-3,0v22m-3,0h6M310,128v6m0,-3h6m0,-3v6M310,121h6m-3,0v21m-3,0h6M315,131v6m0,-3h6m0,-3v6M315,124h6m-3,0v21m-3,0h6M320,164v6m0,-3h6m0,-3v6M320,157h6m-3,0v20m-3,0h6M326,172v6m0,-3h6m0,-3v6M326,166h6m-3,0v19m-3,0h6M331,181v6m0,-3h6m0,-3v6M331,175h6m-3,0v18m-3,0h6M336,201v6m0,-3h6m0,-3v6M336,195h6m-3,0v18m-3,0h6M341,229v6m0,-3h6m0,-3v6M341,224h6m-3,0v16m-3,0h6M347,243v6m0,-3h6m0,-3v6M347,238h6m-3,0v16m-3,0h6M352,255v6m0,-3h6m0,-3v6M352,250h6m-3,0v15m-3,0h6M357,270v6m0,-3h6m0,-3v6M357,266h6m-3,0v14m-3,0h6M362,275v6m0,-3h6m0,-3v6M362,271h6m-3,0v14m-3,0h6M368,279v6m0,-3h6m0,-3v6M368,276h6m-3,0v13m-3,0h6M373,295v6m0,-3h6m0,-3v6M373,292h6m-3,0v12m-3,0h6M378,310v6m0,-3h6m0,-3v6M378,307h6m-3,0v12m-3,0h6M383,331v6m0,-3h6m0,-3v6M383,330h6m-3,0v9m-3,0h6M389,330v6m0,-3h6m0,-3v6M389,328h6m-3,0v9m-3,0h6M394,342v6m0,-3h6m0,-3v6M394,341h6m-3,0v8m-3,0h6M399,347v6m0,-3h6m0,-3v6M399,347h6m-3,0v7m-3,0h6M404,352v6m0,-3h6m0,-3v6M404,352h6m-3,0v7m-3,0h6M410,358v6m0,-3h6m0,-3v6M410,358h6m-3,0v6m-3,0h6M415,363v6m0,-3h6m0,-3v6M415,363h6m-3,0v6m-3,0h6M420,367v6m0,-3h6m0,-3v6M420,368h6m-3,0v5m-3,0h6M425,366v6m0,-3h6m0,-3v6M425,367h6m-3,0v5m-3,0h6M431,371v6m0,-3h6m0,-3v6M431,371h6m-3,0v5m-3,0h6M436,371v6m0,-3h6m0,-3v6M436,372h6m-3,0v4m-3,0h6M441,375v6m0,-3h6m0,-3v6M441,376h6m-3,0v4m-3,0h6M446,378v6m0,-3h6m0,-3v6M446,379h6m-3,0v3m-3,0h6M452,377v6m0,-3h6m0,-3v6M452,378h6m-3,0v3m-3,0h6M457,379v6m0,-3h6m0,-3v6M457,380h6m-3,0v3m-3,0h6M462,380v6m0,-3h6m0,-3v6M462,382h6m-3,0v2m-3,0h6M467,380v6m0,-3h6m0,-3v6M467,382h6m-3,0v2m-3,0h6M473,380v6m0,-3h6m0,-3v6M473,382h6m-3,0v2m-3,0h6M478,379v6m0,-3h6m0,-3v6M478,381h6m-3,0v2m-3,0h6M483,380v6m0,-3h6m0,-3v6M483,382h6m-3,0v2m-3,0h6M488,382v6m0,-3h6m0,-3v6M488,384h6m-3,0v1m-3,0h6M499,381v6m0,-3h6m0,-3v6M499,384h6m-3,0v1m-3,0h6M504,381v6m0,-3h6m0,-3v6M504,383h6m-3,0v1m-3,0h6M509,382v6m0,-3h6m0,-3v6M509,384h6m-3,0v1m-3,0h6" style="stroke: #00009a; stroke-width: 1;"></path>
+       <path d="M0,382v6m0,-3h6m0,-3v6M0,384h6m-3,0v1m-3,0h6M5,382v6m0,-3h6m0,-3v6M5,384h6m-3,0v1m-3,0h6M11,382v6m0,-3h6m0,-3v6M11,384h6m-3,0v1m-3,0h6M16,382v6m0,-3h6m0,-3v6M16,384h6m-3,0v1m-3,0h6M26,382v6m0,-3h6m0,-3v6M26,384h6m-3,0v1m-3,0h6M32,381v6m0,-3h6m0,-3v6M32,384h6m-3,0v1m-3,0h6M37,380v6m0,-3h6m0,-3v6M37,382h6m-3,0v2m-3,0h6M42,380v6m0,-3h6m0,-3v6M42,382h6m-3,0v2m-3,0h6M47,380v6m0,-3h6m0,-3v6M47,382h6m-3,0v2m-3,0h6M52,381v6m0,-3h6m0,-3v6M52,384h6m-3,0v1m-3,0h6M58,379v6m0,-3h6m0,-3v6M58,381h6m-3,0v2m-3,0h6M63,378v6m0,-3h6m0,-3v6M63,379h6m-3,0v3m-3,0h6M68,379v6m0,-3h6m0,-3v6M68,380h6m-3,0v3m-3,0h6M74,377v6m0,-3h6m0,-3v6M74,378h6m-3,0v3m-3,0h6M79,373v6m0,-3h6m0,-3v6M79,374h6m-3,0v4m-3,0h6M84,372v6m0,-3h6m0,-3v6M84,373h6m-3,0v4m-3,0h6M89,370v6m0,-3h6m0,-3v6M89,371h6m-3,0v4m-3,0h6M95,367v6m0,-3h6m0,-3v6M95,367h6m-3,0v5m-3,0h6M100,362v6m0,-3h6m0,-3v6M100,362h6m-3,0v6m-3,0h6M105,358v6m0,-3h6m0,-3v6M105,358h6m-3,0v6m-3,0h6M110,358v6m0,-3h6m0,-3v6M110,358h6m-3,0v7m-3,0h6M115,354v6m0,-3h6m0,-3v6M115,354h6m-3,0v7m-3,0h6M121,342v6m0,-3h6m0,-3v6M121,341h6m-3,0v8m-3,0h6M126,334v6m0,-3h6m0,-3v6M126,332h6m-3,0v10m-3,0h6M131,328v6m0,-3h6m0,-3v6M131,326h6m-3,0v10m-3,0h6M137,320v6m0,-3h6m0,-3v6M137,318h6m-3,0v11m-3,0h6M142,320v6m0,-3h6m0,-3v6M142,317h6m-3,0v11m-3,0h6M147,308v6m0,-3h6m0,-3v6M147,305h6m-3,0v11m-3,0h6M152,294v6m0,-3h6m0,-3v6M152,291h6m-3,0v12m-3,0h6M158,280v6m0,-3h6m0,-3v6M158,276h6m-3,0v13m-3,0h6M163,271v6m0,-3h6m0,-3v6M163,267h6m-3,0v14m-3,0h6M168,251v6m0,-3h6m0,-3v6M168,246h6m-3,0v15m-3,0h6M173,223v6m0,-3h6m0,-3v6M173,217h6m-3,0v17m-3,0h6M179,220v6m0,-3h6m0,-3v6M179,215h6m-3,0v16m-3,0h6M184,206v6m0,-3h6m0,-3v6M184,201h6m-3,0v17m-3,0h6M189,173v6m0,-3h6m0,-3v6M189,167h6m-3,0v19m-3,0h6M194,173v6m0,-3h6m0,-3v6M194,167h6m-3,0v19m-3,0h6M200,151v6m0,-3h6m0,-3v6M200,144h6m-3,0v20m-3,0h6M205,123v6m0,-3h6m0,-3v6M205,116h6m-3,0v21m-3,0h6M210,114v6m0,-3h6m0,-3v6M210,106h6m-3,0v22m-3,0h6M215,113v6m0,-3h6m0,-3v6M215,105h6m-3,0v22m-3,0h6M221,113v6m0,-3h6m0,-3v6M221,106h6m-3,0v21m-3,0h6M226,81v6m0,-3h6m0,-3v6M226,73h6m-3,0v23m-3,0h6M231,64v6m0,-3h6m0,-3v6M231,55h6m-3,0v24m-3,0h6M236,57v6m0,-3h6m0,-3v6M236,49h6m-3,0v23m-3,0h6M242,53v6m0,-3h6m0,-3v6M242,44h6m-3,0v24m-3,0h6M247,30v6m0,-3h6m0,-3v6M247,21h6m-3,0v24m-3,0h6M252,48v6m0,-3h6m0,-3v6M252,39h6m-3,0v24m-3,0h6M257,28v6m0,-3h6m0,-3v6M257,18h6m-3,0v25m-3,0h6M263,34v6m0,-3h6m0,-3v6M263,25h6m-3,0v25m-3,0h6M268,33v6m0,-3h6m0,-3v6M268,23h6m-3,0v25m-3,0h6M273,42v6m0,-3h6m0,-3v6M273,33h6m-3,0v24m-3,0h6M278,29v6m0,-3h6m0,-3v6M278,19h6m-3,0v25m-3,0h6M284,64v6m0,-3h6m0,-3v6M284,56h6m-3,0v23m-3,0h6M289,62v6m0,-3h6m0,-3v6M289,53h6m-3,0v24m-3,0h6M294,63v6m0,-3h6m0,-3v6M294,54h6m-3,0v24m-3,0h6M299,98v6m0,-3h6m0,-3v6M299,90h6m-3,0v22m-3,0h6M305,106v6m0,-3h6m0,-3v6M305,98h6m-3,0v22m-3,0h6M310,128v6m0,-3h6m0,-3v6M310,121h6m-3,0v21m-3,0h6M315,131v6m0,-3h6m0,-3v6M315,124h6m-3,0v21m-3,0h6M320,164v6m0,-3h6m0,-3v6M320,157h6m-3,0v20m-3,0h6M326,172v6m0,-3h6m0,-3v6M326,166h6m-3,0v19m-3,0h6M331,181v6m0,-3h6m0,-3v6M331,175h6m-3,0v18m-3,0h6M336,201v6m0,-3h6m0,-3v6M336,195h6m-3,0v18m-3,0h6M341,229v6m0,-3h6m0,-3v6M341,224h6m-3,0v16m-3,0h6M347,243v6m0,-3h6m0,-3v6M347,238h6m-3,0v16m-3,0h6M352,255v6m0,-3h6m0,-3v6M352,250h6m-3,0v15m-3,0h6M357,270v6m0,-3h6m0,-3v6M357,266h6m-3,0v14m-3,0h6M362,275v6m0,-3h6m0,-3v6M362,271h6m-3,0v14m-3,0h6M368,279v6m0,-3h6m0,-3v6M368,276h6m-3,0v13m-3,0h6M373,295v6m0,-3h6m0,-3v6M373,292h6m-3,0v12m-3,0h6M378,310v6m0,-3h6m0,-3v6M378,307h6m-3,0v12m-3,0h6M383,331v6m0,-3h6m0,-3v6M383,330h6m-3,0v9m-3,0h6M389,330v6m0,-3h6m0,-3v6M389,328h6m-3,0v9m-3,0h6M394,342v6m0,-3h6m0,-3v6M394,341h6m-3,0v8m-3,0h6M399,347v6m0,-3h6m0,-3v6M399,347h6m-3,0v7m-3,0h6M404,352v6m0,-3h6m0,-3v6M404,352h6m-3,0v7m-3,0h6M410,358v6m0,-3h6m0,-3v6M410,358h6m-3,0v6m-3,0h6M415,363v6m0,-3h6m0,-3v6M415,363h6m-3,0v6m-3,0h6M420,367v6m0,-3h6m0,-3v6M420,368h6m-3,0v5m-3,0h6M425,366v6m0,-3h6m0,-3v6M425,367h6m-3,0v5m-3,0h6M431,371v6m0,-3h6m0,-3v6M431,371h6m-3,0v5m-3,0h6M436,371v6m0,-3h6m0,-3v6M436,372h6m-3,0v4m-3,0h6M441,375v6m0,-3h6m0,-3v6M441,376h6m-3,0v4m-3,0h6M446,378v6m0,-3h6m0,-3v6M446,379h6m-3,0v3m-3,0h6M452,377v6m0,-3h6m0,-3v6M452,378h6m-3,0v3m-3,0h6M457,379v6m0,-3h6m0,-3v6M457,380h6m-3,0v3m-3,0h6M462,380v6m0,-3h6m0,-3v6M462,382h6m-3,0v2m-3,0h6M467,380v6m0,-3h6m0,-3v6M467,382h6m-3,0v2m-3,0h6M473,380v6m0,-3h6m0,-3v6M473,382h6m-3,0v2m-3,0h6M478,379v6m0,-3h6m0,-3v6M478,381h6m-3,0v2m-3,0h6M483,380v6m0,-3h6m0,-3v6M483,382h6m-3,0v2m-3,0h6M488,382v6m0,-3h6m0,-3v6M488,384h6m-3,0v1m-3,0h6M499,381v6m0,-3h6m0,-3v6M499,384h6m-3,0v1m-3,0h6M504,381v6m0,-3h6m0,-3v6M504,383h6m-3,0v1m-3,0h6M509,382v6m0,-3h6m0,-3v6M509,384h6m-3,0v1m-3,0h6" style="stroke: rgb(0, 0, 154); stroke-width: 1;"></path>
        <path d="M-1,381v8h8v-8zM4,381v8h8v-8zM10,381v8h8v-8zM15,381v8h8v-8zM25,381v8h8v-8zM31,380v8h8v-8zM36,379v8h8v-8zM41,379v8h8v-8zM46,379v8h8v-8zM51,380v8h8v-8zM57,378v8h8v-8zM62,377v8h8v-8zM67,378v8h8v-8zM73,376v8h8v-8zM78,372v8h8v-8zM83,371v8h8v-8zM88,369v8h8v-8zM94,366v8h8v-8zM99,361v8h8v-8zM104,357v8h8v-8zM109,357v8h8v-8zM114,353v8h8v-8zM120,341v8h8v-8zM125,333v8h8v-8zM130,327v8h8v-8zM136,319v8h8v-8zM141,319v8h8v-8zM146,307v8h8v-8zM151,293v8h8v-8zM157,279v8h8v-8zM162,270v8h8v-8zM167,250v8h8v-8zM172,222v8h8v-8zM178,219v8h8v-8zM183,205v8h8v-8zM188,172v8h8v-8zM193,172v8h8v-8zM199,150v8h8v-8zM204,122v8h8v-8zM209,113v8h8v-8zM214,112v8h8v-8zM220,112v8h8v-8zM225,80v8h8v-8zM230,63v8h8v-8zM235,56v8h8v-8zM241,52v8h8v-8zM246,29v8h8v-8zM251,47v8h8v-8zM256,27v8h8v-8zM262,33v8h8v-8zM267,32v8h8v-8zM272,41v8h8v-8zM277,28v8h8v-8zM283,63v8h8v-8zM288,61v8h8v-8zM293,62v8h8v-8zM298,97v8h8v-8zM304,105v8h8v-8zM309,127v8h8v-8zM314,130v8h8v-8zM319,163v8h8v-8zM325,171v8h8v-8zM330,180v8h8v-8zM335,200v8h8v-8zM340,228v8h8v-8zM346,242v8h8v-8zM351,254v8h8v-8zM356,269v8h8v-8zM361,274v8h8v-8zM367,278v8h8v-8zM372,294v8h8v-8zM377,309v8h8v-8zM382,330v8h8v-8zM388,329v8h8v-8zM393,341v8h8v-8zM398,346v8h8v-8zM403,351v8h8v-8zM409,357v8h8v-8zM414,362v8h8v-8zM419,366v8h8v-8zM424,365v8h8v-8zM430,370v8h8v-8zM435,370v8h8v-8zM440,374v8h8v-8zM445,377v8h8v-8zM451,376v8h8v-8zM456,378v8h8v-8zM461,379v8h8v-8zM466,379v8h8v-8zM472,379v8h8v-8zM477,378v8h8v-8zM482,379v8h8v-8zM487,381v8h8v-8zM498,380v8h8v-8zM503,380v8h8v-8zM508,381v8h8v-8z" style="stroke: black; fill: black;"></path>
       </g>
      </svg>
      <g>
       <g transform="translate(0,385)">
        <path d="M0,0h525M0,-12V0M13,-6V0M26,-6V0M39,-6V0M52,-6V0M66,-12V0M79,-6V0M92,-6V0M105,-6V0M118,-6V0M131,-12V0M144,-6V0M158,-6V0M171,-6V0M184,-6V0M197,-12V0M210,-6V0M223,-6V0M236,-6V0M249,-6V0M263,-12V0M276,-6V0M289,-6V0M302,-6V0M315,-6V0M328,-12V0M341,-6V0M354,-6V0M368,-6V0M381,-6V0M394,-12V0M407,-6V0M420,-6V0M433,-6V0M446,-6V0M459,-12V0M473,-6V0M486,-6V0M499,-6V0M512,-6V0M525,-12V0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="17" space="preserve" fill="black" text-anchor="middle">
-        <text dy=".8em" transform="translate(0,3)">
-         -4
-        </text>
-        <text dy=".8em" transform="translate(66,3)">
-         -3
-        </text>
-        <text dy=".8em" transform="translate(131,3)">
-         -2
-        </text>
-        <text dy=".8em" transform="translate(197,3)">
-         -1
-        </text>
-        <text dy=".8em" transform="translate(263,3)">
-         0
-        </text>
-        <text dy=".8em" transform="translate(328,3)">
-         1
-        </text>
-        <text dy=".8em" transform="translate(394,3)">
-         2
-        </text>
-        <text dy=".8em" transform="translate(459,3)">
-         3
-        </text>
-        <text dy=".8em" transform="translate(525,3)">
-         4
-        </text>
-       </g>
+       <g font-family="Arial" font-size="17" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,3)">-4</text><text dy=".8em" transform="translate(66,3)">-3</text><text dy=".8em" transform="translate(131,3)">-2</text><text dy=".8em" transform="translate(197,3)">-1</text><text dy=".8em" transform="translate(263,3)">0</text><text dy=".8em" transform="translate(328,3)">1</text><text dy=".8em" transform="translate(394,3)">2</text><text dy=".8em" transform="translate(459,3)">3</text><text dy=".8em" transform="translate(525,3)">4</text></g>
       </g>
       <g>
        <path d="M0,0v385M16,385H0M8,376H0M8,368H0M8,359H0M8,350H0M16,341H0M8,333H0M8,324H0M8,315H0M8,306H0M16,298H0M8,289H0M8,280H0M8,271H0M8,263H0M16,254H0M8,245H0M8,236H0M8,228H0M8,219H0M16,210H0M8,202H0M8,193H0M8,184H0M8,175H0M16,167H0M8,158H0M8,149H0M8,140H0M8,132H0M16,123H0M8,114H0M8,105H0M8,97H0M8,88H0M16,79H0M8,71H0M8,62H0M8,53H0M8,44H0M16,36H0M8,27H0M8,18H0M8,9H0M8,1H0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="17" space="preserve" fill="black" text-anchor="end">
-        <text dy=".4em" transform="translate(-3,385)">
-         0
-        </text>
-        <text dy=".4em" transform="translate(-3,341)">
-         100
-        </text>
-        <text dy=".4em" transform="translate(-3,298)">
-         200
-        </text>
-        <text dy=".4em" transform="translate(-3,254)">
-         300
-        </text>
-        <text dy=".4em" transform="translate(-3,210)">
-         400
-        </text>
-        <text dy=".4em" transform="translate(-3,167)">
-         500
-        </text>
-        <text dy=".4em" transform="translate(-3,123)">
-         600
-        </text>
-        <text dy=".4em" transform="translate(-3,79)">
-         700
-        </text>
-        <text dy=".4em" transform="translate(-3,36)">
-         800
-        </text>
-       </g>
+       <g font-family="Arial" font-size="17" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-3,385)">0</text><text dominant-baseline="middle" transform="translate(-3,341)">100</text><text dominant-baseline="middle" transform="translate(-3,298)">200</text><text dominant-baseline="middle" transform="translate(-3,254)">300</text><text dominant-baseline="middle" transform="translate(-3,210)">400</text><text dominant-baseline="middle" transform="translate(-3,167)">500</text><text dominant-baseline="middle" transform="translate(-3,123)">600</text><text dominant-baseline="middle" transform="translate(-3,79)">700</text><text dominant-baseline="middle" transform="translate(-3,36)">800</text></g>
       </g>
-      <path d="M0,0v385M66,0v385M131,0v385M197,0v385M263,0v385M328,0v385M394,0v385M459,0v385M525,0v385" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-      <path d="M0,385h525M0,341h525M0,298h525M0,254h525M0,210h525M0,167h525M0,123h525M0,79h525M0,36h525" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+      <path d="M0,0v385M66,0v385M131,0v385M197,0v385M263,0v385M328,0v385M394,0v385M459,0v385M525,0v385" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
+      <path d="M0,385h525M0,341h525M0,298h525M0,254h525M0,210h525M0,167h525M0,123h525M0,79h525M0,36h525" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
      </g>
     </g>
-    <g transform="translate(512,31)" font-family="Arial" font-size="12" space="preserve" fill="black">
-     <path d="M0,0H131V77H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text text-anchor="middle" dy=".4em" transform="translate(66,10)">
-      hpx
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(7,29)">
-      Entries
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(124,29)">
-      25000
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(7,48)">
-      Mean
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(124,48)">
-      -0.004011
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(7,67)">
-      Std Dev
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(124,67)">
-      0.9978
-     </text>
-     <path d="M0,19h131" style="stroke: black; stroke-width: 1;"></path>
-    </g>
-    <g transform="translate(459,149)" font-family="Arial" font-size="15" space="preserve" font-weight="bold">
-     <path d="M98,3h3v22h-98v-3h95z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-     <path d="M0,0H98V22H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(49,11)">
-      option e1p
-     </text>
-    </g>
-    <g transform="translate(80,105)" font-family="Arial" font-size="8" space="preserve" font-weight="bold" fill="black" text-anchor="middle">
-     <path d="M169,4h4v109h-169v-4h165z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-     <path d="M0,0H169V109H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="24" space="preserve" font-weight="bold">
-      <text fill="blue" text-anchor="middle" dy=".4em" transform="translate(85,14)">
-       You can move
-      </text>
-     </g>
-     <text dy=".4em" transform="translate(85,41)">
-      Title and Stats pads
-     </text>
-     <text dy=".4em" transform="translate(85,68)">
-      X and Y axis
-     </text>
-     <text dy=".4em" transform="translate(85,95)">
-      You can modify bin contents
-     </text>
-    </g>
-    <g transform="translate(170,2)" font-family="Arial" font-size="17" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(158,15)">
-      This is the px distribution
-     </text>
-    </g>
+    <g transform="translate(512,31)" font-family="Arial" font-size="16" xml:space="preserve" fill="black"><path d="M0,0H131V77H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(66,10)">hpx</text><text text-anchor="start" dominant-baseline="middle" transform="translate(7,29)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(124,29)">25000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(7,48)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(124,48)">-0.004011</text><text text-anchor="start" dominant-baseline="middle" transform="translate(7,67)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(124,67)">0.9978</text><path d="M0,19h131" style="stroke: black; stroke-width: 1;"></path></g>
+    <g transform="translate(459,149)" font-family="Arial" font-size="18" xml:space="preserve" font-weight="bold"><path d="M98,3h3v22h-98v-3h95z" style="fill: black; stroke: black; stroke-width: 1px;"></path><path d="M0,0H98V22H0Z" style="fill: rgb(243, 243, 243); stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(49,11)">option e1p</text></g>
+    <g transform="translate(80,105)" font-family="Arial" font-size="10" xml:space="preserve" font-weight="bold" fill="black" text-anchor="middle"><path d="M169,4h4v109h-169v-4h165z" style="fill: black; stroke: black; stroke-width: 1px;"></path><path d="M0,0H169V109H0Z" style="fill: rgb(243, 243, 243); stroke: black; stroke-width: 1;"></path><g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold"><text fill="blue" text-anchor="middle" dominant-baseline="middle" transform="translate(85,14)">You can move</text></g><text dominant-baseline="middle" transform="translate(85,41)">Title and Stats pads</text><text dominant-baseline="middle" transform="translate(85,68)">X and Y axis</text><text dominant-baseline="middle" transform="translate(85,95)">You can modify bin contents</text></g>
+    <g transform="translate(170,2)" font-family="Arial" font-size="23" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(158,15)">This is the px distribution</text></g>
    </g>
   </svg>
-  <g transform="translate(70,17)" font-family="Arial" font-size="19" space="preserve" font-style="oblique">
-   <path d="M558,3h3v35h-558v-3h555z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0H558V35H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
-   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(279,18)">
-    Drawing options for one dimensional histograms
-   </text>
-  </g>
+  <g transform="translate(70,17)" font-family="Arial" font-size="24" xml:space="preserve" font-style="oblique"><path d="M558,3h3v35h-558v-3h555z" style="fill: black; stroke: black; stroke-width: 1px;"></path><path d="M0,0H558V35H0Z" style="fill: rgb(243, 243, 243); stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(279,18)">Drawing options for one dimensional histograms</text></g>
  </g>
 </svg>
