@@ -231,7 +231,7 @@ function produceFile(content, extension, subid) {
 }
 
 async function processURL(url) {
-   url = server_path + '?batch&canvsize=1200x800&' + url;
+   url = server_path + '?batch&canvsize=1200x800&approx_text_size&' + url;
 
    console.log('url', url);
 
