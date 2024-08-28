@@ -40,7 +40,7 @@ let init_style = null, init_curve = false, init_palette = 57, init_TimeZone = ''
     theOnlyOption, theOnlyOptionId = -100, itemid = -1,
     entry, entry_name = '', lastitemname = '', testfile = null, testobj = null,
     last_time = new Date().getTime(),
-    test_interactive = false;
+    test_interactive = false, show_debug = false;
 
 const all_diffs = [], all_special = [];
 
@@ -95,6 +95,10 @@ if (process.argv && (process.argv.length > 2)) {
          case '-p':
          case '--print':
             printdiff = true;
+            break;
+         case '-d':
+         case '--debug':
+            show_debug = true;
             break;
          case '-ni':
          case '--not-interactive':
@@ -408,6 +412,9 @@ function processNextOption(reset_mathjax) {
 
 
    let filename = '', itemname = '', jsonname = '', url = '', opt = '', opt2 = '';
+
+   if (show_debug)
+      console.log('id', optid, 'entry', JSON.stringify(entry));
 
    if (entry.file) {
        filename = entry.file;
