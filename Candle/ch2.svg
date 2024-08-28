@@ -5,120 +5,24 @@
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
-     <path d="M444,611h-96v10h96zM615,595h-117v10h117zM640,579h-280v10h280zM493,563h-115v10h115zM518,547h-143v10h143zM614,531h-225v10h225zM554,515h-173v10h173zM549,499h-140v10h140zM549,483h-152v10h152zM575,467h-165v10h165zM559,451h-162v10h162zM550,435h-153v10h153zM564,419h-165v10h165zM557,403h-166v10h166zM564,387h-161v10h161zM564,371h-174v10h174zM566,355h-168v10h168zM561,339h-163v10h163zM567,323h-165v10h165zM562,307h-157v10h157zM556,291h-156v10h156zM564,275h-161v10h161zM553,259h-155v10h155zM565,243h-167v10h167zM571,227h-177v10h177zM565,211h-170v10h170zM565,195h-162v10h162zM565,179h-165v10h165zM562,163h-153v10h153zM579,147h-177v10h177zM563,131h-161v10h161zM572,115h-175v10h175zM582,99h-187v10h187zM555,83h-225v10h225zM521,67h-131v10h131zM516,51h-120v10h120zM525,35h-111v10h111zM210,19h-12v10h12zM282,3h-12v10h12z" style="stroke: #00009a; stroke-width: 1; fill: none;"></path>
-     <path d="M396,611v10M456,611v10M336,611v10M444,616h12M348,616h-12M606,595v10M624,595v10M480,595v10M615,600h9M498,600h-18M492,579v10M768,579v10M264,579v10M640,584h128M360,584h-96M425,563v10M624,563v10M312,563v10M493,568h131M378,568h-66M444,547v10M648,547v10M192,547v10M518,552h130M375,552h-183M492,531v10M888,531v10M168,531v10M614,536h274M389,536h-221M474,515v10M744,515v10M144,515v10M554,520h190M381,520h-237M482,499v10M768,499v10M216,499v10M549,504h219M409,504h-193M469,483v10M816,483v10M192,483v10M549,488h267M397,488h-205M494,467v10M864,467v10M168,467v10M575,472h289M410,472h-242M477,451v10M840,451v10M144,451v10M559,456h281M397,456h-253M472,435v10M816,435v10M144,435v10M550,440h266M397,440h-253M478,419v10M792,419v10M144,419v10M564,424h228M399,424h-255M475,403v10M840,403v10M120,403v10M557,408h283M391,408h-271M482,387v10M840,387v10M168,387v10M564,392h276M403,392h-235M481,371v10M864,371v10M144,371v10M564,376h300M390,376h-246M481,355v10M864,355v10M144,355v10M566,360h298M398,360h-254M479,339v10M840,339v10M144,339v10M561,344h279M398,344h-254M486,323v10M840,323v10M144,323v10M567,328h273M402,328h-258M484,307v10M840,307v10M168,307v10M562,312h278M405,312h-237M480,291v10M816,291v10M144,291v10M556,296h260M400,296h-256M482,275v10M840,275v10M144,275v10M564,280h276M403,280h-259M474,259v10M816,259v10M144,259v10M553,264h263M398,264h-254M481,243v10M840,243v10M144,243v10M565,248h275M398,248h-254M482,227v10M864,227v10M120,227v10M571,232h293M394,232h-274M477,211v10M864,211v10M168,211v10M565,216h299M395,216h-227M484,195v10M816,195v10M144,195v10M565,200h251M403,200h-259M488,179v10M768,179v10M168,179v10M565,184h203M400,184h-232M480,163v10M816,163v10M216,163v10M562,168h254M409,168h-193M492,147v10M816,147v10M168,147v10M579,152h237M402,152h-234M474,131v10M816,131v10M144,131v10M563,136h253M402,136h-258M492,115v10M816,115v10M168,115v10M572,120h244M397,120h-229M468,99v10M864,99v10M144,99v10M582,104h282M395,104h-251M450,83v10M696,83v10M216,83v10M555,88h141M330,88h-114M486,67v10M696,67v10M288,67v10M521,72h175M390,72h-102M432,51v10M672,51v10M360,51v10M516,56h156M396,56h-36M510,35v10M552,35v10M336,35v10M525,40h27M414,40h-78M204,19v10M216,19v10M192,19v10M210,24h6M198,24h-6M276,3v10M288,3v10M264,3v10M282,8h6M270,8h-6" style="stroke: #00009a; stroke-width: 1; fill: none;"></path>
-     <path d="M396,611v10M572,595v10M497,579v10M435,563v10M443,547v10M494,531v10M467,515v10M475,499v10M474,483v10M493,467v10M477,451v10M475,435v10M479,419v10M475,403v10M482,387v10M478,371v10M482,355v10M479,339v10M484,323v10M484,307v10M479,291v10M481,275v10M477,259v10M481,243v10M481,227v10M478,211v10M483,195v10M481,179v10M487,163v10M491,147v10M483,131v10M495,115v10M473,99v10M455,83v10M468,67v10M484,51v10M468,35v10M204,19v10M276,3v10" style="stroke: #00009a; stroke-width: 1; stroke-dasharray: 3,3; fill: none;"></path>
-     <path d="M176,564l8,8m0,-8l-8,8M152,500l8,8m0,-8l-8,8M80,468l8,8m0,-8l-8,8M128,452l8,8m0,-8l-8,8M842,452l8,8m0,-8l-8,8M849,452l8,8m0,-8l-8,8M98,436l8,8m0,-8l-8,8M105,436l8,8m0,-8l-8,8M124,436l8,8m0,-8l-8,8M131,436l8,8m0,-8l-8,8M824,436l8,8m0,-8l-8,8M872,436l8,8m0,-8l-8,8M122,420l8,8m0,-8l-8,8M129,420l8,8m0,-8l-8,8M124,420l8,8m0,-8l-8,8M848,420l8,8m0,-8l-8,8M80,404l8,8m0,-8l-8,8M104,404l8,8m0,-8l-8,8M56,388l8,8m0,-8l-8,8M104,388l8,8m0,-8l-8,8M128,388l8,8m0,-8l-8,8M848,388l8,8m0,-8l-8,8M872,388l8,8m0,-8l-8,8M80,372l8,8m0,-8l-8,8M104,372l8,8m0,-8l-8,8M872,372l8,8m0,-8l-8,8M8,356l8,8m0,-8l-8,8M74,356l8,8m0,-8l-8,8M81,356l8,8m0,-8l-8,8M100,356l8,8m0,-8l-8,8M107,356l8,8m0,-8l-8,8M94,356l8,8m0,-8l-8,8M109,356l8,8m0,-8l-8,8M134,356l8,8m0,-8l-8,8M128,356l8,8m0,-8l-8,8M872,356l8,8m0,-8l-8,8M944,356l8,8m0,-8l-8,8M80,340l8,8m0,-8l-8,8M98,340l8,8m0,-8l-8,8M105,340l8,8m0,-8l-8,8M100,340l8,8m0,-8l-8,8M131,340l8,8m0,-8l-8,8M118,340l8,8m0,-8l-8,8M133,340l8,8m0,-8l-8,8M134,340l8,8m0,-8l-8,8M848,340l8,8m0,-8l-8,8M837,340l8,8m0,-8l-8,8M872,340l8,8m0,-8l-8,8M905,340l8,8m0,-8l-8,8M907,340l8,8m0,-8l-8,8M104,324l8,8m0,-8l-8,8M122,324l8,8m0,-8l-8,8M129,324l8,8m0,-8l-8,8M124,324l8,8m0,-8l-8,8M851,324l8,8m0,-8l-8,8M838,324l8,8m0,-8l-8,8M104,308l8,8m0,-8l-8,8M122,308l8,8m0,-8l-8,8M129,308l8,8m0,-8l-8,8M148,308l8,8m0,-8l-8,8M155,308l8,8m0,-8l-8,8M142,308l8,8m0,-8l-8,8M74,292l8,8m0,-8l-8,8M81,292l8,8m0,-8l-8,8M76,292l8,8m0,-8l-8,8M104,292l8,8m0,-8l-8,8M131,292l8,8m0,-8l-8,8M118,292l8,8m0,-8l-8,8M829,292l8,8m0,-8l-8,8M830,292l8,8m0,-8l-8,8M872,292l8,8m0,-8l-8,8M32,276l8,8m0,-8l-8,8M56,276l8,8m0,-8l-8,8M98,276l8,8m0,-8l-8,8M105,276l8,8m0,-8l-8,8M100,276l8,8m0,-8l-8,8M128,276l8,8m0,-8l-8,8M104,260l8,8m0,-8l-8,8M122,260l8,8m0,-8l-8,8M129,260l8,8m0,-8l-8,8M820,260l8,8m0,-8l-8,8M827,260l8,8m0,-8l-8,8M814,260l8,8m0,-8l-8,8M853,260l8,8m0,-8l-8,8M854,260l8,8m0,-8l-8,8M872,260l8,8m0,-8l-8,8M896,260l8,8m0,-8l-8,8M122,244l8,8m0,-8l-8,8M129,244l8,8m0,-8l-8,8M872,244l8,8m0,-8l-8,8M104,196l8,8m0,-8l-8,8M104,180l8,8m0,-8l-8,8M128,180l8,8m0,-8l-8,8M818,164l8,8m0,-8l-8,8M825,164l8,8m0,-8l-8,8M800,52l8,8m0,-8l-8,8" style="stroke: #00009a; fill: none;"></path>
+     <path d="M444,611h-96v10h96zM615,595h-117v10h117zM640,579h-280v10h280zM493,563h-115v10h115zM518,547h-143v10h143zM614,531h-225v10h225zM554,515h-173v10h173zM549,499h-140v10h140zM549,483h-152v10h152zM575,467h-165v10h165zM559,451h-162v10h162zM550,435h-153v10h153zM564,419h-165v10h165zM557,403h-166v10h166zM564,387h-161v10h161zM564,371h-174v10h174zM566,355h-168v10h168zM561,339h-163v10h163zM567,323h-165v10h165zM562,307h-157v10h157zM556,291h-156v10h156zM564,275h-161v10h161zM553,259h-155v10h155zM565,243h-167v10h167zM571,227h-177v10h177zM565,211h-170v10h170zM565,195h-162v10h162zM565,179h-165v10h165zM562,163h-153v10h153zM579,147h-177v10h177zM563,131h-161v10h161zM572,115h-175v10h175zM582,99h-187v10h187zM555,83h-225v10h225zM521,67h-131v10h131zM516,51h-120v10h120zM525,35h-111v10h111zM210,19h-12v10h12zM282,3h-12v10h12z" style="stroke: rgb(0, 0, 154); stroke-width: 1; fill: none;"></path>
+     <path d="M396,611v10M456,611v10M336,611v10M444,616h12M348,616h-12M606,595v10M624,595v10M480,595v10M615,600h9M498,600h-18M492,579v10M768,579v10M264,579v10M640,584h128M360,584h-96M425,563v10M624,563v10M312,563v10M493,568h131M378,568h-66M444,547v10M648,547v10M192,547v10M518,552h130M375,552h-183M492,531v10M888,531v10M168,531v10M614,536h274M389,536h-221M474,515v10M744,515v10M144,515v10M554,520h190M381,520h-237M482,499v10M768,499v10M216,499v10M549,504h219M409,504h-193M469,483v10M816,483v10M192,483v10M549,488h267M397,488h-205M494,467v10M864,467v10M168,467v10M575,472h289M410,472h-242M477,451v10M840,451v10M144,451v10M559,456h281M397,456h-253M472,435v10M816,435v10M144,435v10M550,440h266M397,440h-253M478,419v10M792,419v10M144,419v10M564,424h228M399,424h-255M475,403v10M840,403v10M120,403v10M557,408h283M391,408h-271M482,387v10M840,387v10M168,387v10M564,392h276M403,392h-235M481,371v10M864,371v10M144,371v10M564,376h300M390,376h-246M481,355v10M864,355v10M144,355v10M566,360h298M398,360h-254M479,339v10M840,339v10M144,339v10M561,344h279M398,344h-254M486,323v10M840,323v10M144,323v10M567,328h273M402,328h-258M484,307v10M840,307v10M168,307v10M562,312h278M405,312h-237M480,291v10M816,291v10M144,291v10M556,296h260M400,296h-256M482,275v10M840,275v10M144,275v10M564,280h276M403,280h-259M474,259v10M816,259v10M144,259v10M553,264h263M398,264h-254M481,243v10M840,243v10M144,243v10M565,248h275M398,248h-254M482,227v10M864,227v10M120,227v10M571,232h293M394,232h-274M477,211v10M864,211v10M168,211v10M565,216h299M395,216h-227M484,195v10M816,195v10M144,195v10M565,200h251M403,200h-259M488,179v10M768,179v10M168,179v10M565,184h203M400,184h-232M480,163v10M816,163v10M216,163v10M562,168h254M409,168h-193M492,147v10M816,147v10M168,147v10M579,152h237M402,152h-234M474,131v10M816,131v10M144,131v10M563,136h253M402,136h-258M492,115v10M816,115v10M168,115v10M572,120h244M397,120h-229M468,99v10M864,99v10M144,99v10M582,104h282M395,104h-251M450,83v10M696,83v10M216,83v10M555,88h141M330,88h-114M486,67v10M696,67v10M288,67v10M521,72h175M390,72h-102M432,51v10M672,51v10M360,51v10M516,56h156M396,56h-36M510,35v10M552,35v10M336,35v10M525,40h27M414,40h-78M204,19v10M216,19v10M192,19v10M210,24h6M198,24h-6M276,3v10M288,3v10M264,3v10M282,8h6M270,8h-6" style="stroke: rgb(0, 0, 154); stroke-width: 1; fill: none;"></path>
+     <path d="M396,611v10M572,595v10M497,579v10M435,563v10M443,547v10M494,531v10M467,515v10M475,499v10M474,483v10M493,467v10M477,451v10M475,435v10M479,419v10M475,403v10M482,387v10M478,371v10M482,355v10M479,339v10M484,323v10M484,307v10M479,291v10M481,275v10M477,259v10M481,243v10M481,227v10M478,211v10M483,195v10M481,179v10M487,163v10M491,147v10M483,131v10M495,115v10M473,99v10M455,83v10M468,67v10M484,51v10M468,35v10M204,19v10M276,3v10" style="stroke: rgb(0, 0, 154); stroke-width: 1; stroke-dasharray: 3, 3; fill: none;"></path>
+     <path d="M176,564l8,8m0,-8l-8,8M152,500l8,8m0,-8l-8,8M80,468l8,8m0,-8l-8,8M128,452l8,8m0,-8l-8,8M842,452l8,8m0,-8l-8,8M849,452l8,8m0,-8l-8,8M98,436l8,8m0,-8l-8,8M105,436l8,8m0,-8l-8,8M124,436l8,8m0,-8l-8,8M131,436l8,8m0,-8l-8,8M824,436l8,8m0,-8l-8,8M872,436l8,8m0,-8l-8,8M122,420l8,8m0,-8l-8,8M129,420l8,8m0,-8l-8,8M124,420l8,8m0,-8l-8,8M848,420l8,8m0,-8l-8,8M80,404l8,8m0,-8l-8,8M104,404l8,8m0,-8l-8,8M56,388l8,8m0,-8l-8,8M104,388l8,8m0,-8l-8,8M128,388l8,8m0,-8l-8,8M848,388l8,8m0,-8l-8,8M872,388l8,8m0,-8l-8,8M80,372l8,8m0,-8l-8,8M104,372l8,8m0,-8l-8,8M872,372l8,8m0,-8l-8,8M8,356l8,8m0,-8l-8,8M74,356l8,8m0,-8l-8,8M81,356l8,8m0,-8l-8,8M100,356l8,8m0,-8l-8,8M107,356l8,8m0,-8l-8,8M94,356l8,8m0,-8l-8,8M109,356l8,8m0,-8l-8,8M134,356l8,8m0,-8l-8,8M128,356l8,8m0,-8l-8,8M872,356l8,8m0,-8l-8,8M944,356l8,8m0,-8l-8,8M80,340l8,8m0,-8l-8,8M98,340l8,8m0,-8l-8,8M105,340l8,8m0,-8l-8,8M100,340l8,8m0,-8l-8,8M131,340l8,8m0,-8l-8,8M118,340l8,8m0,-8l-8,8M133,340l8,8m0,-8l-8,8M134,340l8,8m0,-8l-8,8M848,340l8,8m0,-8l-8,8M837,340l8,8m0,-8l-8,8M872,340l8,8m0,-8l-8,8M905,340l8,8m0,-8l-8,8M907,340l8,8m0,-8l-8,8M104,324l8,8m0,-8l-8,8M122,324l8,8m0,-8l-8,8M129,324l8,8m0,-8l-8,8M124,324l8,8m0,-8l-8,8M851,324l8,8m0,-8l-8,8M838,324l8,8m0,-8l-8,8M104,308l8,8m0,-8l-8,8M122,308l8,8m0,-8l-8,8M129,308l8,8m0,-8l-8,8M148,308l8,8m0,-8l-8,8M155,308l8,8m0,-8l-8,8M142,308l8,8m0,-8l-8,8M74,292l8,8m0,-8l-8,8M81,292l8,8m0,-8l-8,8M76,292l8,8m0,-8l-8,8M104,292l8,8m0,-8l-8,8M131,292l8,8m0,-8l-8,8M118,292l8,8m0,-8l-8,8M829,292l8,8m0,-8l-8,8M830,292l8,8m0,-8l-8,8M872,292l8,8m0,-8l-8,8M32,276l8,8m0,-8l-8,8M56,276l8,8m0,-8l-8,8M98,276l8,8m0,-8l-8,8M105,276l8,8m0,-8l-8,8M100,276l8,8m0,-8l-8,8M128,276l8,8m0,-8l-8,8M104,260l8,8m0,-8l-8,8M122,260l8,8m0,-8l-8,8M129,260l8,8m0,-8l-8,8M820,260l8,8m0,-8l-8,8M827,260l8,8m0,-8l-8,8M814,260l8,8m0,-8l-8,8M853,260l8,8m0,-8l-8,8M854,260l8,8m0,-8l-8,8M872,260l8,8m0,-8l-8,8M896,260l8,8m0,-8l-8,8M122,244l8,8m0,-8l-8,8M129,244l8,8m0,-8l-8,8M872,244l8,8m0,-8l-8,8M104,196l8,8m0,-8l-8,8M104,180l8,8m0,-8l-8,8M128,180l8,8m0,-8l-8,8M818,164l8,8m0,-8l-8,8M825,164l8,8m0,-8l-8,8M800,52l8,8m0,-8l-8,8" style="stroke: rgb(0, 0, 154); fill: none;"></path>
     </g>
    </svg>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960M0,-19V0M24,-10V0M48,-10V0M72,-10V0M96,-10V0M120,-19V0M144,-10V0M168,-10V0M192,-10V0M216,-10V0M240,-19V0M264,-10V0M288,-10V0M312,-10V0M336,-10V0M360,-19V0M384,-10V0M408,-10V0M432,-10V0M456,-10V0M480,-19V0M504,-10V0M528,-10V0M552,-10V0M576,-10V0M600,-19V0M624,-10V0M648,-10V0M672,-10V0M696,-10V0M720,-19V0M744,-10V0M768,-10V0M792,-10V0M816,-10V0M840,-19V0M864,-10V0M888,-10V0M912,-10V0M936,-10V0M960,-19V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(0,5)">
-       -4
-      </text>
-      <text dy=".8em" transform="translate(120,5)">
-       -3
-      </text>
-      <text dy=".8em" transform="translate(240,5)">
-       -2
-      </text>
-      <text dy=".8em" transform="translate(360,5)">
-       -1
-      </text>
-      <text dy=".8em" transform="translate(480,5)">
-       0
-      </text>
-      <text dy=".8em" transform="translate(600,5)">
-       1
-      </text>
-      <text dy=".8em" transform="translate(720,5)">
-       2
-      </text>
-      <text dy=".8em" transform="translate(840,5)">
-       3
-      </text>
-      <text dy=".8em" transform="translate(960,5)">
-       4
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,5)">-4</text><text dy=".8em" transform="translate(120,5)">-3</text><text dy=".8em" transform="translate(240,5)">-2</text><text dy=".8em" transform="translate(360,5)">-1</text><text dy=".8em" transform="translate(480,5)">0</text><text dy=".8em" transform="translate(600,5)">1</text><text dy=".8em" transform="translate(720,5)">2</text><text dy=".8em" transform="translate(840,5)">3</text><text dy=".8em" transform="translate(960,5)">4</text></g>
     </g>
     <g>
      <path d="M0,0v640M29,640H0M15,624H0M15,608H0M15,592H0M15,576H0M29,560H0M15,544H0M15,528H0M15,512H0M15,496H0M29,480H0M15,464H0M15,448H0M15,432H0M15,416H0M29,400H0M15,384H0M15,368H0M15,352H0M15,336H0M29,320H0M15,304H0M15,288H0M15,272H0M15,256H0M29,240H0M15,224H0M15,208H0M15,192H0M15,176H0M29,160H0M15,144H0M15,128H0M15,112H0M15,96H0M29,80H0M15,64H0M15,48H0M15,32H0M15,16H0M29,0H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-6,640)">
-       -4
-      </text>
-      <text dy=".4em" transform="translate(-6,560)">
-       -3
-      </text>
-      <text dy=".4em" transform="translate(-6,480)">
-       -2
-      </text>
-      <text dy=".4em" transform="translate(-6,400)">
-       -1
-      </text>
-      <text dy=".4em" transform="translate(-6,320)">
-       0
-      </text>
-      <text dy=".4em" transform="translate(-6,240)">
-       1
-      </text>
-      <text dy=".4em" transform="translate(-6,160)">
-       2
-      </text>
-      <text dy=".4em" transform="translate(-6,80)">
-       3
-      </text>
-      <text dy=".4em" transform="translate(-6)">
-       4
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-6,640)">-4</text><text dominant-baseline="middle" transform="translate(-6,560)">-3</text><text dominant-baseline="middle" transform="translate(-6,480)">-2</text><text dominant-baseline="middle" transform="translate(-6,400)">-1</text><text dominant-baseline="middle" transform="translate(-6,320)">0</text><text dominant-baseline="middle" transform="translate(-6,240)">1</text><text dominant-baseline="middle" transform="translate(-6,160)">2</text><text dominant-baseline="middle" transform="translate(-6,80)">3</text><text dominant-baseline="middle" transform="translate(-6)">4</text></g>
     </g>
    </g>
   </g>
-  <g transform="translate(936,52)" font-family="Arial" font-size="20" space="preserve" fill="black">
-   <path d="M0,0H240V192H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <text text-anchor="middle" dy=".4em" transform="translate(120,16)">
-    hpxpy
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,48)">
-    Entries
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,48)">
-    25000
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,80)">
-    Mean x
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,80)">
-    0.003181
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,112)">
-    Mean y
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,112)">
-    0.009441
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,144)">
-    Std Dev x
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,144)">
-    1.004
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,176)">
-    Std Dev y
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,176)">
-    0.9972
-   </text>
-   <path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path>
-  </g>
-  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
-    py vs px
-   </text>
-  </g>
+  <g transform="translate(936,52)" font-family="Arial" font-size="27" xml:space="preserve" fill="black"><path d="M0,0H240V192H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(120,16)">hpxpy</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,48)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,48)">25000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,80)">Mean x</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,80)">0.003181</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,112)">Mean y</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,112)">0.009441</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,144)">Std Dev x</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,144)">1.004</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,176)">Std Dev y</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,176)">0.9972</text><path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path></g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">py vs px</text></g>
  </g>
 </svg>
