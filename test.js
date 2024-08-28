@@ -38,7 +38,7 @@ let init_style = null, init_curve = false, init_palette = 57, init_TimeZone = ''
     test_mode = 'verify', nmatch = 0, ndiff = 0, nnew = 0, nspecial = 0,
     keyid = 'TH1', theonlykey = false, optid = -1, printdiff = false,
     theOnlyOption, theOnlyOptionId = -100, itemid = -1,
-    entry, entry_name = '', testfile = null, testobj = null,
+    entry, entry_name = '', lastitemname = '', testfile = null, testobj = null,
     last_time = new Date().getTime(),
     test_interactive = false;
 
@@ -374,6 +374,7 @@ function processNextOption(reset_mathjax) {
 
             keyid = next;
             if (theonlykey) keyid = null;
+            lastitemname = '';
             return processNextOption();
          }
       }
@@ -423,11 +424,13 @@ function processNextOption(reset_mathjax) {
       opt = entry.opt;
 
    if (entry.json) {
+      lastitemname = '';
       jsonname = entry.json;
       if ((jsonname.indexOf('http:') < 0) && (jsonname.indexOf('https:') < 0))
          jsonname = jsonfilepath + jsonname;
    }
    if (entry.items) {
+      lastitemname = '';
       if (itemid < 0) {
          if ((itemid === -1) && entry.style) {
             itemid = -2;
@@ -443,11 +446,12 @@ function processNextOption(reset_mathjax) {
 
    if (entry.r3d) opt2 = (opt ? ',' : '') + 'r3d_' + entry.r3d;
 
-   if (entry.url)
+   if (entry.url) {
+      lastitemname = '';
       url = entry.url.replace(/\$\$\$/g, filepath)
                      .replace(/file=demo/g, `file=${jsroot_path}/demo`)
                      .replace(/inject=demo/g, `inject=${jsroot_path}/demo`);
-   else if (entry.asurl) {
+   } else if (entry.asurl) {
       url = ((entry.asurl === 'browser') ? '?' : '?nobrowser&');
       url += jsonname ? 'json=' + jsonname : 'file=' + filename + '&item=' + itemname;
       if (keyid === 'TTree') {
@@ -455,6 +459,7 @@ function processNextOption(reset_mathjax) {
             opt += '>>dump;num:10';
       }
       url += '&opt=' + opt + opt2;
+      lastitemname = '';
    }
 
    // if ((opt=='inspect') || (opt=='count')) return processNextOption();
@@ -510,12 +515,15 @@ function processNextOption(reset_mathjax) {
             return processNextOption();
          } else {
             testobj = obj;
+            lastitemname = itemname;
             produceSVG(testobj, opt+opt2);
          }
       });
-   } else if (itemname.length > 0) {
-      testfile.readObject(itemname).then(obj => {
+   } else if (itemname || lastitemname) {
+      testfile.readObject(itemname || lastitemname).then(obj => {
          testobj = obj;
+         if (itemname)
+            lastitemname = itemname;
          produceSVG(testobj, opt+opt2);
       });
    } else
