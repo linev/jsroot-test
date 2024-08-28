@@ -5,205 +5,22 @@
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
-     <path d="M0,640h90v-610h60v610h90v-609h60v609h270v-607h60v607h90v-610h60v610h180" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: none;"></path>
+     <path d="M0,640h90v-610h60v610h90v-609h60v609h270v-607h60v607h90v-610h60v610h180" style="stroke-linejoin: miter; stroke: rgb(0, 0, 154); stroke-width: 1; fill: none;"></path>
     </g>
    </svg>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960M0,-19V0M30,-19V0M60,-19V0M90,-19V0M120,-19V0M150,-19V0M180,-19V0M210,-19V0M240,-19V0M270,-19V0M300,-19V0M330,-19V0M360,-19V0M390,-19V0M420,-19V0M450,-19V0M480,-19V0M510,-19V0M540,-19V0M570,-19V0M600,-19V0M630,-19V0M660,-19V0M690,-19V0M720,-19V0M750,-19V0M780,-19V0M810,-19V0M840,-19V0M870,-19V0M900,-19V0M930,-19V0M960,-10V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="19" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(15,6)">
-       0
-      </text>
-      <text dy=".8em" transform="translate(45,6)">
-       1
-      </text>
-      <text dy=".8em" transform="translate(75,6)">
-       2
-      </text>
-      <text dy=".8em" transform="translate(105,6)">
-       3
-      </text>
-      <text dy=".8em" transform="translate(135,6)">
-       4
-      </text>
-      <text dy=".8em" transform="translate(165,6)">
-       5
-      </text>
-      <text dy=".8em" transform="translate(195,6)">
-       6
-      </text>
-      <text dy=".8em" transform="translate(225,6)">
-       7
-      </text>
-      <text dy=".8em" transform="translate(255,6)">
-       8
-      </text>
-      <text dy=".8em" transform="translate(285,6)">
-       9
-      </text>
-      <text dy=".8em" transform="translate(315,6)">
-       10
-      </text>
-      <text dy=".8em" transform="translate(345,6)">
-       11
-      </text>
-      <text dy=".8em" transform="translate(375,6)">
-       12
-      </text>
-      <text dy=".8em" transform="translate(405,6)">
-       13
-      </text>
-      <text dy=".8em" transform="translate(435,6)">
-       14
-      </text>
-      <text dy=".8em" transform="translate(465,6)">
-       15
-      </text>
-      <text dy=".8em" transform="translate(495,6)">
-       16
-      </text>
-      <text dy=".8em" transform="translate(525,6)">
-       17
-      </text>
-      <text dy=".8em" transform="translate(555,6)">
-       18
-      </text>
-      <text dy=".8em" transform="translate(585,6)">
-       19
-      </text>
-      <text dy=".8em" transform="translate(615,6)">
-       20
-      </text>
-      <text dy=".8em" transform="translate(645,6)">
-       21
-      </text>
-      <text dy=".8em" transform="translate(675,6)">
-       22
-      </text>
-      <text dy=".8em" transform="translate(705,6)">
-       23
-      </text>
-      <text dy=".8em" transform="translate(735,6)">
-       24
-      </text>
-      <text dy=".8em" transform="translate(765,6)">
-       25
-      </text>
-      <text dy=".8em" transform="translate(795,6)">
-       26
-      </text>
-      <text dy=".8em" transform="translate(825,6)">
-       27
-      </text>
-      <text dy=".8em" transform="translate(855,6)">
-       28
-      </text>
-      <text dy=".8em" transform="translate(885,6)">
-       29
-      </text>
-      <text dy=".8em" transform="translate(915,6)">
-       30
-      </text>
-      <text dy=".8em" transform="translate(945,6)">
-       31
-      </text>
-     </g>
-     <g font-family="Arial" font-size="28" space="preserve" transform="translate(960,45)">
-      <text fill="black" text-anchor="end" dy=".4em">
-       event.fTracks.fBits
-      </text>
-     </g>
+     <g font-family="Arial" font-size="19" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(15,6)">0</text><text dy=".8em" transform="translate(45,6)">1</text><text dy=".8em" transform="translate(75,6)">2</text><text dy=".8em" transform="translate(105,6)">3</text><text dy=".8em" transform="translate(135,6)">4</text><text dy=".8em" transform="translate(165,6)">5</text><text dy=".8em" transform="translate(195,6)">6</text><text dy=".8em" transform="translate(225,6)">7</text><text dy=".8em" transform="translate(255,6)">8</text><text dy=".8em" transform="translate(285,6)">9</text><text dy=".8em" transform="translate(315,6)">10</text><text dy=".8em" transform="translate(345,6)">11</text><text dy=".8em" transform="translate(375,6)">12</text><text dy=".8em" transform="translate(405,6)">13</text><text dy=".8em" transform="translate(435,6)">14</text><text dy=".8em" transform="translate(465,6)">15</text><text dy=".8em" transform="translate(495,6)">16</text><text dy=".8em" transform="translate(525,6)">17</text><text dy=".8em" transform="translate(555,6)">18</text><text dy=".8em" transform="translate(585,6)">19</text><text dy=".8em" transform="translate(615,6)">20</text><text dy=".8em" transform="translate(645,6)">21</text><text dy=".8em" transform="translate(675,6)">22</text><text dy=".8em" transform="translate(705,6)">23</text><text dy=".8em" transform="translate(735,6)">24</text><text dy=".8em" transform="translate(765,6)">25</text><text dy=".8em" transform="translate(795,6)">26</text><text dy=".8em" transform="translate(825,6)">27</text><text dy=".8em" transform="translate(855,6)">28</text><text dy=".8em" transform="translate(885,6)">29</text><text dy=".8em" transform="translate(915,6)">30</text><text dy=".8em" transform="translate(945,6)">31</text></g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" transform="translate(960,45)"><text fill="black" text-anchor="end" dominant-baseline="middle">event.fTracks.fBits</text></g>
     </g>
     <g>
      <path d="M0,0v640M29,640H0M15,628H0M15,616H0M15,603H0M15,591H0M29,579H0M15,567H0M15,555H0M15,543H0M15,530H0M29,518H0M15,506H0M15,494H0M15,482H0M15,469H0M29,457H0M15,445H0M15,433H0M15,421H0M15,409H0M29,396H0M15,384H0M15,372H0M15,360H0M15,348H0M29,335H0M15,323H0M15,311H0M15,299H0M15,287H0M29,275H0M15,262H0M15,250H0M15,238H0M15,226H0M29,214H0M15,201H0M15,189H0M15,177H0M15,165H0M29,153H0M15,141H0M15,128H0M15,116H0M15,104H0M29,92H0M15,80H0M15,67H0M15,55H0M15,43H0M29,31H0M15,19H0M15,7H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve">
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-6,640)">
-       0
-      </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-6,579)">
-       0.1
-      </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-6,518)">
-       0.2
-      </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-6,457)">
-       0.3
-      </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-6,396)">
-       0.4
-      </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-6,335)">
-       0.5
-      </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-6,275)">
-       0.6
-      </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-6,214)">
-       0.7
-      </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-6,153)">
-       0.8
-      </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-6,92)">
-       0.9
-      </text>
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-6,31)">
-       1
-      </text>
-      <g transform="translate(5,-10)">
-       <text fill="black" font-size="28">
-        ×10
-       </text>
-       <text fill="black" font-size="17" transform="translate(47,-15)">
-        6
-       </text>
-      </g>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(-6,640)">0</text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(-6,579)">0.1</text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(-6,518)">0.2</text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(-6,457)">0.3</text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(-6,396)">0.4</text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(-6,335)">0.5</text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(-6,275)">0.6</text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(-6,214)">0.7</text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(-6,153)">0.8</text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(-6,92)">0.9</text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(-6,31)">1</text><g transform="translate(5,-10)"><text fill="black" font-size="28">×10</text><text fill="black" font-size="17" transform="translate(47,-15)">6</text></g></g>
     </g>
    </g>
   </g>
-  <g transform="translate(936,52)" font-family="Arial" font-size="22" space="preserve" fill="black">
-   <path d="M0,0H240V192H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <text text-anchor="middle" dy=".4em" transform="translate(120,16)">
-    bits
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,48)">
-    Entries
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,48)">
-    7996334
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,80)">
-    Mean
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,80)">
-    14.50
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,112)">
-    Std Dev
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,112)">
-    8.399
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,144)">
-    Underflow
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,144)">
-    0
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,176)">
-    Overflow
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,176)">
-    0
-   </text>
-   <path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path>
-  </g>
-  <g transform="translate(120,4)" font-family="Arial" font-size="39" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
-    drawing 'event.fTracks.fBits' from T
-   </text>
-  </g>
+  <g transform="translate(936,52)" font-family="Arial" font-size="27" xml:space="preserve" fill="black"><path d="M0,0H240V192H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(120,16)">bits</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,48)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,48)">7996334</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,80)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,80)">14.50</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,112)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,112)">8.399</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,144)">Underflow</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,144)">0</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,176)">Overflow</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,176)">0</text><path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path></g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">drawing 'event.fTracks.fBits' from T</text></g>
  </g>
 </svg>
