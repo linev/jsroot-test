@@ -18,9 +18,6 @@ const server_path = 'http://localhost:8000/jsroot/',
       specialCases = [ 'TCanvas/time.svg' ];  // position of minor tick differs by one on time axis?
 
 
-examples_main.TH1.push({ name: 'B_local', file: '../jstests/other/hsimple.root', item: 'hpx;1', opt: 'B,fill_green', title: 'draw histogram as bar chart' });
-examples_main.TTree.push({ name: '2d_local', asurl: true, file: '../jstests/other/hsimple.root', item: 'ntuple', opt: 'px:py', title: 'Two-dimensional TTree::Draw' });
-
 let init_curve = false, init_palette = 57, init_TimeZone = '',
     test_mode = 'verify', nmatch = 0, ndiff = 0, nnew = 0, nspecial = 0,
     keyid = 'TH1', theonlykey = false, optid = -1, printdiff = false,
@@ -101,6 +98,12 @@ if (process.argv && (process.argv.length > 2)) {
       }
    }
 }
+
+// add extra examples at the end
+
+examples_main.TH1.push({ name: 'B_local', file: '../jstests/other/hsimple.root', item: 'hpx;1', opt: 'B,fill_green', title: 'draw histogram as bar chart' });
+examples_main.TTree.push({ name: '2d_local', asurl: true, file: '../jstests/other/hsimple.root', item: 'ntuple', opt: 'px:py', title: 'Two-dimensional TTree::Draw' });
+
 
 function resetPdfFile(pdfFile) {
    pdfFile = pdfFile.replace(/\/CreationDate \(D:(.*?)\)/, "/CreationDate (D:20231117000000+00'00')");
@@ -195,7 +198,7 @@ function produceFile(content, extension, subid) {
      }
 
       if (!match)
-        result = ispng || specialCases.includes(svgname) ? 'SPECIAL' : 'DIFF';
+        result = ispng || specialCases.includes(svgname) || entry.r3d ? 'SPECIAL' : 'DIFF';
 
    } catch (e) {
      svg0 = null;
@@ -224,7 +227,7 @@ function produceFile(content, extension, subid) {
    if (result === 'SPECIAL')
       all_special.push(svgname)
 
-   if ((result === 'NEW') || ((test_mode === 'create') && (result !== 'MATCH'))) {
+   if ((result === 'NEW') || ((test_mode === 'create') && (result === 'DIFF'))) {
       if (clen > 0) {
          writeFileSync(svgname, content);
          if (printdiff && (result !== 'NEW'))
@@ -236,6 +239,7 @@ function produceFile(content, extension, subid) {
 }
 
 async function processURL(url) {
+   // use approx_text_size to have exactly same text width estimation as in node.js
    url = server_path + '?batch&canvsize=1200x800&approx_text_size&' + url;
 
    console.log('url', url);
@@ -261,7 +265,7 @@ async function processURL(url) {
 
    await page.close();
 
-   return processNextOption();
+   return true;
 }
 
 function structuredLogger(level, message, details = {}) {
@@ -418,7 +422,9 @@ async function processNextOption(reset_mathjax) {
       }
    }
 
-   return processURL(url);
+   await processURL(url);
+
+   return processNextOption();
 }
 
 await processNextOption();

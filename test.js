@@ -19,7 +19,7 @@ console.log(`JSROOT version  ${version_id} ${version_date}`);
 
 const jsroot_path = './../jsroot',
       examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`)),
-      filepath = 'http://jsroot.gsi.de/files/',
+      filepath = 'https://jsroot.gsi.de/files/',
       // filepath = 'https://root.cern.ch/js/files/',
       // place for special cases
       specialCases = [ 'TCanvas/time.svg' ];  // position of minor tick differs by one on time axis?
@@ -31,9 +31,6 @@ const jsroot_path = './../jsroot',
 settings.SmallPad.width = 40;
 settings.SmallPad.height = 40;
 
-
-examples_main.TH1.push({ name: 'B_local', file: 'file://other/hsimple.root', item: 'hpx;1', opt: 'B,fill_green', title: 'draw histogram as bar chart' });
-examples_main.TTree.push({ name: '2d_local', asurl: true, file: 'file://other/hsimple.root', item: 'ntuple', opt: 'px:py', title: 'Two-dimensional TTree::Draw' });
 
 let init_style = null, init_curve = false, init_palette = 57, init_TimeZone = '',
     test_mode = 'verify', nmatch = 0, ndiff = 0, nnew = 0, nspecial = 0,
@@ -114,6 +111,11 @@ if (process.argv && (process.argv.length > 2)) {
       }
    }
 }
+
+// add extra examples at the end to have clear indexing
+examples_main.TH1.push({ name: 'B_local', file: 'file://other/hsimple.root', item: 'hpx;1', opt: 'B,fill_green', title: 'draw histogram as bar chart' });
+examples_main.TTree.push({ name: '2d_local', asurl: true, file: 'file://other/hsimple.root', item: 'ntuple', opt: 'px:py', title: 'Two-dimensional TTree::Draw' });
+
 
 function produceGlobalStyleCopy() {
    // copy style when painter is loaded
@@ -211,7 +213,7 @@ function produceFile(content, extension, subid) {
      }
 
       if (!match)
-        result = ispng || specialCases.includes(svgname) ? 'SPECIAL' : 'DIFF';
+        result = ispng || specialCases.includes(svgname) || entry.r3d ? 'SPECIAL' : 'DIFF';
 
    } catch (e) {
      svg0 = null;
@@ -420,7 +422,8 @@ function processNextOption(reset_mathjax) {
 
    if (entry.json) {
       jsonname = entry.json;
-      if ((jsonname.indexOf('http:')<0) && (jsonname.indexOf('https:')<0)) jsonname = filepath + jsonname;
+      if ((jsonname.indexOf('http:') < 0) && (jsonname.indexOf('https:') < 0))
+         jsonname = filepath + jsonname;
    }
    if (entry.items) {
       if (itemid < 0) {
