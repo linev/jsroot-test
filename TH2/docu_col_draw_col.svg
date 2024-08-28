@@ -1,198 +1,71 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 596 372" preserveAspectRatio="none" width="596" height="372">
+<svg xmlns="http://www.w3.org/2000/svg" width="596" height="372" viewBox="0 0 596 372" preserveAspectRatio="none">
  <path d="M0,0H596V372H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(60,37)">
    <path d="M0,0H477V298H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="477" height="298" viewBox="0 0 477 298">
     <g>
-     <path fill="#263ea8" d="M12,119h12v15h-12zm0,30h12v7h-12zM24,97h12v7h-12zm0,15h12v22h-12zm0,37h12v7h-12zm0,67h12v8h-12zM36,82h12v7h-12zm0,74h12v53h-12zM48,75h12v7h-12zm0,29h12v30h-12zm0,38h12v7h-12zm0,14h12v8h-12zm0,15h12v8h-12zm0,23h12v7h-12zM60,37h12v8h-12zm0,52h12v8h-12zm0,15h12v60h-12zm0,67h12v23h-12zm0,30h12v8h-12zm0,15h12v8h-12zm0,15h12v7h-12zm0,52h12v8h-12zM72,67h11v8h-11zm0,15h11v134h-11zm0,142h11v14h-11zM83,45h12v7h-12zm0,15h12v22h-12zm0,29h12v149h-12zM95,37h12v8h-12zm0,23h12v7h-12zm0,22h12v37h-12zm0,60h12v7h-12zm0,29h12v8h-12zm0,15h12v38h-12zM107,45h12v7h-12zm0,22h12v37h-12zm0,127h12v7h-12zm0,15h12v22h-12zm0,29h12v8h-12zM119,30h12v7h-12zm0,30h12v29h-12zm0,149h12v29h-12zm0,37h12v22h-12zM131,45h12v7h-12zm0,15h12v29h-12zm0,149h12v44h-12zM143,45h12v30h-12zm0,179h12v22h-12zm0,29h12v15h-12zM155,0h12v7h-12zm0,22h12v8h-12zm0,15h12v45h-12zm0,194h12v37h-12zM167,7h12v15h-12zm0,30h12v23h-12zm0,194h12v15h-12zm0,22h12v8h-12zm0,23h12v7h-12zM179,37h12v38h-12zm0,194h12v45h-12zM191,37h12v30h-12zm0,187h12v7h-12zm0,14h12v15h-12zm0,38h12v7h-12zM203,22h12v8h-12zm0,15h12v30h-12zm0,201h12v23h-12zm0,30h12v8h-12zM215,15h12v15h-12zm0,22h12v23h-12zm0,209h12v15h-12zM227,0h12v7h-12zm0,15h12v7h-12zm0,15h12v22h-12zm0,30h12v7h-12zm0,178h12v15h-12zm0,23h12v7h-12zm0,15h12v7h-12zM239,15h11v22h-11zm0,30h11v15h-11zm0,201h11v15h-11zM250,22h12v45h-12zm0,209h12v15h-12zm0,22h12v15h-12zM262,22h12v8h-12zm0,15h12v23h-12zm0,201h12v23h-12zM274,30h12v15h-12zm0,22h12v15h-12zm0,179h12v22h-12zM286,30h12v7h-12zm0,15h12v30h-12zm0,179h12v37h-12zm0,44h12v8h-12zM298,22h12v53h-12zm0,202h12v52h-12zM310,22h12v53h-12zm0,194h12v8h-12zm0,15h12v30h-12zM322,52h12v30h-12zm0,157h12v44h-12zM334,45h12v37h-12zm0,171h12v30h-12zm0,45h12v7h-12zm0,15h12v7h-12zM346,37h12v15h-12zm0,23h12v37h-12zm0,149h12v22h-12zm0,29h12v23h-12zM358,15h12v7h-12zm0,45h12v29h-12zm0,37h12v15h-12zm0,52h12v7h-12zm0,45h12v30h-12zm0,37h12v15h-12zM370,52h12v8h-12zm0,15h12v30h-12zm0,52h12v23h-12zm0,52h12v53h-12zm0,75h12v7h-12zM382,45h12v7h-12zm0,15h12v156h-12zm0,171h12v7h-12zM394,67h11v37h-11zm0,45h11v89h-11zm0,97h11v7h-11zM405,104h12v15h-12zm0,23h12v82h-12zM417,97h12v7h-12zm0,22h12v8h-12zm0,15h12v37h-12zm0,45h12v15h-12zm12,-75h12v8h-12zm0,15h12v60h-12zm0,67h12v8h-12zm0,15h12v8h-12zm0,30h12v7h-12zM441,119h12v15h-12zm0,23h12v7h-12zm0,22h12v15h-12zm0,22h12v8h-12zm12,-44h12v14h-12z"></path>
-     <path fill="#1652cd" d="M95,119h12v15h-12zm0,30h12v22h-12zm0,30h12v7h-12zm12,-75h12v23h-12zm0,30h12v15h-12zm0,22h12v8h-12zm0,15h12v23h-12zm0,30h12v8h-12zM119,89h12v23h-12zm0,30h12v8h-12zm0,60h12v7h-12zm0,15h12v15h-12zM131,89h12v15h-12zm0,105h12v15h-12zM143,75h12v22h-12zm0,126h12v23h-12zM155,82h12v15h-12zm0,119h12v30h-12zM167,60h12v22h-12zm0,156h12v15h-12zM179,75h12v7h-12zm0,141h12v15h-12zM191,67h12v15h-12zm0,164h12v7h-12zM203,67h12v8h-12zm0,157h12v14h-12zM215,60h12v15h-12zm0,171h12v15h-12zM227,52h12v8h-12zm0,15h12v8h-12zm0,164h12v7h-12zM239,60h11v7h-11zm0,171h11v15h-11zM262,60h12v15h-12zm0,164h12v14h-12zM274,67h12v8h-12zm0,157h12v7h-12zM298,75h12v7h-12zm0,141h12v8h-12zM310,75h12v22h-12zm0,149h12v7h-12zM322,82h12v7h-12zm0,119h12v8h-12zM334,82h12v22h-12zm0,104h12v30h-12zM346,97h12v22h-12zm0,30h12v15h-12zm0,59h12v23h-12zM358,89h12v8h-12zm0,23h12v7h-12zm0,22h12v15h-12zm0,30h12v7h-12zm0,15h12v15h-12zm12,-75h12v15h-12zm0,38h12v29h-12z"></path>
-     <path fill="#1064dc" d="M95,134h12v8h-12zm12,-7h12v7h-12zm0,22h12v7h-12zm0,15h12v7h-12zm12,-52h12v7h-12zm0,22h12v45h-12zm0,52h12v8h-12zm12,-82h12v30h-12zm0,52h12v15h-12zm0,23h12v15h-12zM143,97h12v7h-12zm0,97h12v7h-12zM167,82h12v7h-12zm0,119h12v8h-12zm12,8h12v7h-12zm12,7h12v8h-12zM203,75h12v7h-12zm12,0h12v7h-12zm0,141h12v15h-12zM227,75h12v7h-12zm0,141h12v15h-12zM239,67h11v15h-11zm0,157h11v7h-11zM250,67h12v15h-12zm0,157h12v7h-12zM262,75h12v7h-12zm0,141h12v8h-12zM274,75h12v7h-12zm0,141h12v8h-12zM286,75h12v14h-12zm0,141h12v8h-12zM298,82h12v7h-12zm0,119h12v15h-12zm12,8h12v7h-12zM322,89h12v8h-12zm0,97h12v15h-12zm12,-82h12v8h-12zm0,75h12v7h-12zm12,-60h12v8h-12zm0,23h12v7h-12zm0,14h12v8h-12zm0,15h12v15h-12zm12,-52h12v15h-12zm0,37h12v8h-12zm0,15h12v8h-12z"></path>
-     <path fill="#1272d9" d="M119,127h12v7h-12zm12,15h12v14h-12zm12,-30h12v7h-12zm0,74h12v8h-12zM155,97h12v15h-12zm0,97h12v7h-12zM167,89h12v8h-12zm0,120h12v7h-12zM179,82h12v15h-12zm0,112h12v15h-12zM191,82h12v15h-12zm0,127h12v7h-12zM203,82h12v7h-12zm0,134h12v8h-12zM215,82h12v7h-12zm12,127h12v7h-12zm12,7h11v8h-11zm11,-7h12v15h-12zM262,82h12v7h-12zm12,0h12v15h-12zm0,127h12v7h-12zM286,89h12v8h-12zm0,120h12v7h-12zM298,89h12v8h-12zm12,8h12v7h-12zm0,89h12v23h-12zM322,97h12v22h-12zm0,82h12v7h-12zm12,-67h12v15h-12zm0,30h12v7h-12zm0,14h12v23h-12zm12,-7h12v7h-12zm0,15h12v7h-12z"></path>
-     <path fill="#1481d6" d="M131,134h12v8h-12zm0,37h12v8h-12zm12,-67h12v8h-12zm0,15h12v8h-12zm0,52h12v15h-12zm12,-59h12v7h-12zm0,67h12v15h-12zM167,97h12v7h-12zm0,97h12v7h-12zm24,7h12v8h-12zm12,8h12v7h-12zm12,0h12v7h-12zM227,82h12v7h-12zm12,0h11v7h-11zm0,127h11v7h-11zM250,82h12v7h-12zm0,119h12v8h-12zm12,8h12v7h-12zm12,-8h12v8h-12zM298,97h12v15h-12zm0,82h12v22h-12zm12,-75h12v8h-12zm0,75h12v7h-12zm12,-60h12v8h-12zm12,8h12v15h-12zm0,22h12v7h-12z"></path>
-     <path fill="#0e8fd1" d="M143,127h12v37h-12zm12,-8h12v8h-12zm0,23h12v7h-12zm0,29h12v8h-12zm12,0h12v15h-12zm12,15h12v8h-12zm12,0h12v8h-12zM203,97h12v7h-12zm0,97h12v15h-12zM215,89h12v8h-12zm0,112h12v8h-12zM227,89h12v8h-12zm0,112h12v8h-12zM239,89h11v8h-11zm23,0h12v8h-12zm12,105h12v7h-12zM286,97h12v15h-12zm0,89h12v23h-12zm24,-67h12v8h-12zm0,45h12v15h-12zm12,-37h12v7h-12zm0,15h12v37h-12z"></path>
-     <path fill="#099dcc" d="M143,164h12v7h-12zm24,-60h12v23h-12zm0,82h12v8h-12zM179,97h12v15h-12zm12,0h12v7h-12zm0,97h12v7h-12zM203,89h12v8h-12zm12,8h12v7h-12zm35,-8h12v8h-12zm0,105h12v7h-12zM262,97h12v7h-12zm0,97h12v15h-12zm12,-90h12v8h-12zm12,8h12v7h-12zm12,0h12v15h-12zm12,0h12v7h-12zm0,15h12v15h-12zm12,7h12v8h-12z"></path>
-     <path fill="#0da7c3" d="M155,127h12v7h-12zm0,22h12v22h-12zm12,-7h12v7h-12zm12,-30h12v7h-12zm24,-8h12v8h-12zm12,90h12v7h-12zm12,0h12v7h-12zM239,97h11v7h-11zm0,104h11v8h-11zm23,-97h12v8h-12zm12,-7h12v7h-12zm12,82h12v7h-12zm12,-45h12v8h-12zm0,37h12v8h-12zm12,-22h12v15h-12z"></path>
-     <path fill="#1eafb3" d="M155,134h12v8h-12zm12,-7h12v15h-12zm0,37h12v7h-12zm12,-45h12v8h-12zm12,-15h12v8h-12zm0,75h12v7h-12zm12,7h12v8h-12zm12,-82h12v8h-12zm12,0h12v8h-12zm12,82h11v15h-11zM250,97h12v7h-12zm0,89h12v8h-12zm12,-7h12v15h-12zm12,0h12v15h-12zm12,-8h12v8h-12zm12,-44h12v7h-12zm0,15h12v7h-12zm12,0h12v7h-12z"></path>
-     <path fill="#2eb7a4" d="M167,149h12v15h-12zm12,-22h12v7h-12zm0,44h12v15h-12zm12,-59h12v7h-12zm24,74h12v8h-12zM227,97h12v7h-12zm23,7h12v8h-12zm0,75h12v7h-12zm12,-67h12v7h-12zm12,0h12v7h-12zm12,7h12v15h-12zm12,30h12v22h-12z"></path>
-     <path fill="#52ba92" d="M179,134h12v8h-12zm12,37h12v8h-12zm12,-59h12v15h-12zm0,67h12v7h-12zm59,-60h12v8h-12zm12,52h12v8h-12zm12,-37h12v22h-12zm0,30h12v7h-12z"></path>
-     <path fill="#74bd81" d="M179,164h12v7h-12zm12,-45h12v8h-12zm0,23h12v14h-12zm0,22h12v7h-12zm24,7h12v8h-12zm12,-59h12v7h-12zm0,67h12v15h-12zm12,-75h11v8h-11zm0,67h11v15h-11zm11,-59h12v7h-12zm24,7h12v15h-12zm12,37h12v8h-12z"></path>
-     <path fill="#95be71" d="M179,149h12v15h-12zm12,7h12v8h-12zm12,-29h12v7h-12zm12,-15h12v15h-12zm0,67h12v7h-12zm12,-60h12v8h-12zm12,-7h11v7h-11zm23,52h12v15h-12zm12,-30h12v8h-12zm0,30h12v7h-12z"></path>
-     <path fill="#b3bd65" d="M179,142h12v7h-12zm12,-15h12v15h-12zm12,37h12v15h-12zm12,-37h12v7h-12zm0,37h12v7h-12zm12,7h12v8h-12zm12,-44h11v7h-11zm0,37h11v7h-11zm11,-45h12v8h-12zm0,30h12v7h-12zm0,22h12v8h-12zm12,-44h12v7h-12zm12,15h12v22h-12z"></path>
-     <path fill="#d1bb59" d="M203,134h12v8h-12zm0,15h12v15h-12zm12,-15h12v15h-12zm24,-15h11v8h-11zm23,30h12v7h-12z"></path>
-     <path fill="#e2c04b" d="M203,142h12v7h-12zm24,14h12v15h-12zm23,-29h12v7h-12zm12,29h12v8h-12z"></path>
-     <path fill="#f4c63b" d="M227,142h12v7h-12zm12,-8h11v8h-11zm11,8h12v7h-12zm0,14h12v8h-12zm12,-14h12v7h-12z"></path>
-     <path fill="#fdd22b" d="M215,156h12v8h-12zm12,-29h12v15h-12zm0,22h12v7h-12zm12,-7h11v7h-11zm0,14h11v8h-11zm11,-22h12v8h-12zm0,30h12v7h-12zm12,-30h12v8h-12z"></path>
-     <path fill="#fbe61d" d="M215,149h12v7h-12z"></path>
-     <path fill="#f9f90f" d="M239,149h11v7h-11z"></path>
+     <path fill="rgb(38, 62, 168)" d="M12,119h12v15h-12zm0,30h12v7h-12zM24,97h12v7h-12zm0,15h12v22h-12zm0,37h12v7h-12zm0,67h12v8h-12zM36,82h12v7h-12zm0,74h12v53h-12zM48,75h12v7h-12zm0,29h12v30h-12zm0,38h12v7h-12zm0,14h12v8h-12zm0,15h12v8h-12zm0,23h12v7h-12zM60,37h12v8h-12zm0,52h12v8h-12zm0,15h12v60h-12zm0,67h12v23h-12zm0,30h12v8h-12zm0,15h12v8h-12zm0,15h12v7h-12zm0,52h12v8h-12zM72,67h11v8h-11zm0,15h11v134h-11zm0,142h11v14h-11zM83,45h12v7h-12zm0,15h12v22h-12zm0,29h12v149h-12zM95,37h12v8h-12zm0,23h12v7h-12zm0,22h12v37h-12zm0,60h12v7h-12zm0,29h12v8h-12zm0,15h12v38h-12zM107,45h12v7h-12zm0,22h12v37h-12zm0,127h12v7h-12zm0,15h12v22h-12zm0,29h12v8h-12zM119,30h12v7h-12zm0,30h12v29h-12zm0,149h12v29h-12zm0,37h12v22h-12zM131,45h12v7h-12zm0,15h12v29h-12zm0,149h12v44h-12zM143,45h12v30h-12zm0,179h12v22h-12zm0,29h12v15h-12zM155,0h12v7h-12zm0,22h12v8h-12zm0,15h12v45h-12zm0,194h12v37h-12zM167,7h12v15h-12zm0,30h12v23h-12zm0,194h12v15h-12zm0,22h12v8h-12zm0,23h12v7h-12zM179,37h12v38h-12zm0,194h12v45h-12zM191,37h12v30h-12zm0,187h12v7h-12zm0,14h12v15h-12zm0,38h12v7h-12zM203,22h12v8h-12zm0,15h12v30h-12zm0,201h12v23h-12zm0,30h12v8h-12zM215,15h12v15h-12zm0,22h12v23h-12zm0,209h12v15h-12zM227,0h12v7h-12zm0,15h12v7h-12zm0,15h12v22h-12zm0,30h12v7h-12zm0,178h12v15h-12zm0,23h12v7h-12zm0,15h12v7h-12zM239,15h11v22h-11zm0,30h11v15h-11zm0,201h11v15h-11zM250,22h12v45h-12zm0,209h12v15h-12zm0,22h12v15h-12zM262,22h12v8h-12zm0,15h12v23h-12zm0,201h12v23h-12zM274,30h12v15h-12zm0,22h12v15h-12zm0,179h12v22h-12zM286,30h12v7h-12zm0,15h12v30h-12zm0,179h12v37h-12zm0,44h12v8h-12zM298,22h12v53h-12zm0,202h12v52h-12zM310,22h12v53h-12zm0,194h12v8h-12zm0,15h12v30h-12zM322,52h12v30h-12zm0,157h12v44h-12zM334,45h12v37h-12zm0,171h12v30h-12zm0,45h12v7h-12zm0,15h12v7h-12zM346,37h12v15h-12zm0,23h12v37h-12zm0,149h12v22h-12zm0,29h12v23h-12zM358,15h12v7h-12zm0,45h12v29h-12zm0,37h12v15h-12zm0,52h12v7h-12zm0,45h12v30h-12zm0,37h12v15h-12zM370,52h12v8h-12zm0,15h12v30h-12zm0,52h12v23h-12zm0,52h12v53h-12zm0,75h12v7h-12zM382,45h12v7h-12zm0,15h12v156h-12zm0,171h12v7h-12zM394,67h11v37h-11zm0,45h11v89h-11zm0,97h11v7h-11zM405,104h12v15h-12zm0,23h12v82h-12zM417,97h12v7h-12zm0,22h12v8h-12zm0,15h12v37h-12zm0,45h12v15h-12zm12,-75h12v8h-12zm0,15h12v60h-12zm0,67h12v8h-12zm0,15h12v8h-12zm0,30h12v7h-12zM441,119h12v15h-12zm0,23h12v7h-12zm0,22h12v15h-12zm0,22h12v8h-12zm12,-44h12v14h-12z"></path>
+     <path fill="rgb(22, 82, 205)" d="M95,119h12v15h-12zm0,30h12v22h-12zm0,30h12v7h-12zm12,-75h12v23h-12zm0,30h12v15h-12zm0,22h12v8h-12zm0,15h12v23h-12zm0,30h12v8h-12zM119,89h12v23h-12zm0,30h12v8h-12zm0,60h12v7h-12zm0,15h12v15h-12zM131,89h12v15h-12zm0,105h12v15h-12zM143,75h12v22h-12zm0,126h12v23h-12zM155,82h12v15h-12zm0,119h12v30h-12zM167,60h12v22h-12zm0,156h12v15h-12zM179,75h12v7h-12zm0,141h12v15h-12zM191,67h12v15h-12zm0,164h12v7h-12zM203,67h12v8h-12zm0,157h12v14h-12zM215,60h12v15h-12zm0,171h12v15h-12zM227,52h12v8h-12zm0,15h12v8h-12zm0,164h12v7h-12zM239,60h11v7h-11zm0,171h11v15h-11zM262,60h12v15h-12zm0,164h12v14h-12zM274,67h12v8h-12zm0,157h12v7h-12zM298,75h12v7h-12zm0,141h12v8h-12zM310,75h12v22h-12zm0,149h12v7h-12zM322,82h12v7h-12zm0,119h12v8h-12zM334,82h12v22h-12zm0,104h12v30h-12zM346,97h12v22h-12zm0,30h12v15h-12zm0,59h12v23h-12zM358,89h12v8h-12zm0,23h12v7h-12zm0,22h12v15h-12zm0,30h12v7h-12zm0,15h12v15h-12zm12,-75h12v15h-12zm0,38h12v29h-12z"></path>
+     <path fill="rgb(16, 100, 220)" d="M95,134h12v8h-12zm12,-7h12v7h-12zm0,22h12v7h-12zm0,15h12v7h-12zm12,-52h12v7h-12zm0,22h12v45h-12zm0,52h12v8h-12zm12,-82h12v30h-12zm0,52h12v15h-12zm0,23h12v15h-12zM143,97h12v7h-12zm0,97h12v7h-12zM167,82h12v7h-12zm0,119h12v8h-12zm12,8h12v7h-12zm12,7h12v8h-12zM203,75h12v7h-12zm12,0h12v7h-12zm0,141h12v15h-12zM227,75h12v7h-12zm0,141h12v15h-12zM239,67h11v15h-11zm0,157h11v7h-11zM250,67h12v15h-12zm0,157h12v7h-12zM262,75h12v7h-12zm0,141h12v8h-12zM274,75h12v7h-12zm0,141h12v8h-12zM286,75h12v14h-12zm0,141h12v8h-12zM298,82h12v7h-12zm0,119h12v15h-12zm12,8h12v7h-12zM322,89h12v8h-12zm0,97h12v15h-12zm12,-82h12v8h-12zm0,75h12v7h-12zm12,-60h12v8h-12zm0,23h12v7h-12zm0,14h12v8h-12zm0,15h12v15h-12zm12,-52h12v15h-12zm0,37h12v8h-12zm0,15h12v8h-12z"></path>
+     <path fill="rgb(18, 114, 217)" d="M119,127h12v7h-12zm12,15h12v14h-12zm12,-30h12v7h-12zm0,74h12v8h-12zM155,97h12v15h-12zm0,97h12v7h-12zM167,89h12v8h-12zm0,120h12v7h-12zM179,82h12v15h-12zm0,112h12v15h-12zM191,82h12v15h-12zm0,127h12v7h-12zM203,82h12v7h-12zm0,134h12v8h-12zM215,82h12v7h-12zm12,127h12v7h-12zm12,7h11v8h-11zm11,-7h12v15h-12zM262,82h12v7h-12zm12,0h12v15h-12zm0,127h12v7h-12zM286,89h12v8h-12zm0,120h12v7h-12zM298,89h12v8h-12zm12,8h12v7h-12zm0,89h12v23h-12zM322,97h12v22h-12zm0,82h12v7h-12zm12,-67h12v15h-12zm0,30h12v7h-12zm0,14h12v23h-12zm12,-7h12v7h-12zm0,15h12v7h-12z"></path>
+     <path fill="rgb(20, 129, 214)" d="M131,134h12v8h-12zm0,37h12v8h-12zm12,-67h12v8h-12zm0,15h12v8h-12zm0,52h12v15h-12zm12,-59h12v7h-12zm0,67h12v15h-12zM167,97h12v7h-12zm0,97h12v7h-12zm24,7h12v8h-12zm12,8h12v7h-12zm12,0h12v7h-12zM227,82h12v7h-12zm12,0h11v7h-11zm0,127h11v7h-11zM250,82h12v7h-12zm0,119h12v8h-12zm12,8h12v7h-12zm12,-8h12v8h-12zM298,97h12v15h-12zm0,82h12v22h-12zm12,-75h12v8h-12zm0,75h12v7h-12zm12,-60h12v8h-12zm12,8h12v15h-12zm0,22h12v7h-12z"></path>
+     <path fill="rgb(14, 143, 209)" d="M143,127h12v37h-12zm12,-8h12v8h-12zm0,23h12v7h-12zm0,29h12v8h-12zm12,0h12v15h-12zm12,15h12v8h-12zm12,0h12v8h-12zM203,97h12v7h-12zm0,97h12v15h-12zM215,89h12v8h-12zm0,112h12v8h-12zM227,89h12v8h-12zm0,112h12v8h-12zM239,89h11v8h-11zm23,0h12v8h-12zm12,105h12v7h-12zM286,97h12v15h-12zm0,89h12v23h-12zm24,-67h12v8h-12zm0,45h12v15h-12zm12,-37h12v7h-12zm0,15h12v37h-12z"></path>
+     <path fill="rgb(9, 157, 204)" d="M143,164h12v7h-12zm24,-60h12v23h-12zm0,82h12v8h-12zM179,97h12v15h-12zm12,0h12v7h-12zm0,97h12v7h-12zM203,89h12v8h-12zm12,8h12v7h-12zm35,-8h12v8h-12zm0,105h12v7h-12zM262,97h12v7h-12zm0,97h12v15h-12zm12,-90h12v8h-12zm12,8h12v7h-12zm12,0h12v15h-12zm12,0h12v7h-12zm0,15h12v15h-12zm12,7h12v8h-12z"></path>
+     <path fill="rgb(13, 167, 195)" d="M155,127h12v7h-12zm0,22h12v22h-12zm12,-7h12v7h-12zm12,-30h12v7h-12zm24,-8h12v8h-12zm12,90h12v7h-12zm12,0h12v7h-12zM239,97h11v7h-11zm0,104h11v8h-11zm23,-97h12v8h-12zm12,-7h12v7h-12zm12,82h12v7h-12zm12,-45h12v8h-12zm0,37h12v8h-12zm12,-22h12v15h-12z"></path>
+     <path fill="rgb(30, 175, 179)" d="M155,134h12v8h-12zm12,-7h12v15h-12zm0,37h12v7h-12zm12,-45h12v8h-12zm12,-15h12v8h-12zm0,75h12v7h-12zm12,7h12v8h-12zm12,-82h12v8h-12zm12,0h12v8h-12zm12,82h11v15h-11zM250,97h12v7h-12zm0,89h12v8h-12zm12,-7h12v15h-12zm12,0h12v15h-12zm12,-8h12v8h-12zm12,-44h12v7h-12zm0,15h12v7h-12zm12,0h12v7h-12z"></path>
+     <path fill="rgb(46, 183, 164)" d="M167,149h12v15h-12zm12,-22h12v7h-12zm0,44h12v15h-12zm12,-59h12v7h-12zm24,74h12v8h-12zM227,97h12v7h-12zm23,7h12v8h-12zm0,75h12v7h-12zm12,-67h12v7h-12zm12,0h12v7h-12zm12,7h12v15h-12zm12,30h12v22h-12z"></path>
+     <path fill="rgb(82, 186, 146)" d="M179,134h12v8h-12zm12,37h12v8h-12zm12,-59h12v15h-12zm0,67h12v7h-12zm59,-60h12v8h-12zm12,52h12v8h-12zm12,-37h12v22h-12zm0,30h12v7h-12z"></path>
+     <path fill="rgb(116, 189, 129)" d="M179,164h12v7h-12zm12,-45h12v8h-12zm0,23h12v14h-12zm0,22h12v7h-12zm24,7h12v8h-12zm12,-59h12v7h-12zm0,67h12v15h-12zm12,-75h11v8h-11zm0,67h11v15h-11zm11,-59h12v7h-12zm24,7h12v15h-12zm12,37h12v8h-12z"></path>
+     <path fill="rgb(149, 190, 113)" d="M179,149h12v15h-12zm12,7h12v8h-12zm12,-29h12v7h-12zm12,-15h12v15h-12zm0,67h12v7h-12zm12,-60h12v8h-12zm12,-7h11v7h-11zm23,52h12v15h-12zm12,-30h12v8h-12zm0,30h12v7h-12z"></path>
+     <path fill="rgb(179, 189, 101)" d="M179,142h12v7h-12zm12,-15h12v15h-12zm12,37h12v15h-12zm12,-37h12v7h-12zm0,37h12v7h-12zm12,7h12v8h-12zm12,-44h11v7h-11zm0,37h11v7h-11zm11,-45h12v8h-12zm0,30h12v7h-12zm0,22h12v8h-12zm12,-44h12v7h-12zm12,15h12v22h-12z"></path>
+     <path fill="rgb(209, 187, 89)" d="M203,134h12v8h-12zm0,15h12v15h-12zm12,-15h12v15h-12zm24,-15h11v8h-11zm23,30h12v7h-12z"></path>
+     <path fill="rgb(226, 192, 75)" d="M203,142h12v7h-12zm24,14h12v15h-12zm23,-29h12v7h-12zm12,29h12v8h-12z"></path>
+     <path fill="rgb(244, 198, 59)" d="M227,142h12v7h-12zm12,-8h11v8h-11zm11,8h12v7h-12zm0,14h12v8h-12zm12,-14h12v7h-12z"></path>
+     <path fill="rgb(253, 210, 43)" d="M215,156h12v8h-12zm12,-29h12v15h-12zm0,22h12v7h-12zm12,-7h11v7h-11zm0,14h11v8h-11zm11,-22h12v8h-12zm0,30h12v7h-12zm12,-30h12v8h-12z"></path>
+     <path fill="rgb(251, 230, 29)" d="M215,149h12v7h-12z"></path>
+     <path fill="rgb(249, 249, 15)" d="M239,149h11v7h-11z"></path>
     </g>
    </svg>
    <g>
     <g transform="translate(0,298)">
      <path d="M0,0h477M0,-9V0M12,-5V0M24,-5V0M36,-5V0M48,-5V0M60,-9V0M72,-5V0M83,-5V0M95,-5V0M107,-5V0M119,-9V0M131,-5V0M143,-5V0M155,-5V0M167,-5V0M179,-9V0M191,-5V0M203,-5V0M215,-5V0M227,-5V0M239,-9V0M250,-5V0M262,-5V0M274,-5V0M286,-5V0M298,-9V0M310,-5V0M322,-5V0M334,-5V0M346,-5V0M358,-9V0M370,-5V0M382,-5V0M394,-5V0M405,-5V0M417,-9V0M429,-5V0M441,-5V0M453,-5V0M465,-5V0M477,-9V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(0,3)">
-       -4
-      </text>
-      <text dy=".8em" transform="translate(60,3)">
-       -3
-      </text>
-      <text dy=".8em" transform="translate(119,3)">
-       -2
-      </text>
-      <text dy=".8em" transform="translate(179,3)">
-       -1
-      </text>
-      <text dy=".8em" transform="translate(239,3)">
-       0
-      </text>
-      <text dy=".8em" transform="translate(298,3)">
-       1
-      </text>
-      <text dy=".8em" transform="translate(358,3)">
-       2
-      </text>
-      <text dy=".8em" transform="translate(417,3)">
-       3
-      </text>
-      <text dy=".8em" transform="translate(477,3)">
-       4
-      </text>
-     </g>
+     <g font-family="Arial" font-size="13" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,3)">-4</text><text dy=".8em" transform="translate(60,3)">-3</text><text dy=".8em" transform="translate(119,3)">-2</text><text dy=".8em" transform="translate(179,3)">-1</text><text dy=".8em" transform="translate(239,3)">0</text><text dy=".8em" transform="translate(298,3)">1</text><text dy=".8em" transform="translate(358,3)">2</text><text dy=".8em" transform="translate(417,3)">3</text><text dy=".8em" transform="translate(477,3)">4</text></g>
     </g>
     <g>
      <path d="M0,0v298M14,298H0M7,291H0M7,283H0M7,276H0M7,268H0M14,261H0M7,253H0M7,246H0M7,238H0M7,231H0M14,224H0M7,216H0M7,209H0M7,201H0M7,194H0M14,186H0M7,179H0M7,171H0M7,164H0M7,156H0M14,149H0M7,142H0M7,134H0M7,127H0M7,119H0M14,112H0M7,104H0M7,97H0M7,89H0M7,82H0M14,75H0M7,67H0M7,60H0M7,52H0M7,45H0M14,37H0M7,30H0M7,22H0M7,15H0M7,7H0M14,0H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-3,298)">
-       -20
-      </text>
-      <text dy=".4em" transform="translate(-3,261)">
-       -15
-      </text>
-      <text dy=".4em" transform="translate(-3,224)">
-       -10
-      </text>
-      <text dy=".4em" transform="translate(-3,186)">
-       -5
-      </text>
-      <text dy=".4em" transform="translate(-3,149)">
-       0
-      </text>
-      <text dy=".4em" transform="translate(-3,112)">
-       5
-      </text>
-      <text dy=".4em" transform="translate(-3,75)">
-       10
-      </text>
-      <text dy=".4em" transform="translate(-3,37)">
-       15
-      </text>
-      <text dy=".4em" transform="translate(-3)">
-       20
-      </text>
-     </g>
+     <g font-family="Arial" font-size="13" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-3,298)">-20</text><text dominant-baseline="middle" transform="translate(-3,261)">-15</text><text dominant-baseline="middle" transform="translate(-3,224)">-10</text><text dominant-baseline="middle" transform="translate(-3,186)">-5</text><text dominant-baseline="middle" transform="translate(-3,149)">0</text><text dominant-baseline="middle" transform="translate(-3,112)">5</text><text dominant-baseline="middle" transform="translate(-3,75)">10</text><text dominant-baseline="middle" transform="translate(-3,37)">15</text><text dominant-baseline="middle" transform="translate(-3)">20</text></g>
     </g>
    </g>
   </g>
   <g transform="translate(539,37)">
-   <path d="M0,0H27V298H0Z" style="fill: #f9f90f; stroke: black; stroke-width: 1;"></path>
-   <path d="M0,283H27V298H0Z" style="fill: #1652cd;"></path>
-   <path d="M0,268H27V284H0Z" style="fill: #1652cd;"></path>
-   <path d="M0,253H27V269H0Z" style="fill: #1064dc;"></path>
-   <path d="M0,238H27V254H0Z" style="fill: #1272d9;"></path>
-   <path d="M0,224H27V239H0Z" style="fill: #1481d6;"></path>
-   <path d="M0,209H27V225H0Z" style="fill: #0e8fd1;"></path>
-   <path d="M0,194H27V210H0Z" style="fill: #099dcc;"></path>
-   <path d="M0,179H27V195H0Z" style="fill: #0da7c3;"></path>
-   <path d="M0,164H27V180H0Z" style="fill: #1eafb3;"></path>
-   <path d="M0,149H27V165H0Z" style="fill: #2eb7a4;"></path>
-   <path d="M0,134H27V150H0Z" style="fill: #52ba92;"></path>
-   <path d="M0,119H27V135H0Z" style="fill: #74bd81;"></path>
-   <path d="M0,104H27V120H0Z" style="fill: #95be71;"></path>
-   <path d="M0,89H27V105H0Z" style="fill: #b3bd65;"></path>
-   <path d="M0,75H27V90H0Z" style="fill: #d1bb59;"></path>
-   <path d="M0,60H27V76H0Z" style="fill: #e2c04b;"></path>
-   <path d="M0,45H27V61H0Z" style="fill: #f4c63b;"></path>
-   <path d="M0,30H27V46H0Z" style="fill: #fdd22b;"></path>
-   <path d="M0,15H27V31H0Z" style="fill: #fbe61d;"></path>
-   <path d="M0,0H27V16H0Z" style="fill: #f9f90f;"></path>
+   <path d="M0,0H27V298H0Z" style="fill: rgb(249, 249, 15); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,283H27V298H0Z" style="fill: rgb(22, 82, 205);"></path>
+   <path d="M0,268H27V284H0Z" style="fill: rgb(22, 82, 205);"></path>
+   <path d="M0,253H27V269H0Z" style="fill: rgb(16, 100, 220);"></path>
+   <path d="M0,238H27V254H0Z" style="fill: rgb(18, 114, 217);"></path>
+   <path d="M0,224H27V239H0Z" style="fill: rgb(20, 129, 214);"></path>
+   <path d="M0,209H27V225H0Z" style="fill: rgb(14, 143, 209);"></path>
+   <path d="M0,194H27V210H0Z" style="fill: rgb(9, 157, 204);"></path>
+   <path d="M0,179H27V195H0Z" style="fill: rgb(13, 167, 195);"></path>
+   <path d="M0,164H27V180H0Z" style="fill: rgb(30, 175, 179);"></path>
+   <path d="M0,149H27V165H0Z" style="fill: rgb(46, 183, 164);"></path>
+   <path d="M0,134H27V150H0Z" style="fill: rgb(82, 186, 146);"></path>
+   <path d="M0,119H27V135H0Z" style="fill: rgb(116, 189, 129);"></path>
+   <path d="M0,104H27V120H0Z" style="fill: rgb(149, 190, 113);"></path>
+   <path d="M0,89H27V105H0Z" style="fill: rgb(179, 189, 101);"></path>
+   <path d="M0,75H27V90H0Z" style="fill: rgb(209, 187, 89);"></path>
+   <path d="M0,60H27V76H0Z" style="fill: rgb(226, 192, 75);"></path>
+   <path d="M0,45H27V61H0Z" style="fill: rgb(244, 198, 59);"></path>
+   <path d="M0,30H27V46H0Z" style="fill: rgb(253, 210, 43);"></path>
+   <path d="M0,15H27V31H0Z" style="fill: rgb(251, 230, 29);"></path>
+   <path d="M0,0H27V16H0Z" style="fill: rgb(249, 249, 15);"></path>
    <g transform="translate(27)">
     <path d="M0,0v298M0,298H-14M0,265H-14M0,233H-14M0,200H-14M0,168H-14M0,135H-14M0,103H-14M0,70H-14M0,37H-14M0,5H-14" style="stroke: black; stroke-width: 1;"></path>
-    <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="start">
-     <text dy=".4em" transform="translate(3,298)">
-      0
-     </text>
-     <text dy=".4em" transform="translate(3,265)">
-      20
-     </text>
-     <text dy=".4em" transform="translate(3,233)">
-      40
-     </text>
-     <text dy=".4em" transform="translate(3,200)">
-      60
-     </text>
-     <text dy=".4em" transform="translate(3,168)">
-      80
-     </text>
-     <text dy=".4em" transform="translate(3,135)">
-      100
-     </text>
-     <text dy=".4em" transform="translate(3,103)">
-      120
-     </text>
-     <text dy=".4em" transform="translate(3,70)">
-      140
-     </text>
-     <text dy=".4em" transform="translate(3,37)">
-      160
-     </text>
-     <text dy=".4em" transform="translate(3,5)">
-      180
-     </text>
-    </g>
+    <g font-family="Arial" font-size="13" xml:space="preserve" fill="black" text-anchor="start"><text dominant-baseline="middle" transform="translate(3,298)">0</text><text dominant-baseline="middle" transform="translate(3,265)">20</text><text dominant-baseline="middle" transform="translate(3,233)">40</text><text dominant-baseline="middle" transform="translate(3,200)">60</text><text dominant-baseline="middle" transform="translate(3,168)">80</text><text dominant-baseline="middle" transform="translate(3,135)">100</text><text dominant-baseline="middle" transform="translate(3,103)">120</text><text dominant-baseline="middle" transform="translate(3,70)">140</text><text dominant-baseline="middle" transform="translate(3,37)">160</text><text dominant-baseline="middle" transform="translate(3,5)">180</text></g>
    </g>
   </g>
-  <g transform="translate(465,24)" font-family="Arial" font-size="10" space="preserve" fill="black">
-   <path d="M0,0H119V89H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <text text-anchor="middle" dy=".4em" transform="translate(60,7)">
-    hcol1
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(6,22)">
-    Entries
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(113,22)">
-    25000
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(6,37)">
-    Mean x
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(113,37)">
-    -0.002430
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(6,52)">
-    Mean y
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(113,52)">
-    -0.04709
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(6,67)">
-    Std Dev x
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(113,67)">
-    0.9973
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(6,82)">
-    Std Dev y
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(113,82)">
-    4.999
-   </text>
-   <path d="M0,15h119" style="stroke: black; stroke-width: 1;"></path>
-  </g>
-  <g transform="translate(184,2)" font-family="Arial" font-size="16" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(114,12)">
-    Option COLor example
-   </text>
-  </g>
+  <g transform="translate(465,24)" font-family="Arial" font-size="12" xml:space="preserve" fill="black"><path d="M0,0H119V89H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(60,7)">hcol1</text><text text-anchor="start" dominant-baseline="middle" transform="translate(6,22)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(113,22)">25000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(6,37)">Mean x</text><text text-anchor="end" dominant-baseline="middle" transform="translate(113,37)">-0.002430</text><text text-anchor="start" dominant-baseline="middle" transform="translate(6,52)">Mean y</text><text text-anchor="end" dominant-baseline="middle" transform="translate(113,52)">-0.04709</text><text text-anchor="start" dominant-baseline="middle" transform="translate(6,67)">Std Dev x</text><text text-anchor="end" dominant-baseline="middle" transform="translate(113,67)">0.9973</text><text text-anchor="start" dominant-baseline="middle" transform="translate(6,82)">Std Dev y</text><text text-anchor="end" dominant-baseline="middle" transform="translate(113,82)">4.999</text><path d="M0,15h119" style="stroke: black; stroke-width: 1;"></path></g>
+  <g transform="translate(184,2)" font-family="Arial" font-size="18" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(114,12)">Option COLor example </text></g>
  </g>
 </svg>

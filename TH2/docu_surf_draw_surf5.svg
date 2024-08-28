@@ -1,50 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 596 372" preserveAspectRatio="none" width="596" height="372">
+<svg xmlns="http://www.w3.org/2000/svg" width="596" height="372" viewBox="0 0 596 372" preserveAspectRatio="none">
  <path d="M0,0H596V372H0Z" style="fill: white;"></path>
  <g transform="translate(27,22)">
   <image width="543" height="328" href="data:image/png;base64,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"></image>
  </g>
  <g>
-  <g transform="translate(465,24)" font-family="Arial" font-size="11" space="preserve" fill="black">
-   <path d="M0,0H119V89H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <text text-anchor="middle" dy=".4em" transform="translate(60,7)">
-    hsurf4
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(6,22)">
-    Entries
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(113,22)">
-    50000
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(6,37)">
-    Mean x
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(113,37)">
-    -0.7255
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(6,52)">
-    Mean y
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(113,52)">
-    -0.9554
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(6,67)">
-    Std Dev x
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(113,67)">
-    1.288
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(6,82)">
-    Std Dev y
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(113,82)">
-    5.596
-   </text>
-   <path d="M0,15h119" style="stroke: black; stroke-width: 1;"></path>
-  </g>
-  <g transform="translate(183,2)" font-family="Arial" font-size="16" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(116,12)">
-    Option SURF5 example
-   </text>
-  </g>
+  <g transform="translate(465,24)" font-family="Arial" font-size="12" xml:space="preserve" fill="black"><path d="M0,0H119V89H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(60,7)">hsurf4</text><text text-anchor="start" dominant-baseline="middle" transform="translate(6,22)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(113,22)">50000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(6,37)">Mean x</text><text text-anchor="end" dominant-baseline="middle" transform="translate(113,37)">-0.7255</text><text text-anchor="start" dominant-baseline="middle" transform="translate(6,52)">Mean y</text><text text-anchor="end" dominant-baseline="middle" transform="translate(113,52)">-0.9554</text><text text-anchor="start" dominant-baseline="middle" transform="translate(6,67)">Std Dev x</text><text text-anchor="end" dominant-baseline="middle" transform="translate(113,67)">1.288</text><text text-anchor="start" dominant-baseline="middle" transform="translate(6,82)">Std Dev y</text><text text-anchor="end" dominant-baseline="middle" transform="translate(113,82)">5.596</text><path d="M0,15h119" style="stroke: black; stroke-width: 1;"></path></g>
+  <g transform="translate(183,2)" font-family="Arial" font-size="18" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(116,12)">Option SURF5 example </text></g>
  </g>
 </svg>
