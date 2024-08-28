@@ -13,7 +13,10 @@ const server_path = 'http://localhost:8000/jsroot/',
       filepath = 'https://jsroot.gsi.de/files/',
       // filepath = 'https://root.cern.ch/js/files/',
       // place for special cases
-      specialCases = [ 'TCanvas/time.svg' ];  // position of minor tick differs by one on time axis?
+      specialCases = [
+         'TCanvas/time.svg', // position of minor tick differs by one on time axis?
+         'TH2/chord.svg' // order of attributes mixes, cannot repair while produced inside d3
+      ];
 
 
 let init_curve = false, init_palette = 57, init_TimeZone = '',
