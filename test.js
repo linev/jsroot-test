@@ -20,7 +20,9 @@ console.log(`JSROOT version  ${version_id} ${version_date}`);
 const jsroot_path = './../jsroot',
       examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`)),
       filepath = 'https://jsroot.gsi.de/files/',
+      jsonfilepath = 'http://jsroot.gsi.de/files/', // httpRequest has problem with GSI https
       // filepath = 'https://root.cern.ch/js/files/',
+      // jsonfilepath = 'https://root.cern.ch/js/files/',
       // place for special cases
       specialCases = [ 'TCanvas/time.svg' ];  // position of minor tick differs by one on time axis?
 
@@ -423,7 +425,7 @@ function processNextOption(reset_mathjax) {
    if (entry.json) {
       jsonname = entry.json;
       if ((jsonname.indexOf('http:') < 0) && (jsonname.indexOf('https:') < 0))
-         jsonname = filepath + jsonname;
+         jsonname = jsonfilepath + jsonname;
    }
    if (entry.items) {
       if (itemid < 0) {
