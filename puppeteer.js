@@ -185,29 +185,42 @@ function produceFile(content, extension, subid) {
 
    const svgname = keyid + '/' + use_name + extension,
          ispng = (extension === '.png'),
-         ispdf = (extension === '.pdf'),
-         clen = content.length ?? content.byteLength;
+         ispdf = (extension === '.pdf');
    let svg0 = null, result = 'MATCH';
 
+   if (ispng) {
+      const prefix = 'data:image/png;base64,';
+      if (content.slice(0, prefix.length) !== prefix) {
+         console.error('NOT a PNG href provided');
+         content = '';
+      } else {
+         content = Buffer.from(content.slice(prefix.length), 'base64');
+         if (show_debug)
+            console.log('png image size', content.byteLength);
+      }
+   }
+
+   const clen = content.length ?? content.byteLength ?? 0;
+
    try {
-     svg0 = readFileSync(svgname, ispng || ispdf ? undefined : 'utf-8');
+      svg0 = readFileSync(svgname, ispng || ispdf ? undefined : 'utf-8');
 
-     //let match = (svg0 === content); //Uncomment for comparison without <image> handling
-     //Description: Comparison with <image> handling
-     let match = false;
+      //let match = (svg0 === content); //Uncomment for comparison without <image> handling
+      //Description: Comparison with <image> handling
+      let match = false;
 
-     if (ispng) {
-        match = (svg0?.byteLength === clen);
+      if (ispng) {
+         match = (svg0?.byteLength === clen);
 
-        if (match) {
-           const view0 = new Int8Array(svg0),
-                 view1 = new Int8Array(content);
-           for (let i = 0; i < clen; ++i) {
-              if (view0[i] !== view1[i]) {
-                 match = false; break;
-              }
-           }
-        }
+         if (match) {
+            const view0 = new Int8Array(svg0),
+                  view1 = new Int8Array(content);
+            for (let i = 0; i < clen; ++i) {
+               if (view0[i] !== view1[i]) {
+                  match = false; break;
+               }
+            }
+         }
      } else if (ispdf) {
         match = (svg0?.byteLength === clen);
         const pdf1 = resetPdfFile(svg0.toString()),
@@ -250,7 +263,7 @@ function produceFile(content, extension, subid) {
 
    if ((result === 'NEW') || ((test_mode === 'create') && (result === 'DIFF'))) {
       if (clen > 0) {
-         writeFileSync(svgname, content);
+         writeFileSync(svgname, content, ispng ? undefined : 'utf-8');
          if (printdiff && (result !== 'NEW'))
             exec(`git diff ${svgname}`, (err, output) => { console.log(output); })
 
@@ -260,15 +273,24 @@ function produceFile(content, extension, subid) {
 }
 
 function processURL(url) {
-   // use approx_text_size to have exactly same text width estimation as in node.js
-   url = server_path + '?batch&canvsize=1200x800&approx_text_size&' + url;
+   let fullurl = server_path;
+   if (entry.aspng)
+      fullurl += '?batch=png&';
+   else
+      fullurl += '?batch&';
+
+   fullurl += 'canvsize=1200x800&';
+
+   fullurl += 'approx_text_size&'; // to have exactly same text width estimation as in node.js
+
+   fullurl += url;
 
    if (show_debug)
-      console.log('optid', optid, 'url', url);
+      console.log('optid', optid, 'url', fullurl);
 
    let numframes = 1;
 
-   return page.goto(url)
+   return page.goto(fullurl)
               .then(() => page.waitForSelector('#jsroot_batch_final'))
               .then(() => page.$('#jsroot_batch_final'))
               .then(element => page.evaluate(el => el.innerHTML, element))
@@ -285,8 +307,12 @@ function processURL(url) {
                      const content = contents[n];
                      if (content.indexOf('json:') === 0)
                         produceFile(atob_func(content.slice(5)), '.json', n);
+                     else if (content.indexOf('png:') === 0)
+                        produceFile(content.slice(4), '.png', n);
+                     else if (entry.aspng)
+                        console.error('expeting PNG image');
                      else
-                        produceFile(content, entry.aspng ? '.png' : '.svg', n);
+                        produceFile(content, '.svg', n);
 
                   }
                   return page.goto('about:blank');
@@ -306,13 +332,21 @@ function processNextOption() {
       console.log('No more data to process');
       console.log('SUMMARY: match', nmatch, 'diff', ndiff, 'new', nnew, 'special', nspecial);
 
-
       // Description: If one file pair differs, the test fails
       if (ndiff > 0) {
          structuredLogger('ERROR', 'Not all files match', { diffCount: ndiff });
       }
       return Promise.resolve(true);
    }
+
+   const curr_time = new Date().getTime();
+   if (curr_time - last_time > 10000) {
+      last_time = curr_time;
+      return new Promise(resolveFunc => {
+         setTimeout(resolveFunc, 1);
+      }).then(() => processNextOption());
+   }
+
 
    const opts = examples_main[keyid];
    if (!opts) return Promise.resolve(true);
