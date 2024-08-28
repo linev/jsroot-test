@@ -7,12 +7,6 @@ import { readFileSync, mkdirSync, accessSync, writeFileSync, unlink, constants a
 import { compressSVG, atob_func } from 'jsroot';
 
 
-const browser = await puppeteer.launch();
-
-const ver = await browser.version();
-
-console.log('using browser', ver);
-
 const server_path = 'http://localhost:8000/jsroot/',
       jsroot_path = './../jsroot',
       examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`)),
@@ -24,7 +18,7 @@ const server_path = 'http://localhost:8000/jsroot/',
 
 let init_curve = false, init_palette = 57, init_TimeZone = '',
     test_mode = 'verify', nmatch = 0, ndiff = 0, nnew = 0, nspecial = 0,
-    keyid = 'TH1', theonlykey = false, optid = -1, printdiff = false,
+    keyid = 'TH1', theonlykey = false, firstoptid = -1, optid = -1, printdiff = false, show_debug = false,
     theOnlyOption, theOnlyOptionId = -100,
     entry, entry_name = '', testfile = null, testobj = null,
     last_time = new Date().getTime(),
@@ -65,6 +59,14 @@ if (process.argv && (process.argv.length > 2)) {
                theOnlyOption = '';
             }
             break;
+         case '-f':
+         case '--first':
+            firstoptid = parseInt(process.argv[++cnt]);
+            if (isNaN(firstoptid))
+               firstoptid = -1;
+            else
+               console.log('starting from ', firstoptid);
+            break;
          case '-m':
          case '--more': {
             const examples_more = JSON.parse(readFileSync(`${jsroot_path}/demo/examples_more.json`));
@@ -81,6 +83,10 @@ if (process.argv && (process.argv.length > 2)) {
          case '--interactive':
             test_interactive = true;
             break;
+         case '-d':
+         case '--debug':
+            show_debug = true;
+            break;
          case '-p':
          case '--print':
             printdiff = true;
@@ -95,7 +101,9 @@ if (process.argv && (process.argv.length > 2)) {
             console.log('   -c | --create : perform checks and overwrite when results differ');
             console.log('   -k | --key keyname : select specific key (class name) like TH1 or TProfile for testing');
             console.log('   -o | --opt id : select specific option id (number or name), only when key is specified');
+            console.log('   -f | --first id : start from specified id, only when key is specified');
             console.log('   -m | --more : use more tests');
+            console.log('   -d | --debug : show debug information');
             console.log('   -i | --interactive : enable interactivity checks (except TGeo)');
             console.log('   -p | --print : print difference when files changes');
             process.exit();
@@ -107,6 +115,15 @@ if (process.argv && (process.argv.length > 2)) {
 
 examples_main.TH1.push({ name: 'B_local', file: '../jstests/other/hsimple.root', item: 'hpx;1', opt: 'B,fill_green', title: 'draw histogram as bar chart' });
 examples_main.TTree.push({ name: '2d_local', asurl: true, file: '../jstests/other/hsimple.root', item: 'ntuple', opt: 'px:py', title: 'Two-dimensional TTree::Draw' });
+
+
+const browser = await puppeteer.launch();
+
+const ver = await browser.version();
+
+console.log('using browser', ver);
+
+const page = await browser.newPage();
 
 
 function resetPdfFile(pdfFile) {
@@ -242,41 +259,45 @@ function produceFile(content, extension, subid) {
    }
 }
 
-async function processURL(url) {
+function processURL(url) {
    // use approx_text_size to have exactly same text width estimation as in node.js
    url = server_path + '?batch&canvsize=1200x800&approx_text_size&' + url;
 
-   console.log('url', url);
+   if (show_debug)
+      console.log('optid', optid, 'url', url);
 
-   const page = await browser.newPage();
-   await page.goto(url);
+   let numframes = 1;
 
-   await page.waitForSelector('#jsroot_batch_final');
+   return page.goto(url)
+              .then(() => page.waitForSelector('#jsroot_batch_final'))
+              .then(() => page.$('#jsroot_batch_final'))
+              .then(element => page.evaluate(el => el.innerHTML, element))
+              .then(snumframes => {
+                  numframes = Number.parseInt(snumframes);
+                  const prs = [];
 
-   const element = await page.$('#jsroot_batch_final');
-   const snumframes = await page.evaluate(el => el.innerHTML, element);
+                  for (let n = 0; n < numframes; ++n)
+                     prs.push(page.$(`#jsroot_batch_${n}`).then(sub => page.evaluate(el => el.innerHTML, sub)));
 
-   const numframes = Number.parseInt(snumframes);
+                  return Promise.all(prs);
+               }).then(contents => {
+                  for (let n = 0; n < numframes; ++n) {
+                     const content = contents[n];
+                     if (content.indexOf('json:') === 0)
+                        produceFile(atob_func(content.slice(5)), '.json', n);
+                     else
+                        produceFile(content, entry.aspng ? '.png' : '.svg', n);
 
-   for (let n = 0; n < numframes; ++n) {
-      const sub = await page.$(`#jsroot_batch_${n}`);
-      const content = await page.evaluate(el => el.innerHTML, sub);
-      if (content.indexOf('json:') === 0)
-         produceFile(atob_func(content.slice(5)), '.json', n);
-      else
-         produceFile(content, entry.aspng ? '.png' : '.svg', n);
-   }
-
-   await page.close();
-
-   return true;
+                  }
+                  return page.goto('about:blank');
+               });
 }
 
 function structuredLogger(level, message, details = {}) {
    console.log(JSON.stringify({ level, message, ...details, timestamp: new Date().toISOString() }));
 }
 
-async function processNextOption(reset_mathjax) {
+function processNextOption() {
    if (!keyid) {
       if (all_diffs.length)
          console.log('ALL DIFFS', all_diffs);
@@ -290,25 +311,18 @@ async function processNextOption(reset_mathjax) {
       if (ndiff > 0) {
          structuredLogger('ERROR', 'Not all files match', { diffCount: ndiff });
       }
-      return true;
-   }
-
-   // make timeout to avoid deep callstack
-   const curr_time = new Date().getTime();
-   if ((curr_time - last_time > 10000) && !reset_mathjax) {
-      last_time = curr_time;
-      return setTimeout(() => processNextOption(), 1);
+      return Promise.resolve(true);
    }
 
    const opts = examples_main[keyid];
-   if (!opts) return;
+   if (!opts) return Promise.resolve(true);
 
    if (theOnlyOptionId === optid) {
       keyid = null;
       return processNextOption();
    }
    if (++optid >= opts.length) {
-      optid = -1;
+      optid = firstoptid;
       let found = false, next = null;
       for (const key in examples_main) {
          // if (key === "TGeo") continue; // skip already here
@@ -426,11 +440,16 @@ async function processNextOption(reset_mathjax) {
       }
    }
 
-   await processURL(url);
+   let pr = Promise.resolve(true);
 
-   return processNextOption();
+   if ((firstoptid < 0) || (optid >= firstoptid))
+      pr = processURL(url);
+
+   return pr.then(() => processNextOption());
 }
 
 await processNextOption();
+
+await page.close();
 
 await browser.close();
