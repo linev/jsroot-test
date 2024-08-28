@@ -15,7 +15,8 @@ const server_path = 'http://localhost:8000/jsroot/',
       // place for special cases
       specialCases = [
          'TCanvas/time.svg', // position of minor tick differs by one on time axis?
-         'TH2/chord.svg' // order of attributes mixes, cannot repair while produced inside d3
+         'TH2/chord.svg', // order of attributes mixes, cannot repair while produced inside d3
+         'TH3/box.svg' // not working filter out of image
       ];
 
 
