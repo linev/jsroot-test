@@ -9,6 +9,10 @@ import { compressSVG, atob_func } from 'jsroot';
 
 const browser = await puppeteer.launch();
 
+const ver = await browser.version();
+
+console.log('using browser', ver);
+
 const server_path = 'http://localhost:8000/jsroot/',
       jsroot_path = './../jsroot',
       examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`)),
