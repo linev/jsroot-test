@@ -284,6 +284,8 @@ function processURL(url) {
 
    fullurl += 'canvsize=1200x800&';
 
+   fullurl += 'smallpad=40x40&';
+
    fullurl += 'approx_text_size&'; // to have exactly same text width estimation as in node.js
 
    fullurl += url;
