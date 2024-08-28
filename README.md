@@ -53,3 +53,18 @@ Run with `xvfb` to get reproducible results on different platforms:
 If SVG file differs from stored in repository, difference can be checked with command:
 
     [shell] ./testdiff.sh TH1/TH1.svg
+
+
+## Ruuning with puppeteer
+
+This let use normal browsers without limitation of node.js.
+First of all, one need to start http server for JSROOT
+
+    [shell] python3 jsroot/server/server.py
+
+Then in other shell in the jstest directory:
+
+    [shell] node puppeteer.js -c -m -d -k TProfile
+
+It supports similar list of arguments.
+There are only few special examples which are not match with node.js-generated files.
