@@ -18,13 +18,13 @@ const server_path = 'http://localhost:8000/jsroot/',
       specialCases = [ 'TCanvas/time.svg' ];  // position of minor tick differs by one on time axis?
 
 
-// examples_main.TH1.push({ name: 'B_local', file: 'file://other/hsimple.root', item: 'hpx;1', opt: 'B,fill_green', title: 'draw histogram as bar chart' });
-// examples_main.TTree.push({ name: '2d_local', asurl: true, file: 'file://other/hsimple.root', item: 'ntuple', opt: 'px:py', title: 'Two-dimensional TTree::Draw' });
+examples_main.TH1.push({ name: 'B_local', file: '../jstests/other/hsimple.root', item: 'hpx;1', opt: 'B,fill_green', title: 'draw histogram as bar chart' });
+examples_main.TTree.push({ name: '2d_local', asurl: true, file: '../jstests/other/hsimple.root', item: 'ntuple', opt: 'px:py', title: 'Two-dimensional TTree::Draw' });
 
 let init_curve = false, init_palette = 57, init_TimeZone = '',
     test_mode = 'verify', nmatch = 0, ndiff = 0, nnew = 0, nspecial = 0,
     keyid = 'TH1', theonlykey = false, optid = -1, printdiff = false,
-    theOnlyOption, theOnlyOptionId = -100, itemid = -1,
+    theOnlyOption, theOnlyOptionId = -100,
     entry, entry_name = '', testfile = null, testobj = null,
     last_time = new Date().getTime(),
     test_interactive = false,
@@ -140,7 +140,12 @@ function produceFile(content, extension, subid) {
                           .replace(/\[/g, 'L').replace(/\]/g, 'J').replace(/\*/g, 'star');
 
    let use_name = entry_name;
-   if (subid)
+
+   if (entry.items) {
+      use_name += '_' + entry.items[subid];
+      if (entry.opts && entry.opts[subid])
+         use_name += '_' + entry.opts[subid];
+   } else if (subid)
       use_name += '_' + subid;
 
    if ((extension === '.svg') && content) {
@@ -163,7 +168,7 @@ function produceFile(content, extension, subid) {
    try {
      svg0 = readFileSync(svgname, ispng || ispdf ? undefined : 'utf-8');
 
-     //let match = (svg0 === content); //Uncommnet for comparions without <image> handling
+     //let match = (svg0 === content); //Uncomment for comparison without <image> handling
      //Description: Comparison with <image> handling
      let match = false;
 
@@ -290,29 +295,22 @@ async function processNextOption(reset_mathjax) {
    const opts = examples_main[keyid];
    if (!opts) return;
 
-   if ((itemid >= 0) || (itemid === -2)) {
-      if (itemid === -2) itemid = -1; // special workaround for style entry, which is marked as itemid=-2
-      if (++itemid >= opts[optid].items.length) itemid = -1;
+   if (theOnlyOptionId === optid) {
+      keyid = null;
+      return processNextOption();
    }
-
-   if (itemid < 0) { // first check that all items are processed
-      if (theOnlyOptionId === optid) {
-         keyid = null;
-         return processNextOption();
+   if (++optid >= opts.length) {
+      optid = -1;
+      let found = false, next = null;
+      for (const key in examples_main) {
+         // if (key === "TGeo") continue; // skip already here
+         if (found) { next = key; break; }
+         if (key === keyid) found = true;
       }
-      if (++optid >= opts.length) {
-         optid = -1;
-         let found = false, next = null;
-         for (const key in examples_main) {
-            // if (key === "TGeo") continue; // skip already here
-            if (found) { next = key; break; }
-            if (key === keyid) found = true;
-         }
 
-         keyid = next;
-         if (theonlykey) keyid = null;
-         return processNextOption();
-      }
+      keyid = next;
+      if (theonlykey) keyid = null;
+      return processNextOption();
    }
 
    entry = opts[optid];
@@ -338,7 +336,7 @@ async function processNextOption(reset_mathjax) {
    if (entry.file) {
       jsonname = '';
       filename = entry.file;
-      if ((filename.indexOf('http:') < 0) && (filename.indexOf('https:') < 0) && (filename.indexOf('file:') < 0))
+      if ((filename.indexOf('http:') < 0) && (filename.indexOf('https:') < 0) && (filename.indexOf('../jstests/other/') !== 0))
          filename = filepath + filename;
    }
    if (entry.item) {
@@ -351,22 +349,8 @@ async function processNextOption(reset_mathjax) {
    if (entry.json) {
       filename = itemname = '';
       jsonname = entry.json;
-      if ((jsonname.indexOf('http:')<0) && (jsonname.indexOf('https:')<0))
+      if ((jsonname.indexOf('http:') < 0) && (jsonname.indexOf('https:') < 0))
          jsonname = filepath + jsonname;
-   }
-   if (entry.items) {
-      if (itemid < 0) {
-         if ((itemid === -1) && entry.style) {
-            itemid = -2;
-            itemname = entry.style; // special case when style should be applied before objects drawing
-         } else
-           itemid = 0;
-      }
-      if (itemid >= 0) {
-         itemname = entry.items[itemid];
-         if (entry.opts && (itemid < entry.opts.length))
-            opt = entry.opts[itemid];
-      }
    }
 
    if (entry.r3d)
@@ -385,9 +369,7 @@ async function processNextOption(reset_mathjax) {
 
    // if ((opt=='inspect') || (opt=='count')) return processNextOption();
 
-   if (itemid >= 0)
-      entry_name = (entry.name || keyid) + '_' + itemname + (opt ? '_' + opt : '');
-   else if (entry.name)
+   if (entry.name)
       entry_name = entry.name;
    else
       entry_name = opt || keyid;
@@ -399,15 +381,41 @@ async function processNextOption(reset_mathjax) {
    }
 
    if (!url) {
+
       if (jsonname)
          url += 'json=' + jsonname;
-      else
-         url = 'file=' + filename + '&item=' + itemname;
+      else {
+         url = 'file=' + filename;
 
-      url += '&opt=' + opt+opt2;
+         if (entry.style)
+            url += `&style=${entry.style}`;
 
+         if (entry.items) {
+            opt = opt2 = '';
+            if (entry.layout) url += `&layout=${entry.layout}`;
+            url += `&items=[${entry.items.join(',')}]`;
+            if (entry.opts) url += `&opts=[${entry.opts.join(',')}]`;
+         } else {
+            url += '&item=' + itemname;
+         }
+      }
+
+      if (opt + opt2)
+         url += `&opt=${opt+opt2}`;
+
+      if (entry.mathjax)
+         url += '&mathjax';
       if (entry.latex)
          url += `&latex=${entry.latex}`;
+
+      if (entry.timezone) {
+         if (entry.timezone === 'UTC')
+            url += '&utc';
+         else if (entry.timezone === 'Europe/Berlin')
+            url += '&cet';
+         else
+            url += `&timezone='${entry.timezone}'`;
+      }
    }
 
    return processURL(url);
