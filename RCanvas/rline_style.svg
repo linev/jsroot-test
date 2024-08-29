@@ -1,91 +1,47 @@
 <svg width="1200" height="800" viewBox="0 0 1200 800" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
-  <g font-family="Arial" font-size="32" space="preserve" font-style="oblique">
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(360,80)">
-    1
-   </text>
-  </g>
+  <g font-family="Arial" font-size="32" xml:space="preserve" font-style="oblique"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(360,80)">1</text></g>
   <g>
    <path d="M384,80L960,80" style="stroke: black; stroke-width: 1;"></path>
   </g>
-  <g font-family="Arial" font-size="32" space="preserve" font-style="oblique">
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(360,120)">
-    2
-   </text>
-  </g>
+  <g font-family="Arial" font-size="32" xml:space="preserve" font-style="oblique"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(360,120)">2</text></g>
   <g>
-   <path d="M384,120L960,120" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,3;"></path>
+   <path d="M384,120L960,120" style="stroke: black; stroke-width: 1; stroke-dasharray: 3, 3;"></path>
   </g>
-  <g font-family="Arial" font-size="32" space="preserve" font-style="oblique">
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(360,160)">
-    3
-   </text>
-  </g>
+  <g font-family="Arial" font-size="32" xml:space="preserve" font-style="oblique"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(360,160)">3</text></g>
   <g>
-   <path d="M384,160L960,160" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+   <path d="M384,160L960,160" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
   </g>
-  <g font-family="Arial" font-size="32" space="preserve" font-style="oblique">
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(360,200)">
-    4
-   </text>
-  </g>
+  <g font-family="Arial" font-size="32" xml:space="preserve" font-style="oblique"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(360,200)">4</text></g>
   <g>
-   <path d="M384,200L960,200" style="stroke: black; stroke-width: 1; stroke-dasharray: 3,4,1,4;"></path>
+   <path d="M384,200L960,200" style="stroke: black; stroke-width: 1; stroke-dasharray: 3, 4, 1, 4;"></path>
   </g>
-  <g font-family="Arial" font-size="32" space="preserve" font-style="oblique">
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(360,240)">
-    5
-   </text>
-  </g>
+  <g font-family="Arial" font-size="32" xml:space="preserve" font-style="oblique"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(360,240)">5</text></g>
   <g>
-   <path d="M384,240L960,240" style="stroke: black; stroke-width: 1; stroke-dasharray: 5,3,1,3;"></path>
+   <path d="M384,240L960,240" style="stroke: black; stroke-width: 1; stroke-dasharray: 5, 3, 1, 3;"></path>
   </g>
-  <g font-family="Arial" font-size="32" space="preserve" font-style="oblique">
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(360,280)">
-    6
-   </text>
-  </g>
+  <g font-family="Arial" font-size="32" xml:space="preserve" font-style="oblique"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(360,280)">6</text></g>
   <g>
-   <path d="M384,280L960,280" style="stroke: black; stroke-width: 1; stroke-dasharray: 5,3,1,3,1,3,1,3;"></path>
+   <path d="M384,280L960,280" style="stroke: black; stroke-width: 1; stroke-dasharray: 5, 3, 1, 3, 1, 3, 1, 3;"></path>
   </g>
-  <g font-family="Arial" font-size="32" space="preserve" font-style="oblique">
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(360,320)">
-    7
-   </text>
-  </g>
+  <g font-family="Arial" font-size="32" xml:space="preserve" font-style="oblique"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(360,320)">7</text></g>
   <g>
-   <path d="M384,320L960,320" style="stroke: black; stroke-width: 1; stroke-dasharray: 5,5;"></path>
+   <path d="M384,320L960,320" style="stroke: black; stroke-width: 1; stroke-dasharray: 5, 5;"></path>
   </g>
-  <g font-family="Arial" font-size="32" space="preserve" font-style="oblique">
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(360,360)">
-    8
-   </text>
-  </g>
+  <g font-family="Arial" font-size="32" xml:space="preserve" font-style="oblique"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(360,360)">8</text></g>
   <g>
-   <path d="M384,360L960,360" style="stroke: black; stroke-width: 1; stroke-dasharray: 5,3,1,3,1,3;"></path>
+   <path d="M384,360L960,360" style="stroke: black; stroke-width: 1; stroke-dasharray: 5, 3, 1, 3, 1, 3;"></path>
   </g>
-  <g font-family="Arial" font-size="32" space="preserve" font-style="oblique">
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(360,400)">
-    9
-   </text>
-  </g>
+  <g font-family="Arial" font-size="32" xml:space="preserve" font-style="oblique"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(360,400)">9</text></g>
   <g>
-   <path d="M384,400L960,400" style="stroke: black; stroke-width: 1; stroke-dasharray: 20,5;"></path>
+   <path d="M384,400L960,400" style="stroke: black; stroke-width: 1; stroke-dasharray: 20, 5;"></path>
   </g>
-  <g font-family="Arial" font-size="32" space="preserve" font-style="oblique">
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(360,440)">
-    10
-   </text>
-  </g>
+  <g font-family="Arial" font-size="32" xml:space="preserve" font-style="oblique"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(360,440)">10</text></g>
   <g>
-   <path d="M384,440L960,440" style="stroke: black; stroke-width: 1; stroke-dasharray: 20,10,1,10;"></path>
+   <path d="M384,440L960,440" style="stroke: black; stroke-width: 1; stroke-dasharray: 20, 10, 1, 10;"></path>
   </g>
-  <g font-family="Arial" font-size="32" space="preserve" font-style="oblique">
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(360,480)">
-    Custom
-   </text>
-  </g>
+  <g font-family="Arial" font-size="32" xml:space="preserve" font-style="oblique"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(360,480)">Custom</text></g>
   <g>
    <path d="M384,480L960,480" style="stroke: black; stroke-width: 1; stroke-dasharray: 10,2,8,2,10,6,1,6;"></path>
   </g>

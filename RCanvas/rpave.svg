@@ -1,4 +1,4 @@
-<svg width="1200" height="800" viewBox="0 0 1000 700" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1000" height="700" viewBox="0 0 1000 700" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <pattern id="pat_3001_0000ff" patternUnits="userSpaceOnUse" width="2" height="2">
    <path d="M0,0h1v1h-1zM1,1h1v1h-1z" style="fill: #0000FF;"></path>
@@ -18,30 +18,8 @@
  </defs>
  <path d="M0,0H1000V700H0Z" style="fill: white;"></path>
  <g>
-  <g transform="translate(550,455)" font-family="CustomFont" font-size="21" space="preserve" fill="black" text-anchor="middle">
-   <rect x="0" width="400" y="0" height="210" style="stroke: black; stroke-width: 1; fill: url(#pat_3004_008000);"></rect>
-   <text dy=".4em" transform="translate(200,35)">
-    RPaveText with custom font
-   </text>
-   <text dy=".4em" transform="translate(200,105)">
-    It loaded from comic.woff2 file
-   </text>
-   <text dy=".4em" transform="translate(200,175)">
-    One also can provide valid URL
-   </text>
-  </g>
-  <g transform="translate(550,35)" font-family="Arial" font-size="20" space="preserve" fill="black" text-anchor="middle">
-   <rect x="0" width="400" y="0" height="210" style="stroke: black; stroke-width: 1; fill: url(#pat_3003_ffff00);"></rect>
-   <text dy=".4em" transform="translate(200,35)">
-    This is RPaveText
-   </text>
-   <text dy=".4em" transform="translate(200,105)">
-    It can have several lines
-   </text>
-   <text dy=".4em" transform="translate(200,175)">
-    It should be in top right corner
-   </text>
-  </g>
+  <g transform="translate(550,455)" font-family="CustomFont" font-size="27" xml:space="preserve" fill="black" text-anchor="middle"><rect x="0" width="400" y="0" height="210" style="stroke: black; stroke-width: 1; fill: url(#pat_3004_008000);"></rect><text dominant-baseline="middle" transform="translate(200,35)">RPaveText with custom font</text><text dominant-baseline="middle" transform="translate(200,105)">It loaded from comic.woff2 file</text><text dominant-baseline="middle" transform="translate(200,175)">One also can provide valid URL</text></g>
+  <g transform="translate(550,35)" font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="middle"><rect x="0" width="400" y="0" height="210" style="stroke: black; stroke-width: 1; fill: url(#pat_3003_ffff00);"></rect><text dominant-baseline="middle" transform="translate(200,35)">This is RPaveText</text><text dominant-baseline="middle" transform="translate(200,105)">It can have several lines</text><text dominant-baseline="middle" transform="translate(200,175)">It should be in top right corner</text></g>
   <g transform="translate(50,455)">
    <rect x="0" width="300" y="0" height="210" style="stroke: black; stroke-width: 1; fill: url(#pat_3002_ff0000);"></rect>
   </g>

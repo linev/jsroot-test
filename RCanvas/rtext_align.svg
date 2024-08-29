@@ -2,79 +2,43 @@
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g>
-   <path d="M120,720H1080V80H120Z" style="stroke: black; stroke-width: 1; stroke-dasharray: 5,3,1,3,1,3,1,3; fill: none;"></path>
+   <path d="M120,720H1080V80H120Z" style="stroke: black; stroke-width: 1; stroke-dasharray: 5, 3, 1, 3, 1, 3, 1, 3; fill: none;"></path>
   </g>
   <g>
    <path d="M116,82H124V78H116Z" style="stroke: black; stroke-width: 1; fill: #FF0000;"></path>
   </g>
-  <g font-family="Arial" font-size="56" space="preserve">
-   <text fill="black" text-anchor="start" dy=".8em" transform="translate(120,80)">
-    kLeftTop
-   </text>
-  </g>
+  <g font-family="Arial" font-size="56" xml:space="preserve"><text fill="black" text-anchor="start" dy=".8em" transform="translate(120,80)">kLeftTop</text></g>
   <g>
    <path d="M116,402H124V398H116Z" style="stroke: black; stroke-width: 1; fill: #FF0000;"></path>
   </g>
-  <g font-family="Arial" font-size="56" space="preserve">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(120,400)">
-    kLeftCenter
-   </text>
-  </g>
+  <g font-family="Arial" font-size="56" xml:space="preserve"><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(120,400)">kLeftCenter</text></g>
   <g>
    <path d="M116,722H124V718H116Z" style="stroke: black; stroke-width: 1; fill: #FF0000;"></path>
   </g>
-  <g font-family="Arial" font-size="56" space="preserve">
-   <text fill="black" text-anchor="start" transform="translate(120,720)">
-    kLeftBottom
-   </text>
-  </g>
+  <g font-family="Arial" font-size="56" xml:space="preserve"><text fill="black" text-anchor="start" transform="translate(120,720)">kLeftBottom</text></g>
   <g>
    <path d="M1076,82H1084V78H1076Z" style="stroke: black; stroke-width: 1; fill: #FF0000;"></path>
   </g>
-  <g font-family="Arial" font-size="56" space="preserve">
-   <text fill="black" text-anchor="end" dy=".8em" transform="translate(1080,80)">
-    kRightTop
-   </text>
-  </g>
+  <g font-family="Arial" font-size="56" xml:space="preserve"><text fill="black" text-anchor="end" dy=".8em" transform="translate(1080,80)">kRightTop</text></g>
   <g>
    <path d="M1076,402H1084V398H1076Z" style="stroke: black; stroke-width: 1; fill: #FF0000;"></path>
   </g>
-  <g font-family="Arial" font-size="56" space="preserve">
-   <text fill="black" text-anchor="end" dy=".4em" transform="translate(1080,400)">
-    kRightCenter
-   </text>
-  </g>
+  <g font-family="Arial" font-size="56" xml:space="preserve"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(1080,400)">kRightCenter</text></g>
   <g>
    <path d="M1076,722H1084V718H1076Z" style="stroke: black; stroke-width: 1; fill: #FF0000;"></path>
   </g>
-  <g font-family="Arial" font-size="56" space="preserve">
-   <text fill="black" text-anchor="end" transform="translate(1080,720)">
-    kRightBottom
-   </text>
-  </g>
+  <g font-family="Arial" font-size="56" xml:space="preserve"><text fill="black" text-anchor="end" transform="translate(1080,720)">kRightBottom</text></g>
   <g>
    <path d="M596,402H604V398H596Z" style="stroke: black; stroke-width: 1; fill: #FF0000;"></path>
   </g>
-  <g font-family="Arial" font-size="56" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(600,400)">
-    kCenter
-   </text>
-  </g>
+  <g font-family="Arial" font-size="56" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(600,400)">kCenter</text></g>
   <g>
    <path d="M596,82H604V78H596Z" style="stroke: black; stroke-width: 1; fill: #FF0000;"></path>
   </g>
-  <g font-family="Arial" font-size="56" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(600,80)">
-    kCenterTop
-   </text>
-  </g>
+  <g font-family="Arial" font-size="56" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(600,80)">kCenterTop</text></g>
   <g>
    <path d="M596,722H604V718H596Z" style="stroke: black; stroke-width: 1; fill: #FF0000;"></path>
   </g>
-  <g font-family="Arial" font-size="56" space="preserve">
-   <text fill="black" text-anchor="middle" transform="translate(600,720)">
-    kCenterBottom
-   </text>
-  </g>
+  <g font-family="Arial" font-size="56" xml:space="preserve"><text fill="black" text-anchor="middle" transform="translate(600,720)">kCenterBottom</text></g>
  </g>
 </svg>

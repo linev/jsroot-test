@@ -1,4 +1,4 @@
-<svg width="1200" height="800" viewBox="0 0 1000 700" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1000" height="700" viewBox="0 0 1000 700" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
  <path d="M0,0H1000V700H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(100,70)">
@@ -30,124 +30,18 @@
    <g>
     <g transform="translate(0,560)">
      <path d="M0,-14V0M33,-7V0M67,-7V0M100,-7V0M133,-14V0M167,-7V0M200,-7V0M233,-7V0M267,-14V0M300,-7V0M333,-7V0M367,-7V0M400,-14V0M433,-7V0M467,-7V0M500,-7V0M533,-14V0M567,-7V0M600,-7V0M633,-7V0M667,-14V0M700,-7V0M733,-7V0M767,-7V0M800,-14V0" style="stroke: black;"></path>
-     <g font-family="Arial" font-size="21" space="preserve">
-      <text text-anchor="middle" dy=".8em" transform="translate(0,4)">
-       400
-      </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(133,4)">
-       600
-      </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(267,4)">
-       800
-      </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(400,4)">
-       1000
-      </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(533,4)">
-       1200
-      </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(667,4)">
-       1400
-      </text>
-      <text text-anchor="middle" dy=".8em" transform="translate(800,4)">
-       1600
-      </text>
-     </g>
+     <g font-family="Arial" font-size="21" xml:space="preserve"><text text-anchor="middle" dy=".8em" transform="translate(0,4)">400</text><text text-anchor="middle" dy=".8em" transform="translate(133,4)">600</text><text text-anchor="middle" dy=".8em" transform="translate(267,4)">800</text><text text-anchor="middle" dy=".8em" transform="translate(400,4)">1000</text><text text-anchor="middle" dy=".8em" transform="translate(533,4)">1200</text><text text-anchor="middle" dy=".8em" transform="translate(667,4)">1400</text><text text-anchor="middle" dy=".8em" transform="translate(800,4)">1600</text></g>
     </g>
     <g transform="translate(0,560)">
      <path d="M20,0H0M10,-23H0M10,-47H0M10,-70H0M20,-93H0M10,-117H0M10,-140H0M10,-163H0M20,-187H0M10,-210H0M10,-233H0M10,-257H0M20,-280H0M10,-303H0M10,-327H0M10,-350H0M20,-373H0M10,-397H0M10,-420H0M10,-443H0M20,-467H0M10,-490H0M10,-513H0M10,-537H0M20,-560H0" style="stroke: black;"></path>
-     <g font-family="Arial" font-size="21" space="preserve">
-      <text text-anchor="end" dy=".4em" transform="translate(-5)">
-       400
-      </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-93)">
-       600
-      </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-187)">
-       800
-      </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-280)">
-       1000
-      </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-373)">
-       1200
-      </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-467)">
-       1400
-      </text>
-      <text text-anchor="end" dy=".4em" transform="translate(-5,-560)">
-       1600
-      </text>
-     </g>
+     <g font-family="Arial" font-size="21" xml:space="preserve"><text text-anchor="end" dominant-baseline="middle" transform="translate(-5)">400</text><text text-anchor="end" dominant-baseline="middle" transform="translate(-5,-93)">600</text><text text-anchor="end" dominant-baseline="middle" transform="translate(-5,-187)">800</text><text text-anchor="end" dominant-baseline="middle" transform="translate(-5,-280)">1000</text><text text-anchor="end" dominant-baseline="middle" transform="translate(-5,-373)">1200</text><text text-anchor="end" dominant-baseline="middle" transform="translate(-5,-467)">1400</text><text text-anchor="end" dominant-baseline="middle" transform="translate(-5,-560)">1600</text></g>
     </g>
    </g>
   </g>
-  <g transform="translate(100,21)" font-family="Arial" font-size="49" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(400,18)">
-    Large RH2D histogram with 2000 x 2000 bins
-   </text>
-  </g>
+  <g transform="translate(100,21)" font-family="Arial" font-size="49" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(400,18)">Large RH2D histogram with 2000 x 2000 bins</text></g>
   <g transform="translate(580,84)">
    <rect x="0" width="300" y="0" height="210" style="stroke: black; stroke-width: 1; fill: #0000FF;"></rect>
-   <g font-family="Arial" font-size="17" space="preserve">
-    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(150,11)">
-     hist
-    </text>
-    <text fill="black" text-anchor="start" dy=".4em" transform="translate(6,32)">
-     Entries
-    </text>
-    <text fill="black" text-anchor="end" dy=".4em" transform="translate(294,32)">
-     1
-    </text>
-    <text fill="black" text-anchor="start" dy=".4em" transform="translate(6,53)">
-     Mean x
-    </text>
-    <text fill="black" text-anchor="end" dy=".4em" transform="translate(294,53)">
-     2
-    </text>
-    <text fill="black" text-anchor="start" dy=".4em" transform="translate(6,74)">
-     Mean y
-    </text>
-    <text fill="black" text-anchor="end" dy=".4em" transform="translate(294,74)">
-     3
-    </text>
-    <text fill="black" text-anchor="start" dy=".4em" transform="translate(6,95)">
-     Std dev x
-    </text>
-    <text fill="black" text-anchor="end" dy=".4em" transform="translate(294,95)">
-     5
-    </text>
-    <text fill="black" text-anchor="start" dy=".4em" transform="translate(6,116)">
-     Std dev y
-    </text>
-    <text fill="black" text-anchor="end" dy=".4em" transform="translate(294,116)">
-     6
-    </text>
-    <text fill="black" text-anchor="start" dy=".4em" transform="translate(6,137)">
-     X min
-    </text>
-    <text fill="black" text-anchor="end" dy=".4em" transform="translate(294,137)">
-     400.000000
-    </text>
-    <text fill="black" text-anchor="start" dy=".4em" transform="translate(6,158)">
-     X max
-    </text>
-    <text fill="black" text-anchor="end" dy=".4em" transform="translate(294,158)">
-     1600.000000
-    </text>
-    <text fill="black" text-anchor="start" dy=".4em" transform="translate(6,179)">
-     Y min
-    </text>
-    <text fill="black" text-anchor="end" dy=".4em" transform="translate(294,179)">
-     400.000000
-    </text>
-    <text fill="black" text-anchor="start" dy=".4em" transform="translate(6,200)">
-     Y max
-    </text>
-    <text fill="black" text-anchor="end" dy=".4em" transform="translate(294,200)">
-     1600.000000
-    </text>
-   </g>
+   <g font-family="Arial" font-size="18" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(150,11)">hist</text><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(6,32)">Entries </text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(294,32)"> 1</text><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(6,53)">Mean x </text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(294,53)"> 2</text><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(6,74)">Mean y </text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(294,74)"> 3</text><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(6,95)">Std dev x </text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(294,95)"> 5</text><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(6,116)">Std dev y </text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(294,116)"> 6</text><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(6,137)">X min </text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(294,137)"> 400.000000</text><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(6,158)">X max </text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(294,158)"> 1600.000000</text><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(6,179)">Y min </text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(294,179)"> 400.000000</text><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(6,200)">Y max </text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(294,200)"> 1600.000000</text></g>
    <path d="M0,21h300"></path>
   </g>
  </g>
