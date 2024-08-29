@@ -12,19 +12,19 @@
     <g>
      <path d="M99,490l191,-194l190,-194l190,291l191,-194" style="stroke: black; stroke-width: 1; fill: none;"></path>
      <g transform="translate(99,490)">
-      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0H-19m0,3v-6M0,0H95m0,3v-6M0,0V97m3,0h-6M0,0V-48m3,0h-6"></path>
+      <path d="M0,0H-19m0,3v-6M0,0H95m0,3v-6M0,0V97m3,0h-6M0,0V-48m3,0h-6" style="fill: none; stroke: black; stroke-width: 1;"></path>
      </g>
      <g transform="translate(290,296)">
-      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0H-38m0,3v-6M0,0H76m0,3v-6M0,0V48m3,0h-6M0,0V-97m3,0h-6"></path>
+      <path d="M0,0H-38m0,3v-6M0,0H76m0,3v-6M0,0V48m3,0h-6M0,0V-97m3,0h-6" style="fill: none; stroke: black; stroke-width: 1;"></path>
      </g>
      <g transform="translate(480,102)">
-      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0H-57m0,3v-6M0,0H57m0,3v-6M0,0V97m3,0h-6M0,0V-48m3,0h-6"></path>
+      <path d="M0,0H-57m0,3v-6M0,0H57m0,3v-6M0,0V97m3,0h-6M0,0V-48m3,0h-6" style="fill: none; stroke: black; stroke-width: 1;"></path>
      </g>
      <g transform="translate(670,393)">
-      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0H-76m0,3v-6M0,0H38m0,3v-6M0,0V48m3,0h-6M0,0V-97m3,0h-6"></path>
+      <path d="M0,0H-76m0,3v-6M0,0H38m0,3v-6M0,0V48m3,0h-6M0,0V-97m3,0h-6" style="fill: none; stroke: black; stroke-width: 1;"></path>
      </g>
      <g transform="translate(861,199)">
-      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0H-95m0,3v-6M0,0H19m0,3v-6M0,0V97m3,0h-6M0,0V-48m3,0h-6"></path>
+      <path d="M0,0H-95m0,3v-6M0,0H19m0,3v-6M0,0V97m3,0h-6M0,0V-48m3,0h-6" style="fill: none; stroke: black; stroke-width: 1;"></path>
      </g>
      <path d="M99,490h1M290,296h1M480,102h1M670,393h1M861,199h1" style="stroke: black; fill: none;"></path>
     </g>
@@ -32,56 +32,14 @@
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960M23,-10V0M61,-10V0M99,-19V0M137,-10V0M175,-10V0M213,-10V0M251,-10V0M290,-19V0M328,-10V0M366,-10V0M404,-10V0M442,-10V0M480,-19V0M518,-10V0M556,-10V0M594,-10V0M632,-10V0M670,-19V0M709,-10V0M747,-10V0M785,-10V0M823,-10V0M861,-19V0M899,-10V0M937,-10V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(99,5)">
-       0
-      </text>
-      <text dy=".8em" transform="translate(290,5)">
-       1
-      </text>
-      <text dy=".8em" transform="translate(480,5)">
-       2
-      </text>
-      <text dy=".8em" transform="translate(670,5)">
-       3
-      </text>
-      <text dy=".8em" transform="translate(861,5)">
-       4
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(99,5)">0</text><text dy=".8em" transform="translate(290,5)">1</text><text dy=".8em" transform="translate(480,5)">2</text><text dy=".8em" transform="translate(670,5)">3</text><text dy=".8em" transform="translate(861,5)">4</text></g>
     </g>
     <g>
      <path d="M0,0v640M15,625H0M15,606H0M29,587H0M15,567H0M15,548H0M15,528H0M15,509H0M29,490H0M15,470H0M15,451H0M15,432H0M15,412H0M29,393H0M15,373H0M15,354H0M15,335H0M15,315H0M29,296H0M15,276H0M15,257H0M15,238H0M15,218H0M29,199H0M15,179H0M15,160H0M15,141H0M15,121H0M29,102H0M15,82H0M15,63H0M15,44H0M15,24H0M29,5H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-6,587)">
-       -1
-      </text>
-      <text dy=".4em" transform="translate(-6,490)">
-       0
-      </text>
-      <text dy=".4em" transform="translate(-6,393)">
-       1
-      </text>
-      <text dy=".4em" transform="translate(-6,296)">
-       2
-      </text>
-      <text dy=".4em" transform="translate(-6,199)">
-       3
-      </text>
-      <text dy=".4em" transform="translate(-6,102)">
-       4
-      </text>
-      <text dy=".4em" transform="translate(-6,5)">
-       5
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-6,587)">-1</text><text dominant-baseline="middle" transform="translate(-6,490)">0</text><text dominant-baseline="middle" transform="translate(-6,393)">1</text><text dominant-baseline="middle" transform="translate(-6,296)">2</text><text dominant-baseline="middle" transform="translate(-6,199)">3</text><text dominant-baseline="middle" transform="translate(-6,102)">4</text><text dominant-baseline="middle" transform="translate(-6,5)">5</text></g>
     </g>
    </g>
   </g>
-  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
-    Graph
-   </text>
-  </g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">Graph</text></g>
  </g>
 </svg>
