@@ -24,7 +24,8 @@ const jsroot_path = './../jsroot',
       // filepath = 'https://root.cern.ch/js/files/',
       // jsonfilepath = 'https://root.cern.ch/js/files/',
       // place for special cases
-      specialCases = [ 'TCanvas/time.svg' ];  // position of minor tick differs by one on time axis?
+      specialCases = [ 'TCanvas/time.svg' ],  // position of minor tick differs by one on time axis?
+      dflt_latex = settings.Latex;
 
 // uncomment to be able use https with jsroot.gsi.de server
 //  process.env.NODE_TLS_REJECT_UNAUTHORIZED = 0;
@@ -329,7 +330,7 @@ function structuredLogger(level, message, details = {}) {
    console.log(JSON.stringify({ level, message, ...details, timestamp: new Date().toISOString() }));
 }
 
-function processNextOption(reset_mathjax) {
+function processNextOption(reset_mathjax, skip_increment) {
    if (!keyid) {
       if (all_diffs.length)
          console.log('ALL DIFFS', all_diffs);
@@ -356,11 +357,9 @@ function processNextOption(reset_mathjax) {
    const opts = examples_main[keyid];
    if (!opts) return;
 
-   if (!reset_mathjax) {
-      if ((itemid >= 0) || (itemid === -2)) {
-         if (itemid === -2) itemid = -1; // special workaround for style entry, which is marked as itemid=-2
-         if (++itemid >= opts[optid].items.length) itemid = -1;
-      }
+   if (!reset_mathjax && !skip_increment) {
+      if ((itemid >= 0) && (++itemid >= opts[optid].items.length))
+         itemid = -1;
 
       if (itemid < 0) { // first check that all items are processed
          if (theOnlyOptionId === optid) {
@@ -413,7 +412,7 @@ function processNextOption(reset_mathjax) {
 
    let filename = '', itemname = '', jsonname = '', url = '', opt = '', opt2 = '';
 
-   if (show_debug)
+   if (show_debug && (entry._process_style === undefined))
       console.log('id', optid, 'entry', JSON.stringify(entry));
 
    if (entry.file) {
@@ -438,20 +437,17 @@ function processNextOption(reset_mathjax) {
    }
    if (entry.items) {
       lastitemname = '';
-      if (itemid < 0) {
-         if ((itemid === -1) && entry.style) {
-            itemid = -2;
-            itemname = entry.style; // special case when style should be applied before objects drawing
-         } else
-           itemid = 0;
-      }
+      if ((itemid < 0) && (!entry.style || entry._process_style))
+         itemid = 0;
       if (itemid >= 0) {
          itemname = entry.items[itemid];
-         if (entry.opts && (itemid < entry.opts.length)) opt = entry.opts[itemid];
+         if (entry.opts && (itemid < entry.opts.length))
+            opt = entry.opts[itemid];
       }
    }
 
-   if (entry.r3d) opt2 = (opt ? ',' : '') + 'r3d_' + entry.r3d;
+   if (entry.r3d)
+      opt2 = (opt ? ',' : '') + 'r3d_' + entry.r3d;
 
    if (entry.url) {
       lastitemname = '';
@@ -493,8 +489,12 @@ function processNextOption(reset_mathjax) {
 
    // ensure default options
    createRootColors(); // ensure default colors
-   settings.Latex = 2;
-   if (entry.latex) settings.Latex = constants.Latex.fromString(entry.latex);
+
+   if (entry.latex)
+      settings.Latex = constants.Latex.fromString(entry.latex);
+   else
+      settings.Latex = dflt_latex;
+
    // seedrandom('hello.', { global: true }); // set global random
    internals.id_counter = 1; // used in some custom styles
 
@@ -510,20 +510,21 @@ function processNextOption(reset_mathjax) {
    } else if (filename.length > 0) {
       openFile(filename).then(file => {
          testfile = file;
-         return testfile.readObject(itemname);
-      }).then(obj => {
-         if (itemid === -2) {
-            // special handling of style
-            // Check that copy of gStyle exists
-            produceGlobalStyleCopy();
-            // first create copy of existing style
-            // then apply changes to the
-            Object.assign(gStyle, obj);
-            return processNextOption();
+         if (entry.style && !entry._process_style) {
+            entry._process_style = true;
+            testfile.readObject(entry.style).then(st => {
+               produceGlobalStyleCopy();
+               // first create copy of existing style
+               // then apply changes to the
+               Object.assign(gStyle, st);
+               processNextOption(false, true);
+            });
          } else {
-            testobj = obj;
-            lastitemname = itemname;
-            produceSVG(testobj, opt+opt2);
+            testfile.readObject(itemname).then(obj => {
+               testobj = obj;
+               lastitemname = itemname;
+               produceSVG(testobj, opt+opt2);
+            });
          }
       });
    } else if (itemname || lastitemname) {
@@ -533,8 +534,10 @@ function processNextOption(reset_mathjax) {
             lastitemname = itemname;
          produceSVG(testobj, opt+opt2);
       });
-   } else
-      produceSVG(testobj, opt+opt2);
+   } else {
+      console.error('!!!!!!!!!!!!!  SHOULD NEVER HAPPEN!!!!!!!!!!!!!!!!!!!111');
+      process.exit(1);
+   }
 }
 
 processNextOption();
