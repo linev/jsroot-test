@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 796 572" preserveAspectRatio="none" width="796" height="572">
+<svg xmlns="http://www.w3.org/2000/svg" width="796" height="572" viewBox="0 0 796 572" preserveAspectRatio="none">
  <path d="M0,0H796V572H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(80,57)">
@@ -12,113 +12,17 @@
    <g>
     <g transform="translate(0,458)">
      <path d="M0,0h637M0,-14V0M20,-7V0M40,-7V0M59,-7V0M79,-14V0M99,-7V0M119,-7V0M139,-7V0M159,-14V0M178,-7V0M198,-7V0M218,-7V0M238,-14V0M258,-7V0M277,-7V0M297,-7V0M317,-14V0M337,-7V0M357,-7V0M377,-7V0M396,-14V0M416,-7V0M436,-7V0M456,-7V0M476,-14V0M495,-7V0M515,-7V0M535,-7V0M555,-14V0M575,-7V0M595,-7V0M614,-7V0M634,-14V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="20" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(0,4)">
-       0
-      </text>
-      <text dy=".8em" transform="translate(79,4)">
-       2
-      </text>
-      <text dy=".8em" transform="translate(159,4)">
-       4
-      </text>
-      <text dy=".8em" transform="translate(238,4)">
-       6
-      </text>
-      <text dy=".8em" transform="translate(317,4)">
-       8
-      </text>
-      <text dy=".8em" transform="translate(396,4)">
-       10
-      </text>
-      <text dy=".8em" transform="translate(476,4)">
-       12
-      </text>
-      <text dy=".8em" transform="translate(555,4)">
-       14
-      </text>
-      <text dy=".8em" transform="translate(634,4)">
-       16
-      </text>
-     </g>
-     <g font-family="Arial" font-size="20" space="preserve" transform="translate(319,38)">
-      <text fill="black" text-anchor="middle" dy=".4em">
-       Charge q
-      </text>
-     </g>
+     <g font-family="Arial" font-size="20" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,4)">0</text><text dy=".8em" transform="translate(79,4)">2</text><text dy=".8em" transform="translate(159,4)">4</text><text dy=".8em" transform="translate(238,4)">6</text><text dy=".8em" transform="translate(317,4)">8</text><text dy=".8em" transform="translate(396,4)">10</text><text dy=".8em" transform="translate(476,4)">12</text><text dy=".8em" transform="translate(555,4)">14</text><text dy=".8em" transform="translate(634,4)">16</text></g>
+     <g font-family="Arial" font-size="20" xml:space="preserve" transform="translate(319,38)"><text fill="black" text-anchor="middle" dominant-baseline="middle">Charge q</text></g>
     </g>
     <g>
      <path d="M0,0v458M19,458H0M10,445H0M10,431H0M10,418H0M19,404H0M10,391H0M10,378H0M10,364H0M19,351H0M10,337H0M10,324H0M10,311H0M19,297H0M10,284H0M10,270H0M10,257H0M19,244H0M10,230H0M10,217H0M10,203H0M19,190H0M10,176H0M10,163H0M10,150H0M19,136H0M10,123H0M10,109H0M10,96H0M19,83H0M10,69H0M10,56H0M10,42H0M19,29H0M10,16H0M10,2H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="20" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-4,458)">
-       0
-      </text>
-      <text dy=".4em" transform="translate(-4,404)">
-       0.02
-      </text>
-      <text dy=".4em" transform="translate(-4,351)">
-       0.04
-      </text>
-      <text dy=".4em" transform="translate(-4,297)">
-       0.06
-      </text>
-      <text dy=".4em" transform="translate(-4,244)">
-       0.08
-      </text>
-      <text dy=".4em" transform="translate(-4,190)">
-       0.1
-      </text>
-      <text dy=".4em" transform="translate(-4,136)">
-       0.12
-      </text>
-      <text dy=".4em" transform="translate(-4,83)">
-       0.14
-      </text>
-      <text dy=".4em" transform="translate(-4,29)">
-       0.16
-      </text>
-     </g>
-     <g font-family="Arial" font-size="20" space="preserve" transform="translate(-53,229)">
-      <text fill="black" text-anchor="middle" dy=".4em" transform="rotate(270)">
-       Fractions
-      </text>
-     </g>
+     <g font-family="Arial" font-size="20" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-4,458)">0</text><text dominant-baseline="middle" transform="translate(-4,404)">0.02</text><text dominant-baseline="middle" transform="translate(-4,351)">0.04</text><text dominant-baseline="middle" transform="translate(-4,297)">0.06</text><text dominant-baseline="middle" transform="translate(-4,244)">0.08</text><text dominant-baseline="middle" transform="translate(-4,190)">0.1</text><text dominant-baseline="middle" transform="translate(-4,136)">0.12</text><text dominant-baseline="middle" transform="translate(-4,83)">0.14</text><text dominant-baseline="middle" transform="translate(-4,29)">0.16</text></g>
+     <g font-family="Arial" font-size="20" xml:space="preserve" transform="translate(-53,229)"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="rotate(270)">Fractions</text></g>
     </g>
    </g>
   </g>
-  <g transform="translate(80,57)" font-family="Arial" font-size="14" space="preserve">
-   <path d="M0,0H239V114H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <path d="M7,21H53" style="stroke: blue; stroke-width: 2;"></path>
-   <path d="M24,21a6,6,0,1,0,12,0a6,6,0,1,0,-12,0z" style="stroke: red; fill: red;"></path>
-   <g transform="translate(60,26) scale(0.465)">
-    <text fill="black" font-size="32" transform="translate(0,-19)">
-     Equilibrium charge
-    </text>
-    <text fill="black" font-size="32" transform="translate(15,20)">
-     state distribution
-    </text>
-   </g>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(60,57)">
-    &lt;q&gt; = 9.031923
-   </text>
-   <g transform="translate(60,98) scale(0.465)">
-    <text fill="black" font-size="32" x="26">
-     σ   = 5.779455
-    </text>
-   </g>
-  </g>
-  <g transform="translate(119,3)" font-family="Arial" font-size="14" space="preserve">
-   <g transform="translate(40,27) scale(0.398)">
-    <text fill="black" font-size="36">
-     U projectile at 1.4 MeV/u on
-    </text>
-    <text fill="black" font-size="22" transform="translate(461,-19)">
-     40
-    </text>
-    <text fill="black" font-size="36" x="485">
-     Ar target with 1 mbar pressure. (equilibrium)
-    </text>
-   </g>
-  </g>
+  <g transform="translate(80,57)" font-family="Arial" font-size="14" xml:space="preserve"><path d="M0,0H239V114H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M7,21H53" style="stroke: blue; stroke-width: 2;"></path><path d="M24,21a6,6,0,1,0,12,0a6,6,0,1,0,-12,0z" style="stroke: red; fill: red;"></path><g transform="translate(60,26) scale(0.465)"><text fill="black" font-size="32" transform="translate(0,-19)">Equilibrium charge</text><text fill="black" font-size="32" transform="translate(15,20)">state distribution</text></g><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(60,57)">&lt;q&gt; = 9.031923</text><g transform="translate(60,98) scale(0.465)"><text fill="black" font-size="32" x="26">σ   = 5.779455</text></g></g>
+  <g transform="translate(119,3)" font-family="Arial" font-size="14" xml:space="preserve"><g transform="translate(40,27) scale(0.402)"><text fill="black" font-size="36">U projectile at 1.4 MeV/u on</text><text fill="black" font-size="22" transform="translate(455,-19)">40</text><text fill="black" font-size="36" x="479">Ar target with 1 mbar pressure. (equilibrium)</text></g></g>
  </g>
 </svg>

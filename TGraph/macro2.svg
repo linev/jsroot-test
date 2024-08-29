@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 698 474" preserveAspectRatio="none" width="698" height="474">
+<svg xmlns="http://www.w3.org/2000/svg" width="698" height="474" viewBox="0 0 698 474" preserveAspectRatio="none">
  <path d="M0,0H698V474H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(70,47)">
@@ -10,34 +10,34 @@
     </g>
     <g>
      <g transform="translate(47,349)">
-      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0V25m3,0h-6M0,0V-25m3,0h-6"></path>
+      <path d="M0,0V25m3,0h-6M0,0V-25m3,0h-6" style="fill: none; stroke: black; stroke-width: 1;"></path>
      </g>
      <g transform="translate(98,319)">
-      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0V25m3,0h-6M0,0V-25m3,0h-6"></path>
+      <path d="M0,0V25m3,0h-6M0,0V-25m3,0h-6" style="fill: none; stroke: black; stroke-width: 1;"></path>
      </g>
      <g transform="translate(150,309)">
-      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0V23m3,0h-6M0,0V-23m3,0h-6"></path>
+      <path d="M0,0V23m3,0h-6M0,0V-23m3,0h-6" style="fill: none; stroke: black; stroke-width: 1;"></path>
      </g>
      <g transform="translate(202,279)">
-      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0V22m3,0h-6M0,0V-22m3,0h-6"></path>
+      <path d="M0,0V22m3,0h-6M0,0V-22m3,0h-6" style="fill: none; stroke: black; stroke-width: 1;"></path>
      </g>
      <g transform="translate(253,269)">
-      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0V21m3,0h-6M0,0V-21m3,0h-6"></path>
+      <path d="M0,0V21m3,0h-6M0,0V-21m3,0h-6" style="fill: none; stroke: black; stroke-width: 1;"></path>
      </g>
      <g transform="translate(305,260)">
-      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0V25m3,0h-6M0,0V-25m3,0h-6"></path>
+      <path d="M0,0V25m3,0h-6M0,0V-25m3,0h-6" style="fill: none; stroke: black; stroke-width: 1;"></path>
      </g>
      <g transform="translate(357,205)">
-      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0V14m3,0h-6M0,0V-14m3,0h-6"></path>
+      <path d="M0,0V14m3,0h-6M0,0V-14m3,0h-6" style="fill: none; stroke: black; stroke-width: 1;"></path>
      </g>
      <g transform="translate(408,155)">
-      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0V20m3,0h-6M0,0V-20m3,0h-6"></path>
+      <path d="M0,0V20m3,0h-6M0,0V-20m3,0h-6" style="fill: none; stroke: black; stroke-width: 1;"></path>
      </g>
      <g transform="translate(460,160)">
-      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0V24m3,0h-6M0,0V-24m3,0h-6"></path>
+      <path d="M0,0V24m3,0h-6M0,0V-24m3,0h-6" style="fill: none; stroke: black; stroke-width: 1;"></path>
      </g>
      <g transform="translate(512,115)">
-      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,0V27m3,0h-6M0,0V-27m3,0h-6"></path>
+      <path d="M0,0V27m3,0h-6M0,0V-27m3,0h-6" style="fill: none; stroke: black; stroke-width: 1;"></path>
      </g>
      <path d="M43,349a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM94,319a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM146,309a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM198,279a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM249,269a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM301,260a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM353,205a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM404,155a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM456,160a4,4,0,1,0,8,0a4,4,0,1,0,-8,0zM508,115a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: black; fill: none;"></path>
     </g>
@@ -45,104 +45,19 @@
    <g>
     <g transform="translate(0,379)">
      <path d="M0,0h558M5,-6V0M16,-6V0M26,-6V0M36,-6V0M47,-11V0M57,-6V0M67,-6V0M77,-6V0M88,-6V0M98,-11V0M109,-6V0M119,-6V0M129,-6V0M139,-6V0M150,-11V0M160,-6V0M170,-6V0M181,-6V0M191,-6V0M202,-11V0M212,-6V0M222,-6V0M232,-6V0M243,-6V0M253,-11V0M264,-6V0M274,-6V0M284,-6V0M295,-6V0M305,-11V0M315,-6V0M326,-6V0M336,-6V0M346,-6V0M357,-11V0M367,-6V0M377,-6V0M388,-6V0M398,-6V0M408,-11V0M418,-6V0M429,-6V0M439,-6V0M450,-6V0M460,-11V0M470,-6V0M481,-6V0M491,-6V0M501,-6V0M512,-11V0M522,-6V0M532,-6V0M543,-6V0M553,-6V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="17" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(47,3)">
-       1
-      </text>
-      <text dy=".8em" transform="translate(98,3)">
-       2
-      </text>
-      <text dy=".8em" transform="translate(150,3)">
-       3
-      </text>
-      <text dy=".8em" transform="translate(202,3)">
-       4
-      </text>
-      <text dy=".8em" transform="translate(253,3)">
-       5
-      </text>
-      <text dy=".8em" transform="translate(305,3)">
-       6
-      </text>
-      <text dy=".8em" transform="translate(357,3)">
-       7
-      </text>
-      <text dy=".8em" transform="translate(408,3)">
-       8
-      </text>
-      <text dy=".8em" transform="translate(460,3)">
-       9
-      </text>
-      <text dy=".8em" transform="translate(512,3)">
-       10
-      </text>
-     </g>
-     <g font-family="Arial" font-size="17" space="preserve" transform="translate(558,27)">
-      <text fill="black" text-anchor="end" dy=".4em">
-       lenght [cm]
-      </text>
-     </g>
+     <g font-family="Arial" font-size="17" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(47,3)">1</text><text dy=".8em" transform="translate(98,3)">2</text><text dy=".8em" transform="translate(150,3)">3</text><text dy=".8em" transform="translate(202,3)">4</text><text dy=".8em" transform="translate(253,3)">5</text><text dy=".8em" transform="translate(305,3)">6</text><text dy=".8em" transform="translate(357,3)">7</text><text dy=".8em" transform="translate(408,3)">8</text><text dy=".8em" transform="translate(460,3)">9</text><text dy=".8em" transform="translate(512,3)">10</text></g>
+     <g font-family="Arial" font-size="17" xml:space="preserve" transform="translate(558,27)"><text fill="black" text-anchor="end" dominant-baseline="middle">lenght [cm]</text></g>
     </g>
     <g>
      <path d="M0,0v379M17,379H0M9,369H0M9,359H0M9,349H0M9,339H0M17,329H0M9,319H0M9,309H0M9,299H0M9,289H0M17,279H0M9,269H0M9,260H0M9,250H0M9,240H0M17,230H0M9,220H0M9,210H0M9,200H0M9,190H0M17,180H0M9,170H0M9,160H0M9,150H0M9,140H0M17,130H0M9,120H0M9,110H0M9,100H0M9,90H0M17,80H0M9,70H0M9,60H0M9,50H0M9,40H0M17,30H0M9,21H0M9,11H0M9,1H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="17" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-3,379)">
-       0
-      </text>
-      <text dy=".4em" transform="translate(-3,329)">
-       10
-      </text>
-      <text dy=".4em" transform="translate(-3,279)">
-       20
-      </text>
-      <text dy=".4em" transform="translate(-3,230)">
-       30
-      </text>
-      <text dy=".4em" transform="translate(-3,180)">
-       40
-      </text>
-      <text dy=".4em" transform="translate(-3,130)">
-       50
-      </text>
-      <text dy=".4em" transform="translate(-3,80)">
-       60
-      </text>
-      <text dy=".4em" transform="translate(-3,30)">
-       70
-      </text>
-     </g>
-     <g font-family="Arial" font-size="17" space="preserve" transform="translate(-40)">
-      <text fill="black" text-anchor="end" dy=".4em" transform="rotate(270)">
-       Arb.Units
-      </text>
-     </g>
+     <g font-family="Arial" font-size="17" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-3,379)">0</text><text dominant-baseline="middle" transform="translate(-3,329)">10</text><text dominant-baseline="middle" transform="translate(-3,279)">20</text><text dominant-baseline="middle" transform="translate(-3,230)">30</text><text dominant-baseline="middle" transform="translate(-3,180)">40</text><text dominant-baseline="middle" transform="translate(-3,130)">50</text><text dominant-baseline="middle" transform="translate(-3,80)">60</text><text dominant-baseline="middle" transform="translate(-3,30)">70</text></g>
+     <g font-family="Arial" font-size="17" xml:space="preserve" transform="translate(-40)"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="rotate(270)">Arb.Units</text></g>
     </g>
-    <path d="M47,0v379M98,0v379M150,0v379M202,0v379M253,0v379M305,0v379M357,0v379M408,0v379M460,0v379M512,0v379" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-    <path d="M0,379h558M0,329h558M0,279h558M0,230h558M0,180h558M0,130h558M0,80h558M0,30h558" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+    <path d="M47,0v379M98,0v379M150,0v379M202,0v379M253,0v379M305,0v379M357,0v379M408,0v379M460,0v379M512,0v379" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
+    <path d="M0,379h558M0,329h558M0,279h558M0,230h558M0,180h558M0,130h558M0,80h558M0,30h558" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
    </g>
   </g>
-  <g transform="translate(70,47)" font-family="Arial" font-size="11" space="preserve">
-   <path d="M0,0H140V95H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(4,18)">
-    Lab. Lesson 2
-   </text>
-   <path d="M4,36v24h27v-24z" style="fill: yellow;"></path>
-   <path d="M4,48H31" style="stroke: black; stroke-width: 1;"></path>
-   <path d="M18,48h1" style="stroke: black; fill: none;"></path>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(35,48)">
-    Expected Points
-   </text>
-   <path d="M4,65v24h27v-24z" style="fill: white;"></path>
-   <path d="M4,77H31" style="stroke: black; stroke-width: 1;"></path>
-   <path d="M14,77a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: black; fill: none;"></path>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(35,77)">
-    Measured Points
-   </text>
-  </g>
-  <g transform="translate(143,2)" font-family="Arial" font-size="19" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(207,15)">
-    Measurement XYZ and Expectation
-   </text>
-  </g>
+  <g transform="translate(70,47)" font-family="Arial" font-size="12" xml:space="preserve"><path d="M0,0H140V95H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(4,18)">Lab. Lesson 2</text><path d="M4,36v24h27v-24z" style="fill: yellow;"></path><path d="M4,48H31" style="stroke: black; stroke-width: 1;"></path><path d="M18,48h1" style="stroke: black; fill: none;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(35,48)">Expected Points</text><path d="M4,65v24h27v-24z" style="fill: white;"></path><path d="M4,77H31" style="stroke: black; stroke-width: 1;"></path><path d="M14,77a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: black; fill: none;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(35,77)">Measured Points</text></g>
+  <g transform="translate(143,2)" font-family="Arial" font-size="22" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(207,15)">Measurement XYZ and Expectation</text></g>
  </g>
 </svg>

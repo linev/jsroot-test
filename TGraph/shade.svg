@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 698 474" preserveAspectRatio="none" width="698" height="474">
+<svg xmlns="http://www.w3.org/2000/svg" width="698" height="474" viewBox="0 0 698 474" preserveAspectRatio="none">
  <defs>
   <pattern id="pat_3013_16" patternUnits="userSpaceOnUse" width="7" height="7">
-   <path d="M0,0L7,7M7,0L0,7" style="stroke: #b3b3b3; stroke-width: 1; fill: none;"></path>
+   <path d="M0,0L7,7M7,0L0,7" style="stroke: rgb(179, 179, 179); stroke-width: 1; fill: none;"></path>
   </pattern>
  </defs>
  <path d="M0,0H698V474H0Z" style="fill: white;"></path>
@@ -26,73 +26,14 @@
    <g>
     <g transform="translate(0,379)">
      <path d="M0,0h558M0,-11V0M13,-6V0M25,-6V0M38,-6V0M51,-11V0M63,-6V0M76,-6V0M89,-6V0M101,-11V0M114,-6V0M127,-6V0M140,-6V0M152,-11V0M165,-6V0M178,-6V0M190,-6V0M203,-11V0M216,-6V0M228,-6V0M241,-6V0M254,-11V0M266,-6V0M279,-6V0M292,-6V0M304,-11V0M317,-6V0M330,-6V0M342,-6V0M355,-11V0M368,-6V0M380,-6V0M393,-6V0M406,-11V0M418,-6V0M431,-6V0M444,-6V0M457,-11V0M469,-6V0M482,-6V0M495,-6V0M507,-11V0M520,-6V0M533,-6V0M545,-6V0M558,-11V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="17" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(0,3)">
-       0
-      </text>
-      <text dy=".8em" transform="translate(51,3)">
-       0.2
-      </text>
-      <text dy=".8em" transform="translate(101,3)">
-       0.4
-      </text>
-      <text dy=".8em" transform="translate(152,3)">
-       0.6
-      </text>
-      <text dy=".8em" transform="translate(203,3)">
-       0.8
-      </text>
-      <text dy=".8em" transform="translate(254,3)">
-       1
-      </text>
-      <text dy=".8em" transform="translate(304,3)">
-       1.2
-      </text>
-      <text dy=".8em" transform="translate(355,3)">
-       1.4
-      </text>
-      <text dy=".8em" transform="translate(406,3)">
-       1.6
-      </text>
-      <text dy=".8em" transform="translate(457,3)">
-       1.8
-      </text>
-      <text dy=".8em" transform="translate(507,3)">
-       2
-      </text>
-      <text dy=".8em" transform="translate(558,3)">
-       2.2
-      </text>
-     </g>
+     <g font-family="Arial" font-size="17" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,3)">0</text><text dy=".8em" transform="translate(51,3)">0.2</text><text dy=".8em" transform="translate(101,3)">0.4</text><text dy=".8em" transform="translate(152,3)">0.6</text><text dy=".8em" transform="translate(203,3)">0.8</text><text dy=".8em" transform="translate(254,3)">1</text><text dy=".8em" transform="translate(304,3)">1.2</text><text dy=".8em" transform="translate(355,3)">1.4</text><text dy=".8em" transform="translate(406,3)">1.6</text><text dy=".8em" transform="translate(457,3)">1.8</text><text dy=".8em" transform="translate(507,3)">2</text><text dy=".8em" transform="translate(558,3)">2.2</text></g>
     </g>
     <g>
      <path d="M0,0v379M17,379H0M9,363H0M9,347H0M9,332H0M17,316H0M9,300H0M9,284H0M9,268H0M17,253H0M9,237H0M9,221H0M9,205H0M17,190H0M9,174H0M9,158H0M9,142H0M17,126H0M9,111H0M9,95H0M9,79H0M17,63H0M9,47H0M9,32H0M9,16H0M17,0H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="17" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-3,379)">
-       0
-      </text>
-      <text dy=".4em" transform="translate(-3,316)">
-       2
-      </text>
-      <text dy=".4em" transform="translate(-3,253)">
-       4
-      </text>
-      <text dy=".4em" transform="translate(-3,190)">
-       6
-      </text>
-      <text dy=".4em" transform="translate(-3,126)">
-       8
-      </text>
-      <text dy=".4em" transform="translate(-3,63)">
-       10
-      </text>
-      <text dy=".4em" transform="translate(-3)">
-       12
-      </text>
-     </g>
+     <g font-family="Arial" font-size="17" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-3,379)">0</text><text dominant-baseline="middle" transform="translate(-3,316)">2</text><text dominant-baseline="middle" transform="translate(-3,253)">4</text><text dominant-baseline="middle" transform="translate(-3,190)">6</text><text dominant-baseline="middle" transform="translate(-3,126)">8</text><text dominant-baseline="middle" transform="translate(-3,63)">10</text><text dominant-baseline="middle" transform="translate(-3)">12</text></g>
     </g>
-    <path d="M0,0v379M51,0v379M101,0v379M152,0v379M203,0v379M254,0v379M304,0v379M355,0v379M406,0v379M457,0v379M507,0v379M558,0v379" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-    <path d="M0,379h558M0,316h558M0,253h558M0,190h558M0,126h558M0,63h558M0,0h558" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+    <path d="M0,0v379M51,0v379M101,0v379M152,0v379M203,0v379M254,0v379M304,0v379M355,0v379M406,0v379M457,0v379M507,0v379M558,0v379" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
+    <path d="M0,379h558M0,316h558M0,253h558M0,190h558M0,126h558M0,63h558M0,0h558" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
    </g>
   </g>
  </g>

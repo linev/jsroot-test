@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 596 372" preserveAspectRatio="none" width="596" height="372">
+<svg xmlns="http://www.w3.org/2000/svg" width="596" height="372" viewBox="0 0 596 372" preserveAspectRatio="none">
  <defs>
   <pattern id="pat_3010_4" patternUnits="userSpaceOnUse" width="10" height="10">
    <path d="M0,2h10M0,7h10M2,0v2M7,2v5M2,7v3" style="stroke: blue; stroke-width: 1;"></path>
@@ -16,56 +16,14 @@
    <g>
     <g transform="translate(0,298)">
      <path d="M0,0h477M14,-5V0M31,-5V0M48,-9V0M66,-5V0M83,-5V0M100,-5V0M118,-5V0M135,-9V0M152,-5V0M169,-5V0M187,-5V0M204,-5V0M221,-9V0M239,-5V0M256,-5V0M273,-5V0M290,-5V0M308,-9V0M325,-5V0M342,-5V0M359,-5V0M377,-5V0M394,-9V0M411,-5V0M429,-5V0M446,-5V0M463,-5V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(48,3)">
-       0
-      </text>
-      <text dy=".8em" transform="translate(135,3)">
-       1
-      </text>
-      <text dy=".8em" transform="translate(221,3)">
-       2
-      </text>
-      <text dy=".8em" transform="translate(308,3)">
-       3
-      </text>
-      <text dy=".8em" transform="translate(394,3)">
-       4
-      </text>
-     </g>
+     <g font-family="Arial" font-size="13" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(48,3)">0</text><text dy=".8em" transform="translate(135,3)">1</text><text dy=".8em" transform="translate(221,3)">2</text><text dy=".8em" transform="translate(308,3)">3</text><text dy=".8em" transform="translate(394,3)">4</text></g>
     </g>
     <g>
      <path d="M0,0v298M7,298H0M7,290H0M7,281H0M14,273H0M7,265H0M7,257H0M7,248H0M7,240H0M14,232H0M7,224H0M7,215H0M7,207H0M7,199H0M14,190H0M7,182H0M7,174H0M7,166H0M7,157H0M14,149H0M7,141H0M7,132H0M7,124H0M7,116H0M14,108H0M7,99H0M7,91H0M7,83H0M7,74H0M14,66H0M7,58H0M7,50H0M7,41H0M7,33H0M14,25H0M7,17H0M7,8H0M7,0H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-3,273)">
-       -1
-      </text>
-      <text dy=".4em" transform="translate(-3,232)">
-       0
-      </text>
-      <text dy=".4em" transform="translate(-3,190)">
-       1
-      </text>
-      <text dy=".4em" transform="translate(-3,149)">
-       2
-      </text>
-      <text dy=".4em" transform="translate(-3,108)">
-       3
-      </text>
-      <text dy=".4em" transform="translate(-3,66)">
-       4
-      </text>
-      <text dy=".4em" transform="translate(-3,25)">
-       5
-      </text>
-     </g>
+     <g font-family="Arial" font-size="13" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-3,273)">-1</text><text dominant-baseline="middle" transform="translate(-3,232)">0</text><text dominant-baseline="middle" transform="translate(-3,190)">1</text><text dominant-baseline="middle" transform="translate(-3,149)">2</text><text dominant-baseline="middle" transform="translate(-3,108)">3</text><text dominant-baseline="middle" transform="translate(-3,66)">4</text><text dominant-baseline="middle" transform="translate(-3,25)">5</text></g>
     </g>
    </g>
   </g>
-  <g transform="translate(60,2)" font-family="Arial" font-size="19" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(239)">
-    Graph
-   </text>
-  </g>
+  <g transform="translate(60,2)" font-family="Arial" font-size="19" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(239)">Graph</text></g>
  </g>
 </svg>

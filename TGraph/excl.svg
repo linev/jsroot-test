@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 698 674" preserveAspectRatio="none" width="698" height="674">
+<svg xmlns="http://www.w3.org/2000/svg" width="698" height="674" viewBox="0 0 698 674" preserveAspectRatio="none">
  <defs>
   <pattern id="pat_3005_6" patternUnits="userSpaceOnUse" width="8" height="8">
    <path d="M0,0L8,8" style="stroke: magenta; stroke-width: 1;"></path>
@@ -41,194 +41,24 @@
    <g>
     <g transform="translate(0,539)">
      <path d="M0,0h558M0,-539h558M0,-11V0M12,-6V0M25,-6V0M37,-6V0M50,-6V0M62,-11V0M74,-6V0M87,-6V0M99,-6V0M112,-6V0M124,-11V0M136,-6V0M149,-6V0M161,-6V0M174,-6V0M186,-11V0M198,-6V0M211,-6V0M223,-6V0M236,-6V0M248,-11V0M260,-6V0M273,-6V0M285,-6V0M298,-6V0M310,-11V0M322,-6V0M335,-6V0M347,-6V0M360,-6V0M372,-11V0M384,-6V0M397,-6V0M409,-6V0M422,-6V0M434,-11V0M446,-6V0M459,-6V0M471,-6V0M484,-6V0M496,-11V0M508,-6V0M521,-6V0M533,-6V0M546,-6V0M558,-11V0M0,-528V-539M12,-533V-539M25,-533V-539M37,-533V-539M50,-533V-539M62,-528V-539M74,-533V-539M87,-533V-539M99,-533V-539M112,-533V-539M124,-528V-539M136,-533V-539M149,-533V-539M161,-533V-539M174,-533V-539M186,-528V-539M198,-533V-539M211,-533V-539M223,-533V-539M236,-533V-539M248,-528V-539M260,-533V-539M273,-533V-539M285,-533V-539M298,-533V-539M310,-528V-539M322,-533V-539M335,-533V-539M347,-533V-539M360,-533V-539M372,-528V-539M384,-533V-539M397,-533V-539M409,-533V-539M422,-533V-539M434,-528V-539M446,-533V-539M459,-533V-539M471,-533V-539M484,-533V-539M496,-528V-539M508,-533V-539M521,-533V-539M533,-533V-539M546,-533V-539M558,-528V-539" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="20" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(0,5)">
-       50
-      </text>
-      <text dy=".8em" transform="translate(62,5)">
-       100
-      </text>
-      <text dy=".8em" transform="translate(124,5)">
-       150
-      </text>
-      <text dy=".8em" transform="translate(186,5)">
-       200
-      </text>
-      <text dy=".8em" transform="translate(248,5)">
-       250
-      </text>
-      <text dy=".8em" transform="translate(310,5)">
-       300
-      </text>
-      <text dy=".8em" transform="translate(372,5)">
-       350
-      </text>
-      <text dy=".8em" transform="translate(434,5)">
-       400
-      </text>
-      <text dy=".8em" transform="translate(496,5)">
-       450
-      </text>
-      <text dy=".8em" transform="translate(558,5)">
-       500
-      </text>
-     </g>
-     <g font-family="Arial" font-size="24" space="preserve" transform="translate(558,38)">
-      <g transform="translate(-104,7)">
-       <text fill="black" font-size="24">
-        m
-       </text>
-       <text fill="black" font-size="14" transform="translate(21,5)">
-        A
-       </text>
-       <text fill="black" font-size="24" x="41">
-        (GeV)
-       </text>
-      </g>
-     </g>
+     <g font-family="Arial" font-size="20" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,5)">50</text><text dy=".8em" transform="translate(62,5)">100</text><text dy=".8em" transform="translate(124,5)">150</text><text dy=".8em" transform="translate(186,5)">200</text><text dy=".8em" transform="translate(248,5)">250</text><text dy=".8em" transform="translate(310,5)">300</text><text dy=".8em" transform="translate(372,5)">350</text><text dy=".8em" transform="translate(434,5)">400</text><text dy=".8em" transform="translate(496,5)">450</text><text dy=".8em" transform="translate(558,5)">500</text></g>
+     <g font-family="Arial" font-size="24" xml:space="preserve" transform="translate(558,38)"><g transform="translate(-104,7)"><text fill="black" font-size="24">m</text><text fill="black" font-size="14" transform="translate(21,5)">A</text><text fill="black" font-size="24" x="41">(GeV)</text></g></g>
     </g>
     <g>
      <path d="M0,0v539M558,0v539M17,539H0M17,443H0M17,388H0M17,348H0M17,317H0M17,292H0M17,271H0M17,252H0M17,236H0M17,222H0M17,126H0M17,70H0M17,31H0M17,0H0M541,539H558M541,443H558M541,388H558M541,348H558M541,317H558M541,292H558M541,271H558M541,252H558M541,236H558M541,222H558M541,126H558M541,70H558M541,31H558M541,0H558" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="20" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-5,539)">
-       1
-      </text>
-      <text dy=".4em" transform="translate(-5,443)">
-       2
-      </text>
-      <text dy=".4em" transform="translate(-5,388)">
-       3
-      </text>
-      <text dy=".4em" transform="translate(-5,348)">
-       4
-      </text>
-      <text dy=".4em" transform="translate(-5,317)">
-       5
-      </text>
-      <text dy=".4em" transform="translate(-5,292)">
-       6
-      </text>
-      <text dy=".4em" transform="translate(-5,271)">
-       7
-      </text>
-      <text dy=".4em" transform="translate(-5,252)">
-       8
-      </text>
-      <text dy=".4em" transform="translate(-5,236)">
-       9
-      </text>
-      <text dy=".4em" transform="translate(-5,222)">
-       10
-      </text>
-      <text dy=".4em" transform="translate(-5,126)">
-       20
-      </text>
-      <text dy=".4em" transform="translate(-5,70)">
-       30
-      </text>
-      <text dy=".4em" transform="translate(-5,31)">
-       40
-      </text>
-      <text dy=".4em" transform="translate(-5)">
-       50
-      </text>
-     </g>
-     <g font-family="Arial" font-size="24" space="preserve" transform="translate(-41)">
-      <g transform="rotate(270) translate(-48,9)">
-       <text fill="black" font-size="24">
-        tanβ
-       </text>
-      </g>
-     </g>
+     <g font-family="Arial" font-size="20" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-5,539)">1</text><text dominant-baseline="middle" transform="translate(-5,443)">2</text><text dominant-baseline="middle" transform="translate(-5,388)">3</text><text dominant-baseline="middle" transform="translate(-5,348)">4</text><text dominant-baseline="middle" transform="translate(-5,317)">5</text><text dominant-baseline="middle" transform="translate(-5,292)">6</text><text dominant-baseline="middle" transform="translate(-5,271)">7</text><text dominant-baseline="middle" transform="translate(-5,252)">8</text><text dominant-baseline="middle" transform="translate(-5,236)">9</text><text dominant-baseline="middle" transform="translate(-5,222)">10</text><text dominant-baseline="middle" transform="translate(-5,126)">20</text><text dominant-baseline="middle" transform="translate(-5,70)">30</text><text dominant-baseline="middle" transform="translate(-5,31)">40</text><text dominant-baseline="middle" transform="translate(-5)">50</text></g>
+     <g font-family="Arial" font-size="24" xml:space="preserve" transform="translate(-39)"><g transform="rotate(270) translate(-48,9)"><text fill="black" font-size="24">tanβ</text></g></g>
     </g>
-    <path d="M0,0v539M62,0v539M124,0v539M186,0v539M248,0v539M310,0v539M372,0v539M434,0v539M496,0v539M558,0v539" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-    <path d="M0,539h558M0,443h558M0,388h558M0,348h558M0,317h558M0,292h558M0,271h558M0,252h558M0,236h558M0,222h558M0,126h558M0,70h558M0,31h558M0,0h558" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+    <path d="M0,0v539M62,0v539M124,0v539M186,0v539M248,0v539M310,0v539M372,0v539M434,0v539M496,0v539M558,0v539" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
+    <path d="M0,539h558M0,443h558M0,388h558M0,348h558M0,317h558M0,292h558M0,271h558M0,252h558M0,236h558M0,222h558M0,126h558M0,70h558M0,31h558M0,0h558" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
    </g>
   </g>
-  <g font-family="Arial" font-size="30" space="preserve" font-weight="bold">
-   <g transform="translate(183,105)">
-    <text fill="magenta" font-size="30">
-     ← t → bH
-    </text>
-    <text fill="magenta" font-size="18" transform="translate(140,-16)">
-     +
-    </text>
-    <text fill="magenta" font-size="30" x="151">
-     , H
-    </text>
-    <text fill="magenta" font-size="18" transform="translate(191,-16)">
-     +
-    </text>
-    <text fill="magenta" font-size="30" x="214">
-     → τν
-    </text>
-   </g>
-  </g>
-  <g font-family="Arial" font-size="30" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="start" transform="translate(438,346)">
-    ATLAS
-   </text>
-  </g>
-  <g font-family="Arial" font-size="18" space="preserve" font-weight="bold">
-   <g transform="translate(415,378)">
-    <g>
-     <path style="stroke: black; stroke-width: 2; fill: none;" d="M0,5a3,3,0,0,0,6,0v-25a3,3,0,1,1,6,0"></path>
-    </g>
-    <text fill="black" font-size="18" x="18">
-     Ldt = 300 fb
-    </text>
-    <text fill="black" font-size="11" transform="translate(120,-9)">
-     -1
-    </text>
-   </g>
-  </g>
-  <g font-family="Arial" font-size="18" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="start" transform="translate(430,409)">
-    Maximal mixing
-   </text>
-  </g>
-  <g font-family="Arial" font-size="18" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="start" transform="translate(520,479)">
-    LEP 2000
-   </text>
-  </g>
-  <g font-family="Arial" font-size="30" space="preserve" font-weight="bold">
-   <g transform="translate(241,298)">
-    <text fill="red" font-size="30">
-     gb → tH
-    </text>
-    <text fill="red" font-size="18" transform="translate(117,-16)">
-     +
-    </text>
-    <text fill="red" font-size="30" x="128">
-     , H
-    </text>
-    <text fill="red" font-size="18" transform="translate(168,-16)">
-     +
-    </text>
-    <text fill="red" font-size="30" x="191">
-     → τν
-    </text>
-   </g>
-  </g>
-  <g font-family="Arial" font-size="30" space="preserve" font-weight="bold">
-   <g transform="translate(213,587)">
-    <text fill="blue" font-size="30">
-     gb → tH
-    </text>
-    <text fill="blue" font-size="18" transform="translate(117,-16)">
-     +
-    </text>
-    <text fill="blue" font-size="30" x="128">
-     , H
-    </text>
-    <text fill="blue" font-size="18" transform="translate(168,-16)">
-     +
-    </text>
-    <text fill="blue" font-size="30" x="191">
-     → tb
-    </text>
-   </g>
-  </g>
+  <g font-family="Arial" font-size="30" xml:space="preserve" font-weight="bold"><g transform="translate(183,105)"><text fill="magenta" font-size="30">← t → bH</text><text fill="magenta" font-size="18" transform="translate(140,-16)">+</text><text fill="magenta" font-size="30" x="151">, H</text><text fill="magenta" font-size="18" transform="translate(187,-16)">+</text><text fill="magenta" font-size="30" x="210">→ τν</text></g></g>
+  <g font-family="Arial" font-size="30" xml:space="preserve" font-weight="bold"><text fill="black" text-anchor="start" transform="translate(438,346)">ATLAS</text></g>
+  <g font-family="Arial" font-size="18" xml:space="preserve" font-weight="bold"><g transform="translate(415,378)"><g><path d="M0,5a3,3,0,0,0,6,0v-25a3,3,0,1,1,6,0" style="stroke: black; stroke-width: 2; fill: none;"></path></g><text fill="black" font-size="18" x="18">Ldt = 300 fb</text><text fill="black" font-size="11" transform="translate(120,-9)">-1</text></g></g>
+  <g font-family="Arial" font-size="18" xml:space="preserve" font-weight="bold"><text fill="black" text-anchor="start" transform="translate(430,409)">Maximal mixing</text></g>
+  <g font-family="Arial" font-size="18" xml:space="preserve" font-weight="bold"><text fill="black" text-anchor="start" transform="translate(520,479)">LEP 2000</text></g>
+  <g font-family="Arial" font-size="30" xml:space="preserve" font-weight="bold"><g transform="translate(241,298)"><text fill="red" font-size="30">gb → tH</text><text fill="red" font-size="18" transform="translate(117,-16)">+</text><text fill="red" font-size="30" x="128">, H</text><text fill="red" font-size="18" transform="translate(164,-16)">+</text><text fill="red" font-size="30" x="187">→ τν</text></g></g>
+  <g font-family="Arial" font-size="30" xml:space="preserve" font-weight="bold"><g transform="translate(213,587)"><text fill="blue" font-size="30">gb → tH</text><text fill="blue" font-size="18" transform="translate(117,-16)">+</text><text fill="blue" font-size="30" x="128">, H</text><text fill="blue" font-size="18" transform="translate(164,-16)">+</text><text fill="blue" font-size="30" x="187">→ tb</text></g></g>
  </g>
 </svg>

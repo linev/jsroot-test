@@ -11,80 +11,14 @@
    <g>
     <g>
      <path d="M0,0h960M0,0V19M23,0V10M46,0V10M69,0V10M92,0V19M115,0V10M138,0V10M161,0V10M184,0V19M207,0V10M230,0V10M253,0V10M276,0V19M299,0V10M322,0V10M344,0V10M367,0V19M390,0V10M413,0V10M436,0V10M459,0V19M482,0V10M505,0V10M528,0V10M551,0V19M574,0V10M597,0V10M620,0V10M643,0V19M666,0V10M689,0V10M712,0V10M735,0V19M758,0V10M781,0V10M804,0V10M827,0V19M850,0V10M873,0V10M896,0V10M919,0V19M942,0V10" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="middle">
-      <text transform="translate(0,-8)">
-       0
-      </text>
-      <text transform="translate(92,-8)">
-       0.2
-      </text>
-      <text transform="translate(184,-8)">
-       0.4
-      </text>
-      <text transform="translate(276,-8)">
-       0.6
-      </text>
-      <text transform="translate(367,-8)">
-       0.8
-      </text>
-      <text transform="translate(459,-8)">
-       1
-      </text>
-      <text transform="translate(551,-8)">
-       1.2
-      </text>
-      <text transform="translate(643,-8)">
-       1.4
-      </text>
-      <text transform="translate(735,-8)">
-       1.6
-      </text>
-      <text transform="translate(827,-8)">
-       1.8
-      </text>
-      <text transform="translate(919,-8)">
-       2
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="middle"><text transform="translate(0,-8)">0</text><text transform="translate(92,-8)">0.2</text><text transform="translate(184,-8)">0.4</text><text transform="translate(276,-8)">0.6</text><text transform="translate(367,-8)">0.8</text><text transform="translate(459,-8)">1</text><text transform="translate(551,-8)">1.2</text><text transform="translate(643,-8)">1.4</text><text transform="translate(735,-8)">1.6</text><text transform="translate(827,-8)">1.8</text><text transform="translate(919,-8)">2</text></g>
     </g>
     <g transform="translate(960)">
      <path d="M0,0v640M0,639H-15M0,626H-15M0,612H-15M0,599H-15M0,586H-29M0,572H-15M0,559H-15M0,546H-15M0,533H-15M0,519H-29M0,506H-15M0,493H-15M0,479H-15M0,466H-15M0,453H-29M0,439H-15M0,426H-15M0,413H-15M0,399H-15M0,386H-29M0,373H-15M0,359H-15M0,346H-15M0,333H-15M0,319H-29M0,306H-15M0,293H-15M0,279H-15M0,266H-15M0,253H-29M0,240H-15M0,226H-15M0,213H-15M0,200H-15M0,186H-29M0,173H-15M0,160H-15M0,146H-15M0,133H-15M0,120H-29M0,106H-15M0,93H-15M0,80H-15M0,66H-15M0,53H-29M0,40H-15M0,26H-15M0,13H-15" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="start">
-      <text dy=".4em" transform="translate(6,586)">
-       2
-      </text>
-      <text dy=".4em" transform="translate(6,519)">
-       3
-      </text>
-      <text dy=".4em" transform="translate(6,453)">
-       4
-      </text>
-      <text dy=".4em" transform="translate(6,386)">
-       5
-      </text>
-      <text dy=".4em" transform="translate(6,319)">
-       6
-      </text>
-      <text dy=".4em" transform="translate(6,253)">
-       7
-      </text>
-      <text dy=".4em" transform="translate(6,186)">
-       8
-      </text>
-      <text dy=".4em" transform="translate(6,120)">
-       9
-      </text>
-      <text dy=".4em" transform="translate(6,53)">
-       10
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="start"><text dominant-baseline="middle" transform="translate(6,586)">2</text><text dominant-baseline="middle" transform="translate(6,519)">3</text><text dominant-baseline="middle" transform="translate(6,453)">4</text><text dominant-baseline="middle" transform="translate(6,386)">5</text><text dominant-baseline="middle" transform="translate(6,319)">6</text><text dominant-baseline="middle" transform="translate(6,253)">7</text><text dominant-baseline="middle" transform="translate(6,186)">8</text><text dominant-baseline="middle" transform="translate(6,120)">9</text><text dominant-baseline="middle" transform="translate(6,53)">10</text></g>
     </g>
    </g>
   </g>
-  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
-    Option ACP example
-   </text>
-  </g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">Option ACP example</text></g>
  </g>
 </svg>

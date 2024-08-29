@@ -12,34 +12,14 @@
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960M75,-10V0M135,-10V0M182,-10V0M220,-10V0M252,-10V0M280,-10V0M304,-10V0M326,-19V0M471,-10V0M555,-10V0M615,-10V0M662,-10V0M700,-10V0M732,-10V0M760,-10V0M784,-10V0M806,-19V0M951,-10V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve">
-      <g transform="translate(303,36)">
-       <text fill="black" font-size="28">
-        10
-       </text>
-       <text fill="black" font-size="17" transform="translate(31,-15)">
-        -1
-       </text>
-      </g>
-      <text fill="black" text-anchor="middle" transform="translate(806,36)">
-       1
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve"><g transform="translate(303,36)"><text fill="black" font-size="28">10</text><text fill="black" font-size="17" transform="translate(31,-15)">-1</text></g><text fill="black" text-anchor="middle" transform="translate(806,36)">1</text></g>
     </g>
     <g>
      <path d="M0,0v640M15,489H0M15,371H0M15,288H0M15,223H0M15,170H0M15,126H0M15,87H0M15,53H0M29,22H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve">
-      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-6,22)">
-       10
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(-6,22)">10</text></g>
     </g>
    </g>
   </g>
-  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
-    Option ACP example
-   </text>
-  </g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">Option ACP example</text></g>
  </g>
 </svg>
