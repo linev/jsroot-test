@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 696 472" preserveAspectRatio="none" width="696" height="472">
+<svg xmlns="http://www.w3.org/2000/svg" width="696" height="472" viewBox="0 0 696 472" preserveAspectRatio="none">
  <path d="M0,0H696V472H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(70,47)">
@@ -11,95 +11,16 @@
    <g>
     <g transform="translate(0,378)">
      <path d="M0,0h557M8,-6V0M22,-6V0M36,-6V0M50,-6V0M64,-11V0M78,-6V0M92,-6V0M106,-6V0M120,-6V0M134,-11V0M148,-6V0M162,-6V0M175,-6V0M189,-6V0M203,-11V0M217,-6V0M231,-6V0M245,-6V0M259,-6V0M273,-11V0M287,-6V0M301,-6V0M315,-6V0M329,-6V0M343,-11V0M356,-6V0M370,-6V0M384,-6V0M398,-6V0M412,-11V0M426,-6V0M440,-6V0M454,-6V0M468,-6V0M482,-11V0M496,-6V0M510,-6V0M524,-6V0M538,-6V0M551,-11V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="19" space="preserve" font-weight="bold" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(64,3)">
-       500
-      </text>
-      <text dy=".8em" transform="translate(134,3)">
-       1000
-      </text>
-      <text dy=".8em" transform="translate(203,3)">
-       1500
-      </text>
-      <text dy=".8em" transform="translate(273,3)">
-       2000
-      </text>
-      <text dy=".8em" transform="translate(343,3)">
-       2500
-      </text>
-      <text dy=".8em" transform="translate(412,3)">
-       3000
-      </text>
-      <text dy=".8em" transform="translate(482,3)">
-       3500
-      </text>
-      <text dy=".8em" transform="translate(551,3)">
-       4000
-      </text>
-     </g>
-     <g font-family="Arial" font-size="19" space="preserve" font-weight="bold" transform="translate(557,30)">
-      <text fill="black" text-anchor="end" dy=".4em">
-       energy (keV)
-      </text>
-     </g>
+     <g font-family="Arial" font-size="19" xml:space="preserve" font-weight="bold" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(64,3)">500</text><text dy=".8em" transform="translate(134,3)">1000</text><text dy=".8em" transform="translate(203,3)">1500</text><text dy=".8em" transform="translate(273,3)">2000</text><text dy=".8em" transform="translate(343,3)">2500</text><text dy=".8em" transform="translate(412,3)">3000</text><text dy=".8em" transform="translate(482,3)">3500</text><text dy=".8em" transform="translate(551,3)">4000</text></g>
+     <g font-family="Arial" font-size="19" xml:space="preserve" font-weight="bold" transform="translate(557,30)"><text fill="black" text-anchor="end" dominant-baseline="middle">energy (keV)</text></g>
     </g>
     <g>
      <path d="M0,0v378M17,378H0M9,364H0M9,350H0M9,336H0M17,322H0M9,308H0M9,294H0M9,280H0M17,266H0M9,252H0M9,238H0M9,224H0M17,210H0M9,196H0M9,181H0M9,167H0M17,153H0M9,139H0M9,125H0M9,111H0M17,97H0M9,83H0M9,69H0M9,55H0M17,41H0M9,27H0M9,13H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="19" space="preserve" font-weight="bold" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-3,378)">
-       0
-      </text>
-      <text dy=".4em" transform="translate(-3,322)">
-       2000
-      </text>
-      <text dy=".4em" transform="translate(-3,266)">
-       4000
-      </text>
-      <text dy=".4em" transform="translate(-3,210)">
-       6000
-      </text>
-      <text dy=".4em" transform="translate(-3,153)">
-       8000
-      </text>
-      <text dy=".4em" transform="translate(-3,97)">
-       10000
-      </text>
-      <text dy=".4em" transform="translate(-3,41)">
-       12000
-      </text>
-     </g>
-     <g font-family="Arial" font-size="19" space="preserve" font-weight="bold" transform="translate(-45)">
-      <text fill="black" text-anchor="end" dy=".4em" transform="rotate(270)">
-       counts
-      </text>
-     </g>
+     <g font-family="Arial" font-size="19" xml:space="preserve" font-weight="bold" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-3,378)">0</text><text dominant-baseline="middle" transform="translate(-3,322)">2000</text><text dominant-baseline="middle" transform="translate(-3,266)">4000</text><text dominant-baseline="middle" transform="translate(-3,210)">6000</text><text dominant-baseline="middle" transform="translate(-3,153)">8000</text><text dominant-baseline="middle" transform="translate(-3,97)">10000</text><text dominant-baseline="middle" transform="translate(-3,41)">12000</text></g>
+     <g font-family="Arial" font-size="19" xml:space="preserve" font-weight="bold" transform="translate(-45)"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="rotate(270)">counts</text></g>
     </g>
    </g>
   </g>
-  <g transform="translate(543,31)" font-family="Arial" font-size="12" space="preserve" fill="black">
-   <path d="M0,0H139V76H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <text text-anchor="middle" dy=".4em" transform="translate(70,10)">
-    HPGe singles_1
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(7,29)">
-    Entries
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(132,29)">
-    1391705
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(7,48)">
-    Mean
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(132,48)">
-    422.0
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(7,67)">
-    Std Dev
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(132,67)">
-    353.4
-   </text>
-   <path d="M0,19h139" style="stroke: black; stroke-width: 1;"></path>
-  </g>
+  <g transform="translate(543,31)" font-family="Arial" font-size="16" xml:space="preserve" fill="black"><path d="M0,0H139V76H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(70,10)">HPGe singles_1</text><text text-anchor="start" dominant-baseline="middle" transform="translate(7,29)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(132,29)">1391705</text><text text-anchor="start" dominant-baseline="middle" transform="translate(7,48)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(132,48)">422.0</text><text text-anchor="start" dominant-baseline="middle" transform="translate(7,67)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(132,67)">353.4</text><path d="M0,19h139" style="stroke: black; stroke-width: 1;"></path></g>
  </g>
 </svg>
