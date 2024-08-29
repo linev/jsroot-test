@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 596 372" preserveAspectRatio="none" width="596" height="372">
+<svg xmlns="http://www.w3.org/2000/svg" width="596" height="372" viewBox="0 0 596 372" preserveAspectRatio="none">
  <defs>
   <pattern id="pat_3005_1" patternUnits="userSpaceOnUse" width="8" height="8">
    <path d="M0,0L8,8" style="stroke: black; stroke-width: 1;"></path>
   </pattern>
   <pattern id="pat_3004_9" patternUnits="userSpaceOnUse" width="8" height="8">
-   <path d="M8,0L0,8" style="stroke: #5954d9; stroke-width: 1;"></path>
+   <path d="M8,0L0,8" style="stroke: rgb(89, 84, 217); stroke-width: 1;"></path>
   </pattern>
   <pattern id="pat_3002_2" patternUnits="userSpaceOnUse" width="4" height="2">
    <path d="M1,0h1v1h-1zM3,1h1v1h-1z" style="fill: red;"></path>
@@ -31,82 +31,16 @@
    <g>
     <g transform="translate(0,298)">
      <path d="M0,0h477M0,-9V0M12,-5V0M23,-5V0M35,-5V0M47,-5V0M58,-9V0M70,-5V0M82,-5V0M93,-5V0M105,-5V0M116,-9V0M128,-5V0M140,-5V0M151,-5V0M163,-5V0M175,-9V0M186,-5V0M198,-5V0M210,-5V0M221,-5V0M233,-9V0M245,-5V0M256,-5V0M268,-5V0M280,-5V0M291,-9V0M303,-5V0M315,-5V0M326,-5V0M338,-5V0M349,-9V0M361,-5V0M373,-5V0M384,-5V0M396,-5V0M408,-9V0M419,-5V0M431,-5V0M443,-5V0M454,-5V0M466,-9V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(0,3)">
-       0
-      </text>
-      <text dy=".8em" transform="translate(58,3)">
-       0.5
-      </text>
-      <text dy=".8em" transform="translate(116,3)">
-       1
-      </text>
-      <text dy=".8em" transform="translate(175,3)">
-       1.5
-      </text>
-      <text dy=".8em" transform="translate(233,3)">
-       2
-      </text>
-      <text dy=".8em" transform="translate(291,3)">
-       2.5
-      </text>
-      <text dy=".8em" transform="translate(349,3)">
-       3
-      </text>
-      <text dy=".8em" transform="translate(408,3)">
-       3.5
-      </text>
-      <text dy=".8em" transform="translate(466,3)">
-       4
-      </text>
-     </g>
+     <g font-family="Arial" font-size="13" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,3)">0</text><text dy=".8em" transform="translate(58,3)">0.5</text><text dy=".8em" transform="translate(116,3)">1</text><text dy=".8em" transform="translate(175,3)">1.5</text><text dy=".8em" transform="translate(233,3)">2</text><text dy=".8em" transform="translate(291,3)">2.5</text><text dy=".8em" transform="translate(349,3)">3</text><text dy=".8em" transform="translate(408,3)">3.5</text><text dy=".8em" transform="translate(466,3)">4</text></g>
     </g>
     <g>
      <path d="M0,0v298M7,291H0M14,285H0M7,278H0M7,271H0M7,264H0M14,257H0M7,251H0M7,244H0M7,237H0M14,230H0M7,224H0M7,217H0M7,210H0M14,203H0M7,196H0M7,190H0M7,183H0M14,176H0M7,169H0M7,163H0M7,156H0M14,149H0M7,142H0M7,136H0M7,129H0M14,122H0M7,115H0M7,108H0M7,102H0M14,95H0M7,88H0M7,81H0M7,75H0M14,68H0M7,61H0M7,54H0M7,47H0M14,41H0M7,34H0M7,27H0M7,20H0M14,14H0M7,7H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-3,285)">
-       -10
-      </text>
-      <text dy=".4em" transform="translate(-3,257)">
-       -8
-      </text>
-      <text dy=".4em" transform="translate(-3,230)">
-       -6
-      </text>
-      <text dy=".4em" transform="translate(-3,203)">
-       -4
-      </text>
-      <text dy=".4em" transform="translate(-3,176)">
-       -2
-      </text>
-      <text dy=".4em" transform="translate(-3,149)">
-       0
-      </text>
-      <text dy=".4em" transform="translate(-3,122)">
-       2
-      </text>
-      <text dy=".4em" transform="translate(-3,95)">
-       4
-      </text>
-      <text dy=".4em" transform="translate(-3,68)">
-       6
-      </text>
-      <text dy=".4em" transform="translate(-3,41)">
-       8
-      </text>
-      <text dy=".4em" transform="translate(-3,14)">
-       10
-      </text>
-     </g>
+     <g font-family="Arial" font-size="13" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-3,285)">-10</text><text dominant-baseline="middle" transform="translate(-3,257)">-8</text><text dominant-baseline="middle" transform="translate(-3,230)">-6</text><text dominant-baseline="middle" transform="translate(-3,203)">-4</text><text dominant-baseline="middle" transform="translate(-3,176)">-2</text><text dominant-baseline="middle" transform="translate(-3,149)">0</text><text dominant-baseline="middle" transform="translate(-3,122)">2</text><text dominant-baseline="middle" transform="translate(-3,95)">4</text><text dominant-baseline="middle" transform="translate(-3,68)">6</text><text dominant-baseline="middle" transform="translate(-3,41)">8</text><text dominant-baseline="middle" transform="translate(-3,14)">10</text></g>
     </g>
-    <path d="M0,0v298M58,0v298M116,0v298M175,0v298M233,0v298M291,0v298M349,0v298M408,0v298M466,0v298" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-    <path d="M0,285h477M0,257h477M0,230h477M0,203h477M0,176h477M0,149h477M0,122h477M0,95h477M0,68h477M0,41h477M0,14h477" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+    <path d="M0,0v298M58,0v298M116,0v298M175,0v298M233,0v298M291,0v298M349,0v298M408,0v298M466,0v298" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
+    <path d="M0,285h477M0,257h477M0,230h477M0,203h477M0,176h477M0,149h477M0,122h477M0,95h477M0,68h477M0,41h477M0,14h477" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
    </g>
   </g>
-  <g transform="translate(60,2)" font-family="Arial" font-size="19" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(239)">
-    Exclusion graphs
-   </text>
-  </g>
+  <g transform="translate(60,2)" font-family="Arial" font-size="19" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(239)">Exclusion graphs</text></g>
  </g>
 </svg>

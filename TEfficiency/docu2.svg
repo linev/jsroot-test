@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 598 375" preserveAspectRatio="none" width="598" height="375">
+<svg xmlns="http://www.w3.org/2000/svg" width="598" height="375" viewBox="0 0 598 375" preserveAspectRatio="none">
  <defs>
   <pattern id="pat_3004_632" patternUnits="userSpaceOnUse" width="8" height="8">
-   <path d="M8,0L0,8" style="stroke: #ff0000; stroke-width: 1;"></path>
+   <path d="M8,0L0,8" style="stroke: rgb(255, 0, 0); stroke-width: 1;"></path>
   </pattern>
   <pattern id="pat_3005_600" patternUnits="userSpaceOnUse" width="8" height="8">
-   <path d="M0,0L8,8" style="stroke: #0000ff; stroke-width: 1;"></path>
+   <path d="M0,0L8,8" style="stroke: rgb(0, 0, 255); stroke-width: 1;"></path>
   </pattern>
  </defs>
  <path d="M0,0H598V375H0Z" style="fill: white;"></path>
@@ -27,71 +27,16 @@
      <g>
       <g transform="translate(0,294)">
        <path d="M0,0h230M0,-9V0M10,-5V0M21,-5V0M31,-5V0M42,-9V0M52,-5V0M63,-5V0M73,-5V0M84,-9V0M94,-5V0M105,-5V0M115,-5V0M125,-9V0M136,-5V0M146,-5V0M157,-5V0M167,-9V0M178,-5V0M188,-5V0M199,-5V0M209,-9V0M220,-5V0M230,-5V0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="10" space="preserve" fill="black" text-anchor="middle">
-        <text dy=".8em" transform="translate(0,2)">
-         0
-        </text>
-        <text dy=".8em" transform="translate(42,2)">
-         2
-        </text>
-        <text dy=".8em" transform="translate(84,2)">
-         4
-        </text>
-        <text dy=".8em" transform="translate(125,2)">
-         6
-        </text>
-        <text dy=".8em" transform="translate(167,2)">
-         8
-        </text>
-        <text dy=".8em" transform="translate(209,2)">
-         10
-        </text>
-       </g>
+       <g font-family="Arial" font-size="10" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,2)">0</text><text dy=".8em" transform="translate(42,2)">2</text><text dy=".8em" transform="translate(84,2)">4</text><text dy=".8em" transform="translate(125,2)">6</text><text dy=".8em" transform="translate(167,2)">8</text><text dy=".8em" transform="translate(209,2)">10</text></g>
       </g>
       <g>
        <path d="M0,0v294M4,293H0M4,285H0M7,276H0M4,268H0M4,260H0M4,251H0M4,243H0M7,234H0M4,226H0M4,218H0M4,209H0M4,201H0M7,192H0M4,184H0M4,176H0M4,167H0M4,159H0M7,150H0M4,142H0M4,134H0M4,125H0M4,117H0M7,108H0M4,100H0M4,92H0M4,83H0M4,75H0M7,66H0M4,58H0M4,50H0M4,41H0M4,33H0M7,24H0M4,16H0M4,8H0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="10" space="preserve" fill="black" text-anchor="end">
-        <text dy=".4em" transform="translate(-2,276)">
-         0.4
-        </text>
-        <text dy=".4em" transform="translate(-2,234)">
-         0.5
-        </text>
-        <text dy=".4em" transform="translate(-2,192)">
-         0.6
-        </text>
-        <text dy=".4em" transform="translate(-2,150)">
-         0.7
-        </text>
-        <text dy=".4em" transform="translate(-2,108)">
-         0.8
-        </text>
-        <text dy=".4em" transform="translate(-2,66)">
-         0.9
-        </text>
-        <text dy=".4em" transform="translate(-2,24)">
-         1
-        </text>
-       </g>
+       <g font-family="Arial" font-size="10" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-2,276)">0.4</text><text dominant-baseline="middle" transform="translate(-2,234)">0.5</text><text dominant-baseline="middle" transform="translate(-2,192)">0.6</text><text dominant-baseline="middle" transform="translate(-2,150)">0.7</text><text dominant-baseline="middle" transform="translate(-2,108)">0.8</text><text dominant-baseline="middle" transform="translate(-2,66)">0.9</text><text dominant-baseline="middle" transform="translate(-2,24)">1</text></g>
       </g>
      </g>
     </g>
-    <g transform="translate(29,2)" font-family="Arial" font-size="12" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(115)">
-      different confidence levels
-     </text>
-    </g>
-    <g transform="translate(86,184)" font-family="Arial" font-size="27" space="preserve">
-     <path d="M0,0H115V147H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <path d="M3,11v56h23v-56z" style="fill: url(#pat_3004_632); stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(29,39)">
-      95%
-     </text>
-     <path d="M3,81v56h23v-56z" style="fill: url(#pat_3005_600); stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(29,109)">
-      68.3%
-     </text>
-    </g>
+    <g transform="translate(29,2)" font-family="Arial" font-size="16" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(115)">different confidence levels</text></g>
+    <g transform="translate(86,184)" font-family="Arial" font-size="30" xml:space="preserve"><path d="M0,0H115V147H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M3,11v56h23v-56z" style="fill: url(#pat_3004_632); stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(29,39)">95%</text><path d="M3,81v56h23v-56z" style="fill: url(#pat_3005_600); stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(29,109)">68.3%</text></g>
    </g>
   </svg>
   <svg viewBox="0 0 287 368" preserveAspectRatio="none" x="305" y="3" width="287" height="368">
@@ -112,71 +57,16 @@
      <g>
       <g transform="translate(0,294)">
        <path d="M0,0h230M0,-9V0M10,-5V0M21,-5V0M31,-5V0M42,-9V0M52,-5V0M63,-5V0M73,-5V0M84,-9V0M94,-5V0M105,-5V0M115,-5V0M125,-9V0M136,-5V0M146,-5V0M157,-5V0M167,-9V0M178,-5V0M188,-5V0M199,-5V0M209,-9V0M220,-5V0M230,-5V0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="10" space="preserve" fill="black" text-anchor="middle">
-        <text dy=".8em" transform="translate(0,2)">
-         0
-        </text>
-        <text dy=".8em" transform="translate(42,2)">
-         2
-        </text>
-        <text dy=".8em" transform="translate(84,2)">
-         4
-        </text>
-        <text dy=".8em" transform="translate(125,2)">
-         6
-        </text>
-        <text dy=".8em" transform="translate(167,2)">
-         8
-        </text>
-        <text dy=".8em" transform="translate(209,2)">
-         10
-        </text>
-       </g>
+       <g font-family="Arial" font-size="10" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,2)">0</text><text dy=".8em" transform="translate(42,2)">2</text><text dy=".8em" transform="translate(84,2)">4</text><text dy=".8em" transform="translate(125,2)">6</text><text dy=".8em" transform="translate(167,2)">8</text><text dy=".8em" transform="translate(209,2)">10</text></g>
       </g>
       <g>
        <path d="M0,0v294M4,289H0M7,281H0M4,272H0M4,264H0M4,255H0M4,247H0M7,238H0M4,229H0M4,221H0M4,212H0M4,204H0M7,195H0M4,187H0M4,178H0M4,170H0M4,161H0M7,153H0M4,144H0M4,136H0M4,127H0M4,118H0M7,110H0M4,101H0M4,93H0M4,84H0M4,76H0M7,67H0M4,59H0M4,50H0M4,42H0M4,33H0M7,25H0M4,16H0M4,7H0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="10" space="preserve" fill="black" text-anchor="end">
-        <text dy=".4em" transform="translate(-2,281)">
-         0.4
-        </text>
-        <text dy=".4em" transform="translate(-2,238)">
-         0.5
-        </text>
-        <text dy=".4em" transform="translate(-2,195)">
-         0.6
-        </text>
-        <text dy=".4em" transform="translate(-2,153)">
-         0.7
-        </text>
-        <text dy=".4em" transform="translate(-2,110)">
-         0.8
-        </text>
-        <text dy=".4em" transform="translate(-2,67)">
-         0.9
-        </text>
-        <text dy=".4em" transform="translate(-2,25)">
-         1
-        </text>
-       </g>
+       <g font-family="Arial" font-size="10" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-2,281)">0.4</text><text dominant-baseline="middle" transform="translate(-2,238)">0.5</text><text dominant-baseline="middle" transform="translate(-2,195)">0.6</text><text dominant-baseline="middle" transform="translate(-2,153)">0.7</text><text dominant-baseline="middle" transform="translate(-2,110)">0.8</text><text dominant-baseline="middle" transform="translate(-2,67)">0.9</text><text dominant-baseline="middle" transform="translate(-2,25)">1</text></g>
       </g>
      </g>
     </g>
-    <g transform="translate(29,2)" font-family="Arial" font-size="12" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".8em" transform="translate(115)">
-      different statistic options
-     </text>
-    </g>
-    <g transform="translate(86,184)" font-family="Arial" font-size="17" space="preserve">
-     <path d="M0,0H115V147H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <path d="M3,11v56h23v-56z" style="fill: url(#pat_3004_632); stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(29,39)">
-      kFNormal
-     </text>
-     <path d="M3,81v56h23v-56z" style="fill: url(#pat_3005_600); stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(29,109)">
-      kFAC
-     </text>
-    </g>
+    <g transform="translate(29,2)" font-family="Arial" font-size="17" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(115)">different statistic options</text></g>
+    <g transform="translate(86,184)" font-family="Arial" font-size="17" xml:space="preserve"><path d="M0,0H115V147H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M3,11v56h23v-56z" style="fill: url(#pat_3004_632); stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(29,39)">kFNormal</text><path d="M3,81v56h23v-56z" style="fill: url(#pat_3005_600); stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(29,109)">kFAC</text></g>
    </g>
   </svg>
  </g>

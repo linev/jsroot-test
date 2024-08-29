@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 598 374" preserveAspectRatio="none" width="598" height="374">
+<svg xmlns="http://www.w3.org/2000/svg" width="598" height="374" viewBox="0 0 598 374" preserveAspectRatio="none">
  <path d="M0,0H598V374H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(60,37)">
@@ -20,82 +20,13 @@
    <g>
     <g transform="translate(0,299)">
      <path d="M0,0h478M8,-5V0M24,-5V0M40,-9V0M56,-5V0M72,-5V0M88,-5V0M104,-5V0M120,-9V0M135,-5V0M151,-5V0M167,-5V0M183,-5V0M199,-9V0M215,-5V0M231,-5V0M247,-5V0M263,-5V0M279,-9V0M295,-5V0M311,-5V0M327,-5V0M343,-5V0M359,-9V0M374,-5V0M390,-5V0M406,-5V0M422,-5V0M438,-9V0M454,-5V0M470,-5V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(40,3)">
-       2
-      </text>
-      <text dy=".8em" transform="translate(120,3)">
-       3
-      </text>
-      <text dy=".8em" transform="translate(199,3)">
-       4
-      </text>
-      <text dy=".8em" transform="translate(279,3)">
-       5
-      </text>
-      <text dy=".8em" transform="translate(359,3)">
-       6
-      </text>
-      <text dy=".8em" transform="translate(438,3)">
-       7
-      </text>
-     </g>
-     <g font-family="Arial" font-size="13" space="preserve" transform="translate(478,21)">
-      <g transform="translate(-51,4)">
-       <text fill="black" font-size="13">
-        E
-       </text>
-       <text fill="black" font-size="8" transform="translate(8,3)">
-        γ
-       </text>
-       <text fill="black" font-size="13" x="17">
-        (GeV)
-       </text>
-      </g>
-     </g>
+     <g font-family="Arial" font-size="13" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(40,3)">2</text><text dy=".8em" transform="translate(120,3)">3</text><text dy=".8em" transform="translate(199,3)">4</text><text dy=".8em" transform="translate(279,3)">5</text><text dy=".8em" transform="translate(359,3)">6</text><text dy=".8em" transform="translate(438,3)">7</text></g>
+     <g font-family="Arial" font-size="13" xml:space="preserve" transform="translate(478,21)"><g transform="translate(-51,4)"><text fill="black" font-size="13">E</text><text fill="black" font-size="8" transform="translate(8,3)">γ</text><text fill="black" font-size="13" x="17">(GeV)</text></g></g>
     </g>
     <g>
      <path d="M0,0v299M14,299H0M7,293H0M7,287H0M7,281H0M7,275H0M14,269H0M7,263H0M7,257H0M7,251H0M7,245H0M14,239H0M7,233H0M7,227H0M7,221H0M7,215H0M14,209H0M7,203H0M7,197H0M7,191H0M7,185H0M14,179H0M7,173H0M7,167H0M7,161H0M7,155H0M14,150H0M7,144H0M7,138H0M7,132H0M7,126H0M14,120H0M7,114H0M7,108H0M7,102H0M7,96H0M14,90H0M7,84H0M7,78H0M7,72H0M7,66H0M14,60H0M7,54H0M7,48H0M7,42H0M7,36H0M14,30H0M7,24H0M7,18H0M7,12H0M7,6H0M14,0H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="13" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-3,299)">
-       0
-      </text>
-      <text dy=".4em" transform="translate(-3,269)">
-       1
-      </text>
-      <text dy=".4em" transform="translate(-3,239)">
-       2
-      </text>
-      <text dy=".4em" transform="translate(-3,209)">
-       3
-      </text>
-      <text dy=".4em" transform="translate(-3,179)">
-       4
-      </text>
-      <text dy=".4em" transform="translate(-3,150)">
-       5
-      </text>
-      <text dy=".4em" transform="translate(-3,120)">
-       6
-      </text>
-      <text dy=".4em" transform="translate(-3,90)">
-       7
-      </text>
-      <text dy=".4em" transform="translate(-3,60)">
-       8
-      </text>
-      <text dy=".4em" transform="translate(-3,30)">
-       9
-      </text>
-      <text dy=".4em" transform="translate(-3)">
-       10
-      </text>
-     </g>
-     <g font-family="Arial" font-size="13" space="preserve" transform="translate(-33)">
-      <text fill="black" text-anchor="end" dy=".4em" transform="rotate(270)">
-       Coefficients
-      </text>
-     </g>
+     <g font-family="Arial" font-size="13" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-3,299)">0</text><text dominant-baseline="middle" transform="translate(-3,269)">1</text><text dominant-baseline="middle" transform="translate(-3,239)">2</text><text dominant-baseline="middle" transform="translate(-3,209)">3</text><text dominant-baseline="middle" transform="translate(-3,179)">4</text><text dominant-baseline="middle" transform="translate(-3,150)">5</text><text dominant-baseline="middle" transform="translate(-3,120)">6</text><text dominant-baseline="middle" transform="translate(-3,90)">7</text><text dominant-baseline="middle" transform="translate(-3,60)">8</text><text dominant-baseline="middle" transform="translate(-3,30)">9</text><text dominant-baseline="middle" transform="translate(-3)">10</text></g>
+     <g font-family="Arial" font-size="13" xml:space="preserve" transform="translate(-33)"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="rotate(270)">Coefficients</text></g>
     </g>
    </g>
   </g>
