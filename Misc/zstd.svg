@@ -5,124 +5,22 @@
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
-     <path d="M0,640h610v-457v457h43v-610h1v610h306" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: none;"></path>
+     <path d="M0,640h610v-457v457h43v-610h1v610h306" style="stroke-linejoin: miter; stroke: rgb(0, 0, 154); stroke-width: 1; fill: none;"></path>
     </g>
    </svg>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960M0,-19V0M18,-10V0M37,-10V0M55,-10V0M73,-10V0M92,-19V0M110,-10V0M128,-10V0M147,-10V0M165,-10V0M183,-19V0M202,-10V0M220,-10V0M238,-10V0M256,-10V0M275,-19V0M293,-10V0M311,-10V0M330,-10V0M348,-10V0M366,-19V0M385,-10V0M403,-10V0M421,-10V0M440,-10V0M458,-19V0M476,-10V0M495,-10V0M513,-10V0M531,-10V0M550,-19V0M568,-10V0M586,-10V0M605,-10V0M623,-10V0M641,-19V0M660,-10V0M678,-10V0M696,-10V0M714,-10V0M733,-19V0M751,-10V0M769,-10V0M788,-10V0M806,-10V0M824,-19V0M843,-10V0M861,-10V0M879,-10V0M898,-10V0M916,-19V0M934,-10V0M953,-10V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve">
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,5)">
-       0
-      </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(92,5)">
-       0.1
-      </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(183,5)">
-       0.2
-      </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(275,5)">
-       0.3
-      </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(366,5)">
-       0.4
-      </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(458,5)">
-       0.5
-      </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(550,5)">
-       0.6
-      </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(641,5)">
-       0.7
-      </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(733,5)">
-       0.8
-      </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(824,5)">
-       0.9
-      </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(916,5)">
-       1
-      </text>
-      <g transform="translate(965,-10)">
-       <text fill="black" font-size="28">
-        ×10
-       </text>
-       <text fill="black" font-size="17" transform="translate(47,-15)">
-        6
-       </text>
-      </g>
-     </g>
-     <g font-family="Arial" font-size="28" space="preserve" transform="translate(960,45)">
-      <text fill="black" text-anchor="end" dy=".4em">
-       bytes
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(0,5)">0</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(92,5)">0.1</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(183,5)">0.2</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(275,5)">0.3</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(366,5)">0.4</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(458,5)">0.5</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(550,5)">0.6</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(641,5)">0.7</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(733,5)">0.8</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(824,5)">0.9</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(916,5)">1</text><g transform="translate(965,-10)"><text fill="black" font-size="28">×10</text><text fill="black" font-size="17" transform="translate(47,-15)">6</text></g></g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" transform="translate(960,45)"><text fill="black" text-anchor="end" dominant-baseline="middle">bytes</text></g>
     </g>
     <g>
      <path d="M0,0v640M29,640H0M15,625H0M15,610H0M15,594H0M15,579H0M29,564H0M15,549H0M15,533H0M15,518H0M15,503H0M29,488H0M15,472H0M15,457H0M15,442H0M15,427H0M29,411H0M15,396H0M15,381H0M15,366H0M15,350H0M29,335H0M15,320H0M15,305H0M15,290H0M15,274H0M29,259H0M15,244H0M15,229H0M15,213H0M15,198H0M29,183H0M15,168H0M15,152H0M15,137H0M15,122H0M29,107H0M15,91H0M15,76H0M15,61H0M15,46H0M29,30H0M15,15H0M15,0H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-6,640)">
-       0
-      </text>
-      <text dy=".4em" transform="translate(-6,564)">
-       0.5
-      </text>
-      <text dy=".4em" transform="translate(-6,488)">
-       1
-      </text>
-      <text dy=".4em" transform="translate(-6,411)">
-       1.5
-      </text>
-      <text dy=".4em" transform="translate(-6,335)">
-       2
-      </text>
-      <text dy=".4em" transform="translate(-6,259)">
-       2.5
-      </text>
-      <text dy=".4em" transform="translate(-6,183)">
-       3
-      </text>
-      <text dy=".4em" transform="translate(-6,107)">
-       3.5
-      </text>
-      <text dy=".4em" transform="translate(-6,30)">
-       4
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-6,640)">0</text><text dominant-baseline="middle" transform="translate(-6,564)">0.5</text><text dominant-baseline="middle" transform="translate(-6,488)">1</text><text dominant-baseline="middle" transform="translate(-6,411)">1.5</text><text dominant-baseline="middle" transform="translate(-6,335)">2</text><text dominant-baseline="middle" transform="translate(-6,259)">2.5</text><text dominant-baseline="middle" transform="translate(-6,183)">3</text><text dominant-baseline="middle" transform="translate(-6,107)">3.5</text><text dominant-baseline="middle" transform="translate(-6,30)">4</text></g>
     </g>
    </g>
   </g>
-  <g transform="translate(936,52)" font-family="Arial" font-size="25" space="preserve" fill="black">
-   <path d="M0,0H240V128H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <text text-anchor="middle" dy=".4em" transform="translate(120,16)">
-    payloadSize
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,48)">
-    Entries
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,48)">
-    7
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,80)">
-    Mean
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,80)">
-    693134
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,112)">
-    Std Dev
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,112)">
-    23540
-   </text>
-   <path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path>
-  </g>
-  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
-    Payload size of blocks
-   </text>
-  </g>
+  <g transform="translate(936,52)" font-family="Arial" font-size="27" xml:space="preserve" fill="black"><path d="M0,0H240V128H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(120,16)">payloadSize</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,48)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,48)">7</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,80)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,80)">693134</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,112)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,112)">23540</text><path d="M0,32h240" style="stroke: black; stroke-width: 1;"></path></g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">Payload size of blocks</text></g>
  </g>
 </svg>

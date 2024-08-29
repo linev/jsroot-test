@@ -5,117 +5,22 @@
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
-     <path d="M0,561h19v79h115v-39h20v39h19v-157h19v157h38v-39h20v-59h19v-20h19v118h19v-236h19v177h20v-216h19v78h19v-413h19v236h19v197h20v-157h19v59h19v118h19v-59h19v-79h20v-39h19v-158h19v197h19v-275h19v511h20v-157h19v-20h19v98h19v-216h19v197h20v39h19v-39h19v157h19v-59h19v-79h20v79h19v20h19v39h77v-39h19" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: none;"></path>
+     <path d="M0,561h19v79h115v-39h20v39h19v-157h19v157h38v-39h20v-59h19v-20h19v118h19v-236h19v177h20v-216h19v78h19v-413h19v236h19v197h20v-157h19v59h19v118h19v-59h19v-79h20v-39h19v-158h19v197h19v-275h19v511h20v-157h19v-20h19v98h19v-216h19v197h20v39h19v-39h19v157h19v-59h19v-79h20v79h19v20h19v39h77v-39h19" style="stroke-linejoin: miter; stroke: rgb(0, 0, 154); stroke-width: 1; fill: none;"></path>
     </g>
    </svg>
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960M14,-19V0M39,-10V0M63,-10V0M88,-10V0M113,-10V0M138,-19V0M162,-10V0M187,-10V0M212,-10V0M237,-10V0M261,-19V0M286,-10V0M311,-10V0M336,-10V0M360,-10V0M385,-19V0M410,-10V0M435,-10V0M459,-10V0M484,-10V0M509,-19V0M534,-10V0M558,-10V0M583,-10V0M608,-10V0M633,-19V0M657,-10V0M682,-10V0M707,-10V0M732,-10V0M756,-19V0M781,-10V0M806,-10V0M831,-10V0M855,-10V0M880,-19V0M905,-10V0M930,-10V0M954,-10V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve">
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(14,5)">
-       -20
-      </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(138,5)">
-       -15
-      </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(261,5)">
-       -10
-      </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(385,5)">
-       -5
-      </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(509,5)">
-       0
-      </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(633,5)">
-       5
-      </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(756,5)">
-       10
-      </text>
-      <text fill="black" text-anchor="middle" dy=".8em" transform="translate(880,5)">
-       15
-      </text>
-      <g transform="translate(965,-10)">
-       <text fill="black" font-size="28">
-        ×10
-       </text>
-       <text fill="black" font-size="17" transform="translate(47,-15)">
-        3
-       </text>
-      </g>
-     </g>
-     <g font-family="Arial" font-size="28" space="preserve" transform="translate(960,45)">
-      <text fill="black" text-anchor="end" dy=".4em">
-       B_PX
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(14,5)">-20</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(138,5)">-15</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(261,5)">-10</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(385,5)">-5</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(509,5)">0</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(633,5)">5</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(756,5)">10</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(880,5)">15</text><g transform="translate(965,-10)"><text fill="black" font-size="28">×10</text><text fill="black" font-size="17" transform="translate(47,-15)">3</text></g></g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" transform="translate(960,45)"><text fill="black" text-anchor="end" dominant-baseline="middle">B_PX</text></g>
     </g>
     <g>
      <path d="M0,0v640M29,640H0M15,620H0M15,601H0M15,581H0M15,561H0M29,542H0M15,522H0M15,502H0M15,483H0M15,463H0M29,443H0M15,424H0M15,404H0M15,384H0M15,365H0M29,345H0M15,325H0M15,306H0M15,286H0M15,266H0M29,247H0M15,227H0M15,207H0M15,188H0M15,168H0M29,148H0M15,129H0M15,109H0M15,89H0M15,70H0M29,50H0M15,30H0M15,11H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-6,640)">
-       0
-      </text>
-      <text dy=".4em" transform="translate(-6,542)">
-       5
-      </text>
-      <text dy=".4em" transform="translate(-6,443)">
-       10
-      </text>
-      <text dy=".4em" transform="translate(-6,345)">
-       15
-      </text>
-      <text dy=".4em" transform="translate(-6,247)">
-       20
-      </text>
-      <text dy=".4em" transform="translate(-6,148)">
-       25
-      </text>
-      <text dy=".4em" transform="translate(-6,50)">
-       30
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-6,640)">0</text><text dominant-baseline="middle" transform="translate(-6,542)">5</text><text dominant-baseline="middle" transform="translate(-6,443)">10</text><text dominant-baseline="middle" transform="translate(-6,345)">15</text><text dominant-baseline="middle" transform="translate(-6,247)">20</text><text dominant-baseline="middle" transform="translate(-6,148)">25</text><text dominant-baseline="middle" transform="translate(-6,50)">30</text></g>
     </g>
    </g>
   </g>
-  <g transform="translate(936,52)" font-family="Arial" font-size="26" space="preserve" fill="black">
-   <path d="M0,0H240V160H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <text text-anchor="start" dy=".4em" transform="translate(12,16)">
-    Entries
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,16)">
-    366
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,48)">
-    Mean
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,48)">
-    269.0
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,80)">
-    Std Dev
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,80)">
-    6502
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,112)">
-    Underflow
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,112)">
-    0
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(12,144)">
-    Overflow
-   </text>
-   <text text-anchor="end" dy=".4em" transform="translate(228,144)">
-    0
-   </text>
-  </g>
-  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
-    drawing branch B_PX  from DecayTree
-   </text>
-  </g>
+  <g transform="translate(936,52)" font-family="Arial" font-size="27" xml:space="preserve" fill="black"><path d="M0,0H240V160H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="start" dominant-baseline="middle" transform="translate(12,16)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,16)">366</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,48)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,48)">269.0</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,80)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,80)">6502</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,112)">Underflow</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,112)">0</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,144)">Overflow</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,144)">0</text></g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">drawing branch B_PX  from DecayTree</text></g>
  </g>
 </svg>

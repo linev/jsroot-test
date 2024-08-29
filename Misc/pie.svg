@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 698 674" preserveAspectRatio="none" width="698" height="674">
+<svg xmlns="http://www.w3.org/2000/svg" width="698" height="674" viewBox="0 0 698 674" preserveAspectRatio="none">
  <defs>
   <pattern id="pat_3030_3" patternUnits="userSpaceOnUse" width="4" height="2">
    <path d="M1,0h1v1h-1zM3,1h1v1h-1z" style="fill: green;"></path>
@@ -27,7 +27,7 @@
     <g transform="translate(168,178)">
      <path d="M0,0L100,0A100,-97,0,0,0,97,-24z" style="stroke: black; stroke-width: 1; fill: red;"></path>
      <path d="M0,0L97,-24A100,-97,0,0,0,-3,-97z" style="stroke: black; stroke-width: 1; fill: url(#pat_3030_3);"></path>
-     <path d="M0,0L-3,-97A100,-97,0,0,0,-70,-70z" style="stroke: red; stroke-width: 5; stroke-dasharray: 3,3; fill: blue;"></path>
+     <path d="M0,0L-3,-97A100,-97,0,0,0,-70,-70z" style="stroke: red; stroke-width: 5; stroke-dasharray: 3, 3; fill: blue;"></path>
      <path d="M0,0L-70,-70A100,-97,0,0,0,-95,29z" style="stroke: black; stroke-width: 1; fill: yellow;"></path>
      <path d="M0,0L-95,29A100,-97,0,0,0,100,0z" style="stroke: black; stroke-width: 1; fill: magenta;"></path>
     </g>
@@ -43,29 +43,7 @@
      <path d="M0,0L-124,-49A134,-129,0,0,0,-110,74z" style="stroke: black; stroke-width: 1; fill: yellow;"></path>
      <path d="M0,0L-110,74A134,-129,0,0,0,134,0z" style="stroke: black; stroke-width: 1; fill: magenta;"></path>
     </g>
-    <g transform="translate(218,45)" font-family="Arial" font-size="15" space="preserve">
-     <path d="M0,0H100V97H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <path d="M3,5v15h19v-15z" style="fill: red; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(25,12)">
-      Slice0
-     </text>
-     <path d="M3,23v15h19v-15z" style="fill: url(#pat_3031_3); stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(25,30)">
-      Slice1
-     </text>
-     <path d="M3,41v15h19v-15z" style="fill: blue; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(25,48)">
-      Slice2
-     </text>
-     <path d="M3,60v15h19v-15z" style="fill: yellow; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(25,67)">
-      Slice3
-     </text>
-     <path d="M3,78v15h19v-15z" style="fill: magenta; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(25,85)">
-      Slice4
-     </text>
-    </g>
+    <g transform="translate(218,45)" font-family="Arial" font-size="16" xml:space="preserve"><path d="M0,0H100V97H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M3,5v15h19v-15z" style="fill: red; stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(25,12)">Slice0</text><path d="M3,23v15h19v-15z" style="fill: url(#pat_3031_3); stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(25,30)">Slice1</text><path d="M3,41v15h19v-15z" style="fill: blue; stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(25,48)">Slice2</text><path d="M3,60v15h19v-15z" style="fill: yellow; stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(25,67)">Slice3</text><path d="M3,78v15h19v-15z" style="fill: magenta; stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(25,85)">Slice4</text></g>
    </g>
   </svg>
   <svg viewBox="0 0 335 324" preserveAspectRatio="none" x="356" y="343" width="335" height="324">

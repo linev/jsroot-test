@@ -1,38 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 696 472" preserveAspectRatio="none" width="696" height="472">
+<svg xmlns="http://www.w3.org/2000/svg" width="696" height="472" viewBox="0 0 696 472" preserveAspectRatio="none">
  <path d="M0,0H696V472H0Z" style="fill: white;"></path>
  <g>
-  <g transform="translate(35,24)" font-family="Arial" font-size="23" space="preserve" font-weight="bold" fill="black">
-   <path d="M0,0H626V425H0Z" style="fill: white; stroke: white; stroke-width: 1;"></path>
-   <text text-anchor="middle" dy=".4em" transform="translate(313,14)">
-    Group 0
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(31,43)">
-    Member 0
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(31,71)">
-    Member 1
-   </text>
-   <path d="M0,128L626,128" style="stroke: black; stroke-width: 3; stroke-dasharray: 20,5;"></path>
-   <text text-anchor="middle" dy=".4em" transform="translate(313,156)">
-    Group 1
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(31,184)">
-    Member 0
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(31,212)">
-    Member 1
-   </text>
-   <path d="M0,269L626,269" style="stroke: black; stroke-width: 3; stroke-dasharray: 20,5;"></path>
-   <text text-anchor="middle" dy=".4em" transform="translate(313,298)">
-    Group 2
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(31,326)">
-    Member 0
-   </text>
-   <text text-anchor="start" dy=".4em" transform="translate(31,354)">
-    Member 1
-   </text>
-   <path d="M0,411L626,411" style="stroke: black; stroke-width: 3; stroke-dasharray: 20,5;"></path>
-  </g>
+  <g transform="translate(35,24)" font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" fill="black"><path d="M0,0H626V425H0Z" style="fill: white; stroke: white; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(313,14)">Group 0</text><text text-anchor="start" dominant-baseline="middle" transform="translate(31,43)">Member 0</text><text text-anchor="start" dominant-baseline="middle" transform="translate(31,71)">Member 1</text><path d="M0,128L626,128" style="stroke: black; stroke-width: 3; stroke-dasharray: 20, 5;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(313,156)">Group 1</text><text text-anchor="start" dominant-baseline="middle" transform="translate(31,184)">Member 0</text><text text-anchor="start" dominant-baseline="middle" transform="translate(31,212)">Member 1</text><path d="M0,269L626,269" style="stroke: black; stroke-width: 3; stroke-dasharray: 20, 5;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(313,298)">Group 2</text><text text-anchor="start" dominant-baseline="middle" transform="translate(31,326)">Member 0</text><text text-anchor="start" dominant-baseline="middle" transform="translate(31,354)">Member 1</text><path d="M0,411L626,411" style="stroke: black; stroke-width: 3; stroke-dasharray: 20, 5;"></path></g>
  </g>
 </svg>

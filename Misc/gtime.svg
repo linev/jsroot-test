@@ -6,406 +6,320 @@
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960M0,-19V0M24,-10V0M48,-10V0M72,-10V0M96,-19V0M120,-10V0M144,-10V0M168,-10V0M192,-19V0M216,-10V0M240,-10V0M264,-10V0M288,-19V0M312,-10V0M336,-10V0M360,-10V0M384,-19V0M408,-10V0M432,-10V0M456,-10V0M480,-19V0M504,-10V0M528,-10V0M552,-10V0M576,-19V0M600,-10V0M624,-10V0M648,-10V0M672,-19V0M696,-10V0M720,-10V0M744,-10V0M768,-19V0M792,-10V0M816,-10V0M840,-10V0M864,-19V0M888,-10V0M912,-10V0M936,-10V0M960,-19V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(0,5)">
-       -10
-      </text>
-      <text dy=".8em" transform="translate(96,5)">
-       -8
-      </text>
-      <text dy=".8em" transform="translate(192,5)">
-       -6
-      </text>
-      <text dy=".8em" transform="translate(288,5)">
-       -4
-      </text>
-      <text dy=".8em" transform="translate(384,5)">
-       -2
-      </text>
-      <text dy=".8em" transform="translate(480,5)">
-       0
-      </text>
-      <text dy=".8em" transform="translate(576,5)">
-       2
-      </text>
-      <text dy=".8em" transform="translate(672,5)">
-       4
-      </text>
-      <text dy=".8em" transform="translate(768,5)">
-       6
-      </text>
-      <text dy=".8em" transform="translate(864,5)">
-       8
-      </text>
-      <text dy=".8em" transform="translate(960,5)">
-       10
-      </text>
-     </g>
-     <g font-family="Arial" font-size="28" space="preserve" transform="translate(960,45)">
-      <text fill="black" text-anchor="end" dy=".4em">
-       X domain
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,5)">-10</text><text dy=".8em" transform="translate(96,5)">-8</text><text dy=".8em" transform="translate(192,5)">-6</text><text dy=".8em" transform="translate(288,5)">-4</text><text dy=".8em" transform="translate(384,5)">-2</text><text dy=".8em" transform="translate(480,5)">0</text><text dy=".8em" transform="translate(576,5)">2</text><text dy=".8em" transform="translate(672,5)">4</text><text dy=".8em" transform="translate(768,5)">6</text><text dy=".8em" transform="translate(864,5)">8</text><text dy=".8em" transform="translate(960,5)">10</text></g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" transform="translate(960,45)"><text fill="black" text-anchor="end" dominant-baseline="middle">X domain</text></g>
     </g>
     <g>
      <path d="M0,0v640M29,640H0M15,624H0M15,608H0M15,592H0M29,576H0M15,560H0M15,544H0M15,528H0M29,512H0M15,496H0M15,480H0M15,464H0M29,448H0M15,432H0M15,416H0M15,400H0M29,384H0M15,368H0M15,352H0M15,336H0M29,320H0M15,304H0M15,288H0M15,272H0M29,256H0M15,240H0M15,224H0M15,208H0M29,192H0M15,176H0M15,160H0M15,144H0M29,128H0M15,112H0M15,96H0M15,80H0M29,64H0M15,48H0M15,32H0M15,16H0M29,0H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-6,640)">
-       -10
-      </text>
-      <text dy=".4em" transform="translate(-6,576)">
-       -8
-      </text>
-      <text dy=".4em" transform="translate(-6,512)">
-       -6
-      </text>
-      <text dy=".4em" transform="translate(-6,448)">
-       -4
-      </text>
-      <text dy=".4em" transform="translate(-6,384)">
-       -2
-      </text>
-      <text dy=".4em" transform="translate(-6,320)">
-       0
-      </text>
-      <text dy=".4em" transform="translate(-6,256)">
-       2
-      </text>
-      <text dy=".4em" transform="translate(-6,192)">
-       4
-      </text>
-      <text dy=".4em" transform="translate(-6,128)">
-       6
-      </text>
-      <text dy=".4em" transform="translate(-6,64)">
-       8
-      </text>
-      <text dy=".4em" transform="translate(-6)">
-       10
-      </text>
-     </g>
-     <g font-family="Arial" font-size="28" space="preserve" transform="translate(-78)">
-      <text fill="black" text-anchor="end" dy=".4em" transform="rotate(270)">
-       Y domain
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-6,640)">-10</text><text dominant-baseline="middle" transform="translate(-6,576)">-8</text><text dominant-baseline="middle" transform="translate(-6,512)">-6</text><text dominant-baseline="middle" transform="translate(-6,448)">-4</text><text dominant-baseline="middle" transform="translate(-6,384)">-2</text><text dominant-baseline="middle" transform="translate(-6,320)">0</text><text dominant-baseline="middle" transform="translate(-6,256)">2</text><text dominant-baseline="middle" transform="translate(-6,192)">4</text><text dominant-baseline="middle" transform="translate(-6,128)">6</text><text dominant-baseline="middle" transform="translate(-6,64)">8</text><text dominant-baseline="middle" transform="translate(-6)">10</text></g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" transform="translate(-68)"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="rotate(270)">Y domain</text></g>
     </g>
    </g>
   </g>
-  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
-    TGraphTime demo
-   </text>
-  </g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">TGraphTime demo</text></g>
   <g>
-   <path d="M645,345a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M645,345a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M652,413a17,17,0,1,0,34,0a17,17,0,1,0,-34,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M652,413a17,17,0,1,0,34,0a17,17,0,1,0,-34,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M544,447a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M544,447a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M538,394a7,7,0,1,0,14,0a7,7,0,1,0,-14,0z" style="stroke: #ff0000; fill: #ff0000;"></path>
+   <path d="M538,394a7,7,0,1,0,14,0a7,7,0,1,0,-14,0z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"></path>
   </g>
   <g>
-   <path d="M559,371a16,16,0,1,0,32,0a16,16,0,1,0,-32,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M559,371a16,16,0,1,0,32,0a16,16,0,1,0,-32,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M549,452a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M549,452a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M628,372a18,18,0,1,0,36,0a18,18,0,1,0,-36,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M628,372a18,18,0,1,0,36,0a18,18,0,1,0,-36,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M578,451a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M578,451a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M541,401a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: #ff0000; fill: #ff0000;"></path>
+   <path d="M541,401a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"></path>
   </g>
   <g>
-   <path d="M526,411a22,22,0,1,0,44,0a22,22,0,1,0,-44,0z" style="stroke: #ff0000; fill: #ff0000;"></path>
+   <path d="M526,411a22,22,0,1,0,44,0a22,22,0,1,0,-44,0z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"></path>
   </g>
   <g>
-   <path d="M529,384a17,17,0,1,0,34,0a17,17,0,1,0,-34,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M529,384a17,17,0,1,0,34,0a17,17,0,1,0,-34,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M534,386a14,14,0,1,0,28,0a14,14,0,1,0,-28,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M534,386a14,14,0,1,0,28,0a14,14,0,1,0,-28,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M537,403a6,6,0,1,0,12,0a6,6,0,1,0,-12,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M537,403a6,6,0,1,0,12,0a6,6,0,1,0,-12,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M539,434a12,12,0,1,0,24,0a12,12,0,1,0,-24,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M539,434a12,12,0,1,0,24,0a12,12,0,1,0,-24,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M559,370a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M559,370a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M602,445a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M602,445a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M648,355a8,8,0,1,0,16,0a8,8,0,1,0,-16,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M648,355a8,8,0,1,0,16,0a8,8,0,1,0,-16,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M543,357a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M543,357a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M579,447a9,9,0,1,0,18,0a9,9,0,1,0,-18,0z" style="stroke: #ff0000; fill: #ff0000;"></path>
+   <path d="M579,447a9,9,0,1,0,18,0a9,9,0,1,0,-18,0z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"></path>
   </g>
   <g>
-   <path d="M587,364a16,16,0,1,0,32,0a16,16,0,1,0,-32,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M587,364a16,16,0,1,0,32,0a16,16,0,1,0,-32,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M514,378a14,14,0,1,0,28,0a14,14,0,1,0,-28,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M514,378a14,14,0,1,0,28,0a14,14,0,1,0,-28,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M651,369a16,16,0,1,0,32,0a16,16,0,1,0,-32,0z" style="stroke: #ff0000; fill: #ff0000;"></path>
+   <path d="M651,369a16,16,0,1,0,32,0a16,16,0,1,0,-32,0z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"></path>
   </g>
   <g>
-   <path d="M561,367a17,17,0,1,0,34,0a17,17,0,1,0,-34,0z" style="stroke: #ff0000; fill: #ff0000;"></path>
+   <path d="M561,367a17,17,0,1,0,34,0a17,17,0,1,0,-34,0z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"></path>
   </g>
   <g>
-   <path d="M612,350a17,17,0,1,0,34,0a17,17,0,1,0,-34,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M612,350a17,17,0,1,0,34,0a17,17,0,1,0,-34,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M539,396a7,7,0,1,0,14,0a7,7,0,1,0,-14,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M539,396a7,7,0,1,0,14,0a7,7,0,1,0,-14,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M526,437a16,16,0,1,0,32,0a16,16,0,1,0,-32,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M526,437a16,16,0,1,0,32,0a16,16,0,1,0,-32,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M498,416a9,9,0,1,0,18,0a9,9,0,1,0,-18,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M498,416a9,9,0,1,0,18,0a9,9,0,1,0,-18,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M598,362a24,24,0,1,0,48,0a24,24,0,1,0,-48,0z" style="stroke: #ff0000; fill: #ff0000;"></path>
+   <path d="M598,362a24,24,0,1,0,48,0a24,24,0,1,0,-48,0z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"></path>
   </g>
   <g>
-   <path d="M548,429a21,21,0,1,0,42,0a21,21,0,1,0,-42,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M548,429a21,21,0,1,0,42,0a21,21,0,1,0,-42,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M536,426a17,17,0,1,0,34,0a17,17,0,1,0,-34,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M536,426a17,17,0,1,0,34,0a17,17,0,1,0,-34,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M539,448a9,9,0,1,0,18,0a9,9,0,1,0,-18,0z" style="stroke: #ff0000; fill: #ff0000;"></path>
+   <path d="M539,448a9,9,0,1,0,18,0a9,9,0,1,0,-18,0z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"></path>
   </g>
   <g>
-   <path d="M509,390a7,7,0,1,0,14,0a7,7,0,1,0,-14,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M509,390a7,7,0,1,0,14,0a7,7,0,1,0,-14,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M552,368a16,16,0,1,0,32,0a16,16,0,1,0,-32,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M552,368a16,16,0,1,0,32,0a16,16,0,1,0,-32,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M596,435a9,9,0,1,0,18,0a9,9,0,1,0,-18,0z" style="stroke: #ff0000; fill: #ff0000;"></path>
+   <path d="M596,435a9,9,0,1,0,18,0a9,9,0,1,0,-18,0z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"></path>
   </g>
   <g>
-   <path d="M504,371a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: #ff0000; fill: #ff0000;"></path>
+   <path d="M504,371a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"></path>
   </g>
   <g>
-   <path d="M605,372a19,19,0,1,0,38,0a19,19,0,1,0,-38,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M605,372a19,19,0,1,0,38,0a19,19,0,1,0,-38,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M665,411a11,11,0,1,0,22,0a11,11,0,1,0,-22,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M665,411a11,11,0,1,0,22,0a11,11,0,1,0,-22,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M525.3,426.0a2.7,2.7,0,1,0,5.4,0a2.7,2.7,0,1,0,-5.4,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M525.3,426.0a2.7,2.7,0,1,0,5.4,0a2.7,2.7,0,1,0,-5.4,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M633,430a9,9,0,1,0,18,0a9,9,0,1,0,-18,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M633,430a9,9,0,1,0,18,0a9,9,0,1,0,-18,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M647,451a7,7,0,1,0,14,0a7,7,0,1,0,-14,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M647,451a7,7,0,1,0,14,0a7,7,0,1,0,-14,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M644,382a8,8,0,1,0,16,0a8,8,0,1,0,-16,0z" style="stroke: #ff0000; fill: #ff0000;"></path>
+   <path d="M644,382a8,8,0,1,0,16,0a8,8,0,1,0,-16,0z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"></path>
   </g>
   <g>
-   <path d="M531,388a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M531,388a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M628,350a16,16,0,1,0,32,0a16,16,0,1,0,-32,0z" style="stroke: #ff0000; fill: #ff0000;"></path>
+   <path d="M628,350a16,16,0,1,0,32,0a16,16,0,1,0,-32,0z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"></path>
   </g>
   <g>
-   <path d="M645,360a9,9,0,1,0,18,0a9,9,0,1,0,-18,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M645,360a9,9,0,1,0,18,0a9,9,0,1,0,-18,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M582,346a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M582,346a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M559,433a18,18,0,1,0,36,0a18,18,0,1,0,-36,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M559,433a18,18,0,1,0,36,0a18,18,0,1,0,-36,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M552,445a17,17,0,1,0,34,0a17,17,0,1,0,-34,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M552,445a17,17,0,1,0,34,0a17,17,0,1,0,-34,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M535,451a15,15,0,1,0,30,0a15,15,0,1,0,-30,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M535,451a15,15,0,1,0,30,0a15,15,0,1,0,-30,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M556,368a16,16,0,1,0,32,0a16,16,0,1,0,-32,0z" style="stroke: #ff0000; fill: #ff0000;"></path>
+   <path d="M556,368a16,16,0,1,0,32,0a16,16,0,1,0,-32,0z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"></path>
   </g>
   <g>
-   <path d="M683,406a11,11,0,1,0,22,0a11,11,0,1,0,-22,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M683,406a11,11,0,1,0,22,0a11,11,0,1,0,-22,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M523,426a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M523,426a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M564.2,426.0a2.8,2.8,0,1,0,5.6,0a2.8,2.8,0,1,0,-5.6,0z" style="stroke: #ff0000; fill: #ff0000;"></path>
+   <path d="M564.2,426.0a2.8,2.8,0,1,0,5.6,0a2.8,2.8,0,1,0,-5.6,0z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"></path>
   </g>
   <g>
-   <path d="M609,355a17,17,0,1,0,34,0a17,17,0,1,0,-34,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M609,355a17,17,0,1,0,34,0a17,17,0,1,0,-34,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M534,377a6,6,0,1,0,12,0a6,6,0,1,0,-12,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M534,377a6,6,0,1,0,12,0a6,6,0,1,0,-12,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M631,363a20,20,0,1,0,40,0a20,20,0,1,0,-40,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M631,363a20,20,0,1,0,40,0a20,20,0,1,0,-40,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M673,372a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M673,372a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M558,429a9,9,0,1,0,18,0a9,9,0,1,0,-18,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M558,429a9,9,0,1,0,18,0a9,9,0,1,0,-18,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M540.9,424.0a3.1,3.1,0,1,0,6.2,0a3.1,3.1,0,1,0,-6.2,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M540.9,424.0a3.1,3.1,0,1,0,6.2,0a3.1,3.1,0,1,0,-6.2,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M641,402a16,16,0,1,0,32,0a16,16,0,1,0,-32,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M641,402a16,16,0,1,0,32,0a16,16,0,1,0,-32,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M548,358a17,17,0,1,0,34,0a17,17,0,1,0,-34,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M548,358a17,17,0,1,0,34,0a17,17,0,1,0,-34,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M669,392a7,7,0,1,0,14,0a7,7,0,1,0,-14,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M669,392a7,7,0,1,0,14,0a7,7,0,1,0,-14,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M667,400a16,16,0,1,0,32,0a16,16,0,1,0,-32,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M667,400a16,16,0,1,0,32,0a16,16,0,1,0,-32,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M655,430a9,9,0,1,0,18,0a9,9,0,1,0,-18,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M655,430a9,9,0,1,0,18,0a9,9,0,1,0,-18,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M603,433a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M603,433a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M614,368a20,20,0,1,0,40,0a20,20,0,1,0,-40,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M614,368a20,20,0,1,0,40,0a20,20,0,1,0,-40,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M630,378a7,7,0,1,0,14,0a7,7,0,1,0,-14,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M630,378a7,7,0,1,0,14,0a7,7,0,1,0,-14,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M638,401a21,21,0,1,0,42,0a21,21,0,1,0,-42,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M638,401a21,21,0,1,0,42,0a21,21,0,1,0,-42,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M648,391a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: #ff0000; fill: #ff0000;"></path>
+   <path d="M648,391a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"></path>
   </g>
   <g>
-   <path d="M564,429a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M564,429a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M603,448a11,11,0,1,0,22,0a11,11,0,1,0,-22,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M603,448a11,11,0,1,0,22,0a11,11,0,1,0,-22,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M675,420a8,8,0,1,0,16,0a8,8,0,1,0,-16,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M675,420a8,8,0,1,0,16,0a8,8,0,1,0,-16,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M661,385a15,15,0,1,0,30,0a15,15,0,1,0,-30,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M661,385a15,15,0,1,0,30,0a15,15,0,1,0,-30,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M507,373a8,8,0,1,0,16,0a8,8,0,1,0,-16,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M507,373a8,8,0,1,0,16,0a8,8,0,1,0,-16,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M569,356a19,19,0,1,0,38,0a19,19,0,1,0,-38,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M569,356a19,19,0,1,0,38,0a19,19,0,1,0,-38,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M692.0,400.0a2.0,2.0,0,1,0,4.0,0a2.0,2.0,0,1,0,-4.0,0z" style="stroke: #ff0000; fill: #ff0000;"></path>
+   <path d="M692.0,400.0a2.0,2.0,0,1,0,4.0,0a2.0,2.0,0,1,0,-4.0,0z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"></path>
   </g>
   <g>
-   <path d="M549,441a19,19,0,1,0,38,0a19,19,0,1,0,-38,0z" style="stroke: #ff0000; fill: #ff0000;"></path>
+   <path d="M549,441a19,19,0,1,0,38,0a19,19,0,1,0,-38,0z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"></path>
   </g>
   <g>
-   <path d="M621,380a23,23,0,1,0,46,0a23,23,0,1,0,-46,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M621,380a23,23,0,1,0,46,0a23,23,0,1,0,-46,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M600,450a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M600,450a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M637,420a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M637,420a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M636,417a20,20,0,1,0,40,0a20,20,0,1,0,-40,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M636,417a20,20,0,1,0,40,0a20,20,0,1,0,-40,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M556,351a15,15,0,1,0,30,0a15,15,0,1,0,-30,0z" style="stroke: #ff0000; fill: #ff0000;"></path>
+   <path d="M556,351a15,15,0,1,0,30,0a15,15,0,1,0,-30,0z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"></path>
   </g>
   <g>
-   <path d="M523,433a14,14,0,1,0,28,0a14,14,0,1,0,-28,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M523,433a14,14,0,1,0,28,0a14,14,0,1,0,-28,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M618,455a15,15,0,1,0,30,0a15,15,0,1,0,-30,0z" style="stroke: #ff0000; fill: #ff0000;"></path>
+   <path d="M618,455a15,15,0,1,0,30,0a15,15,0,1,0,-30,0z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"></path>
   </g>
   <g>
-   <path d="M663,376a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M663,376a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M529,391a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M529,391a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M512,427a7,7,0,1,0,14,0a7,7,0,1,0,-14,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M512,427a7,7,0,1,0,14,0a7,7,0,1,0,-14,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M599,350a17,17,0,1,0,34,0a17,17,0,1,0,-34,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M599,350a17,17,0,1,0,34,0a17,17,0,1,0,-34,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M515,364a8,8,0,1,0,16,0a8,8,0,1,0,-16,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M515,364a8,8,0,1,0,16,0a8,8,0,1,0,-16,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M627,369a21,21,0,1,0,42,0a21,21,0,1,0,-42,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M627,369a21,21,0,1,0,42,0a21,21,0,1,0,-42,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M503,381a14,14,0,1,0,28,0a14,14,0,1,0,-28,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M503,381a14,14,0,1,0,28,0a14,14,0,1,0,-28,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M510,401a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M510,401a10,10,0,1,0,20,0a10,10,0,1,0,-20,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M542,363a8,8,0,1,0,16,0a8,8,0,1,0,-16,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M542,363a8,8,0,1,0,16,0a8,8,0,1,0,-16,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M636,408a17,17,0,1,0,34,0a17,17,0,1,0,-34,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M636,408a17,17,0,1,0,34,0a17,17,0,1,0,-34,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M601,356a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M601,356a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M654,377a9,9,0,1,0,18,0a9,9,0,1,0,-18,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M654,377a9,9,0,1,0,18,0a9,9,0,1,0,-18,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M662,432a8,8,0,1,0,16,0a8,8,0,1,0,-16,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M662,432a8,8,0,1,0,16,0a8,8,0,1,0,-16,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M546,370a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: #0000ff; fill: #0000ff;"></path>
+   <path d="M546,370a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: rgb(0, 0, 255); fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
-   <path d="M557,353a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M557,353a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
-   <path d="M639,413a21,21,0,1,0,42,0a21,21,0,1,0,-42,0z" style="stroke: #ff0000; fill: #ff0000;"></path>
+   <path d="M639,413a21,21,0,1,0,42,0a21,21,0,1,0,-42,0z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"></path>
   </g>
   <g>
-   <path d="M652,404a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: #ffff00; fill: #ffff00;"></path>
+   <path d="M652,404a13,13,0,1,0,26,0a13,13,0,1,0,-26,0z" style="stroke: rgb(255, 255, 0); fill: rgb(255, 255, 0);"></path>
   </g>
   <g>
    <path d="M120,80L651,396M646,404l19,0l-9,-17z" style="stroke: black; stroke-width: 1; fill: black;"></path>
   </g>
-  <g transform="translate(1080,24)" font-family="Arial" font-size="33" space="preserve" font-weight="bold">
-   <path d="M96,3h3v40h-96v-3h93z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0H96V40H0Z" style="fill: #f3f3f3; stroke: black; stroke-width: 1;"></path>
-   <text fill="black" text-anchor="middle" dy=".4em" transform="translate(48,20)">
-    1
-   </text>
-  </g>
+  <g transform="translate(1080,24)" font-family="Arial" font-size="33" xml:space="preserve" font-weight="bold"><path d="M96,3h3v40h-96v-3h93z" style="fill: black; stroke: black; stroke-width: 1px;"></path><path d="M0,0H96V40H0Z" style="fill: rgb(243, 243, 243); stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(48,20)">1</text></g>
  </g>
 </svg>
