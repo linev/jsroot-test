@@ -1,25 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 572" preserveAspectRatio="none" width="496" height="572">
+<svg xmlns="http://www.w3.org/2000/svg" width="496" height="572" viewBox="0 0 496 572" preserveAspectRatio="none">
  <path d="M0,0H496V572H0Z" style="fill: white;"></path>
  <g>
-  <g font-family="Arial" font-size="18" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(50,114)">
-    1)   C(x) = d √{#frac{2}{λ D}}  ∫^{x}_{0}cos(#frac{π}{2}t^{2})dt
-   </text>
-  </g>
-  <g font-family="Arial" font-size="18" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(50,229)">
-    2)   C(x) = d √{#frac{2}{λ D}}  ∫^{x}cos(#frac{π}{2}t^{2})dt
-   </text>
-  </g>
-  <g font-family="Arial" font-size="18" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(50,343)">
-    3)   R = |A|^{2} = #frac{1}{2}([#frac{1}{2}+C(V)]^{2}+[#frac{1}{2}+S(V)]^{2})
-   </text>
-  </g>
-  <g font-family="Arial" font-size="18" space="preserve" font-weight="bold">
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(50,458)">
-    4)   F(t) = ∑_{i=-∞}^{∞}A(i)cos[#frac{i}{t+i}]
-   </text>
-  </g>
+  <g font-family="Arial" font-size="18" xml:space="preserve" font-weight="bold"><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(50,114)">1)   C(x) = d √{#frac{2}{λ D}}  ∫^{x}_{0}cos(#frac{π}{2}t^{2})dt</text></g>
+  <g font-family="Arial" font-size="18" xml:space="preserve" font-weight="bold"><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(50,229)">2)   C(x) = d √{#frac{2}{λ D}}  ∫^{x}cos(#frac{π}{2}t^{2})dt</text></g>
+  <g font-family="Arial" font-size="18" xml:space="preserve" font-weight="bold"><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(50,343)">3)   R = |A|^{2} = #frac{1}{2}([#frac{1}{2}+C(V)]^{2}+[#frac{1}{2}+S(V)]^{2})</text></g>
+  <g font-family="Arial" font-size="18" xml:space="preserve" font-weight="bold"><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(50,458)">4)   F(t) = ∑_{i=-∞}^{∞}A(i)cos[#frac{i}{t+i}]</text></g>
  </g>
 </svg>

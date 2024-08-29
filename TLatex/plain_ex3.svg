@@ -1,24 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 272" preserveAspectRatio="none" width="496" height="272">
+<svg xmlns="http://www.w3.org/2000/svg" width="496" height="272" viewBox="0 0 496 272" preserveAspectRatio="none">
  <path d="M0,0H496V272H0Z" style="fill: white;"></path>
  <g>
-  <g transform="translate(50,27)" font-family="Arial" font-size="2" space="preserve" font-weight="bold" fill="black" text-anchor="middle">
-   <path d="M397,4h4v218h-397v-4h393z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-   <path d="M0,0H397V218H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
-   <text dy=".4em" transform="translate(199,36)">
-    #frac{2s}{#pi#alpha^{2}}  #frac{d#sigma}{dcos#theta} (e^{+}e^{-} #rightarrow f#bar{f} ) = #left| #frac{1}{1 - #Delta#alpha} #right|^{2} (1+cos^{2}#theta)
-   </text>
-   <text dy=".4em" transform="translate(199,109)">
-    + 4 Re #left{ #frac{2}{1 - #Delta#alpha} #chi(s) #left[#hat{g}_{#nu}^{e}#hat{g}_{#nu}^{f} (1 + cos^{2}#theta) + 2 #hat{g}_{a}^{e}#hat{g}_{a}^{f} cos#theta) #right] #right}
-   </text>
-   <text dy=".4em" transform="translate(199,182)">
-    + 16 #left| #chi(s) #right|^{2} #left[( #hat{g}_{a}^{{e}^{2}} + #hat{g}_{v}^{{e}^{2}} ) ( #hat{g}_{a}^{{f}^{2}} + #hat{g}_{v}^{{f}^{2}})(1+cos^{2}#theta) + 8 #hat{g}_{a}^{e} #hat{g}_{a}^{f} #hat{g}_{v}^{e} #hat{g}_{v}^{f}cos#theta #right]
-   </text>
-   <g font-family="Arial" font-size="7" space="preserve" font-weight="bold">
-    <path d="M99,-4h199v9h-199z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
-    <text fill="black" text-anchor="middle" dy=".4em" transform="translate(199,1)">
-     Born equation
-    </text>
-   </g>
-  </g>
+  <g transform="translate(50,27)" font-family="Arial" font-size="3" xml:space="preserve" font-weight="bold" fill="black" text-anchor="middle"><path d="M397,4h4v218h-397v-4h393z" style="fill: black; stroke: black; stroke-width: 1px;"></path><path d="M0,0H397V218H0Z" style="fill: rgb(242, 242, 242); stroke: black; stroke-width: 1;"></path><text dominant-baseline="middle" transform="translate(199,36)">#frac{2s}{#pi#alpha^{2}}  #frac{d#sigma}{dcos#theta} (e^{+}e^{-} #rightarrow f#bar{f} ) = #left| #frac{1}{1 - #Delta#alpha} #right|^{2} (1+cos^{2}#theta)</text><text dominant-baseline="middle" transform="translate(199,109)">+ 4 Re #left{ #frac{2}{1 - #Delta#alpha} #chi(s) #left[#hat{g}_{#nu}^{e}#hat{g}_{#nu}^{f} (1 + cos^{2}#theta) + 2 #hat{g}_{a}^{e}#hat{g}_{a}^{f} cos#theta) #right] #right}</text><text dominant-baseline="middle" transform="translate(199,182)">+ 16 #left| #chi(s) #right|^{2} #left[( #hat{g}_{a}^{{e}^{2}} + #hat{g}_{v}^{{e}^{2}} ) ( #hat{g}_{a}^{{f}^{2}} + #hat{g}_{v}^{{f}^{2}})(1+cos^{2}#theta) + 8 #hat{g}_{a}^{e} #hat{g}_{a}^{f} #hat{g}_{v}^{e} #hat{g}_{v}^{f}cos#theta #right]</text><g font-family="Arial" font-size="7" xml:space="preserve" font-weight="bold"><path d="M99,-4h199v9h-199z" style="fill: rgb(242, 242, 242); stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(199,1)">Born equation</text></g></g>
  </g>
 </svg>
