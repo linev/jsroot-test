@@ -2,13 +2,13 @@
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g>
-   <path d="M120,560H360V320H120Z" style="stroke: #0000FF; stroke-width: 5; fill: #00FF007F;"></path>
+   <path d="M120,560H360V320H120Z" style="stroke: rgb(0, 0, 255); stroke-width: 5; fill: rgba(0, 255, 0, 0.4980392156862745);"></path>
   </g>
   <g>
-   <path d="M480,640H720V240H480Z" style="stroke: #FF0000; stroke-width: 10; stroke-dasharray: 3, 3; fill: #0000FFB3;"></path>
+   <path d="M480,640H720V240H480Z" style="stroke: rgb(255, 0, 0); stroke-width: 10; stroke-dasharray: 3, 3; fill: rgba(0, 0, 255, 0.7019607843137254);"></path>
   </g>
   <g>
-   <path d="M840,480H1080V320H840Z" style="stroke: black; stroke-width: 3; fill: #0000FF;"></path>
+   <path d="M840,480H1080V320H840Z" style="stroke: black; stroke-width: 3; fill: rgb(0, 0, 255);"></path>
   </g>
   <g>
    <path d="M840,240H1080V80H840Z" style="stroke: black; stroke-width: 4; fill: none;"></path>

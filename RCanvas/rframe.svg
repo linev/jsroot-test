@@ -2,10 +2,10 @@
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(240,200)">
-   <rect x="0" y="0" width="720" height="440" style="fill: none; stroke: #0000FF; stroke-width: 3;"></rect>
+   <rect x="0" y="0" width="720" height="440" style="fill: none; stroke: rgb(0, 0, 255); stroke-width: 3;"></rect>
    <svg x="0" y="0" overflow="hidden" width="720" height="440" viewBox="0 0 720 440">
     <g>
-     <path d="M580,93H620V53H580Z" style="stroke: black; stroke-width: 1; fill: #0000FF;"></path>
+     <path d="M580,93H620V53H580Z" style="stroke: black; stroke-width: 1; fill: rgb(0, 0, 255);"></path>
     </g>
     <g>
      <path d="M120,367L600,73" style="stroke: black; stroke-width: 2;"></path>
@@ -14,25 +14,25 @@
    </svg>
    <g>
     <g transform="translate(0,440)">
-     <path d="M0,-8V0M40,-8V0M80,-8V0M120,-16V0M160,-8V0M200,-8V0M240,-8V0M280,-16V0M320,-8V0M360,-8V0M400,-8V0M440,-16V0M480,-8V0M520,-8V0M560,-8V0M600,-16V0M640,-8V0M680,-8V0M720,-8V0" style="stroke: #008000; stroke-width: 3;"></path>
+     <path d="M0,-8V0M40,-8V0M80,-8V0M120,-16V0M160,-8V0M200,-8V0M240,-8V0M280,-16V0M320,-8V0M360,-8V0M400,-8V0M440,-16V0M480,-8V0M520,-8V0M560,-8V0M600,-16V0M640,-8V0M680,-8V0M720,-8V0" style="stroke: rgb(0, 128, 0); stroke-width: 3;"></path>
      <g font-family="Arial" font-size="24" xml:space="preserve"><text text-anchor="middle" dy=".8em" transform="translate(120,4)">20</text><text text-anchor="middle" dy=".8em" transform="translate(280,4)">40</text><text text-anchor="middle" dy=".8em" transform="translate(440,4)">60</text><text text-anchor="middle" dy=".8em" transform="translate(600,4)">80</text></g>
     </g>
     <g transform="translate(0,440)">
-     <path d="M12,0H0M12,-24H0M12,-49H0M24,-73H0M12,-98H0M12,-122H0M12,-147H0M24,-171H0M12,-196H0M12,-220H0M12,-244H0M24,-269H0M12,-293H0M12,-318H0M12,-342H0M24,-367H0M12,-391H0M12,-416H0M12,-440H0" style="stroke: #0000FF; stroke-width: 3;"></path>
+     <path d="M12,0H0M12,-24H0M12,-49H0M24,-73H0M12,-98H0M12,-122H0M12,-147H0M24,-171H0M12,-196H0M12,-220H0M12,-244H0M24,-269H0M12,-293H0M12,-318H0M12,-342H0M24,-367H0M12,-391H0M12,-416H0M12,-440H0" style="stroke: rgb(0, 0, 255); stroke-width: 3;"></path>
      <g font-family="Arial" font-size="24" xml:space="preserve"><text text-anchor="end" dominant-baseline="middle" transform="translate(-6,-73)">20</text><text text-anchor="end" dominant-baseline="middle" transform="translate(-6,-171)">40</text><text text-anchor="end" dominant-baseline="middle" transform="translate(-6,-269)">60</text><text text-anchor="end" dominant-baseline="middle" transform="translate(-6,-367)">80</text></g>
     </g>
    </g>
    <g>
     <g>
-     <path d="M-144,484L-144,-44" style="stroke: #FF0000; stroke-width: 2;"></path>
+     <path d="M-144,484L-144,-44" style="stroke: rgb(255, 0, 0); stroke-width: 2;"></path>
     </g>
     <g font-family="Arial" font-size="24" xml:space="preserve"><text fill="black" text-anchor="start" transform="translate(-149,484) rotate(270)">Line drawn on frame, normalized coordinates</text></g>
     <g>
-     <path d="M840,484L840,-44" style="stroke: #FF0000; stroke-width: 2;"></path>
+     <path d="M840,484L840,-44" style="stroke: rgb(255, 0, 0); stroke-width: 2;"></path>
     </g>
     <g font-family="Arial" font-size="24" xml:space="preserve"><text fill="black" text-anchor="start" dy=".8em" transform="translate(840,484) rotate(270)">Line drawn on frame, user coordinates</text></g>
     <g>
-     <path d="M580,387H620V347H580Z" style="stroke: black; stroke-width: 1; fill: #FFFF00;"></path>
+     <path d="M580,387H620V347H580Z" style="stroke: black; stroke-width: 1; fill: rgb(255, 255, 0);"></path>
     </g>
     <g>
      <path d="M120,73L600,367" style="stroke: black; stroke-width: 2;"></path>
