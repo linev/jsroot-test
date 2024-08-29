@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 698 974" preserveAspectRatio="none" width="698" height="974">
+<svg xmlns="http://www.w3.org/2000/svg" width="698" height="974" viewBox="0 0 698 974" preserveAspectRatio="none">
  <path d="M0,0H698V974H0Z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 698 584" preserveAspectRatio="none" x="0" y="0" width="698" height="584">
@@ -10,49 +10,7 @@
   <svg viewBox="0 0 698 390" preserveAspectRatio="none" x="0" y="584" width="698" height="390">
    <path d="M0,0H698V390H0Z" style="fill: white;"></path>
    <g>
-    <g transform="translate(7,4)" font-family="Arial" font-size="12" space="preserve" font-weight="bold" text-anchor="start">
-     <path d="M684,4h4v382h-684v-4h680z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-     <path d="M0,0H684V382H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
-     <text fill="red" dy=".4em" transform="translate(34,19)">
-      Ideal / Aligned geometry
-     </text>
-     <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="blue" text-anchor="start" dy=".4em" transform="translate(34,57)">
-       -- Create physical nodes for the objects you want to align
-      </text>
-     </g>
-     <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="blue" text-anchor="start" dy=".4em" transform="translate(34,96)">
-       -- You must start from a valid CLOSED geometry
-      </text>
-     </g>
-     <text fill="black" dy=".4em" transform="translate(34,134)">
-      TGeoPhysicalNode *node = gGeoManager-&gt;MakePhysicalNode(const char *path)
-     </text>
-     <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,172)">
-       + creates a physical node represented by path, e.g. TOP_1/A_2/B_3
-      </text>
-     </g>
-     <text fill="black" dy=".4em" transform="translate(34,210)">
-      node-&gt;Align(TGeoMatrix *newmat, TGeoShape *newshape, Bool_t check=kFALSE)
-     </text>
-     <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,248)">
-       + newmat = new matrix to replace final node LOCAL matrix
-      </text>
-     </g>
-     <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,287)">
-       + newshape = new shape to replace final node shape
-      </text>
-     </g>
-     <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
-      <text fill="red" text-anchor="start" dy=".4em" transform="translate(34,325)">
-       + check = optional check if the new aligned node is overlapping
-      </text>
-     </g>
-    </g>
+    <g transform="translate(7,4)" font-family="Arial" font-size="14" xml:space="preserve" font-weight="bold" text-anchor="start"><path d="M684,4h4v382h-684v-4h680z" style="fill: black; stroke: black; stroke-width: 1px;"></path><path d="M0,0H684V382H0Z" style="fill: rgb(242, 242, 242); stroke: black; stroke-width: 1;"></path><text fill="red" dominant-baseline="middle" transform="translate(34,19)">Ideal / Aligned geometry</text><g font-family="Arial" font-size="16" xml:space="preserve" font-weight="bold"><text fill="blue" text-anchor="start" dominant-baseline="middle" transform="translate(34,57)">-- Create physical nodes for the objects you want to align</text></g><g font-family="Arial" font-size="16" xml:space="preserve" font-weight="bold"><text fill="blue" text-anchor="start" dominant-baseline="middle" transform="translate(34,96)">-- You must start from a valid CLOSED geometry</text></g><text fill="black" dominant-baseline="middle" transform="translate(34,134)">    TGeoPhysicalNode *node = gGeoManager-&gt;MakePhysicalNode(const char *path)</text><g font-family="Arial" font-size="16" xml:space="preserve" font-weight="bold"><text fill="red" text-anchor="start" dominant-baseline="middle" transform="translate(34,172)">    + creates a physical node represented by path, e.g. TOP_1/A_2/B_3</text></g><text fill="black" dominant-baseline="middle" transform="translate(34,210)">    node-&gt;Align(TGeoMatrix *newmat, TGeoShape *newshape, Bool_t check=kFALSE)</text><g font-family="Arial" font-size="16" xml:space="preserve" font-weight="bold"><text fill="red" text-anchor="start" dominant-baseline="middle" transform="translate(34,248)">    + newmat = new matrix to replace final node LOCAL matrix</text></g><g font-family="Arial" font-size="16" xml:space="preserve" font-weight="bold"><text fill="red" text-anchor="start" dominant-baseline="middle" transform="translate(34,287)">    + newshape = new shape to replace final node shape</text></g><g font-family="Arial" font-size="16" xml:space="preserve" font-weight="bold"><text fill="red" text-anchor="start" dominant-baseline="middle" transform="translate(34,325)">    + check = optional check if the new aligned node is overlapping</text></g></g>
    </g>
   </svg>
  </g>

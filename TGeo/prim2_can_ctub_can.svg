@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 698 974" preserveAspectRatio="none" width="698" height="974">
+<svg xmlns="http://www.w3.org/2000/svg" width="698" height="974" viewBox="0 0 698 974" preserveAspectRatio="none">
  <path d="M0,0H698V974H0Z" style="fill: white;"></path>
  <g>
   <svg viewBox="0 0 698 584" preserveAspectRatio="none" x="0" y="0" width="698" height="584">
@@ -10,28 +10,7 @@
   <svg viewBox="0 0 698 390" preserveAspectRatio="none" x="0" y="584" width="698" height="390">
    <path d="M0,0H698V390H0Z" style="fill: white;"></path>
    <g>
-    <g transform="translate(7,4)" font-family="Arial" font-size="21" space="preserve" font-weight="bold" text-anchor="start">
-     <path d="M684,4h4v382h-684v-4h680z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
-     <path d="M0,0H684V382H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
-     <text fill="red" dy=".4em" transform="translate(34,27)">
-      TGeoTubeSeg - tube segment class
-     </text>
-     <text fill="black" dy=".4em" transform="translate(34,82)">
-      fRmin     = 20.00         =&gt;  minimum radius
-     </text>
-     <text fill="black" dy=".4em" transform="translate(34,136)">
-      fRmax     = 30.00         =&gt;  maximum radius
-     </text>
-     <text fill="black" dy=".4em" transform="translate(34,191)">
-      fDZ       = 50.92         =&gt;  half length in Z
-     </text>
-     <text fill="black" dy=".4em" transform="translate(34,246)">
-      fPhi1     = 330.00        =&gt;  first phi limit
-     </text>
-     <text fill="black" dy=".4em" transform="translate(34,300)">
-      fPhi2     = 610.00        =&gt;  second phi limit
-     </text>
-    </g>
+    <g transform="translate(7,4)" font-family="Arial" font-size="29" xml:space="preserve" font-weight="bold" text-anchor="start"><path d="M684,4h4v382h-684v-4h680z" style="fill: black; stroke: black; stroke-width: 1px;"></path><path d="M0,0H684V382H0Z" style="fill: rgb(242, 242, 242); stroke: black; stroke-width: 1;"></path><text fill="red" dominant-baseline="middle" transform="translate(34,27)">TGeoTubeSeg - tube segment class</text><text fill="black" dominant-baseline="middle" transform="translate(34,82)">fRmin     = 20.00         =&gt;  minimum radius</text><text fill="black" dominant-baseline="middle" transform="translate(34,136)">fRmax     = 30.00         =&gt;  maximum radius</text><text fill="black" dominant-baseline="middle" transform="translate(34,191)">fDZ       = 50.92         =&gt;  half length in Z</text><text fill="black" dominant-baseline="middle" transform="translate(34,246)">fPhi1     = 330.00        =&gt;  first phi limit</text><text fill="black" dominant-baseline="middle" transform="translate(34,300)">fPhi2     = 610.00        =&gt;  second phi limit</text></g>
    </g>
   </svg>
  </g>
