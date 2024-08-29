@@ -451,9 +451,9 @@ function processNextOption(reset_mathjax, skip_increment) {
 
    if (entry.url) {
       lastitemname = '';
-      url = entry.url.replace(/\$\$\$/g, filepath)
-                     .replace(/file=demo/g, `file=${jsroot_path}/demo`)
-                     .replace(/inject=demo/g, `inject=${jsroot_path}/demo`);
+      url = '?' + entry.url.replace(/\$\$\$/g, filepath)
+                           .replace(/file=demo/g, `file=${jsroot_path}/demo`)
+                           .replace(/inject=demo/g, `inject=${jsroot_path}/demo`);
    } else if (entry.asurl) {
       url = ((entry.asurl === 'browser') ? '?' : '?nobrowser&');
       url += jsonname ? 'json=' + jsonname : 'file=' + filename + '&item=' + itemname;
