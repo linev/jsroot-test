@@ -424,7 +424,6 @@ function processNextOption() {
    if (entry.url)
       url = entry.url.replace(/\$\$\$/g, filepath)
                      .replace(/file=demo/g, `file=${jsroot_path}/demo`)
-                     .replace(/inject=demo/g, `inject=${jsroot_path}/demo`)
                      .replace(/nobrowser&/g, '');
    else if (entry.asurl) {
       if (keyid === 'TTree') {
