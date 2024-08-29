@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 796 572" preserveAspectRatio="none" width="796" height="572">
+<svg xmlns="http://www.w3.org/2000/svg" width="796" height="572" viewBox="0 0 796 572" preserveAspectRatio="none">
  <path d="M0,0H796V572H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(80,57)">
@@ -32,141 +32,17 @@
    <g>
     <g transform="translate(0,458)">
      <path d="M0,0h637M0,-14V0M43,-7V0M68,-7V0M86,-7V0M99,-7V0M111,-7V0M120,-7V0M128,-7V0M136,-7V0M142,-14V0M185,-7V0M210,-7V0M228,-7V0M242,-7V0M253,-7V0M263,-7V0M271,-7V0M278,-7V0M285,-14V0M327,-7V0M352,-7V0M370,-7V0M384,-7V0M395,-7V0M405,-7V0M413,-7V0M420,-7V0M427,-14V0M470,-7V0M495,-7V0M512,-7V0M526,-7V0M538,-7V0M547,-7V0M555,-7V0M563,-7V0M569,-14V0M612,-7V0M637,-7V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="20" space="preserve">
-      <g transform="translate(-16,26)">
-       <text fill="black" font-size="20">
-        10
-       </text>
-       <text fill="black" font-size="12" transform="translate(22,-10)">
-        -3
-       </text>
-      </g>
-      <g transform="translate(126,26)">
-       <text fill="black" font-size="20">
-        10
-       </text>
-       <text fill="black" font-size="12" transform="translate(22,-10)">
-        -2
-       </text>
-      </g>
-      <g transform="translate(269,26)">
-       <text fill="black" font-size="20">
-        10
-       </text>
-       <text fill="black" font-size="12" transform="translate(22,-10)">
-        -1
-       </text>
-      </g>
-      <text fill="black" text-anchor="middle" transform="translate(427,26)">
-       1
-      </text>
-      <text fill="black" text-anchor="middle" transform="translate(569,26)">
-       10
-      </text>
-     </g>
-     <g font-family="Arial" font-size="20" space="preserve" transform="translate(319,38)">
-      <text fill="black" text-anchor="middle" dy=".4em">
-       thickness (cg/cm2)
-      </text>
-     </g>
+     <g font-family="Arial" font-size="20" xml:space="preserve"><g transform="translate(-16,26)"><text fill="black" font-size="20">10</text><text fill="black" font-size="12" transform="translate(22,-10)">-3</text></g><g transform="translate(126,26)"><text fill="black" font-size="20">10</text><text fill="black" font-size="12" transform="translate(22,-10)">-2</text></g><g transform="translate(269,26)"><text fill="black" font-size="20">10</text><text fill="black" font-size="12" transform="translate(22,-10)">-1</text></g><text fill="black" text-anchor="middle" transform="translate(427,26)">1</text><text fill="black" text-anchor="middle" transform="translate(569,26)">10</text></g>
+     <g font-family="Arial" font-size="20" xml:space="preserve" transform="translate(319,38)"><text fill="black" text-anchor="middle" dominant-baseline="middle">thickness (cg/cm2)</text></g>
     </g>
     <g>
      <path d="M0,0v458M10,449H0M10,440H0M10,431H0M10,422H0M19,413H0M10,403H0M10,394H0M10,385H0M10,376H0M19,367H0M10,358H0M10,348H0M10,339H0M10,330H0M19,321H0M10,312H0M10,303H0M10,293H0M10,284H0M19,275H0M10,266H0M10,257H0M10,248H0M10,238H0M19,229H0M10,220H0M10,211H0M10,202H0M10,193H0M19,183H0M10,174H0M10,165H0M10,156H0M10,147H0M19,138H0M10,128H0M10,119H0M10,110H0M10,101H0M19,92H0M10,83H0M10,73H0M10,64H0M10,55H0M19,46H0M10,37H0M10,28H0M10,18H0M10,9H0M19,0H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="20" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-4,413)">
-       0.1
-      </text>
-      <text dy=".4em" transform="translate(-4,367)">
-       0.2
-      </text>
-      <text dy=".4em" transform="translate(-4,321)">
-       0.3
-      </text>
-      <text dy=".4em" transform="translate(-4,275)">
-       0.4
-      </text>
-      <text dy=".4em" transform="translate(-4,229)">
-       0.5
-      </text>
-      <text dy=".4em" transform="translate(-4,183)">
-       0.6
-      </text>
-      <text dy=".4em" transform="translate(-4,138)">
-       0.7
-      </text>
-      <text dy=".4em" transform="translate(-4,92)">
-       0.8
-      </text>
-      <text dy=".4em" transform="translate(-4,46)">
-       0.9
-      </text>
-      <text dy=".4em" transform="translate(-4)">
-       1
-      </text>
-     </g>
-     <g font-family="Arial" font-size="20" space="preserve" transform="translate(-53,229)">
-      <text fill="black" text-anchor="middle" dy=".4em" transform="rotate(270)">
-       Fractions
-      </text>
-     </g>
+     <g font-family="Arial" font-size="20" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-4,413)">0.1</text><text dominant-baseline="middle" transform="translate(-4,367)">0.2</text><text dominant-baseline="middle" transform="translate(-4,321)">0.3</text><text dominant-baseline="middle" transform="translate(-4,275)">0.4</text><text dominant-baseline="middle" transform="translate(-4,229)">0.5</text><text dominant-baseline="middle" transform="translate(-4,183)">0.6</text><text dominant-baseline="middle" transform="translate(-4,138)">0.7</text><text dominant-baseline="middle" transform="translate(-4,92)">0.8</text><text dominant-baseline="middle" transform="translate(-4,46)">0.9</text><text dominant-baseline="middle" transform="translate(-4)">1</text></g>
+     <g font-family="Arial" font-size="20" xml:space="preserve" transform="translate(-53,229)"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="rotate(270)">Fractions</text></g>
     </g>
    </g>
   </g>
-  <g transform="translate(318,57)" font-family="Arial" font-size="39" space="preserve">
-   <path d="M0,0H398V114H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-   <path d="M3,30H22" style="stroke: black; stroke-width: 2;"></path>
-   <path d="M13,30h1" style="stroke: black; fill: none;"></path>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(25,30)">
-    F85
-   </text>
-   <path d="M103,30H122" style="stroke: black; stroke-width: 2;"></path>
-   <path d="M113,30h1" style="stroke: black; fill: none;"></path>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(125,30)">
-    F86
-   </text>
-   <path d="M202,30H221" style="stroke: red; stroke-width: 2;"></path>
-   <path d="M212,30h1" style="stroke: black; fill: none;"></path>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(224,30)">
-    F87
-   </text>
-   <path d="M302,30H321" style="stroke: green; stroke-width: 2;"></path>
-   <path d="M312,30h1" style="stroke: black; fill: none;"></path>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(324,30)">
-    F88
-   </text>
-   <path d="M3,84H22" style="stroke: blue; stroke-width: 2;"></path>
-   <path d="M13,84h1" style="stroke: black; fill: none;"></path>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(25,84)">
-    F89
-   </text>
-   <path d="M103,84H122" style="stroke: yellow; stroke-width: 2;"></path>
-   <path d="M113,84h1" style="stroke: black; fill: none;"></path>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(125,84)">
-    F90
-   </text>
-   <path d="M202,84H221" style="stroke: magenta; stroke-width: 2;"></path>
-   <path d="M212,84h1" style="stroke: black; fill: none;"></path>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(224,84)">
-    F91
-   </text>
-   <path d="M302,84H321" style="stroke: cyan; stroke-width: 2;"></path>
-   <path d="M312,84h1" style="stroke: black; fill: none;"></path>
-   <text fill="black" text-anchor="start" dy=".4em" transform="translate(324,84)">
-    F92
-   </text>
-  </g>
-  <g transform="translate(119,3)" font-family="Arial" font-size="17" space="preserve">
-   <g transform="translate(40,29) scale(0.486)">
-    <text fill="black" font-size="36">
-     U projectile at 200 MeV/u on
-    </text>
-    <text fill="black" font-size="22" transform="translate(472,-19)">
-     12
-    </text>
-    <text fill="black" font-size="36" x="495">
-     C target with 0 mbar pressure.
-    </text>
-   </g>
-  </g>
+  <g transform="translate(318,57)" font-family="Arial" font-size="40" xml:space="preserve"><path d="M0,0H398V114H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M3,30H22" style="stroke: black; stroke-width: 2;"></path><path d="M13,30h1" style="stroke: black; fill: none;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(25,30)">F85</text><path d="M103,30H122" style="stroke: black; stroke-width: 2;"></path><path d="M113,30h1" style="stroke: black; fill: none;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(125,30)">F86</text><path d="M202,30H221" style="stroke: red; stroke-width: 2;"></path><path d="M212,30h1" style="stroke: black; fill: none;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(224,30)">F87</text><path d="M302,30H321" style="stroke: green; stroke-width: 2;"></path><path d="M312,30h1" style="stroke: black; fill: none;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(324,30)">F88</text><path d="M3,84H22" style="stroke: blue; stroke-width: 2;"></path><path d="M13,84h1" style="stroke: black; fill: none;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(25,84)">F89</text><path d="M103,84H122" style="stroke: yellow; stroke-width: 2;"></path><path d="M113,84h1" style="stroke: black; fill: none;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(125,84)">F90</text><path d="M202,84H221" style="stroke: magenta; stroke-width: 2;"></path><path d="M212,84h1" style="stroke: black; fill: none;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(224,84)">F91</text><path d="M302,84H321" style="stroke: cyan; stroke-width: 2;"></path><path d="M312,84h1" style="stroke: black; fill: none;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(324,84)">F92</text></g>
+  <g transform="translate(119,3)" font-family="Arial" font-size="17" xml:space="preserve"><g transform="translate(40,29) scale(0.489)"><text fill="black" font-size="36">U projectile at 200 MeV/u on</text><text fill="black" font-size="22" transform="translate(472,-19)">12</text><text fill="black" font-size="36" x="495">C target with 0 mbar pressure.</text></g></g>
  </g>
 </svg>

@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1198 574" preserveAspectRatio="none" width="1198" height="574">
+<svg xmlns="http://www.w3.org/2000/svg" width="1198" height="574" viewBox="0 0 1198 574" preserveAspectRatio="none">
  <defs>
   <pattern id="pat_3004_8" patternUnits="userSpaceOnUse" width="8" height="8">
-   <path d="M8,0L0,8" style="stroke: #59d454; stroke-width: 1;"></path>
+   <path d="M8,0L0,8" style="stroke: rgb(89, 212, 84); stroke-width: 1;"></path>
   </pattern>
  </defs>
  <path d="M0,0H1198V574H0Z" style="fill: white;"></path>
@@ -13,146 +13,31 @@
      <path d="M0,0H460V450H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="460" height="450" viewBox="0 0 460 450">
       <g>
-       <path d="M0,21h5v317h4v6h5v11h4v28h5v17h5v16h4v-39h5v37h9v-3h5v5h4v6h5v-8h9v-17h5v5h4v-25h5v14h4v-14h5v23h5v-20h4v14h9v-25h5v14h5v3h4v-34h5v-20h4v26h5v-3h5v-20h4v11h5v6h4v-25h5v-6h5v-47h9v5h4v25h5v-16h9v-59h5v3h4v42h5v-42h5v-40h4v82h5v-54h4v-5h5v-6h5v56h4v-53h5v50h4v-33h5v11h5v28h4v31h5v-17h4v25h5v-33h5v-28h4v33h5v39h4v-16h5v30h9v3h5v-17h4v6h5v20h5v14h4v25h5v3h4v19h5v3h5v11h4v11h9v17h5v-3h9v6h5v-3h4v3h10v-3h4v3h60L460,453H0Z" style="stroke-linejoin: miter; stroke: #00009a; stroke-width: 1; fill: url(#pat_3004_8);"></path>
+       <path d="M0,21h5v317h4v6h5v11h4v28h5v17h5v16h4v-39h5v37h9v-3h5v5h4v6h5v-8h9v-17h5v5h4v-25h5v14h4v-14h5v23h5v-20h4v14h9v-25h5v14h5v3h4v-34h5v-20h4v26h5v-3h5v-20h4v11h5v6h4v-25h5v-6h5v-47h9v5h4v25h5v-16h9v-59h5v3h4v42h5v-42h5v-40h4v82h5v-54h4v-5h5v-6h5v56h4v-53h5v50h4v-33h5v11h5v28h4v31h5v-17h4v25h5v-33h5v-28h4v33h5v39h4v-16h5v30h9v3h5v-17h4v6h5v20h5v14h4v25h5v3h4v19h5v3h5v11h4v11h9v17h5v-3h9v6h5v-3h4v3h10v-3h4v3h60L460,453H0Z" style="stroke-linejoin: miter; stroke: rgb(0, 0, 154); stroke-width: 1; fill: url(#pat_3004_8);"></path>
       </g>
      </svg>
      <g>
       <g transform="translate(0,450)">
        <path d="M0,0h460M0,-14V0M9,-7V0M18,-7V0M28,-7V0M37,-7V0M46,-14V0M55,-7V0M64,-7V0M74,-7V0M83,-7V0M92,-14V0M101,-7V0M110,-7V0M120,-7V0M129,-7V0M138,-14V0M147,-7V0M156,-7V0M166,-7V0M175,-7V0M184,-14V0M193,-7V0M202,-7V0M212,-7V0M221,-7V0M230,-14V0M239,-7V0M248,-7V0M258,-7V0M267,-7V0M276,-14V0M285,-7V0M294,-7V0M304,-7V0M313,-7V0M322,-14V0M331,-7V0M340,-7V0M350,-7V0M359,-7V0M368,-14V0M377,-7V0M386,-7V0M396,-7V0M405,-7V0M414,-14V0M423,-7V0M432,-7V0M442,-7V0M451,-7V0M460,-14V0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="20" space="preserve" fill="black" text-anchor="middle">
-        <text dy=".8em" transform="translate(0,4)">
-         0
-        </text>
-        <text dy=".8em" transform="translate(46,4)">
-         10
-        </text>
-        <text dy=".8em" transform="translate(92,4)">
-         20
-        </text>
-        <text dy=".8em" transform="translate(138,4)">
-         30
-        </text>
-        <text dy=".8em" transform="translate(184,4)">
-         40
-        </text>
-        <text dy=".8em" transform="translate(230,4)">
-         50
-        </text>
-        <text dy=".8em" transform="translate(276,4)">
-         60
-        </text>
-        <text dy=".8em" transform="translate(322,4)">
-         70
-        </text>
-        <text dy=".8em" transform="translate(368,4)">
-         80
-        </text>
-        <text dy=".8em" transform="translate(414,4)">
-         90
-        </text>
-        <text dy=".8em" transform="translate(460,4)">
-         100
-        </text>
-       </g>
-       <g font-family="Arial" font-size="20" space="preserve" transform="translate(460,32)">
-        <text fill="black" text-anchor="end" dy=".4em">
-         Peak Height [%]
-        </text>
-       </g>
+       <g font-family="Arial" font-size="20" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,4)">0</text><text dy=".8em" transform="translate(46,4)">10</text><text dy=".8em" transform="translate(92,4)">20</text><text dy=".8em" transform="translate(138,4)">30</text><text dy=".8em" transform="translate(184,4)">40</text><text dy=".8em" transform="translate(230,4)">50</text><text dy=".8em" transform="translate(276,4)">60</text><text dy=".8em" transform="translate(322,4)">70</text><text dy=".8em" transform="translate(368,4)">80</text><text dy=".8em" transform="translate(414,4)">90</text><text dy=".8em" transform="translate(460,4)">100</text></g>
+       <g font-family="Arial" font-size="20" xml:space="preserve" transform="translate(460,32)"><text fill="black" text-anchor="end" dominant-baseline="middle">Peak Height [%]</text></g>
       </g>
       <g>
        <path d="M0,0v450M14,450H0M7,436H0M7,422H0M7,408H0M14,394H0M7,380H0M7,366H0M7,352H0M14,338H0M7,324H0M7,310H0M7,296H0M14,282H0M7,268H0M7,254H0M7,240H0M14,226H0M7,212H0M7,198H0M7,184H0M14,170H0M7,156H0M7,142H0M7,128H0M14,114H0M7,100H0M7,86H0M7,72H0M14,58H0M7,44H0M7,30H0M7,16H0M14,2H0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="20" space="preserve" fill="black" text-anchor="end">
-        <text dy=".4em" transform="translate(-4,450)">
-         0
-        </text>
-        <text dy=".4em" transform="translate(-4,394)">
-         20
-        </text>
-        <text dy=".4em" transform="translate(-4,338)">
-         40
-        </text>
-        <text dy=".4em" transform="translate(-4,282)">
-         60
-        </text>
-        <text dy=".4em" transform="translate(-4,226)">
-         80
-        </text>
-        <text dy=".4em" transform="translate(-4,170)">
-         100
-        </text>
-        <text dy=".4em" transform="translate(-4,114)">
-         120
-        </text>
-        <text dy=".4em" transform="translate(-4,58)">
-         140
-        </text>
-        <text dy=".4em" transform="translate(-4,2)">
-         160
-        </text>
-       </g>
-       <g font-family="Arial" font-size="20" space="preserve" transform="translate(-44)">
-        <text fill="black" text-anchor="end" dy=".4em" transform="rotate(270)">
-         Count
-        </text>
-       </g>
+       <g font-family="Arial" font-size="20" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-4,450)">0</text><text dominant-baseline="middle" transform="translate(-4,394)">20</text><text dominant-baseline="middle" transform="translate(-4,338)">40</text><text dominant-baseline="middle" transform="translate(-4,282)">60</text><text dominant-baseline="middle" transform="translate(-4,226)">80</text><text dominant-baseline="middle" transform="translate(-4,170)">100</text><text dominant-baseline="middle" transform="translate(-4,114)">120</text><text dominant-baseline="middle" transform="translate(-4,58)">140</text><text dominant-baseline="middle" transform="translate(-4,2)">160</text></g>
+       <g font-family="Arial" font-size="20" xml:space="preserve" transform="translate(-44)"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="rotate(270)">Count</text></g>
       </g>
-      <path d="M0,0v450M46,0v450M92,0v450M138,0v450M184,0v450M230,0v450M276,0v450M322,0v450M368,0v450M414,0v450M460,0v450" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-      <path d="M0,450h460M0,394h460M0,338h460M0,282h460M0,226h460M0,170h460M0,114h460M0,58h460M0,2h460" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+      <path d="M0,0v450M46,0v450M92,0v450M138,0v450M184,0v450M230,0v450M276,0v450M322,0v450M368,0v450M414,0v450M460,0v450" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
+      <path d="M0,450h460M0,394h460M0,338h460M0,282h460M0,226h460M0,170h460M0,114h460M0,58h460M0,2h460" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
      </g>
     </g>
-    <g transform="translate(397,62)" font-family="Arial" font-size="12" space="preserve" fill="black">
-     <path d="M0,0H115V62H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text text-anchor="start" dy=".4em" transform="translate(6,8)">
-      Entries
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(109,8)">
-      3405
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(6,23)">
-      Mean
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(109,23)">
-      42.54
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(6,39)">
-      Std Dev
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(109,39)">
-      20.04
-     </text>
-     <text text-anchor="start" dy=".4em" transform="translate(6,54)">
-      Overflow
-     </text>
-     <text text-anchor="end" dy=".4em" transform="translate(109,54)">
-      0
-     </text>
-    </g>
-    <g transform="translate(103,3)" font-family="Arial" font-size="22" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(185,18)">
-      Cosmic Data Spectrum
-     </text>
-    </g>
+    <g transform="translate(397,62)" font-family="Arial" font-size="13" xml:space="preserve" fill="black"><path d="M0,0H115V62H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="start" dominant-baseline="middle" transform="translate(6,8)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(109,8)">3405</text><text text-anchor="start" dominant-baseline="middle" transform="translate(6,23)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(109,23)">42.54</text><text text-anchor="start" dominant-baseline="middle" transform="translate(6,39)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(109,39)">20.04</text><text text-anchor="start" dominant-baseline="middle" transform="translate(6,54)">Overflow</text><text text-anchor="end" dominant-baseline="middle" transform="translate(109,54)">0</text></g>
+    <g transform="translate(103,3)" font-family="Arial" font-size="27" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(185,18)">  Cosmic Data Spectrum  </text></g>
     <g>
-     <path d="M58,506V56" style="stroke: #ff0000; stroke-width: 3; stroke-dasharray: 5,5;"></path>
+     <path d="M58,506V56" style="stroke: rgb(255, 0, 0); stroke-width: 3; stroke-dasharray: 5, 5;"></path>
     </g>
-    <g font-family="Arial" font-size="17" space="preserve" font-weight="bold">
-     <text fill="#ff0000" text-anchor="start" transform="translate(58,543)">
-      Threshold
-     </text>
-    </g>
-    <g transform="translate(63,62)" font-family="Arial" font-size="8" space="preserve" fill="black" text-anchor="middle">
-     <path d="M0,0H196V51H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text dy=".4em" transform="translate(98,9)">
-      First event: 2021/02/22  09:01:02
-     </text>
-     <text dy=".4em" transform="translate(98,26)">
-      Last event:  2021/02/23  20:18:52
-     </text>
-     <text dy=".4em" transform="translate(98,43)">
-      Type: X100-7 - Voltage: 5.00 [V]
-     </text>
-    </g>
+    <g font-family="Arial" font-size="17" xml:space="preserve" font-weight="bold"><text fill="rgb(255, 0, 0)" text-anchor="start" transform="translate(58,543)">Threshold</text></g>
+    <g transform="translate(63,62)" font-family="Arial" font-size="11" xml:space="preserve" fill="black" text-anchor="middle"><path d="M0,0H196V51H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text dominant-baseline="middle" transform="translate(98,9)">First event: 2021/02/22  09:01:02</text><text dominant-baseline="middle" transform="translate(98,26)">Last event:  2021/02/23  20:18:52</text><text dominant-baseline="middle" transform="translate(98,43)">Type: X100-7 - Voltage: 5.00 [V]</text></g>
    </g>
   </svg>
   <svg viewBox="0 0 575 563" preserveAspectRatio="none" x="611" y="5" width="575" height="563">
@@ -162,230 +47,44 @@
      <path d="M0,0H460V450H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
      <svg x="0" y="0" overflow="hidden" width="460" height="450" viewBox="0 0 460 450">
       <g>
-       <path d="M0,53h6M3,21v65M5,346h4M7,330v33M9,352h6M12,336v31M14,362h4M16,347v30M18,388h6M21,375v25M23,403h6M26,392v22M28,419h4M30,410v18M32,383h6M35,369v27M37,416h4M39,407v19M41,416h6M44,407v19M46,414h6M49,404v19M51,419h4M53,410v18M55,424h6M58,416v16M60,416h4M62,407v19M64,416h6M67,407v19M69,401h6M72,389v23M74,406h4M76,395v22M78,383h6M81,369v27M83,396h4M85,384v23M87,383h6M90,369v27M92,403h6M95,392v22M97,385h4M99,372v26M101,398h6M104,387v23M106,398h4M108,387v23M110,375h6M113,361v28M115,388h6M118,375v25M120,390h4M122,378v25M124,359h6M127,344v31M129,341h4M131,324v34M133,364h6M136,350v29M138,362h6M141,347v30M143,344h4M145,327v33M147,354h6M150,338v32M152,359h4M154,344v31M156,336h6M159,319v34M161,331h6M164,313v35M166,287h4M168,266v41M170,287h6M173,266v41M175,292h4M177,272v40M179,315h6M182,297v37M184,300h6M187,280v39M189,300h4M191,280v39M193,245h6M196,222v46M198,248h4M200,225v46M202,287h6M205,266v41M207,248h6M210,225v46M212,212h4M214,187v49M216,287h6M219,266v41M221,237h4M223,214v47M225,232h6M228,209v47M230,227h6M233,203v48M235,279h4M237,258v42M239,230h6M242,206v48M244,276h4M246,255v43M248,245h6M251,222v46M253,256h6M256,233v45M258,282h4M260,261v41M262,310h6M265,291v38M267,295h4M269,274v41M271,318h6M274,299v37M276,287h6M279,266v41M281,261h4M283,239v44M285,292h6M288,272v40M290,328h4M292,310v36M294,313h6M297,294v38M299,341h6M302,324v34M304,341h4M306,324v34M308,344h6M311,327v33M313,328h4M315,310v36M317,333h6M320,316v35M322,352h6M325,336v31M327,364h4M329,350v29M331,388h6M334,375v25M336,390h4M338,378v25M340,409h6M343,398v21M345,411h6M348,401v20M350,421h4M352,413v17M354,432h6M357,425v14M359,432h4M361,425v14M363,447h6M366,445v5M368,445h6M371,441v7M373,445h4M375,441v7M382,447h4M384,445v5M396,447h4M398,445v5" style="stroke: #00009a; stroke-width: 1;"></path>
+       <path d="M0,53h6M3,21v65M5,346h4M7,330v33M9,352h6M12,336v31M14,362h4M16,347v30M18,388h6M21,375v25M23,403h6M26,392v22M28,419h4M30,410v18M32,383h6M35,369v27M37,416h4M39,407v19M41,416h6M44,407v19M46,414h6M49,404v19M51,419h4M53,410v18M55,424h6M58,416v16M60,416h4M62,407v19M64,416h6M67,407v19M69,401h6M72,389v23M74,406h4M76,395v22M78,383h6M81,369v27M83,396h4M85,384v23M87,383h6M90,369v27M92,403h6M95,392v22M97,385h4M99,372v26M101,398h6M104,387v23M106,398h4M108,387v23M110,375h6M113,361v28M115,388h6M118,375v25M120,390h4M122,378v25M124,359h6M127,344v31M129,341h4M131,324v34M133,364h6M136,350v29M138,362h6M141,347v30M143,344h4M145,327v33M147,354h6M150,338v32M152,359h4M154,344v31M156,336h6M159,319v34M161,331h6M164,313v35M166,287h4M168,266v41M170,287h6M173,266v41M175,292h4M177,272v40M179,315h6M182,297v37M184,300h6M187,280v39M189,300h4M191,280v39M193,245h6M196,222v46M198,248h4M200,225v46M202,287h6M205,266v41M207,248h6M210,225v46M212,212h4M214,187v49M216,287h6M219,266v41M221,237h4M223,214v47M225,232h6M228,209v47M230,227h6M233,203v48M235,279h4M237,258v42M239,230h6M242,206v48M244,276h4M246,255v43M248,245h6M251,222v46M253,256h6M256,233v45M258,282h4M260,261v41M262,310h6M265,291v38M267,295h4M269,274v41M271,318h6M274,299v37M276,287h6M279,266v41M281,261h4M283,239v44M285,292h6M288,272v40M290,328h4M292,310v36M294,313h6M297,294v38M299,341h6M302,324v34M304,341h4M306,324v34M308,344h6M311,327v33M313,328h4M315,310v36M317,333h6M320,316v35M322,352h6M325,336v31M327,364h4M329,350v29M331,388h6M334,375v25M336,390h4M338,378v25M340,409h6M343,398v21M345,411h6M348,401v20M350,421h4M352,413v17M354,432h6M357,425v14M359,432h4M361,425v14M363,447h6M366,445v5M368,445h6M371,441v7M373,445h4M375,441v7M382,447h4M384,445v5M396,447h4M398,445v5" style="stroke: rgb(0, 0, 154); stroke-width: 1;"></path>
        <path d="M0.5,53.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM4.5,346.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM9.5,352.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM13.5,362.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM18.5,388.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM23.5,403.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM27.5,419.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM32.5,383.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM36.5,416.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM41.5,416.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM46.5,414.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM50.5,419.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM55.5,424.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM59.5,416.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM64.5,416.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM69.5,401.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM73.5,406.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM78.5,383.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM82.5,396.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM87.5,383.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM92.5,403.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM96.5,385.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM101.5,398.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM105.5,398.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM110.5,375.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM115.5,388.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM119.5,390.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM124.5,359.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM128.5,341.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM133.5,364.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM138.5,362.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM142.5,344.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM147.5,354.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM151.5,359.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM156.5,336.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM161.5,331.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM165.5,287.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM170.5,287.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM174.5,292.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM179.5,315.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM184.5,300.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM188.5,300.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM193.5,245.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM197.5,248.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM202.5,287.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM207.5,248.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM211.5,212.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM216.5,287.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM220.5,237.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM225.5,232.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM230.5,227.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM234.5,279.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM239.5,230.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM243.5,276.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM248.5,245.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM253.5,256.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM257.5,282.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM262.5,310.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM266.5,295.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM271.5,318.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM276.5,287.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM280.5,261.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM285.5,292.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM289.5,328.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM294.5,313.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM299.5,341.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM303.5,341.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM308.5,344.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM312.5,328.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM317.5,333.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM322.5,352.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM326.5,364.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM331.5,388.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM335.5,390.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM340.5,409.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM345.5,411.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM349.5,421.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM354.5,432.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM358.5,432.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM363.5,447.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM368.5,445.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM372.5,445.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM381.5,447.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0zM395.5,447.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0z" style="stroke: blue; fill: blue;"></path>
       </g>
       <g>
-       <path d="M3,245l4,106l5,28l5,15l4,8l5,6l4,4l5,3l5,2l4,1l5,1l4,1h5l5,-1h4l5,-1l4,-2l5,-2l5,-2l4,-3l5,-3l4,-3l5,-4l5,-5l4,-5l5,-5l4,-6l5,-7l5,-6l4,-8l5,-7l4,-8l5,-8l5,-8l4,-9l5,-8l4,-8l5,-8l5,-8l4,-7l5,-7l4,-7l5,-5l5,-5l4,-5l5,-3l4,-2l5,-2h5h4l5,2l4,2l5,4l4,4l5,5l5,6l4,7l5,7l4,8l5,8l5,8l4,8l5,9l4,9l5,8l5,9l4,8l5,8l4,7l5,8l5,7l4,6l5,6l4,5l5,6l5,4l4,4l5,4l4,4l5,3l5,2l4,3l5,2l4,2l5,1l5,2l4,1l5,1l4,1h5l5,1h4l5,1h4h5l5,1h4h5h4h5" style="fill: none; stroke: #ff00ff; stroke-width: 2;"></path>
+       <path d="M3,245l4,106l5,28l5,15l4,8l5,6l4,4l5,3l5,2l4,1l5,1l4,1h5l5,-1h4l5,-1l4,-2l5,-2l5,-2l4,-3l5,-3l4,-3l5,-4l5,-5l4,-5l5,-5l4,-6l5,-7l5,-6l4,-8l5,-7l4,-8l5,-8l5,-8l4,-9l5,-8l4,-8l5,-8l5,-8l4,-7l5,-7l4,-7l5,-5l5,-5l4,-5l5,-3l4,-2l5,-2h5h4l5,2l4,2l5,4l4,4l5,5l5,6l4,7l5,7l4,8l5,8l5,8l4,8l5,9l4,9l5,8l5,9l4,8l5,8l4,7l5,8l5,7l4,6l5,6l4,5l5,6l5,4l4,4l5,4l4,4l5,3l5,2l4,3l5,2l4,2l5,1l5,2l4,1l5,1l4,1h5l5,1h4l5,1h4h5l5,1h4h5h4h5" style="fill: none; stroke: rgb(255, 0, 255); stroke-width: 2;"></path>
       </g>
       <g>
-       <path d="M0,-5034l1,4834v40l1,315v6l1,84v2l1,41v1l1,24v1v1" style="fill: none; stroke: #ff00ff; stroke-width: 2;"></path>
+       <path d="M0,-5034l1,4834v40l1,315v6l1,84v2l1,41v1l1,24v1v1" style="fill: none; stroke: rgb(255, 0, 255); stroke-width: 2;"></path>
       </g>
       <g>
-       <path d="M2.5,367.55C2.97,373.76,5.2,390.14,7,398.39S9.6,405.55,11.5,408.77S14.6,412.58,16.5,414.48S19.2,416.94,21,418.23S23.7,419.99,25.5,420.95S28.2,422.29,30,423.04S32.6,424.1,34.5,424.71S37.6,425.58,39.5,426.09S42.2,426.82,44,427.25S46.7,427.88,48.5,428.25S51.2,428.79,53,429.12S55.6,429.59,57.5,429.88S60.6,430.31,62.5,430.57S65.2,430.95,67,431.18S69.7,431.52,71.5,431.73S74.2,432.05,76,432.24S78.6,432.52,80.5,432.7S83.6,432.96,85.5,433.13S88.2,433.37,90,433.52S92.7,433.75,94.5,433.89S97.2,434.1,99,434.23S101.6,434.42,103.5,434.55S106.6,434.73,108.5,434.85S111.2,435.02,113,435.13S115.7,435.29,117.5,435.39S120.2,435.55,122,435.64S124.6,435.79,126.5,435.88S129.6,436.02,131.5,436.1S134.2,436.23,136,436.32S138.7,436.44,140.5,436.52S143.2,436.64,145,436.72S147.6,436.83,149.5,436.9S152.6,437.01,154.5,437.08S157.2,437.18,159,437.25S161.7,437.35,163.5,437.41S166.2,437.5,168,437.57S170.6,437.66,172.5,437.72S175.6,437.8,177.5,437.86S180.2,437.95,182,438S184.7,438.08,186.5,438.13S189.2,438.21,191,438.26S193.6,438.34,195.5,438.39S198.6,438.46,200.5,438.51S203.2,438.58,205,438.63S207.7,438.69,209.5,438.74S212.2,438.81,214,438.85S216.6,438.91,218.5,438.95S221.6,439.02,223.5,439.06S226.2,439.12,228,439.16S230.7,439.22,232.5,439.25S235.2,439.31,237,439.35S239.7,439.4,241.5,439.44S244.2,439.49,246,439.53S248.6,439.58,250.5,439.62S253.6,439.67,255.5,439.7S258.2,439.75,260,439.78S262.7,439.83,264.5,439.86S267.2,439.91,269,439.94S271.6,439.99,273.5,440.02S276.6,440.06,278.5,440.09S281.2,440.14,283,440.17S285.7,440.21,287.5,440.24S290.2,440.28,292,440.31S294.6,440.35,296.5,440.37S299.6,440.41,301.5,440.44S304.2,440.48,306,440.51S308.7,440.54,310.5,440.57S313.2,440.61,315,440.63S317.6,440.67,319.5,440.69S322.6,440.73,324.5,440.75S327.2,440.79,329,440.81S331.7,440.84,333.5,440.87S336.2,440.9,338,440.92S340.6,440.96,342.5,440.98S345.6,441.01,347.5,441.03S350.2,441.06,352,441.09S354.7,441.12,356.5,441.14S359.2,441.17,361,441.19S363.6,441.22,365.5,441.24S368.6,441.27,370.5,441.29S373.2,441.32,375,441.34S377.7,441.36,379.5,441.38S382.2,441.41,384,441.43S386.6,441.46,388.5,441.48S391.6,441.5,393.5,441.52S396.2,441.55,398,441.56S400.7,441.59,402.5,441.61S405.2,441.63,407,441.65S409.6,441.68,411.5,441.69S414.6,441.72,416.5,441.73S419.2,441.76,421,441.77S423.7,441.8,425.5,441.82S428.2,441.84,430,441.85S432.6,441.88,434.5,441.89S437.6,441.92,439.5,441.93S442.2,441.95,444,441.97S446.7,441.99,448.5,442.01S451.2,442.03,453,442.04S456.6,442.07,457.5,442.08" style="fill: none; stroke: #ff0000; stroke-width: 2; stroke-dasharray: 3,3;"></path>
+       <path d="M2.5,367.55C2.97,373.76,5.2,390.14,7,398.39S9.6,405.55,11.5,408.77S14.6,412.58,16.5,414.48S19.2,416.94,21,418.23S23.7,419.99,25.5,420.95S28.2,422.29,30,423.04S32.6,424.1,34.5,424.71S37.6,425.58,39.5,426.09S42.2,426.82,44,427.25S46.7,427.88,48.5,428.25S51.2,428.79,53,429.12S55.6,429.59,57.5,429.88S60.6,430.31,62.5,430.57S65.2,430.95,67,431.18S69.7,431.52,71.5,431.73S74.2,432.05,76,432.24S78.6,432.52,80.5,432.7S83.6,432.96,85.5,433.13S88.2,433.37,90,433.52S92.7,433.75,94.5,433.89S97.2,434.1,99,434.23S101.6,434.42,103.5,434.55S106.6,434.73,108.5,434.85S111.2,435.02,113,435.13S115.7,435.29,117.5,435.39S120.2,435.55,122,435.64S124.6,435.79,126.5,435.88S129.6,436.02,131.5,436.1S134.2,436.23,136,436.32S138.7,436.44,140.5,436.52S143.2,436.64,145,436.72S147.6,436.83,149.5,436.9S152.6,437.01,154.5,437.08S157.2,437.18,159,437.25S161.7,437.35,163.5,437.41S166.2,437.5,168,437.57S170.6,437.66,172.5,437.72S175.6,437.8,177.5,437.86S180.2,437.95,182,438S184.7,438.08,186.5,438.13S189.2,438.21,191,438.26S193.6,438.34,195.5,438.39S198.6,438.46,200.5,438.51S203.2,438.58,205,438.63S207.7,438.69,209.5,438.74S212.2,438.81,214,438.85S216.6,438.91,218.5,438.95S221.6,439.02,223.5,439.06S226.2,439.12,228,439.16S230.7,439.22,232.5,439.25S235.2,439.31,237,439.35S239.7,439.4,241.5,439.44S244.2,439.49,246,439.53S248.6,439.58,250.5,439.62S253.6,439.67,255.5,439.7S258.2,439.75,260,439.78S262.7,439.83,264.5,439.86S267.2,439.91,269,439.94S271.6,439.99,273.5,440.02S276.6,440.06,278.5,440.09S281.2,440.14,283,440.17S285.7,440.21,287.5,440.24S290.2,440.28,292,440.31S294.6,440.35,296.5,440.37S299.6,440.41,301.5,440.44S304.2,440.48,306,440.51S308.7,440.54,310.5,440.57S313.2,440.61,315,440.63S317.6,440.67,319.5,440.69S322.6,440.73,324.5,440.75S327.2,440.79,329,440.81S331.7,440.84,333.5,440.87S336.2,440.9,338,440.92S340.6,440.96,342.5,440.98S345.6,441.01,347.5,441.03S350.2,441.06,352,441.09S354.7,441.12,356.5,441.14S359.2,441.17,361,441.19S363.6,441.22,365.5,441.24S368.6,441.27,370.5,441.29S373.2,441.32,375,441.34S377.7,441.36,379.5,441.38S382.2,441.41,384,441.43S386.6,441.46,388.5,441.48S391.6,441.5,393.5,441.52S396.2,441.55,398,441.56S400.7,441.59,402.5,441.61S405.2,441.63,407,441.65S409.6,441.68,411.5,441.69S414.6,441.72,416.5,441.73S419.2,441.76,421,441.77S423.7,441.8,425.5,441.82S428.2,441.84,430,441.85S432.6,441.88,434.5,441.89S437.6,441.92,439.5,441.93S442.2,441.95,444,441.97S446.7,441.99,448.5,442.01S451.2,442.03,453,442.04S456.6,442.07,457.5,442.08" style="fill: none; stroke: rgb(255, 0, 0); stroke-width: 2; stroke-dasharray: 3, 3;"></path>
       </g>
       <g>
-       <path d="M2.5,448.46C3.4,448.4,5.2,448.26,7,448.11S9.6,447.87,11.5,447.68S14.6,447.39,16.5,447.17S19.2,446.82,21,446.55S23.7,446.15,25.5,445.83S28.2,445.35,30,444.97S32.6,444.41,34.5,443.97S37.6,443.31,39.5,442.8S42.2,442.03,44,441.44S46.7,440.54,48.5,439.87S51.2,438.84,53,438.06S55.6,436.88,57.5,435.99S60.6,434.64,62.5,433.64S65.2,432.11,67,430.97S69.7,429.25,71.5,427.97S74.2,426.04,76,424.61S78.6,422.45,80.5,420.87S83.6,418.47,85.5,416.72S88.2,414.07,90,412.16S92.7,409.24,94.5,407.15S97.2,403.97,99,401.7S101.6,398.24,103.5,395.79S106.6,392.07,108.5,389.43S111.2,385.44,113,382.63S115.7,378.37,117.5,375.39S120.2,370.88,122,367.75S124.6,363,126.5,359.72S129.6,354.75,131.5,351.34S134.2,346.19,136,342.67S138.7,337.35,140.5,333.75S143.2,328.31,145,324.65S147.6,319.13,149.5,315.43S152.6,309.87,154.5,306.18S157.2,300.63,159,296.97S161.7,291.48,163.5,287.9S166.2,282.52,168,279.04S170.6,273.84,172.5,270.5S175.6,265.53,177.5,262.37S180.2,257.68,182,254.74S184.7,250.39,186.5,247.71S189.2,243.74,191,241.34S193.6,237.81,195.5,235.73S198.6,232.68,200.5,230.94S203.2,228.41,205,227.04S207.7,225.07,209.5,224.07S212.2,222.68,214,222.08S216.6,221.29,218.5,221.09S221.6,220.9,223.5,221.12S226.2,221.54,228,222.16S230.7,223.18,232.5,224.19S235.2,225.81,237,227.21S239.7,229.4,241.5,231.15S244.2,233.88,246,235.98S248.6,239.22,250.5,241.63S253.6,245.33,255.5,248.03S258.2,252.15,260,255.1S262.7,259.59,264.5,262.75S267.2,267.56,269,270.9S271.6,275.97,273.5,279.46S276.6,284.73,278.5,288.32S281.2,293.75,283,297.41S285.7,302.93,287.5,306.62S290.2,312.18,292,315.87S294.6,321.42,296.5,325.09S299.6,330.58,301.5,334.18S304.2,339.57,306,343.09S308.7,348.34,310.5,351.75S313.2,356.83,315,360.11S317.6,364.99,319.5,368.12S322.6,372.78,324.5,375.75S327.2,380.16,329,382.96S331.7,387.12,333.5,389.75S336.2,393.64,338,396.08S340.6,399.7,342.5,401.97S345.6,405.32,347.5,407.4S350.2,410.48,352,412.38S354.7,415.2,356.5,416.93S359.2,419.49,361,421.06S363.6,423.37,365.5,424.78S368.6,426.86,370.5,428.13S373.2,429.98,375,431.11S377.7,432.76,379.5,433.76S382.2,435.22,384,436.1S386.6,437.38,388.5,438.15S391.6,439.28,393.5,439.95S396.2,440.93,398,441.51S400.7,442.36,402.5,442.86S405.2,443.59,407,444.02S409.6,444.65,411.5,445.02S414.6,445.55,416.5,445.87S419.2,446.32,421,446.59S423.7,446.97,425.5,447.19S428.2,447.51,430,447.7S432.6,447.97,434.5,448.13S437.6,448.35,439.5,448.48S442.2,448.66,444,448.77S446.7,448.92,448.5,449.01S451.2,449.14,453,449.21S456.6,449.34,457.5,449.37" style="fill: none; stroke: #009a00; stroke-width: 2; stroke-dasharray: 3,3;"></path>
+       <path d="M2.5,448.46C3.4,448.4,5.2,448.26,7,448.11S9.6,447.87,11.5,447.68S14.6,447.39,16.5,447.17S19.2,446.82,21,446.55S23.7,446.15,25.5,445.83S28.2,445.35,30,444.97S32.6,444.41,34.5,443.97S37.6,443.31,39.5,442.8S42.2,442.03,44,441.44S46.7,440.54,48.5,439.87S51.2,438.84,53,438.06S55.6,436.88,57.5,435.99S60.6,434.64,62.5,433.64S65.2,432.11,67,430.97S69.7,429.25,71.5,427.97S74.2,426.04,76,424.61S78.6,422.45,80.5,420.87S83.6,418.47,85.5,416.72S88.2,414.07,90,412.16S92.7,409.24,94.5,407.15S97.2,403.97,99,401.7S101.6,398.24,103.5,395.79S106.6,392.07,108.5,389.43S111.2,385.44,113,382.63S115.7,378.37,117.5,375.39S120.2,370.88,122,367.75S124.6,363,126.5,359.72S129.6,354.75,131.5,351.34S134.2,346.19,136,342.67S138.7,337.35,140.5,333.75S143.2,328.31,145,324.65S147.6,319.13,149.5,315.43S152.6,309.87,154.5,306.18S157.2,300.63,159,296.97S161.7,291.48,163.5,287.9S166.2,282.52,168,279.04S170.6,273.84,172.5,270.5S175.6,265.53,177.5,262.37S180.2,257.68,182,254.74S184.7,250.39,186.5,247.71S189.2,243.74,191,241.34S193.6,237.81,195.5,235.73S198.6,232.68,200.5,230.94S203.2,228.41,205,227.04S207.7,225.07,209.5,224.07S212.2,222.68,214,222.08S216.6,221.29,218.5,221.09S221.6,220.9,223.5,221.12S226.2,221.54,228,222.16S230.7,223.18,232.5,224.19S235.2,225.81,237,227.21S239.7,229.4,241.5,231.15S244.2,233.88,246,235.98S248.6,239.22,250.5,241.63S253.6,245.33,255.5,248.03S258.2,252.15,260,255.1S262.7,259.59,264.5,262.75S267.2,267.56,269,270.9S271.6,275.97,273.5,279.46S276.6,284.73,278.5,288.32S281.2,293.75,283,297.41S285.7,302.93,287.5,306.62S290.2,312.18,292,315.87S294.6,321.42,296.5,325.09S299.6,330.58,301.5,334.18S304.2,339.57,306,343.09S308.7,348.34,310.5,351.75S313.2,356.83,315,360.11S317.6,364.99,319.5,368.12S322.6,372.78,324.5,375.75S327.2,380.16,329,382.96S331.7,387.12,333.5,389.75S336.2,393.64,338,396.08S340.6,399.7,342.5,401.97S345.6,405.32,347.5,407.4S350.2,410.48,352,412.38S354.7,415.2,356.5,416.93S359.2,419.49,361,421.06S363.6,423.37,365.5,424.78S368.6,426.86,370.5,428.13S373.2,429.98,375,431.11S377.7,432.76,379.5,433.76S382.2,435.22,384,436.1S386.6,437.38,388.5,438.15S391.6,439.28,393.5,439.95S396.2,440.93,398,441.51S400.7,442.36,402.5,442.86S405.2,443.59,407,444.02S409.6,444.65,411.5,445.02S414.6,445.55,416.5,445.87S419.2,446.32,421,446.59S423.7,446.97,425.5,447.19S428.2,447.51,430,447.7S432.6,447.97,434.5,448.13S437.6,448.35,439.5,448.48S442.2,448.66,444,448.77S446.7,448.92,448.5,449.01S451.2,449.14,453,449.21S456.6,449.34,457.5,449.37" style="fill: none; stroke: rgb(0, 154, 0); stroke-width: 2; stroke-dasharray: 3, 3;"></path>
       </g>
      </svg>
      <g>
       <g transform="translate(0,450)">
        <path d="M0,0h460M0,-14V0M9,-7V0M18,-7V0M28,-7V0M37,-7V0M46,-14V0M55,-7V0M64,-7V0M74,-7V0M83,-7V0M92,-14V0M101,-7V0M110,-7V0M120,-7V0M129,-7V0M138,-14V0M147,-7V0M156,-7V0M166,-7V0M175,-7V0M184,-14V0M193,-7V0M202,-7V0M212,-7V0M221,-7V0M230,-14V0M239,-7V0M248,-7V0M258,-7V0M267,-7V0M276,-14V0M285,-7V0M294,-7V0M304,-7V0M313,-7V0M322,-14V0M331,-7V0M340,-7V0M350,-7V0M359,-7V0M368,-14V0M377,-7V0M386,-7V0M396,-7V0M405,-7V0M414,-14V0M423,-7V0M432,-7V0M442,-7V0M451,-7V0M460,-14V0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="20" space="preserve" fill="black" text-anchor="middle">
-        <text dy=".8em" transform="translate(0,4)">
-         0
-        </text>
-        <text dy=".8em" transform="translate(46,4)">
-         10
-        </text>
-        <text dy=".8em" transform="translate(92,4)">
-         20
-        </text>
-        <text dy=".8em" transform="translate(138,4)">
-         30
-        </text>
-        <text dy=".8em" transform="translate(184,4)">
-         40
-        </text>
-        <text dy=".8em" transform="translate(230,4)">
-         50
-        </text>
-        <text dy=".8em" transform="translate(276,4)">
-         60
-        </text>
-        <text dy=".8em" transform="translate(322,4)">
-         70
-        </text>
-        <text dy=".8em" transform="translate(368,4)">
-         80
-        </text>
-        <text dy=".8em" transform="translate(414,4)">
-         90
-        </text>
-        <text dy=".8em" transform="translate(460,4)">
-         100
-        </text>
-       </g>
-       <g font-family="Arial" font-size="20" space="preserve" transform="translate(460,32)">
-        <text fill="black" text-anchor="end" dy=".4em">
-         Peak Height [%]
-        </text>
-       </g>
+       <g font-family="Arial" font-size="20" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,4)">0</text><text dy=".8em" transform="translate(46,4)">10</text><text dy=".8em" transform="translate(92,4)">20</text><text dy=".8em" transform="translate(138,4)">30</text><text dy=".8em" transform="translate(184,4)">40</text><text dy=".8em" transform="translate(230,4)">50</text><text dy=".8em" transform="translate(276,4)">60</text><text dy=".8em" transform="translate(322,4)">70</text><text dy=".8em" transform="translate(368,4)">80</text><text dy=".8em" transform="translate(414,4)">90</text><text dy=".8em" transform="translate(460,4)">100</text></g>
+       <g font-family="Arial" font-size="20" xml:space="preserve" transform="translate(460,32)"><text fill="black" text-anchor="end" dominant-baseline="middle">Peak Height [%]</text></g>
       </g>
       <g>
        <path d="M0,0v450M14,450H0M7,437H0M7,424H0M7,411H0M14,398H0M7,385H0M7,372H0M7,359H0M14,346H0M7,333H0M7,320H0M7,307H0M14,295H0M7,282H0M7,269H0M7,256H0M14,243H0M7,230H0M7,217H0M7,204H0M14,191H0M7,178H0M7,165H0M7,152H0M14,139H0M7,126H0M7,113H0M7,100H0M14,87H0M7,74H0M7,61H0M7,48H0M14,35H0M7,22H0M7,9H0" style="stroke: black; stroke-width: 1;"></path>
-       <g font-family="Arial" font-size="20" space="preserve" fill="black" text-anchor="end">
-        <text dy=".4em" transform="translate(-4,450)">
-         0
-        </text>
-        <text dy=".4em" transform="translate(-4,398)">
-         20
-        </text>
-        <text dy=".4em" transform="translate(-4,346)">
-         40
-        </text>
-        <text dy=".4em" transform="translate(-4,295)">
-         60
-        </text>
-        <text dy=".4em" transform="translate(-4,243)">
-         80
-        </text>
-        <text dy=".4em" transform="translate(-4,191)">
-         100
-        </text>
-        <text dy=".4em" transform="translate(-4,139)">
-         120
-        </text>
-        <text dy=".4em" transform="translate(-4,87)">
-         140
-        </text>
-        <text dy=".4em" transform="translate(-4,35)">
-         160
-        </text>
-       </g>
-       <g font-family="Arial" font-size="20" space="preserve" transform="translate(-44)">
-        <text fill="black" text-anchor="end" dy=".4em" transform="rotate(270)">
-         Count
-        </text>
-       </g>
+       <g font-family="Arial" font-size="20" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-4,450)">0</text><text dominant-baseline="middle" transform="translate(-4,398)">20</text><text dominant-baseline="middle" transform="translate(-4,346)">40</text><text dominant-baseline="middle" transform="translate(-4,295)">60</text><text dominant-baseline="middle" transform="translate(-4,243)">80</text><text dominant-baseline="middle" transform="translate(-4,191)">100</text><text dominant-baseline="middle" transform="translate(-4,139)">120</text><text dominant-baseline="middle" transform="translate(-4,87)">140</text><text dominant-baseline="middle" transform="translate(-4,35)">160</text></g>
+       <g font-family="Arial" font-size="20" xml:space="preserve" transform="translate(-44)"><text fill="black" text-anchor="end" dominant-baseline="middle" transform="rotate(270)">Count</text></g>
       </g>
-      <path d="M0,0v450M46,0v450M92,0v450M138,0v450M184,0v450M230,0v450M276,0v450M322,0v450M368,0v450M414,0v450M460,0v450" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
-      <path d="M0,450h460M0,398h460M0,346h460M0,295h460M0,243h460M0,191h460M0,139h460M0,87h460M0,35h460" style="stroke: black; stroke-width: 1; stroke-dasharray: 1,2;"></path>
+      <path d="M0,0v450M46,0v450M92,0v450M138,0v450M184,0v450M230,0v450M276,0v450M322,0v450M368,0v450M414,0v450M460,0v450" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
+      <path d="M0,450h460M0,398h460M0,346h460M0,295h460M0,243h460M0,191h460M0,139h460M0,87h460M0,35h460" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
      </g>
     </g>
-    <g transform="translate(288,62)" font-family="Arial" font-size="13" space="preserve">
-     <path d="M0,0H224V191H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,9)">
-      Entries
-     </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(213,9)">
-      3405
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,26)">
-      Mean
-     </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(213,26)">
-      42.54
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,43)">
-      Std Dev
-     </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(213,43)">
-      20.04
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,61)">
-      Overflow
-     </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(213,61)">
-      0
-     </text>
-     <g transform="translate(11,84) scale(0.930)">
-      <text fill="black" font-size="14">
-       χ
-      </text>
-      <text fill="black" font-size="8" transform="translate(7,-7)">
-       2
-      </text>
-      <text fill="black" font-size="14" x="18">
-       / ndf
-      </text>
-     </g>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(213,78)">
-      459.3 / 95
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,96)">
-      Prob
-     </text>
-     <text fill="black" text-anchor="end" dy=".4em" transform="translate(213,96)">
-      3.752e-49
-     </text>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,113)">
-      Alpha_Power
-     </text>
-     <g transform="translate(111,118) scale(0.930)">
-      <text fill="black" font-size="14" x="6">
-       -0.7008 ± 0.0182
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,130)">
-      Constant_Gauss
-     </text>
-     <g transform="translate(137,135) scale(0.930)">
-      <text fill="black" font-size="14" x="6">
-       76.94 ± 1.92
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,148)">
-      Constant_Power
-     </text>
-     <g transform="translate(137,152) scale(0.930)">
-      <text fill="black" font-size="14" x="6">
-       51.62 ± 2.80
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,165)">
-      Mean_Gauss
-     </text>
-     <g transform="translate(136,170) scale(0.930)">
-      <text fill="black" font-size="14" x="6">
-       48.59 ± 0.34
-      </text>
-     </g>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(11,182)">
-      Sigma_Gauss
-     </text>
-     <g transform="translate(138,187) scale(0.930)">
-      <text fill="black" font-size="14" x="6">
-       14.11 ± 0.28
-      </text>
-     </g>
-    </g>
-    <g transform="translate(101,3)" font-family="Arial" font-size="22" space="preserve">
-     <text fill="black" text-anchor="middle" dy=".4em" transform="translate(186,18)">
-      Cosmic Data Spectrum Fit
-     </text>
-    </g>
+    <g transform="translate(288,62)" font-family="Arial" font-size="13" xml:space="preserve"><path d="M0,0H224V191H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(11,9)">Entries</text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(213,9)">3405</text><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(11,26)">Mean</text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(213,26)">42.54</text><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(11,43)">Std Dev</text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(213,43)">20.04</text><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(11,61)">Overflow</text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(213,61)">0</text><g transform="translate(11,84) scale(0.942)"><text fill="black" font-size="14">χ</text><text fill="black" font-size="8" transform="translate(7,-7)">2</text><text fill="black" font-size="14" x="18">/ ndf</text></g><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(213,78)">459.3 / 95</text><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(11,96)">Prob</text><text fill="black" text-anchor="end" dominant-baseline="middle" transform="translate(213,96)">3.752e-49</text><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(11,113)">Alpha_Power</text><g transform="translate(119,118) scale(0.942)"><text fill="black" font-size="14">-0.7008 ± 0.0182</text></g><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(11,130)">Constant_Gauss</text><g transform="translate(145,135) scale(0.942)"><text fill="black" font-size="14">76.94 ± 1.92</text></g><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(11,148)">Constant_Power</text><g transform="translate(145,152) scale(0.942)"><text fill="black" font-size="14">51.62 ± 2.80</text></g><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(11,165)">Mean_Gauss</text><g transform="translate(145,170) scale(0.942)"><text fill="black" font-size="14">48.59 ± 0.34</text></g><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(11,182)">Sigma_Gauss</text><g transform="translate(146,187) scale(0.942)"><text fill="black" font-size="14">14.11 ± 0.28</text></g></g>
+    <g transform="translate(101,3)" font-family="Arial" font-size="27" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(186,18)">Cosmic Data Spectrum Fit</text></g>
     <g>
-     <path d="M58,506V56" style="stroke: #ff0000; stroke-width: 3; stroke-dasharray: 5,5;"></path>
+     <path d="M58,506V56" style="stroke: rgb(255, 0, 0); stroke-width: 3; stroke-dasharray: 5, 5;"></path>
     </g>
-    <g font-family="Arial" font-size="17" space="preserve" font-weight="bold">
-     <text fill="#ff0000" text-anchor="start" transform="translate(58,543)">
-      Threshold
-     </text>
-    </g>
-    <g transform="translate(374,259)" font-family="Arial" font-size="9" space="preserve">
-     <path d="M0,0H138V51H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
-     <path d="M4,8H31" style="stroke: #00009a; stroke-width: 1;"></path>
-     <path d="M15.0,8.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0z" style="stroke: blue; fill: blue;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(35,8)">
-      Data
-     </text>
-     <path d="M4,20H31" style="stroke: #ff00ff; stroke-width: 2;"></path>
-     <path d="M18,20h1" style="stroke: black; fill: none;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(35,20)">
-      Gauss + Power
-     </text>
-     <path d="M4,31H31" style="stroke: #ff0000; stroke-width: 2; stroke-dasharray: 3,3;"></path>
-     <path d="M18,31h1" style="stroke: black; fill: none;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(35,32)">
-      Power (background)
-     </text>
-     <path d="M4,43H31" style="stroke: #009a00; stroke-width: 2; stroke-dasharray: 3,3;"></path>
-     <path d="M18,43h1" style="stroke: black; fill: none;"></path>
-     <text fill="black" text-anchor="start" dy=".4em" transform="translate(35,43)">
-      Gauss (signal)
-     </text>
-    </g>
+    <g font-family="Arial" font-size="17" xml:space="preserve" font-weight="bold"><text fill="rgb(255, 0, 0)" text-anchor="start" transform="translate(58,543)">Threshold</text></g>
+    <g transform="translate(374,259)" font-family="Arial" font-size="9" xml:space="preserve"><path d="M0,0H138V51H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M4,8H31" style="stroke: rgb(0, 0, 154); stroke-width: 1;"></path><path d="M15.0,8.0a2.5,2.5,0,1,0,5.0,0a2.5,2.5,0,1,0,-5.0,0z" style="stroke: blue; fill: blue;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(35,8)">Data</text><path d="M4,20H31" style="stroke: rgb(255, 0, 255); stroke-width: 2;"></path><path d="M18,20h1" style="stroke: black; fill: none;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(35,20)">Gauss + Power</text><path d="M4,31H31" style="stroke: rgb(255, 0, 0); stroke-width: 2; stroke-dasharray: 3, 3;"></path><path d="M18,31h1" style="stroke: black; fill: none;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(35,32)">Power (background)</text><path d="M4,43H31" style="stroke: rgb(0, 154, 0); stroke-width: 2; stroke-dasharray: 3, 3;"></path><path d="M18,43h1" style="stroke: black; fill: none;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(35,43)">Gauss (signal)</text></g>
    </g>
   </svg>
  </g>

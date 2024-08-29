@@ -34,86 +34,14 @@
    <g>
     <g transform="translate(0,640)">
      <path d="M0,0h960M0,-19V0M24,-10V0M48,-10V0M72,-10V0M96,-19V0M120,-10V0M144,-10V0M168,-10V0M192,-19V0M216,-10V0M240,-10V0M264,-10V0M288,-19V0M312,-10V0M336,-10V0M360,-10V0M384,-19V0M408,-10V0M432,-10V0M456,-10V0M480,-19V0M504,-10V0M528,-10V0M552,-10V0M576,-19V0M600,-10V0M624,-10V0M648,-10V0M672,-19V0M696,-10V0M720,-10V0M744,-10V0M768,-19V0M792,-10V0M816,-10V0M840,-10V0M864,-19V0M888,-10V0M912,-10V0M936,-10V0M960,-19V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="middle">
-      <text dy=".8em" transform="translate(0,5)">
-       -10
-      </text>
-      <text dy=".8em" transform="translate(96,5)">
-       -8
-      </text>
-      <text dy=".8em" transform="translate(192,5)">
-       -6
-      </text>
-      <text dy=".8em" transform="translate(288,5)">
-       -4
-      </text>
-      <text dy=".8em" transform="translate(384,5)">
-       -2
-      </text>
-      <text dy=".8em" transform="translate(480,5)">
-       0
-      </text>
-      <text dy=".8em" transform="translate(576,5)">
-       2
-      </text>
-      <text dy=".8em" transform="translate(672,5)">
-       4
-      </text>
-      <text dy=".8em" transform="translate(768,5)">
-       6
-      </text>
-      <text dy=".8em" transform="translate(864,5)">
-       8
-      </text>
-      <text dy=".8em" transform="translate(960,5)">
-       10
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,5)">-10</text><text dy=".8em" transform="translate(96,5)">-8</text><text dy=".8em" transform="translate(192,5)">-6</text><text dy=".8em" transform="translate(288,5)">-4</text><text dy=".8em" transform="translate(384,5)">-2</text><text dy=".8em" transform="translate(480,5)">0</text><text dy=".8em" transform="translate(576,5)">2</text><text dy=".8em" transform="translate(672,5)">4</text><text dy=".8em" transform="translate(768,5)">6</text><text dy=".8em" transform="translate(864,5)">8</text><text dy=".8em" transform="translate(960,5)">10</text></g>
     </g>
     <g>
      <path d="M0,0v640M29,640H0M15,624H0M15,608H0M15,592H0M29,576H0M15,560H0M15,544H0M15,528H0M29,512H0M15,496H0M15,480H0M15,464H0M29,448H0M15,432H0M15,416H0M15,400H0M29,384H0M15,368H0M15,352H0M15,336H0M29,320H0M15,304H0M15,288H0M15,272H0M29,256H0M15,240H0M15,224H0M15,208H0M29,192H0M15,176H0M15,160H0M15,144H0M29,128H0M15,112H0M15,96H0M15,80H0M29,64H0M15,48H0M15,32H0M15,16H0M29,0H0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-6,640)">
-       -10
-      </text>
-      <text dy=".4em" transform="translate(-6,576)">
-       -8
-      </text>
-      <text dy=".4em" transform="translate(-6,512)">
-       -6
-      </text>
-      <text dy=".4em" transform="translate(-6,448)">
-       -4
-      </text>
-      <text dy=".4em" transform="translate(-6,384)">
-       -2
-      </text>
-      <text dy=".4em" transform="translate(-6,320)">
-       0
-      </text>
-      <text dy=".4em" transform="translate(-6,256)">
-       2
-      </text>
-      <text dy=".4em" transform="translate(-6,192)">
-       4
-      </text>
-      <text dy=".4em" transform="translate(-6,128)">
-       6
-      </text>
-      <text dy=".4em" transform="translate(-6,64)">
-       8
-      </text>
-      <text dy=".4em" transform="translate(-6)">
-       10
-      </text>
-     </g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-6,640)">-10</text><text dominant-baseline="middle" transform="translate(-6,576)">-8</text><text dominant-baseline="middle" transform="translate(-6,512)">-6</text><text dominant-baseline="middle" transform="translate(-6,448)">-4</text><text dominant-baseline="middle" transform="translate(-6,384)">-2</text><text dominant-baseline="middle" transform="translate(-6,320)">0</text><text dominant-baseline="middle" transform="translate(-6,256)">2</text><text dominant-baseline="middle" transform="translate(-6,192)">4</text><text dominant-baseline="middle" transform="translate(-6,128)">6</text><text dominant-baseline="middle" transform="translate(-6,64)">8</text><text dominant-baseline="middle" transform="translate(-6)">10</text></g>
     </g>
    </g>
   </g>
-  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
-   <text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">
-    xygaus(0)+xygaus(5)+xygaus(10)
-   </text>
-  </g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(480)">xygaus(0)+xygaus(5)+xygaus(10)</text></g>
  </g>
 </svg>
