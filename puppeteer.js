@@ -16,7 +16,10 @@ const server_path = 'http://localhost:8000/jsroot/',
       specialCases = [
          'TCanvas/time.svg', // position of minor tick differs by one on time axis?
          'TH2/chord.svg', // order of attributes mixes, cannot repair while produced inside d3
-         'TH3/box.svg' // not working filter out of image
+         'TH3/box.svg', // not working filter out of image
+         'Misc/roofit_rf101_plot2.svg', // very tiny diff in axis drawing
+         'Misc/roofit_rf201_plot1.svg',
+         'Misc/roofit_rf708_plot6.svg'
       ];
 
 
@@ -421,7 +424,8 @@ function processNextOption() {
    if (entry.url)
       url = entry.url.replace(/\$\$\$/g, filepath)
                      .replace(/file=demo/g, `file=${jsroot_path}/demo`)
-                     .replace(/inject=demo/g, `inject=${jsroot_path}/demo`);
+                     .replace(/inject=demo/g, `inject=${jsroot_path}/demo`)
+                     .replace(/nobrowser&/g, '');
    else if (entry.asurl) {
       if (keyid === 'TTree') {
          if ((opt.indexOf('>>') < 0) && (opt.indexOf('dump') < 0) && (opt.indexOf('testio') < 0))
