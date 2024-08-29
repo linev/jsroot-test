@@ -1,203 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
- <path d="M0,0H1200V800H0Z" style="fill: #ffffff;"></path>
+ <path d="M0,0H1200V800H0Z" style="fill: rgb(255, 255, 255);"></path>
  <g>
   <g transform="translate(120,80)">
-   <path d="M0,0H960V640H0Z" style="fill: #ffffff; stroke: #000000; stroke-width: 1;"></path>
+   <path d="M0,0H960V640H0Z" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-width: 1;"></path>
    <g>
     <g transform="translate(0,640)">
-     <path d="M0,0h960M0,-19V0M19,-10V0M38,-10V0M58,-10V0M77,-10V0M96,-19V0M115,-10V0M134,-10V0M154,-10V0M173,-10V0M192,-19V0M211,-10V0M230,-10V0M250,-10V0M269,-10V0M288,-19V0M307,-10V0M326,-10V0M346,-10V0M365,-10V0M384,-19V0M403,-10V0M422,-10V0M442,-10V0M461,-10V0M480,-19V0M499,-10V0M518,-10V0M538,-10V0M557,-10V0M576,-19V0M595,-10V0M614,-10V0M634,-10V0M653,-10V0M672,-19V0M691,-10V0M710,-10V0M730,-10V0M749,-10V0M768,-19V0M787,-10V0M806,-10V0M826,-10V0M845,-10V0M864,-19V0M883,-10V0M902,-10V0M922,-10V0M941,-10V0M960,-19V0" style="stroke: #000000; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="#000000" text-anchor="middle">
-      <text dy=".8em" transform="translate(0,5)">
-       0
-      </text>
-      <text dy=".8em" transform="translate(96,5)">
-       1
-      </text>
-      <text dy=".8em" transform="translate(192,5)">
-       2
-      </text>
-      <text dy=".8em" transform="translate(288,5)">
-       3
-      </text>
-      <text dy=".8em" transform="translate(384,5)">
-       4
-      </text>
-      <text dy=".8em" transform="translate(480,5)">
-       5
-      </text>
-      <text dy=".8em" transform="translate(576,5)">
-       6
-      </text>
-      <text dy=".8em" transform="translate(672,5)">
-       7
-      </text>
-      <text dy=".8em" transform="translate(768,5)">
-       8
-      </text>
-      <text dy=".8em" transform="translate(864,5)">
-       9
-      </text>
-      <text dy=".8em" transform="translate(960,5)">
-       10
-      </text>
-     </g>
+     <path d="M0,0h960M0,-19V0M19,-10V0M38,-10V0M58,-10V0M77,-10V0M96,-19V0M115,-10V0M134,-10V0M154,-10V0M173,-10V0M192,-19V0M211,-10V0M230,-10V0M250,-10V0M269,-10V0M288,-19V0M307,-10V0M326,-10V0M346,-10V0M365,-10V0M384,-19V0M403,-10V0M422,-10V0M442,-10V0M461,-10V0M480,-19V0M499,-10V0M518,-10V0M538,-10V0M557,-10V0M576,-19V0M595,-10V0M614,-10V0M634,-10V0M653,-10V0M672,-19V0M691,-10V0M710,-10V0M730,-10V0M749,-10V0M768,-19V0M787,-10V0M806,-10V0M826,-10V0M845,-10V0M864,-19V0M883,-10V0M902,-10V0M922,-10V0M941,-10V0M960,-19V0" style="stroke: rgb(0, 0, 0); stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="rgb(0, 0, 0)" text-anchor="middle"><text dy=".8em" transform="translate(0,5)">0</text><text dy=".8em" transform="translate(96,5)">1</text><text dy=".8em" transform="translate(192,5)">2</text><text dy=".8em" transform="translate(288,5)">3</text><text dy=".8em" transform="translate(384,5)">4</text><text dy=".8em" transform="translate(480,5)">5</text><text dy=".8em" transform="translate(576,5)">6</text><text dy=".8em" transform="translate(672,5)">7</text><text dy=".8em" transform="translate(768,5)">8</text><text dy=".8em" transform="translate(864,5)">9</text><text dy=".8em" transform="translate(960,5)">10</text></g>
     </g>
     <g>
-     <path d="M0,0v640M29,640H0M15,624H0M15,608H0M15,592H0M15,576H0M29,560H0M15,544H0M15,528H0M15,512H0M15,496H0M29,480H0M15,464H0M15,448H0M15,432H0M15,416H0M29,400H0M15,384H0M15,368H0M15,352H0M15,336H0M29,320H0M15,304H0M15,288H0M15,272H0M15,256H0M29,240H0M15,224H0M15,208H0M15,192H0M15,176H0M29,160H0M15,144H0M15,128H0M15,112H0M15,96H0M29,80H0M15,64H0M15,48H0M15,32H0M15,16H0M29,0H0" style="stroke: #000000; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" space="preserve" fill="#000000" text-anchor="end">
-      <text dy=".4em" transform="translate(-6,640)">
-       -2
-      </text>
-      <text dy=".4em" transform="translate(-6,560)">
-       -1.5
-      </text>
-      <text dy=".4em" transform="translate(-6,480)">
-       -1
-      </text>
-      <text dy=".4em" transform="translate(-6,400)">
-       -0.5
-      </text>
-      <text dy=".4em" transform="translate(-6,320)">
-       0
-      </text>
-      <text dy=".4em" transform="translate(-6,240)">
-       0.5
-      </text>
-      <text dy=".4em" transform="translate(-6,160)">
-       1
-      </text>
-      <text dy=".4em" transform="translate(-6,80)">
-       1.5
-      </text>
-      <text dy=".4em" transform="translate(-6)">
-       2
-      </text>
-     </g>
+     <path d="M0,0v640M29,640H0M15,624H0M15,608H0M15,592H0M15,576H0M29,560H0M15,544H0M15,528H0M15,512H0M15,496H0M29,480H0M15,464H0M15,448H0M15,432H0M15,416H0M29,400H0M15,384H0M15,368H0M15,352H0M15,336H0M29,320H0M15,304H0M15,288H0M15,272H0M15,256H0M29,240H0M15,224H0M15,208H0M15,192H0M15,176H0M29,160H0M15,144H0M15,128H0M15,112H0M15,96H0M29,80H0M15,64H0M15,48H0M15,32H0M15,16H0M29,0H0" style="stroke: rgb(0, 0, 0); stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="rgb(0, 0, 0)" text-anchor="end"><text dominant-baseline="middle" transform="translate(-6,640)">-2</text><text dominant-baseline="middle" transform="translate(-6,560)">-1.5</text><text dominant-baseline="middle" transform="translate(-6,480)">-1</text><text dominant-baseline="middle" transform="translate(-6,400)">-0.5</text><text dominant-baseline="middle" transform="translate(-6,320)">0</text><text dominant-baseline="middle" transform="translate(-6,240)">0.5</text><text dominant-baseline="middle" transform="translate(-6,160)">1</text><text dominant-baseline="middle" transform="translate(-6,80)">1.5</text><text dominant-baseline="middle" transform="translate(-6)">2</text></g>
     </g>
    </g>
   </g>
-  <g transform="translate(120,4)" font-family="Arial" font-size="40" space="preserve">
-   <text fill="#000000" text-anchor="middle" dy=".8em" transform="translate(480)">
-    Axes
-   </text>
-  </g>
+  <g transform="translate(120,4)" font-family="Arial" font-size="40" xml:space="preserve"><text fill="rgb(0, 0, 0)" text-anchor="middle" dy=".8em" transform="translate(480)">Axes</text></g>
   <g transform="translate(120,80)">
-   <path d="M0,0h960M960,0V19M936,0V10M912,0V10M888,0V10M864,0V19M840,0V10M816,0V10M792,0V10M768,0V19M744,0V10M720,0V10M696,0V10M672,0V19M648,0V10M624,0V10M600,0V10M576,0V19M552,0V10M528,0V10M504,0V10M480,0V19M456,0V10M432,0V10M408,0V10M384,0V19M360,0V10M336,0V10M312,0V10M288,0V19M264,0V10M240,0V10M216,0V10M192,0V19M168,0V10M144,0V10M120,0V10M96,0V19M72,0V10M48,0V10M24,0V10M0,0V19" style="stroke: #000000; stroke-width: 1;"></path>
-   <g font-family="Arial" font-size="32" space="preserve" font-weight="bold" fill="#000000" text-anchor="middle">
-    <text transform="translate(960,-8)">
-     -10
-    </text>
-    <text transform="translate(864,-8)">
-     -8
-    </text>
-    <text transform="translate(768,-8)">
-     -6
-    </text>
-    <text transform="translate(672,-8)">
-     -4
-    </text>
-    <text transform="translate(576,-8)">
-     -2
-    </text>
-    <text transform="translate(480,-8)">
-     0
-    </text>
-    <text transform="translate(384,-8)">
-     2
-    </text>
-    <text transform="translate(288,-8)">
-     4
-    </text>
-    <text transform="translate(192,-8)">
-     6
-    </text>
-    <text transform="translate(96,-8)">
-     8
-    </text>
-    <text transform="translate(0,-8)">
-     10
-    </text>
-   </g>
-   <g font-family="Arial" font-size="32" space="preserve" font-weight="bold" transform="translate(960,-51)">
-    <text fill="#000000" text-anchor="end" dy=".4em">
-     axis with decreasing values
-    </text>
-   </g>
+   <path d="M0,0h960M960,0V19M936,0V10M912,0V10M888,0V10M864,0V19M840,0V10M816,0V10M792,0V10M768,0V19M744,0V10M720,0V10M696,0V10M672,0V19M648,0V10M624,0V10M600,0V10M576,0V19M552,0V10M528,0V10M504,0V10M480,0V19M456,0V10M432,0V10M408,0V10M384,0V19M360,0V10M336,0V10M312,0V10M288,0V19M264,0V10M240,0V10M216,0V10M192,0V19M168,0V10M144,0V10M120,0V10M96,0V19M72,0V10M48,0V10M24,0V10M0,0V19" style="stroke: rgb(0, 0, 0); stroke-width: 1;"></path>
+   <g font-family="Arial" font-size="32" xml:space="preserve" font-weight="bold" fill="rgb(0, 0, 0)" text-anchor="middle"><text transform="translate(960,-8)">-10</text><text transform="translate(864,-8)">-8</text><text transform="translate(768,-8)">-6</text><text transform="translate(672,-8)">-4</text><text transform="translate(576,-8)">-2</text><text transform="translate(480,-8)">0</text><text transform="translate(384,-8)">2</text><text transform="translate(288,-8)">4</text><text transform="translate(192,-8)">6</text><text transform="translate(96,-8)">8</text><text transform="translate(0,-8)">10</text></g>
+   <g font-family="Arial" font-size="32" xml:space="preserve" font-weight="bold" transform="translate(960,-51)"><text fill="rgb(0, 0, 0)" text-anchor="end" dominant-baseline="middle">axis with decreasing values</text></g>
   </g>
   <g transform="translate(216,240)">
-   <path d="M0,0h768M0,-15V0M6,-8V0M13,-8V0M19,-8V0M27,-15V0M34,-8V0M42,-8V0M50,-8V0M59,-15V0M68,-8V0M78,-8V0M88,-8V0M99,-15V0M110,-8V0M122,-8V0M134,-8V0M147,-15V0M161,-8V0M175,-8V0M191,-8V0M207,-15V0M223,-8V0M241,-8V0M259,-8V0M279,-15V0M299,-8V0M321,-8V0M343,-8V0M367,-15V0M392,-8V0M419,-8V0M446,-8V0M475,-15V0M506,-8V0M538,-8V0M572,-8V0M607,-15V0M644,-8V0M683,-8V0M725,-8V0M768,-15V0" style="stroke: #000000; stroke-width: 1;"></path>
-   <g font-family="Arial" font-size="14" space="preserve" font-weight="bold" fill="#000000" text-anchor="middle">
-    <text dy=".8em" transform="translate(0,6)">
-     0
-    </text>
-    <text dy=".8em" transform="translate(27,6)">
-     0.2
-    </text>
-    <text dy=".8em" transform="translate(59,6)">
-     0.4
-    </text>
-    <text dy=".8em" transform="translate(99,6)">
-     0.6
-    </text>
-    <text dy=".8em" transform="translate(147,6)">
-     0.8
-    </text>
-    <text dy=".8em" transform="translate(207,6)">
-     1
-    </text>
-    <text dy=".8em" transform="translate(279,6)">
-     1.2
-    </text>
-    <text dy=".8em" transform="translate(367,6)">
-     1.4
-    </text>
-    <text dy=".8em" transform="translate(475,6)">
-     1.6
-    </text>
-    <text dy=".8em" transform="translate(607,6)">
-     1.8
-    </text>
-    <text dy=".8em" transform="translate(768,6)">
-     2
-    </text>
-   </g>
-   <g font-family="Arial" font-size="24" space="preserve" font-weight="bold" transform="translate(768,46)">
-    <text fill="#000000" text-anchor="end" dy=".4em">
-     exponential axis
-    </text>
-   </g>
+   <path d="M0,0h768M0,-15V0M6,-8V0M13,-8V0M19,-8V0M27,-15V0M34,-8V0M42,-8V0M50,-8V0M59,-15V0M68,-8V0M78,-8V0M88,-8V0M99,-15V0M110,-8V0M122,-8V0M134,-8V0M147,-15V0M161,-8V0M175,-8V0M191,-8V0M207,-15V0M223,-8V0M241,-8V0M259,-8V0M279,-15V0M299,-8V0M321,-8V0M343,-8V0M367,-15V0M392,-8V0M419,-8V0M446,-8V0M475,-15V0M506,-8V0M538,-8V0M572,-8V0M607,-15V0M644,-8V0M683,-8V0M725,-8V0M768,-15V0" style="stroke: rgb(0, 0, 0); stroke-width: 1;"></path>
+   <g font-family="Arial" font-size="21" xml:space="preserve" font-weight="bold" fill="rgb(0, 0, 0)" text-anchor="middle"><text dy=".8em" transform="translate(0,6)">0</text><text dy=".8em" transform="translate(27,6)">0.2</text><text dy=".8em" transform="translate(59,6)">0.4</text><text dy=".8em" transform="translate(99,6)">0.6</text><text dy=".8em" transform="translate(147,6)">0.8</text><text dy=".8em" transform="translate(207,6)">1</text><text dy=".8em" transform="translate(279,6)">1.2</text><text dy=".8em" transform="translate(367,6)">1.4</text><text dy=".8em" transform="translate(475,6)">1.6</text><text dy=".8em" transform="translate(607,6)">1.8</text><text dy=".8em" transform="translate(768,6)">2</text></g>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" transform="translate(768,46)"><text fill="rgb(0, 0, 0)" text-anchor="end" dominant-baseline="middle">exponential axis</text></g>
   </g>
   <g transform="translate(312,400)">
-   <path d="M0,0v320M14,320H0M7,288H0M7,269H0M7,256H0M7,245H0M7,237H0M7,230H0M7,224H0M7,218H0M14,213H0M7,181H0M7,162H0M7,149H0M7,139H0M7,130H0M7,123H0M7,117H0M7,112H0M14,107H0M7,75H0M7,56H0M7,42H0M7,32H0M7,24H0M7,17H0M7,10H0M7,5H0M14,0H0" style="stroke: #000000; stroke-width: 1;"></path>
-   <g font-family="Arial" font-size="24" space="preserve" font-weight="bold">
-    <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(-6,320)">
-     1
-    </text>
-    <text fill="#000000" text-anchor="end" dy=".4em" transform="translate(-6,213)">
-     10
-    </text>
-    <g transform="translate(-42,118)">
-     <text fill="#000000" font-size="24">
-      10
-     </text>
-     <text fill="#000000" font-size="14" transform="translate(28,-13)">
-      2
-     </text>
-    </g>
-    <g transform="translate(-42,11)">
-     <text fill="#000000" font-size="24">
-      10
-     </text>
-     <text fill="#000000" font-size="14" transform="translate(28,-13)">
-      3
-     </text>
-    </g>
-   </g>
-   <g font-family="Arial" font-size="24" space="preserve" font-weight="bold" transform="translate(-69)">
-    <text fill="#000000" text-anchor="end" dy=".4em" transform="rotate(270)">
-     logarithmic axis
-    </text>
-   </g>
+   <path d="M0,0v320M14,320H0M7,288H0M7,269H0M7,256H0M7,245H0M7,237H0M7,230H0M7,224H0M7,218H0M14,213H0M7,181H0M7,162H0M7,149H0M7,139H0M7,130H0M7,123H0M7,117H0M7,112H0M14,107H0M7,75H0M7,56H0M7,42H0M7,32H0M7,24H0M7,17H0M7,10H0M7,5H0M14,0H0" style="stroke: rgb(0, 0, 0); stroke-width: 1;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold"><text fill="rgb(0, 0, 0)" text-anchor="end" dominant-baseline="middle" transform="translate(-6,320)">1</text><text fill="rgb(0, 0, 0)" text-anchor="end" dominant-baseline="middle" transform="translate(-6,213)">10</text><g transform="translate(-42,118)"><text fill="rgb(0, 0, 0)" font-size="24">10</text><text fill="rgb(0, 0, 0)" font-size="14" transform="translate(28,-13)">2</text></g><g transform="translate(-42,11)"><text fill="rgb(0, 0, 0)" font-size="24">10</text><text fill="rgb(0, 0, 0)" font-size="14" transform="translate(28,-13)">3</text></g></g>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" transform="translate(-69)"><text fill="rgb(0, 0, 0)" text-anchor="end" dominant-baseline="middle" transform="rotate(270)">logarithmic axis</text></g>
   </g>
  </g>
 </svg>
