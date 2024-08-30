@@ -453,6 +453,7 @@ function processNextOption(reset_mathjax, skip_increment) {
       lastitemname = '';
       url = '?' + entry.url.replace(/\$\$\$/g, filepath)
                            .replace(/file=demo/g, `file=${jsroot_path}/demo`);
+      console.log('url', url)
    } else if (entry.asurl) {
       url = ((entry.asurl === 'browser') ? '?' : '?nobrowser&');
       url += jsonname ? 'json=' + jsonname : 'file=' + filename + '&item=' + itemname;
