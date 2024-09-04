@@ -1,15 +1,8 @@
 import { gStyle, version_id, version_date, create, settings, constants, setHPainter,
-         internals, httpRequest, openFile, makeImage, readStyleFromURL, clTList } from 'jsroot';
-
-import { createRootColors } from 'jsroot/colors';
-
-import { HierarchyPainter } from 'jsroot/hierarchy';
+         internals, httpRequest, openFile, makeImage, readStyleFromURL, clTList,
+         useThreeJs, HierarchyPainter, createRootColors, loadMathjax } from 'jsroot';
 
 import { testInteractivity } from 'jsroot/testing';
-
-import { loadMathjax } from 'jsroot/latex';
-
-import { useThreeJs } from 'jsroot/base3d';
 
 import { readFileSync, mkdirSync, accessSync, writeFileSync, unlink, constants as fs_constants } from 'fs';
 
@@ -17,10 +10,12 @@ import { exec } from 'node:child_process';
 
 import xml_formatter from 'xml-formatter';
 
-import * as THREE from 'three';
-import * as THREE_ADDONS from 'three/addons';
+import * as three from 'three';
+import * as three_addons from 'three/addons';
 
-console.log(`JSROOT version  ${version_id} ${version_date}`);
+console.log(`JSROOT version  ${version_id} ${version_date} THREE version ${three.REVISION}`);
+
+useThreeJs(three, three_addons);
 
 const jsroot_path = './../jsroot',
       examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`)),
@@ -544,10 +539,6 @@ function processNextOption(reset_mathjax, skip_increment) {
       process.exit(1);
    }
 }
-
-useThreeJs(THREE, THREE_ADDONS);
-
-console.log('use THREE version ', THREE.REVISION);
 
 processNextOption();
 
