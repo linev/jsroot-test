@@ -16,7 +16,6 @@
   "dependencies": {
     "jsroot": "file:../jsroot",
     "puppeteer": "^23.1.1",
-    "xml-formatter": "^2.6.0",
-    "three": "0.162.0"
+    "xml-formatter": "^2.6.0"
   }
 }
