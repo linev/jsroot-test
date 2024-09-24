@@ -29,6 +29,7 @@ const jsroot_path = './../jsroot',
 // reduce size of small pad for batch mode
 settings.SmallPad.width = 40;
 settings.SmallPad.height = 40;
+settings.UseStamp = false;
 
 
 let init_style = null, init_curve = false, init_palette = 57, init_TimeZone = '',
