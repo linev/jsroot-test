@@ -206,11 +206,11 @@ function produceFile(content, extension, subid) {
            }
         }
      } else if (ispdf) {
-        match = (svg0?.byteLength === clen);
         const pdf1 = resetPdfFile(svg0.toString()),
               pdf2 = resetPdfFile(content.toString());
-        if (pdf1 !== pdf2) match = false;
-        content = Buffer.from(pdf2); // write reformated data
+        match = (pdf1 === pdf2);
+        // keep PDF content as is - with new date and id if any
+        // content = Buffer.from(pdf2); // write reformated data
      } else {
         match = compareSVGs(svg0, content);
      }
@@ -272,17 +272,17 @@ function produceSVG(object, option) {
    }
 
    makeImage(args).then(code => {
-       if (entry.reset_funcs)
+      if (entry.reset_funcs)
           object.fFunctions = create(clTList);
-       produceFile(code, entry.aspng ? '.png' : '.svg');
+      produceFile(code, entry.aspng ? '.png' : '.svg');
 
-       /*if (!entry.pdf) return true;
-
-       args.format = 'pdf';
-       args.as_buffer = true;
-       return makeImage(args).then(code => {
-          produceFile(code, '.pdf');
-       }); */
+      if (entry.pdf) {
+         args.format = 'pdf';
+         args.as_buffer = true;
+         return makeImage(args).then(code => {
+            produceFile(code, '.pdf');
+         });
+      }
    }).then(() => {
        let do_testing = (entry.interactive !== false) &&
                         ((entry.interactive && test_interactive !== 0) ||
