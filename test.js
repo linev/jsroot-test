@@ -32,7 +32,7 @@ settings.SmallPad.height = 40;
 
 
 let init_style = null, init_curve = false, init_palette = 57, init_TimeZone = '',
-    test_mode = 'verify', nmatch = 0, ndiff = 0, nnew = 0, nspecial = 0,
+    test_mode = 'verify', test_pdf = true, nmatch = 0, ndiff = 0, nnew = 0, nspecial = 0,
     keyid = 'TH1', theonlykey = false, optid = -1, printdiff = false,
     theOnlyOption, theOnlyOptionId = -100, itemid = -1,
     entry, entry_name = '', lastitemname = '', testfile = null, testobj = null,
@@ -51,6 +51,9 @@ if (process.argv && (process.argv.length > 2)) {
          case '-c':
          case '--create':
             test_mode = 'create';
+            break;
+         case '--no-pdf':
+            test_pdf = false;
             break;
          case '-k':
          case '--key':
@@ -189,7 +192,7 @@ function produceFile(content, extension, subid) {
    try {
      svg0 = readFileSync(svgname, ispng || ispdf ? undefined : 'utf-8');
 
-     //let match = (svg0 === content); //Uncommnet for comparions without <image> handling
+     //let match = (svg0 === content); // Uncommnet for comparions without <image> handling
      //Description: Comparison with <image> handling
      let match = false;
 
@@ -276,7 +279,7 @@ function produceSVG(object, option) {
           object.fFunctions = create(clTList);
       produceFile(code, entry.aspng ? '.png' : '.svg');
 
-      if (entry.pdf) {
+      if (entry.pdf && test_pdf) {
          args.format = 'pdf';
          args.as_buffer = true;
          return makeImage(args).then(code => {
