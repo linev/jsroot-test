@@ -1,4 +1,4 @@
-import { gStyle, version_id, version_date, create, settings, constants, setHPainter,
+import { gStyle, version_id, source_dir, version_date, create, settings, constants, setHPainter,
          internals, httpRequest, openFile, makeImage, readStyleFromURL, clTList } from 'jsroot';
 
 import { createRootColors } from 'jsroot/colors';
@@ -15,15 +15,15 @@ import xml_formatter from 'xml-formatter';
 
 console.log(`JSROOT version  ${version_id} ${version_date}`);
 
-const jsroot_path = './../jsroot',
+const jsroot_path = './..' + source_dir.slice(source_dir.lastIndexOf('/', source_dir.length - 2)), // extract last dir name for JSROOT
       examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`)),
       filepath = 'http://jsroot.gsi.de/files/';
 //       filepath = "https://root.cern.ch/js/files/";
 
-// uncomment to be able use https fwith jsroot.gsi.de server
+// uncomment to be able use https with jsroot.gsi.de server
 //  process.env.NODE_TLS_REJECT_UNAUTHORIZED = 0;
 
-// reduse size of small pad for batch mode
+// reduce size of small pad for batch mode
 settings.SmallPad.width = 40;
 settings.SmallPad.height = 40;
 
