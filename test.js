@@ -1,4 +1,4 @@
-import { gStyle, version_id, version_date, create, settings, constants, setHPainter,
+import { gStyle, version_id, source_dir, version_date, create, settings, constants, setHPainter,
          internals, httpRequest, openFile, makeImage, readStyleFromURL, clTList,
          HierarchyPainter, createRootColors, loadMathjax } from 'jsroot';
 
@@ -12,8 +12,7 @@ import xml_formatter from 'xml-formatter';
 
 console.log(`JSROOT version  ${version_id} ${version_date}`);
 
-
-const jsroot_path = './../jsroot',
+const jsroot_path = './..' + source_dir.slice(source_dir.lastIndexOf('/', source_dir.length - 2)), // extract last dir name for JSROOT
       examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`)),
       filepath = 'https://jsroot.gsi.de/files/',
       jsonfilepath = 'http://jsroot.gsi.de/files/', // httpRequest has problem with GSI https
