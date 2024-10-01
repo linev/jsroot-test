@@ -83,27 +83,47 @@
     </g>
     <g>
      <path d="M0,0v539M558,0v539M17,539H0M17,443H0M17,348H0M17,252H0M17,157H0M17,61H0M541,539H558M541,443H558M541,348H558M541,252H558M541,157H558M541,61H558" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="20" space="preserve" fill="black" text-anchor="end">
-      <text dy=".4em" transform="translate(-5,539)">
+     <g font-family="Arial" font-size="20" space="preserve">
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-5,539)">
        1
       </text>
-      <text dy=".4em" transform="translate(-5,443)">
+      <text fill="black" text-anchor="end" dy=".4em" transform="translate(-5,443)">
        2
       </text>
-      <text dy=".4em" transform="translate(-5,348)">
-       4
-      </text>
-      <text dy=".4em" transform="translate(-5,252)">
-       8
-      </text>
-      <text dy=".4em" transform="translate(-5,157)">
-       16
-      </text>
-      <text dy=".4em" transform="translate(-5,61)">
-       32
-      </text>
+      <g transform="translate(-24,356)">
+       <text fill="black" font-size="20">
+        2
+       </text>
+       <text fill="black" font-size="12" transform="translate(12,-10)">
+        2
+       </text>
+      </g>
+      <g transform="translate(-24,260)">
+       <text fill="black" font-size="20">
+        2
+       </text>
+       <text fill="black" font-size="12" transform="translate(12,-10)">
+        3
+       </text>
+      </g>
+      <g transform="translate(-24,165)">
+       <text fill="black" font-size="20">
+        2
+       </text>
+       <text fill="black" font-size="12" transform="translate(12,-10)">
+        4
+       </text>
+      </g>
+      <g transform="translate(-24,69)">
+       <text fill="black" font-size="20">
+        2
+       </text>
+       <text fill="black" font-size="12" transform="translate(12,-10)">
+        5
+       </text>
+      </g>
      </g>
-     <g font-family="Arial" font-size="24" space="preserve" transform="translate(-41)">
+     <g font-family="Arial" font-size="24" space="preserve" transform="translate(-36)">
       <g transform="rotate(270) translate(-48,9)">
        <text fill="black" font-size="24">
         tanβ
