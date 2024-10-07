@@ -149,7 +149,7 @@
        1
       </text>
       <g transform="translate(5,-7)">
-       <text fill="black" font-size="17">
+       <text fill="black">
         ×10
        </text>
        <text fill="black" font-size="10" transform="translate(29,-9)">
@@ -165,13 +165,13 @@
    <path d="M10,17H72" style="stroke: #cc3333; stroke-width: 2;"></path>
    <path d="M37.8,17.0a3.2,3.2,0,1,0,6.4,0a3.2,3.2,0,1,0,-6.4,0z" style="stroke: blue; fill: blue;"></path>
    <g transform="translate(82,22)">
-    <text fill="black" font-size="12">
+    <text fill="black">
      Real countries surfaces from Wikipedia (in km
     </text>
     <text fill="black" font-size="7" transform="translate(247,-6)">
      2
     </text>
-    <text fill="black" font-size="12" x="251">
+    <text fill="black" x="251">
      )
     </text>
    </g>
@@ -183,13 +183,13 @@
   </g>
   <g transform="translate(219,2)" font-family="Arial" font-size="23" space="preserve">
    <g transform="translate(24,27) scale(0.825)">
-    <text fill="black" font-size="29">
+    <text fill="black">
      Countries surfaces (in km
     </text>
     <text fill="black" font-size="17" transform="translate(333,-15)">
      2
     </text>
-    <text fill="black" font-size="29" x="342">
+    <text fill="black" x="342">
      )
     </text>
    </g>

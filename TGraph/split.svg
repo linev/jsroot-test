@@ -91,10 +91,10 @@
    <path d="M7,21H53" style="stroke: blue; stroke-width: 2;"></path>
    <path d="M24,21a6,6,0,1,0,12,0a6,6,0,1,0,-12,0z" style="stroke: red; fill: red;"></path>
    <g transform="translate(60,26) scale(0.465)">
-    <text fill="black" font-size="32" transform="translate(0,-19)">
+    <text fill="black" transform="translate(0,-19)">
      Equilibrium charge
     </text>
-    <text fill="black" font-size="32" transform="translate(15,20)">
+    <text fill="black" transform="translate(15,20)">
      state distribution
     </text>
    </g>
@@ -102,20 +102,20 @@
     &lt;q&gt; = 9.031923
    </text>
    <g transform="translate(60,98) scale(0.465)">
-    <text fill="black" font-size="32" x="26">
+    <text fill="black" x="26">
      σ   = 5.779455
     </text>
    </g>
   </g>
   <g transform="translate(119,3)" font-family="Arial" font-size="14" space="preserve">
    <g transform="translate(40,27) scale(0.398)">
-    <text fill="black" font-size="36">
+    <text fill="black">
      U projectile at 1.4 MeV/u on
     </text>
     <text fill="black" font-size="22" transform="translate(461,-19)">
      40
     </text>
-    <text fill="black" font-size="36" x="485">
+    <text fill="black" x="485">
      Ar target with 1 mbar pressure. (equilibrium)
     </text>
    </g>

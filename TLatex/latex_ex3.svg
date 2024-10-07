@@ -6,12 +6,12 @@
    <path d="M0,0H397V218H0Z" style="fill: #f2f2f2; stroke: black; stroke-width: 1;"></path>
    <g transform="translate(80,40) scale(0.175)">
     <g>
-     <text fill="black" font-size="62" transform="translate(17,-37)">
+     <text fill="black" transform="translate(17,-37)">
       2s
      </text>
      <path style="stroke: black; stroke-width: 6; fill: none;" d="M0,-22h95"></path>
      <g transform="translate(0,46)">
-      <text fill="black" font-size="62">
+      <text fill="black">
        πα
       </text>
       <text fill="black" font-size="37" transform="translate(80,-32)">
@@ -20,46 +20,46 @@
      </g>
     </g>
     <g transform="translate(151)">
-     <text fill="black" font-size="62" transform="translate(49,-37)">
+     <text fill="black" transform="translate(49,-37)">
       dσ
      </text>
      <path style="stroke: black; stroke-width: 6; fill: none;" d="M0,-22h167"></path>
-     <text fill="black" font-size="62" transform="translate(0,38)">
+     <text fill="black" transform="translate(0,38)">
       dcosθ
      </text>
     </g>
-    <text fill="black" font-size="62" x="349">
+    <text fill="black" x="349">
      (e
     </text>
     <text fill="black" font-size="37" transform="translate(407,-32)">
      +
     </text>
-    <text fill="black" font-size="62" x="430">
+    <text fill="black" x="430">
      e
     </text>
     <text fill="black" font-size="37" transform="translate(466,-32)">
      -
     </text>
-    <text fill="black" font-size="62" x="504">
+    <text fill="black" x="504">
      → f
     </text>
     <g transform="translate(608)">
-     <text fill="black" font-size="62" text-decoration="overline">
+     <text fill="black" text-decoration="overline">
       f
      </text>
     </g>
-    <text fill="black" font-size="62" x="654">
+    <text fill="black" x="654">
      ) =
     </text>
     <g transform="translate(756)">
      <path style="stroke: black; stroke-width: 6; fill: none;" d="M12,-97v149"></path>
      <g transform="translate(24)">
       <g transform="translate(25)">
-       <text fill="black" font-size="62" transform="translate(68,-37)">
+       <text fill="black" transform="translate(68,-37)">
         1
        </text>
        <path style="stroke: black; stroke-width: 6; fill: none;" d="M0,-22h164"></path>
-       <text fill="black" font-size="62" transform="translate(0,38)">
+       <text fill="black" transform="translate(0,38)">
         1 - Δα
        </text>
       </g>
@@ -69,40 +69,40 @@
     <text fill="black" font-size="37" transform="translate(1026,-67)">
      2
     </text>
-    <text fill="black" font-size="62" x="1072">
+    <text fill="black" x="1072">
      (1+cos
     </text>
     <text fill="black" font-size="37" transform="translate(1268,-32)">
      2
     </text>
-    <text fill="black" font-size="62" x="1289">
+    <text fill="black" x="1289">
      θ)
     </text>
    </g>
    <g transform="translate(59,113) scale(0.175)">
-    <text fill="black" font-size="62">
+    <text fill="black">
      + 4 Re
     </text>
     <g transform="translate(209)">
      <path style="stroke: black; stroke-width: 6; fill: none;" d="M24,-97a12,12,0,0,0,-12,12v50.5a12,12,0,0,1,-12,12a12,12,0,0,1,12,12v50.5a12,12,0,0,0,12,12"></path>
      <g transform="translate(24)">
       <g transform="translate(25)">
-       <text fill="black" font-size="62" transform="translate(67,-37)">
+       <text fill="black" transform="translate(67,-37)">
         2
        </text>
        <path style="stroke: black; stroke-width: 6; fill: none;" d="M0,-22h164"></path>
-       <text fill="black" font-size="62" transform="translate(0,38)">
+       <text fill="black" transform="translate(0,38)">
         1 - Δα
        </text>
       </g>
-      <text fill="black" font-size="62" x="220">
+      <text fill="black" x="220">
        χ(s)
       </text>
       <g transform="translate(355)">
        <path style="stroke: black; stroke-width: 6; fill: none;" d="M24,-68h-12v90h12"></path>
        <g transform="translate(24)">
         <g>
-         <text fill="black" font-size="62" transform="translate(1)">
+         <text fill="black" transform="translate(1)">
           g
          </text>
          <path style="stroke: black; stroke-width: 6; fill: none;" d="M8,-45L19,-57L30,-45"></path>
@@ -114,7 +114,7 @@
          ν
         </text>
         <g transform="translate(58)">
-         <text fill="black" font-size="62" transform="translate(1)">
+         <text fill="black" transform="translate(1)">
           g
          </text>
          <path style="stroke: black; stroke-width: 6; fill: none;" d="M8,-45L19,-57L30,-45"></path>
@@ -125,17 +125,17 @@
         <text fill="black" font-size="37" transform="translate(96,13)">
          ν
         </text>
-        <text fill="black" font-size="62" x="140">
+        <text fill="black" x="140">
          (1 + cos
         </text>
         <text fill="black" font-size="37" transform="translate(370,-32)">
          2
         </text>
-        <text fill="black" font-size="62" x="391">
+        <text fill="black" x="391">
          θ) + 2
         </text>
         <g transform="translate(581)">
-         <text fill="black" font-size="62" transform="translate(1)">
+         <text fill="black" transform="translate(1)">
           g
          </text>
          <path style="stroke: black; stroke-width: 6; fill: none;" d="M8,-45L19,-57L30,-45"></path>
@@ -147,7 +147,7 @@
          a
         </text>
         <g transform="translate(640)">
-         <text fill="black" font-size="62" transform="translate(1)">
+         <text fill="black" transform="translate(1)">
           g
          </text>
          <path style="stroke: black; stroke-width: 6; fill: none;" d="M8,-45L19,-57L30,-45"></path>
@@ -158,7 +158,7 @@
         <text fill="black" font-size="37" transform="translate(678,13)">
          a
         </text>
-        <text fill="black" font-size="62" x="724">
+        <text fill="black" x="724">
          cosθ)
         </text>
        </g>
@@ -169,12 +169,12 @@
     </g>
    </g>
    <g transform="translate(28,186) scale(0.175)">
-    <text fill="black" font-size="62">
+    <text fill="black">
      + 16
     </text>
     <g transform="translate(148)">
      <path style="stroke: black; stroke-width: 6; fill: none;" d="M12,-60v74"></path>
-     <text fill="black" font-size="62" x="25" transform="translate(24)">
+     <text fill="black" x="25" transform="translate(24)">
       χ(s)
      </text>
      <path style="stroke: black; stroke-width: 6; fill: none;" d="M171,-60v74"></path>
@@ -185,11 +185,11 @@
     <g transform="translate(379)">
      <path style="stroke: black; stroke-width: 6; fill: none;" d="M24,-68h-12v90h12"></path>
      <g transform="translate(24)">
-      <text fill="black" font-size="62">
+      <text fill="black">
        (
       </text>
       <g transform="translate(47)">
-       <text fill="black" font-size="62" transform="translate(1)">
+       <text fill="black" transform="translate(1)">
         g
        </text>
        <path style="stroke: black; stroke-width: 6; fill: none;" d="M8,-45L19,-57L30,-45"></path>
@@ -205,11 +205,11 @@
       <text fill="black" font-size="37" transform="translate(85,13)">
        a
       </text>
-      <text fill="black" font-size="62" x="144">
+      <text fill="black" x="144">
        +
       </text>
       <g transform="translate(207)">
-       <text fill="black" font-size="62" transform="translate(1)">
+       <text fill="black" transform="translate(1)">
         g
        </text>
        <path style="stroke: black; stroke-width: 6; fill: none;" d="M8,-45L19,-57L30,-45"></path>
@@ -225,11 +225,11 @@
       <text fill="black" font-size="37" transform="translate(245,13)">
        v
       </text>
-      <text fill="black" font-size="62" x="304">
+      <text fill="black" x="304">
        ) (
       </text>
       <g transform="translate(390)">
-       <text fill="black" font-size="62" transform="translate(1)">
+       <text fill="black" transform="translate(1)">
         g
        </text>
        <path style="stroke: black; stroke-width: 6; fill: none;" d="M8,-45L19,-57L30,-45"></path>
@@ -245,11 +245,11 @@
       <text fill="black" font-size="37" transform="translate(428,13)">
        a
       </text>
-      <text fill="black" font-size="62" x="483">
+      <text fill="black" x="483">
        +
       </text>
       <g transform="translate(546)">
-       <text fill="black" font-size="62" transform="translate(1)">
+       <text fill="black" transform="translate(1)">
         g
        </text>
        <path style="stroke: black; stroke-width: 6; fill: none;" d="M8,-45L19,-57L30,-45"></path>
@@ -265,17 +265,17 @@
       <text fill="black" font-size="37" transform="translate(584,13)">
        v
       </text>
-      <text fill="black" font-size="62" x="614">
+      <text fill="black" x="614">
        )(1+cos
       </text>
       <text fill="black" font-size="37" transform="translate(832,-32)">
        2
       </text>
-      <text fill="black" font-size="62" x="853">
+      <text fill="black" x="853">
        θ) + 8
       </text>
       <g transform="translate(1043)">
-       <text fill="black" font-size="62" transform="translate(1)">
+       <text fill="black" transform="translate(1)">
         g
        </text>
        <path style="stroke: black; stroke-width: 6; fill: none;" d="M8,-45L19,-57L30,-45"></path>
@@ -287,7 +287,7 @@
        a
       </text>
       <g transform="translate(1127)">
-       <text fill="black" font-size="62" transform="translate(1)">
+       <text fill="black" transform="translate(1)">
         g
        </text>
        <path style="stroke: black; stroke-width: 6; fill: none;" d="M8,-45L19,-57L30,-45"></path>
@@ -299,7 +299,7 @@
        a
       </text>
       <g transform="translate(1211)">
-       <text fill="black" font-size="62" transform="translate(1)">
+       <text fill="black" transform="translate(1)">
         g
        </text>
        <path style="stroke: black; stroke-width: 6; fill: none;" d="M8,-45L19,-57L30,-45"></path>
@@ -311,7 +311,7 @@
        v
       </text>
       <g transform="translate(1294)">
-       <text fill="black" font-size="62" transform="translate(1)">
+       <text fill="black" transform="translate(1)">
         g
        </text>
        <path style="stroke: black; stroke-width: 6; fill: none;" d="M8,-45L19,-57L30,-45"></path>
@@ -322,7 +322,7 @@
       <text fill="black" font-size="37" transform="translate(1332,13)">
        v
       </text>
-      <text fill="black" font-size="62" x="1351">
+      <text fill="black" x="1351">
        cosθ
       </text>
      </g>

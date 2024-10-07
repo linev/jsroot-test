@@ -75,13 +75,13 @@
      </g>
      <g font-family="Arial" font-size="24" space="preserve" transform="translate(558,38)">
       <g transform="translate(-104,7)">
-       <text fill="black" font-size="24">
+       <text fill="black">
         m
        </text>
        <text fill="black" font-size="14" transform="translate(21,5)">
         A
        </text>
-       <text fill="black" font-size="24" x="41">
+       <text fill="black" x="41">
         (GeV)
        </text>
       </g>
@@ -135,7 +135,7 @@
      </g>
      <g font-family="Arial" font-size="24" space="preserve" transform="translate(-41)">
       <g transform="rotate(270) translate(-48,9)">
-       <text fill="black" font-size="24">
+       <text fill="black">
         tanβ
        </text>
       </g>
@@ -147,19 +147,19 @@
   </g>
   <g font-family="Arial" font-size="30" space="preserve" font-weight="bold">
    <g transform="translate(183,105)">
-    <text fill="magenta" font-size="30">
+    <text fill="magenta">
      ← t → bH
     </text>
     <text fill="magenta" font-size="18" transform="translate(140,-16)">
      +
     </text>
-    <text fill="magenta" font-size="30" x="151">
+    <text fill="magenta" x="151">
      , H
     </text>
     <text fill="magenta" font-size="18" transform="translate(191,-16)">
      +
     </text>
-    <text fill="magenta" font-size="30" x="214">
+    <text fill="magenta" x="214">
      → τν
     </text>
    </g>
@@ -174,7 +174,7 @@
     <g>
      <path style="stroke: black; stroke-width: 2; fill: none;" d="M0,5a3,3,0,0,0,6,0v-25a3,3,0,1,1,6,0"></path>
     </g>
-    <text fill="black" font-size="18" x="18">
+    <text fill="black" x="18">
      Ldt = 300 fb
     </text>
     <text fill="black" font-size="11" transform="translate(120,-9)">
@@ -194,38 +194,38 @@
   </g>
   <g font-family="Arial" font-size="30" space="preserve" font-weight="bold">
    <g transform="translate(241,298)">
-    <text fill="red" font-size="30">
+    <text fill="red">
      gb → tH
     </text>
     <text fill="red" font-size="18" transform="translate(117,-16)">
      +
     </text>
-    <text fill="red" font-size="30" x="128">
+    <text fill="red" x="128">
      , H
     </text>
     <text fill="red" font-size="18" transform="translate(168,-16)">
      +
     </text>
-    <text fill="red" font-size="30" x="191">
+    <text fill="red" x="191">
      → τν
     </text>
    </g>
   </g>
   <g font-family="Arial" font-size="30" space="preserve" font-weight="bold">
    <g transform="translate(213,587)">
-    <text fill="blue" font-size="30">
+    <text fill="blue">
      gb → tH
     </text>
     <text fill="blue" font-size="18" transform="translate(117,-16)">
      +
     </text>
-    <text fill="blue" font-size="30" x="128">
+    <text fill="blue" x="128">
      , H
     </text>
     <text fill="blue" font-size="18" transform="translate(168,-16)">
      +
     </text>
-    <text fill="blue" font-size="30" x="191">
+    <text fill="blue" x="191">
      → tb
     </text>
    </g>

@@ -60,7 +60,7 @@
      <path d="M0,0v640M996,0v640M29,640H0M15,582H0M15,547H0M15,523H0M15,504H0M15,489H0M15,476H0M15,465H0M15,455H0M29,446H0M15,388H0M15,354H0M15,329H0M15,311H0M15,295H0M15,282H0M15,271H0M15,261H0M29,252H0M15,194H0M15,160H0M15,136H0M15,117H0M15,101H0M15,88H0M15,77H0M15,67H0M29,58H0M15,0H0M967,640H996M981,582H996M981,547H996M981,523H996M981,504H996M981,489H996M981,476H996M981,465H996M981,455H996M967,446H996M981,388H996M981,354H996M981,329H996M981,311H996M981,295H996M981,282H996M981,271H996M981,261H996M967,252H996M981,194H996M981,160H996M981,136H996M981,117H996M981,101H996M981,88H996M981,77H996M981,67H996M967,58H996M981,0H996" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="40" space="preserve">
       <g transform="translate(-71,657)">
-       <text fill="black" font-size="40">
+       <text fill="black">
         10
        </text>
        <text fill="black" font-size="24" transform="translate(43,-21)">
@@ -68,7 +68,7 @@
        </text>
       </g>
       <g transform="translate(-71,463)">
-       <text fill="black" font-size="40">
+       <text fill="black">
         10
        </text>
        <text fill="black" font-size="24" transform="translate(43,-21)">
@@ -76,7 +76,7 @@
        </text>
       </g>
       <g transform="translate(-70,269)">
-       <text fill="black" font-size="40">
+       <text fill="black">
         10
        </text>
        <text fill="black" font-size="24" transform="translate(43,-21)">
@@ -97,13 +97,13 @@
   </g>
   <g font-family="Arial" font-size="30" space="preserve">
    <g transform="translate(938,45)">
-    <text fill="black" font-size="30">
+    <text fill="black">
      138 fb
     </text>
     <text fill="black" font-size="18" transform="translate(84,-16)">
      -1
     </text>
-    <text fill="black" font-size="30" x="111">
+    <text fill="black" x="111">
      (13 TeV)
     </text>
    </g>
@@ -125,7 +125,7 @@
   </g>
   <g font-family="Arial" font-size="29" space="preserve">
    <g transform="translate(213,230)">
-    <text fill="black" font-size="29">
+    <text fill="black">
      μ-channel
     </text>
    </g>

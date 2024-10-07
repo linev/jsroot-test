@@ -181,7 +181,7 @@
      </g>
      <g font-family="Arial" font-size="20" space="preserve" transform="translate(-38)">
       <g transform="rotate(270) translate(-48,6)">
-       <text fill="black" font-size="20">
+       <text fill="black">
         σ/σ
        </text>
        <text fill="black" font-size="12" transform="translate(30,4)">
@@ -330,7 +330,7 @@
     </g>
     <g font-family="Arial" font-size="20" space="preserve" transform="translate(33)">
      <g transform="rotate(270) translate(-70,7)">
-      <text fill="black" font-size="20">
+      <text fill="black">
        -2Δ ln L
       </text>
      </g>
@@ -344,18 +344,18 @@
     CMS Preliminary
    </text>
    <g transform="translate(57,36) scale(0.800)">
-    <text fill="black" font-size="17">
+    <text fill="black">
      H → ZZ
     </text>
    </g>
    <g transform="translate(12,57) scale(0.800)">
     <g>
      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-6h2l2,7l2,-17h12v2"></path>
-     <text fill="black" font-size="17" transform="translate(8)">
+     <text fill="black" transform="translate(8)">
       s
      </text>
     </g>
-    <text fill="black" font-size="17" x="27">
+    <text fill="black" x="27">
      = 7 Tev, L = 5.1 fb
     </text>
     <text fill="black" font-size="10" transform="translate(164,-9)">
@@ -365,11 +365,11 @@
    <g transform="translate(12,78) scale(0.800)">
     <g>
      <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-6h2l2,7l2,-17h12v2"></path>
-     <text fill="black" font-size="17" transform="translate(8)">
+     <text fill="black" transform="translate(8)">
       s
      </text>
     </g>
-    <text fill="black" font-size="17" x="27">
+    <text fill="black" x="27">
      = 8 Tev, L = 5.3 fb
     </text>
     <text fill="black" font-size="10" transform="translate(164,-9)">

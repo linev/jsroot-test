@@ -364,7 +364,7 @@
        <path d="M0,0v330M11,330H0M6,310H0M6,299H0M6,291H0M6,285H0M6,280H0M6,275H0M6,271H0M6,268H0M11,265H0M6,246H0M6,234H0M6,226H0M6,220H0M6,215H0M6,210H0M6,207H0M6,203H0M11,200H0M6,181H0M6,169H0M6,161H0M6,155H0M6,150H0M6,145H0M6,142H0M6,138H0M11,135H0M6,116H0M6,104H0M6,96H0M6,90H0M6,85H0M6,81H0M6,77H0M6,73H0M11,70H0M6,51H0M6,39H0M6,31H0M6,25H0M6,20H0M6,16H0M6,12H0M6,9H0M11,6H0" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="16" space="preserve" font-weight="bold">
         <g transform="translate(-30,337)">
-         <text fill="black" font-size="16">
+         <text fill="black">
           10
          </text>
          <text fill="black" font-size="10" transform="translate(18,-8)">
@@ -372,7 +372,7 @@
          </text>
         </g>
         <g transform="translate(-30,272)">
-         <text fill="black" font-size="16">
+         <text fill="black">
           10
          </text>
          <text fill="black" font-size="10" transform="translate(18,-8)">
@@ -380,7 +380,7 @@
          </text>
         </g>
         <g transform="translate(-29,207)">
-         <text fill="black" font-size="16">
+         <text fill="black">
           10
          </text>
          <text fill="black" font-size="10" transform="translate(18,-8)">
@@ -394,7 +394,7 @@
          10
         </text>
         <g transform="translate(-26,13)">
-         <text fill="black" font-size="16">
+         <text fill="black">
           10
          </text>
          <text fill="black" font-size="10" transform="translate(18,-8)">
@@ -404,13 +404,13 @@
        </g>
        <g font-family="Arial" font-size="16" space="preserve" font-weight="bold" transform="translate(-38)">
         <g transform="rotate(270) translate(-21,5)">
-         <text fill="black" font-size="16">
+         <text fill="black">
           |d
          </text>
          <text fill="black" font-size="10" transform="translate(14,3)">
           i
          </text>
-         <text fill="black" font-size="16" x="17">
+         <text fill="black" x="17">
           |
          </text>
         </g>
@@ -420,13 +420,13 @@
     </g>
     <g transform="translate(47,2)" font-family="Arial" font-size="20" space="preserve">
      <g transform="translate(115,20) scale(0.888)">
-      <text fill="black" font-size="23">
+      <text fill="black">
        TSVDUnfold |d
       </text>
       <text fill="black" font-size="14" transform="translate(154,5)">
        i
       </text>
-      <text fill="black" font-size="23" x="157">
+      <text fill="black" x="157">
        |
       </text>
      </g>

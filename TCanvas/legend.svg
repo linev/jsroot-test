@@ -130,19 +130,19 @@
    </text>
    <path d="M14,99H100" style="stroke: blue; stroke-width: 4;"></path>
    <g transform="translate(114,104) scale(0.442)">
-    <text fill="black" font-size="34">
+    <text fill="black">
      Function abs(
     </text>
     <g transform="translate(208)">
-     <text fill="black" font-size="34" transform="translate(0,-20)">
+     <text fill="black" transform="translate(0,-20)">
       sin(x)
      </text>
      <path style="stroke: black; stroke-width: 2; fill: none;" d="M0,-12h82"></path>
-     <text fill="black" font-size="34" transform="translate(34,21)">
+     <text fill="black" transform="translate(34,21)">
       x
      </text>
     </g>
-    <text fill="black" font-size="34" x="293">
+    <text fill="black" x="293">
      )
     </text>
    </g>
