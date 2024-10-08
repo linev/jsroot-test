@@ -160,10 +160,10 @@
   </g>
   <g transform="translate(3,3)" font-family="Arial" font-size="14" space="preserve">
    <g transform="translate(42,28) scale(0.371)">
-    <text fill="black" transform="translate(53,-23)">
+    <text fill="black" font-size="39" transform="translate(53,-23)">
      Histogram with negative and positive contents. Six contours are defined.
     </text>
-    <text fill="black" transform="translate(0,24)">
+    <text fill="black" font-size="39" transform="translate(0,24)">
      It is plotted with options CONT LIST to retrieve the contours points in TGraphs
     </text>
    </g>

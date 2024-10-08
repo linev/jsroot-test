@@ -111,13 +111,13 @@
   <g transform="translate(744,52)" font-family="Arial" font-size="26" space="preserve">
    <path d="M0,0H432V288H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <g transform="translate(22,30) scale(0.889)">
-    <text fill="black">
+    <text fill="black" font-size="30">
      χ
     </text>
     <text fill="black" font-size="18" transform="translate(17,-16)">
      2
     </text>
-    <text fill="black" x="39">
+    <text fill="black" font-size="30" x="39">
      / ndf
     </text>
    </g>
@@ -134,7 +134,7 @@
     Bkg0
    </text>
    <g transform="translate(233,100) scale(0.889)">
-    <text fill="black" x="12">
+    <text fill="black" font-size="30" x="12">
      -1.723 ± 3.178
     </text>
    </g>
@@ -142,7 +142,7 @@
     Bkg1
    </text>
    <g transform="translate(254,136) scale(0.889)">
-    <text fill="black" x="12">
+    <text fill="black" font-size="30" x="12">
      55.72 ± 8.54
     </text>
    </g>
@@ -150,7 +150,7 @@
     Bkg2
    </text>
    <g transform="translate(249,172) scale(0.889)">
-    <text fill="black" x="12">
+    <text fill="black" font-size="30" x="12">
      -19.41 ± 4.10
     </text>
    </g>
@@ -158,27 +158,27 @@
     Gauss scale
    </text>
    <g transform="translate(242,208) scale(0.889)">
-    <text fill="black" x="12">
+    <text fill="black" font-size="30" x="12">
      8.415 ± 1.290
     </text>
    </g>
    <g transform="translate(22,244) scale(0.889)">
-    <text fill="black">
+    <text fill="black" font-size="30">
      Gauss σ
     </text>
    </g>
    <g transform="translate(183,244) scale(0.889)">
-    <text fill="black" x="12">
+    <text fill="black" font-size="30" x="12">
      0.07243 ± 0.01162
     </text>
    </g>
    <g transform="translate(22,280) scale(0.889)">
-    <text fill="black">
+    <text fill="black" font-size="30">
      Gauss μ
     </text>
    </g>
    <g transform="translate(212,280) scale(0.889)">
-    <text fill="black" x="12">
+    <text fill="black" font-size="30" x="12">
      0.9845 ± 0.0104
     </text>
    </g>

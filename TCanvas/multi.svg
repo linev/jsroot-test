@@ -230,7 +230,7 @@
        <path d="M0,0h797M0,-768h797M0,-12V0M26,-23V0M199,-12V0M301,-12V0M372,-12V0M428,-12V0M474,-12V0M512,-12V0M545,-12V0M575,-12V0M601,-23V0M774,-12V0M0,-756V-768M26,-745V-768M199,-756V-768M301,-756V-768M372,-756V-768M428,-756V-768M474,-756V-768M512,-756V-768M545,-756V-768M575,-756V-768M601,-745V-768M774,-756V-768" style="stroke: black; stroke-width: 1;"></path>
        <g font-family="Arial" font-size="49" space="preserve">
         <g transform="translate(-9,59)">
-         <text fill="black">
+         <text fill="black" font-size="49">
           10
          </text>
          <text fill="black" font-size="29" transform="translate(53,-26)">
@@ -238,7 +238,7 @@
          </text>
         </g>
         <g transform="translate(566,59)">
-         <text fill="black">
+         <text fill="black" font-size="49">
           10
          </text>
          <text fill="black" font-size="29" transform="translate(53,-26)">
@@ -248,13 +248,13 @@
        </g>
        <g font-family="Arial" font-size="49" space="preserve" transform="translate(797,98)">
         <g transform="translate(-232,15)">
-         <text fill="black">
+         <text fill="black" font-size="49">
           p
          </text>
          <text fill="black" font-size="29" transform="translate(29,10)">
           T,jet
          </text>
-         <text fill="black" x="107">
+         <text fill="black" font-size="49" x="107">
           [GeV]
          </text>
         </g>
@@ -299,7 +299,7 @@
      </text>
      <path d="M10,64H54" style="stroke: red; stroke-width: 4; stroke-dasharray: 5,3,1,3;"></path>
      <g transform="translate(64,74)">
-      <text fill="black">
+      <text fill="black" font-size="35">
        α
       </text>
       <text fill="black" font-size="21" transform="translate(21,7)">
@@ -323,22 +323,22 @@
      <g transform="translate(36,37)">
       <g>
        <path style="stroke: black; stroke-width: 2; fill: none;" d="M0,-12h4l4,13l4,-34h25v4"></path>
-       <text fill="black" transform="translate(16)">
+       <text fill="black" font-size="34" transform="translate(16)">
         s
        </text>
       </g>
-      <text fill="black" x="42">
+      <text fill="black" font-size="34" x="42">
        = 7 TeV
       </text>
      </g>
      <g transform="translate(36,71)">
-      <text fill="black">
+      <text fill="black" font-size="34">
        Anti-k
       </text>
       <text fill="black" font-size="20" transform="translate(92,7)">
        t
       </text>
-      <text fill="black" x="112">
+      <text fill="black" font-size="34" x="112">
        R= 0.4
       </text>
      </g>

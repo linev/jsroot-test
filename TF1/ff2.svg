@@ -34,7 +34,7 @@
      <path d="M0,0h637M0,-14V0M43,-7V0M68,-7V0M86,-7V0M99,-7V0M111,-7V0M120,-7V0M128,-7V0M136,-7V0M142,-14V0M185,-7V0M210,-7V0M228,-7V0M242,-7V0M253,-7V0M263,-7V0M271,-7V0M278,-7V0M285,-14V0M327,-7V0M352,-7V0M370,-7V0M384,-7V0M395,-7V0M405,-7V0M413,-7V0M420,-7V0M427,-14V0M470,-7V0M495,-7V0M512,-7V0M526,-7V0M538,-7V0M547,-7V0M555,-7V0M563,-7V0M569,-14V0M612,-7V0M637,-7V0" style="stroke: black; stroke-width: 1;"></path>
      <g font-family="Arial" font-size="20" space="preserve">
       <g transform="translate(-16,26)">
-       <text fill="black">
+       <text fill="black" font-size="20">
         10
        </text>
        <text fill="black" font-size="12" transform="translate(22,-10)">
@@ -42,7 +42,7 @@
        </text>
       </g>
       <g transform="translate(126,26)">
-       <text fill="black">
+       <text fill="black" font-size="20">
         10
        </text>
        <text fill="black" font-size="12" transform="translate(22,-10)">
@@ -50,7 +50,7 @@
        </text>
       </g>
       <g transform="translate(269,26)">
-       <text fill="black">
+       <text fill="black" font-size="20">
         10
        </text>
        <text fill="black" font-size="12" transform="translate(22,-10)">
@@ -157,13 +157,13 @@
   </g>
   <g transform="translate(119,3)" font-family="Arial" font-size="17" space="preserve">
    <g transform="translate(40,29) scale(0.486)">
-    <text fill="black">
+    <text fill="black" font-size="36">
      U projectile at 200 MeV/u on
     </text>
     <text fill="black" font-size="22" transform="translate(472,-19)">
      12
     </text>
-    <text fill="black" x="495">
+    <text fill="black" font-size="36" x="495">
      C target with 0 mbar pressure.
     </text>
    </g>

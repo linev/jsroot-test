@@ -40,19 +40,19 @@
      </g>
      <g font-family="Arial" font-size="28" space="preserve" transform="translate(960,45)">
       <g transform="translate(-133,8)">
-       <text fill="black">
+       <text fill="black" font-size="28">
         p
        </text>
        <text fill="black" font-size="17" transform="translate(17,6)">
         T
        </text>
-       <text fill="black" x="38">
+       <text fill="black" font-size="28" x="38">
         (GeV/
        </text>
-       <text font-style="italic" fill="black" transform="translate(109)">
+       <text font-style="italic" fill="black" font-size="28" transform="translate(109)">
         c
        </text>
-       <text fill="black" x="123">
+       <text fill="black" font-size="28" x="123">
         )
        </text>
       </g>
@@ -95,12 +95,12 @@
      <g font-family="Arial" font-size="28" space="preserve" transform="translate(-67)">
       <g transform="rotate(270) translate(-273,8)">
        <g>
-        <text fill="black" transform="translate(12,-17)">
+        <text fill="black" font-size="28" transform="translate(12,-17)">
          1
         </text>
         <path style="stroke: black; stroke-width: 2; fill: none;" d="M0,-10h35"></path>
         <g transform="translate(0,17)">
-         <text fill="black">
+         <text fill="black" font-size="28">
           N
          </text>
          <text fill="black" font-size="17" transform="translate(21,6)">
@@ -108,19 +108,19 @@
          </text>
         </g>
        </g>
-       <text fill="black" x="38">
+       <text fill="black" font-size="28" x="38">
         d
        </text>
        <text fill="black" font-size="17" transform="translate(55,-15)">
         2
        </text>
-       <text fill="black" x="64">
+       <text fill="black" font-size="28" x="64">
         N/dp
        </text>
        <text fill="black" font-size="17" transform="translate(125,6)">
         t
        </text>
-       <text fill="black" x="130">
+       <text fill="black" font-size="28" x="130">
         dy (Gev/c)
        </text>
        <text fill="black" font-size="17" transform="translate(259,-15)">

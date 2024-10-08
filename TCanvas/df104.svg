@@ -46,13 +46,13 @@
        </g>
        <g font-family="Arial" font-size="16" space="preserve" transform="translate(565,26)">
         <g transform="translate(-77,5)">
-         <text fill="black" x="6">
+         <text fill="black" font-size="16" x="6">
           m
          </text>
          <text fill="black" font-size="10" transform="translate(20,3)">
           γγ
          </text>
-         <text fill="black" x="36">
+         <text fill="black" font-size="16" x="36">
           [GeV]
          </text>
         </g>
@@ -128,11 +128,11 @@
      <g transform="translate(126,104)">
       <g>
        <path style="stroke: black; stroke-width: 1; fill: none;" d="M0,-6h2l2,7l2,-17h12v2"></path>
-       <text fill="black" transform="translate(8)">
+       <text fill="black" font-size="17" transform="translate(8)">
         s
        </text>
       </g>
-      <text fill="black" x="27">
+      <text fill="black" font-size="17" x="27">
        = 13 TeV, 10 fb
       </text>
       <text fill="black" font-size="10" transform="translate(142,-9)">
@@ -181,13 +181,13 @@
        </g>
        <g font-family="Arial" font-size="30" space="preserve" transform="translate(565,48)">
         <g transform="translate(-133,9)">
-         <text fill="black">
+         <text fill="black" font-size="30">
           m
          </text>
          <text fill="black" font-size="18" transform="translate(27,6)">
           γγ
          </text>
-         <text fill="black" x="57">
+         <text fill="black" font-size="30" x="57">
           [GeV]
          </text>
         </g>
