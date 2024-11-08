@@ -1,0 +1,561 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+ <path d="M0,0H1200V800H0Z" style="fill: rgb(243, 241, 174);"></path>
+ <g>
+  <g>
+   <path d="M703,400L702,391L699,382L695,374L689,366L682,358L673,352L663,346L651,341L600,400Z" style="fill: rgb(255, 255, 255);"></path>
+   <path d="M703,400L702,391L699,382L695,374L689,366L682,358L673,352L663,346L651,341L600,400L703,400" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: none;"></path>
+   <path d="M651,341L639,337L627,334L613,332L600,331L587,332L573,334L561,337L549,341L600,400Z" style="fill: rgb(204, 204, 204);"></path>
+   <path d="M651,341L639,337L627,334L613,332L600,331L587,332L573,334L561,337L549,341L600,400L651,341" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: none;"></path>
+   <path d="M549,341L537,346L527,352L518,358L511,366L505,374L501,382L498,391L497,400L600,400Z" style="fill: rgb(153, 153, 153);"></path>
+   <path d="M549,341L537,346L527,352L518,358L511,366L505,374L501,382L498,391L497,400L600,400L549,341" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: none;"></path>
+   <path d="M497,400L498,409L501,418L505,426L511,434L518,442L527,448L537,454L549,459L600,400Z" style="fill: rgb(102, 102, 102);"></path>
+   <path d="M497,400L498,409L501,418L505,426L511,434L518,442L527,448L537,454L549,459L600,400L497,400" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: none;"></path>
+   <path d="M549,459L561,463L573,466L587,468L600,469L613,468L627,466L639,463L651,459L600,400Z" style="fill: rgb(51, 51, 51);"></path>
+   <path d="M549,459L561,463L573,466L587,468L600,469L613,468L627,466L639,463L651,459L600,400L549,459" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: none;"></path>
+   <path d="M651,459L663,454L673,448L682,442L689,434L695,426L699,418L702,409L703,400L600,400Z" style="fill: rgb(0, 0, 0);"></path>
+   <path d="M651,459L663,454L673,448L682,442L689,434L695,426L699,418L702,409L703,400L600,400L651,459" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="16" xml:space="preserve" font-weight="bold"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(651,379) rotate(-40)">kWhite</text></g>
+   <g font-family="Arial" font-size="16" xml:space="preserve" font-weight="bold"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(600,345)">kGray</text></g>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(254, 254, 254)" text-anchor="middle" dominant-baseline="middle" transform="translate(538,379)">+1</text></g>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(254, 254, 254)" text-anchor="middle" dominant-baseline="middle" transform="translate(538,421)">+2</text></g>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(254, 254, 254)" text-anchor="middle" dominant-baseline="middle" transform="translate(600,441)">+3</text></g>
+   <g font-family="Arial" font-size="16" xml:space="preserve" font-weight="bold"><text fill="rgb(254, 254, 254)" text-anchor="middle" dominant-baseline="middle" transform="translate(651,424) rotate(40)">kBlack</text></g>
+   <path d="M1160,480L1091,507" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(1160,480) rotate(90)">kMagenta</text></g>
+   <path d="M857,400L855,392L850,384L841,378L830,375L817,373L805,375L794,378L785,384L779,392L777,400L779,408L785,416L794,422L805,425L817,427L830,425L841,422L850,416L855,408Z" style="fill: rgb(255, 204, 255);"></path>
+   <path d="M857,400L855,392L850,384L841,378L830,375L817,373L805,375L794,378L785,384L779,392L777,400L779,408L785,416L794,422L805,425L817,427L830,425L841,422L850,416L855,408L857,400" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(817,400) rotate(90)">-10</text></g>
+   <path d="M926,429L924,420L918,413L909,407L898,403L886,402L873,403L862,407L853,413L848,420L846,429L848,437L853,444L862,450L873,454L886,455L898,454L909,450L918,444L924,437Z" style="fill: rgb(255, 153, 255);"></path>
+   <path d="M926,429L924,420L918,413L909,407L898,403L886,402L873,403L862,407L853,413L848,420L846,429L848,437L853,444L862,450L873,454L886,455L898,454L909,450L918,444L924,437L926,429" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(886,429) rotate(90)">-9</text></g>
+   <path d="M926,371L924,363L918,356L909,350L898,346L886,345L873,346L862,350L853,356L848,363L846,371L848,380L853,387L862,393L873,397L886,398L898,397L909,393L918,387L924,380Z" style="fill: rgb(204, 153, 204);"></path>
+   <path d="M926,371L924,363L918,356L909,350L898,346L886,345L873,346L862,350L853,356L848,363L846,371L848,380L853,387L862,393L873,397L886,398L898,397L909,393L918,387L924,380L926,371" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(886,371) rotate(90)">-8</text></g>
+   <path d="M994,457L992,449L987,441L978,436L967,432L954,430L942,432L931,436L922,441L916,449L914,457L916,465L922,473L931,479L942,483L954,484L967,483L978,479L987,473L992,465Z" style="fill: rgb(255, 102, 255);"></path>
+   <path d="M994,457L992,449L987,441L978,436L967,432L954,430L942,432L931,436L922,441L916,449L914,457L916,465L922,473L931,479L942,483L954,484L967,483L978,479L987,473L992,465L994,457" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(954,457) rotate(90)">-7</text></g>
+   <path d="M994,400L992,392L987,384L978,378L967,375L954,373L942,375L931,378L922,384L916,392L914,400L916,408L922,416L931,422L942,425L954,427L967,425L978,422L987,416L992,408Z" style="fill: rgb(204, 102, 204);"></path>
+   <path d="M994,400L992,392L987,384L978,378L967,375L954,373L942,375L931,378L922,384L916,392L914,400L916,408L922,416L931,422L942,425L954,427L967,425L978,422L987,416L992,408L994,400" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(954,400) rotate(90)">-6</text></g>
+   <path d="M994,343L992,335L987,327L978,321L967,317L954,316L942,317L931,321L922,327L916,335L914,343L916,351L922,359L931,364L942,368L954,370L967,368L978,364L987,359L992,351Z" style="fill: rgb(153, 102, 153);"></path>
+   <path d="M994,343L992,335L987,327L978,321L967,317L954,316L942,317L931,321L922,327L916,335L914,343L916,351L922,359L931,364L942,368L954,370L967,368L978,364L987,359L992,351L994,343" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(954,343) rotate(90)">-5</text></g>
+   <path d="M1063,484L1061,476L1055,468L1046,462L1035,458L1023,457L1010,458L999,462L990,468L985,476L983,484L985,492L990,499L999,505L1010,509L1023,510L1035,509L1046,505L1055,499L1061,492Z" style="fill: rgb(255, 51, 255);"></path>
+   <path d="M1063,484L1061,476L1055,468L1046,462L1035,458L1023,457L1010,458L999,462L990,468L985,476L983,484L985,492L990,499L999,505L1010,509L1023,510L1035,509L1046,505L1055,499L1061,492L1063,484" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(1023,484) rotate(90)">-4</text></g>
+   <path d="M1063,427L1061,418L1055,411L1046,405L1035,401L1023,400L1010,401L999,405L990,411L985,418L983,427L985,435L990,442L999,448L1010,452L1023,453L1035,452L1046,448L1055,442L1061,435Z" style="fill: rgb(204, 51, 204);"></path>
+   <path d="M1063,427L1061,418L1055,411L1046,405L1035,401L1023,400L1010,401L999,405L990,411L985,418L983,427L985,435L990,442L999,448L1010,452L1023,453L1035,452L1046,448L1055,442L1061,435L1063,427" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(1023,427) rotate(90)">-3</text></g>
+   <path d="M1063,373L1061,365L1055,358L1046,352L1035,348L1023,347L1010,348L999,352L990,358L985,365L983,373L985,382L990,389L999,395L1010,399L1023,400L1035,399L1046,395L1055,389L1061,382Z" style="fill: rgb(153, 51, 153);"></path>
+   <path d="M1063,373L1061,365L1055,358L1046,352L1035,348L1023,347L1010,348L999,352L990,358L985,365L983,373L985,382L990,389L999,395L1010,399L1023,400L1035,399L1046,395L1055,389L1061,382L1063,373" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(1023,373) rotate(90)">-2</text></g>
+   <path d="M1063,316L1061,308L1055,301L1046,295L1035,291L1023,290L1010,291L999,295L990,301L985,308L983,316L985,324L990,332L999,338L1010,342L1023,343L1035,342L1046,338L1055,332L1061,324Z" style="fill: rgb(102, 51, 102);"></path>
+   <path d="M1063,316L1061,308L1055,301L1046,295L1035,291L1023,290L1010,291L999,295L990,301L985,308L983,316L985,324L990,332L999,338L1010,342L1023,343L1035,342L1046,338L1055,332L1061,324L1063,316" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(1023,316) rotate(90)">-1</text></g>
+   <path d="M1131,507L1129,498L1124,491L1115,485L1104,481L1091,480L1079,481L1068,485L1059,491L1053,498L1051,507L1053,515L1059,522L1068,528L1079,532L1091,533L1104,532L1115,528L1124,522L1129,515Z" style="fill: rgb(255, 0, 255);"></path>
+   <path d="M1131,507L1129,498L1124,491L1115,485L1104,481L1091,480L1079,481L1068,485L1059,491L1053,498L1051,507L1053,515L1059,522L1068,528L1079,532L1091,533L1104,532L1115,528L1124,522L1129,515L1131,507" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(1091,507) rotate(90)">0</text></g>
+   <path d="M1131,453L1129,445L1124,438L1115,432L1104,428L1091,427L1079,428L1068,432L1059,438L1053,445L1051,453L1053,462L1059,469L1068,475L1079,479L1091,480L1104,479L1115,475L1124,469L1129,462Z" style="fill: rgb(204, 0, 204);"></path>
+   <path d="M1131,453L1129,445L1124,438L1115,432L1104,428L1091,427L1079,428L1068,432L1059,438L1053,445L1051,453L1053,462L1059,469L1068,475L1079,479L1091,480L1104,479L1115,475L1124,469L1129,462L1131,453" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(1091,453) rotate(90)">+1</text></g>
+   <path d="M1131,400L1129,392L1124,384L1115,378L1104,375L1091,373L1079,375L1068,378L1059,384L1053,392L1051,400L1053,408L1059,416L1068,422L1079,425L1091,427L1104,425L1115,422L1124,416L1129,408Z" style="fill: rgb(153, 0, 153);"></path>
+   <path d="M1131,400L1129,392L1124,384L1115,378L1104,375L1091,373L1079,375L1068,378L1059,384L1053,392L1051,400L1053,408L1059,416L1068,422L1079,425L1091,427L1104,425L1115,422L1124,416L1129,408L1131,400" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(1091,400) rotate(90)">+2</text></g>
+   <path d="M1131,347L1129,338L1124,331L1115,325L1104,321L1091,320L1079,321L1068,325L1059,331L1053,338L1051,347L1053,355L1059,362L1068,368L1079,372L1091,373L1104,372L1115,368L1124,362L1129,355Z" style="fill: rgb(102, 0, 102);"></path>
+   <path d="M1131,347L1129,338L1124,331L1115,325L1104,321L1091,320L1079,321L1068,325L1059,331L1053,338L1051,347L1053,355L1059,362L1068,368L1079,372L1091,373L1104,372L1115,368L1124,362L1129,355L1131,347" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(1091,347) rotate(90)">+3</text></g>
+   <path d="M1131,293L1129,285L1124,278L1115,272L1104,268L1091,267L1079,268L1068,272L1059,278L1053,285L1051,293L1053,302L1059,309L1068,315L1079,319L1091,320L1104,319L1115,315L1124,309L1129,302Z" style="fill: rgb(51, 0, 51);"></path>
+   <path d="M1131,293L1129,285L1124,278L1115,272L1104,268L1091,267L1079,268L1068,272L1059,278L1053,285L1051,293L1053,302L1059,309L1068,315L1079,319L1091,320L1104,319L1115,315L1124,309L1129,302L1131,293" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(1091,293) rotate(90)">+4</text></g>
+   <path d="M1093,210L1008,203" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(1093,210) rotate(60)">kPink</text></g>
+   <path d="M704,360L675,327L712,313L741,346Z" style="fill: rgb(255, 51, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(708,336) rotate(60)">-9</text></g>
+   <path d="M741,346L712,313L749,299L777,332Z" style="fill: rgb(204, 0, 102);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(745,322) rotate(60)">-8</text></g>
+   <path d="M777,332L749,299L785,285L814,318Z" style="fill: rgb(102, 0, 51);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(781,308) rotate(60)">-7</text></g>
+   <path d="M814,318L785,285L822,271L850,304Z" style="fill: rgb(153, 0, 51);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(818,294) rotate(60)">-6</text></g>
+   <path d="M850,304L822,271L858,257L887,290Z" style="fill: rgb(204, 51, 102);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(854,280) rotate(60)">-5</text></g>
+   <path d="M887,290L858,257L895,242L924,275Z" style="fill: rgb(255, 102, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(891,266) rotate(60)">-4</text></g>
+   <path d="M924,275L895,242L932,228L960,261Z" style="fill: rgb(255, 0, 102);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(928,252) rotate(60)">-3</text></g>
+   <path d="M960,261L932,228L968,214L997,247Z" style="fill: rgb(255, 51, 102);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(964,238) rotate(60)">-2</text></g>
+   <path d="M997,247L968,214L1005,200L1034,233Z" style="fill: rgb(204, 0, 51);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(1001,224) rotate(60)">-1</text></g>
+   <path d="M1034,233L1005,200L1042,186L1070,219Z" style="fill: rgb(255, 0, 51);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(1038,210) rotate(60)">0</text></g>
+   <path d="M704,360L732,393L769,379L741,346Z" style="fill: rgb(255, 153, 204);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(737,369) rotate(60)">+1</text></g>
+   <path d="M741,346L769,379L806,365L777,332Z" style="fill: rgb(204, 102, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(773,355) rotate(60)">+2</text></g>
+   <path d="M777,332L806,365L842,351L814,318Z" style="fill: rgb(153, 51, 102);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(810,341) rotate(60)">+3</text></g>
+   <path d="M814,318L842,351L879,337L850,304Z" style="fill: rgb(153, 0, 102);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(846,327) rotate(60)">+4</text></g>
+   <path d="M850,304L879,337L916,323L887,290Z" style="fill: rgb(204, 51, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(883,313) rotate(60)">+5</text></g>
+   <path d="M887,290L916,323L952,308L924,275Z" style="fill: rgb(255, 102, 204);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(920,299) rotate(60)">+6</text></g>
+   <path d="M924,275L952,308L989,294L960,261Z" style="fill: rgb(255, 0, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(956,285) rotate(60)">+7</text></g>
+   <path d="M960,261L989,294L1025,280L997,247Z" style="fill: rgb(204, 0, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(993,271) rotate(60)">+8</text></g>
+   <path d="M997,247L1025,280L1062,266L1034,233Z" style="fill: rgb(255, 51, 204);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(1029,257) rotate(60)">+9</text></g>
+   <path d="M1034,233L1062,266L1099,252L1070,219Z" style="fill: rgb(255, 0, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(1066,243) rotate(60)">+10</text></g>
+   <path d="M675,327L1042,186L1099,252L732,393L675,327M785,285L842,351M895,242L952,308M1005,200L1062,266M932,228L989,294M924,275L1070,219M984,117L984,170" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(984,117) rotate(30)">kRed</text></g>
+   <path d="M749,275L747,266L741,259L732,253L721,249L709,248L696,249L685,253L676,259L671,266L669,275L671,283L676,290L685,296L696,300L709,301L721,300L732,296L741,290L747,283Z" style="fill: rgb(255, 204, 204);"></path>
+   <path d="M749,275L747,266L741,259L732,253L721,249L709,248L696,249L685,253L676,259L671,266L669,275L671,283L676,290L685,296L696,300L709,301L721,300L732,296L741,290L747,283L749,275" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(709,275) rotate(30)">-10</text></g>
+   <path d="M820,249L818,241L812,234L803,228L792,224L780,223L768,224L756,228L748,234L742,241L740,249L742,258L748,265L756,271L768,275L780,276L792,275L803,271L812,265L818,258Z" style="fill: rgb(255, 153, 153);"></path>
+   <path d="M820,249L818,241L812,234L803,228L792,224L780,223L768,224L756,228L748,234L742,241L740,249L742,258L748,265L756,271L768,275L780,276L792,275L803,271L812,265L818,258L820,249" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(780,249) rotate(30)">-9</text></g>
+   <path d="M746,221L744,213L738,205L729,199L718,195L706,194L693,195L682,199L673,205L668,213L666,221L668,229L673,236L682,242L693,246L706,247L718,246L729,242L738,236L744,229Z" style="fill: rgb(204, 153, 153);"></path>
+   <path d="M746,221L744,213L738,205L729,199L718,195L706,194L693,195L682,199L673,205L668,213L666,221L668,229L673,236L682,242L693,246L706,247L718,246L729,242L738,236L744,229L746,221" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(706,221) rotate(30)">-8</text></g>
+   <path d="M891,224L889,216L884,208L875,202L864,199L851,197L839,199L828,202L819,208L813,216L811,224L813,232L819,240L828,246L839,249L851,251L864,249L875,246L884,240L889,232Z" style="fill: rgb(255, 102, 102);"></path>
+   <path d="M891,224L889,216L884,208L875,202L864,199L851,197L839,199L828,202L819,208L813,216L811,224L813,232L819,240L828,246L839,249L851,251L864,249L875,246L884,240L889,232L891,224" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(851,224) rotate(30)">-7</text></g>
+   <path d="M817,195L815,187L810,180L801,174L790,170L777,169L765,170L754,174L745,180L739,187L737,195L739,204L745,211L754,217L765,221L777,222L790,221L801,217L810,211L815,204Z" style="fill: rgb(204, 102, 102);"></path>
+   <path d="M817,195L815,187L810,180L801,174L790,170L777,169L765,170L754,174L745,180L739,187L737,195L739,204L745,211L754,217L765,221L777,222L790,221L801,217L810,211L815,204L817,195" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(777,195) rotate(30)">-6</text></g>
+   <path d="M743,167L741,159L735,151L726,145L715,142L703,140L691,142L679,145L671,151L665,159L663,167L665,175L671,183L679,188L691,192L703,194L715,192L726,188L735,183L741,175Z" style="fill: rgb(153, 102, 102);"></path>
+   <path d="M743,167L741,159L735,151L726,145L715,142L703,140L691,142L679,145L671,151L665,159L663,167L665,175L671,183L679,188L691,192L703,194L715,192L726,188L735,183L741,175L743,167" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(703,167) rotate(30)">-5</text></g>
+   <path d="M960,198L958,190L953,182L944,176L933,172L920,171L908,172L897,176L888,182L882,190L880,198L882,206L888,213L897,219L908,223L920,224L933,223L944,219L953,213L958,206Z" style="fill: rgb(255, 51, 51);"></path>
+   <path d="M960,198L958,190L953,182L944,176L933,172L920,171L908,172L897,176L888,182L882,190L880,198L882,206L888,213L897,219L908,223L920,224L933,223L944,219L953,213L958,206L960,198" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(920,198) rotate(30)">-4</text></g>
+   <path d="M886,169L884,161L878,154L870,148L858,144L846,143L834,144L823,148L814,154L808,161L806,169L808,177L814,185L823,191L834,195L846,196L858,195L870,191L878,185L884,177Z" style="fill: rgb(204, 51, 51);"></path>
+   <path d="M886,169L884,161L878,154L870,148L858,144L846,143L834,144L823,148L814,154L808,161L806,169L808,177L814,185L823,191L834,195L846,196L858,195L870,191L878,185L884,177L886,169" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(846,169) rotate(30)">-3</text></g>
+   <path d="M817,143L815,134L809,127L800,121L789,117L777,116L764,117L753,121L744,127L739,134L737,143L739,151L744,158L753,164L764,168L777,169L789,168L800,164L809,158L815,151Z" style="fill: rgb(153, 51, 51);"></path>
+   <path d="M817,143L815,134L809,127L800,121L789,117L777,116L764,117L753,121L744,127L739,134L737,143L739,151L744,158L753,164L764,168L777,169L789,168L800,164L809,158L815,151L817,143" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(777,143) rotate(30)">-2</text></g>
+   <path d="M743,114L741,106L735,98L726,92L715,89L703,87L690,89L679,92L670,98L665,106L663,114L665,122L670,130L679,136L690,139L703,141L715,139L726,136L735,130L741,122Z" style="fill: rgb(102, 51, 51);"></path>
+   <path d="M743,114L741,106L735,98L726,92L715,89L703,87L690,89L679,92L670,98L665,106L663,114L665,122L670,130L679,136L690,139L703,141L715,139L726,136L735,130L741,122L743,114" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(703,114) rotate(30)">-1</text></g>
+   <path d="M1024,170L1022,161L1017,154L1008,148L997,144L984,143L972,144L961,148L952,154L946,161L944,170L946,178L952,185L961,191L972,195L984,196L997,195L1008,191L1017,185L1022,178Z" style="fill: rgb(255, 0, 0);"></path>
+   <path d="M1024,170L1022,161L1017,154L1008,148L997,144L984,143L972,144L961,148L952,154L946,161L944,170L946,178L952,185L961,191L972,195L984,196L997,195L1008,191L1017,185L1022,178L1024,170" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(984,170) rotate(30)">0</text></g>
+   <path d="M955,143L953,135L947,127L939,121L927,118L915,116L903,118L891,121L883,127L877,135L875,143L877,151L883,159L891,165L903,168L915,170L927,168L939,165L947,159L953,151Z" style="fill: rgb(204, 0, 0);"></path>
+   <path d="M955,143L953,135L947,127L939,121L927,118L915,116L903,118L891,121L883,127L877,135L875,143L877,151L883,159L891,165L903,168L915,170L927,168L939,165L947,159L953,151L955,143" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(915,143) rotate(30)">+1</text></g>
+   <path d="M886,116L884,108L878,101L869,95L858,91L846,90L833,91L822,95L813,101L808,108L806,116L808,125L813,132L822,138L833,142L846,143L858,142L869,138L878,132L884,125Z" style="fill: rgb(153, 0, 0);"></path>
+   <path d="M886,116L884,108L878,101L869,95L858,91L846,90L833,91L822,95L813,101L808,108L806,116L808,125L813,132L822,138L833,142L846,143L858,142L869,138L878,132L884,125L886,116" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(846,116) rotate(30)">+2</text></g>
+   <path d="M816,90L814,81L809,74L800,68L789,64L776,63L764,64L753,68L744,74L738,81L736,90L738,98L744,105L753,111L764,115L776,116L789,115L800,111L809,105L814,98Z" style="fill: rgb(102, 0, 0);"></path>
+   <path d="M816,90L814,81L809,74L800,68L789,64L776,63L764,64L753,68L744,74L738,81L736,90L738,98L744,105L753,111L764,115L776,116L789,115L800,111L809,105L814,98L816,90" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(776,90) rotate(30)">+3</text></g>
+   <path d="M747,63L745,55L740,47L731,41L720,38L707,36L695,38L684,41L675,47L669,55L667,63L669,71L675,79L684,85L695,88L707,90L720,88L731,85L740,79L745,71Z" style="fill: rgb(51, 0, 0);"></path>
+   <path d="M747,63L745,55L740,47L731,41L720,38L707,36L695,38L684,41L675,47L669,55L667,63L669,71L675,79L684,85L695,88L707,90L720,88L731,85L740,79L745,71L747,63" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(707,63) rotate(30)">+4</text></g>
+   <path d="M600,21L549,66" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(600,21)">kOrange</text></g>
+   <path d="M600,320L543,320L543,292L600,292Z" style="fill: rgb(255, 204, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(571,306)">-9</text></g>
+   <path d="M600,292L543,292L543,264L600,264Z" style="fill: rgb(204, 153, 102);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(571,278)">-8</text></g>
+   <path d="M600,264L543,264L543,235L600,235Z" style="fill: rgb(153, 102, 51);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(571,250)">-7</text></g>
+   <path d="M600,235L543,235L543,207L600,207Z" style="fill: rgb(153, 102, 0);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(571,221)">-6</text></g>
+   <path d="M600,207L543,207L543,179L600,179Z" style="fill: rgb(204, 153, 51);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(571,193)">-5</text></g>
+   <path d="M600,179L543,179L543,151L600,151Z" style="fill: rgb(255, 204, 102);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(571,165)">-4</text></g>
+   <path d="M600,151L543,151L543,123L600,123Z" style="fill: rgb(255, 153, 0);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(571,137)">-3</text></g>
+   <path d="M600,123L543,123L543,94L600,94Z" style="fill: rgb(255, 204, 51);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(571,109)">-2</text></g>
+   <path d="M600,94L543,94L543,66L600,66Z" style="fill: rgb(204, 153, 0);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(571,80)">-1</text></g>
+   <path d="M600,66L543,66L543,38L600,38Z" style="fill: rgb(255, 204, 0);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(571,52)">0</text></g>
+   <path d="M600,320L657,320L657,292L600,292Z" style="fill: rgb(255, 153, 51);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(629,306)">+1</text></g>
+   <path d="M600,292L657,292L657,264L600,264Z" style="fill: rgb(204, 102, 0);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(629,278)">+2</text></g>
+   <path d="M600,264L657,264L657,235L600,235Z" style="fill: rgb(102, 51, 0);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(629,250)">+3</text></g>
+   <path d="M600,235L657,235L657,207L600,207Z" style="fill: rgb(153, 51, 0);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(629,221)">+4</text></g>
+   <path d="M600,207L657,207L657,179L600,179Z" style="fill: rgb(204, 102, 51);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(629,193)">+5</text></g>
+   <path d="M600,179L657,179L657,151L600,151Z" style="fill: rgb(255, 153, 102);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(629,165)">+6</text></g>
+   <path d="M600,151L657,151L657,123L600,123Z" style="fill: rgb(255, 102, 0);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(629,137)">+7</text></g>
+   <path d="M600,123L657,123L657,94L600,94Z" style="fill: rgb(255, 102, 51);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(629,109)">+8</text></g>
+   <path d="M600,94L657,94L657,66L600,66Z" style="fill: rgb(204, 51, 0);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(629,80)">+9</text></g>
+   <path d="M600,66L657,66L657,38L600,38Z" style="fill: rgb(255, 51, 0);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(629,52)">+10</text></g>
+   <path d="M543,320L543,38L657,38L657,320L543,320M543,235L657,235M543,151L657,151M543,66L657,66M543,123L657,123M600,151L600,38M424,37L493,63" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(424,37) rotate(-30)">kYellow</text></g>
+   <path d="M531,275L529,266L524,259L515,253L504,249L491,248L479,249L468,253L459,259L453,266L451,275L453,283L459,290L468,296L479,300L491,301L504,300L515,296L524,290L529,283Z" style="fill: rgb(255, 255, 204);"></path>
+   <path d="M531,275L529,266L524,259L515,253L504,249L491,248L479,249L468,253L459,259L453,266L451,275L453,283L459,290L468,296L479,300L491,301L504,300L515,296L524,290L529,283L531,275" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(491,275) rotate(-30)">-10</text></g>
+   <path d="M534,221L532,213L527,205L518,199L507,195L494,194L482,195L471,199L462,205L456,213L454,221L456,229L462,236L471,242L482,246L494,247L507,246L518,242L527,236L532,229Z" style="fill: rgb(255, 255, 153);"></path>
+   <path d="M534,221L532,213L527,205L518,199L507,195L494,194L482,195L471,199L462,205L456,213L454,221L456,229L462,236L471,242L482,246L494,247L507,246L518,242L527,236L532,229L534,221" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(494,221) rotate(-30)">-9</text></g>
+   <path d="M460,249L458,241L452,234L444,228L432,224L420,223L408,224L397,228L388,234L382,241L380,249L382,258L388,265L397,271L408,275L420,276L432,275L444,271L452,265L458,258Z" style="fill: rgb(204, 204, 153);"></path>
+   <path d="M460,249L458,241L452,234L444,228L432,224L420,223L408,224L397,228L388,234L382,241L380,249L382,258L388,265L397,271L408,275L420,276L432,275L444,271L452,265L458,258L460,249" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(420,249) rotate(-30)">-8</text></g>
+   <path d="M537,167L535,159L529,151L521,145L509,142L497,140L485,142L474,145L465,151L459,159L457,167L459,175L465,183L474,188L485,192L497,194L509,192L521,188L529,183L535,175Z" style="fill: rgb(255, 255, 102);"></path>
+   <path d="M537,167L535,159L529,151L521,145L509,142L497,140L485,142L474,145L465,151L459,159L457,167L459,175L465,183L474,188L485,192L497,194L509,192L521,188L529,183L535,175L537,167" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(497,167) rotate(-30)">-7</text></g>
+   <path d="M463,195L461,187L455,180L446,174L435,170L423,169L410,170L399,174L390,180L385,187L383,195L385,204L390,211L399,217L410,221L423,222L435,221L446,217L455,211L461,204Z" style="fill: rgb(204, 204, 102);"></path>
+   <path d="M463,195L461,187L455,180L446,174L435,170L423,169L410,170L399,174L390,180L385,187L383,195L385,204L390,211L399,217L410,221L423,222L435,221L446,217L455,211L461,204L463,195" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(423,195) rotate(-30)">-6</text></g>
+   <path d="M389,224L387,216L381,208L372,202L361,199L349,197L336,199L325,202L316,208L311,216L309,224L311,232L316,240L325,246L336,249L349,251L361,249L372,246L381,240L387,232Z" style="fill: rgb(153, 153, 102);"></path>
+   <path d="M389,224L387,216L381,208L372,202L361,199L349,197L336,199L325,202L316,208L311,216L309,224L311,232L316,240L325,246L336,249L349,251L361,249L372,246L381,240L387,232L389,224" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(349,224) rotate(-30)">-5</text></g>
+   <path d="M537,114L535,106L530,98L521,92L510,89L497,87L485,89L474,92L465,98L459,106L457,114L459,122L465,130L474,136L485,139L497,141L510,139L521,136L530,130L535,122Z" style="fill: rgb(255, 255, 51);"></path>
+   <path d="M537,114L535,106L530,98L521,92L510,89L497,87L485,89L474,92L465,98L459,106L457,114L459,122L465,130L474,136L485,139L497,141L510,139L521,136L530,130L535,122L537,114" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(497,114) rotate(-30)">-4</text></g>
+   <path d="M463,143L461,134L456,127L447,121L436,117L423,116L411,117L400,121L391,127L385,134L383,143L385,151L391,158L400,164L411,168L423,169L436,168L447,164L456,158L461,151Z" style="fill: rgb(204, 204, 51);"></path>
+   <path d="M463,143L461,134L456,127L447,121L436,117L423,116L411,117L400,121L391,127L385,134L383,143L385,151L391,158L400,164L411,168L423,169L436,168L447,164L456,158L461,151L463,143" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(423,143) rotate(-30)">-3</text></g>
+   <path d="M394,169L392,161L386,154L377,148L366,144L354,143L342,144L330,148L322,154L316,161L314,169L316,177L322,185L330,191L342,195L354,196L366,195L377,191L386,185L392,177Z" style="fill: rgb(153, 153, 51);"></path>
+   <path d="M394,169L392,161L386,154L377,148L366,144L354,143L342,144L330,148L322,154L316,161L314,169L316,177L322,185L330,191L342,195L354,196L366,195L377,191L386,185L392,177L394,169" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(354,169) rotate(-30)">-2</text></g>
+   <path d="M320,198L318,190L312,182L303,176L292,172L280,171L267,172L256,176L247,182L242,190L240,198L242,206L247,213L256,219L267,223L280,224L292,223L303,219L312,213L318,206Z" style="fill: rgb(102, 102, 51);"></path>
+   <path d="M320,198L318,190L312,182L303,176L292,172L280,171L267,172L256,176L247,182L242,190L240,198L242,206L247,213L256,219L267,223L280,224L292,223L303,219L312,213L318,206L320,198" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(280,198) rotate(-30)">-1</text></g>
+   <path d="M533,63L531,55L525,47L516,41L505,38L493,36L480,38L469,41L460,47L455,55L453,63L455,71L460,79L469,85L480,88L493,90L505,88L516,85L525,79L531,71Z" style="fill: rgb(255, 255, 0);"></path>
+   <path d="M533,63L531,55L525,47L516,41L505,38L493,36L480,38L469,41L460,47L455,55L453,63L455,71L460,79L469,85L480,88L493,90L505,88L516,85L525,79L531,71L533,63" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(493,63) rotate(-30)">0</text></g>
+   <path d="M464,90L462,81L456,74L447,68L436,64L424,63L411,64L400,68L391,74L386,81L384,90L386,98L391,105L400,111L411,115L424,116L436,115L447,111L456,105L462,98Z" style="fill: rgb(204, 204, 0);"></path>
+   <path d="M464,90L462,81L456,74L447,68L436,64L424,63L411,64L400,68L391,74L386,81L384,90L386,98L391,105L400,111L411,115L424,116L436,115L447,111L456,105L462,98L464,90" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(424,90) rotate(-30)">+1</text></g>
+   <path d="M394,116L392,108L387,101L378,95L367,91L354,90L342,91L331,95L322,101L316,108L314,116L316,125L322,132L331,138L342,142L354,143L367,142L378,138L387,132L392,125Z" style="fill: rgb(153, 153, 0);"></path>
+   <path d="M394,116L392,108L387,101L378,95L367,91L354,90L342,91L331,95L322,101L316,108L314,116L316,125L322,132L331,138L342,142L354,143L367,142L378,138L387,132L392,125L394,116" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(354,116) rotate(-30)">+2</text></g>
+   <path d="M325,143L323,135L317,127L309,121L297,118L285,116L273,118L261,121L253,127L247,135L245,143L247,151L253,159L261,165L273,168L285,170L297,168L309,165L317,159L323,151Z" style="fill: rgb(102, 102, 0);"></path>
+   <path d="M325,143L323,135L317,127L309,121L297,118L285,116L273,118L261,121L253,127L247,135L245,143L247,151L253,159L261,165L273,168L285,170L297,168L309,165L317,159L323,151L325,143" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(285,143) rotate(-30)">+3</text></g>
+   <path d="M256,170L254,161L248,154L239,148L228,144L216,143L203,144L192,148L183,154L178,161L176,170L178,178L183,185L192,191L203,195L216,196L228,195L239,191L248,185L254,178Z" style="fill: rgb(51, 51, 0);"></path>
+   <path d="M256,170L254,161L248,154L239,148L228,144L216,143L203,144L192,148L183,154L178,161L176,170L178,178L183,185L192,191L203,195L216,196L228,195L239,191L248,185L254,178L256,170" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(216,170) rotate(-30)">+4</text></g>
+   <path d="M107,210L141,263" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(107,210) rotate(-60)">kSpring</text></g>
+   <path d="M496,360L468,393L431,379L459,346Z" style="fill: rgb(153, 255, 51);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(463,369) rotate(-60)">-9</text></g>
+   <path d="M459,346L431,379L394,365L423,332Z" style="fill: rgb(102, 204, 0);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(427,355) rotate(-60)">-8</text></g>
+   <path d="M423,332L394,365L358,351L386,318Z" style="fill: rgb(51, 102, 0);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(390,341) rotate(-60)">-7</text></g>
+   <path d="M386,318L358,351L321,337L350,304Z" style="fill: rgb(51, 153, 0);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(354,327) rotate(-60)">-6</text></g>
+   <path d="M350,304L321,337L284,323L313,290Z" style="fill: rgb(102, 204, 51);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(317,313) rotate(-60)">-5</text></g>
+   <path d="M313,290L284,323L248,308L276,275Z" style="fill: rgb(153, 255, 102);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(280,299) rotate(-60)">-4</text></g>
+   <path d="M276,275L248,308L211,294L240,261Z" style="fill: rgb(102, 255, 0);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(244,285) rotate(-60)">-3</text></g>
+   <path d="M240,261L211,294L175,280L203,247Z" style="fill: rgb(102, 255, 51);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(207,271) rotate(-60)">-2</text></g>
+   <path d="M203,247L175,280L138,266L166,233Z" style="fill: rgb(51, 204, 0);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(171,257) rotate(-60)">-1</text></g>
+   <path d="M166,233L138,266L101,252L130,219Z" style="fill: rgb(51, 255, 0);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(134,243) rotate(-60)">0</text></g>
+   <path d="M496,360L525,327L488,313L459,346Z" style="fill: rgb(204, 255, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(492,336) rotate(-60)">+1</text></g>
+   <path d="M459,346L488,313L451,299L423,332Z" style="fill: rgb(153, 204, 102);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(455,322) rotate(-60)">+2</text></g>
+   <path d="M423,332L451,299L415,285L386,318Z" style="fill: rgb(102, 153, 51);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(419,308) rotate(-60)">+3</text></g>
+   <path d="M386,318L415,285L378,271L350,304Z" style="fill: rgb(102, 153, 0);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(382,294) rotate(-60)">+4</text></g>
+   <path d="M350,304L378,271L342,257L313,290Z" style="fill: rgb(153, 204, 51);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(346,280) rotate(-60)">+5</text></g>
+   <path d="M313,290L342,257L305,242L276,275Z" style="fill: rgb(204, 255, 102);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(309,266) rotate(-60)">+6</text></g>
+   <path d="M276,275L305,242L268,228L240,261Z" style="fill: rgb(153, 255, 0);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(272,252) rotate(-60)">+7</text></g>
+   <path d="M240,261L268,228L232,214L203,247Z" style="fill: rgb(204, 255, 51);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(236,238) rotate(-60)">+8</text></g>
+   <path d="M203,247L232,214L195,200L166,233Z" style="fill: rgb(153, 204, 0);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(199,224) rotate(-60)">+9</text></g>
+   <path d="M166,233L195,200L158,186L130,219Z" style="fill: rgb(204, 255, 0);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(162,210) rotate(-60)">+10</text></g>
+   <path d="M468,393L101,252L158,186L525,327L468,393M358,351L415,285M248,308L305,242M138,266L195,200M211,294L268,228M276,275L130,219M40,320L109,293" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(40,320) rotate(-90)">kGreen</text></g>
+   <path d="M423,400L421,392L415,384L406,378L395,375L383,373L370,375L359,378L350,384L345,392L343,400L345,408L350,416L359,422L370,425L383,427L395,425L406,422L415,416L421,408Z" style="fill: rgb(204, 255, 204);"></path>
+   <path d="M423,400L421,392L415,384L406,378L395,375L383,373L370,375L359,378L350,384L345,392L343,400L345,408L350,416L359,422L370,425L383,427L395,425L406,422L415,416L421,408L423,400" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(383,400) rotate(-90)">-10</text></g>
+   <path d="M354,371L352,363L347,356L338,350L327,346L314,345L302,346L291,350L282,356L276,363L274,371L276,380L282,387L291,393L302,397L314,398L327,397L338,393L347,387L352,380Z" style="fill: rgb(153, 255, 153);"></path>
+   <path d="M354,371L352,363L347,356L338,350L327,346L314,345L302,346L291,350L282,356L276,363L274,371L276,380L282,387L291,393L302,397L314,398L327,397L338,393L347,387L352,380L354,371" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(314,371) rotate(-90)">-9</text></g>
+   <path d="M354,429L352,420L347,413L338,407L327,403L314,402L302,403L291,407L282,413L276,420L274,429L276,437L282,444L291,450L302,454L314,455L327,454L338,450L347,444L352,437Z" style="fill: rgb(153, 204, 153);"></path>
+   <path d="M354,429L352,420L347,413L338,407L327,403L314,402L302,403L291,407L282,413L276,420L274,429L276,437L282,444L291,450L302,454L314,455L327,454L338,450L347,444L352,437L354,429" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(314,429) rotate(-90)">-8</text></g>
+   <path d="M286,343L284,335L278,327L269,321L258,317L246,316L233,317L222,321L213,327L208,335L206,343L208,351L213,359L222,364L233,368L246,370L258,368L269,364L278,359L284,351Z" style="fill: rgb(102, 255, 102);"></path>
+   <path d="M286,343L284,335L278,327L269,321L258,317L246,316L233,317L222,321L213,327L208,335L206,343L208,351L213,359L222,364L233,368L246,370L258,368L269,364L278,359L284,351L286,343" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(246,343) rotate(-90)">-7</text></g>
+   <path d="M286,400L284,392L278,384L269,378L258,375L246,373L233,375L222,378L213,384L208,392L206,400L208,408L213,416L222,422L233,425L246,427L258,425L269,422L278,416L284,408Z" style="fill: rgb(102, 204, 102);"></path>
+   <path d="M286,400L284,392L278,384L269,378L258,375L246,373L233,375L222,378L213,384L208,392L206,400L208,408L213,416L222,422L233,425L246,427L258,425L269,422L278,416L284,408L286,400" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(246,400) rotate(-90)">-6</text></g>
+   <path d="M286,457L284,449L278,441L269,436L258,432L246,430L233,432L222,436L213,441L208,449L206,457L208,465L213,473L222,479L233,483L246,484L258,483L269,479L278,473L284,465Z" style="fill: rgb(102, 153, 102);"></path>
+   <path d="M286,457L284,449L278,441L269,436L258,432L246,430L233,432L222,436L213,441L208,449L206,457L208,465L213,473L222,479L233,483L246,484L258,483L269,479L278,473L284,465L286,457" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(246,457) rotate(-90)">-5</text></g>
+   <path d="M217,316L215,308L210,301L201,295L190,291L177,290L165,291L154,295L145,301L139,308L137,316L139,324L145,332L154,338L165,342L177,343L190,342L201,338L210,332L215,324Z" style="fill: rgb(51, 255, 51);"></path>
+   <path d="M217,316L215,308L210,301L201,295L190,291L177,290L165,291L154,295L145,301L139,308L137,316L139,324L145,332L154,338L165,342L177,343L190,342L201,338L210,332L215,324L217,316" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(177,316) rotate(-90)">-4</text></g>
+   <path d="M217,373L215,365L210,358L201,352L190,348L177,347L165,348L154,352L145,358L139,365L137,373L139,382L145,389L154,395L165,399L177,400L190,399L201,395L210,389L215,382Z" style="fill: rgb(51, 204, 51);"></path>
+   <path d="M217,373L215,365L210,358L201,352L190,348L177,347L165,348L154,352L145,358L139,365L137,373L139,382L145,389L154,395L165,399L177,400L190,399L201,395L210,389L215,382L217,373" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(177,373) rotate(-90)">-3</text></g>
+   <path d="M217,427L215,418L210,411L201,405L190,401L177,400L165,401L154,405L145,411L139,418L137,427L139,435L145,442L154,448L165,452L177,453L190,452L201,448L210,442L215,435Z" style="fill: rgb(51, 153, 51);"></path>
+   <path d="M217,427L215,418L210,411L201,405L190,401L177,400L165,401L154,405L145,411L139,418L137,427L139,435L145,442L154,448L165,452L177,453L190,452L201,448L210,442L215,435L217,427" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(177,427) rotate(-90)">-2</text></g>
+   <path d="M217,484L215,476L210,468L201,462L190,458L177,457L165,458L154,462L145,468L139,476L137,484L139,492L145,499L154,505L165,509L177,510L190,509L201,505L210,499L215,492Z" style="fill: rgb(51, 102, 51);"></path>
+   <path d="M217,484L215,476L210,468L201,462L190,458L177,457L165,458L154,462L145,468L139,476L137,484L139,492L145,499L154,505L165,509L177,510L190,509L201,505L210,499L215,492L217,484" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(177,484) rotate(-90)">-1</text></g>
+   <path d="M149,293L147,285L141,278L132,272L121,268L109,267L96,268L85,272L76,278L71,285L69,293L71,302L76,309L85,315L96,319L109,320L121,319L132,315L141,309L147,302Z" style="fill: rgb(0, 255, 0);"></path>
+   <path d="M149,293L147,285L141,278L132,272L121,268L109,267L96,268L85,272L76,278L71,285L69,293L71,302L76,309L85,315L96,319L109,320L121,319L132,315L141,309L147,302L149,293" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(109,293) rotate(-90)">0</text></g>
+   <path d="M149,347L147,338L141,331L132,325L121,321L109,320L96,321L85,325L76,331L71,338L69,347L71,355L76,362L85,368L96,372L109,373L121,372L132,368L141,362L147,355Z" style="fill: rgb(0, 204, 0);"></path>
+   <path d="M149,347L147,338L141,331L132,325L121,321L109,320L96,321L85,325L76,331L71,338L69,347L71,355L76,362L85,368L96,372L109,373L121,372L132,368L141,362L147,355L149,347" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(109,347) rotate(-90)">+1</text></g>
+   <path d="M149,400L147,392L141,384L132,378L121,375L109,373L96,375L85,378L76,384L71,392L69,400L71,408L76,416L85,422L96,425L109,427L121,425L132,422L141,416L147,408Z" style="fill: rgb(0, 153, 0);"></path>
+   <path d="M149,400L147,392L141,384L132,378L121,375L109,373L96,375L85,378L76,384L71,392L69,400L71,408L76,416L85,422L96,425L109,427L121,425L132,422L141,416L147,408L149,400" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(109,400) rotate(-90)">+2</text></g>
+   <path d="M149,453L147,445L141,438L132,432L121,428L109,427L96,428L85,432L76,438L71,445L69,453L71,462L76,469L85,475L96,479L109,480L121,479L132,475L141,469L147,462Z" style="fill: rgb(0, 102, 0);"></path>
+   <path d="M149,453L147,445L141,438L132,432L121,428L109,427L96,428L85,432L76,438L71,445L69,453L71,462L76,469L85,475L96,479L109,480L121,479L132,475L141,469L147,462L149,453" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(109,453) rotate(-90)">+3</text></g>
+   <path d="M149,507L147,498L141,491L132,485L121,481L109,480L96,481L85,485L76,491L71,498L69,507L71,515L76,522L85,528L96,532L109,533L121,532L132,528L141,522L147,515Z" style="fill: rgb(0, 51, 0);"></path>
+   <path d="M149,507L147,498L141,491L132,485L121,481L109,480L96,481L85,485L76,491L71,498L69,507L71,515L76,522L85,528L96,532L109,533L121,532L132,528L141,522L147,515L149,507" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(109,507) rotate(-90)">+4</text></g>
+   <path d="M107,590L192,597" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(107,590) rotate(60)">kTeal</text></g>
+   <path d="M496,440L525,473L488,487L459,454Z" style="fill: rgb(153, 255, 204);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(492,464) rotate(60)">-9</text></g>
+   <path d="M459,454L488,487L451,501L423,468Z" style="fill: rgb(102, 204, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(455,478) rotate(60)">-8</text></g>
+   <path d="M423,468L451,501L415,515L386,482Z" style="fill: rgb(51, 153, 102);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(419,492) rotate(60)">-7</text></g>
+   <path d="M386,482L415,515L378,529L350,496Z" style="fill: rgb(0, 153, 102);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(382,506) rotate(60)">-6</text></g>
+   <path d="M350,496L378,529L342,543L313,510Z" style="fill: rgb(51, 204, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(346,520) rotate(60)">-5</text></g>
+   <path d="M313,510L342,543L305,558L276,525Z" style="fill: rgb(102, 255, 204);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(309,534) rotate(60)">-4</text></g>
+   <path d="M276,525L305,558L268,572L240,539Z" style="fill: rgb(0, 255, 102);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(272,548) rotate(60)">-3</text></g>
+   <path d="M240,539L268,572L232,586L203,553Z" style="fill: rgb(51, 255, 204);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(236,562) rotate(60)">-2</text></g>
+   <path d="M203,553L232,586L195,600L166,567Z" style="fill: rgb(0, 204, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(199,576) rotate(60)">-1</text></g>
+   <path d="M166,567L195,600L158,614L130,581Z" style="fill: rgb(0, 255, 204);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(162,590) rotate(60)">0</text></g>
+   <path d="M496,440L468,407L431,421L459,454Z" style="fill: rgb(51, 255, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(463,431) rotate(60)">+1</text></g>
+   <path d="M459,454L431,421L394,435L423,468Z" style="fill: rgb(0, 204, 102);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(427,445) rotate(60)">+2</text></g>
+   <path d="M423,468L394,435L358,449L386,482Z" style="fill: rgb(0, 102, 51);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(390,459) rotate(60)">+3</text></g>
+   <path d="M386,482L358,449L321,463L350,496Z" style="fill: rgb(0, 153, 51);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(354,473) rotate(60)">+4</text></g>
+   <path d="M350,496L321,463L284,477L313,510Z" style="fill: rgb(51, 204, 102);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(317,487) rotate(60)">+5</text></g>
+   <path d="M313,510L284,477L248,492L276,525Z" style="fill: rgb(102, 255, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(280,501) rotate(60)">+6</text></g>
+   <path d="M276,525L248,492L211,506L240,539Z" style="fill: rgb(0, 255, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(244,515) rotate(60)">+7</text></g>
+   <path d="M240,539L211,506L175,520L203,553Z" style="fill: rgb(51, 255, 102);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(207,529) rotate(60)">+8</text></g>
+   <path d="M203,553L175,520L138,534L166,567Z" style="fill: rgb(0, 204, 51);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(171,543) rotate(60)">+9</text></g>
+   <path d="M166,567L138,534L101,548L130,581Z" style="fill: rgb(0, 255, 51);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(134,557) rotate(60)">+10</text></g>
+   <path d="M525,473L158,614L101,548L468,407L525,473M415,515L358,449M305,558L248,492M195,600L138,534M268,572L211,506M276,525L130,581M216,683L216,630" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(216,683) rotate(30)">kCyan</text></g>
+   <path d="M531,525L529,517L524,510L515,504L504,500L491,499L479,500L468,504L459,510L453,517L451,525L453,534L459,541L468,547L479,551L491,552L504,551L515,547L524,541L529,534Z" style="fill: rgb(204, 255, 255);"></path>
+   <path d="M531,525L529,517L524,510L515,504L504,500L491,499L479,500L468,504L459,510L453,517L451,525L453,534L459,541L468,547L479,551L491,552L504,551L515,547L524,541L529,534L531,525" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(491,525) rotate(30)">-10</text></g>
+   <path d="M460,551L458,542L452,535L444,529L432,525L420,524L408,525L397,529L388,535L382,542L380,551L382,559L388,566L397,572L408,576L420,577L432,576L444,572L452,566L458,559Z" style="fill: rgb(153, 255, 255);"></path>
+   <path d="M460,551L458,542L452,535L444,529L432,525L420,524L408,525L397,529L388,535L382,542L380,551L382,559L388,566L397,572L408,576L420,577L432,576L444,572L452,566L458,559L460,551" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(420,551) rotate(30)">-9</text></g>
+   <path d="M534,579L532,571L527,564L518,558L507,554L494,553L482,554L471,558L462,564L456,571L454,579L456,587L462,595L471,601L482,605L494,606L507,605L518,601L527,595L532,587Z" style="fill: rgb(153, 204, 204);"></path>
+   <path d="M534,579L532,571L527,564L518,558L507,554L494,553L482,554L471,558L462,564L456,571L454,579L456,587L462,595L471,601L482,605L494,606L507,605L518,601L527,595L532,587L534,579" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(494,579) rotate(30)">-8</text></g>
+   <path d="M389,576L387,568L381,560L372,554L361,551L349,549L336,551L325,554L316,560L311,568L309,576L311,584L316,592L325,598L336,601L349,603L361,601L372,598L381,592L387,584Z" style="fill: rgb(102, 255, 255);"></path>
+   <path d="M389,576L387,568L381,560L372,554L361,551L349,549L336,551L325,554L316,560L311,568L309,576L311,584L316,592L325,598L336,601L349,603L361,601L372,598L381,592L387,584L389,576" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(349,576) rotate(30)">-7</text></g>
+   <path d="M463,605L461,596L455,589L446,583L435,579L423,578L410,579L399,583L390,589L385,596L383,605L385,613L390,620L399,626L410,630L423,631L435,630L446,626L455,620L461,613Z" style="fill: rgb(102, 204, 204);"></path>
+   <path d="M463,605L461,596L455,589L446,583L435,579L423,578L410,579L399,583L390,589L385,596L383,605L385,613L390,620L399,626L410,630L423,631L435,630L446,626L455,620L461,613L463,605" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(423,605) rotate(30)">-6</text></g>
+   <path d="M537,633L535,625L529,617L521,612L509,608L497,606L485,608L474,612L465,617L459,625L457,633L459,641L465,649L474,655L485,658L497,660L509,658L521,655L529,649L535,641Z" style="fill: rgb(102, 153, 153);"></path>
+   <path d="M537,633L535,625L529,617L521,612L509,608L497,606L485,608L474,612L465,617L459,625L457,633L459,641L465,649L474,655L485,658L497,660L509,658L521,655L529,649L535,641L537,633" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(497,633) rotate(30)">-5</text></g>
+   <path d="M320,602L318,594L312,587L303,581L292,577L280,576L267,577L256,581L247,587L242,594L240,602L242,610L247,618L256,624L267,628L280,629L292,628L303,624L312,618L318,610Z" style="fill: rgb(51, 255, 255);"></path>
+   <path d="M320,602L318,594L312,587L303,581L292,577L280,576L267,577L256,581L247,587L242,594L240,602L242,610L247,618L256,624L267,628L280,629L292,628L303,624L312,618L318,610L320,602" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(280,602) rotate(30)">-4</text></g>
+   <path d="M394,631L392,623L386,615L377,609L366,605L354,604L342,605L330,609L322,615L316,623L314,631L316,639L322,646L330,652L342,656L354,657L366,656L377,652L386,646L392,639Z" style="fill: rgb(51, 204, 204);"></path>
+   <path d="M394,631L392,623L386,615L377,609L366,605L354,604L342,605L330,609L322,615L316,623L314,631L316,639L322,646L330,652L342,656L354,657L366,656L377,652L386,646L392,639L394,631" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(354,631) rotate(30)">-3</text></g>
+   <path d="M463,657L461,649L456,642L447,636L436,632L423,631L411,632L400,636L391,642L385,649L383,657L385,666L391,673L400,679L411,683L423,684L436,683L447,679L456,673L461,666Z" style="fill: rgb(51, 153, 153);"></path>
+   <path d="M463,657L461,649L456,642L447,636L436,632L423,631L411,632L400,636L391,642L385,649L383,657L385,666L391,673L400,679L411,683L423,684L436,683L447,679L456,673L461,666L463,657" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(423,657) rotate(30)">-2</text></g>
+   <path d="M537,686L535,678L530,670L521,664L510,661L497,659L485,661L474,664L465,670L459,678L457,686L459,694L465,702L474,708L485,711L497,713L510,711L521,708L530,702L535,694Z" style="fill: rgb(51, 102, 102);"></path>
+   <path d="M537,686L535,678L530,670L521,664L510,661L497,659L485,661L474,664L465,670L459,678L457,686L459,694L465,702L474,708L485,711L497,713L510,711L521,708L530,702L535,694L537,686" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(497,686) rotate(30)">-1</text></g>
+   <path d="M256,630L254,622L248,615L239,609L228,605L216,604L203,605L192,609L183,615L178,622L176,630L178,639L183,646L192,652L203,656L216,657L228,656L239,652L248,646L254,639Z" style="fill: rgb(0, 255, 255);"></path>
+   <path d="M256,630L254,622L248,615L239,609L228,605L216,604L203,605L192,609L183,615L178,622L176,630L178,639L183,646L192,652L203,656L216,657L228,656L239,652L248,646L254,639L256,630" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(216,630) rotate(30)">0</text></g>
+   <path d="M325,657L323,649L317,641L309,635L297,632L285,630L273,632L261,635L253,641L247,649L245,657L247,665L253,673L261,679L273,682L285,684L297,682L309,679L317,673L323,665Z" style="fill: rgb(0, 204, 204);"></path>
+   <path d="M325,657L323,649L317,641L309,635L297,632L285,630L273,632L261,635L253,641L247,649L245,657L247,665L253,673L261,679L273,682L285,684L297,682L309,679L317,673L323,665L325,657" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(285,657) rotate(30)">+1</text></g>
+   <path d="M394,684L392,675L387,668L378,662L367,658L354,657L342,658L331,662L322,668L316,675L314,684L316,692L322,699L331,705L342,709L354,710L367,709L378,705L387,699L392,692Z" style="fill: rgb(0, 153, 153);"></path>
+   <path d="M394,684L392,675L387,668L378,662L367,658L354,657L342,658L331,662L322,668L316,675L314,684L316,692L322,699L331,705L342,709L354,710L367,709L378,705L387,699L392,692L394,684" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(354,684) rotate(30)">+2</text></g>
+   <path d="M464,710L462,702L456,695L447,689L436,685L424,684L411,685L400,689L391,695L386,702L384,710L386,719L391,726L400,732L411,736L424,737L436,736L447,732L456,726L462,719Z" style="fill: rgb(0, 102, 102);"></path>
+   <path d="M464,710L462,702L456,695L447,689L436,685L424,684L411,685L400,689L391,695L386,702L384,710L386,719L391,726L400,732L411,736L424,737L436,736L447,732L456,726L462,719L464,710" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(424,710) rotate(30)">+3</text></g>
+   <path d="M533,737L531,729L525,721L516,715L505,712L493,710L480,712L469,715L460,721L455,729L453,737L455,745L460,753L469,759L480,762L493,764L505,762L516,759L525,753L531,745Z" style="fill: rgb(0, 51, 51);"></path>
+   <path d="M533,737L531,729L525,721L516,715L505,712L493,710L480,712L469,715L460,721L455,729L453,737L455,745L460,753L469,759L480,762L493,764L505,762L516,759L525,753L531,745L533,737" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(493,737) rotate(30)">+4</text></g>
+   <path d="M600,779L651,734" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(600,779)">kAzure</text></g>
+   <path d="M600,480L657,480L657,508L600,508Z" style="fill: rgb(153, 204, 255);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(629,494)">-9</text></g>
+   <path d="M600,508L657,508L657,536L600,536Z" style="fill: rgb(102, 153, 204);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(629,522)">-8</text></g>
+   <path d="M600,536L657,536L657,565L600,565Z" style="fill: rgb(51, 102, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(629,550)">-7</text></g>
+   <path d="M600,565L657,565L657,593L600,593Z" style="fill: rgb(0, 51, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(629,579)">-6</text></g>
+   <path d="M600,593L657,593L657,621L600,621Z" style="fill: rgb(51, 102, 204);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(629,607)">-5</text></g>
+   <path d="M600,621L657,621L657,649L600,649Z" style="fill: rgb(102, 153, 255);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(629,635)">-4</text></g>
+   <path d="M600,649L657,649L657,677L600,677Z" style="fill: rgb(0, 102, 255);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(629,663)">-3</text></g>
+   <path d="M600,677L657,677L657,706L600,706Z" style="fill: rgb(51, 102, 255);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(629,691)">-2</text></g>
+   <path d="M600,706L657,706L657,734L600,734Z" style="fill: rgb(0, 51, 204);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(629,720)">-1</text></g>
+   <path d="M600,734L657,734L657,762L600,762Z" style="fill: rgb(0, 51, 255);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(629,748)">0</text></g>
+   <path d="M600,480L543,480L543,508L600,508Z" style="fill: rgb(51, 153, 255);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(571,494)">+1</text></g>
+   <path d="M600,508L543,508L543,536L600,536Z" style="fill: rgb(0, 102, 204);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(571,522)">+2</text></g>
+   <path d="M600,536L543,536L543,565L600,565Z" style="fill: rgb(0, 51, 102);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(571,550)">+3</text></g>
+   <path d="M600,565L543,565L543,593L600,593Z" style="fill: rgb(0, 102, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(571,579)">+4</text></g>
+   <path d="M600,593L543,593L543,621L600,621Z" style="fill: rgb(51, 153, 204);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(571,607)">+5</text></g>
+   <path d="M600,621L543,621L543,649L600,649Z" style="fill: rgb(102, 204, 255);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(571,635)">+6</text></g>
+   <path d="M600,649L543,649L543,677L600,677Z" style="fill: rgb(0, 153, 255);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(571,663)">+7</text></g>
+   <path d="M600,677L543,677L543,706L600,706Z" style="fill: rgb(51, 204, 255);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(571,691)">+8</text></g>
+   <path d="M600,706L543,706L543,734L600,734Z" style="fill: rgb(0, 153, 204);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(571,720)">+9</text></g>
+   <path d="M600,734L543,734L543,762L600,762Z" style="fill: rgb(0, 204, 255);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(571,748)">+10</text></g>
+   <path d="M657,480L657,762L543,762L543,480L657,480M657,565L543,565M657,649L543,649M657,734L543,734M657,677L543,677M600,649L600,762M776,763L707,737" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(776,763) rotate(-30)">kBlue</text></g>
+   <path d="M749,525L747,517L741,510L732,504L721,500L709,499L696,500L685,504L676,510L671,517L669,525L671,534L676,541L685,547L696,551L709,552L721,551L732,547L741,541L747,534Z" style="fill: rgb(204, 204, 255);"></path>
+   <path d="M749,525L747,517L741,510L732,504L721,500L709,499L696,500L685,504L676,510L671,517L669,525L671,534L676,541L685,547L696,551L709,552L721,551L732,547L741,541L747,534L749,525" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(709,525) rotate(-30)">-10</text></g>
+   <path d="M746,579L744,571L738,564L729,558L718,554L706,553L693,554L682,558L673,564L668,571L666,579L668,587L673,595L682,601L693,605L706,606L718,605L729,601L738,595L744,587Z" style="fill: rgb(153, 153, 255);"></path>
+   <path d="M746,579L744,571L738,564L729,558L718,554L706,553L693,554L682,558L673,564L668,571L666,579L668,587L673,595L682,601L693,605L706,606L718,605L729,601L738,595L744,587L746,579" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(706,579) rotate(-30)">-9</text></g>
+   <path d="M820,551L818,542L812,535L803,529L792,525L780,524L768,525L756,529L748,535L742,542L740,551L742,559L748,566L756,572L768,576L780,577L792,576L803,572L812,566L818,559Z" style="fill: rgb(153, 153, 204);"></path>
+   <path d="M820,551L818,542L812,535L803,529L792,525L780,524L768,525L756,529L748,535L742,542L740,551L742,559L748,566L756,572L768,576L780,577L792,576L803,572L812,566L818,559L820,551" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(780,551) rotate(-30)">-8</text></g>
+   <path d="M743,633L741,625L735,617L726,612L715,608L703,606L691,608L679,612L671,617L665,625L663,633L665,641L671,649L679,655L691,658L703,660L715,658L726,655L735,649L741,641Z" style="fill: rgb(102, 102, 255);"></path>
+   <path d="M743,633L741,625L735,617L726,612L715,608L703,606L691,608L679,612L671,617L665,625L663,633L665,641L671,649L679,655L691,658L703,660L715,658L726,655L735,649L741,641L743,633" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(703,633) rotate(-30)">-7</text></g>
+   <path d="M817,605L815,596L810,589L801,583L790,579L777,578L765,579L754,583L745,589L739,596L737,605L739,613L745,620L754,626L765,630L777,631L790,630L801,626L810,620L815,613Z" style="fill: rgb(102, 102, 204);"></path>
+   <path d="M817,605L815,596L810,589L801,583L790,579L777,578L765,579L754,583L745,589L739,596L737,605L739,613L745,620L754,626L765,630L777,631L790,630L801,626L810,620L815,613L817,605" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(777,605) rotate(-30)">-6</text></g>
+   <path d="M891,576L889,568L884,560L875,554L864,551L851,549L839,551L828,554L819,560L813,568L811,576L813,584L819,592L828,598L839,601L851,603L864,601L875,598L884,592L889,584Z" style="fill: rgb(102, 102, 153);"></path>
+   <path d="M891,576L889,568L884,560L875,554L864,551L851,549L839,551L828,554L819,560L813,568L811,576L813,584L819,592L828,598L839,601L851,603L864,601L875,598L884,592L889,584L891,576" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(851,576) rotate(-30)">-5</text></g>
+   <path d="M743,686L741,678L735,670L726,664L715,661L703,659L690,661L679,664L670,670L665,678L663,686L665,694L670,702L679,708L690,711L703,713L715,711L726,708L735,702L741,694Z" style="fill: rgb(51, 51, 255);"></path>
+   <path d="M743,686L741,678L735,670L726,664L715,661L703,659L690,661L679,664L670,670L665,678L663,686L665,694L670,702L679,708L690,711L703,713L715,711L726,708L735,702L741,694L743,686" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(703,686) rotate(-30)">-4</text></g>
+   <path d="M817,657L815,649L809,642L800,636L789,632L777,631L764,632L753,636L744,642L739,649L737,657L739,666L744,673L753,679L764,683L777,684L789,683L800,679L809,673L815,666Z" style="fill: rgb(51, 51, 204);"></path>
+   <path d="M817,657L815,649L809,642L800,636L789,632L777,631L764,632L753,636L744,642L739,649L737,657L739,666L744,673L753,679L764,683L777,684L789,683L800,679L809,673L815,666L817,657" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(777,657) rotate(-30)">-3</text></g>
+   <path d="M886,631L884,623L878,615L870,609L858,605L846,604L834,605L823,609L814,615L808,623L806,631L808,639L814,646L823,652L834,656L846,657L858,656L870,652L878,646L884,639Z" style="fill: rgb(51, 51, 153);"></path>
+   <path d="M886,631L884,623L878,615L870,609L858,605L846,604L834,605L823,609L814,615L808,623L806,631L808,639L814,646L823,652L834,656L846,657L858,656L870,652L878,646L884,639L886,631" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(846,631) rotate(-30)">-2</text></g>
+   <path d="M960,602L958,594L953,587L944,581L933,577L920,576L908,577L897,581L888,587L882,594L880,602L882,610L888,618L897,624L908,628L920,629L933,628L944,624L953,618L958,610Z" style="fill: rgb(51, 51, 102);"></path>
+   <path d="M960,602L958,594L953,587L944,581L933,577L920,576L908,577L897,581L888,587L882,594L880,602L882,610L888,618L897,624L908,628L920,629L933,628L944,624L953,618L958,610L960,602" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(920,602) rotate(-30)">-1</text></g>
+   <path d="M747,737L745,729L740,721L731,715L720,712L707,710L695,712L684,715L675,721L669,729L667,737L669,745L675,753L684,759L695,762L707,764L720,762L731,759L740,753L745,745Z" style="fill: rgb(0, 0, 255);"></path>
+   <path d="M747,737L745,729L740,721L731,715L720,712L707,710L695,712L684,715L675,721L669,729L667,737L669,745L675,753L684,759L695,762L707,764L720,762L731,759L740,753L745,745L747,737" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(707,737) rotate(-30)">0</text></g>
+   <path d="M816,710L814,702L809,695L800,689L789,685L776,684L764,685L753,689L744,695L738,702L736,710L738,719L744,726L753,732L764,736L776,737L789,736L800,732L809,726L814,719Z" style="fill: rgb(0, 0, 204);"></path>
+   <path d="M816,710L814,702L809,695L800,689L789,685L776,684L764,685L753,689L744,695L738,702L736,710L738,719L744,726L753,732L764,736L776,737L789,736L800,732L809,726L814,719L816,710" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(776,710) rotate(-30)">+1</text></g>
+   <path d="M886,684L884,675L878,668L869,662L858,658L846,657L833,658L822,662L813,668L808,675L806,684L808,692L813,699L822,705L833,709L846,710L858,709L869,705L878,699L884,692Z" style="fill: rgb(0, 0, 153);"></path>
+   <path d="M886,684L884,675L878,668L869,662L858,658L846,657L833,658L822,662L813,668L808,675L806,684L808,692L813,699L822,705L833,709L846,710L858,709L869,705L878,699L884,692L886,684" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(846,684) rotate(-30)">+2</text></g>
+   <path d="M955,657L953,649L947,641L939,635L927,632L915,630L903,632L891,635L883,641L877,649L875,657L877,665L883,673L891,679L903,682L915,684L927,682L939,679L947,673L953,665Z" style="fill: rgb(0, 0, 102);"></path>
+   <path d="M955,657L953,649L947,641L939,635L927,632L915,630L903,632L891,635L883,641L877,649L875,657L877,665L883,673L891,679L903,682L915,684L927,682L939,679L947,673L953,665L955,657" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(915,657) rotate(-30)">+3</text></g>
+   <path d="M1024,630L1022,622L1017,615L1008,609L997,605L984,604L972,605L961,609L952,615L946,622L944,630L946,639L952,646L961,652L972,656L984,657L997,656L1008,652L1017,646L1022,639Z" style="fill: rgb(0, 0, 51);"></path>
+   <path d="M1024,630L1022,622L1017,615L1008,609L997,605L984,604L972,605L961,609L952,615L946,622L944,630L946,639L952,646L961,652L972,656L984,657L997,656L1008,652L1017,646L1022,639L1024,630" style="stroke: rgb(127, 127, 127); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(984,630) rotate(-30)">+4</text></g>
+   <path d="M1093,590L1059,537" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(1093,590) rotate(-60)">kViolet</text></g>
+   <path d="M704,440L732,407L769,421L741,454Z" style="fill: rgb(204, 153, 255);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(737,431) rotate(-60)">-9</text></g>
+   <path d="M741,454L769,421L806,435L777,468Z" style="fill: rgb(153, 102, 204);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" transform="translate(773,445) rotate(-60)">-8</text></g>
+   <path d="M777,468L806,435L842,449L814,482Z" style="fill: rgb(102, 51, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(810,459) rotate(-60)">-7</text></g>
+   <path d="M814,482L842,449L879,463L850,496Z" style="fill: rgb(102, 0, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(846,473) rotate(-60)">-6</text></g>
+   <path d="M850,496L879,463L916,477L887,510Z" style="fill: rgb(153, 51, 204);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(883,487) rotate(-60)">-5</text></g>
+   <path d="M887,510L916,477L952,492L924,525Z" style="fill: rgb(204, 102, 255);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(920,501) rotate(-60)">-4</text></g>
+   <path d="M924,525L952,492L989,506L960,539Z" style="fill: rgb(153, 0, 255);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(956,515) rotate(-60)">-3</text></g>
+   <path d="M960,539L989,506L1025,520L997,553Z" style="fill: rgb(204, 51, 255);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(993,529) rotate(-60)">-2</text></g>
+   <path d="M997,553L1025,520L1062,534L1034,567Z" style="fill: rgb(153, 0, 204);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(1029,543) rotate(-60)">-1</text></g>
+   <path d="M1034,567L1062,534L1099,548L1070,581Z" style="fill: rgb(204, 0, 255);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(1066,557) rotate(-60)">0</text></g>
+   <path d="M704,440L675,473L712,487L741,454Z" style="fill: rgb(153, 51, 255);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(708,464) rotate(-60)">+1</text></g>
+   <path d="M741,454L712,487L749,501L777,468Z" style="fill: rgb(102, 0, 204);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(745,478) rotate(-60)">+2</text></g>
+   <path d="M777,468L749,501L785,515L814,482Z" style="fill: rgb(51, 0, 102);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(781,492) rotate(-60)">+3</text></g>
+   <path d="M814,482L785,515L822,529L850,496Z" style="fill: rgb(51, 0, 153);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(818,506) rotate(-60)">+4</text></g>
+   <path d="M850,496L822,529L858,543L887,510Z" style="fill: rgb(102, 51, 204);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(854,520) rotate(-60)">+5</text></g>
+   <path d="M887,510L858,543L895,558L924,525Z" style="fill: rgb(153, 102, 255);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(891,534) rotate(-60)">+6</text></g>
+   <path d="M924,525L895,558L932,572L960,539Z" style="fill: rgb(102, 0, 255);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(928,548) rotate(-60)">+7</text></g>
+   <path d="M960,539L932,572L968,586L997,553Z" style="fill: rgb(102, 51, 255);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(964,562) rotate(-60)">+8</text></g>
+   <path d="M997,553L968,586L1005,600L1034,567Z" style="fill: rgb(51, 0, 204);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(1001,576) rotate(-60)">+9</text></g>
+   <path d="M1034,567L1005,600L1042,614L1070,581Z" style="fill: rgb(51, 0, 255);"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(255, 255, 255)" text-anchor="middle" dominant-baseline="middle" transform="translate(1038,590) rotate(-60)">+10</text></g>
+   <path d="M732,407L1099,548L1042,614L675,473L732,407M842,449L785,515M952,492L895,558M1062,534L1005,600M989,506L932,572M924,525L1070,581" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: none;"></path>
+   <g font-family="Arial" font-size="24" xml:space="preserve" font-weight="bold" font-style="oblique"><text fill="rgb(0, 0, 255)" text-anchor="start" transform="translate(17,789)">ROOT Color Wheel</text></g>
+  </g>
+ </g>
+</svg>
