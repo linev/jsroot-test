@@ -45,7 +45,7 @@
      </g>
     </g>
     <g transform="translate(256,14)" font-family="Arial" font-size="7" xml:space="preserve" fill="black"><path d="M0,0H66V54H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(33,5)">hpxpy</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,14)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(63,14)">25000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,23)">Mean x</text><text text-anchor="end" dominant-baseline="middle" transform="translate(63,23)">-0.003961</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,32)">Mean y</text><text text-anchor="end" dominant-baseline="middle" transform="translate(63,32)">-0.003377</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,41)">Std Dev x</text><text text-anchor="end" dominant-baseline="middle" transform="translate(63,41)">0.9978</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,50)">Std Dev y</text><text text-anchor="end" dominant-baseline="middle" transform="translate(63,50)">1.006</text><path d="M0,9h66" style="stroke: black; stroke-width: 1;"></path></g>
-    <g transform="translate(66,1)" font-family="Arial" font-size="19" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(99,11)">py vs px</text></g>
+    <g transform="translate(66,1)" font-family="Arial" font-size="17" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(99,11)">py vs px</text></g>
    </g>
   </svg>
   <svg viewBox="0 0 328 223" preserveAspectRatio="none" x="10" y="242" width="328" height="223">
@@ -71,7 +71,7 @@
      </g>
     </g>
     <g transform="translate(256,14)" font-family="Arial" font-size="8" xml:space="preserve" fill="black"><path d="M0,0H66V36H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(33,5)">hpxpy_0</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,14)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(63,14)">25</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,23)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(63,23)">-0.006981</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,32)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(63,32)">0.9449</text><path d="M0,9h66" style="stroke: black; stroke-width: 1;"></path></g>
-    <g transform="translate(66,1)" font-family="Arial" font-size="12" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(99,11)">Fitted value of par[0]=Constant</text></g>
+    <g transform="translate(66,1)" font-family="Arial" font-size="13" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(99,11)">Fitted value of par[0]=Constant</text></g>
    </g>
   </svg>
   <svg viewBox="0 0 335 465" preserveAspectRatio="none" x="356" y="4" width="335" height="465">
@@ -100,7 +100,7 @@
      </g>
     </g>
     <g transform="translate(256,14)" font-family="Arial" font-size="8" xml:space="preserve" fill="black"><path d="M0,0H66V36H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(33,5)">hpxpy_1</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,14)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(63,14)">25</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,23)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(63,23)">-4.988</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,32)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(63,32)">2.944</text><path d="M0,9h66" style="stroke: black; stroke-width: 1;"></path></g>
-    <g transform="translate(66,1)" font-family="Arial" font-size="13" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(99,11)">Fitted value of par[1]=Mean</text></g>
+    <g transform="translate(66,1)" font-family="Arial" font-size="15" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(99,11)">Fitted value of par[1]=Mean</text></g>
    </g>
   </svg>
   <svg viewBox="0 0 328 223" preserveAspectRatio="none" x="359" y="242" width="328" height="223">
@@ -126,7 +126,7 @@
      </g>
     </g>
     <g transform="translate(256,14)" font-family="Arial" font-size="8" xml:space="preserve" fill="black"><path d="M0,0H66V36H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(33,5)">hpxpy_2</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,14)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(63,14)">25</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,23)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(63,23)">-0.1260</text><text text-anchor="start" dominant-baseline="middle" transform="translate(3,32)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(63,32)">1.452</text><path d="M0,9h66" style="stroke: black; stroke-width: 1;"></path></g>
-    <g transform="translate(66,1)" font-family="Arial" font-size="13" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(99,11)">Fitted value of par[2]=Sigma</text></g>
+    <g transform="translate(66,1)" font-family="Arial" font-size="14" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(99,11)">Fitted value of par[2]=Sigma</text></g>
    </g>
   </svg>
  </g>

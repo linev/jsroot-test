@@ -29,7 +29,7 @@
       <path d="M0,190h262M0,168h262M0,152h262M0,140h262M0,129h262M0,121h262M0,113h262M0,107h262M0,101h262M0,63h262M0,40h262M0,24h262M0,12h262M0,2h262" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
      </g>
     </g>
-    <g transform="translate(33,1)" font-family="Arial" font-size="13" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(131)">x*sin(x)*exp(-0.1*x)+15</text></g>
+    <g transform="translate(94,1)" font-family="Arial" font-size="12" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(71,8)">x*sin(x)*exp(-0.1*x)+15</text></g>
     <g transform="translate(85,155)" font-family="Arial" font-size="11" xml:space="preserve" fill="black" text-anchor="start"><path d="M157,4h4v61h-157v-4h153z" style="fill: black; stroke: black; stroke-width: 1px;"></path><path d="M0,0H157V61H0Z" style="fill: rgb(223, 187, 136); stroke: black; stroke-width: 1;"></path><text dominant-baseline="middle" transform="translate(8,15)">Log scale along Y axis.</text><text dominant-baseline="middle" transform="translate(8,46)">More Log labels requested.</text></g>
    </g>
   </svg>
@@ -56,8 +56,8 @@
       <path d="M61,0v210M109,0v210M144,0v210M170,0v210M192,0v210M210,0v210M226,0v210M240,0v210M253,0v210" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
      </g>
     </g>
-    <g transform="translate(33,1)" font-family="Arial" font-size="13" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(131)">Graph</text></g>
-    <g transform="translate(59,160)" font-family="Arial" font-size="9" xml:space="preserve" fill="black" text-anchor="start"><path d="M144,4h4v60h-144v-4h140z" style="fill: black; stroke: black; stroke-width: 1px;"></path><path d="M0,0H144V60H0Z" style="fill: rgb(223, 187, 136); stroke: black; stroke-width: 1;"></path><text dominant-baseline="middle" transform="translate(7,10)">Log scale along X and Y axis.</text><text dominant-baseline="middle" transform="translate(7,30)">More Log labels on both.</text><text dominant-baseline="middle" transform="translate(7,50)">No exponent along Y axis.</text></g>
+    <g transform="translate(143,1)" font-family="Arial" font-size="12" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(21,8)">Graph</text></g>
+    <g transform="translate(59,160)" font-family="Arial" font-size="10" xml:space="preserve" fill="black" text-anchor="start"><path d="M144,4h4v60h-144v-4h140z" style="fill: black; stroke: black; stroke-width: 1px;"></path><path d="M0,0H144V60H0Z" style="fill: rgb(223, 187, 136); stroke: black; stroke-width: 1;"></path><text dominant-baseline="middle" transform="translate(7,10)">Log scale along X and Y axis.</text><text dominant-baseline="middle" transform="translate(7,30)">More Log labels on both.</text><text dominant-baseline="middle" transform="translate(7,50)">No exponent along Y axis.</text></g>
    </g>
   </svg>
   <svg viewBox="0 0 656 450" preserveAspectRatio="none" x="21" y="407" width="656" height="450">
@@ -206,11 +206,11 @@
       <path d="M0,344h525M0,313h525M0,290h525M0,271h525M0,255h525M0,241h525M0,228h525M0,217h525M0,144h525M0,102h525M0,71h525M0,48h525M0,29h525M0,13h525" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
      </g>
     </g>
-    <g transform="translate(66,2)" font-family="Arial" font-size="23" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(263)">x*sin(x+10)+25</text></g>
-    <g transform="translate(97,220)" font-family="Arial" font-size="12" xml:space="preserve" fill="black" text-anchor="start"><path d="M347,4h4v66h-347v-4h343z" style="fill: black; stroke: black; stroke-width: 1px;"></path><path d="M0,0H347V66H0Z" style="fill: rgb(223, 187, 136); stroke: black; stroke-width: 1;"></path><text dominant-baseline="middle" transform="translate(17,11)">Log scale along X and Y axis.</text><text dominant-baseline="middle" transform="translate(17,33)">More Log labels on both.</text><text dominant-baseline="middle" transform="translate(17,55)">The labels have no exponents (they would be 0 or 1)</text></g>
+    <g transform="translate(243,2)" font-family="Arial" font-size="22" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(85,15)">x*sin(x+10)+25</text></g>
+    <g transform="translate(97,220)" font-family="Arial" font-size="13" xml:space="preserve" fill="black" text-anchor="start"><path d="M347,4h4v66h-347v-4h343z" style="fill: black; stroke: black; stroke-width: 1px;"></path><path d="M0,0H347V66H0Z" style="fill: rgb(223, 187, 136); stroke: black; stroke-width: 1;"></path><text dominant-baseline="middle" transform="translate(17,11)">Log scale along X and Y axis.</text><text dominant-baseline="middle" transform="translate(17,33)">More Log labels on both.</text><text dominant-baseline="middle" transform="translate(17,55)">The labels have no exponents (they would be 0 or 1)</text></g>
    </g>
   </svg>
   <g transform="translate(70,17)" font-family="Arial" font-size="30" xml:space="preserve"><path d="M558,3h3v35h-558v-3h555z" style="fill: black; stroke: black; stroke-width: 1px;"></path><path d="M0,0H558V35H0Z" style="fill: rgb(179, 179, 179); stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(279,18)">Various options on LOG scales plots</text></g>
-  <g transform="translate(70,341)" font-family="Arial" font-size="14" xml:space="preserve"><path d="M558,4h4v52h-558v-4h554z" style="fill: black; stroke: black; stroke-width: 1px;"></path><path d="M0,0H558V52H0Z" style="fill: rgb(223, 187, 136); stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(28,26)">When more Log labels are requested, the overlapping labels are removed</text></g>
+  <g transform="translate(70,341)" font-family="Arial" font-size="15" xml:space="preserve"><path d="M558,4h4v52h-558v-4h554z" style="fill: black; stroke: black; stroke-width: 1px;"></path><path d="M0,0H558V52H0Z" style="fill: rgb(223, 187, 136); stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(28,26)">When more Log labels are requested, the overlapping labels are removed</text></g>
  </g>
 </svg>

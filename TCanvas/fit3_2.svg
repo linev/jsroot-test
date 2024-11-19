@@ -762,7 +762,7 @@
     <path d="M0,345h558M0,276h558M0,207h558M0,138h558M0,69h558M0,0h558" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
    </g>
   </g>
-  <g transform="translate(70,2)" font-family="Arial" font-size="24" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(279)">Graph</text></g>
+  <g transform="translate(309,2)" font-family="Arial" font-size="24" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(40,16)">Graph</text></g>
   <g transform="translate(419,52)" font-family="Arial" font-size="13" xml:space="preserve"><path d="M0,0H202V43H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M6,11H45" style="stroke: rgb(0, 0, 255); stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(51,11)">Ordinary least squares</text><path d="M6,32H45" style="stroke: rgb(255, 0, 0); stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(51,32)">LTS regression</text></g>
  </g>
 </svg>

@@ -28,7 +28,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(68,1)" font-family="Arial" font-size="7" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(274)">crystalball</text></g>
+    <g transform="translate(319,1)" font-family="Arial" font-size="7" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(23,5)">crystalball</text></g>
     <g transform="translate(479)" font-family="Arial" font-size="14" xml:space="preserve"><path d="M0,0H137V60H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M4,11H30" style="stroke: rgb(255, 0, 0); stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(34,11)">N=0.5 alpha=2</text><path d="M4,30H30" style="stroke: rgb(0, 255, 0); stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(34,30)">N=1   alpha=2</text><path d="M4,49H30" style="stroke: rgb(0, 0, 255); stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(34,48)">N=2   alpha=2</text></g>
    </g>
   </svg>
@@ -59,7 +59,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(68,1)" font-family="Arial" font-size="7" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(274)">crystalballn</text></g>
+    <g transform="translate(317,1)" font-family="Arial" font-size="7" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(25,5)">crystalballn</text></g>
     <g transform="translate(479)" font-family="Arial" font-size="13" xml:space="preserve"><path d="M0,0H137V60H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M4,11H30" style="stroke: red; stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(34,11)">N=3    alpha=2</text><path d="M4,30H30" style="stroke: rgb(0, 0, 255); stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(34,30)">N=1.01 alpha=3</text><path d="M4,49H30" style="stroke: rgb(0, 255, 0); stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(34,48)">N=2    alpha=3</text></g>
    </g>
   </svg>
@@ -87,7 +87,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(68,1)" font-family="Arial" font-size="7" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(274)">ROOT::Math::crystalball_cdf(x, 1.2, 2, 1, 0)</text></g>
+    <g transform="translate(271,1)" font-family="Arial" font-size="7" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(71,5)">ROOT::Math::crystalball_cdf(x, 1.2, 2, 1, 0)</text></g>
     <g transform="translate(479)" font-family="Arial" font-size="14" xml:space="preserve"><path d="M0,0H137V45H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M4,12H30" style="stroke: rgb(205, 51, 51); stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(34,12)">N=1.2 alpha=2</text><path d="M4,33H30" style="stroke: rgb(255, 0, 255); stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(34,34)">N=1.2 alpha=2</text></g>
    </g>
   </svg>

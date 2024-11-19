@@ -33,7 +33,7 @@
       <path d="M0,294h469M0,259h469M0,224h469M0,189h469M0,155h469M0,120h469M0,85h469M0,50h469M0,15h469" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
      </g>
     </g>
-    <g transform="translate(59,2)" font-family="Arial" font-size="19" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(235)">TMath::BetaDist(x, [0], [1])</text></g>
+    <g transform="translate(177,2)" font-family="Arial" font-size="18" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(116,12)">TMath::BetaDist(x, [0], [1])</text></g>
     <g transform="translate(293,37)" font-family="Arial" font-size="16" xml:space="preserve"><path d="M0,0H176V74H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M5,11H39" style="stroke: rgb(255, 0, 0); stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(44,11)">p=0.5  q=0.5</text><path d="M5,28H39" style="stroke: rgb(0, 255, 0); stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(44,29)">p=0.5  q=2</text><path d="M5,46H39" style="stroke: rgb(0, 0, 255); stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(44,46)">p=2    q=0.5</text><path d="M5,63H39" style="stroke: rgb(255, 0, 255); stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(44,64)">p=2    q=2</text></g>
    </g>
   </svg>
@@ -69,7 +69,7 @@
       <path d="M0,298h469M0,268h469M0,239h469M0,209h469M0,179h469M0,149h469M0,120h469M0,90h469M0,60h469M0,31h469M0,1h469" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
      </g>
     </g>
-    <g transform="translate(59,2)" font-family="Arial" font-size="19" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(235)">TMath::BetaDistI(x, [0], [1])</text></g>
+    <g transform="translate(174,2)" font-family="Arial" font-size="18" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(119,12)">TMath::BetaDistI(x, [0], [1])</text></g>
     <g transform="translate(410,242)" font-family="Arial" font-size="16" xml:space="preserve"><path d="M0,0H117V74H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M4,11H25" style="stroke: rgb(255, 0, 0); stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(29,11)">p=0.5  q=0.5</text><path d="M4,28H25" style="stroke: rgb(0, 255, 0); stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(29,29)">p=0.5  q=2</text><path d="M4,46H25" style="stroke: rgb(0, 0, 255); stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(29,46)">p=2    q=0.5</text><path d="M4,63H25" style="stroke: rgb(255, 0, 255); stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(29,64)">p=2    q=2</text></g>
    </g>
   </svg>

@@ -37,7 +37,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(98,2)" font-family="Arial" font-size="21" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(391)">Unfolding toy example with TSVDUnfold</text></g>
+    <g transform="translate(290,2)" font-family="Arial" font-size="20" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(199,13)">Unfolding toy example with TSVDUnfold</text></g>
     <g transform="translate(567,50)" font-family="Arial" font-size="23" xml:space="preserve" font-weight="bold"><path d="M46,18a4,4,0,1,0,8,0a4,4,0,1,0,-8,0z" style="stroke: black; fill: black;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(100,18)">Unfolded Data</text><path d="M12,45H88" style="stroke: red; stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(100,46)">True Data</text><path d="M12,73H88" style="stroke: blue; stroke-width: 2; stroke-dasharray: 3, 3;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(100,73)">Reconstructed Data</text><path d="M12,100H88" style="stroke: rgb(89, 212, 84); stroke-width: 2; stroke-dasharray: 3, 3;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(100,101)">True MC</text></g>
    </g>
   </svg>
@@ -98,7 +98,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(59,2)" font-family="Arial" font-size="21" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(176)">TSVDUnfold covariance matrix</text></g>
+    <g transform="translate(85,2)" font-family="Arial" font-size="20" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(150,13)">TSVDUnfold covariance matrix</text></g>
     <g transform="translate(401,41)">
      <path d="M0,0H19V330H0Z" style="fill: none; stroke: black; stroke-width: 1;"></path>
      <path d="M0,314H19V330H0Z" style="fill: rgb(22, 82, 205);"></path>
@@ -154,7 +154,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(47,2)" font-family="Arial" font-size="20" xml:space="preserve"><g transform="translate(115,20) scale(0.888)"><text fill="black" font-size="23">TSVDUnfold |d</text><text fill="black" font-size="14" transform="translate(154,5)">i</text><text fill="black" font-size="23" x="157">|</text></g></g>
+    <g transform="translate(155,2)" font-family="Arial" font-size="20" xml:space="preserve"><g transform="translate(6,21) scale(0.801)"><text fill="black" font-size="26">TSVDUnfold |d</text><text fill="black" font-size="16" transform="translate(174,5)">i</text><text fill="black" font-size="26" x="178">|</text></g></g>
     <g>
      <path d="M47,176H422" style="stroke: black; stroke-width: 1; stroke-dasharray: 3, 3;"></path>
     </g>

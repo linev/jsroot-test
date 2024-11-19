@@ -32,7 +32,7 @@
    </g>
   </g>
   <g transform="translate(466,24)" font-family="Arial" font-size="13" xml:space="preserve" fill="black"><path d="M0,0H120V60H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="middle" dominant-baseline="middle" transform="translate(60,8)">total</text><text text-anchor="start" dominant-baseline="middle" transform="translate(6,23)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(114,23)">30000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(6,38)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(114,38)">-0.5421</text><text text-anchor="start" dominant-baseline="middle" transform="translate(6,53)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(114,53)">1.417</text><path d="M0,15h120" style="stroke: black; stroke-width: 1;"></path></g>
-  <g transform="translate(169,2)" font-family="Arial" font-size="18" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(130,11)">This is the total distribution</text></g>
+  <g transform="translate(169,2)" font-family="Arial" font-size="16" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(130,11)">This is the total distribution</text></g>
   <svg viewBox="0 0 24 240" preserveAspectRatio="none" x="550" y="97" width="24" height="240">
    <path d="M0,0H24V240H0Z" style="fill: rgb(207, 94, 97); stroke: black; stroke-width: 1;"></path>
    <path d="M0,0h24l-2,2h-20v236l-2,2z" style="fill: rgb(173, 79, 81);"></path>

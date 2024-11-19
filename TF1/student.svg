@@ -33,7 +33,7 @@
       <path d="M0,240h306M0,211h306M0,183h306M0,154h306M0,125h306M0,97h306M0,68h306M0,39h306M0,11h306" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
      </g>
     </g>
-    <g transform="translate(38,2)" font-family="Arial" font-size="15" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(153)">Student density</text></g>
+    <g transform="translate(136,2)" font-family="Arial" font-size="15" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(56,10)">Student density</text></g>
     <g transform="translate(230,33)" font-family="Arial" font-size="7" xml:space="preserve"><path d="M0,0H111V57H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M3,9H25" style="stroke: red; stroke-width: 1; stroke-dasharray: 3, 3;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(28,9)">Normal(0,1)</text><path d="M3,22H25" style="stroke: blue; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(28,22)">10 degrees of freedom</text><path d="M3,35H25" style="stroke: red; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(28,36)">3 degrees of freedom</text><path d="M3,48H25" style="stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(28,49)">1 degree of freedom</text></g>
    </g>
   </svg>
@@ -66,7 +66,7 @@
       <path d="M0,240h306M0,217h306M0,194h306M0,171h306M0,149h306M0,126h306M0,103h306M0,80h306M0,57h306M0,34h306M0,11h306" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
      </g>
     </g>
-    <g transform="translate(38,2)" font-family="Arial" font-size="15" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(153)">Student cumulative dist.</text></g>
+    <g transform="translate(108,2)" font-family="Arial" font-size="14" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(84,10)">Student cumulative dist.</text></g>
     <g transform="translate(230,120)" font-family="Arial" font-size="7" xml:space="preserve"><path d="M0,0H111V60H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M3,11H25" style="stroke: blue; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(28,11)">10 degrees of freedom</text><path d="M3,30H25" style="stroke: red; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(28,30)">3 degrees of freedom</text><path d="M3,49H25" style="stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(28,48)">1 degree of freedom</text></g>
    </g>
   </svg>
@@ -102,7 +102,7 @@
       <path d="M0,240h306M0,204h306M0,167h306M0,131h306M0,95h306M0,59h306M0,22h306" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
      </g>
     </g>
-    <g transform="translate(38,2)" font-family="Arial" font-size="15" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(153)">F-Dist. density</text></g>
+    <g transform="translate(141,2)" font-family="Arial" font-size="15" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(51,10)">F-Dist. density</text></g>
     <g transform="translate(268,33)" font-family="Arial" font-size="9" xml:space="preserve"><path d="M0,0H73V57H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M2,9H16" style="stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(18,9)">N=1 M=1</text><path d="M2,22H16" style="stroke: red; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(18,22)">N=1 M=10</text><path d="M2,35H16" style="stroke: rgb(89, 212, 84); stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(18,36)">N=10 M=1</text><path d="M2,48H16" style="stroke: blue; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(18,49)">N=10 M=10</text></g>
    </g>
   </svg>
@@ -138,7 +138,7 @@
       <path d="M0,214h306M0,174h306M0,134h306M0,94h306M0,54h306M0,14h306" style="stroke: black; stroke-width: 1; stroke-dasharray: 1, 2;"></path>
      </g>
     </g>
-    <g transform="translate(38,2)" font-family="Arial" font-size="15" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(153)">Cumulative dist. function for F</text></g>
+    <g transform="translate(87,2)" font-family="Arial" font-size="14" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(104,10)">Cumulative dist. function for F</text></g>
     <g transform="translate(268,150)" font-family="Arial" font-size="9" xml:space="preserve"><path d="M0,0H73V60H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M2,9H16" style="stroke: black; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(18,9)">N=1 M=1</text><path d="M2,23H16" style="stroke: red; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(18,23)">N=1 M=10</text><path d="M2,37H16" style="stroke: rgb(89, 212, 84); stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(18,37)">N=10 M=1</text><path d="M2,51H16" style="stroke: blue; stroke-width: 1;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(18,51)">N=10 M=10</text></g>
    </g>
   </svg>
