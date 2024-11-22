@@ -103,7 +103,7 @@
    </g>
    <g>
     <g transform="translate(48,2)" font-family="Arial" font-size="10" xml:space="preserve"><g transform="translate(5,13) scale(0.673)"><text fill="black" font-size="16">pz:py:px {(pz&lt;10 &amp;&amp; pz&gt;6)+(pz&lt;4 &amp;&amp; pz&gt;3)}</text></g></g>
-    <g transform="translate(14,26)" font-family="Arial" font-size="11" xml:space="preserve" font-weight="bold" fill="black" text-anchor="start"><path d="M292,4h4v70h-292v-4h288z" style="fill: black; stroke: black; stroke-width: 1px;"></path><path d="M0,0H292V70H0Z" style="fill: rgb(222, 186, 135); stroke: black; stroke-width: 1;"></path><text dominant-baseline="middle" transform="translate(15,12)">You can interactively rotate this view in 2 ways:</text><text dominant-baseline="middle" transform="translate(15,35)">  - With the RotateCube in clicking in this pad</text><text dominant-baseline="middle" transform="translate(15,58)">  - Selecting View with x3d in the View menu</text></g>
+    <g transform="translate(14,26)" font-family="Arial" font-size="11" xml:space="preserve" font-weight="bold" fill="black" text-anchor="start"><path d="M292,5h3v68h-290v-3h286z" style="fill: black; stroke: black; stroke-width: 1px;"></path><path d="M0,0H292V70H0Z" style="fill: rgb(222, 186, 135); stroke: black; stroke-width: 1;"></path><text dominant-baseline="middle" transform="translate(15,12)">You can interactively rotate this view in 2 ways:</text><text dominant-baseline="middle" transform="translate(15,35)">  - With the RotateCube in clicking in this pad</text><text dominant-baseline="middle" transform="translate(15,58)">  - Selecting View with x3d in the View menu</text></g>
    </g>
   </svg>
  </g>
