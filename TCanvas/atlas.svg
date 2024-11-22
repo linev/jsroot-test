@@ -439,13 +439,13 @@
    <path d="M299,2h2v29h-299v-2h297z" style="fill: black; stroke: black; stroke-width: 1px;"></path>
    <path d="M0,0H299V29H0Z" style="fill: rgb(243, 243, 243); stroke: black; stroke-width: 1;"></path>
   </g>
-  <g font-family="Arial" font-size="26" xml:space="preserve"><g transform="translate(179,86)"><g><path d="M0,-9h3l3,10l3,-26h19v3" style="stroke: black; stroke-width: 2; fill: none;"></path><text fill="black" font-size="26" transform="translate(12)">s</text></g><text fill="black" font-size="26" x="32">= 14 TeV</text></g></g>
-  <g font-family="Arial" font-size="26" xml:space="preserve"><g transform="translate(341,86)"><text fill="black" font-size="26">|η</text><text fill="black" font-size="16" transform="translate(22,5)">jet</text><text fill="black" font-size="26" x="39">|&lt;0.5</text></g></g>
+  <g font-family="Arial" font-size="29" xml:space="preserve"><g transform="translate(179,86)"><g><path d="M0,-10h3l3,11l3,-29h21v3" style="stroke: black; stroke-width: 2; fill: none;"></path><text fill="black" font-size="29" transform="translate(14)">s</text></g><text fill="black" font-size="29" x="35">= 14 TeV</text></g></g>
+  <g font-family="Arial" font-size="29" xml:space="preserve"><g transform="translate(341,86)"><text fill="black" font-size="29">|η</text><text fill="black" font-size="17" transform="translate(25,6)">jet</text><text fill="black" font-size="29" x="44">|&lt;0.5</text></g></g>
   <g>
    <path d="M310,144a5,5,0,1,0,10,0a5,5,0,1,0,-10,0z" style="stroke: black; fill: black;"></path>
   </g>
-  <g font-family="Arial" font-size="26" xml:space="preserve"><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(329,144)">Data 2009</text></g>
-  <g font-family="Arial" font-size="26" xml:space="preserve"><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(329,189)">NLO QCD</text></g>
+  <g font-family="Arial" font-size="29" xml:space="preserve"><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(329,144)">Data 2009</text></g>
+  <g font-family="Arial" font-size="29" xml:space="preserve"><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(329,189)">NLO QCD</text></g>
   <g transform="translate(288,181)">
    <path d="M0,0H30V17H0Z" style="fill: yellow;"></path>
   </g>

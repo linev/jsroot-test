@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
  <path d="M0,0H1200V800H0Z" style="fill: rgb(255, 255, 255);"></path>
  <g>
-  <g font-family="Arial" font-size="36" xml:space="preserve" font-weight="bold"><text fill="rgb(0, 0, 0)" text-anchor="start" transform="translate(181,708)">This text is opaque and this line is transparent</text></g>
+  <g font-family="Arial" font-size="40" xml:space="preserve" font-weight="bold"><text fill="rgb(0, 0, 0)" text-anchor="start" transform="translate(181,708)">This text is opaque and this line is transparent</text></g>
   <g>
    <path d="M653,674L947,358M956,366l22,-42l-41,26z" style="stroke: rgb(0, 0, 0); stroke-width: 4; fill: rgb(0, 0, 0);"></path>
   </g>
@@ -16,6 +16,6 @@
    <path d="M557,266L557,257L555,249L553,240L551,232L547,223L543,215L538,208L532,200L526,193L519,186L511,180L503,174L494,169L485,164L475,160L465,156L455,153L445,150L434,149L423,147L412,147L401,147L390,147L379,149L369,150L358,153L348,156L338,160L328,164L319,169L310,174L302,180L295,186L288,193L281,200L275,208L270,215L266,223L263,232L260,240L258,249L257,257L256,266L257,275L258,284L260,292L263,301L266,309L270,317L275,325L281,332L288,339L295,346L302,352L310,358L319,363L328,368L338,372L348,376L358,379L369,382L379,384L390,385L401,386L412,386L423,385L434,384L445,382L455,379L465,376L475,372L485,368L494,363L503,358L511,352L519,346L526,339L532,332L538,325L543,317L547,309L551,301L553,292L555,284L557,275Z" style="fill: rgba(89, 84, 216, 0.57);"></path>
    <path d="M557,266L557,257L555,249L553,240L551,232L547,223L543,215L538,208L532,200L526,193L519,186L511,180L503,174L494,169L485,164L475,160L465,156L455,153L445,150L434,149L423,147L412,147L401,147L390,147L379,149L369,150L358,153L348,156L338,160L328,164L319,169L310,174L302,180L295,186L288,193L281,200L275,208L270,215L266,223L263,232L260,240L258,249L257,257L256,266L257,275L258,284L260,292L263,301L266,309L270,317L275,325L281,332L288,339L295,346L302,352L310,358L319,363L328,368L338,372L348,376L358,379L369,382L379,384L390,385L401,386L412,386L423,385L434,384L445,382L455,379L465,376L475,372L485,368L494,363L503,358L511,352L519,346L526,339L532,332L538,325L543,317L547,309L551,301L553,292L555,284L557,275L557,266" style="stroke: rgba(89, 211, 84, 0.46); stroke-width: 3; fill: none;"></path>
   </g>
-  <g font-family="Arial" font-size="90" xml:space="preserve" font-weight="bold"><text fill="rgba(89, 84, 216, 0.47)" text-anchor="start" transform="translate(167,602) rotate(-26)">This text is transparent</text></g>
+  <g font-family="Arial" font-size="100" xml:space="preserve" font-weight="bold"><text fill="rgba(89, 84, 216, 0.47)" text-anchor="start" transform="translate(167,602) rotate(-26)">This text is transparent</text></g>
  </g>
 </svg>

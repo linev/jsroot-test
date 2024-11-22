@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="496" height="572" viewBox="0 0 496 572" preserveAspectRatio="none">
  <path d="M0,0H496V572H0Z" style="fill: white;"></path>
  <g>
-  <g font-family="Arial" font-size="18" xml:space="preserve" font-weight="bold"><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(50,114)">1)   C(x) = d #sqrt{#frac{2}{#lambda D}}  #int^{x}_{0}cos(#frac{#pi}{2}t^{2})dt</text></g>
-  <g font-family="Arial" font-size="18" xml:space="preserve" font-weight="bold"><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(50,229)">2)   C(x) = d #sqrt{#frac{2}{#lambda D}}  #int^{x}cos(#frac{#pi}{2}t^{2})dt</text></g>
-  <g font-family="Arial" font-size="18" xml:space="preserve" font-weight="bold"><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(50,343)">3)   R = |A|^{2} = #frac{1}{2}(#left[#frac{1}{2}+C(V)#right]^{2}+#left[#frac{1}{2}+S(V)#right]^{2})</text></g>
-  <g font-family="Arial" font-size="18" xml:space="preserve" font-weight="bold"><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(50,458)">4)   F(t) = #sum_{i=-#infty}^{#infty}A(i)cos#left[#frac{i}{t+i}#right]</text></g>
+  <g font-family="Arial" font-size="20" xml:space="preserve" font-weight="bold"><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(50,114)">1)   C(x) = d #sqrt{#frac{2}{#lambda D}}  #int^{x}_{0}cos(#frac{#pi}{2}t^{2})dt</text></g>
+  <g font-family="Arial" font-size="20" xml:space="preserve" font-weight="bold"><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(50,229)">2)   C(x) = d #sqrt{#frac{2}{#lambda D}}  #int^{x}cos(#frac{#pi}{2}t^{2})dt</text></g>
+  <g font-family="Arial" font-size="20" xml:space="preserve" font-weight="bold"><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(50,343)">3)   R = |A|^{2} = #frac{1}{2}(#left[#frac{1}{2}+C(V)#right]^{2}+#left[#frac{1}{2}+S(V)#right]^{2})</text></g>
+  <g font-family="Arial" font-size="20" xml:space="preserve" font-weight="bold"><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(50,458)">4)   F(t) = #sum_{i=-#infty}^{#infty}A(i)cos#left[#frac{i}{t+i}#right]</text></g>
  </g>
 </svg>
