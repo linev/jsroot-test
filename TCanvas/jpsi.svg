@@ -11,6 +11,8 @@
  <g>
   <g transform="translate(69,44)">
    <path d="M0,0H554V355H0Z" style="fill: rgb(242, 242, 242); stroke: black; stroke-width: 1;"></path>
+   <path d="M0,0h554l-1,1h-552v353l-1,1z" style="fill: rgb(255, 255, 255);"></path>
+   <path d="M554,355v-355l-1,1v353h-552l-1,1z" style="fill: rgb(202, 202, 202);"></path>
    <svg x="0" y="0" overflow="hidden" width="554" height="355" viewBox="0 0 554 355">
     <g>
      <path d="M-12,160h12v25h12v-24h11v-9h12v20h11v-10h12v23h11v-31h12v1h11v2h12v11h11v17h12v-35h12v8h11v18h12v-11h11v-11h12v-45h11v-5h12v-9h11v-15h12v-47h11v26h12v17h11v50h12v21h12v29h11v-18h12v21h11v-19h12v-6h11v13h12v-14h11v-6h12v13h11v4h12v-7h12v-12h11v10h12v8h11v13h12v-20h11v7h12v13h11v1h12v-36h11v20h12v6h11v12h12v-15h12v-11h11L577,347H-12Z" style="stroke-linejoin: miter; stroke: blue; stroke-width: 1; fill: rgb(222, 186, 135);"></path>
