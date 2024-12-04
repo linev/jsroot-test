@@ -22,7 +22,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(342,35)" font-family="Arial" font-size="23" xml:space="preserve"><path d="M0,0H177V61H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M5,31H39" style="stroke: rgb(0, 0, 255); stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(44,31)">normal_pdf</text></g>
+    <g transform="translate(342,35)" font-family="Arial" font-size="23" xml:space="preserve"><path d="M0,0H177V61H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M5,31h37" style="stroke: rgb(0, 0, 255); stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(47,31)">normal_pdf</text></g>
    </g>
   </svg>
   <svg viewBox="0 0 586 243" preserveAspectRatio="none" x="6" y="266" width="586" height="243">
@@ -49,7 +49,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(343,70)" font-family="Arial" font-size="20" xml:space="preserve"><path d="M0,0H177V60H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M5,16H39" style="stroke: rgb(255, 0, 0); stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(44,16)">normal_cdf</text><path d="M5,44H39" style="stroke: rgb(0, 255, 0); stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(44,44)">normal_cdf_c</text></g>
+    <g transform="translate(343,70)" font-family="Arial" font-size="19" xml:space="preserve"><path d="M0,0H177V60H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M5,15h37" style="stroke: rgb(255, 0, 0); stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(47,16)">normal_cdf</text><path d="M5,44h37" style="stroke: rgb(0, 255, 0); stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(47,45)">normal_cdf_c</text></g>
    </g>
   </svg>
   <svg viewBox="0 0 586 243" preserveAspectRatio="none" x="6" y="524" width="586" height="243">
@@ -76,7 +76,7 @@
       </g>
      </g>
     </g>
-    <g transform="translate(185,29)" font-family="Arial" font-size="18" xml:space="preserve"><path d="M0,0H223V60H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M7,16H49" style="stroke: rgb(255, 0, 0); stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(56,16)">normal_quantile</text><path d="M7,44H49" style="stroke: rgb(0, 255, 0); stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(56,44)">normal_quantile_c</text></g>
+    <g transform="translate(185,29)" font-family="Arial" font-size="18" xml:space="preserve"><path d="M0,0H223V60H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><path d="M7,15h45" style="stroke: rgb(255, 0, 0); stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(59,16)">normal_quantile</text><path d="M7,44h45" style="stroke: rgb(0, 255, 0); stroke-width: 2;"></path><text fill="black" text-anchor="start" dominant-baseline="middle" transform="translate(59,45)">normal_quantile_c</text></g>
    </g>
   </svg>
  </g>
