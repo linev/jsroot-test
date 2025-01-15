@@ -31,7 +31,7 @@ settings.SmallPad.height = 40;
 settings.UseStamp = false;
 
 
-let init_style = null, init_curve = false, init_palette = 57, init_TimeZone = '',
+let init_style = null, init_curve = false, init_palette = 57, init_TimeZone = '', init_scale = 1,
     test_mode = 'verify', test_pdf = true, nmatch = 0, ndiff = 0, nnew = 0, nspecial = 0,
     keyid = 'TH1', theonlykey = false, optid = -1, printdiff = false,
     theOnlyOption, theOnlyOptionId = -100, itemid = -1,
@@ -128,6 +128,7 @@ function produceGlobalStyleCopy() {
    if (!init_style && gStyle) {
       init_style = Object.assign({}, gStyle);
       init_palette = settings.Palette;
+      init_scale = settings.CanvasScale;
       init_curve = settings.FuncAsCurve;
       init_TimeZone = settings.TimeZone;
    }
@@ -483,6 +484,7 @@ function processNextOption(reset_mathjax, skip_increment) {
       Object.assign(gStyle, init_style);
 
    settings.Palette = init_palette;
+   settings.CanvasScale = init_scale;
    settings.FuncAsCurve = init_curve;
    settings.TimeZone = entry.timezone ?? init_TimeZone;
 
