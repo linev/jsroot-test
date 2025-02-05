@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="698" height="471" viewBox="0 0 698 471" preserveAspectRatio="none">
+ <path d="M0,0H698V471H0Z" style="fill: white;"></path>
+ <g>
+  <g transform="translate(70,47)">
+   <path d="M0,0H558V377H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <svg x="0" y="0" overflow="hidden" width="558" height="377" viewBox="0 0 558 377">
+    <g>
+     <path d="M3,18h6l5,1h6l5,1l6,1l5,2l6,1l6,2l5,2l6,3l5,2l6,3l6,3l5,3l6,3l5,4l6,3l5,4l6,4l6,5l5,4l6,5l5,4l6,5l6,5l5,5l6,5l5,6l6,5l5,6l6,5l6,6l5,6l6,6l5,6l6,6l5,6l6,6l6,6l5,6l6,6l5,6l6,7l6,6l5,6l6,6l5,6l6,6l5,6l6,6l6,5l5,6l6,6l5,5l6,6l5,5l6,5l6,5l5,5l6,5l5,5l6,4l6,5l5,4l6,4l5,4l6,4l5,4l6,3l6,4l5,3l6,3l5,3l6,2l6,3l5,2l6,2l5,2l6,2l5,2l6,1l6,2l5,1l6,1h5l6,1h5l6,1h6h5h6l5,-1h6l6,-1h5l6,-1l5,-1l6,-1l5,-2" style="fill: none; stroke: red; stroke-width: 2;"></path>
+    </g>
+   </svg>
+   <g>
+    <g transform="translate(0,377)">
+     <path d="M0,0h558M0,-11V0M11,-6V0M22,-6V0M33,-6V0M45,-6V0M56,-11V0M67,-6V0M78,-6V0M89,-6V0M100,-6V0M112,-11V0M123,-6V0M134,-6V0M145,-6V0M156,-6V0M167,-11V0M179,-6V0M190,-6V0M201,-6V0M212,-6V0M223,-11V0M234,-6V0M246,-6V0M257,-6V0M268,-6V0M279,-11V0M290,-6V0M301,-6V0M312,-6V0M324,-6V0M335,-11V0M346,-6V0M357,-6V0M368,-6V0M379,-6V0M391,-11V0M402,-6V0M413,-6V0M424,-6V0M435,-6V0M446,-11V0M458,-6V0M469,-6V0M480,-6V0M491,-6V0M502,-11V0M513,-6V0M525,-6V0M536,-6V0M547,-6V0M558,-11V0" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="16" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,3)">0</text><text dy=".8em" transform="translate(56,3)">0.5</text><text dy=".8em" transform="translate(112,3)">1</text><text dy=".8em" transform="translate(167,3)">1.5</text><text dy=".8em" transform="translate(223,3)">2</text><text dy=".8em" transform="translate(279,3)">2.5</text><text dy=".8em" transform="translate(335,3)">3</text><text dy=".8em" transform="translate(391,3)">3.5</text><text dy=".8em" transform="translate(446,3)">4</text><text dy=".8em" transform="translate(502,3)">4.5</text><text dy=".8em" transform="translate(558,3)">5</text></g>
+    </g>
+    <g>
+     <path d="M0,0v377M9,369H0M17,355H0M9,341H0M9,327H0M9,313H0M17,299H0M9,285H0M9,271H0M9,257H0M17,243H0M9,229H0M9,214H0M9,200H0M17,186H0M9,172H0M9,158H0M9,144H0M17,130H0M9,116H0M9,102H0M9,88H0M17,74H0M9,60H0M9,46H0M9,32H0M17,17H0M9,3H0" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="16" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-3,355)">-0.2</text><text dominant-baseline="middle" transform="translate(-3,299)">0</text><text dominant-baseline="middle" transform="translate(-3,243)">0.2</text><text dominant-baseline="middle" transform="translate(-3,186)">0.4</text><text dominant-baseline="middle" transform="translate(-3,130)">0.6</text><text dominant-baseline="middle" transform="translate(-3,74)">0.8</text><text dominant-baseline="middle" transform="translate(-3,17)">1</text></g>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(209,2)" font-family="Arial" font-size="24" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(141,16)">sin(x)*sin(y)/(x*y) (x=0.1)</text></g>
+ </g>
+</svg>
