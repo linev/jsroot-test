@@ -11,7 +11,7 @@ const server_path = 'http://localhost:8000/jsroot/',
       jsroot_path = './../jsroot',
       examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`)),
       filepath = 'https://jsroot.gsi.de/files/',
-      // filepath = 'https://root.cern.ch/js/files/',
+      // filepath = 'https://root.cern/js/files/',
       // place for special cases
       specialCases = [
          'TCanvas/time.svg', // position of minor tick differs by one on time axis?

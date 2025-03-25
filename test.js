@@ -16,8 +16,8 @@ const jsroot_path = './..' + source_dir.slice(source_dir.lastIndexOf('/', source
       examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`)),
       filepath = 'https://jsroot.gsi.de/files/',
       jsonfilepath = 'http://jsroot.gsi.de/files/', // httpRequest has problem with GSI https
-      // filepath = 'https://root.cern.ch/js/files/',
-      // jsonfilepath = 'https://root.cern.ch/js/files/',
+      // filepath = 'https://root.cern/js/files/',
+      // jsonfilepath = 'https://root.cern/js/files/',
       // place for special cases
       specialCases = [ 'TCanvas/time.svg' ],  // position of minor tick differs by one on time axis?
       dflt_latex = settings.Latex;
