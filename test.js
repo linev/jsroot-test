@@ -16,6 +16,8 @@ const jsroot_path = './..' + source_dir.slice(source_dir.lastIndexOf('/', source
       examples_main = JSON.parse(readFileSync(`${jsroot_path}/demo/examples.json`)),
       filepath = 'https://jsroot.gsi.de/files/',
       jsonfilepath = 'http://jsroot.gsi.de/files/', // httpRequest has problem with GSI https
+      root_cern = 'https://root.cern/',
+      alt_root_cern = 'https://root-eos.web.cern.ch/',
       // filepath = 'https://root.cern/js/files/',
       // jsonfilepath = 'https://root.cern/js/files/',
       // place for special cases
@@ -29,6 +31,7 @@ const jsroot_path = './..' + source_dir.slice(source_dir.lastIndexOf('/', source
 settings.SmallPad.width = 40;
 settings.SmallPad.height = 40;
 settings.UseStamp = false;
+settings.FilesTimeout = 10000; // file operation at max 10 sec
 
 
 let init_style = null, init_curve = false, init_palette = 57, init_TimeZone = '', init_scale = 1,
@@ -419,7 +422,8 @@ function processNextOption(reset_mathjax, skip_increment) {
        filename = entry.file;
        if ((filename.indexOf('http:') < 0) &&
            (filename.indexOf('https:') < 0) &&
-           (filename.indexOf('file:') < 0)) filename = filepath + filename;
+           (filename.indexOf('file:') < 0))
+              filename = filepath + filename;
    }
    if (entry.item)
       itemname = entry.item;
