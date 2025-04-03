@@ -340,8 +340,9 @@ function processNextOption(reset_mathjax, skip_increment) {
       if (all_special.length)
          console.log('ALL SPECIAL', all_special);
       console.log('No more data to process');
+      if (internals.RemapCounter)
+         console.log('Using files REMAP: ', internals.RemapCounter);
       console.log('SUMMARY: match', nmatch, 'diff', ndiff, 'new', nnew, 'special', nspecial);
-
       // Description: If one file pair differs, the test fails
       if (ndiff > 0) {
          structuredLogger('ERROR', 'Not all files match', { diffCount: ndiff });
