@@ -463,7 +463,7 @@ function processNextOption(reset_mathjax, skip_increment) {
       url = ((entry.asurl === 'browser') ? '?' : '?nobrowser&');
       url += jsonname ? 'json=' + jsonname : 'file=' + filename + '&item=' + itemname;
       if (keyid === 'TTree') {
-         if ((opt.indexOf('>>') < 0) && (opt.indexOf('dump') < 0) && (opt.indexOf('testio') < 0))
+         if ((opt.indexOf('>>') < 0) && (opt.indexOf('dump') < 0) && (opt.indexOf('elist') < 0) && (opt.indexOf('testio') < 0))
             opt += '>>dump;num:10';
       }
       url += '&opt=' + opt + opt2;
