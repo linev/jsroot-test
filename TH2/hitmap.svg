@@ -5,15 +5,15 @@
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
-     <path fill="rgb(16, 100, 220)" d="M640,256h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53z"></path>
-     <path fill="rgb(46, 183, 164)" d="M107,128h53v256h-53zM427,512h53v128h-53zm53,0h53v128h-53zm53,0h54v128h-54zm54,0h53v128h-53zm53,0h53v128h-53zm53,0h54v128h-54z"></path>
-     <path fill="rgb(82, 186, 146)" d="M800,256h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53z"></path>
-     <path fill="rgb(116, 189, 129)" d="M0,0h53v128h-53zM53,0h54v128h-54zm54,0h53v128h-53zm53,512h53v128h-53zm53,0h54v128h-54z"></path>
-     <path fill="rgb(149, 190, 113)" d="M480,256h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53z"></path>
-     <path fill="rgb(179, 189, 101)" d="M747,512h53v128h-53zm53,0h53v128h-53zm53,0h54v128h-54zm54,0h53v128h-53z"></path>
-     <path fill="rgb(209, 187, 89)" d="M160,0h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53zm53,0h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53zm53,0h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53zm53,0h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53zm53,0h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53z"></path>
-     <path fill="rgb(253, 210, 43)" d="M267,512h53v128h-53zM320,256h53v384h-53zm53,0h54v384h-54zm54,0h53v256h-53z"></path>
-     <path fill="rgb(249, 249, 15)" d="M160,256h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53z"></path>
+     <path d="M640,256h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53z" fill="rgb(16, 100, 220)"></path>
+     <path d="M107,128h53v256h-53zM427,512h53v128h-53zm53,0h53v128h-53zm53,0h54v128h-54zm54,0h53v128h-53zm53,0h53v128h-53zm53,0h54v128h-54z" fill="rgb(46, 183, 164)"></path>
+     <path d="M800,256h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53z" fill="rgb(82, 186, 146)"></path>
+     <path d="M0,0h53v128h-53zM53,0h54v128h-54zm54,0h53v128h-53zm53,512h53v128h-53zm53,0h54v128h-54z" fill="rgb(116, 189, 129)"></path>
+     <path d="M480,256h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53z" fill="rgb(149, 190, 113)"></path>
+     <path d="M747,512h53v128h-53zm53,0h53v128h-53zm53,0h54v128h-54zm54,0h53v128h-53z" fill="rgb(179, 189, 101)"></path>
+     <path d="M160,0h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53zm53,0h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53zm53,0h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53zm53,0h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53zm53,0h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53z" fill="rgb(209, 187, 89)"></path>
+     <path d="M267,512h53v128h-53zM320,256h53v384h-53zm53,0h54v384h-54zm54,0h53v256h-53z" fill="rgb(253, 210, 43)"></path>
+     <path d="M160,256h53v256h-53zm53,0h54v256h-54zm54,0h53v256h-53z" fill="rgb(249, 249, 15)"></path>
     </g>
    </svg>
    <g>

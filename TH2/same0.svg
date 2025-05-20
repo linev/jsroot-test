@@ -11,7 +11,7 @@
        <path d="M134,259v37h27v-37zM134,222v37h27v-37zM160,259v37h27v-37zM160,222v37h27v-37z" style="fill: none; stroke: rgb(0, 0, 154); stroke-width: 1;"></path>
       </g>
       <g>
-       <path fill="rgb(249, 249, 15)" d="M134,222h26v37h-26zm26,0h27v37h-27z"></path>
+       <path d="M134,222h26v37h-26zm26,0h27v37h-27z" fill="rgb(249, 249, 15)"></path>
        <g font-family="Arial" font-size="20" xml:space="preserve" fill="black" text-anchor="middle"><text dominant-baseline="middle" transform="translate(148,241)">1</text><text dominant-baseline="middle" transform="translate(174,241)">4</text></g>
       </g>
      </svg>
@@ -66,8 +66,8 @@
        <path d="M134,259v37h27v-37zM134,222v37h27v-37zM160,259v37h27v-37zM160,222v37h27v-37z" style="fill: none; stroke: rgb(0, 0, 154); stroke-width: 1;"></path>
       </g>
       <g>
-       <path fill="rgb(14, 143, 209)" d="M134,222h26v37h-26z"></path>
-       <path fill="rgb(249, 249, 15)" d="M160,222h27v37h-27z"></path>
+       <path d="M134,222h26v37h-26z" fill="rgb(14, 143, 209)"></path>
+       <path d="M160,222h27v37h-27z" fill="rgb(249, 249, 15)"></path>
        <g font-family="Arial" font-size="20" xml:space="preserve" fill="black" text-anchor="middle"><text dominant-baseline="middle" transform="translate(148,241)">1</text><text dominant-baseline="middle" transform="translate(174,241)">4</text></g>
       </g>
      </svg>

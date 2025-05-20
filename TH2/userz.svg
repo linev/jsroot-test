@@ -5,11 +5,11 @@
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
-     <path fill="rgb(46, 183, 164)" d="M240,160h240v160h-240zM480,320h240v160h-240z"></path>
-     <path fill="rgb(82, 186, 146)" d="M0,320h240v160h-240zM240,0h240v160h-240zm0,480h240v160h-240zM720,320h240v160h-240z"></path>
-     <path fill="rgb(253, 210, 43)" d="M0,160h240v160h-240zM480,480h240v160h-240z"></path>
-     <path fill="rgb(251, 230, 29)" d="M480,0h240v160h-240zM720,160h240v160h-240z"></path>
-     <path fill="rgb(249, 249, 15)" d="M0,0h240v160h-240zM0,480h240v160h-240zM240,320h240v160h-240zM480,160h240v160h-240zM720,0h240v160h-240zm0,480h240v160h-240z"></path>
+     <path d="M240,160h240v160h-240zM480,320h240v160h-240z" fill="rgb(46, 183, 164)"></path>
+     <path d="M0,320h240v160h-240zM240,0h240v160h-240zm0,480h240v160h-240zM720,320h240v160h-240z" fill="rgb(82, 186, 146)"></path>
+     <path d="M0,160h240v160h-240zM480,480h240v160h-240z" fill="rgb(253, 210, 43)"></path>
+     <path d="M480,0h240v160h-240zM720,160h240v160h-240z" fill="rgb(251, 230, 29)"></path>
+     <path d="M0,0h240v160h-240zM0,480h240v160h-240zM240,320h240v160h-240zM480,160h240v160h-240zM720,0h240v160h-240zm0,480h240v160h-240z" fill="rgb(249, 249, 15)"></path>
     </g>
    </svg>
    <g>
