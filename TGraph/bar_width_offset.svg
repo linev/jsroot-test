@@ -1,4 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+ <defs>
+  <pattern id="pat_3144_924_hn120" patternUnits="userSpaceOnUse" width="36" height="36">
+   <path d="M0,31L5,36M0,26L10,36M0,21L15,36M0,15L21,36M0,10L26,36M0,5L31,36M0,0L36,36M5,0L36,31M10,0L36,26M15,0L36,21M21,0L36,15M26,0L36,10M31,0L36,5M36,31L31,36M36,26L26,36M36,21L21,36M36,15L15,36M36,10L10,36M36,5L5,36M36,0L0,36M31,0L0,31M26,0L0,26M21,0L0,21M15,0L0,15M10,0L0,10M5,0L0,5" style="stroke: rgb(247, 34, 17); stroke-width: 1;"></path>
+  </pattern>
+ </defs>
  <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
  <g>
   <g transform="translate(120,80)">
@@ -6,64 +11,64 @@
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
      <g transform="translate(0,587)">
-      <path d="M11,0h22v132h-22z" style="fill: rgb(247, 34, 17);"></path>
+      <path d="M11,0h22v132h-22z" style="fill: url(#pat_3144_924_hn120);"></path>
      </g>
      <g transform="translate(46,522)">
-      <path d="M11,0h22v197h-22z" style="fill: rgb(247, 34, 17);"></path>
+      <path d="M11,0h22v197h-22z" style="fill: url(#pat_3144_924_hn120);"></path>
      </g>
      <g transform="translate(92,460)">
-      <path d="M11,0h22v259h-22z" style="fill: rgb(247, 34, 17);"></path>
+      <path d="M11,0h22v259h-22z" style="fill: url(#pat_3144_924_hn120);"></path>
      </g>
      <g transform="translate(138,400)">
-      <path d="M11,0h22v319h-22z" style="fill: rgb(247, 34, 17);"></path>
+      <path d="M11,0h22v319h-22z" style="fill: url(#pat_3144_924_hn120);"></path>
      </g>
      <g transform="translate(184,343)">
-      <path d="M11,0h22v376h-22z" style="fill: rgb(247, 34, 17);"></path>
+      <path d="M11,0h22v376h-22z" style="fill: url(#pat_3144_924_hn120);"></path>
      </g>
      <g transform="translate(230,290)">
-      <path d="M11,0h22v429h-22z" style="fill: rgb(247, 34, 17);"></path>
+      <path d="M11,0h22v429h-22z" style="fill: url(#pat_3144_924_hn120);"></path>
      </g>
      <g transform="translate(276,241)">
-      <path d="M11,0h22v478h-22z" style="fill: rgb(247, 34, 17);"></path>
+      <path d="M11,0h22v478h-22z" style="fill: url(#pat_3144_924_hn120);"></path>
      </g>
      <g transform="translate(322,197)">
-      <path d="M11,0h22v522h-22z" style="fill: rgb(247, 34, 17);"></path>
+      <path d="M11,0h22v522h-22z" style="fill: url(#pat_3144_924_hn120);"></path>
      </g>
      <g transform="translate(367,159)">
-      <path d="M11,0h22v560h-22z" style="fill: rgb(247, 34, 17);"></path>
+      <path d="M11,0h22v560h-22z" style="fill: url(#pat_3144_924_hn120);"></path>
      </g>
      <g transform="translate(413,125)">
-      <path d="M11,0h22v594h-22z" style="fill: rgb(247, 34, 17);"></path>
+      <path d="M11,0h22v594h-22z" style="fill: url(#pat_3144_924_hn120);"></path>
      </g>
      <g transform="translate(459,98)">
-      <path d="M11,0h22v621h-22z" style="fill: rgb(247, 34, 17);"></path>
+      <path d="M11,0h22v621h-22z" style="fill: url(#pat_3144_924_hn120);"></path>
      </g>
      <g transform="translate(505,77)">
-      <path d="M11,0h22v642h-22z" style="fill: rgb(247, 34, 17);"></path>
+      <path d="M11,0h22v642h-22z" style="fill: url(#pat_3144_924_hn120);"></path>
      </g>
      <g transform="translate(551,63)">
-      <path d="M11,0h22v656h-22z" style="fill: rgb(247, 34, 17);"></path>
+      <path d="M11,0h22v656h-22z" style="fill: url(#pat_3144_924_hn120);"></path>
      </g>
      <g transform="translate(597,55)">
-      <path d="M11,0h22v664h-22z" style="fill: rgb(247, 34, 17);"></path>
+      <path d="M11,0h22v664h-22z" style="fill: url(#pat_3144_924_hn120);"></path>
      </g>
      <g transform="translate(643,53)">
-      <path d="M11,0h22v666h-22z" style="fill: rgb(247, 34, 17);"></path>
+      <path d="M11,0h22v666h-22z" style="fill: url(#pat_3144_924_hn120);"></path>
      </g>
      <g transform="translate(689,59)">
-      <path d="M11,0h22v660h-22z" style="fill: rgb(247, 34, 17);"></path>
+      <path d="M11,0h22v660h-22z" style="fill: url(#pat_3144_924_hn120);"></path>
      </g>
      <g transform="translate(735,70)">
-      <path d="M11,0h22v649h-22z" style="fill: rgb(247, 34, 17);"></path>
+      <path d="M11,0h22v649h-22z" style="fill: url(#pat_3144_924_hn120);"></path>
      </g>
      <g transform="translate(781,89)">
-      <path d="M11,0h22v630h-22z" style="fill: rgb(247, 34, 17);"></path>
+      <path d="M11,0h22v630h-22z" style="fill: url(#pat_3144_924_hn120);"></path>
      </g>
      <g transform="translate(827,113)">
-      <path d="M11,0h22v606h-22z" style="fill: rgb(247, 34, 17);"></path>
+      <path d="M11,0h22v606h-22z" style="fill: url(#pat_3144_924_hn120);"></path>
      </g>
      <g transform="translate(873,144)">
-      <path d="M11,0h22v575h-22z" style="fill: rgb(247, 34, 17);"></path>
+      <path d="M11,0h22v575h-22z" style="fill: url(#pat_3144_924_hn120);"></path>
      </g>
     </g>
    </svg>
