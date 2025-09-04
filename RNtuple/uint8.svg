@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
+ <g>
+  <g transform="translate(120,80)">
+   <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
+    <g>
+     <path d="M0,640h15v-152h14v152h15v-457h14v152h15v305h14v-457h15v305h14v-153h29v-305h15v305h15v305h14v-305h15v305h14v-152h29v-153h15v153h14v-305h15v152h14v305h15v-610h15v305h14v305h15v-305h14v305h15v-457h14v152h15v-152h14v-153h15v458h14v-458h30v458h14v-305h15v152h14v305h29v-152h58v152h15v-305h29v153h15v152h14v-152h15v-153h14v153h15v152h14v-457h15v305h14v152h15v-457h29v457h44v-457h14v305h29v-153h15v-152h14v457h15" style="stroke-linejoin: miter; stroke: rgb(0, 0, 154); stroke-width: 1; fill: none;"></path>
+    </g>
+   </svg>
+   <g>
+    <g transform="translate(0,640)">
+     <path d="M0,0h960M0,-10V0M29,-19V0M58,-10V0M87,-10V0M116,-10V0M145,-10V0M175,-19V0M204,-10V0M233,-10V0M262,-10V0M291,-10V0M320,-19V0M349,-10V0M378,-10V0M407,-10V0M436,-10V0M465,-19V0M495,-10V0M524,-10V0M553,-10V0M582,-10V0M611,-19V0M640,-10V0M669,-10V0M698,-10V0M727,-10V0M756,-19V0M785,-10V0M815,-10V0M844,-10V0M873,-10V0M902,-19V0M931,-10V0M960,-10V0" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(29,5)">20</text><text dy=".8em" transform="translate(175,5)">30</text><text dy=".8em" transform="translate(320,5)">40</text><text dy=".8em" transform="translate(465,5)">50</text><text dy=".8em" transform="translate(611,5)">60</text><text dy=".8em" transform="translate(756,5)">70</text><text dy=".8em" transform="translate(902,5)">80</text></g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" transform="translate(960,45)"><text fill="black" text-anchor="end" dominant-baseline="middle">age</text></g>
+    </g>
+    <g>
+     <path d="M0,0v640M29,640H0M15,625H0M15,610H0M15,594H0M15,579H0M29,564H0M15,549H0M15,533H0M15,518H0M15,503H0M29,488H0M15,472H0M15,457H0M15,442H0M15,427H0M29,411H0M15,396H0M15,381H0M15,366H0M15,350H0M29,335H0M15,320H0M15,305H0M15,290H0M15,274H0M29,259H0M15,244H0M15,229H0M15,213H0M15,198H0M29,183H0M15,168H0M15,152H0M15,137H0M15,122H0M29,107H0M15,91H0M15,76H0M15,61H0M15,46H0M29,30H0M15,15H0M15,0H0" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-6,640)">0</text><text dominant-baseline="middle" transform="translate(-6,564)">0.5</text><text dominant-baseline="middle" transform="translate(-6,488)">1</text><text dominant-baseline="middle" transform="translate(-6,411)">1.5</text><text dominant-baseline="middle" transform="translate(-6,335)">2</text><text dominant-baseline="middle" transform="translate(-6,259)">2.5</text><text dominant-baseline="middle" transform="translate(-6,183)">3</text><text dominant-baseline="middle" transform="translate(-6,107)">3.5</text><text dominant-baseline="middle" transform="translate(-6,30)">4</text></g>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(936,52)" font-family="Arial" font-size="27" xml:space="preserve" fill="black"><path d="M0,0H240V160H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="start" dominant-baseline="middle" transform="translate(12,16)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,16)">100</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,48)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,48)">49.2</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,80)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,80)">18.05</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,112)">Underflow</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,112)">0</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,144)">Overflow</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,144)">0</text></g>
+  <g transform="translate(471,4)" font-family="Arial" font-size="40" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(129,26)">drawing 'age'</text></g>
+ </g>
+</svg>
