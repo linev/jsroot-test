@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" width="1200" height="800">
+ <path d="M0,0H1200V800H0Z" style="fill: white;"></path>
+ <g>
+  <g transform="translate(120,80)">
+   <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
+   <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
+    <g>
+     <path d="M0,593h19v1h19v-3h20v6h19v-4h19v-1h19v4h39v-1h19v-6h19v5h19v-8h19v-80h20v9h19v3h19v-15h19v1h19v7h20v-61h19v-15h19v-5h19v-78h19v-30h20v-103h19v-189h19v227h19v89h19v53h20v32h19v-13h19v53h19v41h19v-5h20v5h19v1h19v2h19v22h19v55h20v5h19v-3h19v-1h19v-2h19v3h39v-9h19v11h19v-1h19v-1h20v-6h19v47h19" style="stroke-linejoin: miter; stroke: rgb(0, 0, 154); stroke-width: 1; fill: none;"></path>
+    </g>
+   </svg>
+   <g>
+    <g transform="translate(0,640)">
+     <path d="M0,0h960M4,-10V0M29,-10V0M53,-10V0M77,-19V0M102,-10V0M126,-10V0M150,-10V0M175,-19V0M199,-10V0M223,-10V0M248,-10V0M272,-19V0M297,-10V0M321,-10V0M345,-10V0M370,-19V0M394,-10V0M418,-10V0M443,-10V0M467,-19V0M491,-10V0M516,-10V0M540,-10V0M564,-19V0M589,-10V0M613,-10V0M638,-10V0M662,-19V0M686,-10V0M711,-10V0M735,-10V0M759,-19V0M784,-10V0M808,-10V0M832,-10V0M857,-19V0M881,-10V0M905,-10V0M930,-10V0M954,-19V0" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" xml:space="preserve"><text fill="black" text-anchor="middle" dy=".8em" transform="translate(77,5)">-0.8</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(175,5)">-0.6</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(272,5)">-0.4</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(370,5)">-0.2</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(467,5)">0</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(564,5)">0.2</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(662,5)">0.4</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(759,5)">0.6</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(857,5)">0.8</text><text fill="black" text-anchor="middle" dy=".8em" transform="translate(954,5)">1</text><g transform="translate(965,-10)"><text fill="black" font-size="28">×10</text><text fill="black" font-size="17" transform="translate(47,-15)">-3</text></g></g>
+     <g font-family="Arial" font-size="28" xml:space="preserve" transform="translate(960,45)"><text fill="black" text-anchor="end" dominant-baseline="middle">2*d.fD64-d.fI20-d.fR10</text></g>
+    </g>
+    <g>
+     <path d="M0,0v640M29,640H0M15,624H0M15,608H0M15,592H0M15,576H0M29,559H0M15,543H0M15,527H0M15,511H0M15,495H0M29,479H0M15,463H0M15,447H0M15,430H0M15,414H0M29,398H0M15,382H0M15,366H0M15,350H0M15,334H0M29,318H0M15,302H0M15,285H0M15,269H0M15,253H0M29,237H0M15,221H0M15,205H0M15,189H0M15,173H0M29,157H0M15,140H0M15,124H0M15,108H0M15,92H0M29,76H0M15,60H0M15,44H0M15,28H0M15,11H0" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="end"><text dominant-baseline="middle" transform="translate(-6,640)">0</text><text dominant-baseline="middle" transform="translate(-6,559)">500</text><text dominant-baseline="middle" transform="translate(-6,479)">1000</text><text dominant-baseline="middle" transform="translate(-6,398)">1500</text><text dominant-baseline="middle" transform="translate(-6,318)">2000</text><text dominant-baseline="middle" transform="translate(-6,237)">2500</text><text dominant-baseline="middle" transform="translate(-6,157)">3000</text><text dominant-baseline="middle" transform="translate(-6,76)">3500</text></g>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(936,52)" font-family="Arial" font-size="27" xml:space="preserve" fill="black"><path d="M0,0H240V160H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path><text text-anchor="start" dominant-baseline="middle" transform="translate(12,16)">Entries</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,16)">40000</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,48)">Mean</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,48)">1.1324e-6</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,80)">Std Dev</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,80)">0.0003788</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,112)">Underflow</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,112)">122</text><text text-anchor="start" dominant-baseline="middle" transform="translate(12,144)">Overflow</text><text text-anchor="end" dominant-baseline="middle" transform="translate(228,144)">0</text></g>
+  <g transform="translate(224,4)" font-family="Arial" font-size="39" xml:space="preserve"><text fill="black" text-anchor="middle" dominant-baseline="middle" transform="translate(376,26)">drawing '2*d.fD64-d.fI20-d.fR10' from tree</text></g>
+ </g>
+</svg>
