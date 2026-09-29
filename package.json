@@ -1,6 +1,6 @@
 {
   "name": "jsroot-test",
-  "version": "7.7.99",
+  "version": "7.11.2",
   "engines": {
     "node": ">=0.18"
   },
@@ -16,6 +16,6 @@
   "dependencies": {
     "jsroot": "file:../jsroot",
     "puppeteer": "^23.1.1",
-    "xml-formatter": "^2.6.0"
+    "xml-formatter": "^3.7.0"
   }
 }
