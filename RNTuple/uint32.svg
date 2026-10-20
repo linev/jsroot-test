@@ -5,13 +5,13 @@
    <path d="M0,0H960V640H0Z" style="fill: white; stroke: black; stroke-width: 1;"></path>
    <svg x="0" y="0" overflow="hidden" width="960" height="640" viewBox="0 0 960 640">
     <g>
-     <path d="M0,30h950v610h10" style="stroke-linejoin: miter; stroke: rgb(0, 0, 154); stroke-width: 1; fill: none;"></path>
+     <path d="M0,640h9v-610h942v610h9" style="stroke-linejoin: miter; stroke: rgb(0, 0, 154); stroke-width: 1; fill: none;"></path>
     </g>
    </svg>
    <g>
     <g transform="translate(0,640)">
-     <path d="M0,0h960M0,-19V0M19,-10V0M38,-10V0M57,-10V0M76,-10V0M95,-19V0M114,-10V0M133,-10V0M152,-10V0M171,-10V0M190,-19V0M209,-10V0M228,-10V0M247,-10V0M266,-10V0M285,-19V0M304,-10V0M323,-10V0M342,-10V0M361,-10V0M380,-19V0M399,-10V0M418,-10V0M437,-10V0M456,-10V0M475,-19V0M494,-10V0M513,-10V0M532,-10V0M551,-10V0M570,-19V0M589,-10V0M608,-10V0M627,-10V0M646,-10V0M665,-19V0M684,-10V0M703,-10V0M722,-10V0M741,-10V0M760,-19V0M779,-10V0M798,-10V0M817,-10V0M836,-10V0M855,-19V0M874,-10V0M893,-10V0M912,-10V0M931,-10V0M950,-19V0" style="stroke: black; stroke-width: 1;"></path>
-     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(0,5)">1000</text><text dy=".8em" transform="translate(95,5)">1010</text><text dy=".8em" transform="translate(190,5)">1020</text><text dy=".8em" transform="translate(285,5)">1030</text><text dy=".8em" transform="translate(380,5)">1040</text><text dy=".8em" transform="translate(475,5)">1050</text><text dy=".8em" transform="translate(570,5)">1060</text><text dy=".8em" transform="translate(665,5)">1070</text><text dy=".8em" transform="translate(760,5)">1080</text><text dy=".8em" transform="translate(855,5)">1090</text><text dy=".8em" transform="translate(950,5)">1100</text></g>
+     <path d="M0,0h960M9,-19V0M56,-10V0M104,-10V0M151,-10V0M198,-19V0M245,-10V0M292,-10V0M339,-10V0M386,-19V0M433,-10V0M480,-10V0M527,-10V0M574,-19V0M621,-10V0M668,-10V0M715,-10V0M762,-19V0M809,-10V0M856,-10V0M904,-10V0M951,-19V0" style="stroke: black; stroke-width: 1;"></path>
+     <g font-family="Arial" font-size="28" xml:space="preserve" fill="black" text-anchor="middle"><text dy=".8em" transform="translate(9,5)">1000</text><text dy=".8em" transform="translate(198,5)">1020</text><text dy=".8em" transform="translate(386,5)">1040</text><text dy=".8em" transform="translate(574,5)">1060</text><text dy=".8em" transform="translate(762,5)">1080</text><text dy=".8em" transform="translate(951,5)">1100</text></g>
      <g font-family="Arial" font-size="28" xml:space="preserve" transform="translate(960,45)"><text fill="black" text-anchor="end" dominant-baseline="middle">customerId</text></g>
     </g>
     <g>
