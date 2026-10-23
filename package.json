@@ -14,7 +14,7 @@
     "url": "https://github.com/linev/jsroot-test.git"
   },
   "dependencies": {
-    "jsroot": "file:../old_jsroot",
+    "jsroot": "file:../jsroot",
     "xml-formatter": "^3.7.0"
   }
 }
