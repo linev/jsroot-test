@@ -21,7 +21,7 @@ const jsroot_path = './..' + source_dir.slice(source_dir.lastIndexOf('/', source
       // filepath = 'https://root.cern/js/files/',
       // jsonfilepath = 'https://root.cern/js/files/',
       // place for special cases
-      specialCases = [ 'TCanvas/time.svg' ];   // position of minor tick differs by one on time axis?
+      specialCases = [ 'TCanvas/time.svg' ],   // position of minor tick differs by one on time axis?
       dflt_latex = settings.Latex;
 
 // uncomment to be able use https with jsroot.gsi.de server
