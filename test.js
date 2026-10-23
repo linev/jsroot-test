@@ -21,8 +21,8 @@ const jsroot_path = './..' + source_dir.slice(source_dir.lastIndexOf('/', source
       // filepath = 'https://root.cern/js/files/',
       // jsonfilepath = 'https://root.cern/js/files/',
       // place for special cases
-      specialCases = [ 'TCanvas/time.svg',
-                       'THStack/pfc.svg' ],  // position of minor tick differs by one on time axis?
+      specialCases = [ 'TCanvas/time.svg',   // position of minor tick differs by one on time axis?
+                       'THStack/pfc.svg' ],  // auto colors differs on some test platforms
       dflt_latex = settings.Latex;
 
 // uncomment to be able use https with jsroot.gsi.de server
@@ -225,7 +225,7 @@ function produceFile(content, extension, subid) {
      }
 
       if (!match)
-        result = ispng || specialCases.includes(svgname) || entry.r3d ? 'SPECIAL' : 'DIFF';
+        result = (ispng || (specialCases.indexOf(svgname) >= 0) || entry.r3d) ? 'SPECIAL' : 'DIFF';
 
    } catch (e) {
      svg0 = null;
