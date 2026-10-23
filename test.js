@@ -225,7 +225,7 @@ function produceFile(content, extension, subid) {
      }
 
       if (!match)
-        result = (ispng || (specialCases.indexOf(svgname) >= 0) || entry.r3d) ? 'SPECIAL' : 'DIFF';
+        result = (ispng || specialCases.includes(svgname) || entry.r3d) ? 'SPECIAL' : 'DIFF';
 
    } catch (e) {
      svg0 = null;

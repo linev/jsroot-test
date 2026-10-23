@@ -14,8 +14,7 @@
     "url": "https://github.com/linev/jsroot-test.git"
   },
   "dependencies": {
-    "jsroot": "file:../jsroot",
-    "puppeteer": "^25.12.0",
+    "jsroot": "file:../old_jsroot",
     "xml-formatter": "^3.7.0"
   }
 }
